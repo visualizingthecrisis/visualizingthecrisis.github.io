@@ -1,0 +1,131 @@
+@font-face {
+  font-family: font-name;
+  src: url("../font/font.otf") format("opentype");
+}
+
+body{
+  margin: 0px;
+  background-color: black;
+  color:black;
+  font-style:
+  overflow: hidden;
+}
+
+#container{
+  font-family: 'Poppins-Medium', Helvetica, serif;
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width:512px;
+  margin-left:0px;
+  margin-top:0px;
+  overflow: hidden;
+}
+
+.main-title{
+  font-size: 70px;
+  line-height: 0.75;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/***********SECTION*************/
+.section{
+  padding-top:10px;
+  padding-bottom: 10px;
+  line-height: 1;
+}
+
+.section-title{
+  font-size: 30px;
+  margin-bottom: 10px;
+  margin-top: 30px;
+  font-weight: bold;
+  display: block;
+}
+
+.section-subtitle{
+  font-size: 18px;
+  line-height: 1;
+  display: block;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.section-body{
+  font-size: 14px;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+
+.section-graph{
+  font-size: 8px;
+  font-family: Courier, Helvetica, serif !important;
+  padding-left:10px;
+  padding-right:10px;
+  width:450px;
+}
+
+.section-keywords{
+  font-size: 12px;
+  font-family: Courier, Helvetica, serif !important;
+}
+
+/*********GRAPH**************/
+
+.section-graph-title{
+  font-size: 20px;
+  margin-bottom: 10px;
+  margin-top: 22px;
+  font-weight: bold;
+  display: block;
+}
+
+.section-graph-subtitle{
+  font-size: 16px;
+  line-height: 1;
+  display: block;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.section-graph-abstract{
+  font-size: 14px;
+  line-height: 1;
+  display: block;
+  margin-bottom: 20px;
+}
+
+
+.rotated{
+  -ms-transform: rotate(90deg); /* IE 9 */
+  -webkit-transform: rotate(90deg); /* Safari */
+  transform: rotate(90deg);
+}
+
+svg{
+  overflow: visible !important;
+}
+
+#editor {
+    position: absolute;
+    top: 0px;
+    right: 0;
+    bottom: 0;
+    left: 512px;
+}
+
+button{
+  position: absolute;
+  bottom: 0;
+  top:10px;
+  right:10px;
+  height: 30px;
+  background-color: white;
+  color:black;
+  font-size: 15px;
+  padding-left:20px;
+  padding-right:20px;
+  border:2px solid #000000;
+  z-index: 100;
+}
