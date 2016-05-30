@@ -1,0 +1,503 @@
+<bulletins group="techbubble">
+  <title>Bursting Unicorns</title>
+  <authors>
+    <author>Elisa Bianchi</author>
+    <author>Francesca Luzi</author>
+    <author>Federico Rita</author>
+  </authors>
+  <bulletin id="3" date="20160317">
+    <sections>
+      <section>
+        <title>Rank of valuation</title>
+        <abstract>Wework enters in the top ten of private companies valued at $1 B or more
+          and Pinterest exits from it. There aren't new unicorns.</abstract>
+          <chapter>
+            <paragraph>
+              <list type="ordered">
+                <item>Uber</item>
+                <item>Xiaomi</item>
+                <item>Airbnb</item>
+                <item>Palantir</item>
+                <item>Dianping</item>
+                <item>Snapchat</item>
+                <item>Wework</item>
+                <item>Flipkart</item>
+                <item>Didi Kuaidi</item>
+                <item>SpaceX</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Start-ups"/>
+            <keyword area="North America"/>
+            <keyword name="Central and Eastern Asia"/>
+            <keyword name="Transportation"/>
+            <keyword name="Tech"/>
+            <keyword name="Commerce"/>
+            <keyword name="Tourism"/>
+            <keyword name="Investments"/>
+            <keyword name="Employment"/>
+          </keywords>
+          <sources>
+            <source>equityzen.com</source>
+            <source>investing.com</source>
+            <source>fortune.com</source>
+            <source>wsj.com</source>
+            <source>cbinsights</source>
+          </sources>
+        </section>
+        <section>
+          <title>The congested market of delivery start-ups</title>
+          <chapter>
+            <paragraph>In the same day, March 15th 2016, two startups that operate in Food Delivery
+              and Ride Sharing sectors, had completely opposite outcome. SpoonRocket announced its
+              bankruptcy, (because it was squeezed out by competitors) in the morning of the same day
+              in which Uber launched Uber Eats, its food delivery service.</paragraph>
+              <paragraph>The market of Tech startups specializing in food and grocery delivery is overcrowded.
+                Some of these, like Sidecar or the indian startup Ola, are also
+                specialized in ride sharing, but their recent bankruptcy prove the hard competition with
+                bigger companies like Uber. Indeed these companies’ intent is to create a monopoly in the
+                taxi business so they can then hop over into something else like logistics or delivery.</paragraph>
+              </chapter>
+              <table>
+                <row type="head">
+                  <cell>name</cell>
+                  <cell>Food delivery</cell>
+                  <cell>Grocery delivery</cell>
+                  <cell>Ride sharing</cell>
+                </row>
+                <row type="cell">
+                  <cell>Uber</cell>
+                  <cell>Yes</cell>
+                  <cell>No</cell>
+                  <cell>Yes</cell>
+                </row>
+                <row type="cell">
+                  <cell>Munchery</cell>
+                  <cell>Yes</cell>
+                  <cell>No</cell>
+                  <cell>No</cell>
+                </row>
+                <row type="cell">
+                  <cell>Instacart</cell>
+                  <cell>No</cell>
+                  <cell>Yes</cell>
+                  <cell>No</cell>
+                </row>
+                <row type="cell">
+                  <cell>Sprig</cell>
+                  <cell>Yes</cell>
+                  <cell>No</cell>
+                  <cell>No</cell>
+                </row>
+                <row type="cell">
+                  <cell>Door Dash</cell>
+                  <cell>Yes</cell>
+                  <cell>No</cell>
+                  <cell>No</cell>
+                </row>
+                <row type="cell">
+                  <cell>Google Express</cell>
+                  <cell>No</cell>
+                  <cell>Yes</cell>
+                  <cell>No</cell>
+                </row>
+                <row type="cell">
+                  <cell>Blue Apron</cell>
+                  <cell>Yes</cell>
+                  <cell>No</cell>
+                  <cell>No</cell>
+                </row>
+                <row type="cell">
+                  <cell>Sidecar</cell>
+                  <cell>Yes</cell>
+                  <cell>No</cell>
+                  <cell>Yes</cell>
+                </row>
+                <row type="cell">
+                  <cell>Ola</cell>
+                  <cell>Yes</cell>
+                  <cell>Yes</cell>
+                  <cell>Yes</cell>
+                </row>
+                <row type="cell">
+                  <cell>Grubhub</cell>
+                  <cell>Yes</cell>
+                  <cell>Yes</cell>
+                  <cell>No</cell>
+                </row>
+                <row type="cell">
+                  <cell>Amazon Fresh</cell>
+                  <cell>No</cell>
+                  <cell>Yes</cell>
+                  <cell>No</cell>
+                </row>
+                <row type="cell">
+                  <cell>Spoon Rocket</cell>
+                  <cell>Yes </cell>
+                  <cell>No</cell>
+                  <cell>No</cell>
+                </row>
+                <row type="cell">
+                  <cell>Caviar</cell>
+                  <cell>Yes</cell>
+                  <cell>No</cell>
+                  <cell>No</cell>
+                </row>
+                <row type="cell">
+                  <cell>Postmates</cell>
+                  <cell>Yes</cell>
+                  <cell>No</cell>
+                  <cell>No</cell>
+                </row>
+                <row type="cell">
+                  <cell>Just Eat</cell>
+                  <cell>Yes</cell>
+                  <cell>No</cell>
+                  <cell>No</cell>
+                </row>
+              </table>
+              <keywords>
+                <keyword name="Tech" />
+                <keyword name="Commerce" />
+                <keyword name="North America" />
+                <keyword name="Start-ups" />
+                <keyword name="Southern Asia" />
+                <keyword name="Sharing Economy" />
+              </keywords>
+              <sources>
+                <source>equityzen.com</source>
+                <source>investing.com</source>
+                <source>fortune.com</source>
+                <source>wsj.com</source>
+                <source>cbinsights</source>
+              </sources>
+            </section>
+            <section>
+              <title>E-Commerce: Food and Grocery's role</title>
+              <chapter>
+                <paragraph>What is Food and Grocery sector’s relevance among other
+                  eCommerce sectors, in 2015? The graph shows private investments in various
+                  eCommerce sectors and their exits.</paragraph>
+                </chapter>
+                <graph x="string" y="number">
+                  <dataset label= "Deals">
+                    <data x="Food and Grocery" y="131"/>
+                    <data x="Events" y="21"/>
+                    <data x="Digital goods" y="6"/>
+                    <data x="Auto" y="32"/>
+                    <data x="Sporting goods" y="12"/>
+                    <data x="Travel" y="99"/>
+                    <data x="E-Commerce enablement" y="79"/>
+                    <data x="Marketplace" y="248"/>
+                    <data x="Apparel and accessories" y="121"/>
+                    <data x="Home furnishing" y="61"/>
+                    <data x="Discount" y="13"/>
+                  </dataset>
+                </graph>
+                <graph x="string" y="number">
+                  <dataset label= "Exits">
+                    <data x="Food and Grocery" y="18"/>
+                    <data x="Events" y="2"/>
+                    <data x="Digital goods" y="1"/>
+                    <data x="Auto" y="5"/>
+                    <data x="Sporting goods" y="10"/>
+                    <data x="Travel" y="21"/>
+                    <data x="E-Commerce enablement" y="21"/>
+                    <data x="Marketplace" y="25"/>
+                    <data x="Apparel and accessories" y="33"/>
+                    <data x="Home furnishing" y="4"/>
+                    <data x="Discount" y="11"/>
+                  </dataset>
+                </graph>
+                <graph unit="M$" x="string" y="number">
+                  <dataset label= "Funding">
+                    <data x="Food and Grocery" y="3.2"/>
+                    <data x="Events" y="0.7"/>
+                    <data x="Digital goods" y="0.25"/>
+                    <data x="Auto" y="0.7"/>
+                    <data x="Sporting goods" y="0"/>
+                    <data x="Travel" y="1.8"/>
+                    <data x="E-Commerce enablement" y="0"/>
+                    <data x="Marketplace" y="3.6"/>
+                    <data x="Apparel and accessories" y="1.5"/>
+                    <data x="Home furnishing" y="0.3"/>
+                    <data x="Discount" y="3.7"/>
+                  </dataset>
+                </graph>
+                <keywords>
+                  <keyword name="Commerce"/>
+                  <keyword name="Tech"/>
+                  <keyword name="Investments"/>
+                </keywords>
+                <sources>
+                  <source>equityzen.com</source>
+                  <source>investing.com</source>
+                  <source>fortune.com</source>
+                  <source>wsj.com</source>
+                  <source>cbinsights</source>
+                </sources>
+              </section>
+              <section>
+                <title>Good news for Tech IPOs</title>
+                <chapter>
+                  <paragraph>2015 has been a desolate wasteland for technology
+                    IPOs, due to a combination of macro market volatility and the
+                    relatively poor performance of last year’s new tech listings.
+                    However, this period may eventually be looked back upon as a
+                    turning point, due to better-than-expected earnings from Box and Square.
+                    Graph shows the tech startups trend in stock market, and their
+                    Initial Public Offering.</paragraph>
+                    <paragraph>IPO, or initial public offering, is the first sale of stock
+                      by a company to the public. A company can raise money by issuing either debt or equity.
+                      If the company has never issued equity to the public, it’s known as an IPO.</paragraph>
+                    </chapter>
+                    <graph unit="$" x="date" y="number">
+                      <dataset label= "Box">
+                        <data x="Jan'15" y="19"/>
+                        <data x="Feb'15" y="18"/>
+                        <data x="Mar'15" y="20"/>
+                        <data x="Apr'15" y="17"/>
+                        <data x="May'15" y="17.5"/>
+                        <data x="Jun'15" y="18"/>
+                        <data x="Jul'15" y="16"/>
+                        <data x="Aug'15" y="13"/>
+                        <data x="Set'15" y="12"/>
+                        <data x="Oct'15" y="12"/>
+                        <data x="Nov'15" y="13"/>
+                        <data x="Dic'15" y="13"/>
+                        <data x="Jan'16" y="11"/>
+                        <data x="Feb'16" y="11"/>
+                        <data x="Mar'16" y="11.5"/>
+                      </dataset>
+                      <dataset label= "Godaddy">
+                        <data x="Mar'15" y="25"/>
+                        <data x="Apr'15" y="27"/>
+                        <data x="May'15" y="28"/>
+                        <data x="Jun'15" y="29"/>
+                        <data x="Jul'15" y="26"/>
+                        <data x="Aug'15" y="25"/>
+                        <data x="Set'15" y="25.5"/>
+                        <data x="Oct'15" y="29"/>
+                        <data x="Nov'15" y="32"/>
+                        <data x="Dic'15" y="33"/>
+                        <data x="Jan'16" y="31"/>
+                        <data x="Feb'16" y="32"/>
+                        <data x="Mar'16" y="32.5"/>
+                      </dataset>
+                      <dataset label= "Etsy">
+                        <data x="Apr'15" y="23"/>
+                        <data x="May'15" y="17"/>
+                        <data x="Jun'15" y="15"/>
+                        <data x="Jul'15" y="21"/>
+                        <data x="Aug'15" y="15"/>
+                        <data x="Set'15" y="14.5"/>
+                        <data x="Oct'15" y="12"/>
+                        <data x="Nov'15" y="10"/>
+                        <data x="Dic'15" y="9"/>
+                        <data x="Jan'16" y="8.5"/>
+                        <data x="Feb'16" y="8.5"/>
+                        <data x="Mar'16" y="9"/>
+                      </dataset>
+                      <dataset label= "Shopify">
+                        <data x="May'15" y="27"/>
+                        <data x="Jun'15" y="33"/>
+                        <data x="Jul'15" y="37"/>
+                        <data x="Aug'15" y="28"/>
+                        <data x="Set'15" y="34"/>
+                        <data x="Oct'15" y="32.5"/>
+                        <data x="Nov'15" y="28"/>
+                        <data x="Dic'15" y="26.5"/>
+                        <data x="Jan'16" y="24.5"/>
+                        <data x="Feb'16" y="22"/>
+                        <data x="Mar'16" y="25.5"/>
+                      </dataset>
+                      <dataset label= "Fitbit">
+                        <data x="Jun'15" y="38.5"/>
+                        <data x="Jul'15" y="48"/>
+                        <data x="Aug'15" y="36"/>
+                        <data x="Set'15" y="38"/>
+                        <data x="Oct'15" y="40"/>
+                        <data x="Nov'15" y="31"/>
+                        <data x="Dic'15" y="30"/>
+                        <data x="Jan'16" y="20"/>
+                        <data x="Feb'16" y="13"/>
+                        <data x="Mar'16" y="13.5"/>
+                      </dataset>
+                      <dataset label= "Rapid7">
+                        <data x="Jul'15" y="24.5"/>
+                        <data x="Aug'15" y="22.5"/>
+                        <data x="Set'15" y="23"/>
+                        <data x="Oct'15" y="22"/>
+                        <data x="Nov'15" y="18"/>
+                        <data x="Dic'15" y="15.5"/>
+                        <data x="Jan'16" y="13.5"/>
+                        <data x="Feb'16" y="13"/>
+                        <data x="Mar'16" y="12.5"/>
+                      </dataset>
+                      <dataset label= "Square">
+                        <data x="Nov'15" y="12.5"/>
+                        <data x="Dic'15" y="12"/>
+                        <data x="Jan'16" y="11"/>
+                        <data x="Feb'16" y="9"/>
+                        <data x="Mar'16" y="10"/>
+                      </dataset>
+                    </graph>
+                    <graph unit="M$" x="date" y="number">
+                      <dataset label= "Box's IPO">
+                        <data x="Jan'15" y="175"/>
+                      </dataset>
+                      <dataset label= "Godaddy's IPO">
+                        <data x="Mar'15" y="460"/>
+                      </dataset>
+                      <dataset label= "Etsy's IPO">
+                        <data x="Apr'15" y="266"/>
+                      </dataset>
+                      <dataset label= "Shopify's IPO">
+                        <data x="May'15" y="131"/>
+                      </dataset>
+                      <dataset label= "Fitbit's IPO">
+                        <data x="Jun'15" y="731"/>
+                      </dataset>
+                      <dataset label= "Rapid7's IPO">
+                        <data x="Jul'15" y="100"/>
+                      </dataset>
+                      <dataset label= "Square's IPO">
+                        <data x="Nov'15" y="245"/>
+                      </dataset>
+                    </graph>
+                    <keywords>
+                      <keyword name="Investments" />
+                      <keyword name="Start-ups" />
+                      <keyword name="Tech" />
+                    </keywords>
+                    <sources>
+                      <source>equityzen.com</source>
+                      <source>investing.com</source>
+                      <source>fortune.com</source>
+                      <source>wsj.com</source>
+                      <source>cbinsights</source>
+                    </sources>
+                  </section>
+                  <section>
+                    <title>Box and Square</title>
+                    <chapter>
+                      <paragraph>How a large, venture-backed company grows to become
+                        a publicly listed company? Graph shows the returns from early backer.
+                        These were the two highestprofile “unicorn” companies to go public in 2015,
+                        but both garnered most of their IPO headlines for pricing shares below their last
+                        round of private financing. Conventional wisdom began to emerge that these were
+                        over-hyped, unprofitable companies that were getting valuation comeuppance now
+                        that dynamic markets had finally gotten involved.</paragraph>
+                      </chapter>
+                      <graph unit="M$" x="date" y="number">
+                        <title>Box: the path to IPO</title>
+                        <dataset label= "Valuation">
+                          <data x="Nov'09" y="35"/>
+                          <data x="Mar'11" y="224"/>
+                          <data x="Oct'11" y="600"/>
+                          <data x="Sep'12" y="1300"/>
+                          <data x="Jan'14" y="2100"/>
+                          <data x="Aug'14" y="2290"/>
+                          <data x="Jan'15" y="1670"/>
+                        </dataset>
+                      </graph>
+                      <graph unit="M$" x="date" y="number">
+                        <title>Square: the path to IPO</title>
+                        <dataset label= "Valuation">
+                          <data x="May'11" y="1600"/>
+                          <data x="Jun'12" y="3250"/>
+                          <data x="Mar'14" y="6000"/>
+                          <data x="Mar'15" y="2900"/>
+                        </dataset>
+                      </graph>
+                      <table>
+                        <row type="head">
+                          <cell>name</cell>
+                          <cell>Box investments</cell>
+                          <cell>Box returns</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>DJF</cell>
+                          <cell>1.5 M$</cell>
+                          <cell>73.2 M$</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>US venture partners</cell>
+                          <cell>13.4 M$</cell>
+                          <cell>284.6 M$</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>SCALE venture</cell>
+                          <cell>18.3 M$</cell>
+                          <cell>199.7 M$</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>MERITECH venture</cell>
+                          <cell>37.8 M$</cell>
+                          <cell>167.4 M$</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>Salesforce</cell>
+                          <cell>33.8 M$</cell>
+                          <cell>59 M$</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>ITV</cell>
+                          <cell>100 M$</cell>
+                          <cell>77.8 M$</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>TPG</cell>
+                          <cell>150 M$</cell>
+                          <cell>105 M$</cell>
+                        </row>
+                      </table>
+                      <table>
+                        <row type="head">
+                          <cell>name</cell>
+                          <cell>Square investments</cell>
+                          <cell>Square returns</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>Khosla ventures</cell>
+                          <cell>10.1 M$</cell>
+                          <cell>421 M$</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>Sequoia Capital</cell>
+                          <cell>10 M$</cell>
+                          <cell>125 M$</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>KPCB</cell>
+                          <cell>103 M$</cell>
+                          <cell>160 M$</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>Rizvi Traverse</cell>
+                          <cell>222.1 M$</cell>
+                          <cell>182 M$</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>GIC</cell>
+                          <cell>150 M$</cell>
+                          <cell>87 M$</cell>
+                        </row>
+                      </table>
+                      <keywords>
+                        <keyword name="North America" />
+                        <keyword name="Investments" />
+                        <keyword name="Start-ups" />
+                        <keyword name="Tech" />
+                      </keywords>
+                      <sources>
+                        <source>equityzen.com</source>
+                        <source>investing.com</source>
+                        <source>fortune.com</source>
+                        <source>wsj.com</source>
+                      </sources>
+                    </section>
+                  </sections>
+                </bulletin>
+              </bulletins>

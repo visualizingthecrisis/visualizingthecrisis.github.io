@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins>
+  <title>REAL ESTATE</title>
+  <subtitle>Visualizing the crisis</subtitle>
+  <authors>
+    <author>Irene Chiappini</author>
+    <author>Giulia Serafin</author>
+  </authors>
+  <bulletin id="4" date="20160324">
+    <title>"Latin America real estate "</title>
+    <sections>
+      <section>
+        <title>Latin America leading countries</title>
+        <chapter>
+          <paragraph>After showing resilience during the 2008-09 global financial crisis and experiencing a robust recovery in 2010-11, economic growth has significantly moderated in Latin America's leading economies of Mexico, Chile, Perù, Colombia and Brazil.
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="South America"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>World property Journal “Real estate investment outlook for andean region, Mexico strong in 2016”</source>
+            <source>The Wall Street Journal “Top 20 most affordable latin american cities for real estate”</source>
+            <source>World Finance “Latin America’s real estate market attracts investment”</source>
+        </sources>
+      </section>
+      <section>
+        <graph unit="$" x="city" y="number">
+          <title>"Affordable housing"</title>
+          <abstract>The most affordable cities by $/sq m</abstract>
+          <dataset label="average house prices">
+            <data x="Puerto Vallarta" y="1,273"/>
+            <data x="Saint Miguel de Allande" y="2,736"/>
+            <data x="Granada" y="1,013"/>
+            <data x="Saint José" y="2,293"/>
+            <data x="Panama" y="2,300"/>
+            <data x="Bogotà" y="1,281"/>
+            <data x="Cali" y="587"/>
+            <data x="Cuenca" y="1,199"/>
+            <data x="Lima" y="1,136"/>
+            <data x="Santiago" y="2,492"/>
+            <data x="Asuncio" y="1,224"/>
+            <data x="Mendoza" y="1,868"/>
+            <data x="Buenos Aires" y="2,660"/>
+            <data x="Montevideo" y="2,679"/>
+            <data x="Punta de Este" y="3,350"/>
+            <data x="Fortezza" y="1,386"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="South America"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>World property Journal “Real estate investment outlook for andean region, Mexico strong in 2016”</source>
+            <source>The Wall Street Journal “Top 20 most affordable latin american cities for real estate”</source>
+            <source>World Finance “Latin America’s real estate market attracts investment”</source>
+        </sources>
+      </section>
+      <section>
+        <table>
+          <row type="head">
+            <cell></cell>
+            <cell>Population</cell>
+            <cell>GDP</cell>
+            <cell>GDP Per Capita</cell>
+            <cell>2016 National Growth</cell>
+          </row>
+          <row type="cell">
+            <cell>Messico</cell>
+            <cell>124 M</cell>
+            <cell>$ 13 T</cell>
+            <cell>$ 10,484</cell>
+            <cell>2.5 %</cell>
+          </row>
+        </table>
+        <table>
+          <row type="cell">
+            <cell>Chile</cell>
+            <cell>18 M</cell>
+            <cell>$ 258 B</cell>
+            <cell>$ 14,900</cell>
+            <cell>2.3%</cell>
+          </row>
+          <row type="cell">
+            <cell>Peru</cell>
+            <cell>31 M</cell>
+            <cell>$ 203 B</cell>
+            <cell>$ 6,410</cell>
+            <cell>3.4%</cell>
+          </row>
+        </table>
+        <table>
+          <row type="cell">
+            <cell>Colombia</cell>
+            <cell>49 M</cell>
+            <cell>$ 377 B</cell>
+            <cell>$ 7,780</cell>
+            <cell>2.7%</cell>
+          </row>
+          <row type="cell">
+            <cell>Brazil</cell>
+            <cell>202 M</cell>
+            <cell>$ 2.3 T</cell>
+            <cell>$ 11,760</cell>
+            <cell>-3%</cell>
+          </row>
+        </table>
+        <graph unit="%" x="country" y="number">
+          <title>"National growth 2016"</title>
+          <dataset label="annual growth">
+            <data x="Mexico" y="2,5"/>
+            <data x="Chile" y="2,3"/>
+            <data x="Peru" y="3,4"/>
+            <data x="Colombia" y="2,7"/>
+            <data x="Brazil" y="-3"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="South America"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>World property Journal “Real estate investment outlook for andean region, Mexico strong in 2016”</source>
+            <source>The Wall Street Journal “Top 20 most affordable latin american cities for real estate”</source>
+            <source>World Finance “Latin America’s real estate market attracts investment”</source>
+        </sources>
+      </section>
+    </sections>
+  </bulletin>
+  <bulletin id="4" date="20160324">
+    <title>"Japan real estate"</title>
+    <sections>
+      <section>
+        <chapter>
+          <title>Before</title>
+          <subtitle>Causes</subtitle>
+          <paragraph>There are more worker, better labour conditions and office vacancies. Lower mortgage taxes bring more house purchasing and house starts with higher residential land prices. New economic policies and a weaker yen bring more inbound visitors and investments. Demand for hotels and more tourism make stronger the retail sector and higher commercial land value.
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>After</title>
+          <subtitle>Consequences</subtitle>
+          <paragraph>The nationwide land price  increased from 2015 (0,9%). Pace gains in commercial land price with an annual acceleration of 2,9%. real estate sector is moving and new buildings are rising.
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Investments"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Bloomberg “Japan land prices rise for the forst time since 2007 on tourism”</source>
+          <source>The japan Times “Japan land prices rise 0.1% on demand for tourist premises”</source>
+          <source>Japan Property Central “Average apartment rent in February 2016”</source>
+          <source>Japan Real Estate News</source>
+        </sources>
+      </section>
+      <section>
+        <title>The most expensive location</title>
+        <chapter>
+          <title>¥ 40,100,000,000/sqm</title>
+          <paragraph>Yamahano music co., Ginza shopping district (¥ 40,1 million = $ 358,000)</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Investments"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Bloomberg “Japan land prices rise for the forst time since 2007 on tourism”</source>
+          <source>The japan Times “Japan land prices rise 0.1% on demand for tourist premises”</source>
+          <source>Japan Property Central “Average apartment rent in February 2016”</source>
+          <source>Japan Real Estate News</source>
+        </sources>
+      </section>
+      <section>
+        <title>Houses'rest cost</title>
+        <graph unit="¥" x="city" y="number">
+          <title>"Avarage monthly cost/sqm"</title>
+          <abstract>Tokyo has the most expencive houses'rent cost in China than Nagoya that has less expencive houses'rent cost.</abstract>
+          <dataset label="rent cost">
+            <data x="Tokyo" y="3,280"/>
+            <data x="Yokohama" y="2,142"/>
+            <data x="Osaka City" y="2,125"/>
+            <data x="Kobe" y="1,816"/>
+            <data x="Nagoya" y="1,701"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Investments"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Bloomberg “Japan land prices rise for the forst time since 2007 on tourism”</source>
+          <source>The japan Times “Japan land prices rise 0.1% on demand for tourist premises”</source>
+          <source>Japan Property Central “Average apartment rent in February 2016”</source>
+          <source>Japan Real Estate News</source>
+        </sources>
+      </section>
+      <section>
+        <title>Bigger vs smaller regions</title>
+        <chapter>
+          <paragraph>Outside the big cities, prices, struggled to recover. In 69,8% of japanese regions the prices fell down.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Investments"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Bloomberg “Japan land prices rise for the forst time since 2007 on tourism”</source>
+          <source>The japan Times “Japan land prices rise 0.1% on demand for tourist premises”</source>
+          <source>Japan Property Central “Average apartment rent in February 2016”</source>
+          <source>Japan Real Estate News</source>
+        </sources>
+      </section>
+      <section>
+        <title>Commercial and value</title>
+        <subtitle>In metropolitan areas</subtitle>
+        <chapter>
+          <paragraph>2.9% Average growth in the biggest areas: Tokyo, Osaka, Nagoya. 19.7% Kutchantown, Hokkaido. 45.1% Shinsaibashi Suji, Osaka</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Investments"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Bloomberg “Japan land prices rise for the forst time since 2007 on tourism”</source>
+          <source>The japan Times “Japan land prices rise 0.1% on demand for tourist premises”</source>
+          <source>Japan Property Central “Average apartment rent in February 2016”</source>
+          <source>Japan Real Estate News</source>
+        </sources>
+      </section>
+      <section>
+        <title>Real Estate timeline</title>
+        <chapter>
+          <title>1990/2000</title>
+          <paragraph>
+            <list type="ordered">
+              <item>bursting bubble</item>
+              <item>market burst</item>
+              <item>deflationary slump</item>
+              <item>peak in prices</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>2008/2015</title>
+          <paragraph>
+            <list type="ordered">
+              <item>financial crisis</item>
+              <item>more tourists</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>2015/2016</title>
+          <paragraph>
+            <list type="ordered">
+              <item>first positive value</item>
+              <item>rising prices</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Investments"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Bloomberg “Japan land prices rise for the forst time since 2007 on tourism”</source>
+          <source>The japan Times “Japan land prices rise 0.1% on demand for tourist premises”</source>
+          <source>Japan Property Central “Average apartment rent in February 2016”</source>
+          <source>Japan Real Estate News</source>
+        </sources>
+      </section>
+    </sections>
+  </bulletin>
+</bulletins>

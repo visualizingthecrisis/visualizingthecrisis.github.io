@@ -1,6 +1,14 @@
 @font-face {
-  font-family: font-name;
-  src: url("../font/font.otf") format("opentype");
+  font-family: SF-UI;
+  src: url("../font/SF-UI-Display-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: SF-UI-Heavy;
+  src: url("../font/SF-UI-Display-Heavy.otf") format("opentype");
+}
+@font-face {
+  font-family: MaisonNeue;
+  src: url("../font/MaisonNeue-Mono.ttf") format("opentype");
 }
 
 body{
@@ -9,72 +17,163 @@ body{
   color:black;
   font-style:
   overflow: hidden;
+  font-family: 'SF-UI',monaco, Consolas, 'Lucida Console', monospace;
 }
-
-#container{
-  font-family: 'Poppins-Medium', Helvetica, serif;
+.c3 svg{
+  overflow: visible !important;
+  font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace;
+}
+#bulletin-container{
   background-color: white;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 77px;
+  padding-bottom: 70px;
   width:512px;
   margin-left:0px;
   margin-top:0px;
   overflow: hidden;
+  line-height: 1.2;
+  font-family: 'SF-UI',monaco, Consolas, 'Lucida Console', monospace;
 }
+
+span{display: inline-block;
+}
+
 
 .main-title{
-  font-size: 70px;
-  line-height: 0.75;
-  font-weight: bold;
-  margin-bottom: 10px;
+  font-size: 81px;
+  line-height: 1.1;
+  font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
+  text-align:center;
+  margin-bottom: 38px;
+  display: block;
 }
 
+
+.main-report{
+  font-family:  'MaisonNeue', monaco, Consolas, 'Lucida Console', monospace;
+  margin-bottom: 38px;
+  font-size: 23px;
+  text-align: center;
+  display: block;
+}
+
+.main-subtitle{
+  font-size: 23px;
+  padding-top:18px;
+  padding-bottom:18px;
+  margin-bottom: 46px;
+  background-color: black;
+  color:white;
+  text-align: center;
+  font-family:  'MaisonNeue', monaco, Consolas, 'Lucida Console', monospace;
+  display: block;
+}
+.main-info{
+  font-size: 30px;
+  margin-bottom: 46px;
+  display: block;
+}
 /***********SECTION*************/
 .section{
-  padding-top:10px;
-  padding-bottom: 10px;
-  line-height: 1;
+  padding-top:40px;
+  padding-bottom: 46px;
+  border-top: 3px solid black;
+  font-size: 22px;
 }
 
+.section-sources{
+  padding-top:10px;
+  padding-bottom: 10px;
+  display: block;
+}
+.source{
+  display: block;
+}
+
+.section-quote{
+  width: 90%;
+  padding-top:20px;
+  padding-bottom: 20px;
+}
+
+.quote-author{
+  font-size:22px;
+  width: 100%;
+  text-align: right;
+  //display: block;
+}
+.quote-text{
+  line-height: 1.1;
+  font-size:48px;
+  font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
+  display: block;
+}
 .section-title{
-  font-size: 30px;
-  margin-bottom: 10px;
-  margin-top: 30px;
+  font-size: 40px;
+  font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
+
   font-weight: bold;
   display: block;
 }
 
 .section-subtitle{
-  font-size: 18px;
-  line-height: 1;
-  display: block;
-  font-style: italic;
+  font-size: 40px;
   margin-bottom: 10px;
 }
 
 .section-body{
-  font-size: 14px;
-  line-height: 1;
   margin-bottom: 20px;
 }
 
-.section-graph{
-  font-size: 8px;
-  font-family: Courier, Helvetica, serif !important;
-  padding-left:10px;
-  padding-right:10px;
-  width:450px;
-}
+
 
 .section-keywords{
-  font-size: 12px;
+  font-size: 20px;
   font-family: Courier, Helvetica, serif !important;
 }
-
+.section-quote{
+  //margin-bottom: 40px;
+  //margin-top: 40px;
+}
 /*********GRAPH**************/
+.section-treemap {
+  width: 100%;
+  display: block;
+}
+.section-treemap{
+  display: inline;
+
+  font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace !important;
+  font-size: 20px;
+    margin-bottom: 20px;
+    width:512px;
+    margin-left:0;
+    display: table;
+}
+.section-treemap div{
+  display: inline;
+}
+.section-graph{
+//  margin-top: 40px;
+font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace !important;
+font-size: 20px;
+  margin-bottom: 20px;
+  width:100%;
+  margin-left:0;
+  display: table;
+  overflow: visible !important;
+}
+.section-graph g{
+  overflow: hidden !important;
+}
+text{
+  fill:#000000;
+}
+.section-treemap rect{
+  stroke:rgb(0,0,0)!important;
+}
 
 .section-graph-title{
-  font-size: 20px;
   margin-bottom: 10px;
   margin-top: 22px;
   font-weight: bold;
@@ -82,7 +181,6 @@ body{
 }
 
 .section-graph-subtitle{
-  font-size: 16px;
   line-height: 1;
   display: block;
   font-style: italic;
@@ -90,7 +188,6 @@ body{
 }
 
 .section-graph-abstract{
-  font-size: 14px;
   line-height: 1;
   display: block;
   margin-bottom: 20px;
@@ -102,14 +199,18 @@ body{
   -webkit-transform: rotate(90deg); /* Safari */
   transform: rotate(90deg);
 }
-
-svg{
-  overflow: visible !important;
+#xml-select {
+    position: absolute;
+    top: 10px;
+    right: 0;
+    bottom: 0;
+    left: 512px;
 }
+
 
 #editor {
     position: absolute;
-    top: 0px;
+    top: 40px;
     right: 0;
     bottom: 0;
     left: 512px;
@@ -128,4 +229,115 @@ button{
   padding-right:20px;
   border:2px solid #000000;
   z-index: 100;
+}
+.tick{
+      font-size: 15px;
+      font-weight:bold;
+}
+
+.c3-line {
+  stroke-width: 7px;
+}
+
+.c3-arc{
+  //fill: url(#crosshatch) #fff !important;
+}
+.c3-chart-arc path {
+  stroke-width: 2;
+  stroke:black;
+}
+/*-- Bar --*/
+.c3-bar{
+  stroke:black !important;
+  stroke-width: 2;
+  //fill: url(#crosshatch) #fff !important;
+  //fill:transparent;
+}
+.c3-chart-arc text {
+    font-size: 20px;
+    background-color: black;
+    fill:black;
+    font-weight:bold;
+}
+
+.c3 path, .c3 line {
+  stroke: #000;
+  stroke-width: 3;
+}
+
+.c3-grid line {
+ stroke: #000;
+ stroke-width: 2;
+}
+line.c3-legend-item-tile{
+   stroke-width: 20;
+}
+
+.c3-legend-item {
+  font-size: 20px;
+  display: inline-block;
+  margin:0px;
+  height:20px;
+}
+
+table{
+  width:100%;
+font-size: 15px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+    font-size: 15px;
+}
+td, th {
+  padding:5px;
+  text-align: left;
+}
+th{
+  font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
+
+  font-weight:bold;
+  background-color:black;
+  color:white;
+}
+.graph-legend svg{
+  margin-right: 5px;
+
+}
+.graph-legends{
+  margin-top:20px;
+  width: 100%;
+  text-align: center;
+  display: block !important;
+
+    clear: both;
+}
+.graph-legend{
+  display: inline-block;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.legend-line{
+  width:40px;
+  height:20px;
+}
+.treemap-node{
+    border: 1px solid black;
+}
+.treemap-label{
+    z-index: 100;
+
+    background-color: #fff;
+    font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace;
+    display: inline-block !important;
+    padding:5px;
+  }
+.section-treemap{
+  height:500px;
+  display:block;
 }

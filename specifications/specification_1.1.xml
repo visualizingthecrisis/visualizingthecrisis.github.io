@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>                                <!--[ 1 ]-->
+<bulletins>                                                           <!--[ 1 ]-->
+  <title>BULLETIN_TITLE</title>                                       <!--[ 1 ]-->
+  <subtitle>BULLETIN_SUBTITLE</subtitle>                              <!--[ 1 ]-->
+  <authors>                                                           <!--[ 1 ]-->
+    <author>AUTHOR_1</author>                                         <!--[1-N]-->
+    <author>AUTHOR_2</author>
+    <author>AUTHOR_3</author>
+  </authors>
+  <bulletin id="BULLETIN_ID" date="BULLETIN_DATE">                    <!--[1-N]-->
+    <title>BULLETIN_TITLE</title>                                     <!--[0-1]-->
+    <sections>                                                        <!--[ 1 ]-->
+      <section>                                                       <!--[1-N]-->
+        <title>SECTION_TITLE</title>                                  <!--[0-1]-->
+        <subtitle>SECTION_SUBTITLE</subtitle>                         <!--[0-1]-->
+        <abstract>							                                      <!--[0-1]-->
+          SECTION_ABSTRACT				                            <!-- max 144 char-->
+        </abstract>
+        <quote>                                                       <!--[0-N]-->
+          <author>QUOTE_AUTHOR</author>                               <!--[ 1 ]-->
+          <text>QUOTE_TEXT</text>                                     <!--[ 1 ]-->
+        </quote>
+        <chapter>                                                     <!--[0-N]-->
+          <title>CHAPTER_TITLE</title>								                <!--[0-1]-->
+          <paragraph>PARAGRAPH_TEXT</paragraph>                       <!--[0-N]-->
+          <paragraph>
+            <list type="ordered">                                     <!--[0-N]-->
+              <item>ITEM_1</item>                                     <!--[1-N]-->
+              <item>ITEM_2</item>
+            </list>
+            <list type="unordered">                                   <!--[0-N]-->
+              <item>ITEM_1</item>                                     <!--[1-N]-->
+              <item>ITEM_2</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <table>                                                       <!--[0-N]-->
+          <row type="head">                                           <!--[ 1 ]-->
+            <cell>CELL_1</cell>                                       <!--[1-N]-->
+            <cell>CELL_2</cell>
+            <cell>CELL_3</cell>
+          </row>
+          <row type="cell">                                           <!--[1-N]-->
+            <cell>CELL_1</cell>                                       <!--[1-N]-->
+            <cell>CELL_2</cell>
+            <cell>CELL_3</cell>
+          </row>
+        </table>
+        <graph unit="GRAPH_UNIT" x="GRAPH_X" y="GRAPH_Y"> 		        <!--[0-N]-->
+          <title>GRAPH_TITLE</title>                                  <!--[0-1]-->
+          <abstract>							                                    <!--[0-1]-->
+            GRAPH_ABSTRACT					                          <!-- max 144 char-->
+          </abstract>
+          <dataset label= "DATASET_LABEL">                           	<!--[1-N]-->
+            <data x="DATA_X" y="DATA_Y"/>                             <!--[1-N]-->
+          </dataset>
+        </graph>
+        <keywords>                                                    <!--[ 1 ]-->
+          <keyword name="KEYWORD" />                                  <!--[1-N]-->
+          <keyword name="KEYWORD" />                                  <!--[1-N]-->
+          <keyword name="KEYWORD" />                                  <!--[1-N]-->
+          <keyword name="KEYWORD" />                                  <!--[1-N]-->
+          <keyword name="KEYWORD" />                                  <!--[1-N]-->
+          <keyword name="KEYWORD" />                                  <!--[1-N]-->
+          <keyword name="KEYWORD" />                                  <!--[1-N]-->
+          <keyword name="KEYWORD" />                                  <!--[1-N]-->
+        </keywords>
+        <sources>                                                     <!--[ 1 ]-->
+          <source>SOURCE_1</source>                                   <!--[1-N]-->
+          <source>SOURCE_2</source>
+          <source>SOURCE_3</source>
+        </sources>
+      </section>
+    </sections>
+  </bulletin>
+</bulletins>

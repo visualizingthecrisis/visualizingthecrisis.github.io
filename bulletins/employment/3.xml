@@ -1,0 +1,516 @@
+<bulletin id="issue 3" date="20160319">
+  <sections>
+    <section>
+      <graph unit="%" x="date" y="number">
+        <title>UK Unemployment Rate</title>
+        <dataset label="">
+          <data x="20150131" y="5.7" />
+          <data x="20150228" y="5.6" />
+          <data x="20150331" y="5.5" />
+          <data x="20150430" y="5.5" />
+          <data x="20150531" y="5.6" />
+          <data x="20150630" y="5.6" />
+          <data x="20150731" y="5.5" />
+          <data x="20150831" y="5.4" />
+          <data x="20150930" y="5.3" />
+          <data x="20151031" y="5.2" />
+          <data x="20151130" y="5.1" />
+          <data x="20151231" y="5.1" />
+          <data x="20160131" y="5.1" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="Employment" />
+      </keywords>
+      <sources>
+        <source>tradingeconomics.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>Welcome to the Sharing Economy</title>
+      <chapter>
+        <paragraph>It’s hard to find more exuberant sharing-economy enthusiasts than investors. Venture capitalists have invested heavily in sharing-economy companies: in 2015 they were evalueted $ 15 billion worldwide and this number is supposed to get more than 20 times bigger in the next decade.</paragraph>
+      </chapter>
+      <graph unit="b$" x="date" y="number">
+        <dataset label= "">
+          <data x="2015" y="15"/>
+          <data x="2025" y="335"/>
+        </dataset>
+      </graph>
+      <graph unit="" x="location" y="number">
+        <title>Ranking of the Top 20 Cities for Number of Sharing Economy Companies</title>
+        <dataset label= "">
+          <data x="S. Francisco_US" y="131"/>
+          <data x="New York_US" y="89"/>
+          <data x="London_UK" y="72"/>
+          <data x="Paris_FR" y="24"/>
+          <data x="Boston_US" y="20"/>
+          <data x="Los Angeles_US" y="18"/>
+          <data x="Sydney_AU" y="14"/>
+          <data x="Madrid_ES" y="13"/>
+          <data x="Toronto_CA" y="13"/>
+          <data x="Austin_US" y="11"/>
+          <data x="Chicago_US" y="11"/>
+          <data x="Seattle_US" y="11"/>
+          <data x="Berlin_DE" y="10"/>
+          <data x="Amsterdam_NL" y="9"/>
+          <data x="S. Monica_US" y="9"/>
+          <data x="Washington_US" y="9"/>
+          <data x="Bangalore_IN" y="8"/>
+          <data x="Mountain View_US" y="7"/>
+          <data x="Mumbai_IN" y="7"/>
+          <data x="Tel Aviv_IL" y="7"/>
+        </dataset>
+      </graph>
+      <quote>
+        <author>James McClure, Airbnb general manager UK and Ireland</author>
+        <text>The UK, and London in particular, is the centre of the sharing economy.</text>
+      </quote>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Western Europe" />
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Southeastern Asia" />
+        <keyword name="Employment" />
+        <keyword name="Investments" />
+        <keyword name="Start-ups" />
+        <keyword name="Sharing Economy" />
+      </keywords>
+      <sources>
+        <source>ag.ny.gov</source>
+        <source>bloomberg.com</source>
+        <source>cnbc.com</source>
+        <source>economist.com</source>
+        <source>hospitalitynet.org</source>
+        <source>independent.co.uk</source>
+        <source>insideairbnb.com</source>
+        <source>nytimes.com</source>
+        <source>psu.edu</source>
+        <source>salon.com</source>
+        <source>telegraph.co.uk</source>
+        <source>tradingeconomics.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>They Call it Uberization</title>
+      <graph unit="%" x="string" y="percentage">
+        <title>Age of UK Crowd Workers</title>
+        <abstract>
+          Millennials are putting off ownership in favor of renting and leasing.
+        </abstract>
+        <dataset label= "">
+          <data x="50+ years" y="16"/>
+          <data x="35-54 years" y="34"/>
+          <data x="16-34 years" y="50"/>
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Airbnb</title>
+        <paragraph>In 2013 it had £502m impact in UK economy.</paragraph>
+      </chapter>
+      <quote>
+        <author>James McClure, Airbnb general manager UK and Ireland</author>
+        <text>Airbnb is a force for good in the UK economy. It promotes the UK as a destination and spreads tourist spend to local business.</text>
+      </quote>
+      <chapter>
+        <title>Airbnb In London</title>
+        <list type="unordered">
+          <item>Hosts: 25361</item>
+          <item>Average price per night: £101</item>
+          <item>Average income per month: £746</item>
+        </list>
+      </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <title>Types of Airbnb Properties</title>
+        <dataset label= "">
+          <data x="shared room" y="1.64"/>
+          <data x="private room" y="45.8"/>
+          <data x="entire home/apartment" y="52.56"/>
+        </dataset>
+      </graph>
+      <graph unit="%" x="string" y="percentage">
+        <title>Locations of Airbnb Properties</title>
+        <dataset label= "">
+          <data x="central properties" y="28"/>
+          <data x="non-central propertie" y="72"/>
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Uber</title>
+        <paragraph>It has more than 42000 London drivers.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Eastern Europe" />
+        <keyword name="Employment" />
+        <keyword name="Start-ups" />
+        <keyword name="Sharing Economy" />
+        <keyword name="Housing and Real Estate" />
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Generation X (1965–1980)" />
+        <keyword name="Baby Boomers (1945–1964)" />
+        <keyword name="Silent Generation (1920–1944)" />
+        <keyword name="Transportation" />
+      </keywords>
+      <sources>
+        <source>ag.ny.gov</source>
+        <source>bloomberg.com</source>
+        <source>cnbc.com</source>
+        <source>economist.com</source>
+        <source>hospitalitynet.org</source>
+        <source>independent.co.uk</source>
+        <source>insideairbnb.com</source>
+        <source>nytimes.com</source>
+        <source>psu.edu</source>
+        <source>salon.com</source>
+        <source>telegraph.co.uk</source>
+        <source>tradingeconomics.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <chapter>
+        <title>Dogvacacy</title>
+        <paragraph>It connects petowners withover 20,000 petsitters.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Start-ups" />
+        <keyword name="Sharing Economy" />
+      </keywords>
+      <sources>
+        <source>ag.ny.gov</source>
+        <source>bloomberg.com</source>
+        <source>cnbc.com</source>
+        <source>economist.com</source>
+        <source>hospitalitynet.org</source>
+        <source>independent.co.uk</source>
+        <source>insideairbnb.com</source>
+        <source>nytimes.com</source>
+        <source>psu.edu</source>
+        <source>salon.com</source>
+        <source>telegraph.co.uk</source>
+        <source>tradingeconomics.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <chapter>
+        <title>Property Partner</title>
+        <paragraph>It reinvents the proprety market. It's a property crowdfunding platform launched just a year ago with more than 7,000 customers who have collectively invested around £30 million across 184 properties.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Investments" />
+        <keyword name="Start-ups" />
+        <keyword name="Sharing Economy" />
+        <keyword name="Housing and Real Estate" />
+      </keywords>
+      <sources>
+        <source>ag.ny.gov</source>
+        <source>bloomberg.com</source>
+        <source>cnbc.com</source>
+        <source>economist.com</source>
+        <source>hospitalitynet.org</source>
+        <source>independent.co.uk</source>
+        <source>insideairbnb.com</source>
+        <source>nytimes.com</source>
+        <source>psu.edu</source>
+        <source>salon.com</source>
+        <source>telegraph.co.uk</source>
+        <source>tradingeconomics.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <chapter>
+        <title>Take a Ride in Bangkok</title>
+        <paragraph>Uber has just launch UberMOTO in Thailand, where 87% of households own a motorcycle or a scooter.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Start-ups" />
+        <keyword name="Sharing Economy" />
+        <keyword name="Transportation" />
+      </keywords>
+      <sources>
+        <source>ag.ny.gov</source>
+        <source>bloomberg.com</source>
+        <source>cnbc.com</source>
+        <source>economist.com</source>
+        <source>hospitalitynet.org</source>
+        <source>independent.co.uk</source>
+        <source>insideairbnb.com</source>
+        <source>nytimes.com</source>
+        <source>psu.edu</source>
+        <source>salon.com</source>
+        <source>telegraph.co.uk</source>
+        <source>tradingeconomics.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>Uberization in the US..</title>
+      <graph unit="$" x="string" y="number">
+        <title>Average Incomes per Month</title>
+        <abstract>
+          Americans who make money from performing tasks on labour platforms such as Uber and TaskRabbit, earn an average of $533 extra each month. Participants who rent assets on capital platforms such as home rental site Airbnb and eBay, can make an additional $314 every month, on average.
+        </abstract>
+        <dataset label= "">
+          <data x="Capital Platforms" y="+314"/>
+          <data x="Labour Platforms" y="+533"/>
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Driver-Partners Spend Uber Income on</title>
+        <paragraph>
+          <list type="unordered">
+            <item>A. Monthly bills</item>
+            <item>B. Car payments</item>
+            <item>C. House payments</item>
+            <item>D. Treats for themselves/family</item>
+            <item>E. Expenses for their children</item>
+            <item>F. Saving for emergencies</item>
+            <item>G. Paying medical bills</item>
+            <item>H. Student loan</item>
+            <item>I. Saving for retirement</item>
+            <item>J. Saving for a big purchase</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="number">
+        <dataset label= "Spending">
+          <data x="A" y="71"/>
+          <data x="B" y="49"/>
+          <data x="C" y="31"/>
+          <data x="D" y="27"/>
+          <data x="E" y="25"/>
+          <data x="F" y="23"/>
+          <data x="G" y="20"/>
+          <data x="H" y="19"/>
+          <data x="I" y="9"/>
+          <data x="J" y="9"/>
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Who They Are</title>
+        <paragraph>
+          <list type="unordered">
+            <item>K. New Regulars: no previous providing experience and now driving UberX (more than 30 hrs/week)</item>
+            <item>L. The Pros: currently driver UberBLACK</item>
+            <item>M. Crossovers: UberX driver-partners who previously drove taxis or black cars</item>
+            <item>N. Part-Timers: no previous providing experience and now driving UberX (less than 30 hrs/week)</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label= "">
+          <data x="K" y="12"/>
+          <data x="L" y="18"/>
+          <data x="M" y="18"/>
+          <data x="N" y="52"/>
+        </dataset>
+      </graph>
+      <chapter>
+        <title>What They Do</title>
+        <paragraph>
+          <list type="unordered">
+            <item>O. Stay-at-home parent</item>
+            <item>P. Retired</item>
+            <item>Q. Students</item>
+            <item>R. Unemployed</item>
+            <item>S. Working multiple jobs, at least 1 full-time</item>
+            <item>T. Working one or more part-time job</item>
+            <item>U. Working one full-time job</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label= "">
+          <data x="O" y="2"/>
+          <data x="P" y="3"/>
+          <data x="Q" y="7"/>
+          <data x="R" y="8"/>
+          <data x="S" y="10"/>
+          <data x="T" y="26"/>
+          <data x="U" y="44"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Employment" />
+        <keyword name="Income and Pensions" />
+        <keyword name="Start-ups" />
+        <keyword name="Sharing Economy" />
+        <keyword name="Loans" />
+        <keyword name="Housing and Real Estate" />
+        <keyword name="Transportation" />
+      </keywords>
+      <sources>
+        <source>ag.ny.gov</source>
+        <source>bloomberg.com</source>
+        <source>cnbc.com</source>
+        <source>economist.com</source>
+        <source>hospitalitynet.org</source>
+        <source>independent.co.uk</source>
+        <source>insideairbnb.com</source>
+        <source>nytimes.com</source>
+        <source>psu.edu</source>
+        <source>salon.com</source>
+        <source>telegraph.co.uk</source>
+        <source>tradingeconomics.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>"Share-the-Scraps Economy": the Dark Side of Collaborative Consumption</title>
+      <quote>
+        <author>Robert Reich, one of the nation’s leading experts on work and the economy</author>
+        <text>Brace yourself. This is the economy we’re now barreling toward. They’re Uber drivers, Instacart shoppers, and Airbnb hosts. They include Taskrabbit jobbers, Upcounsel’s on-demand attorneys, and Healthtap’s on-line doctors. (...) The euphemism is the “share” economy. A more accurate term would be the “share-the-scraps” economy. New software technologies are allowing almost any job to be divided up into discrete tasks that can be parceled out to workers when they’re needed, with pay determined by demand for that particular job at that particular moment. Customers and workers are matched online. Workers are rated on quality and reliability. The big money goes to the corporations that own the software. The scraps go to the on-demand workers.</text>
+      </quote>
+      <graph unit="b$" x="string" y="number">
+        <title>Where the Big Money Goes</title>
+        <dataset label= "">
+          <data x="Hilton Worldwide" y="27.56"/>
+          <data x="Airbnb" y="23.95"/>
+          <data x="Marriott" y="20.82"/>
+          <data x="Host Hoteles" y="15.28"/>
+          <data x="Starwood Hotels" y="13.96"/>
+          <data x="Accor" y="11.01"/>
+          <data x="Ford" y="54.92"/>
+          <data x="General Motors" y="56"/>
+          <data x="Honda Motors" y="59.23"/>
+          <data x="Uber" y="67.3"/>
+          <data x="BMW" y="69.46"/>
+          <data x="Volksawagen" y="70"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Investments" />
+        <keyword name="Start-ups" />
+        <keyword name="Global Corporations" />
+        <keyword name="Sharing Economy" />
+      </keywords>
+      <sources>
+        <source>ag.ny.gov</source>
+        <source>bloomberg.com</source>
+        <source>cnbc.com</source>
+        <source>economist.com</source>
+        <source>hospitalitynet.org</source>
+        <source>independent.co.uk</source>
+        <source>insideairbnb.com</source>
+        <source>nytimes.com</source>
+        <source>psu.edu</source>
+        <source>salon.com</source>
+        <source>telegraph.co.uk</source>
+        <source>tradingeconomics.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>"Share-the-Scraps Economy": Airbnb</title>
+      <graph unit="%" x="string" y="percentage">
+        <title>1. Hosts operating an unregulated full-time business account for 30% of the total revenue on Airbnb</title>
+        <dataset label= "">
+          <data x="Unregulated Full-time Business" y="30"/>
+          <data x="Rest of the hosts" y="70"/>
+        </dataset>
+      </graph>
+      <graph unit="%" x="string" y="percentage">
+        <title>2. Hosts renting out two or more units account for 40% of the total revenue on Airbnb</title>
+        <dataset label= "">
+          <data x="Renting of two or more units" y="40"/>
+          <data x="Rest of the hosts" y="60"/>
+        </dataset>
+      </graph>
+      <graph unit="" x="date" y="number">
+        <title>The Impact of Airbnb on Hotel and Hospitality Industry</title>
+        <dataset label="Hotel room nights reserved">
+          <data x="20140930-20160831" y="480000" />
+        </dataset>
+        <dataset label="Room nights booked on Airbnb">
+          <data x="20140930-20160831" y="2.8m" />
+          <data x="20180131-20181231" y="5m" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>HVS Consulting estimated that hotels lose approximately $450 million in direct revenues and over 2,800 jobs per year to Airbnb.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name=">Employment" />
+        <keyword name="Start-ups" />
+        <keyword name="Sharing Economy" />
+        <keyword name="Housing and Real Estate" />
+      </keywords>
+      <sources>
+        <source>ag.ny.gov</source>
+        <source>bloomberg.com</source>
+        <source>cnbc.com</source>
+        <source>economist.com</source>
+        <source>hospitalitynet.org</source>
+        <source>independent.co.uk</source>
+        <source>insideairbnb.com</source>
+        <source>nytimes.com</source>
+        <source>psu.edu</source>
+        <source>salon.com</source>
+        <source>telegraph.co.uk</source>
+        <source>tradingeconomics.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>"Share-the-Scraps Economy": Uber</title>
+      <quote>
+        <author>Robert Reich, one of the nation’s leading experts on work and the economy</author>
+        <text>Uber drivers use their own cars, take out their own insurance, work as many hours as they want or can - and pay Uber a fat percent. Worker safety? Social Security? Uber says it’s not the employer so it’s not responsible.</text>
+      </quote>
+      <graph unit="%" x="date" y="number">
+        <title>Annual Percentage Change in the Number of New York City Taxi Trips</title>
+        <dataset label="">
+          <data x="2011" y="+6" />
+          <data x="2012" y="+1" />
+          <data x="2013" y="-3" />
+          <data x="2014" y="-5" />
+        </dataset>
+      </graph>
+      <graph unit="%" x="location" y="number">
+        <title>Work Hours with Passengers in New York, Boston and San Francisco.</title>
+        <dataset label="Taxis">
+          <data x="New York_US" y="49.5" />
+          <data x="Boston_US" y="32" />
+          <data x="San Francisco_US" y="38.5" />
+        </dataset>
+        <dataset label="UberX">
+          <data x="New York_US" y="51.3" />
+          <data x="Boston_US" y="46.1" />
+          <data x="San Francisco_US" y="54.3" />
+        </dataset>
+        <chapter>
+          <title>Taxis vs. Uber: the European Strikes</title>
+          <paragraph>In June 2014 thousands of cab drivers took to the streets for large-scale protests over the famous ride sharing company, Uber. Protests in London, Madrid, and Berlin over the use of a mobile app to handle payments had forced a gridlocked stop. With all the commotion, however, Uber was seeing substantial gains in the App Store: the Uber app for iPhone had been climbing the App Store charts in major European countries immediately after the protests were announced.</paragraph>
+          <paragraph>The App Store’s fast reaction to the protests meant even more new users for Uber. These events worked in their favor: remarks from Uber executives showed they embraced the protests as a way to display the convenience and functionality of the service.</paragraph>
+        </chapter>
+      </graph>
+      <keywords>
+        <keyword name="Employment" />
+        <keyword name="Start-ups" />
+        <keyword name="Sharing Economy" />
+        <keyword name="Transportation" />
+      </keywords>
+      <sources>
+        <source>ag.ny.gov</source>
+        <source>bloomberg.com</source>
+        <source>cnbc.com</source>
+        <source>economist.com</source>
+        <source>hospitalitynet.org</source>
+        <source>independent.co.uk</source>
+        <source>insideairbnb.com</source>
+        <source>nytimes.com</source>
+        <source>psu.edu</source>
+        <source>salon.com</source>
+        <source>telegraph.co.uk</source>
+        <source>tradingeconomics.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+  </sections>
+</bulletin>

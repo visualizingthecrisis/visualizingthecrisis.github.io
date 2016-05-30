@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <bulletins>
+    <title>EU Debt Crisis Odysssey</title>
+  	<subtitle>About the european crisis</subtitle>
+  	<authors>
+      <author>Valeria Mento</author>
+      <author>Jacopo Faggian</author>
+      <author>Francesca Alaimo</author>
+    </authors>
+    <bulletin id="7" date="20160421">
+      <sections>
+
+      <section>
+    <title>IMF: recovery is “too low for too long”</title>
+      <chapter>
+        <paragraph>
+          The IMF revised down its forecast for global growth in 2016 for the fourth consecutive year, citing
+          loss of growth momentum in advanced economies,the turbulence in financial markets and political
+          and natural forces. Also EU has negative forecast, economic recovery was “too low for too long”.
+        </paragraph>
+      </chapter>
+      <graph unit="%" x="country" y="number">
+        <title>European growth outlook forecast 2008 | 2018</title>
+        <dataset label="Values in 2008">
+          <data x="DE" y="1"/>
+          <data x="IE" y="-2"/>
+          <data x="ES" y="1"/>
+          <data x="FR" y="0.5"/>
+          <data x="GB" y="-0.5"/>
+          <data x="GR" y="0"/>
+          <data x="IT" y="-0.5"/>
+          <data x="NL" y="1.5"/>
+          <data x="EU" y="0.5"/>
+        </dataset>
+        <dataset label="Values in 2010">
+          <data x="DE" y="-4"/>
+          <data x="IE" y="0.5"/>
+          <data x="ES" y="0"/>
+          <data x="FR" y="2.5"/>
+          <data x="GB" y="1.5"/>
+          <data x="GR" y="-4"/>
+          <data x="IT" y="1.5"/>
+          <data x="NL" y="1"/>
+          <data x="EU" y="2.5"/>
+        </dataset>
+        <dataset label="Values in 2012">
+          <data x="DE" y="1"/>
+          <data x="IE" y="0"/>
+          <data x="ES" y="-2.5"/>
+          <data x="FR" y="0.5"/>
+          <data x="GB" y="1"/>
+          <data x="GR" y="-7"/>
+          <data x="IT" y="-2.5"/>
+          <data x="NL" y="-0.5"/>
+          <data x="EU" y="-1"/>
+        </dataset>
+        <dataset label="Values in 2014">
+          <data x="DE" y="1.5"/>
+          <data x="IE" y="4.5"/>
+          <data x="ES" y="1"/>
+          <data x="FR" y="0.5"/>
+          <data x="GB" y="1"/>
+          <data x="GR" y="1"/>
+          <data x="IT" y="-0.5"/>
+          <data x="NL" y="1"/>
+          <data x="EU" y="1"/>
+        </dataset>
+        <dataset label="Values in 2016">
+          <data x="DE" y="1.5"/>
+          <data x="IE" y="4.5"/>
+          <data x="ES" y="2.5"/>
+          <data x="FR" y="1.5"/>
+          <data x="GB" y="1.5"/>
+          <data x="GR" y="-0.5"/>
+          <data x="IT" y="1"/>
+          <data x="NL" y="1.5"/>
+          <data x="EU" y="1.5"/>
+        </dataset>
+        <dataset label="Values in 2018">
+          <data x="DE" y="1"/>
+          <data x="IE" y="2.5"/>
+          <data x="ES" y="1.5"/>
+          <data x="FR" y="2"/>
+          <data x="GB" y="2"/>
+          <data x="GR" y="2"/>
+          <data x="IT" y="0.5"/>
+          <data x="NL" y="2.5"/>
+          <data x="EU" y="1.5"/>
+        </dataset>
+      </graph>
+      <graph unit="%" x="country" y="number">
+        <title>European growth outlook forecast 2008 | 2018</title>
+        <dataset label="Public debt">
+          <data x="DE" y="-12.7"/>
+          <data x="IE" y="-215.4"/>
+          <data x="ES" y="-183.5"/>
+          <data x="FR" y="-49.4"/>
+          <data x="GB" y="-103.6"/>
+          <data x="GR" y="-73.7"/>
+          <data x="IT" y="-53.2"/>
+          <data x="NL" y="-57.6"/>
+          <data x="EU" y="-91.1"/>
+        </dataset>
+        <dataset label="GDP">
+          <data x="DE" y="7.1"/>
+          <data x="IE" y="8.6"/>
+          <data x="ES" y="-3.3"/>
+          <data x="FR" y="3.4"/>
+          <data x="GB" y="7.3"/>
+          <data x="GR" y="-25.2"/>
+          <data x="IT" y="8.3"/>
+          <data x="NL" y="2.3"/>
+          <data x="EU" y="0.7"/>
+        </dataset>
+        <dataset label="Family consumption">
+          <data x="DE" y="6.9"/>
+          <data x="IE" y="-1.8"/>
+          <data x="ES" y="-8.8"/>
+          <data x="FR" y="4.9"/>
+          <data x="GB" y="5.2"/>
+          <data x="GR" y="-23.3"/>
+          <data x="IT" y="-6.3"/>
+          <data x="NL" y="-2.1"/>
+          <data x="EU" y="-4.6"/>
+        </dataset>
+        <dataset label="Investment">
+          <data x="DE" y="7.1"/>
+          <data x="IE" y="41.9"/>
+          <data x="ES" y="-29.5"/>
+          <data x="FR" y="-5.9"/>
+          <data x="GB" y="-0.3"/>
+          <data x="GR" y="-65.2"/>
+          <data x="IT" y="-29.8"/>
+          <data x="NL" y="-4.6"/>
+          <data x="EU" y="-18.4"/>
+        </dataset>
+        <dataset label="Industrial production">
+          <data x="DE" y="5.1"/>
+          <data x="IE" y="-69.9"/>
+          <data x="ES" y="-26.6"/>
+          <data x="FR" y="-13.4"/>
+          <data x="GB" y="-6.1"/>
+          <data x="GR" y="-28.5"/>
+          <data x="IT" y="-22.8"/>
+          <data x="NL" y="-1.1"/>
+          <data x="EU" y="-1.4"/>
+        </dataset>
+        <dataset label="Business loan">
+          <data x="DE" y="4.1"/>
+          <data x="IE" y="-42.0"/>
+          <data x="ES" y="-42.0"/>
+          <data x="FR" y="22.2"/>
+          <data x="GB" y="-22.6"/>
+          <data x="GR" y="2.9"/>
+          <data x="IT" y="-2.6"/>
+          <data x="NL" y="11.8"/>
+          <data x="EU" y="1.4"/>
+        </dataset>
+        <dataset label="Social exlusion">
+          <data x="DE" y="-0.4"/>
+          <data x="IE" y="-24.4"/>
+          <data x="ES" y="-24.4"/>
+          <data x="FR" y="1.1"/>
+          <data x="GB" y="6.6"/>
+          <data x="GR" y="-28.5"/>
+          <data x="IT" y="-7.9"/>
+          <data x="NL" y="-2.1"/>
+          <data x="EU" y="-7.9"/>
+        </dataset>
+        <dataset label="Employment">
+          <data x="DE" y="4.4"/>
+          <data x="IE" y="-13.7"/>
+          <data x="ES" y="-13.7"/>
+          <data x="FR" y="2.0"/>
+          <data x="GB" y="-4.2"/>
+          <data x="GR" y="-20.9"/>
+          <data x="IT" y="2.6"/>
+          <data x="NL" y="-2.6"/>
+          <data x="EU" y="3.0"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Import/Export" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
+        <keyword name="GDP" />
+        <keyword name="Credit rating" />
+        <keyword name="Employment" />
+        <keyword name="Inflation/Deflation" />
+        <keyword name="Investments" />
+        <keyword name="National Debt" />
+        <keyword name="Manufacturing" />
+      </keywords>
+      <sources>
+        <source>Ec.europa.eu</source>
+        <source>Brookings.com</source>
+        <source>Coface.com</source>
+        <source>Fincancialtimes.com</source>
+        <source>Tradingeconomics.com</source>
+        <source>Eurostat.eu/</source>
+        <source>Focuseconomics.com</source>
+        <source>Cer.com</source>
+        <source>Tiger.com</source>
+        <source>IMF.org</source>
+        <source>Wisdomtree.com</source>
+        <source>Theguardian.com</source>
+        <source>BBC.com</source>
+        <source>Bloomberg.com</source>
+      </sources>
+    </section>
+
+    <section>
+      <title>Renzi is wrong, says IMF</title>
+        <chapter>
+          <paragraph>
+            The International Monetary Fund (IMF) has updated also its Italian economy
+            estimates for the current year: the result is that IMF forecast are considerably
+            different from DEF (Documento di Economia e Finanza) published by Italy. The IMF
+            sweeps estimates that Renzi did: growth is less than half and debt is still rising.
+          </paragraph>
+        </chapter>
+        <graph unit="%" x="string" y="number">
+          <title>Unemployment forecast | April 2016</title>
+          <dataset label="Unemployment">
+            <data x="IMF" y="11.4"/>
+            <data x="DEF" y="11.4"/>
+          </dataset>
+        </graph>
+        <graph unit="%" x="country" y="number">
+          <title>titolo: IMF compared to DEF forecast in 2016</title>
+          <dataset label="Inflation">
+            <data x="DEF" y="0.2"/>
+            <data x="IMF" y="0.2"/>
+          </dataset>
+          <dataset label="Deficit/GDP">
+            <data x="DEF" y="2.3"/>
+            <data x="IMF" y="2.7"/>
+          </dataset>
+          <dataset label="GDP">
+            <data x="DEF" y="1.2"/>
+            <data x="IMF" y="1"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Employment" />
+          <keyword name="Inflation/Deflation" />
+          <keyword name="Western Europe" />
+          <keyword name="GDP" />
+        </keywords>
+        <sources>
+          <source>Ec.europa.eu</source>
+          <source>Brookings.com</source>
+          <source>Coface.com</source>
+          <source>Fincancialtimes.com</source>
+          <source>Tradingeconomics.com</source>
+          <source>Eurostat.eu/</source>
+          <source>Focuseconomics.com</source>
+          <source>Cer.com</source>
+          <source>Tiger.com</source>
+          <source>IMF.org</source>
+          <source>Wisdomtree.com</source>
+          <source>Theguardian.com</source>
+          <source>BBC.com</source>
+          <source>Bloomberg.com</source>
+        </sources>
+      </section>
+
+      <section>
+        <title>Is this the end of Schengen agreement?</title>
+          <chapter>
+            <paragraph>
+              The free movement of persons is a fundamental right guaranteed by the EU to its citizens,
+              thanks to Schengen agreement, signed in 1990. But in the past 18 months, mainly because
+              of migrants crisis, perspectives have darkened: some countries want to close their border
+              destoying what Schengen agreement built many years ago.
+            </paragraph>
+          </chapter>
+          <graph unit="%" x="date" y="number">
+            <title>Arrivals in Europe</title>
+            <dataset label="Migrants">
+              <data x="ES" y="3592"/>
+              <data x="IT" y="153600"/>
+              <data x="MT" y="105"/>
+              <data x="GR" y="851369"/>
+            </dataset>
+            <dataset label="Migrant data">
+              <data x="total" y="1008616"/>
+              <data x="death" y="3760"/>
+            </dataset>
+            </graph>
+            <keywords>
+              <keyword name="Eastern Europe" />
+              <keyword name="Northern Africa" />
+              <keyword name="Western Europe" />
+              <keyword name="Central Africa" />
+              <keyword name="Southern Afric" />
+              <keyword name="Middle East and Western Asia" />
+              <keyword name="Citizenship" />
+              <keyword name="Migration" />
+            </keywords>
+            <sources>
+              <source>Ec.europa.eu</source>
+              <source>Brookings.com</source>
+              <source>Coface.com</source>
+              <source>Fincancialtimes.com</source>
+              <source>Tradingeconomics.com</source>
+              <source>Eurostat.eu/</source>
+              <source>Focuseconomics.com</source>
+              <source>Cer.com</source>
+              <source>Tiger.com</source>
+              <source>IMF.org</source>
+              <source>Wisdomtree.com</source>
+              <source>Theguardian.com</source>
+              <source>BBC.com</source>
+              <source>Bloomberg.com</source>
+            </sources>
+        </section>
+
+        <section>
+          <title>Greece and Spain: target achieved?</title>
+            <chapter>
+              <paragraph>
+                The International Monetary Fund raised doubts about Greece’s ability
+                to meet the budget surplus target of 3.5 % of gross domestic product
+                within two years, because debt is too high for realize that goal.
+                Meanwhile, Spain is supposed to reduce its budget shortfall to 2.8 %
+                of GDP this year, but for EU commission this target will be missed.
+              </paragraph>
+            </chapter>
+            <graph unit="%" x="string" y="number">
+              <title>Greece’s fiscal surplus goals and forecasts 2015 | 2015</title>
+              <dataset label="goal">
+                <data x="2015" y="2"/>
+                <data x="2016" y="3"/>
+                <data x="2017" y="4"/>
+                <data x="2018" y="4"/>
+              </dataset>
+              <dataset label="forecast">
+                <data x="2015" y="-0.2"/>
+                <data x="2016" y="0.5"/>
+                <data x="2017" y="1.8"/>
+                <data x="2018" y="3.5"/>
+              </dataset>
+            </graph>
+            <graph unit="%" x="string" y="number">
+              <title>Spain’s fiscal deficit goals and forecasts 2015 | 2015</title>
+            <dataset label="goal">
+              <data x="2015" y="4.2"/>
+              <data x="2016" y="2.9"/>
+              <data x="2017" y="2.5"/>
+              <data x="2018" y="0.2"/>
+            </dataset>
+            <dataset label="forecast">
+              <data x="2015" y="5"/>
+              <data x="2016" y="4"/>
+              <data x="2017" y="3.5"/>
+              <data x="2018" y="2.8"/>
+            </dataset>
+          </graph>
+            <keywords>
+              <keyword name="Eastern Europe" />
+              <keyword name="Western Europe" />
+              <keyword name="GDP" />
+            </keywords>
+            <sources>
+              <source>Ec.europa.eu</source>
+              <source>Brookings.com</source>
+              <source>Coface.com</source>
+              <source>Fincancialtimes.com</source>
+              <source>Tradingeconomics.com</source>
+              <source>Eurostat.eu/</source>
+              <source>Focuseconomics.com</source>
+              <source>Cer.com</source>
+              <source>Tiger.com</source>
+              <source>IMF.org</source>
+              <source>Wisdomtree.com</source>
+              <source>Theguardian.com</source>
+              <source>BBC.com</source>
+              <source>Bloomberg.com</source>
+            </sources>
+          </section>
+
+          <section>
+            <title>Debt situation</title>
+            <chapter>
+              <paragraph>
+                Spain, the euro area’s fourth largest economy, has been under the commission’s
+                excessive-deficit procedure since 2009 (Greece too). Actually deficit value is
+                high, but never as Greece’s debt.
+              </paragraph>
+            </chapter>
+              <graph unit="%" x="date" y="number">
+                <title>Spain and Greece Debt to GDP 2006 | 2015 comparison</title>
+                <dataset label="Greece debt">
+                  <data x="2006" y="108"/>
+                  <data x="2007" y="108"/>
+                  <data x="2008" y="111"/>
+                  <data x="2009" y="130"/>
+                  <data x="2010" y="148"/>
+                  <data x="2011" y="171"/>
+                  <data x="2012" y="160"/>
+                  <data x="2013" y="178"/>
+                  <data x="2014" y="179"/>
+                  <data x="2015" y="179"/>
+                </dataset>
+                <dataset label="Spain debt">
+                  <data x="2006" y="40"/>
+                  <data x="2007" y="38"/>
+                  <data x="2008" y="40"/>
+                  <data x="2009" y="57"/>
+                  <data x="2010" y="60"/>
+                  <data x="2011" y="70"/>
+                  <data x="2012" y="88"/>
+                  <data x="2013" y="97"/>
+                  <data x="2014" y="99"/>
+                  <data x="2015" y="100"/>
+                </dataset>
+              </graph>
+              <keywords>
+                <keyword name="Eastern Europe" />
+                <keyword name="Western Europe" />
+                <keyword name="GDP" />
+                <keyword name="National Debt" />
+              </keywords>
+              <sources>
+                <source>Ec.europa.eu</source>
+                <source>Brookings.com</source>
+                <source>Coface.com</source>
+                <source>Fincancialtimes.com</source>
+                <source>Tradingeconomics.com</source>
+                <source>Eurostat.eu/</source>
+                <source>Focuseconomics.com</source>
+                <source>Cer.com</source>
+                <source>Tiger.com</source>
+                <source>IMF.org</source>
+                <source>Wisdomtree.com</source>
+                <source>Theguardian.com</source>
+                <source>BBC.com</source>
+                <source>Bloomberg.com</source>
+              </sources>
+          </section>
+
+    <section>
+      <title>Actual situation</title>
+      <chapter>
+        <paragraph>
+          Greece’s bond interest rate is too high and unsustainable, actually around 9%
+          (although value is lower compared to 2012). Instead, pain’s bond interest rate
+          is actually around 3%. Regarding forecasts for 2020, we can see a very negative
+          projection: revenues will never be higher than deficit value.
+        </paragraph>
+      </chapter>
+          <graph unit="%" x="date" y="number">
+            <title>Greece Government Bond 10 years 2006 | 2016</title>
+            <dataset label="Interest rate">
+              <data x="2006" y="4"/>
+              <data x="2007" y="4.5"/>
+              <data x="2008" y="4.5"/>
+              <data x="2009" y="5.5"/>
+              <data x="2010" y="6"/>
+              <data x="2011" y="11"/>
+              <data x="2012" y="40"/>
+              <data x="2013" y="10.7"/>
+              <data x="2014" y="8.5"/>
+              <data x="2015" y="10"/>
+              <data x="2016" y="9"/>
+            </dataset>
+          </graph>
+          <graph unit="EUR" x="date" y="number">
+            <title>Greece Revenue/Spending Forecasts 2010 | 2020</title>
+            <abstract>Data in € billion</abstract>
+            <dataset label="Revenue">
+              <data x="2010" y="93000000000"/>
+              <data x="2011" y="91000000000"/>
+              <data x="2012" y="88000000000"/>
+              <data x="2013" y="84000000000"/>
+              <data x="2014" y="82000000000"/>
+              <data x="2015" y="80000000000"/>
+              <data x="2016" y="76000000000"/>
+              <data x="2017" y="78000000000"/>
+              <data x="2018" y="79000000000"/>
+              <data x="2019" y="81000000000"/>
+              <data x="2020" y="83000000000"/>
+            </dataset>
+            <dataset label="Spending">
+              <data x="2010" y="118000000000"/>
+              <data x="2011" y="112000000000"/>
+              <data x="2012" y="100000000000"/>
+              <data x="2013" y="90000000000"/>
+              <data x="2014" y="89000000000"/>
+              <data x="2015" y="87000000000"/>
+              <data x="2016" y="83000000000"/>
+              <data x="2017" y="83000000000"/>
+              <data x="2018" y="82000000000"/>
+              <data x="2019" y="83000000000"/>
+              <data x="2020" y="84000000000"/>
+            </dataset>
+          </graph>
+          <graph unit="%" x="date" y="number">
+            <title>Spain Government Bond 10 years 2006 | 2016</title>
+            <dataset label="Interest rate">
+              <data x="2006" y="3.5"/>
+              <data x="2007" y="4.2"/>
+              <data x="2008" y="4.2"/>
+              <data x="2009" y="4.3"/>
+              <data x="2010" y="4"/>
+              <data x="2011" y="5.3"/>
+              <data x="2012" y="6.2"/>
+              <data x="2013" y="5.2"/>
+              <data x="2014" y="4"/>
+              <data x="2015" y="1.7"/>
+              <data x="2016" y="1.6"/>
+            </dataset>
+          </graph>
+          <graph unit="EUR" x="date" y="number">
+            <title>Spain Revenue/Spending Forecasts 2010 | 2020</title>
+            <abstract>Data in € billion</abstract>
+            <dataset label="Revenue">
+            <data x="2010" y="390000000000"/>
+            <data x="2011" y="385000000000"/>
+            <data x="2012" y="389000000000"/>
+            <data x="2013" y="391000000000"/>
+            <data x="2014" y="400000000000"/>
+            <data x="2015" y="415000000000"/>
+            <data x="2016" y="426000000000"/>
+            <data x="2017" y="435000000000"/>
+            <data x="2018" y="451000000000"/>
+            <data x="2019" y="470000000000"/>
+            <data x="2020" y="480000000000"/>
+          </dataset>
+          <dataset label="Spending">
+            <data x="2010" y="495000000000"/>
+            <data x="2011" y="490000000000"/>
+            <data x="2012" y="500000000000"/>
+            <data x="2013" y="465000000000"/>
+            <data x="2014" y="463000000000"/>
+            <data x="2015" y="463000000000"/>
+            <data x="2016" y="463000000000"/>
+            <data x="2017" y="466000000000"/>
+            <data x="2018" y="477000000000"/>
+            <data x="2019" y="485000000000"/>
+            <data x="2020" y="500000000000"/>
+          </dataset>
+          <keywords>
+            <keyword name="Eastern Europe" />
+            <keyword name="Western Europe" />
+            <keyword name="GDP" />
+            <keyword name="National Debt" />
+            <keyword name="Governance" />
+          </keywords>
+          <sources>
+            <source>Ec.europa.eu</source>
+            <source>Brookings.com</source>
+            <source>Coface.com</source>
+            <source>Fincancialtimes.com</source>
+            <source>Tradingeconomics.com</source>
+            <source>Eurostat.eu/</source>
+            <source>Focuseconomics.com</source>
+            <source>Cer.com</source>
+            <source>Tiger.com</source>
+            <source>IMF.org</source>
+            <source>Wisdomtree.com</source>
+            <source>Theguardian.com</source>
+            <source>BBC.com</source>
+            <source>Bloomberg.com</source>
+          </sources>
+          </graph>
+
+      </section>
+
+      <section>
+        <title>Two different capital flows</title>
+          <chapter>
+            <paragraph>
+              External investments in Greece are in (slowly) growing in the last month:
+              they’ve a value of 241.33 million €. Unfortunately in Spain situation isn’t
+              the same: capital flow have a negative value of -9813.00 million €.
+            </paragraph>
+          </chapter>
+          <graph unit="EUR" x="country" y="number">
+            <title>Foreign investments in Spain and Greece</title>
+            <dataset label="Investment value">
+              <data x="ES" y="-9813000000"/>
+              <data x="GR" y="241330000"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Eastern Europe" />
+            <keyword name="Western Europe" />
+            <keyword name="Investments" />
+          </keywords>
+          <sources>
+            <source>Ec.europa.eu</source>
+            <source>Brookings.com</source>
+            <source>Coface.com</source>
+            <source>Fincancialtimes.com</source>
+            <source>Tradingeconomics.com</source>
+            <source>Eurostat.eu/</source>
+            <source>Focuseconomics.com</source>
+            <source>Cer.com</source>
+            <source>Tiger.com</source>
+            <source>IMF.org</source>
+            <source>Wisdomtree.com</source>
+            <source>Theguardian.com</source>
+            <source>BBC.com</source>
+            <source>Bloomberg.com</source>
+          </sources>
+        </section>
+
+        <section>
+          <title>Presidents vs. presidents</title>
+            <chapter>
+              <title>On Greece's question:</title>
+              <paragraph>
+                <list type="unordered">
+                  <item>“Currently the debt is not sustainable and what is required is a debt operation,”
+                    said International Monetary Fund Managing Director Christine Lagarde.</item>
+                  <item>On Thursday, president of the Eurogroup Jeroen Dijsselbloem rejected this notion:
+                    “We did already a lot to make it more sustainable”, he said.</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>On Spain's question:</title>
+              <paragraph>
+                <list type="unordered">
+                  <item>Economic Affairs Commissioner Pierre Moscovici realizes Spain may need more time
+                    to cut its budget deficit (objectives are too hard to reach/achieve).</item>
+                  <item>Spain’s Prime Minister Mariano Rajoy, want the commission to give Spain two
+                    extra years to bring its deficit below the European Union’s 3 percent limit</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <keywords>
+              <keyword name="Eastern Europe" />
+              <keyword name="Western Europe" />
+              <keyword name="GDP" />
+              <keyword name="National Debt" />
+              <keyword name="Interest Rates" />
+              <keyword name="Credit rating" />
+            </keywords>
+            <sources>
+              <source>Ec.europa.eu</source>
+              <source>Brookings.com</source>
+              <source>Coface.com</source>
+              <source>Fincancialtimes.com</source>
+              <source>Tradingeconomics.com</source>
+              <source>Eurostat.eu/</source>
+              <source>Focuseconomics.com</source>
+              <source>Cer.com</source>
+              <source>Tiger.com</source>
+              <source>IMF.org</source>
+              <source>Wisdomtree.com</source>
+              <source>Theguardian.com</source>
+              <source>BBC.com</source>
+              <source>Bloomberg.com</source>
+            </sources>
+          </section>
+
+  </sections>
+</bulletin>
+</bulletins>

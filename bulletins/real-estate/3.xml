@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins>
+  <title>REAL ESTATE</title>
+  <subtitle>Visualizing the crisis</subtitle>
+  <authors>
+    <author>Irene Chiappini</author>
+    <author>Giulia Serafin</author>
+  </authors>
+  <bulletin id="3" date="20160317">
+    <title>"Weekly hot spots"</title>
+    <sections>
+      <section>
+        <title>Canada-Avarage home prices are climbing annually</title>
+        <chapter>
+          <paragraph>A soaring real estate market in Vancouver helped push the national average home price in Canada above the half-million dollar mark for first time in February.
+          </paragraph>
+        </chapter>
+        <graph unit="$" x="city" y="number">
+          <title>"Canada avarage home prices"</title>
+          <abstract>Victoria city has the highest average price of homes in all canadian cities</abstract>
+          <dataset label="avarage house prices">
+            <data x="Victoria" y="545.911"/>
+            <data x="Calgary" y="453.175"/>
+            <data x="Edmonton" y="357.718"/>
+            <data x="Regina" y="308.946"/>
+            <data x="Saskatoon" y="323.761"/>
+            <data x="Winnipeg" y="278.087"/>
+            <data x="Hamilton" y="456.083"/>
+            <data x="Burlington" y="456.083"/>
+            <data x="Kitchener" y="361.605"/>
+            <data x="Ottawa" y="356.180"/>
+            <data x="Sudburry" y="230.894"/>
+            <data x="Thunder Bay" y="196.045"/>
+            <data x="Windsor" y="204.682"/>
+            <data x="Trois Riviere" y="165.019"/>
+            <data x="Montréal" y="334.815"/>
+            <data x="Gatineau" y="234.383"/>
+            <data x="Saguenay" y="179.957"/>
+            <data x="Sherbrooke" y="222.368"/>
+            <data x="Saint John" y="152.408"/>
+          </dataset>
+        </graph>
+        <graph unit="%" x="city" y="number">
+          <title>"Canada avarage home prices change from 2015 to 2016"</title>
+          <abstract>Montréal has the highest percentage change of average price of homes in all canadian cities</abstract>
+          <dataset label="avarage house prices">
+            <data x="Victoria" y="11"/>
+            <data x="Calgary" y="2"/>
+            <data x="Edmonton" y="-0,5"/>
+            <data x="Regina" y="2"/>
+            <data x="Saskatoon" y="-8"/>
+            <data x="Winnipeg" y="4"/>
+            <data x="Hamilton" y="4"/>
+            <data x="Burlington" y="4"/>
+            <data x="Kitchener" y="11"/>
+            <data x="Ottawa" y="11"/>
+            <data x="Sudburry" y="12"/>
+            <data x="Thunder Bay" y="-1"/>
+            <data x="Windsor" y="-3"/>
+            <data x="Trois Riviere" y="1"/>
+            <data x="Montréal" y="13"/>
+            <data x="Gatineau" y="9"/>
+            <data x="Saguenay" y="3"/>
+            <data x="Sherbrooke" y="0,5"/>
+            <data x="Saint John" y="-11"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="North America"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Bloomerg “Canada Average Home Price ”</source>
+          </sources>
+      </section>
+      <section>
+        <title>UK-Hungry for homes</title>
+        <chapter>
+          <paragraph>The Bank of England isn't expected to raise rates until at least next year. Meanwhile, buy-to-let investors can get rental yields of 3 percent to 4 percent for residential property in London and more outside the capital.
+          </paragraph>
+        </chapter>
+        <graph unit="%" x="date" y="number">
+          <title>"Raise rate in the next years"</title>
+          <abstract>The Bank of England isn't expected to raise rates until at least next year.</abstract>
+          <dataset label="raise rate">
+            <data x="2015" y="15,000,000,000"/>
+            <data x="2020" y="50,000,000,000"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Eastern Europe"/>
+          <keyword name="Brexit"/>
+          <keyword name="Investments"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Bloomberg “'Brexit' Debate Delays Secure Trust's Plan to Offer Mortgages”</source>
+        </sources>
+      </section>
+      <section>
+        <title>Brexit worries</title>
+        <chapter>
+          <paragraph>Secure Trust Bank delayed a plan to start offering mortgages and curbed lending to London real estate developers over uncertainties arising from the U.K.’s vote on EU membership.it is preparing to offer mortgages for the first time after reporting a 18 percent increase in pretax profit to 39.3 million pounds for 2015.
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Eastern Europe"/>
+          <keyword name="Brexit"/>
+          <keyword name="Investments"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Bloomberg “'Brexit' Debate Delays Secure Trust's Plan to Offer Mortgages”</source>
+        </sources>
+      </section>
+      <section>
+        <title>UNICREDIT</title>
+        <chapter>
+          <paragraph>UniCredit SpA, Italy’s biggest bank, raised about 1.5 billion euros ($1.7 billion) selling real estate in Austria, Italy and Germany last year, completing more than half of the company’s four-year disposal target.
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Eastern Europe"/>
+          <keyword name="Investments"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Bloomberg “UniCredit Cuts Property”</source>
+        </sources>
+      </section>
+      <section>
+        <title>New York City building boom</title>
+        <chapter>
+          <paragraph>A construction boom in places such as Manhattan in the past several years has led to a glut of high-end residential condos and hotels. In New York City, the value of construction projects initiated last year reached $40.9 billion, up from $26.7 billion in 2014, according to the New York Building Congress. The surge is being driven by a wave of ground-up development, which accounted for 76 percent of the total in 2015.
+          </paragraph>
+          <graph unit="$" x="date" y="number">
+            <title>"Value of new construction projects initiated"</title>
+            <abstract>Growth in ground-up development is driving a surge in construction spending</abstract>
+            <dataset label="avarage house prices">
+              <data x="2009" y="16,000,000,000"/>
+              <data x="2010" y="20,000,000,000"/>
+              <data x="2011" y="15,000,000,000"/>
+              <data x="2012" y="17,000,000,000"/>
+              <data x="2013" y="20,000,000,000"/>
+              <data x="2014" y="26,000,000,000"/>
+              <data x="2015" y="41,000,000,000"/>
+            </dataset>
+          </graph>
+        </chapter>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Investments"/>
+            <keyword name="Construction"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Bloomberg “Lenders Are Getting Choosier When It Comes to Risky Real Estate Deals”</source>
+          </sources>
+        </section>
+        <section>
+          <title>Rio De Janeiro - 1 in 10 middle class slipped in downtown</title>
+          <chapter>
+            <paragraph>Of the 40 million people who climbed into Brazil’s middle class during the boom years of the previous decade, almost one in 10 has already slid back down.
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="South America"/>
+            <keyword name="Middle Class"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Bloomberg “A Rio Trucker's Woe and the Threat It Poses to the Brazil Dream”</source>
+          </sources>
+        </section>
+        <section>
+          <title>CAMPARI anda MARNIER</title>
+          <chapter>
+            <paragraph>Campari is getting more than a popular liqueur with its acquisition of Grand Marnier Group. It also takes the ownership of Villa Les Cedres, Saint Jean Cap Ferrat, one of the most expensive properties in the world, owned since the 1920s by the Marnier-Lapostolle family. The property is evaluated around 200.000 euro per square meter, so the villa might fetch between 200 and 350 million euros in a sale.
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Eastern Europe"/>
+            <keyword name="Investments"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Bloomberg “Campari's deal comes With chaser.”</source>
+          </sources>
+        </section>
+      </sections>
+    </bulletin>
+    <bulletin id="3" date="20160317">
+      <title>"Anbang, BANG"</title>
+      <sections>
+        <section>
+          <chapter>
+            <title>Strategic Hotels</title>
+            <paragraph>is a portfolio company, including US most famous luxury properties.Considered as a grioup of throphy properties, they are located across the country: from urban hotels to mountains resorts, including desert and oceanview hotels.
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>3 Months ago</title>
+            <paragraph>Blackstone Group bought it for $6 billion</paragraph>
+          </chapter>
+          <chapter>
+            <title>Now></title>
+            <paragraph>Anbang  Insurance (China) is buying it for $ 450 million more. EXPENSIVE ROOMS: it own now, more than 7500 of the US’ most expensive hotel rooms. STABILITY: the idea is that high profile poperties are a stable investments
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Southeastern Asia"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
+            <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
+            <source>Wall Street Journal “What is Anbang Insurance?”</source>
+            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meetingf of the US elite”</source>
+          </sources>
+        </section>
+        <section>
+          <title>Who is ANBANG?</title>
+          <chapter>
+            <paragraph>Anbang is a Beijing-based insurer which  has only been around for about a decade, but it counts:
+              <list type="unordered">
+                <item>30,000 employees </item>
+                <item>$114 billion in assets</item>
+                <item>300 branch</item>
+                <item>31 Chinese provinces</item>
+                <item>35,000 clients</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <chapter>
+            <paragraph> Anbang has a deep connection with China’s communist Party, the families are joined by marriage ties.
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>STARWOOD HOTELS and RESORT</title>
+            <paragraph>Anbang  has challenged Marriott International Inc's merger with Starwood with a huge offer: $ 12.9 billion.
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>WALDORF ASTORIA</title>
+            <paragraph>Last September Anbang bought the most iconic luxury hotel in the US $ 1.95 billion.
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Southeastern Asia"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
+            <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
+            <source>Wall Street Journal “What is Anbang Insurance?”</source>
+            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meetingf of the US elite”</source>
+          </sources>
+        </section>
+        <section>
+          <title>Other chinese purchase</title>
+          <chapter>
+            <paragraph>SHANGAY JING JANG INTERNATIONAL HOTELS GROUP CO. buy GROUP DU LOUVRE (Hotels in 46 countries) for $ 1,45 billion.
+            </paragraph>
+          </chapter>
+          <chapter>
+            <paragraph>CHINA’S SUNSHINE INSURANCE GROUP buy BACCARAT HOTEL, NY for $ 230 million
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Southeastern Asia"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
+            <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
+            <source>Wall Street Journal “What is Anbang Insurance?”</source>
+            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meetingf of the US elite”</source>
+          </sources>
+        </section>
+        <section>
+          <title>Some little details</title>
+          <chapter>
+            <title>WHERE THE PRESIDENT WILL SLEEP?</title>
+            <paragraph>After Waldorf Astoria sell, Barack Obama refused to stay in the hotel, breaking an eight decades-long presidential tradition.
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>IS US SCARED?</title>
+            <paragraph>Chinese acquisitions of U.S. assets have drawn scrutiny from regulators. The Committee on Foreign Investment in the U.S. is looking at these new assets.
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>EXPECTED SLOWDOWN</title>
+            <paragraph>hotel revenue per avaible room is projected to slow to the percentual growth.</paragraph>
+            <paragraph>
+                <list type="unordered">
+                <item>2014=8,1%</item>
+                <item>2015=6,3%</item>
+                <item>2016=5%</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Southeastern Asia"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
+            <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
+            <source>Wall Street Journal “What is Anbang Insurance?”</source>
+            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meetingf of the US elite”</source>
+          </sources>
+        </section>
+        <section>
+          <title>Recent China’s Acquisitions price amount (from January 2016) $25 bilion</title>
+          <graph unit="$" x="date" y="number">
+            <title>"Chinese investors speed up property deals"</title>
+            <abstract>2016 deals already total almost half of 2015 level</abstract>
+            <dataset label="price amount">
+              <data x="2011" y="7,000,000,000"/>
+              <data x="2012" y="6,000,000,000"/>
+              <data x="2013" y="20,000,000,000"/>
+              <data x="2014" y="31,000,000,000"/>
+              <data x="2015" y="52,000,000,000"/>
+              <data x="2016" y="26,000,000,000"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Southeastern Asia"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
+            <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
+            <source>Wall Street Journal “What is Anbang Insurance?”</source>
+            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meetingf of the US elite”</source>
+          </sources>
+        </section>
+        <section>
+          <title>CHINESE PROPERTY DEALS</title>
+          <chapter>
+            <paragraph>This year’s deals already cover almost half of 2015 level. This result has been achieved thanks also to the recent purchases of Anbang  on the US real estate market.
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Southeastern Asia"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
+            <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
+            <source>Wall Street Journal “What is Anbang Insurance?”</source>
+            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meetingf of the US elite”</source>
+          </sources>
+        </section>
+      </sections>
+    </bulletin>
+  </bulletins>

@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <bulletins>
+    <title>EU Debt Crisis Odysssey</title>
+  	<subtitle>About the european crisis</subtitle>
+  	<authors>
+      <author>Valeria Mento</author>
+      <author>Jacopo Faggian</author>
+      <author>Francesca Alaimo</author>
+    </authors>
+    <bulletin id="3" date="20160318">
+      <sections>
+
+  <section>
+    <title>Why is Greece’s rating still CCC?</title>
+      <chapter>
+        <paragraph>
+          Fitch Ratings has affirmed Greece’s Long-term foreign and local currency Issuer Default Ratings (IDRs)
+          at ‘CCC’, confirming the decision of the last year. Good progress has been made towards agreeing the
+          first review of the financial assistance programme with the ESM, but risks for investors still remain.
+          Greece’s primary fiscal deficit in 2015 is estimated at just within the programme target of 0.25% of GDP
+          partly due to a more resilient economic performance than was assumed last year. So Greece is doing something
+          to make its economy getting better, but why their condition is still the same?
+        </paragraph>
+      </chapter>
+      <chapter>
+      <title>1. No liquidity</title>
+        <paragraph>
+          Greek banks also continue to face very large funding imbalances and incentives to deleverage.
+          Private sector deposits have barely increased since falling 25% in 2015 and banks are targeting
+          a reduction in reliance on relatively expensive Emergency Liquidity Assistance (ELA), constraining
+          new lending. People trust in banks no more.
+        </paragraph>
+      </chapter>
+      <graph unit="USD" x="date" y="number">
+        <title>Bank deposit Jan 2010 | Gen2016</title>
+        <dataset label="Deposit value">
+          <data x="20100131" y="228000000000"/>
+          <data x="20110131" y="213000000000"/>
+          <data x="20120131" y="174000000000"/>
+          <data x="20130131" y="171000000000"/>
+          <data x="20140131" y="170000000000"/>
+          <data x="20150131" y="153000000000"/>
+          <data x="20160131" y="120000000000"/>
+        </dataset>
+      </graph>
+      <chapter>
+      <title>2. Unemployment</title>
+        <paragraph>
+          Taxes are rising, and unemployment remains at 25%, and near 50% for those aged 18-24.
+          Capital controls, including a measure limiting bank withdrawals to €420 a week, are still
+          in place. To solve the government is moving to privatise ports, airports and other public
+          assets: measures that, while economically sensible, are deeply unpopular.
+        </paragraph>
+      </chapter>
+      <graph unit="%" x="​string" y="number">
+        <title>Bank deposit Jan 2010 | Gen2016</title>
+        <dataset label="Unemployed percentage">
+          <data x="Unemployed" y="25"/>
+          <data x="Unemployed aged 18-24" y="50"/>
+        </dataset>
+      </graph>
+      <chapter>
+      <title>3. Tourism downfall</title>
+        <paragraph>
+          Europe’s refugee crisis is posing risks for the Greek economy and tneeds substantial help to deal with
+          the migratory flows. The main concern is caused by the potential possibility that tourism will be
+          discouraged because of the great affluence of immigrants in Greece and the instable situation caused by them.
+        </paragraph>
+      </chapter>
+      <chapter>
+      <title>4. Pension proposals</title>
+        <paragraph>
+          The Greek authorities have already legislated for the majority of the specific milestones agreed, most notably
+          to increase VAT and reduce social security costs. But the main potential stumbling block is the politically
+          sensitive pension proposals, where creditors are pushing for upfront cuts as a way of reducing implementation risks.
+        </paragraph>
+      </chapter>
+      <chapter>
+      <title>5. GDP slowdown</title>
+        <paragraph>
+          The recession has been relatively shallow, with GDP growth estimated at -0.3% in 2015. Private consumption held up
+          well , capital controls had a less negative effect than anticipated as companies had already stocked up on inventories
+          and households on cash, but Fitch forecasts a decline in GDP of 0.9% in 2016 due to negative carry over effects and
+          fiscal contraction, with a moderate recovery taking hold from 2016.
+        </paragraph>
+      </chapter>
+      <graph unit="%" x="​date" y="number">
+        <title>Greece’s GDP forecast</title>
+        <dataset label="GDP value">
+          <data x="20150131" y="2.0"/>
+          <data x="20150228" y="1.8"/>
+          <data x="20150331" y="1.8"/>
+          <data x="20150430" y="1.3"/>
+          <data x="20150530" y="0.9"/>
+          <data x="20150630" y="0.9"/>
+          <data x="20150731" y="-0.1"/>
+          <data x="20150831" y="-1.5"/>
+          <data x="20150930" y="-1.2"/>
+          <data x="20151031" y="-0.3"/>
+          <data x="20151130" y="-0.4"/>
+          <data x="20151231" y="-0.3"/>
+          <data x="20160131" y="-0.9"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Eastern Europe" />
+        <keyword name="Governance" />
+        <keyword name="Brexit/Grexit" />
+        <keyword name="GDP" />
+        <keyword name="Inflation/Deflation" />
+        <keyword name="Credit rating" />
+        <keyword name="Currencies" />
+        <keyword name="Income and Pensions" />
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Generation X (1965–1980)" />
+        <keyword name="Baby Boomers (1945–1964)" />
+        <keyword name="Working class" />
+        <keyword name="In poverty" />
+        <keyword name="Employment" />
+        <keyword name="Citizenship" />
+        <keyword name="Tourism" />
+        <keyword area="Migration" />
+        <keyword name="Income and Pensions" />
+        <keyword name="Unconventional Monetary Policies" />
+      </keywords>
+      <sources>
+        <source>Bankofgreece.gr</source>
+        <source>Tradingeconomics.com</source>
+        <source>Ilsole24ore.com</source>
+        <source>NewEurope.com</source>
+        <source>IBT.com</source>
+        <source>iEconomics.com</source>
+        <source>Bloomberg.com</source>
+      </sources>
+    </section>
+
+    <section>
+      <title>What are the consequences of immigration?</title>
+      <chapter>
+        <paragraph>
+          The cost of managing the migrant crisis in Greece will exceed a previous estimate
+          of 600 million euros ($670 million) as more and more refugees are forced to remain
+          in the country, says Yannis Stournaras, the Governor of the Bank of Greece.
+        </paragraph>
+        <paragraph>
+          More than 41,000 refugees and migrants are stranded in Greece, their plans to
+          travel north blocked by border shutdowns throughout the Balkans. That estimate
+          was based on the presumption that Greece was only a transit nation (Macedonia
+          and Bulgaria have builded border for block migrants), but if now they have
+          to host a large number of refugees, this estimate will have to be revised.
+        </paragraph>
+        <paragraph>
+          Prime Minister Alexis Tsipras says that the migrant crisis has the potential
+          to incur sizeable fiscal, social and political costs for Greece. The recent
+          proposal on returning migrants to Turkey somewhat alleviates this risk, but
+          is yet to be agreed and tested. Resulting political strains on relations with
+          EU partners could potentially also spill over to Greece’s ESM programme,
+          increasing delivery risks.
+        </paragraph>
+      </chapter>
+      <graph unit="USD" x="​string" y="number">
+        <title>Greece’s GDP forecast</title>
+        <dataset label="Value">
+          <data x="Total_Greece_GDP_2015" y="236000000"/>
+          <data x="Cost_of_migrant_crisis" y="670000000"/>
+        </dataset>
+      </graph>
+      <graph unit="" x="​date" y="number">
+          <title>Immigrants in Greece</title>
+          <dataset label="Number of immigrants">
+            <data x="20150831" y="20000"/>
+            <data x="20160331" y="41000"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Eastern Europe" />
+          <keyword name="Governance" />
+          <keyword name="Brexit/Grexit" />
+          <keyword name="GDP" />
+          <keyword name="Citizenship" />
+          <keyword area="Migration" />
+        </keywords>
+        <sources>
+          <source>Bankofgreece.gr</source>
+          <source>Tradingeconomics.com</source>
+          <source>Ilsole24ore.com</source>
+          <source>NewEurope.com</source>
+          <source>IBT.com</source>
+          <source>iEconomics.com</source>
+          <source>Bloomberg.com</source>
+        </sources>
+    </section>
+
+    <section>
+      <title>Mario strikes back</title>
+        <chapter>
+          <paragraph>
+            ECB decided to launch some monetary measures in order to help european families and corporations. The aim of
+            ECB is to prevent deflaction and stabilize monetary situation. ECB’s decisions surprised the entire Europe:
+            <list type="ordered">
+              <item>Reduction of refinancing rate from 0,05% to 0,00%;</item>
+              <item>Four new TLTRO rounds, with interest-free loan or negative interest;</item>
+              <item>Reduction of deposit rate from -0,30% to -0,40%;</item>
+              <item>Purchase of corporate bond, non financial bond;</item>
+              <item>Increase of QE from €60 billion to €80 billion.</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <chapter>
+        <title>ECB’s new TLTRO</title>
+            <paragraph>
+              For banks, from now on, log term operations will take place with free-loan. Until now we
+              don’t know what would be the consequences of this ECB’s actions.
+            </paragraph>
+          </chapter>
+          <graph unit="%" x="date" y="number">
+            <title>ECB interest rate 2007|2016</title>
+            <dataset label="Refinancing rate">
+              <data x="2007" y="3.75"/>
+              <data x="2008" y="3.75"/>
+              <data x="2009" y="2.5"/>
+              <data x="2010" y="1"/>
+              <data x="2011" y="1"/>
+              <data x="2012" y="1"/>
+              <data x="2013" y="0.75"/>
+              <data x="2014" y="0.25"/>
+              <data x="2015" y="0"/>
+              <data x="2016" y="0"/>
+            </dataset>
+            <dataset label="Deposit rate">
+              <data x="2007" y="2.75"/>
+              <data x="2008" y="2.95"/>
+              <data x="2009" y="2.75"/>
+              <data x="2010" y="0.25"/>
+              <data x="2011" y="0.25"/>
+              <data x="2012" y="0.2"/>
+              <data x="2013" y="0"/>
+              <data x="2014" y="0"/>
+              <data x="2015" y="-0.2"/>
+              <data x="2016" y="-0.4"/>
+            </dataset>
+          </graph>
+          <graph unit="EUR" x="string" y="number">
+            <title>QE balance: treasury stock; Mar2015 | Feb2016</title>
+            <dataset label="Refinancing rate">
+              <data x="DE" y="140411"/>
+              <data x="FR" y="111725"/>
+              <data x="IT" y="96265"/>
+              <data x="ES" y="69050"/>
+              <data x="NL" y="31247"/>
+              <data x="BE" y="19313"/>
+              <data x="AT" y="15346"/>
+              <data x="PT" y="13631"/>
+              <data x="FI" y="9832"/>
+              <data x="IE" y="9166"/>
+              <data x="SK" y="5751"/>
+              <data x="Other" y="6944"/>
+              <data x="Bond" y="72561"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Eastern Europe" />
+            <keyword name="Western Europe" />
+            <keyword name="Unconventional Monetary Policies" />
+            <keyword name="Inflation/Deflation" />
+            <keyword name="Investments" />
+            <keyword area="Interest Rates" />
+            <keyword area="Currencies" />
+          </keywords>
+          <sources>
+            <source>Bankofgreece.gr</source>
+            <source>Tradingeconomics.com</source>
+            <source>Ilsole24ore.com</source>
+            <source>NewEurope.com</source>
+            <source>IBT.com</source>
+            <source>iEconomics.com</source>
+            <source>Bloomberg.com</source>
+          </sources>
+    </section>
+
+    <section>
+      <title>Finland loses AAA rating from Fitch</title>
+        <chapter>
+          <paragraph>
+            Credit rating company Fitch has dropped Finland’s credit rating from the highest possible AAA to the second-best
+            rating, AA+. The company says that Finland’s future economic prospects are nonetheless stable, with an “Economic
+            performance which remains weak”. Fitch estimates Finland’s economic growth at exactly 1.0 percent. The government
+            is attempting to boost exports by improving competitiveness. While the country’s major trade unions and employers
+            have agreed on a plan to cut labor costs, about 40 percent of the members of the biggest union have rejected it.
+          </paragraph>
+        </chapter>
+        <graph unit="%" x="date" y="number">
+          <title>Some economic stats</title>
+          <dataset label="Inflation rate">
+            <data x="2014" y="1"/>
+            <data x="2015" y="-0.3"/>
+          </dataset>
+          <dataset label="Interest rate">
+            <data x="2014" y="0.2"/>
+            <data x="2015" y="0"/>
+          </dataset>
+          <dataset label="Retail sales">
+            <data x="2014" y="-0.5"/>
+            <data x="2015" y="-1.5"/>
+          </dataset>
+          <dataset label="Industial production">
+            <data x="2014" y="-0.5"/>
+            <data x="2015" y="-2"/>
+          </dataset>
+          <dataset label="Manufacturing production">
+            <data x="2014" y="-2"/>
+            <data x="2015" y="0.5"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Eastern Europe" />
+          <keyword name="Western Europe" />
+          <keyword name="Employment" />
+          <keyword name="Inflation/Deflation" />
+          <keyword name="Investments" />
+          <keyword area="Interest Rates" />
+          <keyword area="Credit rating" />
+          <keyword area="Manufacturing" />
+        </keywords>
+        <sources>
+          <source>Bankofgreece.gr</source>
+          <source>Tradingeconomics.com</source>
+          <source>Ilsole24ore.com</source>
+          <source>NewEurope.com</source>
+          <source>IBT.com</source>
+          <source>iEconomics.com</source>
+          <source>Bloomberg.com</source>
+        </sources>
+      </section>
+
+      <section>
+        <title>Export difficulties</title>
+          <chapter>
+            <paragraph>
+              The economic problems of Finland came primarily from a drop in demand from Russia,
+              first market for the Finnish export. Difficulties of trade have worsened by: the decline
+              of its most successful company, Nokia together with the sector of the production of the paper.
+            </paragraph>
+          </chapter>
+          <graph unit="%" x="string" y="number">
+            <title>Export from finland to russia 2008 | 2016</title>
+            <dataset label="Export fall">
+              <data x="value" y="-33%"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Eastern Europe" />
+            <keyword name="Western Europe" />
+            <keyword name="Import/Export" />
+            <keyword name="Commerce" />
+          </keywords>
+          <sources>
+            <source>Bankofgreece.gr</source>
+            <source>Tradingeconomics.com</source>
+            <source>Ilsole24ore.com</source>
+            <source>NewEurope.com</source>
+            <source>IBT.com</source>
+            <source>iEconomics.com</source>
+            <source>Bloomberg.com</source>
+          </sources>
+        </section>
+
+        <section>
+          <title>Some different ratings</title>
+          <chapter>
+            <paragraph>
+              Actually Finland have three different typologies of rate, depending on rating company which
+              assign the vote. So, these are actual rates from Fitch, Standard and Poor’s and Moody’s.
+            </paragraph>
+          </chapter>
+          <table>
+            <row type="head">
+              <cell>S and P</cell>
+              <cell>Moody's</cell>
+              <cell>Fitch</cell>
+            </row>
+            <row type="cell">
+              <cell>AA+</cell>
+              <cell>Aaa</cell>
+              <cell>AA+</cell>
+            </row>
+          </table>
+          <chapter>
+          <title>What’s the rating system</title>
+            <paragraph>
+              A credit rating is an evaluation of the credit worthiness of a debtor (a business company or a government)
+              predicting the debtor’s ability to pay back the debt. The credit rating represents the evaluation of the
+              credit rating agency of qualitative and quantitative information for the debtor.
+            </paragraph>
+          </chapter>
+          <table>
+            <row type="head">
+              <cell>S and P</cell>
+              <cell>Moody's</cell>
+              <cell>Fitch</cell>
+            </row>
+            <row type="cell">
+              <cell>AAA</cell>
+              <cell>Aaa</cell>
+              <cell>AAA</cell>
+            </row>
+            <row type="cell">
+              <cell>AA+, AA, AA-</cell>
+              <cell>Aa1, Aa2, Aa3</cell>
+              <cell>AA+, AA, AA-</cell>
+            </row>
+            <row type="cell">
+              <cell>A+, A, A-</cell>
+              <cell>A1, A2, A3</cell>
+              <cell>A+, A, A-</cell>
+            </row>
+            <row type="cell">
+              <cell>BBB+, BBB, BBB-</cell>
+              <cell>Baa1, Baa2, Baa3, Baa4</cell>
+              <cell>BBB+, BBB, BBB-</cell>
+            </row>
+            <row type="cell">
+              <cell>BB+, BB, BB-</cell>
+              <cell>Ba1, Ba2, Ba3</cell>
+              <cell>BB+, BB, BB-</cell>
+            </row>
+            <row type="cell">
+              <cell>B+, B, B-</cell>
+              <cell>B1, B2, B3</cell>
+              <cell>B+, B, B-</cell>
+            </row>
+            <row type="cell">
+              <cell>CCC, CC, C, RD, D</cell>
+              <cell>Caa1, Caa2, Caa3, Ca</cell>
+              <cell>CCC+, CCC, CCC-, CC, C, D</cell>
+            </row>
+          </table>
+          <keywords>
+            <keyword name="Eastern Europe" />
+            <keyword name="Credit rating" />
+          </keywords>
+          <sources>
+            <source>Bankofgreece.gr</source>
+            <source>Tradingeconomics.com</source>
+            <source>Ilsole24ore.com</source>
+            <source>NewEurope.com</source>
+            <source>IBT.com</source>
+            <source>iEconomics.com</source>
+            <source>Bloomberg.com</source>
+          </sources>
+      </section>
+
+      <section>
+        <title>The economic recovery is taking a long time to arrive</title>
+        <chapter>
+          <paragraph>
+            This diagram wants to illustrate some datas about finland’s financial situation from 2006 to 2015; for example,
+            in 2015 annual GDP growth rate increased only by 0,3%, and Fitch says there are no clear signs that Finland’s
+            domestic growth could top an annual growth of 1.0-1.2% over the medium term. Finland also has a very high public
+            spending, around 60% of GDP. Also public debt in the last years is growth a lot, as indicated in the diagram.
+          </paragraph>
+        </chapter>
+        <graph unit="%" x="date" y="number">
+          <title>Finland's economic panorama</title>
+          <dataset label="Public debt evolution">
+            <data x="2006" y="40"/>
+            <data x="2007" y="35"/>
+            <data x="2008" y="34"/>
+            <data x="2009" y="43"/>
+            <data x="2010" y="49"/>
+            <data x="2011" y="48"/>
+            <data x="2012" y="53"/>
+            <data x="2013" y="56"/>
+            <data x="2014" y="59"/>
+            <data x="2015" y="62"/>
+          </dataset>
+          <dataset label="Government Spending to GDP">
+            <data x="2006" y="48"/>
+            <data x="2007" y="47"/>
+            <data x="2008" y="48"/>
+            <data x="2009" y="55"/>
+            <data x="2010" y="55"/>
+            <data x="2011" y="54"/>
+            <data x="2012" y="56"/>
+            <data x="2013" y="58"/>
+            <data x="2014" y="59"/>
+            <data x="2015" y="59"/>
+          </dataset>
+          <dataset label="Annual GDP growth rate">
+            <data x="2006" y="+4.2"/>
+            <data x="2007" y="+5.9"/>
+            <data x="2008" y="-2.8"/>
+            <data x="2009" y="-6.6"/>
+            <data x="2010" y="+4.9"/>
+            <data x="2011" y="+0.8"/>
+            <data x="2012" y="-2.9"/>
+            <data x="2013" y="+0.1"/>
+            <data x="2014" y="-0.5"/>
+            <data x="2015" y="+0.3"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Eastern Europe" />
+          <keyword name="Western Europe" />
+          <keyword name="GDP" />
+          <keyword name="National Debt" />
+        </keywords>
+        <sources>
+          <source>Bankofgreece.gr</source>
+          <source>Tradingeconomics.com</source>
+          <source>Ilsole24ore.com</source>
+          <source>NewEurope.com</source>
+          <source>IBT.com</source>
+          <source>iEconomics.com</source>
+          <source>Bloomberg.com</source>
+        </sources>
+    </section>
+
+  </sections>
+</bulletin>
+</bulletins>

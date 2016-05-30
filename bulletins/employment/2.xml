@@ -1,0 +1,550 @@
+  <bulletin id="issue 2" date="20160312">
+    <sections>
+      <section>
+        <graph unit="%" x="date" y="number">
+          <title>US Unemployment Rate</title>
+          <dataset label="">
+            <data x="20150131" y="5.7" />
+            <data x="20150228" y="5.5" />
+            <data x="20150331" y="5.5" />
+            <data x="20150430" y="5.4" />
+            <data x="20150531" y="5.5" />
+            <data x="20150630" y="5.3" />
+            <data x="20150731" y="5.3" />
+            <data x="20150831" y="5.1" />
+            <data x="20150930" y="5.1" />
+            <data x="20151031" y="5.0" />
+            <data x="20151130" y="5.0" />
+            <data x="20151231" y="5.0" />
+            <data x="20160131" y="4.9" />
+          </dataset>
+        </graph>
+          <keywords>
+            <keyword name="North America" />
+            <keyword name="Employment" />
+          </keywords>
+          <sources>
+            <source>tradingeconomics.com</source>
+          </sources>
+      </section>
+      <section>
+        <chapter>
+        <title>The Rise of the Freelance Economy</title>
+          <paragraph>53.7 million Americans count themselves among the independent workforce – contractors, part-timers, solo business owners, full-time employees with a side gig and so on. That number is projected to grow over 4% per year through 2020, to reach about 66 million Americans.</paragraph>
+        </chapter>
+        <graph unit="%" x="string" y="percentage">
+          <title>Comparison between US Labor Force and US Freelancer in 2016</title>
+          <dataset label="">
+            <data x="US Labor Force" y="66" />
+            <data x="US Freelancer" y="34" />
+          </dataset>
+        </graph>
+        <graph unit="m" x="date" y="number">
+          <title>The Growth of US Freelancer</title>
+          <dataset label="">
+            <data x="2016" y="53.7" />
+            <data x="2020" y="66" />
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="North America" />
+          <keyword name="Employment" />
+        </keywords>
+        <sources>
+          <source>cjr.org</source>
+          <source>deskmag.com</source>
+          <source>google.it/trends</source>
+          <source>pewresearch.org</source>
+          <source>prnewswire.com</source>
+          <source>qz.com</source>
+          <source>tradingeconomics.com</source>
+          <source>wework.com</source>
+          <source>Internazionale</source>
+          <source>The Financial Times</source>
+        </sources>
+      </section>
+      <section>
+        <chapter>
+        <title>Alumni Networks</title>
+          <paragraph>Corporate alumni networks are growing in importance as employees spend less and less time at a single company.</paragraph>
+        </chapter>
+        <chapter>
+        <title>Boomerangs</title>
+          <paragraph>Annabel Rake, chief marketing officer at Deloitte UK, refers to returning workers as “boomerangs”. “These are people who come back with a new set of skills and experiences that we find very beneficial”.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Employment" />
+        </keywords>
+        <sources>
+          <source>cjr.org</source>
+          <source>deskmag.com</source>
+          <source>google.it/trends</source>
+          <source>pewresearch.org</source>
+          <source>prnewswire.com</source>
+          <source>qz.com</source>
+          <source>tradingeconomics.com</source>
+          <source>wework.com</source>
+          <source>Internazionale</source>
+          <source>The Financial Times</source>
+        </sources>
+      </section>
+      <section>
+        <title>Percent of Indipendent Workforce</title>
+        <graph unit="%" x="string" y="percentage">
+          <title>Segments</title>
+          <dataset label="">
+            <data x="Freelance Business Owners" y="5" />
+            <data x="Temporary Workers" y="9" />
+            <data x="Moonlighters" y="24" />
+            <data x="Diversified Workers" y="26" />
+            <data x="Indipendent Contractors" y="36" />
+          </dataset>
+        </graph>
+        <graph unit="%" x="string" y="percentage">
+          <title>Age Groups</title>
+          <dataset label="">
+            <data x="Seniors (69+)" y="8" />
+            <data x="Baby Boomers (51-68)" y="29" />
+            <data x="Millennials (21-34)" y="30" />
+            <data x="Generation X (35-50)" y="33" />
+          </dataset>
+        </graph>
+        <graph unit="%" x="string" y="percentage">
+          <title>Reasons</title>
+          <dataset label="">
+            <data x="Necessity" y="40" />
+            <data x="Choice" y="60" />
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Employment" />
+          <keyword name="Millennials (1981–2000)" />
+          <keyword name="Generation X (1965–1980)" />
+          <keyword name="Baby Boomers (1945–1964)" />
+          <keyword name="Silent Generation (1920–1944)" />
+        </keywords>
+        <sources>
+          <source>cjr.org</source>
+          <source>deskmag.com</source>
+          <source>google.it/trends</source>
+          <source>pewresearch.org</source>
+          <source>prnewswire.com</source>
+          <source>qz.com</source>
+          <source>tradingeconomics.com</source>
+          <source>wework.com</source>
+          <source>Internazionale</source>
+          <source>The Financial Times</source>
+        </sources>
+      </section>
+      <section>
+        <title>Share of Worker Compensation</title>
+        <chapter>
+          <paragraph>W-2s and 1099s are two separate tax forms for two different types of workers: if you’re an independent contractor, you get a 1099 form, if you’re an employee, you receive a W-2. By classifying workers as 1099s rather than W2s, employers are able to cut their expenses and reduce payroll costs as much as 32%.</paragraph>
+        </chapter>
+        <graph unit="%" x="string" y="number">
+          <title>W-2 vs 1099</title>
+          <abstract>
+            The 100% employee compensation corresponds to the 68% of the contract worker.
+          </abstract>
+          <dataset label="">
+            <data x="Employee Compensation" y="100" />
+            <data x="Freelancer Compensation" y="68" />
+          </dataset>
+        </graph>
+        <graph unit="%" x="string" y="percentage">
+          <title>W-2 Compartments</title>
+          <abstract>
+            The 100% employee compensation is divided into different parts between worker net wage and employer taxes and payments.
+          </abstract>
+          <dataset label="">
+            <data x="Employee Compensation" y="68" />
+            <data x="Legal Tax Obligation" y="8" />
+            <data x="Suppliment Pay" y="3" />
+            <data x="Insurance" y="9" />
+            <data x="Retirement and Savings" y="5" />
+            <data x="Paid Leave" y="7" />
+          </dataset>
+        </graph>
+        <graph unit="%" x="string" y="number">
+          <title>W-2 and 1099 Net Wages Comparison</title>
+          <abstract>
+            To be eligible for Social Securety and Medicare, a contract worker has to split both the employer and the employee shares of those pay roll taxes ‒ double what regular employees pay (15.3% vs 7.65%).
+          </abstract>
+          <dataset label="Net Wage">
+            <data x="Employee" y="60.35" />
+            <data x="Freelancer" y="52.7" />
+          </dataset>
+          <dataset label="Taxes">
+            <data x="Employee" y="7.65" />
+            <data x="Freelancer" y="15.3" />
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Employment" />
+          <keyword name="Income and Pensions" />
+          <keyword name="Taxes" />
+        </keywords>
+        <sources>
+          <source>cjr.org</source>
+          <source>deskmag.com</source>
+          <source>google.it/trends</source>
+          <source>pewresearch.org</source>
+          <source>prnewswire.com</source>
+          <source>qz.com</source>
+          <source>tradingeconomics.com</source>
+          <source>wework.com</source>
+          <source>Internazionale</source>
+          <source>The Financial Times</source>
+        </sources>
+      </section>
+      <section>
+        <title>Freelance Journalism</title>
+        <chapter>
+          <paragraph>The shuttering of foreign bureaus has given freelancers a bigger role in covering international news, but at the same time they are largely left on their own. </paragraph>
+          <paragraph>Freelance journalists increasingly have to rely on UN and non-governmental organization (NGO). These collaborations are often restrictive, but they are also potentially profitable and entirely necessary to safely and affordably report important stories. </paragraph>
+        </chapter>
+        <graph unit="" x="date" y="number">
+          <title>Number of Journalists in American Newsrooms</title>
+          <subtitle>Source: Pew Research Center.</subtitle>
+          <dataset label="">
+            <data x="1980" y="47000" />
+            <data x="1985" y="53000" />
+            <data x="1990" y="56000" />
+            <data x="1995" y="54000" />
+            <data x="2000" y="56000" />
+            <data x="2005" y="54000" />
+            <data x="2010" y="42000" />
+            <data x="2015" y="33000" />
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Employment" />
+        </keywords>
+        <sources>
+          <source>cjr.org</source>
+          <source>deskmag.com</source>
+          <source>google.it/trends</source>
+          <source>pewresearch.org</source>
+          <source>prnewswire.com</source>
+          <source>qz.com</source>
+          <source>tradingeconomics.com</source>
+          <source>wework.com</source>
+          <source>Internazionale</source>
+          <source>The Financial Times</source>
+        </sources>
+      </section>
+      <section>
+        <chapter>
+        <title>Economic Impact Of US Freelancers</title>
+          <paragraph>The economic impact of the 53.7 million Americans who are freelancing is significant:collectively, they contribute more than $715 billion in freelance earnings to the national economy.</paragraph>
+        </chapter>
+          <chapter>
+          <title>1099 Problems</title>
+            <paragraph>10 to 30% US employers are estimated to misclassifying their employees as independent cotractors, which amounts to several million workers nationally.</paragraph>
+          </chapter>
+        <chapter>
+        <title>7 Rights Lost When Misclassified as 1099</title>
+        <paragraph>
+        <list type="ordered">
+          <item>Minimum wage</item>
+          <item>Overtime</item>
+          <item>Employer-provided health insurance</item>
+          <item>Retirement benefits</item>
+          <item>Paid leave</item>
+          <item>Workers compensation</item>
+          <item>Unemployment insurance</item>
+        </list>
+      </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Employment" />
+          <keyword name="Income and Pensions" />
+          <keyword name="Taxes" />
+        </keywords>
+        <sources>
+          <source>cjr.org</source>
+          <source>deskmag.com</source>
+          <source>google.it/trends</source>
+          <source>pewresearch.org</source>
+          <source>prnewswire.com</source>
+          <source>qz.com</source>
+          <source>tradingeconomics.com</source>
+          <source>wework.com</source>
+          <source>Internazionale</source>
+          <source>The Financial Times</source>
+        </sources>
+      </section>
+      <section>
+        <title>3 Best Practices for Freelancing</title>
+        <graph unit="%" x="string" y="percentage">
+          <title>1. Know Your Community</title>
+          <abstract>42% live in an urban area and may explore coworking options. These can provide a quiet alternative to crowded coffee shops as well as a network of supportive peers and potential leads to find newer opportunities.</abstract>
+          <dataset label="">
+            <data x="Freelancers that explores coworking options" y="42" />
+            <data x="Remaining freelancer respondents" y="58" />
+          </dataset>
+        </graph>
+        <graph unit="%" x="string" y="percentage">
+          <title>2. Budget Your Finances</title>
+          <abstract>62% didn’t make estimated tax payments at all. Hiring an accountant can help ensure that your bookkeeping is set up the right way, both legally and practically.</abstract>
+          <dataset label="">
+            <data x="Freelancers that hire an accountant" y="62" />
+            <data x="Remaining freelancer respondents" y="38" />
+          </dataset>
+        </graph>
+        <graph unit="%" x="string" y="number">
+          <title>3. Diversify Your Income Stream</title>
+          <abstract>92% had other sources of income, whether in the form of part-time or full-time work. With support from online platforms and services that are helping workers organize and manage themselves.</abstract>
+          <dataset label="">
+            <data x="Freelancers that have other sources of income" y="92" />
+          <data x="Remaining freelancer respondents" y="8" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Employment" />
+        <keyword name="Income and Pensions" />
+        <keyword name="Taxes" />
+      </keywords>
+      <sources>
+        <source>cjr.org</source>
+        <source>deskmag.com</source>
+        <source>google.it/trends</source>
+        <source>pewresearch.org</source>
+        <source>prnewswire.com</source>
+        <source>qz.com</source>
+        <source>tradingeconomics.com</source>
+        <source>wework.com</source>
+        <source>Internazionale</source>
+        <source>The Financial Times</source>
+      </sources>
+    </section>
+    <section>
+      <title>Around the World</title>
+      <chapter>
+        <title>History of Coworking Spaces</title>
+        <paragraph>
+        <list type="unordered">
+          <item>1996: Berlin_DE: C-base was one the first hackerspaces in the world.</item>
+          <item>1998: Cambridge_UK: Its innovation center (CIC) was the first to offer spaces and services to young companies.</item>
+          <item>1999: New York_US: 42 West 24 opened long before the term “coworking” entered popular use: pleasant work environment with flexible desks available for rent.</item>
+          <item>2002: Vienna_AT: Schraubenfa brik, mother of coworking spaces: flexible community oriented to share workspaces.</item>
+          <item>2003: Århus_NL: LYNfabriikken pre-coworking space: coffeeshop with workspace.</item>
+          <item>2005: Mountain View_US: Y Combinator was the first and the most influential accelerator: workplaces designed to help startup companies grow more rapidly.</item>
+          <item>2006: San Francisco_US: The first official coworking space: versatile workplaces that provide communities, business services and collaborations.</item>
+        </list>
+      </paragraph>
+      </chapter>
+      <graph unit="" x="date" y="number">
+        <title>Growth of Coworking Spaces Worldwide</title>
+        <dataset label="">
+          <data x="2007" y="75" />
+          <data x="2008" y="193" />
+          <data x="2009" y="310" />
+          <data x="2010" y="720" />
+          <data x="2011" y="1130" />
+          <data x="2012" y="2265" />
+          <data x="2013" y="3400" />
+          <data x="2014" y="5600" />
+          <data x="2015" y="7800" />
+        </dataset>
+      </graph>
+        <graph unit="$" x="string" y="number">
+          <title>Living and Working Cost</title>
+          <dataset label="Cost">
+            <data x="New York_US" y="5332" />
+            <data x="San Francisco_US" y="4854" />
+            <data x="London_UK" y="4052" />
+            <data x="Amsterdam_NL" y="3121" />
+            <data x="Boulder_US" y="3070" />
+            <data x="Berlin_DE" y="2887" />
+            <data x="Barcelona_ES" y="2854" />
+            <data x="Austin_US" y="2542" />
+            <data x="Singapore_CN" y="2476" />
+            <data x="Las Palmas_ES" y="1698" />
+            <data x="Medellin_CO" y="1318" />
+            <data x="Santiago_CL" y="1289" />
+            <data x="Ubud_ID" y="1068" />
+            <data x="Prague_CZ" y="972" />
+            <data x="Ho Chi Min_VN" y="961" />
+            <data x="Chiang Mai_TH" y="636" />
+            <data x="Bengalore_IN" y="584" />
+          </dataset>
+          <dataset label="Rent">
+            <data x="New York_US" y="570" />
+            <data x="San Francisco_US" y="480" />
+            <data x="London_UK" y="297" />
+            <data x="Amsterdam_NL" y="262" />
+            <data x="Boulder_US" y="350" />
+            <data x="Berlin_DE" y="175" />
+            <data x="Barcelona_ES" y="218" />
+            <data x="Austin_US" y="200" />
+            <data x="Singapore_CN" y="218" />
+            <data x="Las Palmas_ES" y="103" />
+            <data x="Medellin_CO" y="158" />
+            <data x="Santiago_CL" y="196" />
+            <data x="Ubud_ID" y="232" />
+            <data x="Prague_CZ" y="155" />
+            <data x="Ho Chi Min_VN" y="93" />
+            <data x="Chiang Mai_TH" y="106" />
+            <data x="Bengalore_IN" y="104" />
+          </dataset>
+        </graph>
+        <chapter>
+          <title>WeWork Locations</title>
+          <paragraph>
+          <list type="unordered">
+            <item>Montreal_CA</item>
+            <item>Atlanta_US</item>
+            <item>Ausitin_US</item>
+            <item>Berkeley_US</item>
+            <item>Boston_US</item>
+            <item>Chicago_US</item>
+            <item>Denver_US</item>
+            <item>Los Angeles_US</item>
+            <item>Miami_US</item>
+            <item>New York_US</item>
+            <item>Philadelphia_US</item>
+            <item>Portland_US</item>
+            <item>San Francisco_US</item>
+            <item>San Jose_US</item>
+            <item>Seattle_US</item>
+            <item>Washington DC_US</item>
+            <item>Berlin_DE</item>
+            <item>Amsterdam_NL</item>
+            <item>London_UK</item>
+            <item>Be'er Sheva_IL</item>
+            <item>Hezliya_IL</item>
+            <item>Tel Aviv_IL</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>WeWork Comming Soon Locations</title>
+        <paragraph>
+        <list type="unordered">
+          <item>Mexico City_MX</item>
+          <item>Shangai_CN</item>
+          <item>Hong Kong_CN</item>
+          <item>Sidney_AU</item>
+        </list>
+      </paragraph>
+    </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="South America" />
+        <keyword name="Western Europe" />
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Southeastern Asia" />
+        <keyword name="Oceania" />
+        <keyword name="Employment" />
+        <keyword name="Start-ups" />
+      </keywords>
+      <sources>
+        <source>cjr.org</source>
+        <source>deskmag.com</source>
+        <source>google.it/trends</source>
+        <source>pewresearch.org</source>
+        <source>prnewswire.com</source>
+        <source>qz.com</source>
+        <source>tradingeconomics.com</source>
+        <source>wework.com</source>
+        <source>Internazionale</source>
+        <source>The Financial Times</source>
+      </sources>
+    </section>
+    <section>
+      <title>The Rising Interest for Coworking Spaces</title>
+      <graph unit="%" x="date" y="number">
+        <title>Google Searches of the Term Coworking in the Last 10 Yerars</title>
+        <subtitle>Source: Google Trends</subtitle>
+        <dataset label="Search">
+          <data x="20070312" y="2" />
+          <data x="20070912" y="3" />
+          <data x="20080312" y="6" />
+          <data x="20080912" y="5" />
+          <data x="20090312" y="7" />
+          <data x="20090912" y="9" />
+          <data x="20100312" y="13" />
+          <data x="20100912" y="15" />
+          <data x="20110312" y="20" />
+          <data x="20110912" y="25" />
+          <data x="20120312" y="32" />
+          <data x="20120912" y="38" />
+          <data x="20130312" y="43" />
+          <data x="20130912" y="53" />
+          <data x="20140312" y="55" />
+          <data x="20140912" y="64" />
+          <data x="20150312" y="74" />
+          <data x="20150912" y="84" />
+          <data x="20160312" y="100" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Employment" />
+      </keywords>
+      <sources>
+        <source>cjr.org</source>
+        <source>deskmag.com</source>
+        <source>google.it/trends</source>
+        <source>pewresearch.org</source>
+        <source>prnewswire.com</source>
+        <source>qz.com</source>
+        <source>tradingeconomics.com</source>
+        <source>wework.com</source>
+        <source>Internazionale</source>
+        <source>The Financial Times</source>
+      </sources>
+    </section>
+    <section>
+      <title>WeWork</title>
+    <table>
+      <row type="head">
+        <cell>WeWork</cell>
+        <cell>vs</cell>
+        <cell>Regus</cell>
+      </row>
+      <row type="cell">
+        <cell>77</cell>
+        <cell>centres</cell>
+        <cell>3000</cell>
+       </row>
+       <row type="cell">
+         <cell>6</cell>
+         <cell>countries</cell>
+         <cell>120</cell>
+        </row>
+        <row type="cell">
+          <cell>50000</cell>
+          <cell>members</cell>
+          <cell>1.5m</cell>
+         </row>
+         <row type="cell">
+           <cell>$16b</cell>
+           <cell>valuation</cell>
+           <cell>$4b</cell>
+          </row>
+    </table>
+      <chapter>
+        <title>WeWork in China</title>
+        <paragraph>WeWork, the New York-based shared-office start-up, announced last wednesday that it had received $430 million in funding from investors includind two Chinabased private equtity funds, Hony Capital and Legend Holdings. The deal values the company at $16 billion, four time as large as Regus, a UK-listed flexible workplace provider.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Employment" />
+        <keyword name="Start-ups" />
+      </keywords>
+    </section>
+    <sources>
+      <source>cjr.org</source>
+      <source>deskmag.com</source>
+      <source>google.it/trends</source>
+      <source>pewresearch.org</source>
+      <source>prnewswire.com</source>
+      <source>qz.com</source>
+      <source>tradingeconomics.com</source>
+      <source>wework.com</source>
+      <source>Internazionale</source>
+      <source>The Financial Times</source>
+    </sources>
+  </sections>
+</bulletin>

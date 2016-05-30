@@ -1,0 +1,397 @@
+<bulletins group="techbubble">
+  <title>Bursting Unicorns</title>
+  <authors>
+    <author>Elisa Bianchi</author>
+    <author>Francesca Luzi</author>
+    <author>Federico Rita</author>
+  </authors>
+  <bulletin id="4" date="20160324">
+    <sections>
+      <section>
+        <title>Rank of valuation</title>
+        <abstract>The first ten private companies valued at $1 billion or more
+          is unchanged and there aren't new unicorns.</abstract>
+          <chapter>
+            <paragraph>
+              <list type="ordered">
+                <item>Uber</item>
+                <item>Xiaomi</item>
+                <item>Airbnb</item>
+                <item>Palantir</item>
+                <item>Dianping</item>
+                <item>Snapchat</item>
+                <item>Wework</item>
+                <item>Flipkart</item>
+                <item>Didi Kuaidi</item>
+                <item>SpaceX</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Start-ups"/>
+            <keyword area="North America"/>
+            <keyword name="Central and Eastern Asia"/>
+            <keyword name="Transportation"/>
+            <keyword name="Tech"/>
+            <keyword name="Commerce"/>
+            <keyword name="Tourism"/>
+            <keyword name="Investments"/>
+            <keyword name="Employment"/>
+          </keywords>
+          <sources>
+            <source>bloomberg.com</source>
+            <source>qz.com</source>
+            <source>wsj.com</source>
+            <source>cbinsights</source>
+          </sources>
+        </section>
+        <section>
+          <title>Are the giants falling?</title>
+          <chapter>
+            <paragraph>For Groupon, Yahoo!, Twitter and Linkedin are increasing
+              possibilities of acquisitions.“The yellow knight”, Alibaba acquired
+              in fact part of Groupon, and Yahoo!, and there are rumors about
+              amounts even higher.</paragraph>
+            </chapter>
+            <graph unit="%" x="string" y="percentage">
+              <title>Groupon stock</title>
+              <abstract>On March 24th 2016 Groupon stock worths 3.94 $. 5.6% of this
+                belongs to Alibaba.</abstract>
+                <dataset label= "Stock">
+                  <data x="Alibaba" y="5.6"/>
+                  <data x="Groupon" y="94.4"/>
+                </dataset>
+              </graph>
+              <graph unit="$" x="date" y="number">
+                <title>Groupon trends from 2011 to today</title>
+                <abstract>After Alibaba bought part of Gruopon stock, this doubled
+                  in less than three months.</abstract>
+                  <dataset label= "Stock trend">
+                    <data x="2011" y="27"/>
+                    <data x="2012" y="17"/>
+                    <data x="2013" y="5.2"/>
+                    <data x="2014" y="12"/>
+                    <data x="2015" y="8"/>
+                    <data x="2016" y="2"/>
+                    <data x="Mar2016" y="3.9"/>
+                  </dataset>
+                </graph>
+                <graph unit="%" x="string" y="percentage">
+                  <title>Yahoo stock</title>
+                  <abstract></abstract>
+                  <dataset label= "Stock">
+                    <data x="Alibaba" y="15"/>
+                    <data x="Groupon" y="85"/>
+                  </dataset>
+                </graph>
+                <keywords>
+                  <keyword name="Tech" />
+                  <keyword name="Commerce" />
+                  <keyword name="North America" />
+                  <keyword name="Global Corporations" />
+                  <keyword name="Central and Eastern Asia" />
+                  <keyword name="Investments" />
+                </keywords>
+                <sources>
+                  <source>bloomberg.com</source>
+                  <source>qz.com</source>
+                  <source>wsj.com</source>
+                  <source>cbinsights</source>
+                </sources>
+              </section>
+              <section>
+                <title>The expanding unicorn</title>
+                <chapter>
+                  <paragraph>WeWork is a co-working space startup headquartered in NYC
+                    valued $16 Billion at the last round of funding, driven
+                    by the Chinese Hony Capital.</paragraph>
+                    <paragraph>In March 18th, 2016, WeWork acquired Welkio, a digital
+                      sign-in system for guests at an office. WeWork has been building
+                      toward adding more of a software layer to its physical,
+                      real estate-based business. This acquisition is just the beginning
+                      of a move toward more efficient software to help power the various
+                      companies and locations that WeWork operates. On August 5th, 2015
+                      the company had already acquired Case a building information modeling firm,
+                      which was meant to help WeWork expand to new locations with faster
+                      and more efficient information around remodeling those new locations.</paragraph>
+                      <paragraph>WeWork had more than 80 locations across 27 cities
+                        and it’s continuing to expand. The aggressive territorial
+                        expansion will cover China, South Korea and India.</paragraph>
+                      </chapter>
+                      <graph x="string" y="number">
+                        <title>Wework's number and location of offices</title>
+                        <abstract>Wework has expanded worldwide. Sydney and New Dehli
+                          are coming soon locations.</abstract>
+                          <dataset label= "offices">
+                            <data x="New York City" y="30"/>
+                            <data x="Philadelphia" y="2"/>
+                            <data x="Boston" y="2"/>
+                            <data x="Washington" y="6"/>
+                            <data x="Chicago" y="4"/>
+                            <data x="Atlanta" y="1"/>
+                            <data x="Miami" y="2"/>
+                            <data x="Austin" y="2"/>
+                            <data x="Denver" y="2"/>
+                            <data x="Mexico city" y="1"/>
+                            <data x="Portland" y="1"/>
+                            <data x="Los Angeles" y="10"/>
+                            <data x="San Jose" y="1"/>
+                            <data x="Berkeley" y="1"/>
+                            <data x="San Francisco" y="6"/>
+                            <data x="Seattle" y="3"/>
+                            <data x="London" y="11"/>
+                            <data x="Amsterdam" y="2"/>
+                            <data x="Berlin" y="2"/>
+                            <data x="Be'er Sheva" y="1"/>
+                            <data x="Tel Aviv" y="3"/>
+                            <data x="Herzliya" y="1"/>
+                            <data x="Seoul" y="1"/>
+                            <data x="Shanghai" y="1"/>
+                            <data x="Hong Kong" y="1"/>
+                          </dataset>
+                        </graph>
+                        <keywords>
+                          <keyword name="Employment"/>
+                          <keyword name="Tech"/>
+                          <keyword name="North America"/>
+                          <keyword name="Western Europe"/>
+                          <keyword name="Middle East and Western Asia"/>
+                          <keyword name="Central and Eastern Asia"/>
+                          <keyword name="Oceania"/>
+                          <keyword name="Start-ups"/>
+                        </keywords>
+                        <sources>
+                          <source>bloomberg.com</source>
+                          <source>qz.com</source>
+                          <source>wsj.com</source>
+                          <source>cbinsights</source>
+                        </sources>
+                      </section>
+                      <section>
+                        <title>Let's all go to Cuba</title>
+                        <chapter>
+                          <paragraph>The U.S. and Cuba have had one of the world’s strangest
+                            relationships. Think of it: a Caribbean island-nation of just
+                            11 million people locked in a seemingly permanent standoff with a superpower.
+                            Diplomatic relations between the two sides formally resumed in July 2015,
+                            and interest sections in Washington and Havana were converted
+                            to embassies. In this week, executives from several technology companies
+                            are traveling with the U.S. president on his goodwill tour
+                            or introducing new business initiatives focused on the island, or both.</paragraph>
+                            <paragraph>March 22th 2016, President Obama is in Cuba,
+                              and Silicon Valley is tagging along for the ride.</paragraph>
+                            </chapter>
+                            <graph unit="B$" x="date" y="number">
+                              <title>History of US-Cuban relations</title>
+                              <dataset label= "global imports">
+                                <data x="1950" y="1"/>
+                                <data x="1955" y="1"/>
+                                <data x="1960" y="1"/>
+                                <data x="1965" y="1.5"/>
+                                <data x="1970" y="2"/>
+                                <data x="1975" y="2"/>
+                                <data x="1980" y="5"/>
+                                <data x="1985" y="7"/>
+                                <data x="1990" y="8"/>
+                                <data x="1995" y="3"/>
+                                <data x="2000" y="4.5"/>
+                                <data x="2005" y="4"/>
+                                <data x="2010" y="10.2"/>
+                                <data x="2015" y="13"/>
+                              </dataset>
+                              <dataset label= "global exports">
+                                <data x="1950" y="1"/>
+                                <data x="1955" y="1"/>
+                                <data x="1960" y="1"/>
+                                <data x="1965" y="1"/>
+                                <data x="1970" y="1"/>
+                                <data x="1975" y="1.5"/>
+                                <data x="1980" y="4"/>
+                                <data x="1985" y="6"/>
+                                <data x="1990" y="6"/>
+                                <data x="1995" y="2"/>
+                                <data x="2000" y="2.5"/>
+                                <data x="2005" y="2.5"/>
+                                <data x="2010" y="3.5"/>
+                                <data x="2015" y="6"/>
+                              </dataset>
+                            </graph>
+                            <table>
+                              <row type="head">
+                                <cell>date</cell>
+                                <cell>event</cell>
+                              </row>
+                              <row type="cell">
+                                <cell>Oct '60</cell>
+                                <cell>US imposes first trade embargo</cell>
+                              </row>
+                              <row type="cell">
+                                <cell>Jan '61</cell>
+                                <cell>US breaks off diplomatic relations</cell>
+                              </row>
+                              <row type="cell">
+                                <cell>Feb '62</cell>
+                                <cell>US imposes full trade embargo</cell>
+                              </row>
+                              <row type="cell">
+                                <cell>Mar '77</cell>
+                                <cell>US travel restrictions allowed to lapse</cell>
+                              </row>
+                              <row type="cell">
+                                <cell>Nov '82</cell>
+                                <cell>Travel ban is re-established, trade sanctions tightened </cell>
+                              </row>
+                              <row type="cell">
+                                <cell>Mar '96</cell>
+                                <cell>US eases travel restriction</cell>
+                              </row>
+                              <row type="cell">
+                                <cell>Apr '09</cell>
+                                <cell>US eases travel restriction</cell>
+                              </row>
+                              <row type="cell">
+                                <cell>Mar '16</cell>
+                                <cell>Tranfer of money restiction futher easier</cell>
+                              </row>
+                            </table>
+                            <keywords>
+                              <keyword name="North America" />
+                              <keyword name="Import/Export" />
+                              <keyword name="Tourism" />
+                              <keyword name="Commerce" />
+                              <keyword name="Governance" />
+                            </keywords>
+                            <sources>
+                              <source>bloomberg.com</source>
+                              <source>qz.com</source>
+                              <source>wsj.com</source>
+                              <source>cbinsights</source>
+                            </sources>
+                          </section>
+                          <section>
+                            <title>Cuba: transfer of money</title>
+                            <graph unit="%" x="string" y="percentage">
+                              <title>Cuba GDP</title>
+                              <abstract>2 B$/year is sending by US to Cuba. This is the
+                                equivalent of 3% of the total of Cuba GDP.</abstract>
+                                <dataset label= "Cuba GDP">
+                                  <data x="Cuba GDP" y="97"/>
+                                  <data x="Cuba GDP sent by US" y="3"/>
+                                </dataset>
+                              </graph>
+                              <chapter>
+                                <paragraph>The first country, in the ranking of countries
+                                  who receive money from USA, is Mexico that receive 21 B$,
+                                  the second one is China that receive 18 B$. Cuba is the tenth
+                                  country (2 B$). Part of this amount, 147 M$ is equivalent of 1.5%
+                                  of annual revenue of PayPal. </paragraph>
+                                </chapter>
+                                <chapter>
+                                  <title>Stripe</title>
+                                  <paragraph>Last week, the company said it would
+                                    start offering Cuban entrepreneurs the ability
+                                    to incorporate companies in the U.S., set up
+                                    American bank accounts, and use Stripe to accept
+                                    payments in Cuba.</paragraph>
+                                  </chapter>
+                                  <keywords>
+                                    <keyword name="North America" />
+                                    <keyword name="Currencies" />
+                                    <keyword name="Central and Eastern Asia" />
+                                    <keyword name="Migration" />
+                                    <keyword name="Citizenship" />
+                                    <keyword name="GDP" />
+                                    <keyword name="Global Corporations" />
+                                    <keyword name="Start-ups" />
+                                    <keyword name="Tech" />
+                                    <keyword name="Investments" />
+                                  </keywords>
+                                  <sources>
+                                    <source>bloomberg.com</source>
+                                    <source>qz.com</source>
+                                    <source>wsj.com</source>
+                                    <source>cbinsights</source>
+                                  </sources>
+                                </section>
+                                <section>
+                                  <title>Cuba: travel</title>
+                                  <subtitle>Airbnb</subtitle>
+                                  <chapter>
+                                    <paragraph>Cuba has been one of Airbnb’s fastest-growing
+                                      market in 2015. 13000 guests from the US booked a Cuban
+                                      Airbnb in casas particulares, and 250$ spent
+                                      per booking.</paragraph>
+                                    </chapter>
+                                    <graph x="string" y="number">
+                                      <title>Most popular cities in Cuba, by number
+                                        of Airbnb casas.</title>
+                                        <dataset label= "number of Airbnb casas">
+                                          <data x="Vinales" y="200"/>
+                                          <data x="Havana" y="2500"/>
+                                          <data x="Santa Clara" y="95"/>
+                                          <data x="Trinidad" y="330"/>
+                                          <data x="Santiago" y="150"/>
+                                        </dataset>
+                                      </graph>
+                                      <keywords>
+                                        <keyword name="North America" />
+                                        <keyword name="Sharing Economy" />
+                                        <keyword name="Start-ups" />
+                                        <keyword name="Housing and Real Estate" />
+                                        <keyword name="Tourism" />
+                                        <keyword name="Investments" />
+                                      </keywords>
+                                      <sources>
+                                        <source>bloomberg.com</source>
+                                        <source>qz.com</source>
+                                        <source>wsj.com</source>
+                                        <source>cbinsights</source>
+                                      </sources>
+                                    </section>
+                                    <section>
+                                      <title>Cuba: internet access</title>
+                                      <chapter>
+                                        <title>Netflix</title>
+                                        <paragraph>Netflix Inc, said it will offer
+                                          movies and TV shows in Cuba, becoming one
+                                          of the first U.S. companies to operate there
+                                          after President Barack Obama moved to restore
+                                          diplomatic ties.</paragraph>
+                                        </chapter>
+                                        <chapter>
+                                          <title>Google</title>
+                                          <paragraph>The arrival of Google on the scene
+                                          should do a lot to drive competition and encourage
+                                          faster digital growth. The country needs it.</paragraph>
+                                        </chapter>
+                                          <chapter>
+                                            <paragraph>4.5 $/hour is the fee for first public wi-fi hotspot
+                                              but 20 $/month is the Cuba average monthly wage. 2.95 $/hour
+                                              is the roaming offered by the US company Verizon.</paragraph>
+                                            </chapter>
+                                            <graph unit="%" x="string" y="percentage">
+                                              <dataset label= "internet access">
+                                                <data x="Cubans have the web access" y="30"/>
+                                                <data x="Cubans online" y="4"/>
+                                                <data x="Cubans have boardrand connections" y="0.05"/>
+                                                <data x="Cubans haven't the web access" y="65.95"/>
+                                              </dataset>
+                                            </graph>
+                                            <keywords>
+                                              <keyword name="North America" />
+                                              <keyword name="Governance" />
+                                              <keyword name="Global Corporations" />
+                                              <keyword name="In poverty" />
+                                              <keyword name="Tech" />
+                                              <keyword name="Investments" />
+                                            </keywords>
+                                            <sources>
+                                              <source>bloomberg.com</source>
+                                              <source>qz.com</source>
+                                              <source>wsj.com</source>
+                                              <source>cbinsights</source>
+                                            </sources>
+                                          </section>
+                                        </sections>
+                                      </bulletin>
+                                    </bulletins>

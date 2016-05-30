@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bullettins>
+  <title>Gold Fever</title>
+	<subtitle>BULLETIN_SUBTITLE</subtitle>
+	<authors>
+    <author>Noemi Incardona</author>
+    <author>Fabiana Mangano</author>
+    <author>Alessandra Neri</author>
+  </authors>
+  <bullettin id="01" date="20160305">
+    <sections>
+      <section>
+        <title>The strange relationship between gold and dollar</title>
+        <abstract>
+          If the value of the dollar increase, the gold price drop.
+          Conversely, if the value of the dollar decreases, the price goes up.
+        </abstract>
+        <graph unit="$/Kg" x="date" y="number">
+          <dataset label= "Gold price">
+            <data x= "20160201" y="37000"/>
+            <data x= "20160202" y="37100"/>
+            <data x= "20160203" y="37600"/>
+            <data x= "20160204" y="37600"/>
+            <data x= "20160205" y="38200"/>
+            <data x= "20160206" y="38300"/>
+            <data x= "20160207" y="38200"/>
+            <data x= "20160208" y="39900"/>
+            <data x= "20160209" y="39750"/>
+            <data x= "20160210" y="39750"/>
+            <data x= "20160211" y="39250"/>
+            <data x= "20160212" y="38250"/>
+            <data x= "20160213" y="38800"/>
+            <data x= "20160214" y="38600"/>
+            <data x= "20160215" y="39500"/>
+            <data x= "20160216" y="39300"/>
+            <data x= "20160217" y="39300"/>
+            <data x= "20160218" y="38400"/>
+            <data x= "20160219" y="39300"/>
+            <data x= "20160220" y="40000"/>
+            <data x= "20160221" y="39750"/>
+            <data x= "20160222" y="39250"/>
+            <data x= "20160223" y="39250"/>
+            <data x= "20160224" y="39200"/>
+            <data x= "20160225" y="39900"/>
+            <data x= "20160226" y="39400"/>
+            <data x= "20160227" y="39900"/>
+            <data x= "20160228" y="40800"/>
+            <data x= "20160229" y="40600"/>
+          </dataset>
+        </graph>
+        <graph unit= "$" x="date" y="number">
+          <dataset label="Dollar">
+            <data x= "20160201" y="1056"/>
+            <data x= "20160202" y="1068"/>
+            <data x= "20160203" y="1104"/>
+            <data x= "20160204" y="1124"/>
+            <data x= "20160205" y="1128"/>
+            <data x= "20160206" y="1104"/>
+            <data x= "20160207" y="110"/>
+            <data x= "20160208" y="1094"/>
+            <data x= "20160209" y="1082"/>
+            <data x= "20160210" y="107"/>
+            <data x= "20160211" y="106"/>
+            <data x= "20160212" y="1072"/>
+            <data x= "20160213" y="1082"/>
+            <data x= "20160214" y="1106"/>
+            <data x= "20160215" y="1098"/>
+            <data x= "20160216" y="111"/>
+            <data x= "20160217" y="112"/>
+            <data x= "20160218" y="1114"/>
+            <data x= "20160219" y="1104"/>
+            <data x= "20160220" y="1106"/>
+            <data x= "20160221" y="1134"/>
+            <data x= "20160222" y="1138"/>
+            <data x= "20160223" y="1136"/>
+            <data x= "20160224" y="1142"/>
+            <data x= "20160225" y="1122"/>
+            <data x= "20160226" y="1122"/>
+            <data x= "20160227" y="113"/>
+            <data x= "20160228" y="1112"/>
+            <data x= "20160229" y="1132"/>
+           </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Gold" /><keyword name="Currencies" />
+        </keywords>
+        <sources>
+          <source>bloomberg.com</source>
+          <source>goldbroker.it</source>
+        </sources>
+      </section>
+      <section>
+        <title>Gold Standard ends implication</title>
+        <chapter>
+ 	        <paragraph>
+            In 1971, Nixon ended the gold standard, abolishing the
+           convertibility of the dollar into gold and effectively
+           decreeing the death of the gold standard and the birth of
+           the floating system created by the USA.</paragraph>
+          <paragraph>
+            Since the dollar was detached from the gold, it has
+           increased in value, while the gold reserves of the USA,
+           which accounted for 70% of total world reserves, went
+           down to 64%.</paragraph>
+        </chapter>
+        <graph x="data" y="number">
+              <title>US inflation's historical graph</title>
+              <dataset label="US inflation">
+                 <data x= "1926" y="200"/>
+                 <data x= "1935" y="200"/>
+                 <data x= "1944" y="200"/>
+                 <data x= "1953" y="200"/>
+                 <data x= "1962" y="200"/>
+                 <data x= "1971" y="200"/>
+                 <data x= "1980" y="200"/>
+                 <data x= "1989" y="250"/>
+                 <data x= "1998" y="300"/>
+                 <data x= "2007" y="600"/>
+                 <data x= "2016" y="1200"/>
+               </dataset>
+              </graph>
+        <graph x="data" y="number">
+          <title>Gold price's historical graph</title>
+          <dataset label="Gold price">
+            <data x= "1926" y="200"/>
+            <data x= "1935" y="200"/>
+            <data x= "1944" y="250"/>
+            <data x= "1953" y="250"/>
+            <data x= "1962" y="250"/>
+            <data x= "1971" y="250"/>
+            <data x= "1980" y="700"/>
+            <data x= "1989" y="500"/>
+            <data x= "1998" y="400"/>
+            <data x= "2007" y="900"/>
+            <data x= "2016" y="1200"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Gold" /><keyword name="Inflation/Deflation" /><keyword name="North America" />                                   <!--[1-N]-->
+        </keywords>
+        <sources>
+          <source>investing.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>The US doesn’t love gold</title>
+        <abstract>
+          USA is one of the most important players on the gold market, but it is“anti-gold”.
+          Gold is often ignored, denigrated and
+          considered unnecessary.</abstract>
+        <graph unit= "Metric tons" x="date" y="number">
+              <title>Gold US export</title>
+              <dataset label="Gold export">
+                <data x= "2010" y="383"/>
+                <data x= "2011" y="664"/>
+                <data x= "2012" y="695"/>
+                <data x= "2013" y="691"/>
+                <data x= "2014" y="500"/>
+                <data x= "2015" y="500"/>
+              </dataset>
+          </graph>
+        <graph unit= "Metric tons" x="date" y="number">
+              <title>Gold US export</title>
+              <dataset label="Gold import">
+                <data x= "2010" y="203"/>
+                <data x= "2011" y="356"/>
+                <data x= "2012" y="354"/>
+                <data x= "2013" y="333"/>
+                <data x= "2014" y="326"/>
+                <data x= "2015" y="313"/>
+              </dataset>
+          </graph>
+        <graph unit= "Metric tons" x="date" y="number">
+          <title>Gold US export</title>
+          <dataset label="Gold consumption">
+                <data x= "2010" y="180"/>
+                <data x= "2011" y="168"/>
+                <data x= "2012" y="147"/>
+                <data x= "2013" y="160"/>
+                <data x= "2014" y="150"/>
+                <data x= "2015" y="150"/>
+              </dataset>
+          </graph>
+        <keywords>
+          <keyword name="Gold" /><keyword name="North America" /><keyword name="Import/Export" />
+        </keywords>
+        <sources>
+          <source>atlas.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>The crazy Chinese race to gold</title>
+        <chapter>
+ 	        <paragraph>The chinese government is buying gold by the ton.
+             Much of gold arrives in China is, apparently, for the Chinese central bank. Why?
+              The deposits or debt instruments in US dollars, are in negotiations effects in gold,
+              in turn putting pressure on the US dollar.</paragraph>
+        </chapter>
+        <graph unit= "Millions/$" x="date" y="number">
+          <dataset label="Total Chinese reserves">
+                    <data x= "2003" y="500000"/>
+                    <data x= "2004" y="600000"/>
+                    <data x= "2005" y="800000"/>
+                    <data x= "2006" y="1100000"/>
+                    <data x= "2007" y="1350000"/>
+                    <data x= "2008" y="1800000"/>
+                    <data x= "2009" y="2100000"/>
+                    <data x= "2010" y="2600000"/>
+                    <data x= "2011" y="3050000"/>
+                    <data x= "2012" y="3450000"/>
+                    <data x= "2013" y="3600000"/>
+                    <data x= "2014" y="4100000"/>
+                    <data x= "2015" y="3700000"/>
+                  </dataset>
+              </graph>
+        <keywords>
+          <keyword name="Gold" /><keyword name="Central and Estearn Asia" />
+        </keywords>
+        <sources>
+          <source>bloomberg.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>Historical break</title>
+        <chapter>
+ 	        <paragraph>
+            The gold Standard began in 1816, when England, after the Nopoleonic wars,
+            decided to establish the conventibility of paper money into gold.</paragraph>
+            <paragraph>During '800, London Stock Exchange increase its power.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Gold" /><keyword name="Western Europe" /><keyword name="Currencies" />
+        </keywords>
+        <sources>
+         <source>goldbroker.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>Gold distribution in the world</title>
+        <chapter>
+          <title>Countries that produce and export more of 40,000 gold tons</title>
+          <paragraph>
+          <list type="unordered">
+              <item>Australia</item>
+              <item>Canada</item>
+              <item>Peru</item>
+              <item>South Africa</item>
+              <item>Uzbekistan</item>
+              <item>Mexico</item>
+              <item>Ghana</item>
+              <item>Brazil</item>
+              <item>Indonesia</item>
+              <item>New Guinea</item>
+              <item>Colombia</item>
+              <item>Argentina</item>
+              <item>Kazakistan</item>
+              <item>Mali</item>
+              <item>Turkey</item>
+              <item>Tanzania</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <chapter>                                                       <!--[0-N]-->
+          <title>Countries that produce or import more of 40,000 gold tons</title>
+          <paragraph>
+          <list type="ordered">
+              <item>China</item>
+              <item>Russia</item>
+              <item>USA</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <graph unit= "Tons" x="Country" y="number">
+          <title>Major gold's holders and producers</title>
+          <dataset label="Gold">
+            <data x= "China" y="450000"/>
+            <data x= "Australia" y="270000"/>
+            <data x= "Russia" y="254000"/>
+            <data x= "USA" y="211000"/>
+            <data x= "Canada" y="160000"/>
+            <data x= "Peru" y="150000"/>
+            <data x= "South Africa" y="150000"/>
+            <data x= "Uzbekistan" y="102000"/>
+            <data x= "Mexico" y="91000"/>
+            <data x= "Ghana" y="90000"/>
+            <data x= "Brazil" y="70000"/>
+            <data x= "Indonesia" y="65000"/>
+            <data x= "New Guinea" y="62000"/>
+            <data x= "Colombia" y="55000"/>
+            <data x= "Argentina" y="50650"/>
+            <data x= "Kazakistan" y="50000"/>
+            <data x= "Turkey" y="45000"/>
+            <data x= "Mali" y="40000"/>
+            <data x= "Tanzania" y="40000"/>
+            </dataset>
+        </graph>
+        <keywords>
+         <keyword name="Gold" /><keyword name="Export/import" /><keyword name="North America" />
+         <keyword name="South America" /><keyword name="Oceania" /><keyword name="South Africa" />
+         <keyword name="Central Africa" /><keyword name="North Africa" /><keyword name="Middle Est and Western Asia" />
+         <keyword name="South and Estern Asia" />
+        </keywords>
+        <sources>
+          <source>gold.org</source>
+          <source>atlas.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>Global gold demand</title>
+        <chapter>
+ 	        <paragraph>
+            The World Gold Council believes that global demand
+            will remain at high levels in the second half of the year, thanks mainly to strong demand from China
+            and India, the two most important world markets, although the price of gold rose very. In particular in
+            the regular quarterly report, the World Gold Council believes that the sovereign debt crisis in Europe,
+            the US downgrade (by Standard and Poor's) and the fragile prospects for the world economy should
+            maintain high levels of investment gold.</paragraph>
+        </chapter>
+        <graph unit= "%" x="Country" y="percentage">
+          <dataset label="Gold">
+            <data x= "USA" y="4"/>
+            <data x= "Europe" y="10"/>
+            <data x= "Other countries" y="13"/>
+            <data x= "Japan" y="9"/>
+            <data x= "India" y="23"/>
+            <data x= "China" y="31"/>
+            </dataset>
+        </graph>
+        <keywords>
+           <keyword name="Gold" /><keyword name="Export/import" /><keyword name="North America" />
+           <keyword name="Western Europe" /> <keyword name="Eastern Europe" />
+          </keywords>
+        <sources>
+          <source>gold.org</source>
+          <source>investing.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>Week's gold price</title>
+        <graph unit="$/oz" x="date" y="number">
+          <dataset label= "Gold price">
+              <data x= "20160229" y="1240"/>
+              <data x= "20160301" y="1232"/>
+              <data x= "20160302" y="1241"/>
+              <data x= "20160303" y="1260"/>
+              <data x= "20160304" y="1259"/>
+            </dataset>
+          </graph>
+        <keywords>
+            <keyword name="Gold" />
+        </keywords>
+        <sources>
+          <source>goldbroker.it</source>
+          </sources>
+        </section>
+    </sections>
+  </bullettin>
+</bullettins>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins>
+  <title>REAL ESTATE</title>
+  <subtitle>Visualizing the crisis</subtitle>
+  <authors>
+    <author>Irene Chiappini</author>
+    <author>Giulia Serafin</author>
+  </authors>
+  <bulletin id="2" date="20160310">
+    <title>"India slowdown"</title>
+    <sections>
+      <section>
+        <title>"Unsold inventories piling up"</title>
+        <chapter>
+          <paragraph>3 to 5 years: the time required to clear residential inventory pile. Unsold inventories are piling up in the National Capital Region, Mumbai, Bengaluru, and several other cities.
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Housing and Real Estate"/>
+        </keywords>
+        <sources>
+          <source>Quartz “As empty homes pile up indians willing to pay more for ready to move in apartments”</source>
+            <source>The financial express “Real estate slowdown: residential inventory piles up in Delhi, Mumbai”</source>
+        </sources>
+      </section>
+      <section>
+        <title>"Ready-to-move-in vs under-construction"</title>
+        <chapter>
+          <paragraph>In 64% of the major cities over the last two years, the demand for ready-to- move-in properties has been more than for under-construction properties.
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Housing and Real Estate"/>
+        </keywords>
+        <sources>
+          <source>Quartz “As empty homes pile up indians willing to pay more for ready to move in apartments”</source>
+            <source>The financial express “Real estate slowdown: residential inventory piles up in Delhi, Mumbai”</source>
+        </sources>
+      </section>
+          <section>
+            <title>"Rising Price"</title>
+            <subtitle>"A comparison:"</subtitle>
+            <chapter>
+              <list type="ordered">
+                <item>Premium on ready-to move-in properties over under-construction</item>
+                <item>Price rise in ready-to move-in properties  </item>
+                <item>Price rise in under-construction properties  </item>
+              </list>
+            </chapter>
+            <graph unit="%" x="city" y="number">
+              <title>"Different prices"</title>
+              <abstract>Premium on ready-to-move-in properties over under-construction.</abstract>
+              <dataset label="premium">
+                <data x="Greater noida" y="21"/>
+                <data x="Mumbai" y="18"/>
+                <data x="Gurgaon" y="13"/>
+                <data x="Noida" y="12"/>
+                <data x="Navi Mumbai" y="6"/>
+                <data x="Bengaluru" y="6"/>
+                <data x="Kolkata" y="6"/>
+                <data x="Pune" y="1"/>
+                <data x="Ghaziabad" y="1"/>
+                <data x="New Delhi" y="-0.02"/>
+                <data x="Ahmedabad" y="-3"/>
+                <data x="Hyderabad" y="-4"/>
+                <data x="Chennai" y="-12"/>
+              </dataset>
+            </graph>
+            <keywords>
+              <keyword name="Southeastern Asia"/>
+              <keyword name="Housing and Real Estate"/>
+            </keywords>
+            <sources>
+              <source>Quartz “As empty homes pile up indians willing to pay more for ready to move in apartments”</source>
+                <source>The financial express “Real estate slowdown: residential inventory piles up in Delhi, Mumbai”</source>
+            </sources>
+          </section>
+          <section>
+            <graph unit="%" x="city" y="number">
+              <title>"Rising prices"</title>
+              <abstract>Price rise in properties in 14 cities from Sep.2013 to Dec.2015.</abstract>
+              <dataset label="Under-construction">
+                <data x="Greater noida" y="-5"/>
+                <data x="Mumbai" y="6"/>
+                <data x="Gurgaon" y="-10"/>
+                <data x="Noida" y="1"/>
+                <data x="Navi Mumbai" y="3"/>
+                <data x="Bengaluru" y="7"/>
+                <data x="Kolkata" y="-3"/>
+                <data x="Pune" y="4"/>
+                <data x="Ghaziabad" y="-4"/>
+                <data x="New Delhi" y="-24"/>
+                <data x="Ahmedabad" y="0"/>
+                <data x="Hyderabad" y="5"/>
+                <data x="Chennai" y="25"/>
+              </dataset>
+              <dataset label="Ready-to-move-in">
+                <data x="Greater Noida" y="0"/>
+                <data x="Mumbai" y="9"/>
+                <data x="Gurgaon" y="-1"/>
+                <data x="Noida" y="-11"/>
+                <data x="Navi Mumbai" y="14"/>
+                <data x="Bengaluru" y="9"/>
+                <data x="Kolkata" y="0"/>
+                <data x="Pune" y="-3"/>
+                <data x="Ghaziabad" y="-6"/>
+                <data x="New Delhi" y="-14"/>
+                <data x="Ahmedabad" y="6"/>
+                <data x="Hyderabad" y="6"/>
+                <data x="Chennai" y="3"/>
+              </dataset>
+            </graph>
+            <keywords>
+              <keyword name="Southeastern Asia"/>
+              <keyword name="Housing and Real Estate"/>
+            </keywords>
+            <sources>
+              <source>Quartz “As empty homes pile up indians willing to pay more for ready to move in apartments”</source>
+                <source>The financial express “Real estate slowdown: residential inventory piles up in Delhi, Mumbai”</source>
+            </sources>
+          </section>
+        </sections>
+      </bulletin>
+      <bulletin id="2" date="20160310">
+        <title>"Canada's forecast"</title>
+        <sections>
+          <section>
+            <title>US vs Canada</title>
+            <chapter>
+              <paragraph>US housing market will out perform Canada housing market in 2016. The real estate value is more positivein US.
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title> 2015 Conclusion</title>
+              <paragraph>Canada’s economic condition gradually improved as the country climbed out of a technical recession.
+              </paragraph>
+            </chapter>
+            <chapter>
+             <title>2016 Previus</title>
+              <paragraph>Canada will see a small decline in the value of real estate.
+              </paragraph>
+            </chapter>
+            <keywords>
+              <keyword name="North America"/>
+              <keyword name="Housing Real estate"/>
+            </keywords>
+            <sources>
+              <source>The globe and mail ”Office, retail real estate sectors settling in for tough 2016”</source>
+              <source>Medium ”Real estate news”</source>
+              <source>Benefits Canada ”What should institutional investors expect from the real estate market in 2016?”</source>
+            </sources>
+          </section>
+          <section>
+            <graph unit="$" x="city" y="number">
+              <title>"Household median income"</title>
+              <abstract>In the west coast areas of Canada the household median income is higher.</abstract>
+              <dataset label="median income">
+                <data x="Vancouver" y="24,100"/>
+                <data x="Calgary" y="31,700"/>
+                <data x="Toronto" y="22,900"/>
+                <data x="Montréal" y="21.200"/>
+              </dataset>
+            </graph>
+            <graph unit="$" x="city" y="number">
+              <title>"Household median income"</title>
+              <abstract>In the west coast areas of Canada the household median income is higher.</abstract>
+              <dataset label="median income">
+                <data x="Vancouver" y="1,2 M"/>
+                <data x="Calgary" y="496,800"/>
+                <data x="Toronto" y="669,400"/>
+                <data x="Montréal" y="316,500"/>
+              </dataset>
+            </graph>
+            <graph unit="K" x="string" y="number">
+              <title>"Household medium price"</title>
+              <abstract>Vancouver has the highest house prices while Montreal has the prices of less expensive homes</abstract>
+              <dataset label="medium price">
+                <data x="Vancouver" y="615,473"/>
+                <data x="Calgary" y="1,195,194"/>
+                <data x="Toronto" y="2,503,281"/>
+                <data x="Montréal" y="1,649,519"/>
+              </dataset>
+            </graph>
+            <keywords>
+              <keyword name="North America"/>
+              <keyword name="Housing Real estate"/>
+            </keywords>
+            <sources>
+              <source>The globe and mail ”Office, retail real estate sectors settling in for tough 2016”</source>
+              <source>Medium ”Real estate news”</source>
+              <source>Benefits Canada ”What should institutional investors expect from the real estate market in 2016?”</source>
+            </sources>
+          </section>
+          <section>
+            <title>"Vancouver'houses typology"</title>
+            <abstract>"Prices annual growth"</abstract>
+            <chapter>
+              <paragraph>
+                <list type="unordered">
+                  <item>detached home: 11%</item>
+                  <item>condominius: 10%</item>
+                  <item>attached home: 11%</item>
+                  <item>townhouse: 4%</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <keywords>
+              <keyword name="North America"/>
+              <keyword name="Housing Real estate"/>
+            </keywords>
+            <sources>
+              <source>The globe and mail ”Office, retail real estate sectors settling in for tough 2016”</source>
+              <source>Medium ”Real estate news”</source>
+              <source>Benefits Canada ”What should institutional investors expect from the real estate market in 2016?”</source>
+            </sources>
+          </section>
+          <section>
+            <title>"Housing starts"</title>
+            <chapter>
+              <paragraph>Strong rental demand from immigrants has pushed condo construction in Canada yo its highest level into two decads. On annual basisis annual starts are expected to rise from 153,000 to 203,000 units in 2016 and from 149,000 to 199,000 units.
+              </paragraph>
+              </chapter>
+              <keywords>
+                <keyword name="North America"/>
+                <keyword name="Housing Real estate"/>
+              </keywords>
+              <sources>
+                <source>The globe and mail ”Office, retail real estate sectors settling in for tough 2016”</source>
+                <source>Medium ”Real estate news”</source>
+                <source>Benefits Canada ”What should institutional investors expect from the real estate market in 2016?”</source>
+              </sources>
+            </section>
+          </sections>
+        </bulletin>
+    </bulletins>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins>
+  <title>REAL ESTATE</title>
+  <subtitle>Visualizing the crisis</subtitle>
+  <authors>
+    <author>Irene Chiappini</author>
+    <author>Giulia Serafin</author>
+  </authors>
+  <bulletin id="1" date="20160303">
+    <title>"Weekly hot spots"</title>
+    <sections>
+      <section>
+        <title>"1.NEW YORK - USA"</title>
+        <subtitle>"Missed opportunity"</subtitle>
+        <chapter>
+          <title>03.01.2016-SUPER TUESDAY
+          </title>
+          <paragraph>One of the most important days of the American primaries. People will vote in 13 countries and it could be a decisive moment. “The problem is that candidates have any ideas what to do about fixing housing market.”
+          </paragraph>
+          <paragraph>*WHY BOTHER ABOUT MR.TRUMP? D.Trump, known as "The Brick magnate", is the richest man in America and one of the most controversal personality in the world of politics. He colonized Manhattan and beyond, owning apartments, hotels and casinos. Thanks to this position he could have a big impact on the realty sector if americans will make him their new president.
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="North America"/>
+          <keyword name="US Elections"/>
+          <keyword name="Housing and Real Estate"/>
+        </keywords>
+        <sources>
+          <source>CNBC “What homeowners tell us about the Super Tuesday vote”</source>
+        </sources>
+      </section>
+      <section>
+        <title>"2.ENGLAND - UK"</title>
+        <subtitle>"Open eyes over mortgages"</subtitle>
+        <chapter>
+          <paragraph>BANK OF ENGLAND</paragraph>
+          <paragraph>England is collecting information about recent mortgages in order to  avoid housing boom and bust. “How to tame one area without toppling the whole structure of the real estate sistem?”
+          </paragraph>
+        </chapter>
+        <graph unit="K" x="date" y="number">
+          <title>"UK mortgage approvals"</title>
+          <abstract>The data show that there has been a steady rising in mortgage approvals from 2011 to 2015.</abstract>
+          <data x="2008" y="35"/>
+          <data x="2009" y="50"/>
+          <data x="2010" y="50"/>
+          <data x="2011" y="50"/>
+          <data x="2012" y="48"/>
+          <data x="2013" y="58"/>
+          <data x="2014" y="66"/>
+          <data x="2015" y="67"/>
+        </graph>
+        <keywords>
+          <keyword name="Eastern Europe"/>
+          <keyword name="Housing and Real Estate"/>
+        </keywords>
+        <sources>
+          <source>Bloomberg ”the bank of england has its eye on every new mortgage”</source>
+          </sources>
+      </section>
+      <section>
+        <title>"3.ITALY"</title>
+        <subtitle>"New mortgage reform"</subtitle>
+        <chapter>
+          <title>ITALIAN CHALLENGE</title>
+          <paragraph>The new request by Europe create controversy in Italy, clashing with the italian civil code. After 18 unpaid rates, banks are allowed to distrain the property.
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Eastern Europe"/>
+          <keyword name="Housing and Real Estate"/>
+        </keywords>
+        <sources>
+          <source>Il Sole 24 Ore “Mutui, case alle banche dopo 18 rate non pagate”</source>
+        </sources>
+      </section>
+      <section>
+        <title>"4.SAUDI ARABIA"</title>
+        <subtitle>A bad example</subtitle>
+        <chapter>
+          <title>THE BIG MISTAKE OF BANKS</title>
+          <paragraph>Central banks have slashed by half the down payment needed for house buyers to get a mortgage. Mortgage loan book is growing at about 40% per year.
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Middle East and Western Asia"/>
+          <keyword name="Housing and Real Estate"/>
+        </keywords>
+        <sources>
+          <source>“Saudi Arabia loosens mortgage rules after home sales wane”</source>
+        </sources>
+      </section>
+      <section>
+        <title>"5.SHANGAI - CHINA"</title>
+        <subtitle>Good news</subtitle>
+        <chapter>
+          <title>4% BEST DAY IN 4 MONTHS</title>
+          <paragraph>Real estate and resources share signs of recovery into proprety market. Real estate assets: 74.7% of total cinese household assets.
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Central and Eastern Asia"/>
+          <keyword name="Housing and Real Estate"/>
+        </keywords>
+        <sources>
+          <source>Zerohedge “China's housing bubble is back: locals wait in line for days to flip houses”</source>
+        </sources>
+      </section>
+    </sections>
+  </bulletin>
+  <bulletin id="1" date="20160303">
+    <title>"Where american live"</title>
+    <sections>
+      <section>
+        <title>"Where everybody wants to live"</title>
+        <subtitle>"San Francisco real estate as before dot-com crash"</subtitle>
+        <chapter>
+          <paragraph>boom median value of homes</paragraph>
+          <paragraph>
+            <list type="ordered">
+              <item>$ 670,000 (2012)</item>
+              <item>$ 1,12 million (2016)</item>
+            </list>
+          </paragraph>
+          <paragraph>property value + rent cost on watch list for a correction
+          </paragraph>
+          <paragraph>
+            <list type="unordered">
+              <item>very expensive</item>
+              <item>silicon valley and tech industry</item>
+              <item>overpopulated</item>
+              <item>house boom</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="North America"/>
+          <keyword name="Housing and real estate"/>
+          <keyword name="Middle class"/>
+        </keywords>
+        <sources>
+          <source>Zerohedge “Presenting America's own ghost cities"</source>
+          <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
+            <source>Nytimes “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
+              <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
+        </sources>
+      </section>
+      <section>
+        <title>"Where nobody lives"</title>
+        <subtitle>"US new ghost cities"</subtitle>
+        <chapter>
+          <paragraph>The decline of american manufactory industry makes 147 metropolitan areas underpopulated:Flint, Detroit, Youngstown, Atlantic City, Beaumont
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="North America"/>
+          <keyword name="Housing and real estate"/>
+          <keyword name="Middle class"/>
+        </keywords>
+        <sources>
+          <source>Zerohedge “Presenting America's own ghost cities"</source>
+          <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
+            <source>Nytimes “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
+              <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
+        </sources>
+      </section>
+      <section>
+        <title>"Where to go"</title>
+        <subtitle>"Sceening cities"</subtitle>
+        <chapter>
+          <paragraph>five places that could grow if people move there. Comparing grow and prosperity report, 100 biggest metro areas, 2015 affordability index and jobs quality. As a result you get five cities: Cincinnati, Pittsburgh, Columbus, Omaha, Minneapolis
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="North America"/>
+          <keyword name="Housing and real estate"/>
+          <keyword name="Middle class"/>
+        </keywords>
+        <sources>
+          <source>Zerohedge “Presenting America's own ghost cities"</source>
+          <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
+            <source>Nytimes “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
+              <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
+        </sources>
+      </section>
+      <section>
+        <title>"Where a few can live"</title>
+        <subtitle>"Manhattan luxury reality market"</subtitle>
+        <chapter>
+          <paragraph>There is a slowdown: house contract dropped from 214 (in 2015) to 150 (in 2016). The new trend is to break penthouses into smaller accomodations.
+          </paragraph>
+          <paragraph>Cuomo (Governor) and De Blasio (Mayor) have different solutions for affordable housing. Cuomo suggests fiscal cuts for $1,5 bilion in five years. De Blasio proposes to increase taxes only for whom earn more than $50 millions a year.
+          </paragraph>
+        </chapter>
+        <graph unit="Person/sq m" x="city" y="number">
+          <title>"Comparing population density"</title>
+          <abstract>In the coastal areas the density of population is higher.</abstract>
+          <dataset label="Density">
+            <data x="San Francisco" y="17,3"/>
+            <data x="Flint" y="3,06"/>
+            <data x="Cincinnati" y="3,8"/>
+            <data x="New York City" y="28"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="North America"/>
+          <keyword name="Housing and real estate"/>
+          <keyword name="Middle class"/>
+        </keywords>
+        <sources>
+          <source>Zerohedge “Presenting America's own ghost cities"</source>
+          <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
+            <source>Nytimes “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
+              <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
+        </sources>
+      </section>
+      <section>
+        <graph unit="K$" x="city" y="number">
+          <title>"Comparing household median income"</title>
+          <abstract>In the coastal areas the household median income is higher.</abstract>
+          <dataset label="Median income">
+            <data x="San Francisco" y="78"/>
+            <data x="Flint" y="25"/>
+            <data x="Cincinnati" y="36"/>
+            <data x="New York City" y="53"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="North America"/>
+          <keyword name="Housing and real estate"/>
+          <keyword name="Middle class"/>
+        </keywords>
+        <sources>
+          <source>Zerohedge “Presenting America's own ghost cities"</source>
+          <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
+            <source>Nytimes “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
+              <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
+        </sources>
+      </section>
+    </sections>
+  </bulletin>
+</bulletins>

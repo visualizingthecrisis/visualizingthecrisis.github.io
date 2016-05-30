@@ -253,7 +253,7 @@
 
         // Define svgs
         $$.svg = $$.selectChart.append("svg")
-            .style("overflow", "hidden")
+            .style("overflow", "visible")
             .on('mouseenter', function () { return config.onmouseover.call($$); })
             .on('mouseleave', function () { return config.onmouseout.call($$); });
 
@@ -1153,7 +1153,7 @@
             legend_item_onmouseout: undefined,
             legend_equally: false,
             legend_padding: 0,
-            legend_item_tile_width: 10,
+            legend_item_tile_width: 30,
             legend_item_tile_height: 10,
             // axis
             axis_rotated: false,
@@ -1189,7 +1189,7 @@
             axis_y_tick_format: undefined,
             axis_y_tick_outer: true,
             axis_y_tick_values: null,
-            axis_y_tick_rotate: 0,
+            axis_y_tick_rotate:0,
             axis_y_tick_count: undefined,
             axis_y_tick_time_value: undefined,
             axis_y_tick_time_interval: undefined,
@@ -4820,7 +4820,7 @@
         var $$ = this, config = $$.config,
             w = config.gauge_width || config.donut_width;
         $$.radiusExpanded = Math.min($$.arcWidth, $$.arcHeight) / 2;
-        $$.radius = $$.radiusExpanded * 0.95;
+        $$.radius = $$.radiusExpanded * 0.6; /****+-+-*****/
         $$.innerRadiusRatio = w ? ($$.radius - w) / $$.radius : 0.6;
         $$.innerRadius = $$.hasType('donut') || $$.hasType('gauge') ? $$.radius * $$.innerRadiusRatio : 0;
     };
@@ -4909,6 +4909,7 @@
             } else {
                 ratio = $$.radius && h ? (36 / $$.radius > 0.375 ? 1.175 - 36 / $$.radius : 0.8) * $$.radius / h : 0;
             }
+            ratio=ratio*1.6;
             translate = "translate(" + (x * ratio) +  ',' + (y * ratio) +  ")";
         }
         return translate;
@@ -7014,7 +7015,7 @@
     // 3. multiline tick text
     var tickTextCharSize;
     function c3_axis(d3, params) {
-        var scale = d3.scale.linear(), orient = "bottom", innerTickSize = 6, outerTickSize, tickPadding = 3, tickValues = null, tickFormat, tickArguments;
+        var scale = d3.scale.linear(), orient = "bottom", innerTickSize = 8, outerTickSize, tickPadding = 3, tickValues = null, tickFormat, tickArguments;
 
         var tickOffset = 0, tickCulling = true, tickCentered;
 
@@ -7066,8 +7067,8 @@
                 return tickTextCharSize;
             }
             var size = {
-                h: 11.5,
-                w: 5.5
+                h: 15.5,
+                w: 3.5
             };
             tick.select('text').text(textFormatted).each(function (d) {
                 var box = this.getBoundingClientRect(),

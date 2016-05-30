@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins>
+  <title>REAL ESTATE</title>
+  <subtitle>Visualizing the crisis</subtitle>
+  <authors>
+    <author>Irene Chiappini</author>
+    <author>Giulia Serafin</author>
+  </authors>
+  <bulletin id="5" date="20160331">
+    <title>"China twist"</title>
+    <sections>
+      <section>
+        <title>A new bubble risk</title>
+        <chapter>
+          <paragraph>The real estate markets in some of China’s major economic centers have again heated up, with extreme price increases in Shanghai, Shenzhen, Suzhou, and in some parts of Beijing. With government controlled purchasing restrictions looser than they have been in the past decade, many home buyers are jumping in fast, as though afraid “of missing the boat.”
+          </paragraph>
+        </chapter>
+        <graph unit="¥" x="city" y="number">
+          <title>"Buy apartment in city centre"</title>
+          <abstract>Ranges of price per sq m</abstract>
+          <dataset label="average house price">
+            <data x="Shanghai" y="50,000.00-120,000.00"/>
+            <data x="Shenzhen" y="75,000.00-115,000.00"/>
+            <data x="Suzhou" y="17,000.00-25,000.00"/>
+            <data x="Beijing" y="60,000.00-120,000.00"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Loans"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Quarz “A growing corner of China’s $2 trillion mortgage market looks a lot like the US subprime bubble”</source>
+            <source>Forbes “Demand for housing in China’s heated property market is real”</source>
+              <source>Numbeo</source>
+        </sources>
+      </section>
+      <section>
+        <title>RISKY STRAIN: ECONOMY vs LOANS</title>
+        <subtitle>Why home loans and are growing fast while economic growth has slowed?</subtitle>
+        <chapter>
+          <paragraph>China needs the housing market as a backbone to prop up its slowing economy.</paragraph>
+          <paragraph>Chinese real estate market is it's different: on average, in China they are bought many more homes than in the western countires.</paragraph>
+          <paragraph>On an annual basis, 1/3 of residential property sales are for weddings*.</paragraph>
+          <paragraph>“A house is not just a house. It gives you face.” Ye Qiuqin, a resident of Ordos Kangbashi.</paragraph>
+          <paragraph>* On average there are about 13 milion wedding each year.</paragraph>
+        </chapter>
+        <chapter>
+          <title>TO OWN A HOUSE IN CHINA</title>
+          <paragraph>
+            <list type="unordered">
+              <item>wedding prerequisite</item>
+              <item>pressure from parents</item>
+              <item>conversation topic</item>
+              <item>status</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Loans"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Quarz “A growing corner of China’s $2 trillion mortgage market looks a lot like the US subprime bubble”</source>
+            <source>Forbes “Demand for housing in China’s heated property market is real”</source>
+              <source>Numbeo</source>
+        </sources>
+      </section>
+      <section>
+        <title>DOWN PAYMENTS: THE TRUE STORY</title>
+        <chapter>
+          <paragraph>20%: How much normally homebuyers need to put down of a home’s value</paragraph>
+          <paragraph>5%: Chinese home buyers which have borrowed money to make home down payments.</paragraph>
+          <paragraph>100%: Some property developpers cover 100% of a down payment, for who promises to pay back in one year.</paragraph>
+          <paragraph>10%: New properties in Shanghi which offer a zero down payments*.</paragraph>
+          <paragraph>*WHAT IS A DOWN PAYMENT? An amount of money that you pay at the time that you buy something but is only a part of the total cost of that thing.</paragraph>
+          <paragraph>30 local busines in Shenzhen sold outstanding loans for home down payments of 2.5-3 billion Yuan.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Loans"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Quarz “A growing corner of China’s $2 trillion mortgage market looks a lot like the US subprime bubble”</source>
+            <source>Forbes “Demand for housing in China’s heated property market is real”</source>
+              <source>Numbeo</source>
+        </sources>
+      </section>
+      <section>
+        <title>WHAT IS HAPPENING</title>
+        <chapter>
+          <title>Real Estate</title>
+          <paragraph>Is a strong sector</paragraph>
+        </chapter>
+        <chapter>
+          <title>Rising prices, more loans</title>
+          <paragraph>Home prices rise in China’s first tiers cities and China’s bank are being encouraged to lend more.</paragraph>
+        </chapter>
+        <chapter>
+          <title>The risk</title>
+          <paragraph>Down turn in house prices could slash China’s banks and million of Chinese.</paragraph>
+        </chapter>
+        <chapter>
+          <title>Who is worring</title>
+          <paragraph>Mayor Huang Qui Fan is worrin about a possible financial disaster.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Loans"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Quarz “A growing corner of China’s $2 trillion mortgage market looks a lot like the US subprime bubble”</source>
+            <source>Forbes “Demand for housing in China’s heated property market is real”</source>
+              <source>Numbeo</source>
+        </sources>
+      </section>
+      <section>
+        <title>FLASHBACK:2008 US SUBPRIME</title>
+        <chapter>
+          <title>The begin of a bubble</title>
+          <paragraph>Lenders pushed outsired home loans on people without the wherewithal to pay them back.When home prices fall, banks and investors holding the loans had to eat massive losses.</paragraph>
+        </chapter>
+        <chapter>
+          <title>Like US</title>
+          <paragraph>Chinese home buyers borrow money to pay for down payments.</paragraph>
+        </chapter>
+        <chapter>
+          <title>Unlike US</title>
+          <paragraph>International investors have not jumped into buy these loans.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Loans"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Quarz “A growing corner of China’s $2 trillion mortgage market looks a lot like the US subprime bubble”</source>
+            <source>Forbes “Demand for housing in China’s heated property market is real”</source>
+              <source>Numbeo</source>
+        </sources>
+      </section>
+    </sections>
+  </bulletin>
+  <bulletin id="5" date="20160331">
+    <title>"On the top of the World"</title>
+    <sections>
+      <section>
+        <title>WORLD’S TOP 10 RESIDENTIAL PLACES</title>
+        <subtitle>World’s most expensive location s to buy a property.</subtitle>
+        <graph unit="$" x="city" y="number">
+          <title>"Houses price"</title>
+          <abstract>Price per square feet to buy apartment in USD</abstract>
+          <dataset label="city center">
+            <data x="New York City" y="1,665.60"/>
+            <data x="London" y="2,476.00"/>
+            <data x="Paris" y="1,024.80"/>
+            <data x="Monaco" y="5,055.00"/>
+            <data x="Moscow" y="1,277.00"/>
+            <data x="Shanghai" y="1,168.13"/>
+            <data x="Hong Kong" y="2,252.00"/>
+            <data x="Singapore" y="1,746.00"/>
+            <data x="Sidney" y="934.081.00"/>
+          </dataset>
+          <dataset label="outside city center">
+            <data x="New York City" y="970.63"/>
+            <data x="London" y="1,178.00"/>
+            <data x="Paris" y="671.04"/>
+            <data x="Monaco" y="3,124.00"/>
+            <data x="Moscow" y="1,034.00"/>
+            <data x="Shanghai" y="483.35"/>
+            <data x="Hong Kong" y="1,418.00"/>
+            <data x="Singapore" y="902.00"/>
+            <data x="Sidney" y="603.99"/>
+          </dataset>
+        </graph>
+        <graph unit="%" x="city" y="number">
+          <title>"Mortgage"</title>
+          <abstract>mortgage interest rate in %</abstract>
+          <dataset label="mortgage">
+            <data x="New York City" y="4"/>
+            <data x="London" y="3.5"/>
+            <data x="Paris" y="2.7"/>
+            <data x="Monaco" y="3.3"/>
+            <data x="Moscow" y="13.7"/>
+            <data x="Shanghai" y="5.7"/>
+            <data x="Hong Kong" y="2.5"/>
+            <data x="Singapore" y="2.3"/>
+            <data x="Sidney" y="4.8"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="North America"/>
+          <keyword name="Western Europe"/>
+          <keyword name="Southeastern Asia"/>
+          <keyword name="Central and Eastern Asia"/>
+          <keyword name="Oceania"/>
+          <keyword name="1%"/>
+          <keyword name="Loans"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>Forbes “Richest Real Estate Billionaires In 2016”</source>
+            <source>“The 20 Richest Real Estate Barons In The World 2016”</source>
+            <source>Yahoo “World's most expensive residential property”</source>
+            <source>Numbeo “Cost of Living”</source>
+        </sources>
+      </section>
+      <section>
+        <title>182 WORLD’S REAL ESTATE BARONS</title>
+        <chapter>
+          <title>Billionaires</title>
+          <subtitle>divided into world’s macro areas</subtitle>
+          <paragraph>
+            <list type="unordered">
+              <item>America (USA only): 44</item>
+              <item>Europe: 31</item>
+              <item>Africa-Middle est:8</item>
+              <item>South Pacific region: 99</item>
+            </list>
+          </paragraph>
+        </chapter>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Western Europe"/>
+            <keyword name="Southeastern Asia"/>
+            <keyword name="Central and Eastern Asia"/>
+            <keyword name="Oceania"/>
+            <keyword name="1%"/>
+            <keyword name="Loans"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Forbes “Richest Real Estate Billionaires In 2016”</source>
+              <source>“The 20 Richest Real Estate Barons In The World 2016”</source>
+              <source>Yahoo “World's most expensive residential property”</source>
+              <source>Numbeo “Cost of Living”</source>
+          </sources>
+        </section>
+        <section>
+          <title>TOP 20 WORLD’S TYCOONS</title>
+          <chapter>
+            <paragraph>This year about 20 people joined the Forbes’ World’s billionaires list thank to their real estate purchases.
+            </paragraph>
+          </chapter>
+            <table>                                                         <!--[0-N]-->
+              <row type="Name">                                             <!--[ 1 ]-->
+                <cell>Wang Jianlin - China</cell>                                            <!--[1-N]-->
+                <cell>Lee shau Kee - Hong Kong</cell>
+                <cell>Michael Otto - Germany</cell>
+                <cell>Donald Bren - USA</cell>
+                <cell>Simon and David Reuben - U.K.</cell>
+                <cell>Joseph Lau - Hong Kong</cell>                                            <!--[1-N]-->
+                <cell>Gerald Cavendish Grosvernor - U.K.</cell>
+                <cell>Thomas and Raymond Kwok - Hong Kong</cell>
+                <cell>Stephen Ross - USA</cell>                                            <!--[1-N]-->
+                <cell>Robert Kuok - Malaysia</cell>
+                <cell>Andrew Beal - USA</cell>
+                <cell>Hui Ka Yan - China</cell>                                            <!--[1-N]-->
+                <cell>Ofer Eyal - Israel</cell>
+                <cell>Stan kroenke - USA</cell>
+                <cell>Robert and Philip NG - Singapore</cell>
+                <cell>Peter Woo - Hong Kong</cell>
+                <cell>Walter Kwok - Hong Kong</cell>                                            <!--[1-N]-->
+                <cell>Mikhail Gutseriev - Russia</cell>
+                <cell>Richard Le Frak - USA</cell>
+                <cell>Pan Sutong - Hong Kong</cell>
+              </row>
+              <row type="$ B">                                             <!--[1-N]-->
+                <cell>28.7</cell>                                          <!--[1-N]-->
+                <cell>21.5</cell>
+                <cell>18.1</cell>
+                <cell>15.1</cell>
+                <cell>202 M</cell>
+                <cell>13.1</cell>                                            <!--[1-N]-->
+                <cell>13</cell>
+                <cell>13</cell>
+                <cell>12</cell>                                            <!--[1-N]-->
+                <cell>10</cell>
+                <cell>9.4</cell>
+                <cell>8.6</cell>                                            <!--[1-N]-->
+                <cell>8.4</cell>
+                <cell>7.7</cell>
+                <cell>7.6</cell>
+                <cell>6.6</cell>
+                <cell>6.2</cell>                                            <!--[1-N]-->
+                <cell>5.9</cell>
+                <cell>5.9</cell>
+                <cell>5.9</cell>
+              </row>
+            </table>
+            <keywords>
+              <keyword name="North America"/>
+              <keyword name="Western Europe"/>
+              <keyword name="Southeastern Asia"/>
+              <keyword name="Central and Eastern Asia"/>
+              <keyword name="Oceania"/>
+              <keyword name="1%"/>
+              <keyword name="Loans"/>
+              <keyword name="Housing Real estate"/>
+            </keywords>
+            <sources>
+              <source>Forbes “Richest Real Estate Billionaires In 2016”</source>
+                <source>“The 20 Richest Real Estate Barons In The World 2016”</source>
+                <source>Yahoo “World's most expensive residential property”</source>
+                <source>Numbeo “Cost of Living”</source>
+            </sources>
+          </section>
+          <section>
+            <title>ASIAN TYCOONS</title>
+            <chapter>
+              <paragraph>Escluding new entries, this is the trend of their fortunes:</paragraph>
+              <paragraph>
+                <list type="unordered">
+                  <item>50 dropped down</item>
+                  <item>24 rose</item>
+                  <item>9 remained flat</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <keywords>
+              <keyword name="North America"/>
+              <keyword name="Western Europe"/>
+              <keyword name="Southeastern Asia"/>
+              <keyword name="Central and Eastern Asia"/>
+              <keyword name="Oceania"/>
+              <keyword name="1%"/>
+              <keyword name="Loans"/>
+              <keyword name="Housing Real estate"/>
+            </keywords>
+            <sources>
+              <source>Forbes “Richest Real Estate Billionaires In 2016”</source>
+                <source>“The 20 Richest Real Estate Barons In The World 2016”</source>
+                <source>Yahoo “World's most expensive residential property”</source>
+                <source>Numbeo “Cost of Living”</source>
+            </sources>
+          </section>
+        </sections>
+      </bulletin>
+</bulletins>
