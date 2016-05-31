@@ -18,7 +18,7 @@
     };
 
     Rectangle.prototype.isWide = function () {
-        return this.width > 250;//this.height;
+        return this.width > 250 ;//this.height;
     };
 
     function TreeMap($div, options) {
@@ -44,7 +44,7 @@
         this.ready = function () {
         };
         this.itemMargin = 0;
-        this.smallestFontSize = 10;
+        this.smallestFontSize = 12;
         this.startingFontSize = 18;
         this.centerLabelVertically = true;
 
@@ -110,7 +110,7 @@
             this.fitLabelFontSize($content, node);
 
             if (this.centerLabelVertically) {
-                $content.css('margin-top', (parseInt($box.height()) / 2) - (parseInt($content.height()) / 2) + 'px');
+            //    $content.css('margin-top', (parseInt($box.height()) / 2) - (parseInt($content.height()) / 2) + 'px');
             }
         }
         this.ready();
@@ -120,26 +120,28 @@
         var nodeBounds = node.bounds;
         console.log($content);
         $content.css('max-width',nodeBounds.width- TreeMap.TOP_MARGIN);
-        $content.css('word-wrap','break-word');
-        while ($content.height() + TreeMap.TOP_MARGIN > nodeBounds.height) { //|| $content.width() + TreeMap.SIDE_MARGIN > nodeBounds.width
+      //  $content.css('word-wrap','break-word');
+        while ($content.height() + TreeMap.TOP_MARGIN > nodeBounds.height){// || $content.innerWidth() + 10 > nodeBounds.width){
             var fontSize = parseFloat($content.css('font-size')) - 1;
             if (fontSize <= this.smallestFontSize) {
               //  $content.remove();
-                var str=$content.text();
+              /*  var str=$content.text();
                 var lastIndex = str.lastIndexOf(" ");
                 str = str.substring(0, lastIndex)+"...";
                 if($content.text().length>5){
                   $content.text(str);
                 }
                 else {
-                  $content.remove();
+              */    $content.css('background-color','red');
                   break;
-                }
+            //    }
             }
             else
               $content.css('font-size', fontSize + 'px');
         }
-        if($content.width() >nodeBounds.width)$content.remove();
+      //  console.log($content.innerWidth()+" * "+$content.width());
+        if($content.innerWidth() >nodeBounds.width- 10)
+          $content.css('background-color','green');
         $content.css('display', 'block');
         this.paintCallback($content, node);
     };
@@ -155,7 +157,26 @@
 
         return nodeList;
     };
+    function itFit(s,width){
 
+      var $content = $("<div>" + s + "</div>");
+      $('body').append($content);
+      $content.addClass('treemap-label');
+      $content.css({
+          'display': 'relative',
+          'position': 'relative',
+          'text-align': 'left',
+          'font-size': this.smallestFontSize + 'px',
+          'max-width': width-10,
+          'visibility':'hidden'
+      });
+      console.log('++++');
+      console.log(s+" , "+width+"  ",$content.innerWidth());
+
+      console.log($content.innerWidth() +" < "+(width-10));
+      //$content.remove();;
+      return $content.innerWidth() <width- TreeMap.TOP_MARGIN;
+    }
     TreeMap.prototype.divideDisplayArea = function (nodeList, destRectangle) {
         // Check for boundary conditions
         if (nodeList.length === 0)
@@ -171,12 +192,29 @@
         var leftSum = this.sumValues(halves.left),
             rightSum = this.sumValues(halves.right),
             totalSum = leftSum + rightSum;
+            console.log("***");
+            console.log(nodeList[0]);
 
-        if (destRectangle.isWide()) {
+
+        var l_rect = Math.round((leftSum * destRectangle.width) / totalSum);
+        var r_rect =  Math.round((rightSum * destRectangle.width) / totalSum);
+        var ok=true;
+        for(var i=0;i<halves.left.length;i++){
+          if(!itFit(halves.left[i].label,l_rect)){
+            ok=false;
+          }
+        }
+        for(var i=0;i<halves.right.length;i++){
+          if(!itFit(halves.right[i].label,r_rect)){
+            ok=false;
+          }
+        }
+        if (ok) {
             var midPoint = Math.round((leftSum * destRectangle.width) / totalSum);
             this.divideDisplayArea(halves.left, new Rectangle(destRectangle.x, destRectangle.y, midPoint, destRectangle.height, this.itemMargin));
             this.divideDisplayArea(halves.right, new Rectangle(destRectangle.x + midPoint, destRectangle.y, destRectangle.width - midPoint, destRectangle.height, this.itemMargin));
-        } else {
+        }
+        else {
             var midPoint = Math.round((leftSum * destRectangle.height) / totalSum);
             this.divideDisplayArea(halves.left, new Rectangle(destRectangle.x, destRectangle.y, destRectangle.width, midPoint, this.itemMargin));
             this.divideDisplayArea(halves.right, new Rectangle(destRectangle.x, destRectangle.y + midPoint, destRectangle.width, destRectangle.height - midPoint, this.itemMargin));

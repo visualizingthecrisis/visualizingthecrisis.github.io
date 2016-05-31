@@ -212,6 +212,10 @@ function dateToNumberGraph($element, $parent, xData, yData){
     }
     else{
       for(var i=0;i<xData.length;i++){
+        graph_number++;
+        $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
+        settings.bindto='#graph'+graph_number;
+        
         settings.data.columns=[xData[i],yData[i]];
         settings.data.type='line';
         settings.axis.x.tick.count=3;
