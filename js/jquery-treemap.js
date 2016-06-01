@@ -24,7 +24,7 @@
     function TreeMap($div, options) {
         options = options || {};
         this.$div = $div;
-
+        this.isValid=true;
         $div.css('position', 'relative');
         this.rectangle = new Rectangle(0, 0, $div.width(), $div.height(), 0);
 
@@ -121,7 +121,7 @@
         console.log($content);
         $content.css('max-width',nodeBounds.width- TreeMap.TOP_MARGIN);
       //  $content.css('word-wrap','break-word');
-        while ($content.height() + TreeMap.TOP_MARGIN > nodeBounds.height){// || $content.innerWidth() + 10 > nodeBounds.width){
+        while ($content.height() + 3 > nodeBounds.height){// || $content.innerWidth() + 10 > nodeBounds.width){
             var fontSize = parseFloat($content.css('font-size')) - 1;
             if (fontSize <= this.smallestFontSize) {
               //  $content.remove();
@@ -132,7 +132,10 @@
                   $content.text(str);
                 }
                 else {
-              */    $content.css('background-color','red');
+
+              */
+              this.isValid=false;
+                  $content.css('background-color','red');
                   break;
             //    }
             }
@@ -248,11 +251,14 @@
 
     $.fn.treemap = function (json, options) {
         var self = this;
-        return this.fadeOut('fast', function () {
+        var tm= new TreeMap(self, options)
+        tm.paint(json);
+        return tm;
+        /*this.fadeOut('fast', function () {
             self.empty().fadeIn('fast', function () {
-                new TreeMap(self, options).paint(json);
+
             });
-        });
+        });*/
     };
 
 })(jQuery);

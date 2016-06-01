@@ -215,7 +215,7 @@ function dateToNumberGraph($element, $parent, xData, yData){
         graph_number++;
         $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
         settings.bindto='#graph'+graph_number;
-        
+
         settings.data.columns=[xData[i],yData[i]];
         settings.data.type='line';
         settings.axis.x.tick.count=3;
@@ -262,7 +262,7 @@ function locationToNumberGraph($element, $parent, xData, yData){
     }
   }
 }
-function stringToNumberGraph($element, $parent, xData, yData){
+function stringToNumberGraph($element, $parent, xData, yData, format){
   var settings=getDefaultGraphSettings();
   if(xData.length>0 && xData.length>0){
     var equal=xArrayCheck(xData);
@@ -290,8 +290,10 @@ function stringToNumberGraph($element, $parent, xData, yData){
       settings.data.columns=yData;
       settings.data.type='bar';
       settings.axis.x.type= 'category';
-
-      settings.axis.y.tick.format=d3.format(".3s");
+      if(format)
+        settings.axis.y.tick.format=d3.format(".3s "+format);
+      else
+        settings.axis.y.tick.format=d3.format(".3s");
       settings.axis.y.tick.count=6;
       //  settings.axis.x.tick.width=200;
 
@@ -349,7 +351,7 @@ function stringToPercentageGraph($element, $parent, xData, yData){
     for(var j=1;j<xData[i].length;j++){
       data.push({  data:'a'+j,label:yData[i][j]+"% "+xData[i][j],value:yData[i][j],fill:patterns[j%patterns.length]});
     }
-    $("div#my-treemap"+graph_number).treemap(data, {
+    var t=$("div#my-treemap"+graph_number).treemap(data, {
       nodeClass: function(node, box){
         if(node.value <= 50){
           return 'minor';
@@ -358,6 +360,13 @@ function stringToPercentageGraph($element, $parent, xData, yData){
       },
       itemMargin: 2
     });
+    if (!t.isValid) {
+
+      $("#my-treemap"+graph_number).remove();//css('opacity',0.1);
+
+      return stringToNumberGraph($element, $parent, xData, yData, '%');
+      //$parent.append("<div>WRONG</div>");
+    }
   }
   return;
 
