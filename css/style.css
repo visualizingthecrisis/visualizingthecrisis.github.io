@@ -183,14 +183,12 @@ text{
 }
 
 .section-graph-subtitle{
-  line-height: 1;
   display: block;
   font-style: italic;
   margin-bottom: 10px;
 }
 
 .section-graph-abstract{
-  line-height: 1;
   display: block;
   margin-bottom: 20px;
 }
@@ -346,5 +344,5 @@ th{
 
 .chapter-title{
   font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
-  
+
 }
