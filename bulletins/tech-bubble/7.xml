@@ -1,0 +1,488 @@
+<bulletins>
+  <title>Bursting Unicorns</title>
+  <authors>
+    <author>Elisa Bianchi</author>
+    <author>Francesca Luzi</author>
+    <author>Federico Rita</author>
+  </authors>
+  <bulletin id="7" date="20160421">
+    <sections>
+      <section>
+        <title>Rank of valuation</title>
+        <abstract>The first ten private companies valued at $1 billion or more
+          is unchanged and there is a new Chinese unicorn: iCarbonX.</abstract>
+          <chapter>
+            <paragraph>
+              <list type="ordered">
+                <item>Uber</item>
+                <item>Xiaomi</item>
+                <item>Airbnb</item>
+                <item>Palantir</item>
+                <item>Dianping</item>
+                <item>Snapchat</item>
+                <item>Wework</item>
+                <item>Flipkart</item>
+                <item>Didi Kuaidi</item>
+                <item>SpaceX</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Start-ups"/>
+            <keyword area="North America"/>
+            <keyword name="Central and Eastern Asia"/>
+            <keyword name="Transportation"/>
+            <keyword name="Tech"/>
+            <keyword name="Commerce"/>
+            <keyword name="Tourism"/>
+            <keyword name="Investments"/>
+            <keyword name="Employment"/>
+            <keyword name="Healthcare"/>
+          </keywords>
+          <sources>
+            <source>bloomberg.com</source>
+            <source>cbinsights.com</source>
+            <source>ilsole24ore.com</source>
+            <source>money.cnn.com</source>
+            <source>startuphealth.ca</source>
+            <source>techcrunch.com</source>
+            <source>wsj.com</source>
+          </sources>
+        </section>
+        <section>
+          <title>The clean bill of Chinese healthcare</title>
+          <chapter>
+            <paragraph>April 14th, 2016: iCarbonX becomes China’s first biotech unicorn.
+              The company is building a big data-driven health platform, capable
+              of processing a wide variety of health-related data, including data
+              from smart hardware devices.</paragraph>
+              <paragraph>As mobile and Internet-based technologies are developed
+                and deployed to improve health care delivery for China’s population
+                of 1.3B people, the nation’s digital healthcare market’ ll grow exponentially.
+                We expect that this market (measured by spending on digital health care)
+                will expand from $3B in 2014 to $110B in 2020. Health care in China
+                will be changed. Three trends are driving the digital healthcare revolution in China:
+                1st is the adoption of new technologies such as mobile devices, and big-data analytics.
+                2nd is the effort by Chinese government to address unmet needs in the system.
+                3th trend is an increasingly favorable regulatory environment.</paragraph>
+              </chapter>
+              <quote>
+                <author></author>
+                <text>April 14th, 2016: iCarbonX becomes China’s first biotech unicorn.</text>
+              </quote>
+              <graph unit="B$" x="date" y="number">
+                <title>China’ spending on digital health care service and eCommerce</title>
+                <dataset label= "E-commerce">
+                  <data x="2014" y="1"/>
+                  <data x="2017" y="5"/>
+                  <data x="2020" y="15"/>
+                </dataset>
+                <dataset label= "Professional medical info">
+                  <data x="2014" y="0"/>
+                  <data x="2017" y="1"/>
+                  <data x="2020" y="2"/>
+                </dataset>
+                <dataset label= "Data services">
+                  <data x="2014" y="0"/>
+                  <data x="2017" y="1"/>
+                  <data x="2020" y="6"/>
+                </dataset>
+                <dataset label= "Health consultation and management">
+                  <data x="2014" y="0"/>
+                  <data x="2017" y="2"/>
+                  <data x="2020" y="20"/>
+                </dataset>
+                <dataset label= "Disease management">
+                  <data x="2014" y="1"/>
+                  <data x="2017" y="9"/>
+                  <data x="2020" y="35"/>
+                </dataset>
+              </graph>
+              <keywords>
+                <keyword name="Start-ups"/>
+                <keyword name="Central and Eastern Asia"/>
+                <keyword name="Tech"/>
+                <keyword name="Commerce"/>
+                <keyword name="Investments"/>
+                <keyword name="Healthcare"/>
+              </keywords>
+              <sources>
+                <source>bloomberg.com</source>
+                <source>cbinsights.com</source>
+                <source>ilsole24ore.com</source>
+                <source>money.cnn.com</source>
+                <source>startuphealth.ca</source>
+                <source>techcrunch.com</source>
+                <source>wsj.com</source>
+              </sources>
+            </section>
+            <section>
+              <title>The clean bill of US healthcare</title>
+              <chapter>
+                <title>Digital health funding</title>
+                <paragraph>Over the past three years, in USA, some months repetitively
+                  correlate to dips and peaks. Starting in 2014, we have seen
+                  an emerging trend in venture funding, indicating a rhythm to
+                  the digital heathcare investment landscape at large.</paragraph>
+                  <paragraph>2016 starts off with a record setting quarter: 1.8 B$.
+                    While 22% of that funding was directed to the insurance upstarts,
+                    the remaining funding was distributed in increasingly mature rounds.</paragraph>
+                  </chapter>
+                  <graph unit="B$" x="date" y="number">
+                    <title>Digital health funding</title>
+                    <dataset label= "2013">
+                      <data x="Jan" y="0.33"/>
+                      <data x="Feb" y="0.10"/>
+                      <data x="Mar" y="0.11"/>
+                      <data x="Apr" y="0.30"/>
+                      <data x="May" y="0.27"/>
+                      <data x="Jun" y="0.30"/>
+                      <data x="Jul" y="0.25"/>
+                      <data x="Aug" y="0.26"/>
+                      <data x="Sep" y="0.29"/>
+                      <data x="Oct" y="0.16"/>
+                      <data x="Nov" y="0.19"/>
+                      <data x="Dec" y="0.27"/>
+                    </dataset>
+                    <dataset label= "2014">
+                      <data x="Jan" y="0.77"/>
+                      <data x="Feb" y="0.37"/>
+                      <data x="Mar" y="0.46"/>
+                      <data x="Apr" y="0.72"/>
+                      <data x="May" y="0.60"/>
+                      <data x="Jun" y="0.52"/>
+                      <data x="Jul" y="0.53"/>
+                      <data x="Aug" y="0.35"/>
+                      <data x="Sep" y="1.03"/>
+                      <data x="Oct" y="0.95"/>
+                      <data x="Nov" y="0.41"/>
+                      <data x="Dec" y="0.33"/>
+                    </dataset>
+                    <dataset label= "2015">
+                      <data x="Jan" y="0.36"/>
+                      <data x="Feb" y="0.34"/>
+                      <data x="Mar" y="0.30"/>
+                      <data x="Apr" y="0.57"/>
+                      <data x="May" y="0.80"/>
+                      <data x="Jun" y="0.40"/>
+                      <data x="Jul" y="0.45"/>
+                      <data x="Aug" y="0.70"/>
+                      <data x="Sep" y="1.75"/>
+                      <data x="Oct" y="0.50"/>
+                      <data x="Nov" y="0.33"/>
+                      <data x="Dec" y="0.45"/>
+                    </dataset>
+                    <dataset label= "2016">
+                      <data x="Jan" y="0.75"/>
+                      <data x="Feb" y="0.80"/>
+                      <data x="Mar" y="0.25"/>
+                    </dataset>
+                  </graph>
+                  <table>
+                    <row type="head">
+                      <cell>Sector</cell>
+                      <cell>Consumers adoption</cell>
+                      <cell>Funding</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>wearables</cell>
+                      <cell>12 %</cell>
+                      <cell>499 M$</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>Telemedicine</cell>
+                      <cell>7 %</cell>
+                      <cell>236 M$</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>Mobile health tracking</cell>
+                      <cell>17 %</cell>
+                      <cell>409</cell>
+                    </row>
+                  </table>
+                  <graph unit="%" x="string" y="number">
+                    <title>Adoption of mobile health tracking by key health factor</title>
+                    <dataset label="track in app">
+                      <data x="Weight" y="8" />
+                      <data x="Heart" y="3" />
+                      <data x="Pressure" y="2" />
+                      <data x="Sport" y="12" />
+                      <data x="Diet" y="7" />
+                      <data x="Sleep" y="4" />
+                    </dataset>
+                    <dataset label="track in head">
+                      <data x="Weight" y="35" />
+                      <data x="Heart" y="4" />
+                      <data x="Pressure" y="12" />
+                      <data x="Sport" y="10" />
+                      <data x="Diet" y="23" />
+                      <data x="Sleep" y="13" />
+                    </dataset>
+                    <dataset label="track on paper">
+                      <data x="Weight" y="12" />
+                      <data x="Heart" y="4" />
+                      <data x="Pressure" y="12" />
+                      <data x="Sport" y="5" />
+                      <data x="Diet" y="6" />
+                      <data x="Sleep" y="3" />
+                    </dataset>
+                  </graph>
+                  <keywords>
+                    <keyword name="Start-ups"/>
+                    <keyword area="North America"/>
+                    <keyword name="Healthcare"/>
+                    <keyword name="Tech"/>
+                    <keyword name="Investments"/>
+                    <keyword name="Investments"/>
+                  </keywords>
+                  <sources>
+                    <source>bloomberg.com</source>
+                    <source>cbinsights.com</source>
+                    <source>ilsole24ore.com</source>
+                    <source>money.cnn.com</source>
+                    <source>startuphealth.ca</source>
+                    <source>techcrunch.com</source>
+                    <source>wsj.com</source>
+                  </sources>
+                </section>
+                <section>
+                  <title>Closed for IPOs</title>
+                  <chapter>
+                    <paragraph>The US market for tech IPOs has totally frozen over.
+                      Zero Internet or tech companies went public on US exchanges in the first quarter
+                      of 2016. The last time that happened was in the first quarter of 2009,
+                      during the depths of the Great Recession.</paragraph>
+                    </chapter>
+                    <graph unit="B$" x="date" y="number">
+                      <dataset label= "Deal value">
+                        <data x="Q1_2007" y="2"/>
+                        <data x="Q2_2007" y="3"/>
+                        <data x="Q3_2007" y="3"/>
+                        <data x="Q4_2007" y="3.3"/>
+                        <data x="Q1_2008" y="0.5"/>
+                        <data x="Q2_2008" y="0"/>
+                        <data x="Q3_2008" y="1"/>
+                        <data x="Q4_2008" y="0.3"/>
+                        <data x="Q1_2009" y="0"/>
+                        <data x="Q2_2009" y="1"/>
+                        <data x="Q3_2009" y="3"/>
+                        <data x="Q4_2009" y="0.5"/>
+                        <data x="Q1_2010" y="2"/>
+                        <data x="Q2_2010" y="1"/>
+                        <data x="Q3_2010" y="2.8"/>
+                        <data x="Q4_2010" y="2.5"/>
+                        <data x="Q1_2011" y="2"/>
+                        <data x="Q2_2011" y="6"/>
+                        <data x="Q3_2011" y="0.5"/>
+                        <data x="Q4_2011" y="3"/>
+                        <data x="Q1_2012" y="2.7"/>
+                        <data x="Q2_2012" y="17"/>
+                        <data x="Q3_2012" y="2"/>
+                        <data x="Q4_2012" y="2.5"/>
+                        <data x="Q1_2013" y="2"/>
+                        <data x="Q2_2013" y="3"/>
+                        <data x="Q3_2013" y="2.8"/>
+                        <data x="Q4_2013" y="5"/>
+                        <data x="Q1_2014" y="3"/>
+                        <data x="Q2_2014" y="7"/>
+                        <data x="Q3_2014" y="26"/>
+                        <data x="Q4_2014" y="4"/>
+                        <data x="Q1_2015" y="2.7"/>
+                        <data x="Q2_2015" y="3.9"/>
+                        <data x="Q3_2015" y="0.5"/>
+                        <data x="Q4_2015" y="4.5"/>
+                        <data x="Q1_2016" y="0"/>
+                      </dataset>
+                    </graph>
+                    <graph x="date" y="number">
+                      <dataset label="IPO number">
+                        <data x="2008" y="2"/>
+                        <data x="2009" y="0"/>
+                        <data x="2010" y="8"/>
+                        <data x="2011" y="10"/>
+                        <data x="2012" y="16"/>
+                        <data x="2013" y="7"/>
+                        <data x="2014" y="14"/>
+                        <data x="2015" y="5"/>
+                        <data x="2016" y="0"/>
+                      </dataset>
+                    </graph>
+                    <chapter>
+                      <title>The Fear Index</title>
+                      <paragraph>The VIX measures the volatility on Wall Street
+                        through the options (which are derivatives). In practice,
+                        he tells us what is the displacement violence in prices that
+                        markets are expected for the near future. More the index is high,
+                        more is the fear of a sudden change of the Stock Exchange.</paragraph>
+                        <paragraph>SeP 500 is an American stock market index based on the market
+                          capitalizations of 500 large companies having common stock listed on
+                          the NYSE or NASDAQ.</paragraph>
+                        </chapter>
+                        <graph x="date" y="number">
+                          <dataset label= "VIX">
+                            <data x="Jan '09" y="79"/>
+                            <data x="Jun '09" y="24"/>
+                            <data x="Jan '10" y="18"/>
+                            <data x="Jun '10" y="40"/>
+                            <data x="Jan '11" y="15"/>
+                            <data x="Jun '11" y="16"/>
+                            <data x="Jan '12" y="18"/>
+                            <data x="Jun '12" y="16"/>
+                            <data x="Jan '13" y="12"/>
+                            <data x="Jun '13" y="12"/>
+                            <data x="Jan '14" y="13"/>
+                            <data x="Jun '14" y="11"/>
+                            <data x="Jan '15" y="20"/>
+                            <data x="Jun '15" y="16"/>
+                            <data x="Jan '16" y="28"/>
+                          </dataset>
+                        </graph>
+                        <graph x="date" y="number">
+                          <dataset label= "SeP 500">
+                            <data x="Jan '09" y="1,200"/>
+                            <data x="Jun '09" y="1,300"/>
+                            <data x="Jan '10" y="1,350"/>
+                            <data x="Jun '10" y="1,200"/>
+                            <data x="Jan '11" y="1,450"/>
+                            <data x="Jun '11" y="1,300"/>
+                            <data x="Jan '12" y="1,500"/>
+                            <data x="Jun '12" y="1,600"/>
+                            <data x="Jan '13" y="1,650"/>
+                            <data x="Jun '13" y="1,700"/>
+                            <data x="Jan '14" y="1,800"/>
+                            <data x="Jun '14" y="1,900"/>
+                            <data x="Jan '15" y="1,950"/>
+                            <data x="Jun '15" y="1,850"/>
+                            <data x="Jan '16" y="1,800"/>
+                          </dataset>
+                        </graph>
+                        <quote>
+                          <author></author>
+                          <text>The VIX Index also predicts terrorist attacks(?)</text>
+                        </quote>
+                        <keywords>
+                          <keyword name="Terrorism"/>
+                          <keyword name="Global Corporations"/>
+                          <keyword name="Investments"/>
+                          <keyword name="Start-ups"/>
+                          <keyword name="North America"/>
+                          <keyword name="Tech"/>
+                          <keyword name="Investments"/>
+                        </keywords>
+                        <sources>
+                          <source>bloomberg.com</source>
+                          <source>cbinsights.com</source>
+                          <source>ilsole24ore.com</source>
+                          <source>money.cnn.com</source>
+                          <source>startuphealth.ca</source>
+                          <source>techcrunch.com</source>
+                          <source>wsj.com</source>
+                        </sources>
+                      </section>
+                      <section>
+                        <title>Start-ups funding is slowing</title>
+                        <chapter>
+                          <title>Strart-ups funding in USA</title>
+                          <paragraph>For a long time, it felt like Silicon Valley
+                            was the only place to build a successful startup. Now, dozens of other cities
+                            are getting in on the game. Yes, the Bay Area, New York, and Boston remain
+                            the undisputed centers of the startup world. But new growth in early-stage
+                            investment activity, while still small, shifted toward outlying cities in the last year.
+                            Overall, the first quarter's fundraising was a "rollercoaster mostly pointed down"
+                            for early-stage start-ups.</paragraph>
+                          </chapter>
+                          <graph unit="M$" x="string" y="number">
+                            <title>Top ten biggest winners in USA</title>
+                            <dataset label= "2015">
+                              <data x="Portland" y="5"/>
+                              <data x="San Diego" y="140"/>
+                              <data x="Dallas" y="51"/>
+                              <data x="Huston" y="6"/>
+                              <data x="Kansas City" y="3"/>
+                              <data x="St. Louis" y="5"/>
+                              <data x="Nashville" y="0"/>
+                              <data x="Philadelphia" y="44"/>
+                              <data x="Detroit" y="27"/>
+                              <data x="Boston" y="536"/>
+                            </dataset>
+                            <dataset label= "2016">
+                              <data x="Portland" y="42"/>
+                              <data x="San Diego" y="282"/>
+                              <data x="Dallas" y="127"/>
+                              <data x="Huston" y="11"/>
+                              <data x="Kansas City" y="13"/>
+                              <data x="St. Louis" y="23"/>
+                              <data x="Nashville" y="4"/>
+                              <data x="Philadelphia" y="48"/>
+                              <data x="Detroit" y="66"/>
+                              <data x="Boston" y="780"/>
+                            </dataset>
+                          </graph>
+                          <graph unit="M$" x="string" y="number">
+                            <title>Top ten biggest losers in USA</title>
+                            <dataset label= "2015">
+                              <data x="Silicon Valley" y="2,160"/>
+                              <data x="Seattle" y="232"/>
+                              <data x="Salt Lake City" y="68"/>
+                              <data x="Denver" y="31"/>
+                              <data x="Austin" y="178"/>
+                              <data x="Minneapolis" y="34"/>
+                              <data x="Chicago" y="120"/>
+                              <data x="Atlanta" y="30"/>
+                              <data x="Washington" y="94"/>
+                              <data x="NYC" y="701"/>
+                            </dataset>
+                            <dataset label= "2016">
+                              <data x="Silicon Valley" y="1,739"/>
+                              <data x="Seattle" y="166"/>
+                              <data x="Salt Lake City" y="12"/>
+                              <data x="Denver" y="18"/>
+                              <data x="Austin" y="65"/>
+                              <data x="Minneapolis" y="27"/>
+                              <data x="Chicago" y="92"/>
+                              <data x="Atlanta" y="13"/>
+                              <data x="Washington" y="51"/>
+                              <data x="NYC" y="640"/>
+                            </dataset>
+                          </graph>
+                          <graph unit="%" x="string" y="number">
+                            <title>Investors are slashing start-up valuations</title>
+                            <abstract>The mutual fund T.Rowemarksdown(and up)
+                              for private tech companies (changing in share price valuation)</abstract>
+                                <dataset label= "valuation">
+                                  <data x="Uber" y="-6" />
+                                  <data x="Airbnb" y="-6" />
+                                  <data x="Domo" y="-9.1" />
+                                  <data x="Flipkart" y="-15.1" />
+                                  <data x="Dropbox" y="-15.9" />
+                                  <data x="MongoDB" y="-23.4" />
+                                  <data x="Cloudera" y="-36.7" />
+                                  <data x="Evernote" y="-75.7" />
+                                  <data x="Wework" y="+14.5" />
+                                </dataset>
+                              </graph>
+                              <keywords>
+                                <keyword name="Start-ups"/>
+                                <keyword name="Central and Eastern Asia"/>
+                                <keyword name="Tech"/>
+                                <keyword name="North America"/>
+                                <keyword name="Investments"/>
+                                <keyword name="Tourism"/>
+                                <keyword name="Transportation"/>
+                                <keyword name="Commerce"/>
+                                <keyword name="Commerce"/>
+                                <keyword name="Commerce"/>
+                              </keywords>
+                              <sources>
+                                <source>bloomberg.com</source>
+                                <source>cbinsights.com</source>
+                                <source>ilsole24ore.com</source>
+                                <source>money.cnn.com</source>
+                                <source>startuphealth.ca</source>
+                                <source>techcrunch.com</source>
+                                <source>wsj.com</source>
+                              </sources>
+                            </section>
+                          </sections>
+                        </bulletin>
+                      </bulletins>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins>
+  <title>REAL ESTATE</title>
+  <subtitle>Visualizing the crisis</subtitle>
+  <authors>
+    <author>Irene Chiappini</author>
+    <author>Giulia Serafin</author>
+  </authors>
+  <bulletin id="8" date="20160428">
+    <title>UAE's real estate market</title>
+    <sections>
+      <section>
+        <title>Most important investments area</title>
+        <chapter>
+          <title>Most popular investments destination</title>
+          <paragraph>
+            <list type="unordered">
+              <item>Abu Dhabi</item>
+              <item>Dubai</item>
+              <item>Sadiyaat</item>
+              <item>Yas Island</item>
+              <item>Sarjah</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>GCC HIGH NET WORTH’s investments</title>
+          <paragraph>
+            <list type="ordered">
+              <item>Dubai 27%</item>
+              <item>Abu Dhabi 21%</item>
+              <item>Sadiyaat 8%</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <chapter>
+          <paragraph>GCC nationals were the largest investors in Dubai real estate in 2015, with a total of AED 44 billion being committed over the course of the year. Dubai is the most preferred location for real estate investment in the Middle East during 2016.
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>Low prices in Sadiyaat’s real estate market compared to Dubai</title>
+        <paragraph>
+          <list type="ordered">
+            <item>Dubai: Avarage values of villas $780 psf</item>
+            <item>Sadiyaat: Avarage values of villas $616 psf </item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>The importance of Sarjah city</title>
+        <paragraph>Sarjah's high ranking can be attributed in part to the emergence of the emirate's first master planned communities which have been very well received by the local and international investment community.
+        </paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Middle East and Western Asia"/>
+        <keyword name="Investments"/>
+        <keyword name="Construction"/>
+        <keyword name="Housing Real estate"/>
+      </keywords>
+      <sources>
+        <source>World Property Journal “GCC ultra wealthy identify Dubai as top middle east investment target”</source>
+        <source>World Property Journal ”Abu Dhabi's Entertainment Yas Island Now a Growing Residential Hub”</source>
+        <source>World Property Journal ”Dubai, Abu Dhabi Residential Markets Hold Their Own in Q1”</source>
+        <source>Numbeo</source>
+      </sources>
+    </section>
+    <section>
+      <title> Yas Island - Land bank</title>
+      <chapter>
+        <paragraph>is steadily evolving from being a pure entertainment and leisure destination into a destination for living as well as tourism. Yas Island is a central part of destination development strategy, and already boasts a number of residential projects currently under development.
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>Vision 2030</title>
+        <paragraph>he aims is to raise the standard of living for all people living and visiting the Emirate through the creation of vibrant, mixed-use communities and the provision of a diverse range of housing choices.</paragraph>
+      </chapter>
+      <chapter>
+        <title>Propertie's project</title>
+        <paragraph>which will enabler to successfully develop well into the future.</paragraph>
+        <paragraph>
+          <list type="ordered">
+            <item>seven hotels</item>
+            <item>Yas Mall </item>
+            <item>theme parks</item>
+            <item>Marina</item>
+            <item>F1 race track</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Middle East and Western Asia"/>
+        <keyword name="Investments"/>
+        <keyword name="Construction"/>
+        <keyword name="Housing Real estate"/>
+      </keywords>
+      <sources>
+        <source>World Property Journal “GCC ultra wealthy identify Dubai as top middle east investment target”</source>
+        <source>World Property Journal ”Abu Dhabi's Entertainment Yas Island Now a Growing Residential Hub”</source>
+        <source>World Property Journal ”Dubai, Abu Dhabi Residential Markets Hold Their Own in Q1”</source>
+        <source>Numbeo</source>
+      </sources>
+    </section>
+    <section>
+      <title>Abu Dhabi VS Dubai</title>
+      <chapter>
+        <paragraph>The apartment rental category remained robust, with lucrative yields in both Dubai and Abu Dhabi keeping investors interested in the real estate markets of both emirates.Dubai's real estate market sailed stably through the first quarter. there is a real estate developers carefully considering demand before supplying market with new units and also a distribution and movement of residents from the city center to suburbs.</paragraph>
+      </chapter>
+      <chapter>
+        <title>Real estate transictions in dubai</title>
+        <paragraph>During the first three months amounted to: AED 54.78 billion through 12,568 deals The market's price adjustment, coupled with flexible payment plans offered by numerous developers is encouraging many tenants to become homeowners.</paragraph>
+      </chapter>
+      <chapter>
+        <title>Dubai’s avarage studio apartment rents</title>
+        <table>
+          <row type="head">
+            <cell></cell>
+            <cell>%</cell>
+            <cell>AED</cell>
+          </row>
+          <row type="cell">
+            <cell>1 bed</cell>
+            <cell>4</cell>
+          </row>
+          <row type="cell">
+            <cell>2 bed</cell>
+            <cell>4</cell>
+            <cell>154.000</cell>
+          </row>
+          <row type="cell">
+            <cell>3 bed</cell>
+            <cell>4</cell>
+            <cell>210.000</cell>
+          </row>
+        </table>
+        <table>
+          <row type="cell">
+            <cell>4 bed</cell>
+            <cell>3</cell>
+            <cell>321.000</cell>
+          </row>
+        </table>
+        <table>
+          <row type="head">
+            <cell></cell>
+            <cell>Population</cell>
+            <cell>Average Monthly Disposable Salary</cell>
+            <cell>City Centre (AED per square feet)</cell>
+            <cell>Outside Centre (€ per square feet)</cell>
+          </row>
+          <row type="cell">
+            <cell>Abu Dhabi</cell>
+            <cell>613.368</cell>
+            <cell>AED 13,058.55</cell>
+            <cell>AED 1,407.41</cell>
+            <cell>AED 1,001.95</cell>
+          </row>
+          <row type="cell">
+            <cell>Dubai</cell>
+            <cell>2,459 milions</cell>
+            <cell>AED 12,202.27</cell>
+            <cell>AED 1,580.07</cell>
+            <cell>AED 967.33</cell>
+          </row>
+          <row type="cell">
+            <cell>difference</cell>
+            <cell>1845632</cell>
+            <cell>-6.56 %</cell>
+            <cell>+12.27 %</cell>
+            <cell> -3.46 %</cell>
+          </row>
+        </table>
+      </chapter>
+      <keywords>
+        <keyword name="Middle East and Western Asia"/>
+        <keyword name="Investments"/>
+        <keyword name="Construction"/>
+        <keyword name="Housing Real estate"/>
+      </keywords>
+      <sources>
+        <source>World Property Journal “GCC ultra wealthy identify Dubai as top middle east investment target”</source>
+        <source>World Property Journal ”Abu Dhabi's Entertainment Yas Island Now a Growing Residential Hub”</source>
+        <source>World Property Journal ”Dubai, Abu Dhabi Residential Markets Hold Their Own in Q1”</source>
+        <source>Numbeo</source>
+      </sources>
+    </section>
+    <section>
+        <title>Top renting apartments</title>
+        <chapter>
+          <title>Abu Dhabi</title>
+          <paragraph>
+            <list type="ordered">
+              <item>Al Reem Island</item>
+              <item>Al Raha Beach</item>
+              <item>Khalifa City A</item>
+              <item>Al Muroor</item>
+              <item>Al Khalidiyah</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>Dubai</title>
+          <paragraph>
+            <list type="ordered">
+              <item>Dubai Marina</item>
+              <item>Jumeirah Lake Towers (JLT)</item>
+              <item>Bur Dubai</item>
+              <item>Downtown Dubai</item>
+              <item>Business Bay</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Middle East and Western Asia"/>
+          <keyword name="Investments"/>
+          <keyword name="Construction"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>World Property Journal “GCC ultra wealthy identify Dubai as top middle east investment target”</source>
+          <source>World Property Journal ”Abu Dhabi's Entertainment Yas Island Now a Growing Residential Hub”</source>
+          <source>World Property Journal ”Dubai, Abu Dhabi Residential Markets Hold Their Own in Q1”</source>
+          <source>Numbeo</source>
+        </sources>
+      </section>
+      <section>
+          <title>Top buying apartments</title>
+          <chapter>
+            <title>Abu Dhabi</title>
+            <paragraph>
+              <list type="ordered">
+                <item>Al Reem Island</item>
+                <item>Al Raha Beach</item>
+                <item>Al Reef</item>
+                <item>Al Ghadeer</item>
+                <item>Saadiyat Island</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>Dubai</title>
+            <paragraph>
+              <list type="ordered">
+                <item>Dubai Marina</item>
+                <item>Jumeirah Lake Towers (JLT)</item>
+                <item>Downtown Dubai</item>
+                <item>Palm Jumeirah</item>
+                <item>Jumeirah Beach Residence (JBR)</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Middle East and Western Asia"/>
+            <keyword name="Investments"/>
+            <keyword name="Construction"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>World Property Journal “GCC ultra wealthy identify Dubai as top middle east investment target”</source>
+            <source>World Property Journal ”Abu Dhabi's Entertainment Yas Island Now a Growing Residential Hub”</source>
+            <source>World Property Journal ”Dubai, Abu Dhabi Residential Markets Hold Their Own in Q1”</source>
+            <source>Numbeo</source>
+          </sources>
+        </section>
+      </sections>
+    </bulletin>
+    <bulletin id="8" date="20160428">
+      <title>Fight for buying a house</title>
+      <sections>
+        <section>
+          <title>US housing bidding wars</title>
+          <subtitle>According to the Redfin* company, more and more Americans are forced into a bidding war while buying a home.</subtitle>
+          <chapter>
+            <paragraph>* Redfin is a US residential realty  company that provies web-based database and brokerage services.</paragraph>
+          </chapter>
+          <chapter>
+            <title>Competition is fierce, especially for first-time buyers or those looking for affordable houses.</title>
+            <paragraph>59% of all written offers faced a bidding war in March 2016.</paragraph>
+            <paragraph>Percentages  show also how lower budget means a higher risk of running into a bidding war.</paragraph>
+          </chapter>
+          <chapter>
+            <title>A real (common) story</title>
+            <paragraph>M.J. found the perfect 3-bedroom home in Oakland listed at $699,000. The executive has requested a compelling offer of $200,000 over the asking price. M.J. enter a real bidding war, which leads her to write a letter describing the generations of her family who would benefit from the purchase. M.J.’s pitch worked: thank to her creative capstone, she beat out 11 other offers, and closed the sell for $900,000.
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>Cities on the top</title>
+            <paragraph>These are the six cities (among the 83 markets the company serves) in wichnthere is the highest level of biddng wars.
+            </paragraph>
+            <paragraph>
+              <list type="ordered">
+                <item>OAKLAND (CA) 84%</item>
+                <item>SEATTLE (WA), SAN FRANCISCO (CA) 77%</item>
+                <item>LOS ANGELES (CA) 74%</item>
+                <item>DENVER (CO) 69%</item>
+                <item>AUSTIN (TX) 59%</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>NEW HOUSES: New listings are at the high end</title>
+            <paragraph>So the high proportion of bidding wars doesn’t look likely to let up even as more homes come onto the market for the spring selling season. In the bottom and middle tiers there is a clear decrease.
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Investments"/>
+            <keyword name="US Election"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Forbes “Bidding wars for homes have become the new normal in many US cities”</source>
+            <source>Forbes “Pros and cons of buying during real estate's hottest season”</source>
+            <source>Forbes “candidates can't buy your vote, but can they buy your town?”</source>
+          </sources>
+        </section>
+        <section>
+          <title>The hottest season</title>
+          <chapter>
+            <paragraph>Statistically, Sping has been the busiest season to purchase a property. But is it the really best time to buy?</paragraph>
+          </chapter>
+          <chapter>
+            <title>Pros</title>
+            <paragraph>
+              <list type="unordered">
+                <item>MORE INVENTORY</item>
+                <item>PERFECT TIME TO SHOP</item>
+                <item>GOOD WEATHER</item>
+                <item>EXTRA EQUITY IN YOUR POCKET</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>Cons</title>
+            <paragraph>
+              <list type="unordered">
+                <item>MORE COMPETITION</item>
+                <item>STRESS OF RELOCATING</item>
+                <item>TO MOVE QUICKLY</item>
+                <item>TERRIBLE TIME TO NEGOTIATE</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Investments"/>
+            <keyword name="US Election"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Forbes “Bidding wars for homes have become the new normal in many US cities”</source>
+            <source>Forbes “Pros and cons of buying during real estate's hottest season”</source>
+            <source>Forbes “candidates can't buy your vote, but can they buy your town?”</source>
+          </sources>
+        </section>
+        <section>
+          <title>They can’t buy your vote but maybe your town</title>
+          <subtitle>US presidential candidates have already spent a lot of money for their campaigns, but what could have they bought instead?</subtitle>
+          <chapter>
+            <paragraph>$ 1.1 Bilion: How much collectively candidates and their allies have already spent.A great part of this sum is coming from a tiny fraction of Americans.</paragraph>
+          </chapter>
+          <graph unit="$" x="candidate name" y="number">
+            <title>How much cadidates have spent for their campaign</title>
+            <dataset label="candidates campaigns costs">
+              <data x="HILLARY CLINTON" y="$256.4 million"/>
+              <data x="BERNIE SANDERS" y="$182.8 million"/>
+              <data x="TED CRUZ" y="$141.9 million"/>
+              <data x="DONALD TRUMP" y="51.2 million"/>
+              <data x="JOHN KASICH" y="$29.2 million"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Investments"/>
+            <keyword name="US Election"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Forbes “Bidding wars for homes have become the new normal in many US cities”</source>
+            <source>Forbes “Pros and cons of buying during real estate's hottest season”</source>
+            <source>Forbes “candidates can't buy your vote, but can they buy your town?”</source>
+          </sources>
+        </section>
+      </sections>
+    </bulletin>
+  </bulletins>

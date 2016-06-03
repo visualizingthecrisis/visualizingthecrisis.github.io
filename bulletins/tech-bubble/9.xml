@@ -1,0 +1,605 @@
+<bulletins>
+  <title>Bursting Unicorns</title>
+  <authors>
+    <author>Elisa Bianchi</author>
+    <author>Francesca Luzi</author>
+    <author>Federico Rita</author>
+  </authors>
+  <bulletin id="9" date="20160505">
+    <sections>
+      <section>
+        <title>Rank of valuation</title>
+        <abstract>The first ten private companies valued at $1 billion or more
+          is unchanged and there is a new Chinese unicorn: Lianjia.</abstract>
+          <chapter>
+            <paragraph>
+              <list type="ordered">
+                <item>Uber</item>
+                <item>Xiaomi</item>
+                <item>Airbnb</item>
+                <item>Palantir</item>
+                <item>Dianping</item>
+                <item>Snapchat</item>
+                <item>Wework</item>
+                <item>Flipkart</item>
+                <item>Didi Kuaidi</item>
+                <item>SpaceX</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Start-ups"/>
+            <keyword area="North America"/>
+            <keyword name="Central and Eastern Asia"/>
+            <keyword name="Transportation"/>
+            <keyword name="Tech"/>
+            <keyword name="Commerce"/>
+            <keyword name="Tourism"/>
+            <keyword name="Investments"/>
+            <keyword name="Employment"/>
+            <keyword name="Healthcare"/>
+          </keywords>
+          <sources>
+            <source>bloomberg.com</source>
+            <source>crunchbase.com</source>
+            <source>huffingtonpost.com</source>
+            <source>nytimes.com</source>
+            <source>qz.com</source>
+            <source>theguardian.com</source>
+            <source>wikipedia.com</source>
+            <source>wsj.com</source>
+          </sources>
+        </section>
+        <section>
+          <title>Elon Musk: the "Godfather" of Silicon Valley</title>
+          <chapter>
+            <paragraph>Why Apple should buy Tesla and appoint Elon Musk as CEO?
+              Apple needs another Steve Jobs to reinvent itself and a combination of
+              an operations executive such as Cook and a visionary such as Musk would be formidable.
+              Musk is CEO of SpaceX and Tesla Motors, that developed electric vehicles and released first
+              autonomous driving cars, and also Apple has been developing an electric vehicle.
+              He probably would be interested in being part of Apple, if he were offered the CEO role.
+              It could be another step of his successfull life. He started in PayPal, and so was part of the “PayPal Mafia”.</paragraph>
+              <paragraph>What is PayPal Mafia? “PayPal Mafia” is used to denote a group of former PayPal
+                employees and founders who founded and developed other tech companies, such as Tesla, SpaceX,
+                Yahoo and Yelp. Three of them, have also become billionaires.</paragraph>
+              </chapter>
+              <table>
+                <row type="head">
+                  <cell>Members name</cell>
+                  <cell>Paypal</cell>
+                  <cell>Linkedin</cell>
+                  <cell>Solarcity</cell>
+                  <cell>Tesla</cell>
+                  <cell>Yelp</cell>
+                  <cell>Youtube</cell>
+                  <cell>Palantir</cell>
+                  <cell>SpaceX</cell>
+                  <cell>Founders Fund</cell>
+                  <cell>500Startups</cell>
+                  <cell>Caplinked</cell>
+                  <cell>Yammer</cell>
+                  <cell>Geni.com</cell>
+                  <cell>Ironport</cell>
+                  <cell>Clarium Capital</cell>
+                  <cell>Slide</cell>
+                  <cell>Affirm</cell>
+                  <cell>Avos System</cell>
+                  <cell>Mixbit</cell>
+                </row>
+                <row type="cell">
+                  <cell>Eric M.Jacson</cell>
+                  <cell>other employee</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder, CEO</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>David O.Sacks</cell>
+                  <cell>COO</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder</cell>
+                  <cell>Founder</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Reid Hoffman</cell>
+                  <cell>COO</cell>
+                  <cell>Founder, CEO, Chairman</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Investor</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Scott Banister</cell>
+                  <cell>Other employee</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder</cell>
+                  <cell></cell>
+                  <cell>Investor</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Peter Thiel</cell>
+                  <cell>Founder</cell>
+                  <cell>Investor</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder, Chairman</cell>
+                  <cell></cell>
+                  <cell>Founder</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Investor</cell>
+                  <cell>Investor</cell>
+                  <cell>Ironport</cell>
+                  <cell>Founder, Chairman</cell>
+                  <cell>Investor</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Keith Rabois</cell>
+                  <cell>Other employee</cell>
+                  <cell>Investor</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Investor</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Dave McClure</cell>
+                  <cell>Other employee</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Max Levchin</cell>
+                  <cell>Founder</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Investor</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder</cell>
+                  <cell>Founder, Chairman</cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Jason Portnoy</cell>
+                  <cell>Other employee</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Other employee</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Elon Musk</cell>
+                  <cell>Founder</cell>
+                  <cell></cell>
+                  <cell>Founder, Chairman, Investor</cell>
+                  <cell>Founder, Chairman, CEO</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder, CEO, CTO</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Luke Nosek</cell>
+                  <cell>Founder</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Other employee</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Russel Simons</cell>
+                  <cell>Founder</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder, CEO</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Jeremy Stoppelman</cell>
+                  <cell>Other employee</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder, CTO</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Steven Chen Shih</cell>
+                  <cell>Other employee</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder</cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Jawed Karim</cell>
+                  <cell>Other employee</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                </row>
+                <row type="cell">
+                  <cell>Chad Hurley</cell>
+                  <cell>Other employee</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder</cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Founder</cell>
+                </row>
+              </table>
+              <keywords>
+                <keyword name="Start-ups"/>
+                <keyword name="Central and Eastern Asia"/>
+                <keyword name="Tech"/>
+                <keyword name="1%"/>
+                <keyword name="Investments"/>
+                <keyword name="Global Corporations"/>
+                <keyword name="North America"/>
+                <keyword name="Employment"/>
+              </keywords>
+              <sources>
+                <source>bloomberg.com</source>
+                <source>crunchbase.com</source>
+                <source>huffingtonpost.com</source>
+                <source>nytimes.com</source>
+                <source>qz.com</source>
+                <source>theguardian.com</source>
+                <source>wikipedia.com</source>
+                <source>wsj.com</source>
+              </sources>
+            </section>
+            <section>
+              <title>Ping Pong Tech</title>
+              <chapter>
+                <paragraph>The game has become synonymous with global startup culture.
+                  In the first quarter of 2016, sales of ping-pong tables dropped.
+                  In the same period, venture capital funding of startups dropped by a quarter.</paragraph>
+                </chapter>
+                <graph x="date" y="number">
+                  <dataset label= "Ping Pong table sold">
+                    <data x="Q3_2014" y="120"/>
+                    <data x="Q4_2014" y="240"/>
+                    <data x="Q1_2015" y="210"/>
+                    <data x="Q2_2015" y="200"/>
+                    <data x="Q3_2015" y="140"/>
+                    <data x="Q4_2015" y="160"/>
+                    <data x="Q1_2016" y="70"/>
+                  </dataset>
+                  <dataset label= "Venture Capital deals made">
+                    <data x="Q3_2014" y="1,020"/>
+                    <data x="Q4_2014" y="990"/>
+                    <data x="Q1_2015" y="980"/>
+                    <data x="Q2_2015" y="1,050"/>
+                    <data x="Q3_2015" y="995"/>
+                    <data x="Q4_2015" y="950"/>
+                    <data x="Q1_2016" y="890"/>
+                  </dataset>
+                </graph>
+                <keywords>
+                  <keyword name="North America"/>
+                  <keyword name="Start-ups"/>
+                  <keyword name="Tech"/>
+                  <keyword name="Investments"/>
+                </keywords>
+                <sources>
+                  <source>bloomberg.com</source>
+                  <source>crunchbase.com</source>
+                  <source>huffingtonpost.com</source>
+                  <source>nytimes.com</source>
+                  <source>qz.com</source>
+                  <source>theguardian.com</source>
+                  <source>wikipedia.com</source>
+                  <source>wsj.com</source>
+                </sources>
+              </section>
+              <section>
+                <title>Zuckerberg wants to #ConnectTheWorld but trust is an issue</title>
+                <chapter>
+                  <title>China time out</title>
+                  <paragraph>Chinese internet users can't access global social
+                    media sites. Facebook is engaged in a huge push into China led by CEO Mark Zuckerberg,
+                    even as the service remains banned there.</paragraph>
+                    <paragraph>700 Million internet users are blocked from social media sites
+                      by government censors.</paragraph>
+                    </chapter>
+                    <chapter>
+                      <title>India Bounches Free Basic</title>
+                      <paragraph>India has decided. The Internet offered by Mark Zuckerberg is
+                        an internet -poor. Not for the poor. Free Basics is a program whose contents are available
+                        for free via the networks of local operators that have partnered with Facebook.</paragraph>
+                      </chapter>
+                      <quote>
+                        <author></author>
+                        <text>TRA India: Prohibition of Discriminatory Tariffs for Data Services Regulations 2016</text>
+                      </quote>
+                      <graph unit="%" x="string" y="percentage">
+                        <dataset label= "Facebook users">
+                          <data x="Asia" y="28.8"/>
+                          <data x="Rest of the world" y="71.2"/>
+                        </dataset>
+                      </graph>
+                      <chapter>
+                        <title>Brazil vs Whatsapp</title>
+                        <paragraph>A Brazilian judge issued a 72-hour ban on Facebook Inc.’s WhatsApp throughout
+                          Brazil on Monday. Messaging service was ordered blocked in Brazil for the second
+                          time in less than six months for failing to turn over data in a criminal investigation.</paragraph>
+                          <paragraph>WhatsApp, is ubiquitous in Brazil. The app popularity explains why the judge’s ruling
+                            to block the app in Brazil.</paragraph>
+                            <paragraph>Others sought free messaging apps to avoid paying for texts or phone calls.
+                              Telegram Messenger, which got a boost in Brazil in December, said on
+                              Twitter that almost a million new users have joined.</paragraph>
+                              <paragraph>
+                                <list type="ordered">
+                                  <item>May 2nd, 2016: Judge Marcel Montalvao, from the northeastern state
+                                    of Sergipe, told phone companies to block WhatsApp</item>
+                                    <item>December 17th, 2015: Judge Sandra Regina Nostre Marques ordered the service
+                                      to be blocked from Brazil’s end</item>
+                                    </list>
+                                  </paragraph>
+                                  <paragraph>On December 17th 2015, Mark Zuckerberg shared this post on Facebook: "Tonight,
+                                    a Brazilian judge blocked WhatsApp for more than 100 million people who rely
+                                    on it in her country. We are working hard to get this block reserved. Until then,
+                                    Facebook Messenger is still active and you can use it to communicate instead.
+                                    This is a sad day for Brazil. Until today, Brazil has been an ally in creating an
+                                    open internet. Brazilians have always been among the most passionate in sharing their voice online."</paragraph>
+                                    <paragraph>On May 2nd 2016, Telegram Messenger share this post on Twitter: "Sorry Brazil! Your mobile networks
+                                      can't process as many verification SMS as we're sending them. Over a million
+                                      users joined, more waiting."</paragraph>
+                                    </chapter>
+                                    <quote>
+                                      <author>Mark Zuckerberg</author>
+                                      <text>"Tonight, a Brazilian judge blocked WhatsApp for more than 100 million people who rely
+                                        on it in her country.(...) This is a sad day for Brazil."</text>
+                                      </quote>
+                                      <graph x="date" y="number">
+                                        <title>Telegram boost</title>
+                                        <dataset label= "Messages daily in Brazil in 2016">
+                                          <data x="Jul" y="50"/>
+                                          <data x="Aug" y="55"/>
+                                          <data x="Sep" y="70"/>
+                                          <data x="Oct" y="75"/>
+                                          <data x="Nov" y="110"/>
+                                          <data x="Dec" y="110"/>
+                                          <data x="Jan" y="100"/>
+                                          <data x="Feb" y="160"/>
+                                        </dataset>
+                                      </graph>
+                                      <keywords>
+                                        <keyword name="Governance"/>
+                                        <keyword name="Global Corporations"/>
+                                        <keyword name="Southern Asia"/>
+                                        <keyword name="North America"/>
+                                        <keyword name="Tech"/>
+                                        <keyword name="South America"/>
+                                        <keyword name="Privacy and Surveillance"/>
+                                        <keyword name="Start-ups"/>
+                                        <keyword name="1%"/>
+                                        <keyword name="Central and Eastern Asia"/>
+                                      </keywords>
+                                      <sources>
+                                        <source>bloomberg.com</source>
+                                        <source>crunchbase.com</source>
+                                        <source>huffingtonpost.com</source>
+                                        <source>nytimes.com</source>
+                                        <source>qz.com</source>
+                                        <source>theguardian.com</source>
+                                        <source>wikipedia.com</source>
+                                        <source>wsj.com</source>
+                                      </sources>
+                                    </section>
+                                  </sections>
+                                </bulletin>
+                              </bulletins>

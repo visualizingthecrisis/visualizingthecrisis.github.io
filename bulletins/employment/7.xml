@@ -1,0 +1,770 @@
+<bulletin id="issue 7" date="20160423">
+  <sections>
+    <section>
+      <graph unit="b$" x="date" y="number">
+        <title>US Federal Drug Control Spending</title>
+        <dataset label="">
+          <data x="2006" y="20.61" />
+          <data x="2007" y="21.68" />
+          <data x="2008" y="21.83" />
+          <data x="2009" y="24.86" />
+          <data x="2010" y="24.62" />
+          <data x="2011" y="24.36" />
+          <data x="2012" y="24.50" />
+          <data x="2013" y="23.80" />
+          <data x="2014" y="25.73" />
+          <data x="2015" y="28.88" />
+          <data x="2016" y="30.56" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Black Market" />
+      </keywords>
+      <sources>
+        <source>drugwarfacts.org</source>
+      </sources>
+    </section>
+    <section>
+      <title>The Black Market's Catalog</title>
+      <graph unit="b$" x="string" y="number">
+        <dataset label="">
+          <data x="1st: Counterfeit" y="558.416" />
+          <data x="2nd: Drug" y="339.12" />
+          <data x="3rd: Prostitution" y="186" />
+          <data x="4th: Illegal Gambling" y="140" />
+          <data x="5th: Piracy" y="98.25" />
+          <data x="6th: Illegal Nature Abuse" y="83.5" />
+          <data x="7th: Prescription Drug Abuse" y="72.5" />
+          <data x="8th:Human Market" y="69.875" />
+          <data x="9th: Smuggling" y="57.4" />
+          <data x="10th: Thefts" y="47.23" />
+          <data x="11th: Arms Trafficking" y="1" />
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Counterfeit: $558.416b</title>
+        <paragraph>
+          <list type="ordered">
+            <item>Drugs: $200b</item>
+            <item>Electronics: $169b</item>
+            <item>Foods: $49b</item>
+            <item>Auto Parts: $45b</item>
+            <item>Toys: $34b</item>
+            <item>Clothing: $12b</item>
+            <item>Shoes: $12b</item>
+            <item>Sporting Goods: $6.5b</item>
+            <item>Pesticides: $5.8b</item>
+            <item>Cosmetics: $3b</item>
+            <item>Aircraft Parts: $2b</item>
+            <item>Weapons: $1.8b</item>
+            <item>Watches: $1b</item>
+            <item>Diploma: $1b</item>
+            <item>IDs: $0.1b</item>
+            <item>Money: $0.081b</item>
+            <item>Purses: $0.07b</item>
+            <item>Lighters: $0.042b</item>
+            <item>Batteries: $0.023b</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>Drug: $339.12b</title>
+        <paragraph>
+          <list type="ordered">
+            <item>Marijuana: $141.8b</item>
+            <item>Cocaine: $85b</item>
+            <item>Heroin: $68b</item>
+            <item>Methamphetamine: $28.25b</item>
+            <item>Ecstasy: $16.07b</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>Prostitution: $186b</title>
+      </chapter>
+      <chapter>
+        <title>Illegal Gambling: $140b</title>
+      </chapter>
+      <chapter>
+        <title>Piracy: $98.25b</title>
+        <paragraph>
+          <list type="ordered">
+            <item>Software: $63b</item>
+            <item>Music: $12.15b</item>
+            <item>Cable: $8.5b</item>
+            <item>Video Game: $8.1b</item>
+            <item>Mobile Entertainment: $3.4b</item>
+            <item>Movie: $2.5b</item>
+            <item>Book: $0.6b</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>Illegal Nature Abuse: $83.5b</title>
+        <paragraph>
+          <list type="ordered">
+            <item>Illegal Logging: $30b</item>
+            <item>Illegal Fishing: $23.5b</item>
+            <item>Illegal Wildlife Trade: $19b</item>
+            <item>Illegal Waste Dumping: $11b</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>Prescription Drug Abuse: $72.5b</title>
+      </chapter>
+      <chapter>
+        <title>Human Market: $69.875b</title>
+        <paragraph>
+          <list type="ordered">
+            <item>Human Smuggling: $35b</item>
+            <item>Human Trafficking: $32b</item>
+            <item>Kidnap and Ransom: $1.5b</item>
+            <item>International Adoptions: $1.3b</item>
+            <item>Organ Trafficking: $0.075b</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>Smuggling: $57.4b</title>
+        <paragraph>
+          <list type="ordered">
+            <item>Cigarette: $50b</item>
+            <item>Alcohol: $5b</item>
+            <item>Metals and Minerals: $2.3b</item>
+            <item>Nuclear: $0.1b</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>Thefts: $47.23b</title>
+        <paragraph>
+          <list type="ordered">
+            <item>Oil Theft: $37.23b</item>
+            <item>Art Theft: $10b</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>Arms Trafficking: $1b</title>
+      </chapter>
+      <keywords>
+        <keyword name="Black Market" />
+        <keyword name="Oil" />
+        <keyword name="Wood/Forests" />
+        <keyword name="Gold" />
+        <keyword name="Commerce" />
+      </keywords>
+      <sources>
+        <source>drugwarfacts.org</source>
+        <source>economist.com</source>
+        <source>havocscope.com</source>
+        <source>nytimes.com</source>
+        <source>statisticbrain.com</source>
+        <source>theguardian.com</source>
+        <source>theverge.com</source>
+        <source>wsj.com</source>
+        <source>un.org</source>
+        <source>unodc.org</source>
+        <source>vox.com</source>
+        <source>Internazionale</source>
+        <source>Documentary: "Deep Web" (Alex Winter, 2015)</source>
+      </sources>
+    </section>
+    <section>
+      <title>Global Black Market</title>
+      <chapter>
+        <paragraph>A "black market", "underground economy", or "shadow economy" is a market characterized by some form of noncompliant behavior with an institutional set of rules. If the rule defines the set of goods and services whose production and distribution is prohibited by law, non-complaince with the rule constitutes a black market trade since the transaction itself is illegal.</paragraph>
+        <paragraph>The week from 18 to 24 of the last April started with a little-known meeting at the UN that could help decide the future of the "war on drugs". Drug policy reformers want to create more flexibility in international drug laws, as well as stop human rights abuses and close major medical gaps in poorer nations. Here are some points:</paragraph>
+        <paragraph>
+          <list type="ordered">
+            <item>More flexibility for decriminalization, legalization and harm reduction.</item>
+            <item>Abolish the death penalty for drug crimes.</item>
+            <item>Improve access to some drugs for medical purposes.</item>
+          </list>
+        </paragraph>
+        <paragraph>A lack of progress toward reform won't necessarily mean that the status quo ‒ a harsh, punitive war on drugs ‒ will continue unabated. Instead, it is very much possible that without action the entire drug control regime will collapse.</paragraph>
+      </chapter>
+      <chapter>
+        <title>War on Drugs Statistics</title>
+        <paragraph>Worldwide</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>N. of people with drug use disorders: 27 million</item>
+            <item>N. of people that die each year due to drugs: 400,000</item>
+          </list>
+        </paragraph>
+        <paragraph>US</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>N. of people arrested annually on nonviolent drug charges: 1,53 million</item>
+            <item>N. of people arrested annually for a marijuana law violation: 757,969</item>
+            <item>N. of students who had lost federal financial aid eligibility because of a drug conviction: 200,000</item>
+            <item>N. of people who had acquired AIDS directly or indirectly from syringe sharing: 360,836</item>
+            <item>Tax revenue that drug legalization would yield annually: $46,7b</item>
+            <item>Annual spending against war on drug: $51b</item>
+            <item>Lowering of the incidence among people who inject drugs through access programs: 80%</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Black Market" />
+        <keyword name="Commerce" />
+        <keyword name="Governance" />
+      </keywords>
+      <sources>
+        <source>drugwarfacts.org</source>
+        <source>economist.com</source>
+        <source>havocscope.com</source>
+        <source>nytimes.com</source>
+        <source>statisticbrain.com</source>
+        <source>theguardian.com</source>
+        <source>theverge.com</source>
+        <source>wsj.com</source>
+        <source>un.org</source>
+        <source>unodc.org</source>
+        <source>vox.com</source>
+        <source>Internazionale</source>
+        <source>Documentary: "Deep Web" (Alex Winter, 2015)</source>
+      </sources>
+    </section>
+  <section>
+    <quote>
+      <author>Wilmer Ovall, a farmer of coca in the mountains of Cauca, Colombia</author>
+      <text>If the drug war had worked I wouldn’t be standing here. The government told us to pull up the coca and we would get help to grow and sell other things. We did but the help never came and we went back to coca.</text>
+    </quote>
+    <keywords>
+      <keyword name="South America" />
+      <keyword name="Black Market" />
+      <keyword name="Commerce" />
+      <keyword name="Governance" />
+      <keyword name="In poverty" />
+      <keyword name="Agriculture" />
+    </keywords>
+    <sources>
+      <source>drugwarfacts.org</source>
+      <source>economist.com</source>
+      <source>havocscope.com</source>
+      <source>nytimes.com</source>
+      <source>statisticbrain.com</source>
+      <source>theguardian.com</source>
+      <source>theverge.com</source>
+      <source>wsj.com</source>
+      <source>un.org</source>
+      <source>unodc.org</source>
+      <source>vox.com</source>
+      <source>Internazionale</source>
+      <source>Documentary: "Deep Web" (Alex Winter, 2015)</source>
+    </sources>
+  </section>
+  <section>
+    <title>Legalising Cannabis</title>
+    <abstract>
+      Legalisers argue that regulated markets protect consumers, save the police money, raise revenues and put criminals out of business as well as extending freedom. But the chronic harm done by the drug is still a matter for debate. Heavy cannabis use is associated with mental illness, but researchers struggle to establish the direction of causality. Jonathan Caulkins of Carnegie Mellon University has found that cannabis users are more likely than alcohol drinkers to say the drug has caused them problems at work or at home.
+    </abstract>
+    <graph unit="%" x="date" y="number">
+      <title>U.S. Increasing Enthusiasm</title>
+      <dataset label= "People in favour of legalising cannabis use / % of respondents">
+        <data x="1965" y="4"/>
+        <data x="1975" y="24"/>
+        <data x="1985" y="23"/>
+        <data x="1995" y="25"/>
+        <data x="2005" y="36"/>
+        <data x="2015" y="58"/>
+      </dataset>
+      <dataset label= "People who have ever tried cannabis / % of respondents">
+        <data x="1965" y="3"/>
+        <data x="1975" y="20"/>
+        <data x="1985" y="33"/>
+        <data x="1995" y="34"/>
+        <data x="2005" y="36"/>
+        <data x="2015" y="44"/>
+      </dataset>
+    </graph>
+    <chapter>
+      <title>Pricing Strategies</title>
+      <paragraph>Setting the right level for the tax, though, is challenging. Go too low and you encourage use. Aim too high and you lose one of the other benefits of legalisation: closing down a criminal black market. Comparing Colorado and Washington illustrates the trade-off.</paragraph>
+    </chapter>
+    <table>
+      <row type="head">
+        <cell>Colorado</cell>
+        <cell>vs</cell>
+        <cell>Washington</cell>
+      </row>
+      <row type="cell">
+        <cell>28%</cell>
+        <cell>Pot taxation</cell>
+        <cell>44%</cell>
+      </row>
+      <row type="cell">
+        <cell>$15</cell>
+        <cell>Average retail price per gram of weed</cell>
+        <cell>$25</cell>
+      </row>
+      <row type="cell">
+        <cell>$10</cell>
+        <cell>Average retail price per gram of black-market weed</cell>
+        <cell>$10</cell>
+      </row>
+      <row type="cell">
+        <cell>70%</cell>
+        <cell>Licensed account of total</cell>
+        <cell>30%</cell>
+      </row>
+    </table>
+    <keywords>
+      <keyword name="North America" />
+      <keyword name="Black Market" />
+      <keyword name="Commerce" />
+      <keyword name="Governance" />
+    </keywords>
+    <sources>
+      <source>drugwarfacts.org</source>
+      <source>economist.com</source>
+      <source>havocscope.com</source>
+      <source>nytimes.com</source>
+      <source>statisticbrain.com</source>
+      <source>theguardian.com</source>
+      <source>theverge.com</source>
+      <source>wsj.com</source>
+      <source>un.org</source>
+      <source>unodc.org</source>
+      <source>vox.com</source>
+      <source>Internazionale</source>
+      <source>Documentary: "Deep Web" (Alex Winter, 2015)</source>
+    </sources>
+  </section>
+  <section>
+    <title>Prostitution</title>
+    <abstract>
+      Prostitution is the business or practice of engaging in sexual relations in exchange for payment or some other benefit. The legal status of prostitution varies from country to country (sometimes from region to region within a given country), ranging from being permissible but unregulated, to an enforced or unenforced crime, or a regulated profession. Estimates place the annual revenue generated by prostitution worldwide to be over $100 billion.
+    </abstract>
+    <chapter>
+      <title>Prostitution Statistics</title>
+      <paragraph>Worldwide</paragraph>
+      <paragraph>
+        <list type="unordered">
+          <item>Estimated number of prostitutes: 40 million</item>
+          <item>Thailand has the largest sex industry: $35b</item>
+        </list>
+      </paragraph>
+      <paragraph>US</paragraph>
+      <paragraph>
+        <list type="unordered">
+          <item>Average age a female becomes a prostitute: 14 years old</item>
+          <item>Average annual income of a prostitute: $290,000</item>
+          <item>58% has reported assaults</item>
+          <item>20% has STDs</item>
+          <item>92% wants to quit but can’t due to lack of money</item>
+        </list>
+      </paragraph>
+    </chapter>
+    <chapter>
+      <title>Never a Day Off...</title>
+    </chapter>
+    <table>
+      <row type="head">
+        <cell>Days of the week</cell>
+        <cell>Share of working hours</cell>
+      </row>
+      <row type="cell">
+        <cell>Sunday</cell>
+        <cell>9.52%</cell>
+      </row>
+      <row type="cell">
+        <cell>Monday</cell>
+        <cell>8.29%</cell>
+      </row>
+      <row type="cell">
+        <cell>Tuesday</cell>
+        <cell>12.13%</cell>
+      </row>
+      <row type="cell">
+        <cell>Wednesday</cell>
+        <cell>16.08%</cell>
+      </row>
+      <row type="cell">
+        <cell>Thursday</cell>
+        <cell>15.49%</cell>
+      </row>
+      <row type="cell">
+        <cell>Friday</cell>
+        <cell>21.73%</cell>
+      </row>
+      <row type="cell">
+        <cell>Saturday</cell>
+        <cell>16.76%</cell>
+      </row>
+    </table>
+    <keywords>
+      <keyword name="North America" />
+      <keyword name="Black Market" />
+      <keyword name="Commerce" />
+      <keyword name="In poverty" />
+    </keywords>
+    <sources>
+      <source>drugwarfacts.org</source>
+      <source>economist.com</source>
+      <source>havocscope.com</source>
+      <source>nytimes.com</source>
+      <source>statisticbrain.com</source>
+      <source>theguardian.com</source>
+      <source>theverge.com</source>
+      <source>wsj.com</source>
+      <source>un.org</source>
+      <source>unodc.org</source>
+      <source>vox.com</source>
+      <source>Internazionale</source>
+      <source>Documentary: "Deep Web" (Alex Winter, 2015)</source>
+    </sources>
+  </section>
+  <section>
+    <title>Girls for Sale</title>
+    <chapter>
+      <paragraph>In Bacău district (Romania) many minors end up in the hands of human traffickers because of poverty and lack of prospects.</paragraph>
+      <paragraph>
+        <list type="unordered">
+          <item>Sex industry's value in Romania: €2b</item>
+        </list>
+      </paragraph>
+    </chapter>
+    <keywords>
+      <keyword name="Eastern Europe" />
+      <keyword name="Black Market" />
+      <keyword name="Commerce" />
+      <keyword name="In poverty" />
+    </keywords>
+    <sources>
+      <source>drugwarfacts.org</source>
+      <source>economist.com</source>
+      <source>havocscope.com</source>
+      <source>nytimes.com</source>
+      <source>statisticbrain.com</source>
+      <source>theguardian.com</source>
+      <source>theverge.com</source>
+      <source>wsj.com</source>
+      <source>un.org</source>
+      <source>unodc.org</source>
+      <source>vox.com</source>
+      <source>Internazionale</source>
+      <source>Documentary: "Deep Web" (Alex Winter, 2015)</source>
+    </sources>
+  </section>
+  <section>
+    <title>Dark Shopping Online</title>
+    <abstract>
+      Cryptocurrency and Onion Routing made online illegal markets accessible. Silk Road ‒ which closed in 2014 ‒ was the forerunner: from one side it has sparked the creation of numerous new web platforms, from the other, in many cases as drug traffics, it cleared the streets from violence and crime.
+    </abstract>
+    <keywords>
+      <keyword name="Eastern Europe" />
+      <keyword name="Black Market" />
+      <keyword name="Commerce" />
+      <keyword name="Unconventional Monetary Policies" />
+    </keywords>
+    <sources>
+      <source>drugwarfacts.org</source>
+      <source>economist.com</source>
+      <source>havocscope.com</source>
+      <source>nytimes.com</source>
+      <source>statisticbrain.com</source>
+      <source>theguardian.com</source>
+      <source>theverge.com</source>
+      <source>wsj.com</source>
+      <source>un.org</source>
+      <source>unodc.org</source>
+      <source>vox.com</source>
+      <source>Internazionale</source>
+      <source>Documentary: "Deep Web" (Alex Winter, 2015)</source>
+    </sources>
+  </section>
+  <section>
+    <title>Drug Traffic Logistic</title>
+    <graph unit="%" x="string" y="percentage">
+      <title>Number of individual seizures</title>
+      <dataset label= "">
+        <data x="Ground" y="46"/>
+        <data x="Water" y="8"/>
+        <data x="Air" y="46"/>
+      </dataset>
+    </graph>
+    <graph unit="%" x="string" y="percentage">
+      <title>Share of quantities seizeds</title>
+      <dataset label= "">
+        <data x="Ground" y="59"/>
+        <data x="Water" y="35"/>
+        <data x="Air" y="6"/>
+      </dataset>
+    </graph>
+    <chapter>
+      <paragraph>Maritime trafficking is the least common mode of transportation used by drug traffickers but it allows to move large quantities of drugs.</paragraph>
+    </chapter>
+    <chapter>
+      <title>Better than Amazon</title>
+      <paragraph>Drug delivery by drone is definitely a thing: since the last year an increasingly number of UAVs is being used attempting to deliver different kinds and amounts of drug, especially in prisons.</paragraph>
+      <paragraph>The Metropolitan Police Department of Tokyo have put together a fleet of net-carrying drones that will locate and capture malicious UAVs, like the ones used by the Yakuza.</paragraph>
+      <paragraph>As tech firms and law enforcement experiment with radio jammers and net-wielding interceptor drones to take down rogue quadcopters, Dutch police are trialling a simpler solution: eagles.</paragraph>
+    </chapter>
+    <keywords>
+      <keyword name="Central and Eastern Asia" />
+      <keyword name="Black Market" />
+      <keyword name="Commerce" />
+      <keyword name="Transportation" />
+    </keywords>
+    <sources>
+      <source>drugwarfacts.org</source>
+      <source>economist.com</source>
+      <source>havocscope.com</source>
+      <source>nytimes.com</source>
+      <source>statisticbrain.com</source>
+      <source>theguardian.com</source>
+      <source>theverge.com</source>
+      <source>wsj.com</source>
+      <source>un.org</source>
+      <source>unodc.org</source>
+      <source>vox.com</source>
+      <source>Internazionale</source>
+      <source>Documentary: "Deep Web" (Alex Winter, 2015)</source>
+    </sources>
+  </section>
+  <section>
+    <title>Afghan Poppyland</title>
+    <abstract>
+      Afghanistan is the source of the vast mojrity ‒ around 90% ‒ of the world's illicit opiates. A global network of routes facilitated by international crime groups ensures that heroin is trafficked from production countries in South West Asia to global consumer markets. Multiple factors affect traffickers’ choice of routes including risk of detection, geo-political changes, logistical difficulties, topographic considerations and existing relationships between criminal groups. The so-called Balkan route is possibly the most important heroin trafficking route of all.
+    </abstract>
+    <chapter>
+      <title>The Balkan Route</title>
+      <paragraph>Three broad trafficking routes have been identified for the movement of Afghan heroin. The “northern route” is the main heroin trafficking corridor linking Afghanistan to Central Asia and the large market of the Russian Federation. An emerging network of trajectories known collectively as the “southern route” travels southward from Afghanistan, either through Pakistan or the Islamic Republic of Iran, crosses the Indian Ocean and targets Africa, Europe, and Asia. The third and oldest route is an overland trajectory that crosses the Islamic Republic of Iran, Turkey and South-Eastern Europe to Western and Central Europe and is colloquially known as the “Balkan route”.</paragraph>
+      <paragraph>Turkey is the main transit countries for illicit opiates bound for the final destination markets in Europe, although some of those markets also receive illicit opiates via the southern route and the northern route, or directly from Pakistan.</paragraph>
+      <paragraph>Here are the most important receiving Europe countries:</paragraph>
+    </chapter>
+    <table>
+      <row type="head">
+        <cell>400 - 1,000 kg of opiate flows</cell>
+        <cell>1,000 - 4,000 kg of opiate flows</cell>
+        <cell>4,000 - 10,000 kg of opiate flows</cell>
+      </row>
+      <row type="cell">
+        <cell>Belgium</cell>
+        <cell>-</cell>
+        <cell>-</cell>
+      </row>
+      <row type="cell">
+        <cell>Czech Republic</cell>
+        <cell>-</cell>
+        <cell>-</cell>
+      </row>
+      <row type="cell">
+        <cell>Greece</cell>
+        <cell>-</cell>
+        <cell>-</cell>
+      </row>
+      <row type="cell">
+        <cell>Poland</cell>
+        <cell>-</cell>
+        <cell>-</cell>
+      </row>
+      <row type="cell">
+        <cell>Spain</cell>
+        <cell>-</cell>
+        <cell>-</cell>
+      </row>
+      <row type="cell">
+        <cell>-</cell>
+        <cell>Albania</cell>
+        <cell>-</cell>
+      </row>
+      <row type="cell">
+        <cell>-</cell>
+        <cell>Italy</cell>
+        <cell>-</cell>
+      </row>
+      <row type="cell">
+        <cell>-</cell>
+        <cell>United Kingdom</cell>
+        <cell>-</cell>
+      </row>
+      <row type="cell">
+        <cell>-</cell>
+        <cell>-</cell>
+        <cell>Bulgaria</cell>
+      </row>
+      <row type="cell">
+        <cell>-</cell>
+        <cell>-</cell>
+        <cell>France</cell>
+      </row>
+      <row type="cell">
+        <cell>-</cell>
+        <cell>-</cell>
+        <cell>Germany</cell>
+      </row>
+      <row type="cell">
+        <cell>-</cell>
+        <cell>-</cell>
+        <cell>Netherlands</cell>
+      </row>
+    </table>
+    <graph unit="tons" x="date" y="number">
+      <title>Global Opium Production</title>
+      <dataset label= "Afghanistan">
+        <data x="2004" y="4200"/>
+        <data x="2005" y="4100"/>
+        <data x="2006" y="5300"/>
+        <data x="2007" y="7400"/>
+        <data x="2008" y="5900"/>
+        <data x="2009" y="4000"/>
+        <data x="2010" y="3600"/>
+        <data x="2011" y="5800"/>
+        <data x="2012" y="3700"/>
+        <data x="2013" y="5500"/>
+        <data x="2014" y="6400"/>
+      </dataset>
+      <dataset label= "Rest of the world">
+        <data x="2004" y="550"/>
+        <data x="2005" y="450"/>
+        <data x="2006" y="450"/>
+        <data x="2007" y="650"/>
+        <data x="2008" y="900"/>
+        <data x="2009" y="900"/>
+        <data x="2010" y="1100"/>
+        <data x="2011" y="1150"/>
+        <data x="2012" y="1100"/>
+        <data x="2013" y="1300"/>
+        <data x="2014" y="1100"/>
+      </dataset>
+    </graph>
+    <keywords>
+      <keyword name="Eastern Europe" />
+      <keyword name="Western Europe" />
+      <keyword name="Northern Africa" />
+      <keyword name="Middle East and Western Asia" />
+      <keyword name="Central and Eastern Asia" />
+      <keyword name="Southern Asia" />
+      <keyword name="Black Market" />
+      <keyword name="Commerce" />
+    </keywords>
+    <sources>
+      <source>drugwarfacts.org</source>
+      <source>economist.com</source>
+      <source>havocscope.com</source>
+      <source>nytimes.com</source>
+      <source>statisticbrain.com</source>
+      <source>theguardian.com</source>
+      <source>theverge.com</source>
+      <source>wsj.com</source>
+      <source>un.org</source>
+      <source>unodc.org</source>
+      <source>vox.com</source>
+      <source>Internazionale</source>
+      <source>Documentary: "Deep Web" (Alex Winter, 2015)</source>
+    </sources>
+  </section>
+  <section>
+    <title>An Offer They Can't Refuse</title>
+    <abstract>
+      In Corleone, Sicily, vineyards and farmlands seized from the mafia are offering work – and hope – for 11 asylum seekers.
+    </abstract>
+    <keywords>
+      <keyword name="Western Europe" />
+      <keyword name="Northern Africa" />
+      <keyword name="Black Market" />
+      <keyword name="Employment" />
+      <keyword name="Migration" />
+    </keywords>
+    <sources>
+      <source>drugwarfacts.org</source>
+      <source>economist.com</source>
+      <source>havocscope.com</source>
+      <source>nytimes.com</source>
+      <source>statisticbrain.com</source>
+      <source>theguardian.com</source>
+      <source>theverge.com</source>
+      <source>wsj.com</source>
+      <source>un.org</source>
+      <source>unodc.org</source>
+      <source>vox.com</source>
+      <source>Internazionale</source>
+      <source>Documentary: "Deep Web" (Alex Winter, 2015)</source>
+    </sources>
+  </section>
+  <section>
+    <title>The Burmese Frontier</title>
+    <chapter>
+      <paragraph>In Myanmar christian antidrug vigilantes are asking Aung San Suu Kyi’s party to intervene in a clash with villagers who don’t want to see their undulating hillsides of opium poppies destroyed.</paragraph>
+      <paragraph>Violence between the two groups in recent weeks has injured dozens and underscored the difficulty of controlling the rugged borderlands, where rival factions and business interests thrive.</paragraph>
+      <paragraph>
+        <list type="unordered">
+          <item>Total area under poppy cultivation: 55,500 hectares</item>
+        </list>
+      </paragraph>
+    </chapter>
+    <keywords>
+      <keyword name="Southeastern Asia" />
+      <keyword name="Black Market" />
+      <keyword name="Governance" />
+      <keyword name="In poverty" />
+      <keyword name="Agriculture" />
+    </keywords>
+    <sources>
+      <source>drugwarfacts.org</source>
+      <source>economist.com</source>
+      <source>havocscope.com</source>
+      <source>nytimes.com</source>
+      <source>statisticbrain.com</source>
+      <source>theguardian.com</source>
+      <source>theverge.com</source>
+      <source>wsj.com</source>
+      <source>un.org</source>
+      <source>unodc.org</source>
+      <source>vox.com</source>
+      <source>Internazionale</source>
+      <source>Documentary: "Deep Web" (Alex Winter, 2015)</source>
+    </sources>
+  </section>
+  <section>
+    <title>The Drug Production Chain</title>
+    <chapter>
+      <paragraph>
+        <list type="unordered">
+          <item>FARMERS. For the hill tribe people of Southeast Asia opium is used as a currency, and it is sold or traded for basic necessities like food, clothing, and utensils. Opium is also used locally as a substitute for modern medicines.</item>
+          <item>REFINERY. Most of the opium produced in Afghanistan is brought to Pakistan, where there are many laboratories for the refining of heroin. From here the product comes back to Afghanistan or it’s moved directly to the Balkan Route through Iran.</item>
+          <item>COURIER. In the last decades drug smugglers have been forced to be more creative because trafficking laws are getting more stringent. Couriers usually swallow bags of heroin, cross the border, and wait for the bags to run their digestive course.</item>
+          <item>CRIMINAL ORG. Drug trafficking continues to be the most lucrative form of business for criminal organizations, with an estimated annual value of more than $300 billion.</item>
+          <item>DEALERS. Drugs handled by organized crime are then divided between various chains of dealers. To maximize individual profit, different substances are often added at each stop, making the product less pure and even more dangerous.</item>
+          <item>BUYERS. It is estimated that a total of 246 million people, or 1 out of 20 people between the ages of 15 and 64 years, used an illicit drug in 2013. Between these, 1 out of 10 drug users suffers from drug use dependence.</item>
+        </list>
+      </paragraph>
+    </chapter>
+    <keywords>
+      <keyword name="Southeastern Asia" />
+      <keyword name="Middle East and Western Asia" />
+      <keyword name="Black Market" />
+      <keyword name="In poverty" />
+      <keyword name="Agriculture" />
+      <keyword name="Currencies" />
+      <keyword name="Commerce" />
+      <keyword name="Healthcare" />
+      <keyword name="Millennials (1981–2000)" />
+      <keyword name="Generation X (1965–1980" />
+      <keyword name="Baby Boomers (1945–1964)" />
+    </keywords>
+    <sources>
+      <source>drugwarfacts.org</source>
+      <source>economist.com</source>
+      <source>havocscope.com</source>
+      <source>nytimes.com</source>
+      <source>statisticbrain.com</source>
+      <source>theguardian.com</source>
+      <source>theverge.com</source>
+      <source>wsj.com</source>
+      <source>un.org</source>
+      <source>unodc.org</source>
+      <source>vox.com</source>
+      <source>Internazionale</source>
+      <source>Documentary: "Deep Web" (Alex Winter, 2015)</source>
+    </sources>
+  </section>
+</sections>
+</bulletin>

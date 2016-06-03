@@ -1,0 +1,373 @@
+<bulletins>
+  <title>Bursting Unicorns</title>
+  <authors>
+    <author>Elisa Bianchi</author>
+    <author>Francesca Luzi</author>
+    <author>Federico Rita</author>
+  </authors>
+  <bulletin id="8" date="20160428">
+    <sections>
+      <section>
+        <title>Rank of valuation</title>
+        <abstract>The first ten private companies valued at $1 billion or more
+          is unchanged and there isn't new unicorns.</abstract>
+          <chapter>
+            <paragraph>
+              <list type="ordered">
+                <item>Uber</item>
+                <item>Xiaomi</item>
+                <item>Airbnb</item>
+                <item>Palantir</item>
+                <item>Dianping</item>
+                <item>Snapchat</item>
+                <item>Wework</item>
+                <item>Flipkart</item>
+                <item>Didi Kuaidi</item>
+                <item>SpaceX</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Start-ups"/>
+            <keyword area="North America"/>
+            <keyword name="Central and Eastern Asia"/>
+            <keyword name="Transportation"/>
+            <keyword name="Tech"/>
+            <keyword name="Commerce"/>
+            <keyword name="Tourism"/>
+            <keyword name="Investments"/>
+            <keyword name="Employment"/>
+            <keyword name="Healthcare"/>
+          </keywords>
+          <sources>
+            <source>bloomberg.com</source>
+            <source>cbinsights.com</source>
+            <source>cnbc.com</source>
+            <source>fortune.com</source>
+            <source>money.cnn.com</source>
+            <source>qz.com</source>
+            <source>techinasia.com</source>
+            <source>theguardian.com</source>
+          </sources>
+        </section>
+        <section>
+          <title>Can ants be unicorns?</title>
+          <chapter>
+            <paragraph>April 26th, 2016: Ant Financial , which operates Alipay,
+              the biggest payment platform in the country, raised a $ 60 Billion
+              valuation with the world’s largest private fundraising round for an Internet company.</paragraph>
+              <paragraph>Ant Financial received $ 4.5B from investors related to China Government:
+                China Development Ind. Bank, China Investment Corporation, National Social Security Fund,
+                Primavera Capital Group. China Government, in fact, is bankrolling the boom in startup fundraising.
+                Also Ant Financial was split-off from Alibaba in 2014. But Alibaba owns 37.5% of the company’s
+                pre-tax profits, and Alibaba would receive up to 37.5% of its IPO.
+                So can Ant Financial be considered a unicorn?</paragraph>
+              </chapter>
+              <chapter>
+                <title>Alibaba’s CEO is the richest man in Asia</title>
+                <paragraph>He’s a Chinese business magnate. He is the founder and
+                  executive chairman of Alibaba Group. As of November 2014, he was the richest man in China
+                  and the sixteenth world's richest man. From a few days, rumors
+                  want Jack Ma to buy Silvio Berlusconi’s AC Milan but sources from
+                  the Chinese group Alibaba have denied that the company’s owner
+                  is really interested to the club.</paragraph>
+                </chapter>
+                <keywords>
+                  <keyword name="Start-ups"/>
+                  <keyword name="Central and Eastern Asia"/>
+                  <keyword name="Tech"/>
+                  <keyword name="1%"/>
+                  <keyword name="Investments"/>
+                  <keyword name="Governance"/>
+                </keywords>
+                <sources>
+                  <source>bloomberg.com</source>
+                  <source>cbinsights.com</source>
+                  <source>cnbc.com</source>
+                  <source>fortune.com</source>
+                  <source>money.cnn.com</source>
+                  <source>qz.com</source>
+                  <source>techinasia.com</source>
+                  <source>theguardian.com</source>
+                </sources>
+              </section>
+              <section>
+                <title>Deals and investments in Fintech</title>
+                <chapter>
+                  <paragraph>Fintech is a term used to describe the companies operating
+                    in the financial technology sector. It relates mainly to small startup
+                    companies which develop innovative technological solutions in such areas
+                    as online and mobile payments, big data, alternative finance and financial management. </paragraph>
+                    <paragraph>On a global scale, the value of investment in financial technology ventures
+                      amounted to approximately $ 3B in 2013 and was projected to grow to around $ 8B in 2018.</paragraph>
+                    </chapter>
+                    <graph unit="B$" x="date" y="number">
+                      <dataset label= "Overall fintech deals">
+                        <data x="2011" y="2.4"/>
+                        <data x="2012" y="2.8"/>
+                        <data x="2013" y="3.9"/>
+                        <data x="2014" y="12.2"/>
+                        <data x="2015" y="19.1"/>
+                      </dataset>
+                      <dataset label= "VC backed fintech deals">
+                        <data x="2011" y="2.1"/>
+                        <data x="2012" y="2.4"/>
+                        <data x="2013" y="2.8"/>
+                        <data x="2014" y="6.7"/>
+                        <data x="2015" y="13.8"/>
+                      </dataset>
+                    </graph>
+                    <graph unit="B$" x="date" y="number">
+                      <dataset label= "Overall fintech investments">
+                        <data x="2011" y="457"/>
+                        <data x="2012" y="607"/>
+                        <data x="2013" y="759"/>
+                        <data x="2014" y="933"/>
+                        <data x="2015" y="1,162"/>
+                      </dataset>
+                      <dataset label= "VC backed fintech investments">
+                        <data x="2011" y="298"/>
+                        <data x="2012" y="397"/>
+                        <data x="2013" y="484"/>
+                        <data x="2014" y="587"/>
+                        <data x="2015" y="653"/>
+                      </dataset>
+                    </graph>
+                    <graph unit="B$" x="date" y="number">
+                      <dataset label= "US deals">
+                        <data x="2011" y="1.6"/>
+                        <data x="2012" y="1.8"/>
+                        <data x="2013" y="2.2"/>
+                        <data x="2014" y="4.4"/>
+                        <data x="2015" y="7.7"/>
+                      </dataset>
+                      <dataset label= "China deals">
+                        <data x="2011" y="0.1"/>
+                        <data x="2012" y="0.2"/>
+                        <data x="2013" y="0.19"/>
+                        <data x="2014" y="0.6"/>
+                        <data x="2015" y="2.6"/>
+                      </dataset>
+                    </graph>
+                    <graph unit="B$" x="date" y="number">
+                      <dataset label= "US investments">
+                        <data x="2011" y="237"/>
+                        <data x="2012" y="271"/>
+                        <data x="2013" y="328"/>
+                        <data x="2014" y="355"/>
+                        <data x="2015" y="378"/>
+                      </dataset>
+                      <dataset label= "China investments">
+                        <data x="2011" y="5"/>
+                        <data x="2012" y="10"/>
+                        <data x="2013" y="16"/>
+                        <data x="2014" y="37"/>
+                        <data x="2015" y="26"/>
+                      </dataset>
+                    </graph>
+                    <keywords>
+                      <keyword name="North America"/>
+                      <keyword name="Central and Eastern Asia"/>
+                      <keyword name="Tech"/>
+                      <keyword name="Investments"/>
+                    </keywords>
+                    <sources>
+                      <source>bloomberg.com</source>
+                      <source>cbinsights.com</source>
+                      <source>cnbc.com</source>
+                      <source>fortune.com</source>
+                      <source>money.cnn.com</source>
+                      <source>qz.com</source>
+                      <source>techinasia.com</source>
+                      <source>theguardian.com</source>
+                    </sources>
+                  </section>
+                  <section>
+                    <title>Has the Apple bubble burst?</title>
+                    <chapter>
+                      <paragraph>On 26 April afternoon, Apple reported that its sales
+                        and profit both fell last quarter, a rarity for a company that
+                        has been growing at a rapid race, even as it has become
+                        the largest technology company on the planet. More than two-thirds
+                        of Apple’s revenue is made up of iPhone sales. So where the iPhone goes,
+                        so goes Apple - and last quarter was a miserable one for Apple’s signature gadget.
+                        IPhone sales fell for the first time in history. Apple is running out of
+                        new people to buy iPhones. Phone sales been hurt by economic troubles in
+                        country like Russia, Brazil and China. So Apple is looking for new ways to get more iphone sales.
+                        Sales in all regions fell, but none more than in China. China is
+                        particularly worrisome for Apple because it has risen quite quickly
+                        to become Apple’s second-most important region. There iBooks and iTunes
+                        Movies services have been shut down by government.</paragraph>
+                      </chapter>
+                      <graph x="date" y="number">
+                        <dataset label= "Million of iPhone sold">
+                          <data x="2007" y="5"/>
+                          <data x="2008" y="10"/>
+                          <data x="2009" y="20"/>
+                          <data x="2010" y="35"/>
+                          <data x="2011" y="65"/>
+                          <data x="2012" y="140"/>
+                          <data x="2013" y="150"/>
+                          <data x="2014" y="170"/>
+                          <data x="2015" y="230"/>
+                          <data x="2016" y="190"/>
+                        </dataset>
+                      </graph>
+                      <graph unit="B$" x="string" y="number">
+                        <title>Apple's revenue by product</title>
+                        <dataset label="Reported sales January to April 2016">
+                          <data x="iPhone" y="32.9"/>
+                          <data x="Mac" y="5.1"/>
+                          <data x="iPad" y="4.4"/>
+                          <data x="Serveces" y="6"/>
+                          <data x="Other" y="2.2"/>
+                        </dataset>
+                      </graph>
+                      <chapter>
+                        <title>Apple's troubles around the world</title>
+                        <paragraph>
+                          <list type="unordered">
+                            <item>Brazil: The prize of iPhone is $ 1,016.74.</item>
+                            <item>Russia: government will demand greater access to data.</item>
+                            <item>China: the growth stumbles.</item>
+                          </list>
+                        </paragraph>
+                      </chapter>
+                      <graph unit="B$" x="date" y="number">
+                        <title>Apple's revenue in greater China</title>
+                        <abstract>Apple's revenue in China goes down of 26% in Q1 of 2016.</abstract>
+                        <dataset label= "revenue">
+                          <data x="2011" y="2"/>
+                          <data x="2012" y="8"/>
+                          <data x="2013" y="8.5"/>
+                          <data x="2014" y="10"/>
+                          <data x="2015" y="17"/>
+                          <data x="2016" y="13"/>
+                        </dataset>
+                      </graph>
+                      <keywords>
+                        <keyword name="Governance"/>
+                        <keyword name="Global Corporations"/>
+                        <keyword name="Privacy and Surveillance"/>
+                        <keyword name="North America"/>
+                        <keyword name="Tech"/>
+                        <keyword name="Investments"/>
+                        <keyword name="South America"/>
+                        <keyword name="Eastern Europe"/>
+                        <keyword name="Central and Eastern Asia"/>
+                      </keywords>
+                      <sources>
+                        <source>bloomberg.com</source>
+                        <source>cbinsights.com</source>
+                        <source>cnbc.com</source>
+                        <source>fortune.com</source>
+                        <source>money.cnn.com</source>
+                        <source>qz.com</source>
+                        <source>techinasia.com</source>
+                        <source>theguardian.com</source>
+                      </sources>
+                    </section>
+                    <section>
+                      <title>Apple's low battery</title>
+                      <chapter>
+                        <paragraph>Apple reported its first quarterly revenue contraction in more than a
+                          decade on Tuesday and forecast another decline in its next results.</paragraph>
+                          <paragraph>The fall in Apple’s stock ranks among the worst single-day
+                            declines for the shares since 2011.</paragraph>
+                          </chapter>
+                          <graph unit="$" x="date" y="number">
+                            <dataset label= "Apple share price">
+                              <data x="20160405" y="110"/>
+                              <data x="20160412" y="113"/>
+                              <data x="20160419" y="107"/>
+                              <data x="20160426" y="96"/>
+                            </dataset>
+                          </graph>
+                          <graph unit="$" x="date" y="number">
+                            <title>"The Fatal Hour" of Apple share price</title>
+                            <dataset label= "Apple share price">
+                              <data x="20160426:10" y="105"/>
+                              <data x="20160426:11" y="104.2"/>
+                              <data x="20160426:12" y="104.5"/>
+                              <data x="20160426:13" y="104.1"/>
+                              <data x="20160426:14" y="104.2"/>
+                              <data x="20160426:15" y="104.3"/>
+                              <data x="20160426:16" y="104"/>
+                              <data x="20160426:17" y="96.5"/>
+                            </dataset>
+                          </graph>
+                          <graph unit="B$" x="string" y="number">
+                            <title>Apple lost the entire market value of other firms inside on hour</title>
+                            <dataset label= "Apple's lost value">
+                              <data x="Apple's lost value" y="43"/>
+                              <data x="Netflix" y="39"/>
+                              <data x="Yahoo" y="35"/>
+                              <data x="Tesla Motors" y="34"/>
+                              <data x="Societé Generale" y="31.5"/>
+                              <data x="Glencore" y="31"/>
+                              <data x="Ebay" y="28"/>
+                              <data x="Adidas" y="26"/>
+                              <data x="Deutsche Bank" y="25"/>
+                              <data x="EA" y="20"/>
+                            </dataset>
+                          </graph>
+                          <chapter>
+                            <title>The words that took down the market</title>
+                            <paragraph>Apple drops after Carl Icahn sells his stake.
+                              Carl Icahn is the thirtysecond world's richest man.</paragraph>
+                            </chapter>
+                            <quote>
+                              <author>Carl Icahn</author>
+                              <text>“China's government could come in and make it very
+                                difficult for Apple to sell there ... you can do pretty much
+                                what you want there."</text>
+                              </quote>
+                              <keywords>
+                                <keyword name="1%"/>
+                                <keyword name="Global Corporations"/>
+                                <keyword name="Investments"/>
+                                <keyword name="North America"/>
+                                <keyword name="Tech"/>
+                                <keyword name="Central and Eastern Asia"/>
+                              </keywords>
+                              <sources>
+                                <source>bloomberg.com</source>
+                                <source>cbinsights.com</source>
+                                <source>cnbc.com</source>
+                                <source>fortune.com</source>
+                                <source>money.cnn.com</source>
+                                <source>qz.com</source>
+                                <source>techinasia.com</source>
+                                <source>theguardian.com</source>
+                              </sources>
+                            </section>
+                            <section>
+                              <title>Looking forward</title>
+                              <chapter>
+                                <paragraph>One bright spot in Apple’s quarter was its
+                                  services business, which includes iCloud, the iTunes App Store and Apple Music.
+                                  The Ceo T. Cook is also focusing on Apple Car and the Indian market, potentially
+                                  concerned and a possible low-cost version of the iconic smartphone.
+                                  The Apple watch has still been underwhelming.</paragraph>
+                                </chapter>
+                                <keywords>
+                                  <keyword name="Transportation"/>
+                                  <keyword name="Global Corporations"/>
+                                  <keyword name="North America"/>
+                                  <keyword name="Tech"/>
+                                  <keyword name="Southern Asia"/>
+                                </keywords>
+                                <sources>
+                                  <source>bloomberg.com</source>
+                                  <source>cbinsights.com</source>
+                                  <source>cnbc.com</source>
+                                  <source>fortune.com</source>
+                                  <source>money.cnn.com</source>
+                                  <source>qz.com</source>
+                                  <source>techinasia.com</source>
+                                  <source>theguardian.com</source>
+                                </sources>
+                              </section>
+                            </sections>
+                          </bulletin>
+                        </bulletins>

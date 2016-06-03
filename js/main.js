@@ -135,7 +135,7 @@ function graphToHTML($element, $parent){
     for (var j = 0; j < datas.length; ++j) {
       $data=$(datas[j]);
       arrayX.push($data.attr('x'));
-      arrayY.push(parseFloat($data.attr('y')));
+      arrayY.push(parseFloat($data.attr('y').replace(",", "")));
     }
     xData.push(arrayX);
     yData.push(arrayY);

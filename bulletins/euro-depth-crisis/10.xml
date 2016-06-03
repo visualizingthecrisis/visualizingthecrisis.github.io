@@ -123,15 +123,15 @@
         Some observers doubt the accuracy of China’s GDP numbers, arguing they are
         massaged by government officials, so they are not reflecting the reality.
       </paragraph>
-      <paragraph>
-        “China’s ability to continue to post such rapid and relatively stable growth,
+      </chapter>
+      <quote>
+        <author>Julian Evans-Pritchard</author>
+        <text>
+        China’s ability to continue to post such rapid and relatively stable growth,
         even as it has increasingly become a source of volatility in global equity and
-        commodity markets, will undoubtedly attract a great deal of skepticism,” said
-        Julian Evans-Pritchard “We still think concerns about China’s outlook are
-        overdone and that the recent market volatility has been driven more by sentiment
-        than by economic fundamentals”
-      </paragraph>
-    </chapter>
+        commodity markets, will undoubtedly attract a great deal of skepticism.
+      </text>
+    </quote>
     <graph unit="%" x="country" y="number">
       <title>Two different estimations</title>
       <dataset label= "Estimations_by">
@@ -318,17 +318,17 @@
     <graph unit="USD" x="country" y="number">
       <title>World’s Top Ten in IMF’s list</title>
       <dataset label= "GDP growth">
-        <data x="US" y="17418925"/>
-        <data x="CN" y="10380380"/>
-        <data x="JY" y="4616335"/>
-        <data x="DE" y="3859574"/>
-        <data x="FR" y="3859574"/>
-        <data x="JY" y="3859574"/>
-        <data x="GB" y="2846889"/>
-        <data x="BR" y="2353025"/>
-        <data x="IT" y="2147952"/>
-        <data x="RU" y="2097000"/>
-        <data x="IN" y="1841717"/>
+        <data x="US" y="17,418,925"/>
+        <data x="CN" y="10,380,380"/>
+        <data x="JY" y="4,616,335"/>
+        <data x="DE" y="3,859,574"/>
+        <data x="FR" y="3,859,574"/>
+        <data x="JY" y="3,859,574"/>
+        <data x="GB" y="2,846,889"/>
+        <data x="BR" y="2,353,025"/>
+        <data x="IT" y="2,147,952"/>
+        <data x="RU" y="2,097,000"/>
+        <data x="IN" y="1,841,717"/>
       </dataset>
     </graph>
     <keywords>
@@ -343,6 +343,37 @@
       <keyword name="Southeastern Asia" />
       <keyword name="GDP" />
       <keyword name="Credit rating" />
+    </keywords>
+    <sources>
+      <source>Cnn.com</source>
+      <source>Tradingeconomics.com</source>
+      <source>Pwc.com</source>
+      <source>Eurostat.eu</source>
+      <source>Nakedcapitalism.com</source>
+      <source>Bloomberg.com</source>
+      <source>Eunews.com</source>
+      <source>Wikipedia.org</source>
+      <source>Marketwatch.com</source>
+      <source>Ilsole24ore.com</source>
+    </sources>
+  </section>
+
+  <section>
+    <quote>
+      <author>Bloomberg.com</author>
+      <text>
+        Italy and France are large modern nations, with enviable economic pedigree.
+        So they appear too big to fail...but it’s true? Reform has been difficult,
+        and without corrective action, their debt will increase critically and quickly.
+      </text>
+    </quote>
+    <keywords>
+      <keyword name="Western Europe" />
+      <keyword name="Employment" />
+      <keyword name="GDP" />
+      <keyword name="Agriculture" />
+      <keyword name="Manufacturing" />
+      <keyword name="Tech" />
     </keywords>
     <sources>
       <source>Cnn.com</source>

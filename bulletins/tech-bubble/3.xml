@@ -1,4 +1,4 @@
-<bulletins group="techbubble">
+<bulletins>
   <title>Bursting Unicorns</title>
   <authors>
     <author>Elisa Bianchi</author>
@@ -59,6 +59,10 @@
                 bigger companies like Uber. Indeed these companies’ intent is to create a monopoly in the
                 taxi business so they can then hop over into something else like logistics or delivery.</paragraph>
               </chapter>
+              <quote>
+                <author></author>
+                <text>The market of Tech startups specializing in food and grocery delivery is overcrowded.</text>
+              </quote>
               <table>
                 <row type="head">
                   <cell>name</cell>
@@ -396,19 +400,19 @@
                           <data x="Nov'09" y="35"/>
                           <data x="Mar'11" y="224"/>
                           <data x="Oct'11" y="600"/>
-                          <data x="Sep'12" y="1300"/>
-                          <data x="Jan'14" y="2100"/>
-                          <data x="Aug'14" y="2290"/>
-                          <data x="Jan'15" y="1670"/>
+                          <data x="Sep'12" y="1,300"/>
+                          <data x="Jan'14" y="2,100"/>
+                          <data x="Aug'14" y="2,290"/>
+                          <data x="Jan'15" y="1,670"/>
                         </dataset>
                       </graph>
                       <graph unit="M$" x="date" y="number">
                         <title>Square: the path to IPO</title>
                         <dataset label= "Valuation">
-                          <data x="May'11" y="1600"/>
-                          <data x="Jun'12" y="3250"/>
-                          <data x="Mar'14" y="6000"/>
-                          <data x="Mar'15" y="2900"/>
+                          <data x="May'11" y="1,600"/>
+                          <data x="Jun'12" y="3,250"/>
+                          <data x="Mar'14" y="6,000"/>
+                          <data x="Mar'15" y="2,900"/>
                         </dataset>
                       </graph>
                       <table>

@@ -1,4 +1,4 @@
-<bulletins group="techbubble">
+<bulletins>
   <title>Bursting Unicorns</title>
   <authors>
     <author>Elisa Bianchi</author>
@@ -104,6 +104,11 @@
                   the transportation industry in China, offering a full range
                   of solutions for every type of driver, passenger and commuter.</paragraph>
                 </chapter>
+                <quote>
+                  <author></author>
+                  <text>Uber and its Chinese rival Didi Kuaidi are locked
+                    in a billion-dollar battle to control the world’s largest ride-hailing market.</text>
+                </quote>
                 <table>
                   <row type="head">
                     <cell>name</cell>
@@ -238,11 +243,11 @@
                   </graph>
                   <graph unit="^SSEC" x="date" y="number">
                     <dataset label= "China's stock market">
-                      <data x="2012" y="2500"/>
-                      <data x="2013" y="2400"/>
-                      <data x="2014" y="2600"/>
-                      <data x="2015" y="4500"/>
-                      <data x="Q1_2016" y="3000"/>
+                      <data x="2012" y="2,500"/>
+                      <data x="2013" y="2,400"/>
+                      <data x="2014" y="2,600"/>
+                      <data x="2015" y="4,500"/>
+                      <data x="Q1_2016" y="3,000"/>
                     </dataset>
                   </graph>
                   <keywords>

@@ -8,9 +8,9 @@
       <author>Francesca Alaimo</author>
     </authors>
     <bulletin id="7" date="20160421">
-      <sections>
+  <sections>
 
-      <section>
+  <section>
     <title>IMF: recovery is “too low for too long”</title>
       <chapter>
         <paragraph>
@@ -470,30 +470,30 @@
             <title>Greece Revenue/Spending Forecasts 2010 | 2020</title>
             <abstract>Data in € billion</abstract>
             <dataset label="Revenue">
-              <data x="2010" y="93000000000"/>
-              <data x="2011" y="91000000000"/>
-              <data x="2012" y="88000000000"/>
-              <data x="2013" y="84000000000"/>
-              <data x="2014" y="82000000000"/>
-              <data x="2015" y="80000000000"/>
-              <data x="2016" y="76000000000"/>
-              <data x="2017" y="78000000000"/>
-              <data x="2018" y="79000000000"/>
-              <data x="2019" y="81000000000"/>
-              <data x="2020" y="83000000000"/>
+              <data x="2010" y="93,000,000,000"/>
+              <data x="2011" y="91,000,000,000"/>
+              <data x="2012" y="88,000,000,000"/>
+              <data x="2013" y="84,000,000,000"/>
+              <data x="2014" y="82,000,000,000"/>
+              <data x="2015" y="80,000,000,000"/>
+              <data x="2016" y="76,000,000,000"/>
+              <data x="2017" y="78,000,000,000"/>
+              <data x="2018" y="79,000,000,000"/>
+              <data x="2019" y="81,000,000,000"/>
+              <data x="2020" y="83,000,000,000"/>
             </dataset>
             <dataset label="Spending">
-              <data x="2010" y="118000000000"/>
-              <data x="2011" y="112000000000"/>
-              <data x="2012" y="100000000000"/>
-              <data x="2013" y="90000000000"/>
-              <data x="2014" y="89000000000"/>
-              <data x="2015" y="87000000000"/>
-              <data x="2016" y="83000000000"/>
-              <data x="2017" y="83000000000"/>
-              <data x="2018" y="82000000000"/>
-              <data x="2019" y="83000000000"/>
-              <data x="2020" y="84000000000"/>
+              <data x="2010" y="118,000,000,000"/>
+              <data x="2011" y="112,000,000,000"/>
+              <data x="2012" y="100,000,000,000"/>
+              <data x="2013" y="90,000,000,000"/>
+              <data x="2014" y="89,000,000,000"/>
+              <data x="2015" y="87,000,000,000"/>
+              <data x="2016" y="83,000,000,000"/>
+              <data x="2017" y="83,000,000,000"/>
+              <data x="2018" y="82,000,000,000"/>
+              <data x="2019" y="83,000,000,000"/>
+              <data x="2020" y="84,000,000,000"/>
             </dataset>
           </graph>
           <graph unit="%" x="date" y="number">
@@ -516,31 +516,32 @@
             <title>Spain Revenue/Spending Forecasts 2010 | 2020</title>
             <abstract>Data in € billion</abstract>
             <dataset label="Revenue">
-            <data x="2010" y="390000000000"/>
-            <data x="2011" y="385000000000"/>
-            <data x="2012" y="389000000000"/>
-            <data x="2013" y="391000000000"/>
-            <data x="2014" y="400000000000"/>
-            <data x="2015" y="415000000000"/>
-            <data x="2016" y="426000000000"/>
-            <data x="2017" y="435000000000"/>
-            <data x="2018" y="451000000000"/>
-            <data x="2019" y="470000000000"/>
-            <data x="2020" y="480000000000"/>
+            <data x="2010" y="390,000,000,000"/>
+            <data x="2011" y="385,000,000,000"/>
+            <data x="2012" y="389,000,000,000"/>
+            <data x="2013" y="391,000,000,000"/>
+            <data x="2014" y="400,000,000,000"/>
+            <data x="2015" y="415,000,000,000"/>
+            <data x="2016" y="426,000,000,000"/>
+            <data x="2017" y="435,000,000,000"/>
+            <data x="2018" y="451,000,000,000"/>
+            <data x="2019" y="470,000,000,000"/>
+            <data x="2020" y="480,000,000,000"/>
           </dataset>
           <dataset label="Spending">
-            <data x="2010" y="495000000000"/>
-            <data x="2011" y="490000000000"/>
-            <data x="2012" y="500000000000"/>
-            <data x="2013" y="465000000000"/>
-            <data x="2014" y="463000000000"/>
-            <data x="2015" y="463000000000"/>
-            <data x="2016" y="463000000000"/>
-            <data x="2017" y="466000000000"/>
-            <data x="2018" y="477000000000"/>
-            <data x="2019" y="485000000000"/>
-            <data x="2020" y="500000000000"/>
+            <data x="2010" y="495,000,000,000"/>
+            <data x="2011" y="490,000,000,000"/>
+            <data x="2012" y="500,000,000,000"/>
+            <data x="2013" y="465,000,000,000"/>
+            <data x="2014" y="463,000,000,000"/>
+            <data x="2015" y="463,000,000,000"/>
+            <data x="2016" y="463,000,000,000"/>
+            <data x="2017" y="466,000,000,000"/>
+            <data x="2018" y="477,000,000,000"/>
+            <data x="2019" y="485,000,000,000"/>
+            <data x="2020" y="500,000,000,000"/>
           </dataset>
+        </graph>
           <keywords>
             <keyword name="Eastern Europe" />
             <keyword name="Western Europe" />
@@ -564,8 +565,6 @@
             <source>BBC.com</source>
             <source>Bloomberg.com</source>
           </sources>
-          </graph>
-
       </section>
 
       <section>
@@ -608,29 +607,54 @@
         </section>
 
         <section>
-          <title>Presidents vs. presidents</title>
-            <chapter>
-              <title>On Greece's question:</title>
-              <paragraph>
-                <list type="unordered">
-                  <item>“Currently the debt is not sustainable and what is required is a debt operation,”
-                    said International Monetary Fund Managing Director Christine Lagarde.</item>
-                  <item>On Thursday, president of the Eurogroup Jeroen Dijsselbloem rejected this notion:
-                    “We did already a lot to make it more sustainable”, he said.</item>
-                </list>
-              </paragraph>
-            </chapter>
-            <chapter>
-              <title>On Spain's question:</title>
-              <paragraph>
-                <list type="unordered">
-                  <item>Economic Affairs Commissioner Pierre Moscovici realizes Spain may need more time
-                    to cut its budget deficit (objectives are too hard to reach/achieve).</item>
-                  <item>Spain’s Prime Minister Mariano Rajoy, want the commission to give Spain two
-                    extra years to bring its deficit below the European Union’s 3 percent limit</item>
-                </list>
-              </paragraph>
-            </chapter>
+            <quote>
+            <author>Christine Lagarde</author>
+            <text>“Currently the debt is not sustainable and what is required is a debt operation,”
+            said International Monetary Fund Managing Director.
+            </text>
+           </quote>
+           <quote>
+           <author>Jeroen Dijsselbloem</author>
+           <text>“Currently the debt is not sustainable and what is required is a debt operation”
+           said on Thursday president of the Eurogroup.</text>
+          </quote>
+          <keywords>
+            <keyword name="Eastern Europe" />
+            <keyword name="Western Europe" />
+            <keyword name="GDP" />
+            <keyword name="National Debt" />
+            <keyword name="Interest Rates" />
+            <keyword name="Credit rating" />
+          </keywords>
+          <sources>
+            <source>Ec.europa.eu</source>
+            <source>Brookings.com</source>
+            <source>Coface.com</source>
+            <source>Fincancialtimes.com</source>
+            <source>Tradingeconomics.com</source>
+            <source>Eurostat.eu/</source>
+            <source>Focuseconomics.com</source>
+            <source>Cer.com</source>
+            <source>Tiger.com</source>
+            <source>IMF.org</source>
+            <source>Wisdomtree.com</source>
+            <source>Theguardian.com</source>
+            <source>BBC.com</source>
+            <source>Bloomberg.com</source>
+          </sources>
+        </section>
+
+        <section>
+          <quote>
+          <author>Pierre Moscovici</author>
+          <text>Economic Affairs Commissioner realizes Spain may need more time
+            to cut its budget deficit (objectives are too hard to reach/achieve).</text>
+         </quote>
+         <quote>
+         <author>Mariano Rajoy</author>
+         <text>Spain’s Prime Minister want the commission to give Spain two
+           extra years to bring its deficit below the European Union’s 3 percent limit.</text>
+        </quote>
             <keywords>
               <keyword name="Eastern Europe" />
               <keyword name="Western Europe" />

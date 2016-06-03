@@ -1,0 +1,320 @@
+<bulletins>
+  <title>Bursting Unicorns</title>
+  <authors>
+    <author>Elisa Bianchi</author>
+    <author>Francesca Luzi</author>
+    <author>Federico Rita</author>
+  </authors>
+  <bulletin id="10" date="20160512">
+    <sections>
+      <section>
+        <title>Rank of valuation</title>
+        <abstract>The first ten private companies valued at $1 billion or more
+          is unchanged and there isn't any new unicorn.</abstract>
+          <chapter>
+            <paragraph>
+              <list type="ordered">
+                <item>Uber</item>
+                <item>Xiaomi</item>
+                <item>Airbnb</item>
+                <item>Palantir</item>
+                <item>Dianping</item>
+                <item>Snapchat</item>
+                <item>Wework</item>
+                <item>Flipkart</item>
+                <item>Didi Kuaidi</item>
+                <item>SpaceX</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Start-ups"/>
+            <keyword area="North America"/>
+            <keyword name="Central and Eastern Asia"/>
+            <keyword name="Transportation"/>
+            <keyword name="Tech"/>
+            <keyword name="Commerce"/>
+            <keyword name="Tourism"/>
+            <keyword name="Investments"/>
+            <keyword name="Employment"/>
+            <keyword name="Healthcare"/>
+            <keyword name="Sharing Economy"/>
+          </keywords>
+          <sources>
+            <source>cbinsights.com</source>
+            <source>qz.com</source>
+            <source>startupitalia.eu</source>
+            <source>statista.com</source>
+            <source>techcrunch.com</source>
+            <source>tech.eu</source>
+            <source>uk.businessinside.com</source>
+          </sources>
+        </section>
+        <section>
+          <title>Don't look down</title>
+          <chapter>
+            <paragraph>As challenges mount, unicorn births have given way to a rash
+              of downrounds and down exits. First quarter of 2016 saw several downrounds as well as down exits.</paragraph>
+            </chapter>
+            <graph x="date" y="number">
+              <dataset label= "DownRounds and Down Exits">
+                <data x="Q1_2015" y="9"/>
+                <data x="Q2_2015" y="6"/>
+                <data x="Q3_2015" y="7"/>
+                <data x="Q4_2015" y="16"/>
+                <data x="Q1_2016" y="14"/>
+              </dataset>
+              <dataset label="New Unicorns">
+                <data x="Q1_2015" y="15"/>
+                <data x="Q2_2015" y="25"/>
+                <data x="Q3_2015" y="25"/>
+                <data x="Q4_2015" y="13"/>
+                <data x="Q1_2016" y="5"/>
+              </dataset>
+            </graph>
+            <graph x="date" y="number">
+              <title>DownRounds by industry</title>
+              <dataset label="Software">
+                <data x="Q3_2014" y="5"/>
+                <data x="Q4_2014" y="4"/>
+                <data x="Q1_2015" y="5"/>
+                <data x="Q2_2015" y="2"/>
+                <data x="Q3_2015" y="4"/>
+                <data x="Q4_2015" y="5"/>
+                <data x="Q1_2016" y="4"/>
+              </dataset>
+              <dataset label="Hardware">
+                <data x="Q3_2014" y="1"/>
+                <data x="Q4_2014" y="1"/>
+                <data x="Q1_2015" y="1"/>
+                <data x="Q2_2015" y="3"/>
+                <data x="Q3_2015" y="0"/>
+                <data x="Q4_2015" y="3"/>
+                <data x="Q1_2016" y="2"/>
+              </dataset>
+              <dataset label="Life Sciences">
+                <data x="Q3_2014" y="4"/>
+                <data x="Q4_2014" y="1"/>
+                <data x="Q1_2015" y="2"/>
+                <data x="Q2_2015" y="3"/>
+                <data x="Q3_2015" y="1"/>
+                <data x="Q4_2015" y="3"/>
+                <data x="Q1_2016" y="4"/>
+              </dataset>
+              <dataset label="Internet digital media">
+                <data x="Q3_2014" y="3"/>
+                <data x="Q4_2014" y="1"/>
+                <data x="Q1_2015" y="3"/>
+                <data x="Q2_2015" y="2"/>
+                <data x="Q3_2015" y="1"/>
+                <data x="Q4_2015" y="1"/>
+                <data x="Q1_2016" y="2"/>
+              </dataset>
+            </graph>
+            <keywords>
+              <keyword name="Start-ups"/>
+              <keyword name="Tech"/>
+              <keyword name="Investments"/>
+              <keyword name="North America"/>
+            </keywords>
+            <sources>
+              <source>cbinsights.com</source>
+              <source>qz.com</source>
+              <source>startupitalia.eu</source>
+              <source>statista.com</source>
+              <source>techcrunch.com</source>
+              <source>tech.eu</source>
+              <source>uk.businessinside.com</source>
+            </sources>
+          </section>
+          <section>
+            <title>Start-ups layoff and cut perks</title>
+            <chapter>
+              <paragraph>Amid the layoffs and cuts in startup perks , there’s been
+                much chatter about a slowdown in tech. As evidence, people have pointed
+                to “down rounds”: new rounds of financing that value a company at less
+                than what investors previously deemed it was worth.</paragraph>
+                <paragraph>File-sharing site Dropbox told employees it was nixing its free laundry service
+                  and shuttle bus to San Francisco. Once-unlimited guests at the
+                  office’s free dinner hour and open-bar Fridays were capped at five per month.</paragraph>
+                </chapter>
+                <graph unit="%" x="string" y="number">
+                  <dataset label= "Layoffs">
+                    <data x="LivingSocial" y="-50" />
+                    <data x="Zenefits" y="-17" />
+                    <data x="Zomato" y="-10" />
+                    <data x="Twitter" y="-8" />
+                    <data x="Autodesk" y="-10" />
+                    <data x="Yahoo" y="-10" />
+                    <data x="Groupon" y="-11" />
+                  </dataset>
+                </graph>
+                <keywords>
+                  <keyword name="North America"/>
+                  <keyword name="Start-ups"/>
+                  <keyword name="Tech"/>
+                  <keyword name="Employment"/>
+                </keywords>
+                <sources>
+                  <source>cbinsights.com</source>
+                  <source>qz.com</source>
+                  <source>startupitalia.eu</source>
+                  <source>statista.com</source>
+                  <source>techcrunch.com</source>
+                  <source>tech.eu</source>
+                  <source>uk.businessinside.com</source>
+                </sources>
+              </section>
+              <section>
+                <title>Is early to talk about a "European ecosystem of start-ups?"</title>
+                <chapter>
+                  <paragraph>European exits in the last two years increased by 314%.
+                    In tech market there were a total of 594 exits.</paragraph>
+                    <paragraph>But there are problems in the European scene.
+                      There’s the risk that this figure is "inflated" by individual exploits of
+                      four European cities: London, Berlin, Paris, Amsterdam, and not the sign of
+                      a sustained growth of something solid.</paragraph>
+                      <paragraph>Another important factor is that the innovation isn’t uniform
+                        between the various European countries.</paragraph>
+                      </chapter>
+                      <graph x="string" y="number">
+                        <title>European startup exits 2015</title>
+                        <dataset label="exits">
+                          <data x="Germany" y="119"/>
+                          <data x="UK" y="82"/>
+                          <data x="France" y="40"/>
+                          <data x="Spain" y="38"/>
+                          <data x="Sweden" y="37"/>
+                          <data x="Netherlands" y="31"/>
+                          <data x="Belgium" y="31"/>
+                          <data x="Switzerland" y="27"/>
+                          <data x="Denmark" y="21"/>
+                          <data x="Russia" y="18"/>
+                          <data x="Finland" y="13"/>
+                          <data x="Ireland" y="13"/>
+                          <data x="Norway" y="12"/>
+                          <data x="Italy" y="9"/>
+                          <data x="Ukraine" y="7"/>
+                          <data x="Poland" y="5"/>
+                          <data x="Portugal" y="5"/>
+                          <data x="Austria" y="4"/>
+                          <data x="Iceland" y="4"/>
+                        </dataset>
+                      </graph>
+                      <graph x="date" y="number">
+                        <title>Innovation's european gaps</title>
+                        <dataset label="UK tech startups">
+                          <data x="2013" y="5,400"/>
+                          <data x="2016" y="200,000"/>
+                        </dataset>
+                        <dataset label="Italy">
+                          <data x="2013" y="2,716"/>
+                          <data x="2016" y="5,600"/>
+                        </dataset>
+                      </graph>
+                      <graph unit="%" x="string" y="percentage">
+                        <dataset label="kind of exits">
+                          <data x="IPO" y="4.7"/>
+                          <data x="Merger" y="3.3"/>
+                          <data x="Acquisition" y="92"/>
+                        </dataset>
+                      </graph>
+                      <chapter>
+                        <paragraph>Only 4.7% of those exits were IPOs, down percentage- wise from 2014.
+                          That supports the notion that tech entrepreneurs are trying to avoid public
+                          offerings out of fear that their valuations would implode.</paragraph>
+                        </chapter>
+                        <graph unit="%" x="string" y="percentage">
+                          <title>Q1 2016 exits</title>
+                          <abstract>In Q1 2016 there were 179 exits.
+                            The total capital involved is $ 24B: -18% vs Q4 2015.</abstract>
+                            <dataset label="exits VC backed">
+                              <data x="VC backed" y="48"/>
+                              <data x="other" y="52"/>
+                            </dataset>
+                          </graph>
+                          <graph x="string" y="number">
+                            <title>EU exits/tech categories</title>
+                            <dataset label="number of exits">
+                              <data x="E-commerce" y="67"/>
+                              <data x="Infrastructure" y="57"/>
+                              <data x="Fintech" y="44"/>
+                              <data x="Adtech" y="38"/>
+                              <data x="Security" y="34"/>
+                              <data x="Market place" y="30"/>
+                              <data x="Audiovisual" y="28"/>
+                              <data x="Enterprise SaaS" y="25"/>
+                              <data x="Gaming" y="25"/>
+                              <data x="Hardware" y="24"/>
+                              <data x="App development" y="22"/>
+                              <data x="Media" y="22"/>
+                              <data x="Food" y="21"/>
+                              <data x="Data/Analytics" y="19"/>
+                              <data x="Health" y="17"/>
+                              <data x="Consultancy" y="15"/>
+                              <data x="Travel" y="15"/>
+                              <data x="Logistic" y="12"/>
+                              <data x="Transport" y="10"/>
+                            </dataset>
+                          </graph>
+                          <keywords>
+                            <keyword name="Eastern Europe"/>
+                            <keyword name="Western Europe"/>
+                            <keyword name="Transportation"/>
+                            <keyword name="Tech"/>
+                            <keyword name="Start-ups"/>
+                            <keyword name="Healthcare"/>
+                            <keyword name="Tourism"/>
+                            <keyword name="Investments"/>
+                          </keywords>
+                          <sources>
+                            <source>cbinsights.com</source>
+                            <source>qz.com</source>
+                            <source>startupitalia.eu</source>
+                            <source>statista.com</source>
+                            <source>techcrunch.com</source>
+                            <source>tech.eu</source>
+                            <source>uk.businessinside.com</source>
+                          </sources>
+                        </section>
+                        <section>
+                          <title>Germany: the leader of 2015</title>
+                          <chapter>
+                            <paragraph>Only in Q4’15, deal activity in Germany grew to 55 deals,
+                              and $431M in funding for the quarter, bucking a global trend in which  deal count
+                              was down dramatically. In Germany, these tech categories have seen the largest amount
+                              of deal activity.</paragraph>
+                              <paragraph>Germany’s tech scene has become quite robust.
+                                It’s the home to unicorns like Delivery Hero and HelloFresh as
+                                well as exited tech companies like Zalando and Trivago,
+                                making Deutschland one of the key tech hubs in Europe.</paragraph>
+                              </chapter>
+                              <graph unit="%" x="string" y="percentage">
+                                <title>Germany: kind of exits</title>
+                                <abstract>Total exits of Germany in 2015 are 119.</abstract>
+                                <dataset label="kind of exits">
+                                  <data x="IPO" y="4"/>
+                                  <data x="Merger" y="5"/>
+                                  <data x="Acquisition" y="91"/>
+                                </dataset>
+                              </graph>
+                              <keywords>
+                                <keyword name="Western Europe"/>
+                                <keyword name="Commerce"/>
+                                <keyword name="Tech"/>
+                                <keyword name="Start-ups"/>
+                                <keyword name="Investments"/>
+                              </keywords>
+                              <sources>
+                                <source>cbinsights.com</source>
+                                <source>qz.com</source>
+                                <source>startupitalia.eu</source>
+                                <source>statista.com</source>
+                                <source>techcrunch.com</source>
+                                <source>tech.eu</source>
+                                <source>uk.businessinside.com</source>
+                              </sources>
+                            </section>
+                          </sections>
+                        </bulletin>
+                      </bulletins>

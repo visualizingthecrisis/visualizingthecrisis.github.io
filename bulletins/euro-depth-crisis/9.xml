@@ -10,13 +10,40 @@
     <bulletin id="9" date="20160505">
       <sections>
 
+<section>
+  <quote>
+  <author>Eurostat on twitter</author>
+  <text>
+    During these days Eurostat is publishing, on its twitter page, information regarding
+    European GDP, unemployment and inflaction rates, saying that the situation is going
+    better, because EUis reaching pre-crisis level.
+  </text>
+ </quote>
+ <keywords>
+   <keyword name="Western Europe" />
+   <keyword name="Eastern Europe" />
+   <keyword name="National Debt" />
+   <keyword name="GDP" />
+ </keywords>
+ <sources>
+   <source>Eurostat.eu</source>
+   <source>Sentifi.com</source>
+   <source>Theguardian.com</source>
+   <source>Tradingeconomics.com</source>
+   <source>Telegraph.com</source>
+   <source>Cbs.com/</source>
+   <source>Financialnews.com</source>
+   <source>Newsnow.com</source>
+   <source>Wsj.com</source>
+   <source>Lsr.com</source>
+ </sources>
+</section>
+
   <section>
     <title>#Back to pre-crisis?</title>
       <chapter>
         <paragraph>
-          During these days Eurostat is publishing, on its twitter page, information regarding
-          European GDP, unemployment and inflaction rates, saying that the situation is going
-          better, because EUis reaching pre-crisis level.
+
         </paragraph>
       </chapter>
       <chapter>
@@ -82,6 +109,7 @@
       </section>
 
       <section>
+        <title>Country comparison</title>
           <chapter>
             <paragraph>
               Let’s make a comparison between #EuroAreaGDP, China and USA GDP growth
@@ -121,6 +149,7 @@
       </section>
 
       <section>
+        <title>European unemployment</title>
           <chapter>
             <paragraph>
               GDP rates is going better, but there is still something that slows down optimism:
@@ -186,6 +215,7 @@
       </section>
 
       <section>
+        <title>What's Sentify?</title>
           <chapter>
             <paragraph>
               Sentifi is a leading platform to access, monitor and collaborate on the wisdom
@@ -196,13 +226,13 @@
             <title>Who is talking about Eur?</title>
             <abstract>Data from 1st to 30th April 2016</abstract>
             <dataset label="GDP Growth">
-              <data x="20160401" y="1000"/>
-              <data x="20160405" y="1500"/>
+              <data x="20160401" y="1,000"/>
+              <data x="20160405" y="1,500"/>
               <data x="20160410" y="500"/>
-              <data x="20160415" y="2000"/>
-              <data x="20160420" y="1700"/>
+              <data x="20160415" y="2,000"/>
+              <data x="20160420" y="1,700"/>
               <data x="20160425" y="700"/>
-              <data x="20160430" y="2000"/>
+              <data x="20160430" y="2,000"/>
             </dataset>
           </graph>
           <graph unit="%" x="string" y="number">
@@ -344,6 +374,7 @@
       </section>
 
       <section>
+        <title>European inflation</title>
         <chapter>
           <paragraph>
             Euro area #InflationWentDown again in April to 0.2%, in March was to 0.0%.
@@ -400,6 +431,7 @@
       </section>
 
       <section>
+        <title>Export stats</title>
         <chapter>
           <paragraph>
             Also #ExportIsInCrisis. Export is fundamental for italian economy, but datas
@@ -412,20 +444,20 @@
           <abstract>2% is the target established by economist that indicates a
             good balance and a good economic growth of a country</abstract>
           <dataset label="Export to Bricks">
-            <data x="2010" y="24863000000"/>
-            <data x="2011" y="28000000000"/>
-            <data x="2012" y="27812000000"/>
-            <data x="2013" y="29945000000"/>
-            <data x="2014" y="28531000000"/>
-            <data x="2015" y="25959000000"/>
+            <data x="2010" y="24,863,000,000"/>
+            <data x="2011" y="28,000,000,000"/>
+            <data x="2012" y="27,812,000,000"/>
+            <data x="2013" y="29,945,000,000"/>
+            <data x="2014" y="28,531,000,000"/>
+            <data x="2015" y="2,595,9000,000"/>
           </dataset>
           <dataset label="Export to Ticks">
-            <data x="2010" y="14973000000"/>
-            <data x="2011" y="17320000000"/>
-            <data x="2012" y="16432000000"/>
-            <data x="2013" y="17419000000"/>
-            <data x="2014" y="17596000000"/>
-            <data x="2015" y="18848000000"/>
+            <data x="2010" y="14,973,000,000"/>
+            <data x="2011" y="17,320,000,000"/>
+            <data x="2012" y="16,432,000,000"/>
+            <data x="2013" y="17,419,000,000"/>
+            <data x="2014" y="17,596,000,000"/>
+            <data x="2015" y="18,848,000,000"/>
           </dataset>
         </graph>
         <graph unit="%" x="country" y="number">

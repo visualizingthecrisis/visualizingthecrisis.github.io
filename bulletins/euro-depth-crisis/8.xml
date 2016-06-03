@@ -88,18 +88,19 @@
       </section>
 
       <section>
+        <title>Some data on immigrants</title>
         <graph unit="" x="country" y="number">
           <title>Amount of immigrants in the EU countries</title>
           <dataset label="Immigrants">
-            <data x="AT" y="85000"/>
-            <data x="IT" y="43000"/>
-            <data x="FR" y="4410000"/>
-            <data x="DE" y="700000"/>
-            <data x="BE" y="380000"/>
-            <data x="GB" y="830000"/>
-            <data x="NL" y="1560000"/>
-            <data x="HU" y="380000"/>
-            <data x="SE" y="1740000"/>
+            <data x="AT" y="85,000"/>
+            <data x="IT" y="43,000"/>
+            <data x="FR" y="4,410,000"/>
+            <data x="DE" y="700,000"/>
+            <data x="BE" y="380,000"/>
+            <data x="GB" y="830,000"/>
+            <data x="NL" y="156,0000"/>
+            <data x="HU" y="380,000"/>
+            <data x="SE" y="1,740,000"/>
           </dataset>
         </graph>
         <graph unit="string" x="country" y="string">
@@ -162,22 +163,37 @@
               the EU, began in the fall of 1995.
             </paragraph>
           </chapter>
-          <graph unit="number" x="country" y="number">
+          <quote>
+          <author>Alexander Langer</author>
+          <text>
+            The fall of internal borders was complemented by the strengthening of the external borders
+          </text>
+         </quote>
+          <graph unit="number" x="string" y="number">
             <title>Lenght of European walls, data in km by year</title>
           <dataset label="1974">
-            <data x="SE" y="174000000000"/>
+            <data x="Cyprus" y="180"/>
           </dataset>
           <dataset label="1995">
-            <data x="SE" y="174000000000"/>
+            <data x="Melilla" y="11"/>
+          </dataset>
+          <dataset label="1995">
+            <data x="Ceuta" y="8.4"/>
           </dataset>
           <dataset label="2012">
-            <data x="SE" y="174000000000"/>
+            <data x="Greece-Turkey" y="12"/>
           </dataset>
           <dataset label="2014">
-            <data x="SE" y="174000000000"/>
+            <data x="Calais" y="11"/>
           </dataset>
           <dataset label="2015">
-            <data x="SE" y="174000000000"/>
+            <data x="Asothalom" y="175"/>
+          </dataset>
+          <dataset label="2015">
+            <data x="Estonia-Russia" y="100"/>
+          </dataset>
+          <dataset label="2015">
+            <data x="Bulgaria-Turkey" y="33"/>
           </dataset>
         </graph>
         <keywords>
@@ -215,24 +231,24 @@
             out the so-called banking union.
           </paragraph>
         </chapter>
-          <chapter>
-            <title>Wolfgang Schaeuble's opinion</title>
-          <paragraph>
+          <quote>
+            <author>Wolfgang Schaeuble's opinion</author>
+          <text>
             We have to start to reduce the risks that occur from the connection between
             banks and public budgets, and that of course means that we have to address
             government bonds and balance sheets of banks” said german finance minister
             Wolfgang Schaeuble.
-          </paragraph>
-            </chapter>
-            <chapter>
-              <title>Wolfgang Schaeuble's opinion</title>
-            <paragraph>
+          </text>
+          </quote>
+          <quote>
+          <author>Pier Carlo Padoan's opinion</author>
+            <text>
             “The most preferable option is the status quo”, italian
             finance minister Pier Carlo Padoan said, because this wouldn’t force banks
             to reshuffle their debt holdings, “creating the problem of where this debt
             will end up. This would provoke a readjustment shock in the market.”
-          </paragraph>
-        </chapter>
+          </text>
+          </quote>
         <keywords>
           <keyword name="Western Europe" />
           <keyword name="Governance" />
@@ -346,37 +362,37 @@
       <graph unit="EUR" x="string" y="number">
         <title>European Banks sovereing exposures in 2015 specific composition of total value</title>
       <dataset label="Sovereign exposure value">
-        <data x="Total" y="3341000000000"/>
-        <data x="Main Banks" y="1835000000000"/>
-        <data x="Other Banks" y="1505000000000"/>
+        <data x="Total" y="3,341,000,000,000"/>
+        <data x="Main Banks" y="1,835,000,000,000"/>
+        <data x="Other Banks" y="1,505,000,000,000"/>
       </dataset>
     </graph>
     <graph unit="EUR" x="date" y="number">
       <title>European Banks sovereing exposures 2013 | 2015</title>
     <dataset label="Sovereign exposure value">
-      <data x="2013" y="2900000000000"/>
-      <data x="2014" y="3100000000000"/>
-      <data x="2015" y="3200000000000"/>
+      <data x="2013" y="290,000,000,000,000"/>
+      <data x="2014" y="3,100,000,000,000"/>
+      <data x="2015" y="3,200,000,000,000"/>
     </dataset>
   </graph>
   <graph unit="EUR" x="string" y="number">
     <title>Main European Banks sovereing exposures</title>
   <dataset label="Sovereign exposure value">
-    <data x="HSBC" y="290000000000"/>
-    <data x="Barclays" y="150000000000"/>
-    <data x="UniCredit" y="140000000000"/>
-    <data x="BNP Paribas" y="140000000000"/>
-    <data x="Santander" y="120000000000"/>
-    <data x="Deutsche Bank" y="120000000000"/>
-    <data x="BBVA" y="110000000000"/>
-    <data x="Société Générale" y="100000000000"/>
-    <data x="BPCE" y="90000000000"/>
-    <data x="RBS" y="70000000000"/>
-    <data x="Intesa San Paolo" y="70000000000"/>
-    <data x="Crédit Agricole" y="70000000000"/>
-    <data x="ING" y="70000000000"/>
-    <data x="Lloyds" y="70000000000"/>
-    <data x="Commerzbank" y="40000000000"/>
+    <data x="HSBC" y="290,000,000,000"/>
+    <data x="Barclays" y="150,000,000,000"/>
+    <data x="UniCredit" y="140,000,000,000"/>
+    <data x="BNP Paribas" y="140,000,000,000"/>
+    <data x="Santander" y="120,000,000,000"/>
+    <data x="Deutsche Bank" y="120,000,000,000"/>
+    <data x="BBVA" y="110,000,000,000"/>
+    <data x="Société Générale" y="100,000,000,000"/>
+    <data x="BPCE" y="90,000,000,000"/>
+    <data x="RBS" y="70,000,000,000"/>
+    <data x="Intesa San Paolo" y="70,000,000,000"/>
+    <data x="Crédit Agricole" y="70,000,000,000"/>
+    <data x="ING" y="70,000,000,000"/>
+    <data x="Lloyds" y="70,000,000,000"/>
+    <data x="Commerzbank" y="40,000,000,000"/>
   </dataset>
 </graph>
 <keywords>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins>
+  <title>REAL ESTATE</title>
+  <subtitle>Visualizing the crisis</subtitle>
+  <authors>
+    <author>Irene Chiappini</author>
+    <author>Giulia Serafin</author>
+  </authors>
+  <bulletin id="6" date="20160407">
+    <title>All you need is a home</title>
+    <sections>
+      <section>
+        <title>China's ghost cities</title>
+        <subtitle>In the past 20 years China has constructed hundreds of new cities and districts.
+        </subtitle>
+        <chapter>
+          <title>New ones</title>
+            <paragraph>
+              <list type="unordered">
+                <item>Caused by the urbanization boom</item>
+                <item>Under-populated places</item>
+                <item>Mostly unknown places</item>
+                <item>In the north of the country</item>
+                <item>New industries try to develop</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>Past ones</title>
+            <paragraph>
+              <list type="unordered">
+                <item>Now filled up with people</item>
+                <item>They become economical engines</item>
+                <item>Located near big cities</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Southeastern Asia"/>
+            <keyword name="Citizenship"/>
+            <keyword name="Governance"/>
+            <keyword name="Housing and Real Estate"/>
+            <keyword name="Construction"/>
+          </keywords>
+          <sources>
+            <source> Forbes “One way that China populates its ghost cities”</source>
+            <source> Forbes “How people in China efford their outrageously expensive homes”</source>
+            <source> Forbes “What China is doing about its 450 million square meters of unsold housing”</source>
+          </sources>
+        </section>
+        <section>
+          <title>Home purchasing</title>
+          <subtitle>What does it mean for chinese people?</subtitle>
+          <chapter>
+            <paragraph>
+              <list type="unordered">
+                <item>It’s areal status symbol</item>
+                <item>Friends and family financially assist</item>
+                <item>Central part of everybody’s life project</item>
+                <item>Important to land a job</item>
+                <item>Necessary for a marriage</item>
+                <item>Old parents move into their children’s home</item>
+                <item>Renting is often misjudged</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+              <keyword name="Southeastern Asia"/>
+              <keyword name="Citizenship"/>
+              <keyword name="Governance"/>
+              <keyword name="Housing and Real Estate"/>
+              <keyword name="Construction"/>
+          </keywords>
+          <sources>
+            <source> Forbes “One way that China populates its ghost cities”</source>
+            <source> Forbes “How people in China efford their outrageously expensive homes”</source>
+            <source> Forbes “What China is doing about its 450 million square meters of unsold housing”</source>
+          </sources>
+        </section>
+        <section>
+          <title>Empty houses  in china</title>
+          <subtitle>Two different kind of vacant homes</subtitle>
+          <chapter>
+            <title>Sold properties</title>
+            <paragraph>Short time vacant houses: Developpers got paid, government got taxes, investors can resell properties.
+            </paragraph>
+            <paragraph>Common habits: It’s common in China to own more than one house: to store savings, for offspring or an inpending marriage.
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>Unsold properties</title>
+            <paragraph>Long time empty properties: Empty residential floor for a long period, loss of value, slowdown.
+            </paragraph>
+            <paragraph>New ghost cities: There are 450 square km of unsold residential floor space in China.
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Southeastern Asia"/>
+            <keyword name="Citizenship"/>
+            <keyword name="Governance"/>
+            <keyword name="Housing and Real Estate"/>
+            <keyword name="Construction"/>
+          </keywords>
+          <sources>
+            <source> Forbes “One way that China populates its ghost cities”</source>
+            <source> Forbes “How people in China efford their outrageously expensive homes”</source>
+            <source> Forbes “What China is doing about its 450 million square meters of unsold housing”</source>
+          </sources>
+        </section>
+        <section>
+          <title>What china will do?</title>
+          <subtitle>Three possible solutions</subtitle>
+          <chapter>
+            <paragraph>Tear all them down:in order  to build instead of them something else more profitable.
+            </paragraph>
+            <paragraph>Cut back more houses:In order to apply the simple supply/demand theory.
+            </paragraph>
+            <paragraph>Sell to the government*: converting them into public rental housing.
+            </paragraph>
+          </chapter>
+        </section>
+        <section>
+          <title>Some data about houses in China</title>
+          <chapter>
+            <paragraph>
+              <list type="unordered">
+                <item>90% families which own their home</item>
+                <item>N°5 in world’s list of countries by home ownership rate</item>
+                <item>25-30 y average lifetime of a house in China</item>
+                <item>80% own it outright, with no mortgage or loans</item>
+                <item>20% urban household with more than one house</item>
+                <item>7/10 7 of the most expensive cities in the world are based in China</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Southeastern Asia"/>
+            <keyword name="Citizenship"/>
+            <keyword name="Governance"/>
+            <keyword name="Housing and Real Estate"/>
+            <keyword name="Construction"/>
+          </keywords>
+          <sources>
+            <source> Forbes “One way that China populates its ghost cities”</source>
+            <source> Forbes “How people in China efford their outrageously expensive homes”</source>
+            <source> Forbes “What China is doing about its 450 million square meters of unsold housing”</source>
+          </sources>
+        </section>
+        <section>
+          <title>Real estate timeline</title>
+          <chapter>
+            <paragraph>Looking back to understand the housing boom:20 years ago China’s real estate market almost didn’t exist.
+            </paragraph>
+            <paragraph>
+              <list type="ordered">
+                <item>1990 - Series of reforms:Let people buy their government-owned houses at favorable rates.</item>
+                <item>2000 - More home owners: Real estate market was set to boom.</item>
+                <item>2010 - China on the top: China is the largest realty market in the world.</item>
+                <item>2016 - Bubble risk: China shows a risky situation similar to the US 2008 bubble.</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Southeastern Asia"/>
+            <keyword name="Citizenship"/>
+            <keyword name="Governance"/>
+            <keyword name="Housing and Real Estate"/>
+            <keyword name="Construction"/>
+          </keywords>
+          <sources>
+            <source> Forbes “One way that China populates its ghost cities”</source>
+            <source> Forbes “How people in China efford their outrageously expensive homes”</source>
+            <source> Forbes “What China is doing about its 450 million square meters of unsold housing”</source>
+          </sources>
+        </section>
+      </sections>
+    </bulletin>
+    <bulletin id="6" date="20160407">
+      <title>Spanish investors</title>
+      <sections>
+        <section>
+          <title>Main cities</title>
+          <table>
+            <row type="head">
+              <cell></cell>
+              <cell>House Prices City Center</cell>
+              <cell>House Prices Outside Center</cell>
+              <cell>Population</cell>
+              <cell>Density</cell>
+              <cell>Price To Income Ration</cell>
+            </row>
+            <row type="cell">
+              <cell>Madrid</cell>
+              <cell>$ 409.32</cell>
+              <cell>$ 249.74</cell>
+              <cell>3,141,991</cell>
+              <cell>5,390/km2</cell>
+              <cell>$11.19</cell>
+            </row>
+            <row type="cell">
+              <cell>Barcellona</cell>
+              <cell>$ 402.29</cell>
+              <cell>$ 276.74</cell>
+              <cell>1,604,555</cell>
+              <cell>16,000/km2</cell>
+              <cell>10.77 %</cell>
+            </row>
+            <row type="cell">
+              <cell>Valencia</cell>
+              <cell>$ 108.92</cell>
+              <cell>$ 122.02</cell>
+              <cell>809,267</cell>
+              <cell>6,000/km2</cell>
+              <cell>5.71 %</cell>
+            </row>
+            <row type="cell">
+              <cell>Bilbao</cell>
+              <cell>$ 556.43</cell>
+              <cell>$ 337.66</cell>
+              <cell>345,141</cell>
+              <cell>8,300/km2</cell>
+              <cell>12.26 %</cell>
+            </row>
+            <row type="cell">
+              <cell>Sevilla</cell>
+              <cell>$ 332.46</cell>
+              <cell>$ 163.35</cell>
+              <cell>703,021</cell>
+              <cell>5,003/km2</cell>
+              <cell>10.36 %</cell>
+            </row>
+            <row type="cell">
+              <cell>Alicante</cell>
+              <cell>$ 197.67</cell>
+              <cell>$ 140.67</cell>
+              <cell>328,648</cell>
+              <cell>1,600/km2</cell>
+              <cell>6.31 %</cell>
+            </row>
+          </table>
+          <keywords>
+            <keyword name="Western Europe"/>
+            <keyword name="Investments"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>World property journal “Spain Enjoys Record Setting Commercial Property Investment in 2015”</source>
+              <source>Investopedia ”Economic Challenges Spain Faces”</source>
+              <source>Numbeo</source>
+          </sources>
+        </section>
+        <section>
+          <title>Investments in Spain</title>
+          <chapter>
+          <paragraph>In 2015 Spain has increased by 13% real estate investments. The most popular segments for investors are: 8.8 bilion was invested in spanish’s commercial property sector.
+          </paragraph>
+          <paragraph>
+            <list type="unordered">
+              <item>Shopping Center: 52%</item>
+              <item>New Offices: 38%</item>
+              <item>Logistics, Hotels and others: 10%</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Western Europe"/>
+          <keyword name="Investments"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>World property journal “Spain Enjoys Record Setting Commercial Property Investment in 2015”</source>
+            <source>Investopedia ”Economic Challenges Spain Faces”</source>
+            <source>Numbeo</source>
+        </sources>
+      </section>
+      <section>
+        <graph unit="%" x="country" y="number">
+          <title>Who are investors in Spain?</title>
+          <abstract>Most of the investors are local.</abstract>
+          <dataset label="investors">
+            <data x="Local investors" y="47%"/>
+            <data x="North America" y="12%"/>
+            <data x="Continental Europe" y="22%"/>
+            <data x="Asia" y="11%"/>
+            <data x="Asia" y="2%"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Western Europe"/>
+          <keyword name="Investments"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>World property journal “Spain Enjoys Record Setting Commercial Property Investment in 2015”</source>
+            <source>Investopedia ”Economic Challenges Spain Faces”</source>
+            <source>Numbeo</source>
+        </sources>
+      </section>
+      <section>
+        <title>Investors type in Spain</title>
+        <chapter>
+          <title>55% INVESTMENT FUNDS AND SOCIMIs*</title>
+          <paragraph>They have increased their market shareto become one of the main players, driving the market in the process.
+          </paragraph>
+          <paragraph>*SOCIMIs or REIT: SOCIMI (sociedades cotizadas de inversión en el mercado inmobiliario) also known as REIT (real estate investment trust) is a company that owns, and in most cases operates, income-producing real estate.
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>14% Private</title>
+          <paragraph> There is a gradual increase in private investors and family offices taking on more commercial property exposure.
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>Opportunistic investors</title>
+          <paragraph>In terms of investor type, they have been gradually disappearing as the market has moved on.
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Western Europe"/>
+          <keyword name="Investments"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>World property journal “Spain Enjoys Record Setting Commercial Property Investment in 2015”</source>
+            <source>Investopedia ”Economic Challenges Spain Faces”</source>
+            <source>Numbeo</source>
+        </sources>
+      </section>
+    </sections>
+    </bulletin>
+  </bulletins>

@@ -1,0 +1,1067 @@
+<bulletin id="issue 8" date="20160430">
+  <sections>
+    <section>
+      <graph unit="%" x="date" y="number">
+        <title>Global Youth Unemployment</title>
+        <dataset label="">
+          <data x="1995" y="12.2" />
+          <data x="1996" y="12.1" />
+          <data x="1997" y="12.5" />
+          <data x="1998" y="12.9" />
+          <data x="1999" y="12.9" />
+          <data x="2000" y="12.9" />
+          <data x="2001" y="12.9" />
+          <data x="2002" y="13.4" />
+          <data x="2003" y="13.1" />
+          <data x="2004" y="13.0" />
+          <data x="2005" y="13.0" />
+          <data x="2006" y="12.5" />
+          <data x="2007" y="11.7" />
+          <data x="2008" y="12.2" />
+          <data x="2009" y="12.9" />
+          <data x="2010" y="13.0" />
+          <data x="2011" y="12.9" />
+          <data x="2012" y="13.0" />
+          <data x="2013" y="13.0" />
+          <data x="2014" y="13.0" />
+          <data x="2015" y="13.1" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Employment" />
+        <keyword name="Millennials (1981–2000)" />
+      </keywords>
+      <sources>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <title>Born To Be Broke</title>
+      <abstract>
+        Being young was never easy… Especially when it comes to find a job.
+      </abstract>
+      <graph unit="%" x="date" y="number">
+        <title>US Unemployment Rate</title>
+        <dataset label="Workforce under 25">
+          <data x="1970" y="9.3" />
+          <data x="1975" y="15.1" />
+          <data x="1980" y="12.6" />
+          <data x="1985" y="7.3" />
+          <data x="1990" y="5.4" />
+          <data x="1995" y="12.9" />
+          <data x="2000" y="11.7" />
+          <data x="2005" y="4.1" />
+          <data x="2010" y="12.4" />
+          <data x="2015" y="18.7" />
+        </dataset>
+        <dataset label="All workforce">
+          <data x="1970" y="3.9" />
+          <data x="1975" y="8.1" />
+          <data x="1980" y="6.3" />
+          <data x="1985" y="7.3" />
+          <data x="1990" y="5.4" />
+          <data x="1995" y="5.5" />
+          <data x="2000" y="4.1" />
+          <data x="2005" y="5.4" />
+          <data x="2010" y="9.8" />
+          <data x="2015" y="5.5" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>Historically, unemployment rate of young workers tends to be a little more than twice the overall rate. This seem to be still true nowadays: in February 2016, the overall unemployment rate in the US was 4.9% and the unemployment rate of workers under age 25, at 10.5%, was 2.1 times as high.</paragraph>
+        <paragraph>What makes it even harder for Millennials is that they tend to be poorer than people of their age in the past. Entering the workforce in the greatest economic downturn in living memory, millennials earn much less than Generation X and might never close the gap.</paragraph>
+      </chapter>
+      <chapter>
+        <title>Comparing Generations: Income Distance from National Average</title>
+      </chapter>
+      <graph unit="%" x="date" y="number">
+        <title>US Generations (from 1979 to 2010)</title>
+        <dataset label="age 20-24">
+          <data x="1979" y="-10.13" />
+          <data x="1986" y="-23.30" />
+          <data x="1991" y="-28.62" />
+          <data x="1994" y="-29.45" />
+          <data x="1997" y="-28.75" />
+          <data x="2004" y="-28.85" />
+          <data x="2007" y="-27.23" />
+          <data x="2010" y="-31.53" />
+        </dataset>
+        <dataset label="age 25-29">
+          <data x="1979" y="0.57" />
+          <data x="1986" y="-3.89" />
+          <data x="1991" y="-4.30" />
+          <data x="1994" y="-6.62" />
+          <data x="1997" y="-6.74" />
+          <data x="2004" y="-7.87" />
+          <data x="2007" y="-5.21" />
+          <data x="2010" y="-7.14" />
+        </dataset>
+        <dataset label="age 30-34">
+          <data x="1979" y="3.63" />
+          <data x="1986" y="0.21" />
+          <data x="1991" y="-1.85" />
+          <data x="1994" y="0.47" />
+          <data x="1997" y="0.57" />
+          <data x="2004" y="1.08" />
+          <data x="2007" y="2.74" />
+          <data x="2010" y="1.43" />
+        </dataset>
+        <dataset label="age 35-39">
+          <data x="1979" y="7.69" />
+          <data x="1986" y="9.21" />
+          <data x="1991" y="8.42" />
+          <data x="1994" y="10.47" />
+          <data x="1997" y="5.72" />
+          <data x="2004" y="8.21" />
+          <data x="2007" y="10.64" />
+          <data x="2010" y="9.65" />
+        </dataset>
+        <dataset label="age 40-44">
+          <data x="1979" y="17.10" />
+          <data x="1986" y="22.59" />
+          <data x="1991" y="23.08" />
+          <data x="1994" y="21.09" />
+          <data x="1997" y="17.65" />
+          <data x="2004" y="18.30" />
+          <data x="2007" y="15.50" />
+          <data x="2010" y="16.27" />
+        </dataset>
+        <dataset label="age 45-49">
+          <data x="1979" y="27.87" />
+          <data x="1986" y="33.24" />
+          <data x="1991" y="38.33" />
+          <data x="1994" y="40.78" />
+          <data x="1997" y="32.48" />
+          <data x="2004" y="27.77" />
+          <data x="2007" y="23.52" />
+          <data x="2010" y="25.07" />
+        </dataset>
+        <dataset label="age 50-54">
+          <data x="1979" y="31.48" />
+          <data x="1986" y="35.52" />
+          <data x="1991" y="38.89" />
+          <data x="1994" y="45.31" />
+          <data x="1997" y="43.21" />
+          <data x="2004" y="38.45" />
+          <data x="2007" y="33.79" />
+          <data x="2010" y="32.66" />
+        </dataset>
+        <dataset label="age 55-59">
+          <data x="1979" y="30.02" />
+          <data x="1986" y="26.16" />
+          <data x="1991" y="31.80" />
+          <data x="1994" y="33.24" />
+          <data x="1997" y="34.99" />
+          <data x="2004" y="35.21" />
+          <data x="2007" y="36.99" />
+          <data x="2010" y="32.20" />
+        </dataset>
+        <dataset label="age 60-64">
+          <data x="1979" y="14.89" />
+          <data x="1986" y="17.93" />
+          <data x="1991" y="17.60" />
+          <data x="1994" y="16.97" />
+          <data x="1997" y="20.34" />
+          <data x="2004" y="20.26" />
+          <data x="2007" y="25.74" />
+          <data x="2010" y="28.94" />
+        </dataset>
+        <dataset label="age 65-69">
+          <data x="1979" y="-6.19" />
+          <data x="1986" y="5.56" />
+          <data x="1991" y="4.94" />
+          <data x="1994" y="5.05" />
+          <data x="1997" y="6.46" />
+          <data x="2004" y="3.58" />
+          <data x="2007" y="8.47" />
+          <data x="2010" y="16.91" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>The Big Apple’s Millennials make about 20% less than the generation before them, according to a report released by New York City comptroller Scott Stringer.</paragraph>
+      </chapter>
+      <graph unit="%" x="date" y="number">
+        <title>UK Generations (from 1979 to 2010)</title>
+        <dataset label="age 20-24">
+          <data x="1979" y="0.29" />
+          <data x="1986" y="3.99" />
+          <data x="1991" y="3.52" />
+          <data x="1994" y="-15.52" />
+          <data x="1995" y="-13.58" />
+          <data x="1999" y="-18.05" />
+          <data x="2004" y="-2.39" />
+          <data x="2007" y="-11.13" />
+          <data x="2010" y="-18.49" />
+        </dataset>
+        <dataset label="age 25-29">
+          <data x="1979" y="5.58" />
+          <data x="1986" y="3.29" />
+          <data x="1991" y="12.35" />
+          <data x="1994" y="8.78" />
+          <data x="1995" y="6.22" />
+          <data x="1999" y="15.04" />
+          <data x="2004" y="16.70" />
+          <data x="2007" y="21.19" />
+          <data x="2010" y="4.38" />
+        </dataset>
+        <dataset label="age 30-34">
+          <data x="1979" y="0" />
+          <data x="1986" y="0.66" />
+          <data x="1991" y="4.53" />
+          <data x="1994" y="3.90" />
+          <data x="1995" y="3.82" />
+          <data x="1999" y="9.08" />
+          <data x="2004" y="12.17" />
+          <data x="2007" y="14.86" />
+          <data x="2010" y="11.46" />
+        </dataset>
+        <dataset label="age 35-39">
+          <data x="1979" y="2.80" />
+          <data x="1986" y="9.44" />
+          <data x="1991" y="7.08" />
+          <data x="1994" y="6.11" />
+          <data x="1995" y="6.30" />
+          <data x="1999" y="10.28" />
+          <data x="2004" y="7.84" />
+          <data x="2007" y="8.34" />
+          <data x="2010" y="12.08" />
+        </dataset>
+        <dataset label="age 40-44">
+          <data x="1979" y="18.49" />
+          <data x="1986" y="20.84" />
+          <data x="1991" y="24.89" />
+          <data x="1994" y="23.41" />
+          <data x="1995" y="23.97" />
+          <data x="1999" y="16.39" />
+          <data x="2004" y="15.90" />
+          <data x="2007" y="16.54" />
+          <data x="2010" y="12.89" />
+        </dataset>
+        <dataset label="age 45-49">
+          <data x="1979" y="30.94" />
+          <data x="1986" y="30.62" />
+          <data x="1991" y="38.32" />
+          <data x="1994" y="40.21" />
+          <data x="1995" y="43.29" />
+          <data x="1999" y="36.37" />
+          <data x="2004" y="30.66" />
+          <data x="2007" y="25.29" />
+          <data x="2010" y="22.67" />
+        </dataset>
+        <dataset label="age 50-54">
+          <data x="1979" y="31.37" />
+          <data x="1986" y="36.86" />
+          <data x="1991" y="30.57" />
+          <data x="1994" y="37.33" />
+          <data x="1995" y="35.27" />
+          <data x="1999" y="38.50" />
+          <data x="2004" y="36.33" />
+          <data x="2007" y="32.21" />
+          <data x="2010" y="30.07" />
+        </dataset>
+        <dataset label="age 55-59">
+          <data x="1979" y="12.25" />
+          <data x="1986" y="18.42" />
+          <data x="1991" y="19.36" />
+          <data x="1994" y="18.69" />
+          <data x="1995" y="22.33" />
+          <data x="1999" y="19.99" />
+          <data x="2004" y="22.04" />
+          <data x="2007" y="22.53" />
+          <data x="2010" y="21.62" />
+        </dataset>
+        <dataset label="age 60-64">
+          <data x="1979" y="-7.20" />
+          <data x="1986" y="-2.20" />
+          <data x="1991" y="3.85" />
+          <data x="1994" y="-0.90" />
+          <data x="1995" y="-0.18" />
+          <data x="1999" y="-2.36" />
+          <data x="2004" y="1.32" />
+          <data x="2007" y="3.41" />
+          <data x="2010" y="10.52" />
+        </dataset>
+        <dataset label="age 65-69">
+          <data x="1979" y="-28.68" />
+          <data x="1986" y="-16.05" />
+          <data x="1991" y="-20.19" />
+          <data x="1994" y="-10.64" />
+          <data x="1995" y="-6.97" />
+          <data x="1999" y="-12.95" />
+          <data x="2004" y="-13.82" />
+          <data x="2007" y="-8.95" />
+          <data x="2010" y="-1.87" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>The income of the average 22- to 30-year-old remains stubbornly 8 per cent lower than it was in 2008, says the UK’s Institute for Fiscal Studies.</paragraph>
+      </chapter>
+      <graph unit="%" x="date" y="number">
+        <title>Australia Generations (from 1985 to 2010)</title>
+        <dataset label="age 20-24">
+          <data x="1985" y="3.89" />
+          <data x="1989" y="23.14" />
+          <data x="1995" y="16.23" />
+          <data x="2001" y="7.49" />
+          <data x="2003" y="8.81" />
+          <data x="2010" y="12.57" />
+        </dataset>
+        <dataset label="age 25-29">
+          <data x="1985" y="6.74" />
+          <data x="1989" y="14.04" />
+          <data x="1995" y="18.39" />
+          <data x="2001" y="24.46" />
+          <data x="2003" y="20.74" />
+          <data x="2010" y="26.73" />
+        </dataset>
+        <dataset label="age 30-34">
+          <data x="1985" y="-0.60" />
+          <data x="1989" y="-2.86" />
+          <data x="1995" y="-0.28" />
+          <data x="2001" y="6.40" />
+          <data x="2003" y="7.80" />
+          <data x="2010" y="14.54" />
+        </dataset>
+        <dataset label="age 35-39">
+          <data x="1985" y="2.83" />
+          <data x="1989" y="1.21" />
+          <data x="1995" y="-1.96" />
+          <data x="2001" y="-1.42" />
+          <data x="2003" y="-0.70" />
+          <data x="2010" y="3.84" />
+        </dataset>
+        <dataset label="age 40-44">
+          <data x="1985" y="15.87" />
+          <data x="1989" y="15.05" />
+          <data x="1995" y="13.74" />
+          <data x="2001" y="13.24" />
+          <data x="2003" y="7.38" />
+          <data x="2010" y="4.03" />
+        </dataset>
+        <dataset label="age 45-49">
+          <data x="1985" y="25.93" />
+          <data x="1989" y="32.04" />
+          <data x="1995" y="30.21" />
+          <data x="2001" y="28.62" />
+          <data x="2003" y="30.81" />
+          <data x="2010" y="20.06" />
+        </dataset>
+        <dataset label="age 50-54">
+          <data x="1985" y="33.32" />
+          <data x="1989" y="31.90" />
+          <data x="1995" y="34.23" />
+          <data x="2001" y="30.54" />
+          <data x="2003" y="36.84" />
+          <data x="2010" y="26.67" />
+        </dataset>
+        <dataset label="age 55-59">
+          <data x="1985" y="17.99" />
+          <data x="1989" y="16.47" />
+          <data x="1995" y="10.29" />
+          <data x="2001" y="14.21" />
+          <data x="2003" y="18.44" />
+          <data x="2010" y="20.35" />
+        </dataset>
+        <dataset label="age 60-64">
+          <data x="1985" y="-10.75" />
+          <data x="1989" y="-9.02" />
+          <data x="1995" y="-21.06" />
+          <data x="2001" y="-12.70" />
+          <data x="2003" y="-10.69" />
+          <data x="2010" y="-2.66" />
+        </dataset>
+        <dataset label="age 65-69">
+          <data x="1985" y="-33.43" />
+          <data x="1989" y="-29.63" />
+          <data x="1995" y="-26.02" />
+          <data x="2001" y="-30.87" />
+          <data x="2003" y="-27.27" />
+          <data x="2010" y="-27.11" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>Australia seems to be the place to be for Millennials, but the national youth unemployment rate, at 12.2% remains well above the levels before the global financial crisis of 2008.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Western Europe" />
+        <keyword name="Oceania" />
+        <keyword name="Employment" />
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Generation X (1965–1980)" />
+        <keyword name="Baby Boomers (1945–1964)" />
+        <keyword name="Silent Generation (1920–1944)" />
+        <keyword name="Working class" />
+        <keyword name="In poverty" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <title>US Labor Force by Generation</title>
+      <graph unit="m" x="date" y="number">
+        <dataset label="Millennials: born 1981 to 2000">
+          <data x="1995" y="0" />
+          <data x="2000" y="9" />
+          <data x="2005" y="23" />
+          <data x="2010" y="38" />
+          <data x="2015" y="53.5" />
+        </dataset>
+        <dataset label="Generation X: born 1965 to 1980">
+          <data x="1995" y="40" />
+          <data x="2000" y="50" />
+          <data x="2005" y="52" />
+          <data x="2010" y="52" />
+          <data x="2015" y="52.7" />
+        </dataset>
+        <dataset label="Baby Boomers: born 1946 to 1964">
+          <data x="1995" y="64" />
+          <data x="2000" y="63" />
+          <data x="2005" y="60" />
+          <data x="2010" y="54" />
+          <data x="2015" y="44.6" />
+        </dataset>
+        <dataset label="Silents: born 1928 to 1945">
+          <data x="1995" y="24" />
+          <data x="2000" y="18" />
+          <data x="2005" y="12" />
+          <data x="2010" y="7" />
+          <data x="2015" y="3.7" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Employment" />
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Generation X (1965–1980)" />
+        <keyword name="Baby Boomers (1945–1964)" />
+        <keyword name="Silent Generation (1920–1944)" />
+        <keyword name="Working class" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <title>Job Hopping</title>
+      <graph unit="" x="date" y="number">
+        <abstract>
+          Number of jobs switched in the first five years after graduation.
+        </abstract>
+        <dataset label="">
+          <data x="1986-1990" y="1.6" />
+          <data x="1991-1995" y="1.88" />
+          <data x="1996-2000" y="2.01" />
+          <data x="2001-1005" y="2.27" />
+          <data x="2006-2010" y="2.85" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>Analyzing 3 million US profiles, LinkedIn found that workers who graduated between 2006 and 2010 have switched jobs 2.85 times on average in the first five years they’ve been out of school. In contrast, the Gen Xers who graduated between 1986 and 1990 changed jobs 1.6 times over the same period in their lives.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Employment" />
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Working class" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <title>Worse Off Than Parents</title>
+      <abstract>
+        The vast majority of American workers expect to have less money at the end of their careers than their parents did ‒ and that fear is highest among 20-something Millennials. Some pundits have had the same fears, declaring that the generation may even be the first to wind up worse than their parents, with lower incomes, more debt and higher poverty rates.
+      </abstract>
+      <chapter>
+        <title>Save Us Bernie!</title>
+        <paragraph>Bernie Sanders was defeated in New York last week and his chances of winning the Democratic nomination are dwindling. Despite that, the poll of Americans between the ages of 18 and 29 finds that Sanders is by far the most popular presidential candidate among the youngest voters.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Employment" />
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Generation X (1965–1980" />
+        <keyword name="Baby Boomers (1945–1964)" />
+        <keyword name="Working class" />
+        <keyword name="In poverty" />
+        <keyword name="US Elections" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <title>Who are Millennials?</title>
+      <abstract>
+        Millennials are currently aged 20-35, or born between 1980 and the end of 1994 (with some more generous definitions taking in those born up to 2000). They are the first generation of adults (or almost adults) that has familiarity with technology, thanks to a deep knowledge of internet world and digital communication's codes.
+      </abstract>
+      <keywords>
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Tech" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <title>Your Tech Allies</title>
+      <abstract>
+        The Millennial Generation has a different relationship with money. We’ve lost the ability to open up our wallets and see how much money we have left. The financial environment has changed. The tools that we use to manage money personally have changed. Here is some useful apps and resources that can help you orientate in this financial jungle!
+      </abstract>
+      <chapter>
+        <paragraph>
+          <list type="unordered">
+            <item>EDO. know what you eat: discover what is best for you.</item>
+            <item>RUNTASTIC. Keep track of your activities and follow your progress.</item>
+            <item>BRIGADE. You have a voice! The social network made to facilitate political discussion.</item>
+            <item>BANKRATE. Compares costs before you open up an bank account.</item>
+            <item>WALLY. Checks your income for expenses and understand where the money goes.</item>
+            <item>ACORNS. Automatically invests your chump change through purchases.</item>
+            <item>DOLLARBIRD. Adds your income and expenses into your calendar and calculates the balance.</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Tech" />
+        <keyword name="Income and Pensions" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <title>The Struggle is Real</title>
+      <abstract>
+        In “The Role of Time Preferences and Exponential-Growth Bias in Retirement Savings” researchers explored two psychological tendencies that may lead people to save insufficiently for retirement. To estimate the prevalence of these two biases, the authors use data from two online surveys, the RAND American Life Panel and the Understanding America Study. These were the results.
+      </abstract>
+      <chapter>
+        <title>Present Bias</title>
+        <paragraph>The tendency, in evaluating a tradeoff between 2 future options, to give stronger weight to the earlier option as it gets closer.</paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label="">
+          <data x="Present biased" y="55" />
+          <data x="Non-present biased" y="45" />
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Exponential-growth Bias</title>
+        <paragraph>A perceptual bias that relates to an individual's understanding of compound interest.</paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label="">
+          <data x="Perceives growth to be linear" y="28.5" />
+          <data x="Understand compounding, but understimates growth" y="41" />
+          <data x="Understand compounding, but overstimates growth" y="8.5" />
+          <data x="Correctly estimates" y="22" />
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Exponential Growth for Dummies</title>
+        <paragraph>If you’re 20 today, and put $1 aside, and it earns the historical 6.6% return (inflation-adjusted) that the Standard and Poor’s 500-stock index has captured, by the time you’re 65, that dollar will have become $18.50. You do the math.</paragraph>
+        <paragraph>Value of $1 by age 65 starting saving at different ages.</paragraph>
+      </chapter>
+      <graph unit="$" x="string" y="number">
+        <dataset label="">
+          <data x="20 y/o" y="17.50" />
+          <data x="21 y/o" y="16.60" />
+          <data x="22 y/o" y="15.60" />
+          <data x="23 y/o" y="14.60" />
+          <data x="24 y/o" y="13.70" />
+          <data x="25 y/o" y="12.90" />
+          <data x="26 y/o" y="12.10" />
+          <data x="27 y/o" y="11.35" />
+          <data x="28 y/o" y="10.65" />
+          <data x="29 y/o" y="10.00" />
+          <data x="30 y/o" y="9.35" />
+          <data x="31 y/o" y="8.80" />
+          <data x="32 y/o" y="8.25" />
+          <data x="33 y/o" y="7.73" />
+          <data x="34 y/o" y="7.25" />
+          <data x="35 y/o" y="6.80" />
+          <data x="36 y/o" y="6.40" />
+          <data x="37 y/o" y="6.00" />
+          <data x="38 y/o" y="5.60" />
+          <data x="39 y/o" y="5.25" />
+          <data x="40 y/o" y="4.95" />
+          <data x="41 y/o" y="4.60" />
+          <data x="42 y/o" y="4.35" />
+          <data x="43 y/o" y="4.10" />
+          <data x="44 y/o" y="3.82" />
+          <data x="45 y/o" y="3.60" />
+          <data x="46 y/o" y="3.36" />
+          <data x="47 y/o" y="3.15" />
+          <data x="48 y/o" y="3.00" />
+          <data x="49 y/o" y="2.80" />
+          <data x="50 y/o" y="2.60" />
+          <data x="51 y/o" y="2.50" />
+          <data x="52 y/o" y="2.30" />
+          <data x="53 y/o" y="2.15" />
+          <data x="54 y/o" y="2.00" />
+          <data x="55 y/o" y="1.90" />
+          <data x="56 y/o" y="1.8" />
+          <data x="57 y/o" y="1.60" />
+          <data x="58 y/o" y="1.50" />
+          <data x="59 y/o" y="1.40" />
+          <data x="60 y/o" y="1.30" />
+          <data x="61 y/o" y="1.25" />
+          <data x="62 y/o" y="1.20" />
+          <data x="63 y/o" y="1.50" />
+          <data x="64 y/o" y="1.00" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Income and Pensions" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <title>Access, Not Ownership</title>
+      <abstract>
+        It’s not just homes: Millennials have been reluctant to buy items such as cars, music and luxury goods. Instead, they’re turning to a new set of services that provide access to products without the burdens of ownership, giving rise to the so-called sharing economy.
+      </abstract>
+      <chapter>
+        <title>Purchasing House</title>
+        <paragraph>
+          <list type="unordered">
+            <item>A. I might purchase one if I really need it.</item>
+            <item>B. Do not intend to purchase in near future.</item>
+            <item>C. Important, but not a big priority.</item>
+            <item>D. Extremely important.</item>
+            <item>E. I do not feel strongly about it.</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label="">
+          <data x="A" y="7" />
+          <data x="B" y="15" />
+          <data x="C" y="30" />
+          <data x="D" y="40" />
+          <data x="E" y="8" />
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Purchasing Car</title>
+        <paragraph>
+          <list type="unordered">
+            <item>F. I do not intend to purchase one in near future.</item>
+            <item>G. Important, but not a big priority.</item>
+            <item>H. I do not feel strongly about it.</item>
+            <item>I. I might purchase one if I really need it.</item>
+            <item>J. Extremely important.</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label="">
+          <data x="F" y="30" />
+          <data x="G" y="25" />
+          <data x="H" y="5" />
+          <data x="I" y="25" />
+          <data x="J" y="15" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Sharing Economy" />
+        <keyword name="Housing and Real Estate" />
+        <keyword name="Transportation" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <quote>
+        <author>Jeremy Rifkin, author and economist</author>
+        <text>25 years from now, car sharing will be the norm, and car ownership an anomaly.</text>
+      </quote>
+      <keywords>
+        <keyword name="Sharing Economy" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <title>Young Spenders: the YOLO Lifestyle</title>
+      <abstract>
+        Millennials are prioritizing short-term spending over long-term saving. In US younger consumers punched above their weight class in the final months of 2015 fueling a 2.35% increase in year-over-year spending in December, according to data released by the J.P. Morgan Chase and Co. Institute.
+      </abstract>
+      <graph unit="%" x="date" y="number">
+        <abstract>
+          Percentage-point contributions to the year-over-year change in consumer spending by age and overall percent change.
+        </abstract>
+        <dataset label="Millennials">
+          <data x="20150131" y="2.2" />
+          <data x="20150228" y="1.9" />
+          <data x="20150331" y="1.4" />
+          <data x="20150430" y="1.7" />
+          <data x="20150531" y="1.8" />
+          <data x="20150630" y="1.6" />
+          <data x="20150731" y="2.1" />
+          <data x="20150831" y="11" />
+          <data x="20150930" y="1.4" />
+          <data x="20151031" y="2.0" />
+          <data x="20151130" y="1.2" />
+          <data x="20151231" y="1.9" />
+        </dataset>
+        <dataset label="age 34-35">
+          <data x="20150131" y="3.0" />
+          <data x="20150228" y="2.1" />
+          <data x="20150331" y="-0.2" />
+          <data x="20150430" y="1.9" />
+          <data x="20150531" y="2.1" />
+          <data x="20150630" y="1.8" />
+          <data x="20150731" y="2.6" />
+          <data x="20150831" y="" />
+          <data x="20150930" y="1.5" />
+          <data x="20151031" y="2.6" />
+          <data x="20151130" y="1.3" />
+          <data x="20151231" y="2.5" />
+        </dataset>
+        <dataset label="age 45-54">
+          <data x="20150131" y="3.7" />
+          <data x="20150228" y="-0.1" />
+          <data x="20150331" y="-0.4" />
+          <data x="20150430" y="-0.2" />
+          <data x="20150531" y="-0.1" />
+          <data x="20150630" y="-0.1" />
+          <data x="20150731" y="-0.2" />
+          <data x="20150831" y="-0.2" />
+          <data x="20150930" y="-0.1" />
+          <data x="20151031" y="3.0" />
+          <data x="20151130" y="-0.1" />
+          <data x="20151231" y="-0.1" />
+        </dataset>
+        <dataset label="age 55-64">
+          <data x="20150131" y="4.0" />
+          <data x="20150228" y="-0.4" />
+          <data x="20150331" y="-0.9" />
+          <data x="20150430" y="-0,7" />
+          <data x="20150531" y="-0.6" />
+          <data x="20150630" y="-0.5" />
+          <data x="20150731" y="-0.2" />
+          <data x="20150831" y="-0.9" />
+          <data x="20150930" y="-0.4" />
+          <data x="20151031" y="" />
+          <data x="20151130" y="-0.5" />
+          <data x="20151231" y="-0.1" />
+        </dataset>
+        <dataset label="age 65 and over">
+          <data x="20150131" y="-0.3" />
+          <data x="20150228" y="-0.8" />
+          <data x="20150331" y="-1.3" />
+          <data x="20150430" y="-1.6" />
+          <data x="20150531" y="-1.5" />
+          <data x="20150630" y="-1.1" />
+          <data x="20150731" y="-0.8" />
+          <data x="20150831" y="-1.8" />
+          <data x="20150930" y="-1.1" />
+          <data x="20151031" y="-0.5" />
+          <data x="20151130" y="-1.0" />
+          <data x="20151231" y="-0.6" />
+        </dataset>
+        <dataset label="Overall percent change">
+          <data x="20150131" y="3.7" />
+          <data x="20150228" y="1.2" />
+          <data x="20150331" y="0.1" />
+          <data x="20150430" y="0.4" />
+          <data x="20150531" y="0.7" />
+          <data x="20150630" y="0.6" />
+          <data x="20150731" y="2.2" />
+          <data x="20150831" y="-0.6" />
+          <data x="20150930" y="0.4" />
+          <data x="20151031" y="2.5" />
+          <data x="20151130" y="3.0" />
+          <data x="20151231" y="2.3" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Generation X (1965–1980)" />
+        <keyword name="Baby Boomers (1945–1964)" />
+        <keyword name="Silent Generation (1920–1944)" />
+        <keyword name="Income and Pensions" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <title>Rent Is Too Damn High</title>
+      <abstract>
+        The cost of living is climbing, led by rental costs, which hit records in many American cities last year. On average, millennials who rent nationwide would have had to spend 30% of their monthly income to their landlords, according to a Zillow survey, with figures going as high as 47% in San Francisco, 45% in Miami and 41% in New York.
+      </abstract>
+      <graph unit="%" x="string" y="number">
+        <abstract>
+          Percentage of monthly income spent on rent.
+        </abstract>
+        <dataset label="">
+          <data x="Los Angeles" y="2.2" />
+          <data x="Miami" y="44.5" />
+          <data x="New York" y="41.3" />
+          <data x="Denver" y="35.0" />
+          <data x="Boston" y="34.4" />
+          <data x="Portland" y="32.1" />
+          <data x="Austin" y="31.6" />
+          <data x="Seattle" y="31.6" />
+          <data x="Chicago" y="30.8" />
+          <data x="Philadelphia" y="30.8" />
+          <data x="US average" y="30.2" />
+          <data x="Baltimore" y="29.3" />
+          <data x="Phoenix" y="28.1" />
+          <data x="Cleveland" y="27.1" />
+          <data x="Las Vegas" y="27.1" />
+          <data x="Charlotte" y="26.8" />
+          <data x="Washington D.C." y="26.8" />
+          <data x="Indianapolis" y="26.0" />
+          <data x="Atlanta" y="25.8" />
+          <data x="Minneapolis" y="25.6" />
+          <data x="Kansas City" y="25.5" />
+          <data x="Detroit" y="25.3" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Housing and Real Estate" />
+        <keyword name="Income and Pensions" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <title>Holidays are Better than Pensions</title>
+      <quote>
+        <author>A reasonably-paid Millennial</author>
+        <text>It’s almost impossible to save for a house in London so I might as well just spend my money travelling the world.</text>
+      </quote>
+      <chapter>
+        <paragraph>This is a common reaction ‒ and it is holidays in particular that Millennials will splurge on. A survey from Eventbrite found that 78% of Millennials would prefer to spend their money on an “experience” - such as a holiday - over something tangible that they could own.</paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label="">
+          <data x="Millennials who prefer to spend their money on an “experience”" y="78" />
+          <data x="Millennials who don't" y="22" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Income and Pensions" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <title>Owning a Dream Home Is Just a Dream</title>
+      <chapter>
+        <paragraph>In many countries, unlike their parents did at this age, more than a quarter of Millennials live at home with mum and dad.</paragraph>
+      </chapter>
+      <quote>
+        <author>Stephen Melman, the NAHB's director of economic services.</author>
+        <text>We call it the "Great Delay".</text>
+      </quote>
+      <chapter>
+        <paragraph>Following, the percentage of Millennials (currently aged 20-34) who live at home, U.K. / U.S.</paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label="UK">
+          <data x="Millennials who live at home" y="25.4" />
+          <data x="Millennials who don't" y="74.6" />
+        </dataset>
+      </graph>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label="US">
+          <data x="Millennials who live at home" y="20" />
+          <data x="Millennials who don't" y="80" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Housing and Real Estate" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+  </sections>
+</bulletin>

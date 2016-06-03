@@ -12,10 +12,11 @@
 
   <section>
     <title>Germany lays the foundations for a new debt crisis in Europe</title>
-    <abstract>
-      It’s astonishing to see Germany take active steps to wreck the Eurozone.
-      So, now we see which are this proposals from germany e euro survival.
-    </abstract>
+    <quote>
+        <author>Yves Smith</author>
+        <text>It’s astonishing to see Germany take active steps to wreck the Eurozone.
+        So, now we see which are this proposals from germany e euro survival.</text>
+    </quote>
     <chapter>
       <paragraph> In recent weeks, Germany has put forward two proposals for the ‘future viability’ of the
         EMU that, if approved, would radically alter the nature of the currency union. For the worse.
@@ -101,12 +102,13 @@
   </section>
 
   <section>
+    <title>A little overview on italian's debt</title>
     <graph unit="EUR" x="​string" y="number">
       <title>Debt/banking situation in Italy</title>
       <abstract>Total amount of italian debt is 2169 billions €</abstract>
       <dataset label="Italian debt quota">
-        <data x="italian banks" y="400000000000"/>
-        <data x="other investors" y="1769000000000"/>
+        <data x="italian banks" y="400,000,000,000"/>
+        <data x="other investors" y="1,769,000,000,000"/>
       </dataset>
     </graph>
     <keywords>
@@ -123,6 +125,30 @@
       <source>La Repubblica</source>
     </sources>
   </section>
+
+<section>
+  <quote>
+      <author>Yves Smith</author>
+      <text>
+        Boris Johnson, Mayor of London, dropped an EU referendum bombshell by announcing he will campaign
+        for Britain’s exit, where UK will vote to decide if stay or leave Europe. Johnson’s declaration,
+        because of his great influence is now having a big impact on britannic population.
+      </text>
+  </quote>
+  <keywords>
+    <keyword name="Brexit/Grexit" />
+    <keyword name="Migration" />
+    <keyword name="Eastern Europe" />
+  </keywords>
+  <sources>
+    <source>Wikipedia.org</source>
+    <source>Nakedcapitalism.com</source>
+    <source>Valuewalk.com</source>
+    <source>WhatUkthinks.com</source>
+    <source>Marketwatch.com</source>
+    <source>La Repubblica</source>
+  </sources>
+</section>
 
 <section>
   <title>What about “Brexit”?</title>

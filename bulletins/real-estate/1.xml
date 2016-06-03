@@ -7,11 +7,11 @@
     <author>Giulia Serafin</author>
   </authors>
   <bulletin id="1" date="20160303">
-    <title>"Weekly hot spots"</title>
+    <title>Weekly hot spots</title>
     <sections>
       <section>
-        <title>"1.NEW YORK - USA"</title>
-        <subtitle>"Missed opportunity"</subtitle>
+        <title>1.NEW YORK - USA</title>
+        <subtitle>Missed opportunity</subtitle>
         <chapter>
           <title>03.01.2016-SUPER TUESDAY
           </title>
@@ -30,15 +30,15 @@
         </sources>
       </section>
       <section>
-        <title>"2.ENGLAND - UK"</title>
-        <subtitle>"Open eyes over mortgages"</subtitle>
+        <title>2.ENGLAND - UK</title>
+        <subtitle>Open eyes over mortgages</subtitle>
         <chapter>
           <paragraph>BANK OF ENGLAND</paragraph>
           <paragraph>England is collecting information about recent mortgages in order to  avoid housing boom and bust. “How to tame one area without toppling the whole structure of the real estate sistem?”
           </paragraph>
         </chapter>
         <graph unit="K" x="date" y="number">
-          <title>"UK mortgage approvals"</title>
+          <title>UK mortgage approvals</title>
           <abstract>The data show that there has been a steady rising in mortgage approvals from 2011 to 2015.</abstract>
           <data x="2008" y="35"/>
           <data x="2009" y="50"/>
@@ -58,8 +58,8 @@
           </sources>
       </section>
       <section>
-        <title>"3.ITALY"</title>
-        <subtitle>"New mortgage reform"</subtitle>
+        <title>3.ITALY</title>
+        <subtitle>New mortgage reform</subtitle>
         <chapter>
           <title>ITALIAN CHALLENGE</title>
           <paragraph>The new request by Europe create controversy in Italy, clashing with the italian civil code. After 18 unpaid rates, banks are allowed to distrain the property.
@@ -74,7 +74,7 @@
         </sources>
       </section>
       <section>
-        <title>"4.SAUDI ARABIA"</title>
+        <title>4.SAUDI ARABIA</title>
         <subtitle>A bad example</subtitle>
         <chapter>
           <title>THE BIG MISTAKE OF BANKS</title>
@@ -86,11 +86,11 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>“Saudi Arabia loosens mortgage rules after home sales wane”</source>
+          <source>Saudi Arabia loosens mortgage rules after home sales wane</source>
         </sources>
       </section>
       <section>
-        <title>"5.SHANGAI - CHINA"</title>
+        <title>5.SHANGAI - CHINA</title>
         <subtitle>Good news</subtitle>
         <chapter>
           <title>4% BEST DAY IN 4 MONTHS</title>
@@ -108,11 +108,11 @@
     </sections>
   </bulletin>
   <bulletin id="1" date="20160303">
-    <title>"Where american live"</title>
+    <title>Where american live</title>
     <sections>
       <section>
-        <title>"Where everybody wants to live"</title>
-        <subtitle>"San Francisco real estate as before dot-com crash"</subtitle>
+        <title>Where everybody wants to live</title>
+        <subtitle>San Francisco real estate as before dot-com crash</subtitle>
         <chapter>
           <paragraph>boom median value of homes</paragraph>
           <paragraph>
@@ -121,7 +121,7 @@
               <item>$ 1,12 million (2016)</item>
             </list>
           </paragraph>
-          <paragraph>property value + rent cost on watch list for a correction
+          <paragraph>property value + rent cost on watch list for a correction.
           </paragraph>
           <paragraph>
             <list type="unordered">
@@ -145,10 +145,10 @@
         </sources>
       </section>
       <section>
-        <title>"Where nobody lives"</title>
-        <subtitle>"US new ghost cities"</subtitle>
+        <title>Where nobody lives</title>
+        <subtitle>US new ghost cities</subtitle>
         <chapter>
-          <paragraph>The decline of american manufactory industry makes 147 metropolitan areas underpopulated:Flint, Detroit, Youngstown, Atlantic City, Beaumont
+          <paragraph>The decline of american manufactory industry makes 147 metropolitan areas underpopulated:Flint, Detroit, Youngstown, Atlantic City, Beaumont.
           </paragraph>
         </chapter>
         <keywords>
@@ -164,10 +164,10 @@
         </sources>
       </section>
       <section>
-        <title>"Where to go"</title>
-        <subtitle>"Sceening cities"</subtitle>
+        <title>Where to go</title>
+        <subtitle>Sceening cities</subtitle>
         <chapter>
-          <paragraph>five places that could grow if people move there. Comparing grow and prosperity report, 100 biggest metro areas, 2015 affordability index and jobs quality. As a result you get five cities: Cincinnati, Pittsburgh, Columbus, Omaha, Minneapolis
+          <paragraph>Five places that could grow if people move there. Comparing grow and prosperity report, 100 biggest metro areas, 2015 affordability index and jobs quality. As a result you get five cities: Cincinnati, Pittsburgh, Columbus, Omaha, Minneapolis.
           </paragraph>
         </chapter>
         <keywords>
@@ -183,8 +183,8 @@
         </sources>
       </section>
       <section>
-        <title>"Where a few can live"</title>
-        <subtitle>"Manhattan luxury reality market"</subtitle>
+        <title>Where a few can live</title>
+        <subtitle>Manhattan luxury reality market</subtitle>
         <chapter>
           <paragraph>There is a slowdown: house contract dropped from 214 (in 2015) to 150 (in 2016). The new trend is to break penthouses into smaller accomodations.
           </paragraph>
@@ -192,7 +192,7 @@
           </paragraph>
         </chapter>
         <graph unit="Person/sq m" x="city" y="number">
-          <title>"Comparing population density"</title>
+          <title>Comparing population density</title>
           <abstract>In the coastal areas the density of population is higher.</abstract>
           <dataset label="Density">
             <data x="San Francisco" y="17,3"/>
@@ -215,7 +215,7 @@
       </section>
       <section>
         <graph unit="K$" x="city" y="number">
-          <title>"Comparing household median income"</title>
+          <title>Comparing household median income</title>
           <abstract>In the coastal areas the household median income is higher.</abstract>
           <dataset label="Median income">
             <data x="San Francisco" y="78"/>

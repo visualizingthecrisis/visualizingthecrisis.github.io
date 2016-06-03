@@ -20,11 +20,12 @@
           also there are some reasons to hope that the economy will pick up altitude, a “pre-crisis flight path” of
           robust growth is not likely.
         </paragraph>
-        <paragraph>
-          Standard and Poor's Chief European Economist Jean-Michel Six says that europe must balance out export trade
-          slowdown with domestic consumption growth. The risk is zero growth for european economy in 2017.
-        </paragraph>
       </chapter>
+      <quote>
+        <author>Jean-Michel Six</author>
+        <text>Standard and Poor's Chief European Economist Jean-Michel Six says that europe must balance out export trade
+        slowdown with domestic consumption growth. The risk is zero growth for european economy in 2017.</text>
+      </quote>
       <graph unit="%" x="country" y="number">
         <title>Standard and Poor’s forecasts</title>
         <dataset label="November 2015">
@@ -90,16 +91,16 @@
         <graph unit="USD" x="country" y="number">
           <title>The countries hardest hitten by Russia’s trade ban, in $ million</title>
           <dataset label="Value of losses">
-            <data x="PL" y="1090000000"/>
-            <data x="NO" y="1080000000"/>
-            <data x="NL" y="820000000"/>
-            <data x="ES" y="780000000"/>
-            <data x="US" y="670000000"/>
-            <data x="DE" y="620000000"/>
-            <data x="DK" y="510000000"/>
-            <data x="FR" y="380000000"/>
-            <data x="CA" y="370000000"/>
-            <data x="FI" y="360000000"/>
+            <data x="PL" y="1,090,000,000"/>
+            <data x="NO" y="1,080,000,000"/>
+            <data x="NL" y="820,000,000"/>
+            <data x="ES" y="780,000,000"/>
+            <data x="US" y="670,000,000"/>
+            <data x="DE" y="620,000,000"/>
+            <data x="DK" y="510,000,000"/>
+            <data x="FR" y="380,000,000"/>
+            <data x="CA" y="370,000,000"/>
+            <data x="FI" y="360,000,000"/>
           </dataset>
         </graph>
         <keywords>
@@ -251,15 +252,18 @@
       </section>
 
       <section>
-        <title>Deficit emercency in UK</title>
+        <title>UK data are worrying</title>
+        <quote>
+        <author>Jean-Michel Six</author>
+        <text>The ONS has just announced the highest Current Account deficit on record for the British economy,
+        at 5.2% of annual GDP (7.0% in the last quarter of 2015).</text>
+      </quote>
           <chapter>
             <paragraph>
-              The ONS has just announced the highest Current Account deficit on record for the British economy,
-              at 5.2% of annual GDP (7.0% in the last quarter of 2015). The argument is that as the British
-              economy recovers faster than its neighbours economies, Britain’s income from overseas investments
-              declined while foreigners income taken from the UK improved. This weighs negatively on GNP and
-              widens the Current Account gap. Also, the Balance of Trade has a negative value because goods
-              imported are higher than gods exported.
+              The argument is that as the British economy recovers faster than its neighbours economies,
+              Britain’s income from overseas investments declined while foreigners income taken from the UK
+              improved. This weighs negatively on GNP and widens the Current Account gap. Also, the Balance
+              of Trade has a negative value because goods imported are higher than gods exported.
             </paragraph>
           </chapter>
           <chapter>
@@ -275,9 +279,9 @@
             <graph unit="USD" x="string" y="number">
               <title>UK import/export value in £ billion</title>
               <dataset label="Values">
-                <data x="Import" y="44845000000000"/>
-                <data x="Export" y="41386000000000"/>
-                <data x="Deficit" y="-2105000000000"/>
+                <data x="Import" y="44,845,000,000,000"/>
+                <data x="Export" y="41,386,000,000,000"/>
+                <data x="Deficit" y="-2,105,000,000,000"/>
               </dataset>
             </graph>
             <keywords>
@@ -323,56 +327,56 @@
                   <data x="1964" y="0"/>
                   <data x="1965" y="0"/>
                   <data x="1966" y="0"/>
-                  <data x="1967" y="500000000000"/>
-                  <data x="1968" y="-500000000000"/>
+                  <data x="1967" y="500,000,000,000"/>
+                  <data x="1968" y="-500,000,000,000"/>
                   <data x="1969" y="0"/>
                   <data x="1970" y="0"/>
-                  <data x="1971" y="-500000000000"/>
+                  <data x="1971" y="-500,000,000,000"/>
                   <data x="1972" y="0"/>
-                  <data x="1973" y="-500000000000"/>
-                  <data x="1974" y="-1000000000000"/>
-                  <data x="1975" y="-1000000000000"/>
+                  <data x="1973" y="-500,000,000,000"/>
+                  <data x="1974" y="-100,000,000,0000"/>
+                  <data x="1975" y="-100,000,000,0000"/>
                   <data x="1976" y="0"/>
-                  <data x="1977" y="-1000000000000"/>
+                  <data x="1977" y="-100,000,000,0000"/>
                   <data x="1978" y="0"/>
                   <data x="1979" y="0"/>
-                  <data x="1980" y="-1000000000000"/>
-                  <data x="1981" y="3000000000000"/>
+                  <data x="1980" y="-1,000,000,000,000"/>
+                  <data x="1981" y="3,000,000,000,000"/>
                   <data x="1982" y="0"/>
-                  <data x="1983" y="1000000000000"/>
+                  <data x="1983" y="1,000,000,000,000"/>
                   <data x="1984" y="500"/>
-                  <data x="1985" y="-1000000000000"/>
+                  <data x="1985" y="-1000,000,000,000"/>
                   <data x="1986" y="0"/>
                   <data x="1987" y="0"/>
-                  <data x="1988" y="-4000000000000"/>
-                  <data x="1989" y="-6000000000000"/>
-                  <data x="1990" y="-7000000000000"/>
-                  <data x="1991" y="-4000000000000"/>
-                  <data x="1992" y="-2000000000000"/>
-                  <data x="1993" y="-3000000000000"/>
-                  <data x="1994" y="-2000000000000"/>
-                  <data x="1995" y="1000000000000"/>
-                  <data x="1996" y="-2000000000000"/>
-                  <data x="1997" y="-1000000000000"/>
-                  <data x="1998" y="-1000000000000"/>
-                  <data x="1999" y="1000000000000"/>
-                  <data x="2000" y="-7000000000000"/>
-                  <data x="2001" y="-5000000000000"/>
-                  <data x="2002" y="-7000000000000"/>
-                  <data x="2003" y="-4000000000000"/>
-                  <data x="2004" y="-7000000000000"/>
-                  <data x="2005" y="-9000000000000"/>
-                  <data x="2006" y="-1000000000000"/>
-                  <data x="2007" y="-12000000000000"/>
-                  <data x="2008" y="-6000000000000"/>
-                  <data x="2009" y="-18000000000000"/>
-                  <data x="2010" y="-6000000000000"/>
-                  <data x="2011" y="-14000000000000"/>
-                  <data x="2012" y="-1000000000000"/>
-                  <data x="2013" y="-18000000000000"/>
-                  <data x="2014" y="-13000000000000"/>
-                  <data x="2015" y="27000000000000"/>
-                  <data x="2016" y="-23000000000000"/>
+                  <data x="1988" y="-4,000,000,000,000"/>
+                  <data x="1989" y="-6,000,000,000,000"/>
+                  <data x="1990" y="-7,000,000,000,000"/>
+                  <data x="1991" y="-4,000,000,000,000"/>
+                  <data x="1992" y="-2,000,000,000,000"/>
+                  <data x="1993" y="-3,000,000,000,000"/>
+                  <data x="1994" y="-2,000,000,000,000"/>
+                  <data x="1995" y="1,000,000,000,000"/>
+                  <data x="1996" y="-2,000,000,000,000"/>
+                  <data x="1997" y="-1,000,000,000,000"/>
+                  <data x="1998" y="-1,000,000,000,000"/>
+                  <data x="1999" y="1,000,000,000,000"/>
+                  <data x="2000" y="-7,000,000,000,000"/>
+                  <data x="2001" y="-5,000,000,000,000"/>
+                  <data x="2002" y="-7,000,000,000,000"/>
+                  <data x="2003" y="-4,000,000,000,000"/>
+                  <data x="2004" y="-7,000,000,000,000"/>
+                  <data x="2005" y="-9,000,000,000,000"/>
+                  <data x="2006" y="-1,000,000,000"/>
+                  <data x="2007" y="-12,000,000,000,000"/>
+                  <data x="2008" y="-6,000,000,000,000"/>
+                  <data x="2009" y="-18,000,000,000,000"/>
+                  <data x="2010" y="-6,000,000,000,000"/>
+                  <data x="2011" y="-14,000,000,000,000"/>
+                  <data x="2012" y="-1,000,000,000,000"/>
+                  <data x="2013" y="-18,000,000,000,000"/>
+                  <data x="2014" y="-13,000,000,000,000"/>
+                  <data x="2015" y="27,000,000,000,000"/>
+                  <data x="2016" y="-23,000,000,000,000"/>
                 </dataset>
                 <dataset label="UK balance of trade value">
                   <data x="1960" y="0"/>
@@ -380,58 +384,58 @@
                   <data x="1962" y="0"/>
                   <data x="1963" y="0"/>
                   <data x="1964" y="0"/>
-                  <data x="1965" y="-200000000000"/>
-                  <data x="1966" y="-200000000000"/>
+                  <data x="1965" y="-200,000,000,000"/>
+                  <data x="1966" y="-200,000,000,000"/>
                   <data x="1967" y="0"/>
-                  <data x="1968" y="-400000000000"/>
+                  <data x="1968" y="-400,000,000,000"/>
                   <data x="1969" y="0"/>
                   <data x="1970" y="0"/>
-                  <data x="1971" y="200000000000"/>
-                  <data x="1972" y="200000000000"/>
+                  <data x="1971" y="200,000,000,000"/>
+                  <data x="1972" y="200,000,000,000"/>
                   <data x="1973" y="0"/>
-                  <data x="1974" y="-400000000000"/>
-                  <data x="1975" y="-1200000000000"/>
+                  <data x="1974" y="-400,000,000,000"/>
+                  <data x="1975" y="-1,200,000,000,000"/>
                   <data x="1976" y="0"/>
-                  <data x="1977" y="-400000000000"/>
-                  <data x="1978" y="600000000000"/>
-                  <data x="1979" y="800000000000"/>
-                  <data x="1980" y="-200000000000"/>
-                  <data x="1981" y="600000000000"/>
-                  <data x="1982" y="2000000000000"/>
-                  <data x="1983" y="1200000000000"/>
-                  <data x="1984" y="800000000000"/>
+                  <data x="1977" y="-400,000,000,000"/>
+                  <data x="1978" y="600,000,000,000"/>
+                  <data x="1979" y="800,000,000,000"/>
+                  <data x="1980" y="-200,000,000,000"/>
+                  <data x="1981" y="600,000,000,000"/>
+                  <data x="1982" y="2,000,000,000,000"/>
+                  <data x="1983" y="1,200,000,000,000"/>
+                  <data x="1984" y="800,000,000,000"/>
                   <data x="1985" y="0"/>
-                  <data x="1986" y="1800000000000"/>
-                  <data x="1987" y="-1000000000000"/>
-                  <data x="1988" y="200000000000"/>
-                  <data x="1989" y="-5200000000000"/>
-                  <data x="1990" y="-5000000000000"/>
-                  <data x="1991" y="-2400000000000"/>
-                  <data x="1992" y="-800000000000"/>
+                  <data x="1986" y="1,800,000,000,000"/>
+                  <data x="1987" y="-1,000,000,000,000"/>
+                  <data x="1988" y="200,000,000,000"/>
+                  <data x="1989" y="-5,200,000,000,000"/>
+                  <data x="1990" y="-5,000,000,000,000"/>
+                  <data x="1991" y="-2,400,000,000,000"/>
+                  <data x="1992" y="-800,000,000,000"/>
                   <data x="1993" y="0"/>
-                  <data x="1994" y="-600000000000"/>
-                  <data x="1995" y="800000000000"/>
-                  <data x="1996" y="-600000000000"/>
-                  <data x="1997" y="1000000000000"/>
-                  <data x="1998" y="600000000000"/>
-                  <data x="1999" y="-1000000000000"/>
-                  <data x="2000" y="-2000000000000"/>
-                  <data x="2001" y="-1400000000000"/>
-                  <data x="2002" y="-3000000000000"/>
-                  <data x="2003" y="-2000000000000"/>
-                  <data x="2004" y="2400000000000"/>
-                  <data x="2005" y="3600000000000"/>
-                  <data x="2006" y="-2200000000000"/>
-                  <data x="2007" y="-2000000000000"/>
-                  <data x="2008" y="-4000000000000"/>
-                  <data x="2009" y="-2800000000000"/>
-                  <data x="2010" y="-2000000000000"/>
-                  <data x="2011" y="-4200000000000"/>
-                  <data x="2012" y="2800000000000"/>
-                  <data x="2013" y="-2800000000000"/>
-                  <data x="2014" y="-3800000000000"/>
-                  <data x="2015" y="1000000000000"/>
-                  <data x="2016" y="-4000000000000"/>
+                  <data x="1994" y="-600,000,000,000"/>
+                  <data x="1995" y="800,000,000,000"/>
+                  <data x="1996" y="-600,000,000,000"/>
+                  <data x="1997" y="1,000,000,000,000"/>
+                  <data x="1998" y="600,000,000,000"/>
+                  <data x="1999" y="-1,000,000,000,000"/>
+                  <data x="2000" y="-2,000,000,000,000"/>
+                  <data x="2001" y="-1,400,000,000,000"/>
+                  <data x="2002" y="-3,000,000,000,000"/>
+                  <data x="2003" y="-2,000,000,000,000"/>
+                  <data x="2004" y="2,400,000,000,000"/>
+                  <data x="2005" y="3,600,000,000,000"/>
+                  <data x="2006" y="-2,200,000,000,000"/>
+                  <data x="2007" y="-2,000,000,000,000"/>
+                  <data x="2008" y="-4,000,000,000,000"/>
+                  <data x="2009" y="-2,800,000,000,000"/>
+                  <data x="2010" y="-2,000,000,000,000"/>
+                  <data x="2011" y="-4,200,000,000,000"/>
+                  <data x="2012" y="2,800,000,000,000"/>
+                  <data x="2013" y="-2,800,000,000,000"/>
+                  <data x="2014" y="-3,800,000,000,000"/>
+                  <data x="2015" y="1,000,000,000,000"/>
+                  <data x="2016" y="-4,000,000,000,000"/>
                 </dataset>
               </graph>
             <graph unit="%" x="date" y="number">

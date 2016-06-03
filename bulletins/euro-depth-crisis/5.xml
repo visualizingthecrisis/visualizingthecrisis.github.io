@@ -10,6 +10,7 @@
       <sections>
 
   <section>
+    <title>European terrorism</title>
       <chapter>
         <title>Terrorism in Belgium: for US Europe is no more safe for tourist</title>
         <paragraph>
@@ -65,6 +66,7 @@
       </section>
 
       <section>
+        <title>Us tourists money spent</title>
         <chapter>
             <title>How much does US spend in Europe?</title>
             <paragraph>
@@ -85,13 +87,13 @@
             <title>US visitation to Europe | Volume in $ million</title>
             <dataset label="Visitaion value">
               <data x="AT" y="702"/>
-              <data x="DE" y="1869"/>
+              <data x="DE" y="1,869"/>
               <data x="ES" y="475"/>
-              <data x="IE" y="1156"/>
-              <data x="FR" y="2107"/>
-              <data x="GB" y="2820"/>
+              <data x="IE" y="1,156"/>
+              <data x="FR" y="2,107"/>
+              <data x="GB" y="2,820"/>
               <data x="IE" y="421"/>
-              <data x="IT" y="1912"/>
+              <data x="IT" y="1,912"/>
               <data x="NL" y="691"/>
               <data x="RU" y="205"/>
             </dataset>
@@ -118,6 +120,7 @@
         </section>
 
         <section>
+        <title>Terrorism forecasts</title>
           <chapter>
               <title>How much counter terrorism costs?</title>
               <paragraph>
@@ -128,9 +131,9 @@
             <graph unit="EUR" x="date" y="number">
               <title>EU spending for CT in € million</title>
               <dataset label="Spending value">
-                <data x="2002" y="5700000"/>
-                <data x="2009" y="93500000"/>
-                <data x="2015" y="2146000000"/>
+                <data x="2002" y="5,700,000"/>
+                <data x="2009" y="93,500,000"/>
+                <data x="2015" y="2,146,000,000"/>
               </dataset>
             </graph>
             <chapter>
@@ -205,19 +208,19 @@
           <graph unit="EUR" x="date" y="number">
             <title>GDP value in € billions</title>
             <dataset label="GDP">
-              <data x="2012" y="2556000000000"/>
-              <data x="2013" y="2395000000000"/>
-              <data x="2014" y="2508000000000"/>
-              <data x="2015" y="2525000000000"/>
+              <data x="2012" y="2,556,000,000,000"/>
+              <data x="2013" y="2,395,000,000,000"/>
+              <data x="2014" y="2,508,000,000,000"/>
+              <data x="2015" y="2,525,000,000,000"/>
             </dataset>
           </graph>
           <graph unit="EUR" x="date" y="number">
             <title>Government spending value in € millions</title>
             <dataset label="Spending">
-              <data x="2012" y="123000000000"/>
-              <data x="2013" y="125000000000"/>
-              <data x="2014" y="127000000000"/>
-              <data x="2015" y="129000000000"/>
+              <data x="2012" y="123,000,000,000"/>
+              <data x="2013" y="125,000,000,000"/>
+              <data x="2014" y="127,000,000,000"/>
+              <data x="2015" y="129,000,000,000"/>
             </dataset>
           </graph>
           <keywords>
@@ -238,6 +241,36 @@
             <source>Travel.trade.gov</source>
             <source>Reuters.com</source>
           </sources>
+      </section>
+
+      <section>
+        <quote>
+          <author>Francois Hollande</author>
+          <text>
+            President Francois Hollande has made jobs his government's top priority,
+            and has said he will not seek reelection in 2017 if he fails to bring
+            down the unemployment rate.
+          </text>
+        </quote>
+        <keywords>
+          <keyword name="Governance" />
+          <keyword name="National Debt" />
+          <keyword name="Western Europe" />
+          <keyword name="Credit rating" />
+          <keyword name="GDP" />
+          <keyword name="Employment" />
+        </keywords>
+        <sources>
+          <source>Unwto.com</source>
+          <source>Tradingeconomics.com</source>
+          <source>Eurostat.eu</source>
+          <source>Businessinsider.co.uk</source>
+          <source>Wttc.org</source>
+          <source>Understandingwar.org/</source>
+          <source>Euromonitor.com</source>
+          <source>Travel.trade.gov</source>
+          <source>Reuters.com</source>
+        </sources>
       </section>
 
       <section>
@@ -315,6 +348,36 @@
   </section>
 
   <section>
+    <quote>
+      <author>Michel Sapin</author>
+      <text>
+        It means we're cutting the deficit while supporting growth at the same time,
+        People very often say that's contradictory. But we're proving that's not true.
+        You can be serious on the budget front and allow growth to pick up.
+      </text>
+    </quote>
+    <keywords>
+      <keyword name="Governance" />
+      <keyword name="National Debt" />
+      <keyword name="Western Europe" />
+      <keyword name="Credit rating" />
+      <keyword name="GDP" />
+      <keyword name="Employment" />
+    </keywords>
+    <sources>
+      <source>Unwto.com</source>
+      <source>Tradingeconomics.com</source>
+      <source>Eurostat.eu</source>
+      <source>Businessinsider.co.uk</source>
+      <source>Wttc.org</source>
+      <source>Understandingwar.org/</source>
+      <source>Euromonitor.com</source>
+      <source>Travel.trade.gov</source>
+      <source>Reuters.com</source>
+    </sources>
+  </section>
+
+  <section>
     <title>Gorvernment revenues are like the waves</title>
       <chapter>
         <paragraph>
@@ -332,17 +395,17 @@
       <graph unit="EUR" x="date" y="number">
         <title>French Government Revenues in € billions</title>
         <dataset label="Revenues value">
-          <data x="20110101" y="25000000000"/>
-          <data x="20111201" y="275000000000"/>
-          <data x="20120101" y="25000000000"/>
-          <data x="20121201" y="280000000000"/>
-          <data x="20130101" y="25000000000"/>
-          <data x="20131201" y="300000000000"/>
-          <data x="20140101" y="25000000000"/>
-          <data x="20141201" y="285000000000"/>
-          <data x="20150101" y="25000000000"/>
-          <data x="20151201" y="298000000000"/>
-          <data x="20160101" y="25000000000"/>
+          <data x="20110101" y="25,000,000,000"/>
+          <data x="20111201" y="275,000,000,000"/>
+          <data x="20120101" y="25,000,000,000"/>
+          <data x="20121201" y="280,000,000,000"/>
+          <data x="20130101" y="25,000,000,000"/>
+          <data x="20131201" y="300,000,000,000"/>
+          <data x="20140101" y="25,000,000,000"/>
+          <data x="20141201" y="285,000,000,000"/>
+          <data x="20150101" y="25,000,000,000"/>
+          <data x="20151201" y="298,000,000,000"/>
+          <data x="20160101" y="25,000,000,000"/>
         </dataset>
       </graph>
       <keywords>

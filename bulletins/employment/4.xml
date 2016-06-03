@@ -1,0 +1,1152 @@
+<bulletin id="issue 4" date="20160326">
+  <sections>
+    <section>
+      <graph unit="%" x="date" y="number">
+        <title>India and China GDP Growth</title>
+        <dataset label="India">
+          <data x="20150131" y="7.5" />
+          <data x="20150430" y="7.5" />
+          <data x="20150731" y="7.6" />
+          <data x="20151031" y="7.7" />
+          <data x="20160131" y="7.3" />
+        </dataset>
+        <dataset label="China">
+          <data x="20150131" y="7.0" />
+          <data x="20150430" y="7.0" />
+          <data x="20150731" y="7.0" />
+          <data x="20151031" y="6.9" />
+          <data x="20160131" y="6.8" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Southeastern Asia" />
+        <keyword name="GDP" />
+      </keywords>
+      <sources>
+        <source>tradingeconomics.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>The Elephant and the Dragon</title>
+      <chapter>
+        <paragraph>China's socialist market economy is the world's second largest economy by nominal GDP and the world's fastest-growing major economy, with growth rates averaging 10% over 30 years. China is a global hub for manufacturing, it's the largest exporter of goods in the world and the world's fastest growing consumer market.</paragraph>
+        <paragraph>As of 2015 there was talk of a "slowing" Chinese economy, referred to a slowing of the rate of economic growth and of indstrial sector like manufactory.</paragraph>
+      </chapter>
+      <graph unit="b$" x="location" y="number">
+        <title>Main Countries Where China and India Exported Before China's Slowdown</title>
+        <dataset label="India gross trade flow in 2014: $311b">
+          <data x="US" y="43" />
+          <data x="AE" y="33" />
+          <data x="CN" y="16" />
+          <data x="SA" y="13" />
+          <data x="GB" y="10" />
+          <data x="DE" y="9" />
+          <data x="TR" y="6.8" />
+          <data x="FR" y="6.5" />
+          <data x="VN" y="6.5" />
+          <data x="LK" y="6.4" />
+          <data x="BD" y="6.3" />
+          <data x="BR" y="6.3" />
+          <data x="BE" y="5.2" />
+          <data x="IT" y="5.2" />
+          <data x="KR" y="5" />
+          <data x="ZA" y="4.9" />
+        </dataset>
+        <dataset label="China gross trade flow in 2014: $2.34t">
+          <data x="US" y="440" />
+          <data x="JP" y="170" />
+          <data x="DE" y="100" />
+          <data x="KR" y="86" />
+          <data x="VN" y="64" />
+          <data x="GB" y="61" />
+          <data x="MX" y="61" />
+          <data x="FR" y="54" />
+          <data x="IN" y="54" />
+          <data x="RU" y="54" />
+          <data x="CA" y="50" />
+          <data x="NL" y="45" />
+          <data x="AU" y="44" />
+          <data x="AE" y="39" />
+          <data x="TH" y="37" />
+          <data x="BR" y="36" />
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Global Growth Rate Projections Annually to 2024</title>
+        <paragraph>The researchers at the Center for International Development at Harvard University use their newly updated measure of economic complexity, which captures the diversity and sophistication of productive capabilities embedded in a country’s exports, to generate the global growth projections.</paragraph>
+      </chapter>
+      <table>
+        <row type="head">
+          <cell>Rank</cell>
+          <cell>Country</cell>
+          <cell>	Projected Annual Growth Through 2024 (%)</cell>
+        </row>
+        <row type="cell">
+          <cell>1</cell>
+          <cell>India</cell>
+          <cell>6.98</cell>
+        </row>
+        <row type="cell">
+          <cell>2</cell>
+          <cell>Uganda</cell>
+          <cell>6.04</cell>
+        </row>
+        <row type="cell">
+          <cell>3</cell>
+          <cell>Kenya</cell>
+          <cell>6.0</cell>
+        </row>
+        <row type="cell">
+          <cell>4</cell>
+          <cell>Tanzania</cell>
+          <cell>5.96</cell>
+        </row>
+        <row type="cell">
+          <cell>5</cell>
+          <cell>Egypt</cell>
+          <cell>5.83</cell>
+        </row>
+        <row type="cell">
+          <cell>6</cell>
+          <cell>Madagascar</cell>
+          <cell>5.78</cell>
+        </row>
+        <row type="cell">
+          <cell>7</cell>
+          <cell>Senegal</cell>
+          <cell>5.77</cell>
+        </row>
+        <row type="cell">
+          <cell>8</cell>
+          <cell>Philippines</cell>
+          <cell>5.68</cell>
+        </row>
+        <row type="cell">
+          <cell>9</cell>
+          <cell>Malawi</cell>
+          <cell>5.66</cell>
+        </row>
+        <row type="cell">
+          <cell>10</cell>
+          <cell>Zambia</cell>
+          <cell>5.55</cell>
+        </row>
+        <row type="cell">
+          <cell>11</cell>
+          <cell>Guatemala</cell>
+          <cell>5.22</cell>
+        </row>
+        <row type="cell">
+          <cell>12</cell>
+          <cell>Pakistan</cell>
+          <cell>5.07</cell>
+        </row>
+        <row type="cell">
+          <cell>13</cell>
+          <cell>Zimbabwe</cell>
+          <cell>4.93</cell>
+        </row>
+        <row type="cell">
+          <cell>14</cell>
+          <cell>Malaysia</cell>
+          <cell>4.87</cell>
+        </row>
+        <row type="cell">
+          <cell>15</cell>
+          <cell>Indonesia</cell>
+          <cell>4.82</cell>
+        </row>
+        <row type="cell">
+          <cell>16</cell>
+          <cell>Jordan</cell>
+          <cell>4.81</cell>
+        </row>
+        <row type="cell">
+          <cell>17</cell>
+          <cell>Vietnam</cell>
+          <cell>4.75</cell>
+        </row>
+        <row type="cell">
+          <cell>18</cell>
+          <cell>Mali</cell>
+          <cell>4.71</cell>
+        </row>
+        <row type="cell">
+          <cell>19</cell>
+          <cell>Thailand</cell>
+          <cell>4.7</cell>
+        </row>
+        <row type="cell">
+          <cell>20</cell>
+          <cell>Turkey</cell>
+          <cell>4.66</cell>
+        </row>
+        <row type="cell">
+          <cell>21</cell>
+          <cell>Mozambique</cell>
+          <cell>4.62</cell>
+        </row>
+        <row type="cell">
+          <cell>22</cell>
+          <cell>Guinea</cell>
+          <cell>4.49</cell>
+        </row>
+        <row type="cell">
+          <cell>23</cell>
+          <cell>Ethiopia</cell>
+          <cell>4.41</cell>
+        </row>
+        <row type="cell">
+          <cell>24</cell>
+          <cell>Mexico</cell>
+          <cell>4.37</cell>
+        </row>
+        <row type="cell">
+          <cell>25</cell>
+          <cell>Cameroon</cell>
+          <cell>4.35</cell>
+        </row>
+        <row type="cell">
+          <cell>26</cell>
+          <cell>Honduras</cell>
+          <cell>4.31</cell>
+        </row>
+        <row type="cell">
+          <cell>27</cell>
+          <cell>China</cell>
+          <cell>4.28</cell>
+        </row>
+        <row type="cell">
+          <cell>28</cell>
+          <cell>Yemen</cell>
+          <cell>4.23</cell>
+        </row>
+        <row type="cell">
+          <cell>29</cell>
+          <cell>Ivory Coast</cell>
+          <cell>4.15</cell>
+        </row>
+        <row type="cell">
+          <cell>30</cell>
+          <cell>Israel</cell>
+          <cell>4.12</cell>
+        </row>
+        <row type="cell">
+          <cell>31</cell>
+          <cell>Kyrgyzstan</cell>
+          <cell>4.03</cell>
+        </row>
+        <row type="cell">
+          <cell>32</cell>
+          <cell>Tunisia</cell>
+          <cell>3.99</cell>
+        </row>
+        <row type="cell">
+          <cell>33</cell>
+          <cell>Ghana</cell>
+          <cell>3.79</cell>
+        </row>
+        <row type="cell">
+          <cell>34</cell>
+          <cell>Cambodia</cell>
+          <cell>3.76</cell>
+        </row>
+        <row type="cell">
+          <cell>35</cell>
+          <cell>South Korea</cell>
+          <cell>3.72</cell>
+        </row>
+        <row type="cell">
+          <cell>36</cell>
+          <cell>South Africa</cell>
+          <cell>3.7</cell>
+        </row>
+        <row type="cell">
+          <cell>37</cell>
+          <cell>Tajikistan</cell>
+          <cell>3.67</cell>
+        </row>
+        <row type="cell">
+          <cell>38</cell>
+          <cell>Uzbekistan</cell>
+          <cell>3.59</cell>
+        </row>
+        <row type="cell">
+          <cell>39</cell>
+          <cell>Sri Lanka</cell>
+          <cell>3.57</cell>
+        </row>
+        <row type="cell">
+          <cell>40</cell>
+          <cell>Paraguay</cell>
+          <cell>3.47</cell>
+        </row>
+        <row type="cell">
+          <cell>41</cell>
+          <cell>Ukraine</cell>
+          <cell>3.47</cell>
+        </row>
+        <row type="cell">
+          <cell>42</cell>
+          <cell>Spain</cell>
+          <cell>3.46</cell>
+        </row>
+        <row type="cell">
+          <cell>43</cell>
+          <cell>Romania</cell>
+          <cell>3.46</cell>
+        </row>
+        <row type="cell">
+          <cell>44</cell>
+          <cell>Bosnia and Herzegovina</cell>
+          <cell>3.44</cell>
+        </row>
+        <row type="cell">
+          <cell>45</cell>
+          <cell>Slovakia</cell>
+          <cell>3.42</cell>
+        </row>
+        <row type="cell">
+          <cell>46</cell>
+          <cell>El Salvador</cell>
+          <cell>3.4</cell>
+        </row>
+        <row type="cell">
+          <cell>47</cell>
+          <cell>Mauritania</cell>
+          <cell>3.39</cell>
+        </row>
+        <row type="cell">
+          <cell>48</cell>
+          <cell>Papua New Guinea</cell>
+          <cell>3.37</cell>
+        </row>
+        <row type="cell">
+          <cell>49</cell>
+          <cell>Brazil</cell>
+          <cell>3.34</cell>
+        </row>
+        <row type="cell">
+          <cell>50</cell>
+          <cell>Hungary</cell>
+          <cell>3.33</cell>
+        </row>
+        <row type="cell">
+          <cell>51</cell>
+          <cell>Belarus</cell>
+          <cell>3.3</cell>
+        </row>
+        <row type="cell">
+          <cell>52</cell>
+          <cell>Bangladesh</cell>
+          <cell>3.27</cell>
+        </row>
+        <row type="cell">
+          <cell>53</cell>
+          <cell>Poland</cell>
+          <cell>3.26</cell>
+        </row>
+        <row type="cell">
+          <cell>54</cell>
+          <cell>United Kingdom</cell>
+          <cell>3.22</cell>
+        </row>
+        <row type="cell">
+          <cell>55</cell>
+          <cell>Bulgaria</cell>
+          <cell>3.19</cell>
+        </row>
+        <row type="cell">
+          <cell>56</cell>
+          <cell>Estonia</cell>
+          <cell>3.18</cell>
+        </row>
+        <row type="cell">
+          <cell>57</cell>
+          <cell>Switzerland</cell>
+          <cell>3.12</cell>
+        </row>
+        <row type="cell">
+          <cell>58</cell>
+          <cell>Portugal</cell>
+          <cell>3.12</cell>
+        </row>
+        <row type="cell">
+          <cell>59</cell>
+          <cell>Czech Republic</cell>
+          <cell>3.11</cell>
+        </row>
+        <row type="cell">
+          <cell>60</cell>
+          <cell>Slovenia</cell>
+          <cell>3.11</cell>
+        </row>
+        <row type="cell">
+          <cell>61</cell>
+          <cell>Ireland</cell>
+          <cell>3.08</cell>
+        </row>
+        <row type="cell">
+          <cell>62</cell>
+          <cell>Nicaragua</cell>
+          <cell>3.08</cell>
+        </row>
+        <row type="cell">
+          <cell>63</cell>
+          <cell>Dominican Republic</cell>
+          <cell>3.07</cell>
+        </row>
+        <row type="cell">
+          <cell>64</cell>
+          <cell>Finland</cell>
+          <cell>3.05</cell>
+        </row>
+        <row type="cell">
+          <cell>65</cell>
+          <cell>Morocco</cell>
+          <cell>3.05</cell>
+        </row>
+        <row type="cell">
+          <cell>66</cell>
+          <cell>Nigeria</cell>
+          <cell>3.05</cell>
+        </row>
+        <row type="cell">
+          <cell>67</cell>
+          <cell>Lebanon</cell>
+          <cell>3.04</cell>
+        </row>
+        <row type="cell">
+          <cell>68</cell>
+          <cell>Colombia</cell>
+          <cell>3.02</cell>
+        </row>
+        <row type="cell">
+          <cell>69</cell>
+          <cell>Croatia</cell>
+          <cell>2.99</cell>
+        </row>
+        <row type="cell">
+          <cell>70</cell>
+          <cell>Lithuania</cell>
+          <cell>2.99</cell>
+        </row>
+        <row type="cell">
+          <cell>71</cell>
+          <cell>Laos</cell>
+          <cell>2.92</cell>
+        </row>
+        <row type="cell">
+          <cell>72</cell>
+          <cell>Costa Rica</cell>
+          <cell>2.91</cell>
+        </row>
+        <row type="cell">
+          <cell>73</cell>
+          <cell>Bolivia</cell>
+          <cell>2.91</cell>
+        </row>
+        <row type="cell">
+          <cell>74</cell>
+          <cell>Republic of the Congo</cell>
+          <cell>2.91</cell>
+        </row>
+        <row type="cell">
+          <cell>75</cell>
+          <cell>Argentina</cell>
+          <cell>2.86</cell>
+        </row>
+        <row type="cell">
+          <cell>76</cell>
+          <cell>Greece</cell>
+          <cell>2.85</cell>
+        </row>
+        <row type="cell">
+          <cell>77</cell>
+          <cell>Peru</cell>
+          <cell>	2.8</cell>
+        </row>
+        <row type="cell">
+          <cell>78</cell>
+          <cell>France</cell>
+          <cell>2.77</cell>
+        </row>
+        <row type="cell">
+          <cell>79</cell>
+          <cell>Latvia</cell>
+          <cell>2.76</cell>
+        </row>
+        <row type="cell">
+          <cell>80</cell>
+          <cell>Moldova</cell>
+          <cell>2.74</cell>
+        </row>
+        <row type="cell">
+          <cell>81</cell>
+          <cell>Sweden</cell>
+          <cell>2.73</cell>
+        </row>
+        <row type="cell">
+          <cell>82</cell>
+          <cell>Canada</cell>
+          <cell>2.72</cell>
+        </row>
+        <row type="cell">
+          <cell>83</cell>
+          <cell>Belgium</cell>
+          <cell>2.61</cell>
+        </row>
+        <row type="cell">
+          <cell>84</cell>
+          <cell>United States</cell>
+          <cell>2.58</cell>
+        </row>
+        <row type="cell">
+          <cell>85</cell>
+          <cell>Netherlands</cell>
+          <cell>2.56</cell>
+        </row>
+        <row type="cell">
+          <cell>86</cell>
+          <cell>Namibia</cell>
+          <cell>2.56</cell>
+        </row>
+        <row type="cell">
+          <cell>87</cell>
+          <cell>Denmark</cell>
+          <cell>2.5</cell>
+        </row>
+        <row type="cell">
+          <cell>88</cell>
+          <cell>Japan</cell>
+          <cell>2.46</cell>
+        </row>
+        <row type="cell">
+          <cell>89</cell>
+          <cell>Angola</cell>
+          <cell>2.39</cell>
+        </row>
+        <row type="cell">
+          <cell>90</cell>
+          <cell>Mongolia</cell>
+          <cell>2.32</cell>
+        </row>
+        <row type="cell">
+          <cell>91</cell>
+          <cell>Uruguay</cell>
+          <cell>2.32</cell>
+        </row>
+        <row type="cell">
+          <cell>92</cell>
+          <cell>Mauritius</cell>
+          <cell>2.26</cell>
+        </row>
+        <row type="cell">
+          <cell>93</cell>
+          <cell>Kazakhstan</cell>
+          <cell>2.2</cell>
+        </row>
+        <row type="cell">
+          <cell>94</cell>
+          <cell>Saudi Arabia</cell>
+          <cell>2.2</cell>
+        </row>
+        <row type="cell">
+          <cell>95</cell>
+          <cell>Oman</cell>
+          <cell>2.19</cell>
+        </row>
+        <row type="cell">
+          <cell>96</cell>
+          <cell>United Arab Emirates</cell>
+          <cell>2.16</cell>
+        </row>
+        <row type="cell">
+          <cell>97</cell>
+          <cell>New Zealand</cell>
+          <cell>2.12</cell>
+        </row>
+        <row type="cell">
+          <cell>98</cell>
+          <cell>Russia</cell>
+          <cell>1.96</cell>
+        </row>
+        <row type="cell">
+          <cell>99</cell>
+          <cell>Iran</cell>
+          <cell>1.96</cell>
+        </row>
+          <row type="cell">
+            <cell>100</cell>
+            <cell>Kuwait</cell>
+            <cell>1.95</cell>
+          </row>
+          <row type="cell">
+            <cell>101</cell>
+            <cell>Macedonia</cell>
+            <cell>1.94</cell>
+          </row>
+          <row type="cell">
+            <cell>102</cell>
+            <cell>Jamaica</cell>
+            <cell>1.92</cell>
+          </row>
+          <row type="cell">
+            <cell>103</cell>
+            <cell>Ecuador</cell>
+            <cell>1.91</cell>
+          </row>
+          <row type="cell">
+            <cell>104</cell>
+            <cell>Chile</cell>
+            <cell>1.89</cell>
+          </row>
+          <row type="cell">
+            <cell>105</cell>
+            <cell>Gabon</cell>
+            <cell>1.85</cell>
+          </row>
+          <row type="cell">
+            <cell>106</cell>
+            <cell>Turkmenistan</cell>
+            <cell>1.84</cell>
+          </row>
+          <row type="cell">
+            <cell>107</cell>
+            <cell>Italy</cell>
+            <cell>1.83</cell>
+          </row>
+          <row type="cell">
+            <cell>108</cell>
+            <cell>Albania</cell>
+            <cell>1.83</cell>
+          </row>
+          <row type="cell">
+            <cell>109</cell>
+            <cell>Georgia</cell>
+            <cell>1.83</cell>
+          </row>
+          <row>
+          <cell>110</cell>
+          <cell>Norway</cell>
+          <cell>1.73</cell>
+        </row>
+        <row type="cell">
+          <cell>111</cell>
+          <cell>Algeria</cell>
+          <cell>1.71</cell>
+        </row>
+        <row type="cell">
+          <cell>112</cell>
+          <cell>Venezuela</cell>
+          <cell>1.7</cell>
+        </row>
+        <row type="cell">
+          <cell>113</cell>
+          <cell>Austria</cell>
+          <cell>1.66</cell>
+        </row>
+        <row type="cell">
+          <cell>114</cell>
+          <cell>Azerbaijan</cell>
+          <cell>1.55</cell>
+        </row>
+        <row type="cell">
+          <cell>115</cell>
+          <cell>Botswana</cell>
+          <cell>1.39</cell>
+        </row>
+        <row type="cell">
+          <cell>116</cell>
+          <cell>Qatar</cell>
+          <cell>1.13</cell>
+        </row>
+        <row type="cell">
+          <cell>117</cell>
+          <cell>Australia</cell>
+          <cell>1.07</cell>
+        </row>
+        <row type="cell">
+          <cell>118</cell>
+          <cell>Libya</cell>
+          <cell>1.04</cell>
+        </row>
+        <row type="cell">
+          <cell>119</cell>
+          <cell>Cuba</cell>
+          <cell>0.95</cell>
+        </row>
+        <row type="cell">
+          <cell>120</cell>
+          <cell>Germany</cell>
+          <cell>0.35</cell>
+        </row>
+        <row type="cell">
+          <cell>121</cell>
+          <cell>Trinidad and Tobago</cell>
+          <cell>0.27</cell>
+        </row>
+      </table>
+      <chapter>
+        <paragraph>The World Bank estimates that India’s economy is currently growing at a fast pace and forecasts it is likely to remain the world’s fastest growing large economy for the foreseeable future.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="South America" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
+        <keyword name="Northern Africa" />
+        <keyword name="Central Africa" />
+        <keyword name="Southern Africa" />
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Southern Asia" />
+        <keyword name="Southeastern Asia" />
+        <keyword name="Oceania" />
+        <keyword name="GDP" />
+        <keyword name="Import/Export" />
+        <keyword name="Commerce" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com/</source>
+        <source>businessworld.in</source>
+        <source>clb.org.hk</source>
+        <source>economictimes.indiatimes.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>ft.com</source>
+        <source>huffingtonpost.com</source>
+        <source>ibef.org</source>
+        <source>indianexpress.com</source>
+        <source>newyorker.com</source>
+        <source>nytimes.com</source>
+        <source>theatlantic.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>tradingeconomics.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <chapter>
+      <title>Made in China is Not that Cheap Anymore</title>
+        <paragraph>According to a research by Oxford Economics labor costs adjusted for productivity in China are only 4% cheaper than in the US.</paragraph>
+        <paragraph>China’s GDP is almost 5 times larger than India's and its manufacturing sector is 10 times bigger. However the slowdown in China could make a big difference. With the rising cost of labour, it is no longer cheap to manufacture there and it will soon cease to be an export powerhouse if this continues. Minimum wages have increase by double-digits and companies have started looking for alternatives. For example, companies like Godrej, Micromax and Bosch have started expanding or shifting manufacturing operations to India.</paragraph>
+      </chapter>
+      <graph unit="" x="location" y="number">
+        <title>Manufactory Unit Labor Cost, Compared with the US (US=100)</title>
+        <dataset label="2003">
+          <data x="US" y="100" />
+          <data x="AU" y="150" />
+          <data x="DE" y="190" />
+          <data x="CH" y="155" />
+          <data x="CA" y="125" />
+          <data x="BR" y="60" />
+          <data x="GB" y="130" />
+          <data x="CN" y="40" />
+          <data x="MX" y="102" />
+          <data x="JP" y="110" />
+          <data x="TW" y="102" />
+          <data x="IN" y="30" />
+        </dataset>
+        <dataset label="2012">
+          <data x="US" y="100" />
+          <data x="AU" y="335" />
+          <data x="DE" y="230" />
+          <data x="CH" y="230" />
+          <data x="CA" y="215" />
+          <data x="BR" y="220" />
+          <data x="GB" y="140" />
+          <data x="CN" y="99" />
+          <data x="MX" y="115" />
+          <data x="JP" y="135" />
+          <data x="TW" y="90" />
+          <data x="IN" y="35" />
+        </dataset>
+        <dataset label="2016">
+          <data x="US" y="100" />
+          <data x="AU" y="220" />
+          <data x="DE" y="190" />
+          <data x="CH" y="190" />
+          <data x="CA" y="140" />
+          <data x="BR" y="140" />
+          <data x="GB" y="120" />
+          <data x="CN" y="98" />
+          <data x="MX" y="85" />
+          <data x="JP" y="75" />
+          <data x="TW" y="70" />
+          <data x="IN" y="30" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>Between 1990 and 2007 Chinese competition was responsible for about a fifth (1.5 million) of the manufacturing jobs lost in US.</paragraph>
+        <paragraph>India aims to increase the share of manufacturing sector in GDP from the current 16% to 25% by 2022.</paragraph>
+      </chapter>
+      <chapter>
+      <title>Manufacturing Jobs Are Never Coming Back</title>
+        <paragraph>Because of rising wages in China, the need for shorter supply chains and other factors, a small but growing group of companies are shifting production back to the US. But the factories they build here are heavily automated, employing a small fraction of the workers they would have a generation ago.</paragraph>
+      </chapter>
+      <graph unit="%" x="date" y="number">
+        <title>Manufactory Unit Labor Cost, Compared with the US (US=100)</title>
+        <dataset label="Manufacturing output">
+          <data x="2010" y="3,5" />
+          <data x="2011" y="9,5" />
+          <data x="2012" y="13" />
+          <data x="2013" y="14,5" />
+          <data x="2014" y="15,5" />
+          <data x="2015" y="19,5" />
+          <data x="2016" y="21" />
+        </dataset>
+        <dataset label="Manufacturing jobs">
+          <data x="2010" y="-1,5" />
+          <data x="2011" y="0" />
+          <data x="2012" y="2" />
+          <data x="2013" y="3" />
+          <data x="2014" y="4" />
+          <data x="2015" y="6" />
+          <data x="2016" y="6" />
+        </dataset>
+      </graph>
+      <chapter>
+      <title>Just Another Trumpsh*t</title>
+      <quote>
+        <author>Donald John Trump, presumptive nominee of the Republican Party for President of the United States in the 2016 election</author>
+        <text>Let's take our jobs back from China and all these other countries!</text>
+      </quote>
+        <paragraph>Nothing, no real informations will stop Donald Trump from making this sort of promises at every debate and campaign.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="South America" />
+        <keyword name="Western Europe" />
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Southern Asia" />
+        <keyword name="Southeastern Asia" />
+        <keyword name="Oceania" />
+        <keyword name="GDP" />
+        <keyword name="Import/Export" />
+        <keyword name="Manufacturing" />
+        <keyword name="Commerce" />
+        <keyword name="Employment" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com/</source>
+        <source>businessworld.in</source>
+        <source>clb.org.hk</source>
+        <source>economictimes.indiatimes.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>ft.com</source>
+        <source>huffingtonpost.com</source>
+        <source>ibef.org</source>
+        <source>indianexpress.com</source>
+        <source>newyorker.com</source>
+        <source>nytimes.com</source>
+        <source>theatlantic.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>tradingeconomics.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <chapter>
+      <title>Hollywood on the Yellow Sea</title>
+      <paragraph>Wang Jianlin, one of China’s richest men, is creating a rival to the American dream factory, from scratch. The Dalian Wanda Group, China’s biggest commercial real-estate developer and the world’s largest owner of movie theaters, has committed $8.2 billion to the project.</paragraph>
+      <paragraph>China is becoming a nation of moviegoers. With North American box-office receipts essentially flat in recent years, some analysts expect that within five years, China will be the world’s box-office king (it is now No. 2). In 2012 alone, the country added 10 theater screens a day; it now has more than 28,000. Only the U.S., with close to 40,000 screens, has more, and Wanda owns more than 5,000 of those.</paragraph>
+    </chapter>
+    <chapter>
+    <title>Chinese Cinemas 东方影都</title>
+  </chapter>
+  <graph unit="million" x="date" y="number">
+    <title>Tickets sold(</title>
+    <dataset label="">
+      <data x="2010" y="0,15" />
+      <data x="2011" y="0,2" />
+      <data x="2012" y="0,25" />
+      <data x="2013" y="0,35" />
+      <data x="2014" y="0,6" />
+      <data x="2015" y="1,25" />
+    </dataset>
+  </graph>
+  <graph unit="thousand" x="date" y="number">
+    <title>Theater screens(</title>
+    <dataset label="">
+      <data x="2010" y="4" />
+      <data x="2011" y="5.9" />
+      <data x="2012" y="6.1" />
+      <data x="2013" y="9.5" />
+      <data x="2014" y="18.5" />
+      <data x="2015" y="32" />
+    </dataset>
+  </graph>
+  <keywords>
+    <keyword name="Central and Eastern Asia" />
+  </keywords>
+  <sources>
+    <source>bloomberg.com/</source>
+    <source>businessworld.in</source>
+    <source>clb.org.hk</source>
+    <source>economictimes.indiatimes.com</source>
+    <source>fivethirtyeight.com</source>
+    <source>ft.com</source>
+    <source>huffingtonpost.com</source>
+    <source>ibef.org</source>
+    <source>indianexpress.com</source>
+    <source>newyorker.com</source>
+    <source>nytimes.com</source>
+    <source>theatlantic.com</source>
+    <source>wsj.com</source>
+    <source>washingtonpost.com</source>
+    <source>tradingeconomics.com</source>
+    <source>Internazionale</source>
+  </sources>
+    </section>
+    <section>
+      <title>Things are Changing</title>
+      <chapter>
+        <paragraph>Cheap labor, vast factories and a building spree without parallel powered China’s economic miracle.</paragraph>
+        <paragraph>But now times are changing. Services today make up more than half of the nation’s economy, while protests and strikes began to be an important weapon in the hands of chinese workers.</paragraph>
+      </chapter>
+      <graph unit="t¥" x="date" y="number">
+        <title>GDP by Industry: Chinese Economy Is Shifting to Services</title>
+        <abstract>
+          ¥1 = $0.15
+        </abstract>
+        <dataset label="Agricolture">
+          <data x="2000" y="1.5" />
+          <data x="2005" y="2" />
+          <data x="2010" y="4" />
+          <data x="2015" y="6" />
+        </dataset>
+        <dataset label="Manufacturing">
+          <data x="2000" y="4.5" />
+          <data x="2005" y="8.5" />
+          <data x="2010" y="19" />
+          <data x="2015" y="27.5" />
+        </dataset>
+        <dataset label="Services">
+          <data x="2000" y="4" />
+          <data x="2005" y="7.5" />
+          <data x="2010" y="18" />
+          <data x="2015" y="34" />
+        </dataset>
+      </graph>
+      <graph unit="" x="date" y="number">
+        <title>Number of Chinese protests from March 2015 to March 2016</title>
+        <dataset label="">
+          <data x="20150331" y="168" />
+          <data x="20150430" y="196" />
+          <data x="20150531" y="199" />
+          <data x="20150630" y="178" />
+          <data x="20150731" y="168" />
+          <data x="20150831" y="205" />
+          <data x="20150930" y="227" />
+          <data x="20151031" y="230" />
+          <data x="20151130" y="298" />
+          <data x="20151231" y="421" />
+          <data x="20160131" y="503" />
+          <data x="20160229" y="202" />
+          <data x="20160331" y="172" />
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Recent Strikes</title>
+      </chapter>
+      <table>
+        <row type="head">
+          <cell>Date</cell>
+          <cell>Description</cell>
+          <cell>Partipants</cell>
+          <cell>Worker actions</cell>
+        </row>
+        <row type="cell">
+          <cell>21 Mar 2016</cell>
+          <cell>Workers at a machine manufacturer in Shanghai strike over wage reductions.</cell>
+          <cell>100-1000 people</cell>
+          <cell>Strike</cell>
+         </row>
+         <row type="cell">
+           <cell>22 Mar 2016</cell>
+           <cell>Workers at a flame retardant materials factory protest wage arrears in Yangquan.</cell>
+           <cell>1-100 people</cell>
+           <cell>Protest /Demonstration</cell>
+          </row>
+          <row type="cell">
+            <cell>22 Mar 2016</cell>
+            <cell>Retired workers demand retirement benefits at government building in Hinggan.</cell>
+            <cell>100-1000 people</cell>
+            <cell>Sit-in / Protest / Demonstration</cell>
+           </row>
+      </table>
+      <keywords>
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Employment" />
+        <keyword name="GDP" />
+        <keyword name="Working class" />
+        <keyword name="Agriculture" />
+        <keyword name="Manufacturing" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com/</source>
+        <source>businessworld.in</source>
+        <source>clb.org.hk</source>
+        <source>economictimes.indiatimes.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>ft.com</source>
+        <source>huffingtonpost.com</source>
+        <source>ibef.org</source>
+        <source>indianexpress.com</source>
+        <source>newyorker.com</source>
+        <source>nytimes.com</source>
+        <source>theatlantic.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>tradingeconomics.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>A Matter of Infrastructure</title>
+      <subtitle>China vs India</subtitle>
+      <chapter>
+        <title>China Infrastructure</title>
+        <paragraph>Over the last 35 years, China has spent about 8.5% of GDP on infrastructural development. It has the reputation of being the world’s most aggressive investor in domestic infrastructure – be it roads, rail, waterways, power, ports, airports or telecom.</paragraph>
+      </chapter>
+      <chapter>
+        <title>India Infrastructure</title>
+        <paragraph>India has spent only 4.7% of GDP on infrastructure over these years. Its physical infrastructure today is quite similar to that of China in the early 1990s.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Southern Asia" />
+        <keyword name="GDP" />
+        <keyword name="Investments" />
+        <keyword name="Transportation" />
+        <keyword name="Governance" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com/</source>
+        <source>businessworld.in</source>
+        <source>clb.org.hk</source>
+        <source>economictimes.indiatimes.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>ft.com</source>
+        <source>huffingtonpost.com</source>
+        <source>ibef.org</source>
+        <source>indianexpress.com</source>
+        <source>newyorker.com</source>
+        <source>nytimes.com</source>
+        <source>theatlantic.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>tradingeconomics.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>The Indian Speed-Up</title>
+      <chapter>
+        <title>India’s 2016-17 Budget</title>
+        <paragraph>At the beginning of this month, Prime Minister Narendra Modi’s government released its budget for 2016-17. Budget Day in India is met with intense scrutiny and heightened chatter among the pundits and political class in New Delhi.</paragraph>
+        <paragraph>Let’s see some of the main points.</paragraph>
+      </chapter>
+      <table>
+        <row type="head">
+          <cell>Points</cell>
+          <cell>Making 1</cell>
+          <cell>Making 2</cell>
+          <cell>Making 3</cell>
+        </row>
+        <row type="cell">
+          <cell>A fresh emphasis on start-ups</cell>
+          <cell>The budget wants to place special emphasis on manufacturing sector nurturing India’s ecosystem for start-ups.</cell>
+          <cell>-</cell>
+          <cell>-</cell>
+         </row>
+         <row type="cell">
+           <cell>Helping companies pay for pensions</cell>
+           <cell>₹ 10 billion ($ 150 million) will use to pay 8.33% for new employees’ basic salary towards pension and provident fund contributions.</cell>
+           <cell>-</cell>
+           <cell>-</cell>
+          </row>
+          <row type="cell">
+            <cell>Betting on the long-term dividends of infrastructure</cell>
+            <cell>₹ 2.21 trillion ($ 32.5 billion) is the amount that India will spend for its infrastructure.</cell>
+            <cell>₹ 0,40 trillon ($ 6 billion) is the initial corpus for launching the National Infrastructure Investment Fund (NIFF)</cell>
+            <cell>10,000 km are the roads that will be built, beside the upgrading of state highways.</cell>
+           </row>
+      </table>
+      <keywords>
+        <keyword name="Southern Asia" />
+        <keyword name="GDP" />
+        <keyword name="Investments" />
+        <keyword name="Transportation" />
+        <keyword name="Governance" />
+        <keyword name="Manufacturing" />
+        <keyword name="Income and Pensions" />
+        <keyword name="Employment" />
+        <keyword name="Transportation" />
+        <keyword name="Governance" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com/</source>
+        <source>businessworld.in</source>
+        <source>clb.org.hk</source>
+        <source>economictimes.indiatimes.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>ft.com</source>
+        <source>huffingtonpost.com</source>
+        <source>ibef.org</source>
+        <source>indianexpress.com</source>
+        <source>newyorker.com</source>
+        <source>nytimes.com</source>
+        <source>theatlantic.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>tradingeconomics.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <chapter>
+        <title>Facebook and Google’s Expansion: a New Colonialism in India</title>
+        <paragraph>Silicon Valley companies, led by Google and Facebook, are arriving in India with the key to a vital resource of the 21st century: connectivity. Indian critics have dubbed the US companies “digital colonialists”. The heightened tone of the debate reflects how much is at stake: with a population of 1.2 billion, India has the potential to be the largest open internet market in the world.</paragraph>
+      </chapter>
+      <graph unit="m" x="date" y="number">
+        <title>Internet Users in India from 2014 to 2019</title>
+        <dataset label="">
+          <data x="2014" y="226.3" />
+          <data x="2015" y="277.4" />
+          <data x="2016" y="321.8" />
+          <data x="2017" y="365.1" />
+          <data x="2018" y="411.1" />
+          <data x="2019" y="459" />
+        </dataset>
+      </graph>
+        <keywords>
+          <keyword name="Southern Asia" />
+          <keyword name="Start-ups" />
+          <keyword name="Global Corporations" />
+          <keyword name="Tech" />
+        </keywords>
+        <sources>
+          <source>bloomberg.com/</source>
+          <source>businessworld.in</source>
+          <source>clb.org.hk</source>
+          <source>economictimes.indiatimes.com</source>
+          <source>fivethirtyeight.com</source>
+          <source>ft.com</source>
+          <source>huffingtonpost.com</source>
+          <source>ibef.org</source>
+          <source>indianexpress.com</source>
+          <source>newyorker.com</source>
+          <source>nytimes.com</source>
+          <source>theatlantic.com</source>
+          <source>wsj.com</source>
+          <source>washingtonpost.com</source>
+          <source>tradingeconomics.com</source>
+          <source>Internazionale</source>
+        </sources>
+    </section>
+  </sections>
+</bulletin>

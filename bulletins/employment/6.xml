@@ -1,0 +1,861 @@
+<bulletin id="issue 6" date="20160416">
+  <sections>
+    <section>
+      <graph unit="t$" x="date" y="number">
+        <title>US Tax Revenue</title>
+        <dataset label="">
+          <data x="2004" y="1.18" />
+          <data x="2005" y="1.41" />
+          <data x="2006" y="1.58" />
+          <data x="2007" y="1.66" />
+          <data x="2008" y="1.48" />
+          <data x="2009" y="1.18" />
+          <data x="2010" y="1.29" />
+          <data x="2011" y="1.49" />
+          <data x="2012" y="1.59" />
+          <data x="2013" y="1.76" />
+          <data x="2014" y="2.05" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Taxes" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>In Haven Everything is Fine</title>
+      <abstract>
+        Borders are becoming less relevant to many of us, in a world of rapidly developing networked communication. But some recent events remind us how much borders still matter: Panama Papers, the history's biggest data leak from the database of the offshore law firm Mossack Fonseca, that contains evidence that some of the world’s richest people have used national borders to shield chunks of their massive wealth from other countries’ taxing authority.
+      </abstract>
+      <table>
+        <row type="head">
+          <cell>Tax Evasion</cell>
+          <cell>Tax Avoidance</cell>
+        </row>
+        <row type="cell">
+          <cell>Evasion is an illegal practice where individuals, corporations or trusts dodge paying their true tax liability.</cell>
+          <cell>Tax avoidances are a legal actions taken to lessen tax liability and maximize after-tax incomes.</cell>
+        </row>
+      </table>
+      <graph unit="" x="location" y="number">
+        <title>Financial Secrecy Idex 2015 Results</title>
+        <abstract>
+          The Financial Secrecy Index ranks jurisdictions according to their secrecy and the scale of their offshore financial activities. Panama ranks just as 13th in the Financial Secrecy Index, while Switzerland, Hong Kong and U.S. appear on top of the list.
+        </abstract>
+        <dataset label="">
+          <data x="CH" y="1466" />
+          <data x="HK" y="1256" />
+          <data x="US" y="1255" />
+          <data x="SG" y="1147" />
+          <data x="KY" y="1013" />
+          <data x="LU" y="817" />
+          <data x="LB" y="760" />
+          <data x="DE" y="702" />
+          <data x="BH" y="471" />
+          <data x="AE" y="441" />
+          <data x="MO" y="420" />
+          <data x="JP" y="418" />
+          <data x="PA" y="416" />
+          <data x="MH" y="406" />
+          <data x="GB" y="380" />
+        </dataset>
+      </graph>
+      <graph unit="" x="location" y="number">
+        <title>Most Popular Tax Havens in the Panama Papers</title>
+        <abstract>
+          Of the companies that appear in the Panama Papers, one out of every two were incorporated in the British Virgin Islands. The second favorite jurisdiction was Panama, where the firm is headquartered.
+        </abstract>
+        <dataset label="">
+          <data x="VG" y="113648" />
+          <data x="PA" y="48360" />
+          <data x="BS" y="15915" />
+          <data x="SC" y="15182" />
+          <data x="NU" y="9611" />
+          <data x="WS" y="5307" />
+          <data x="AI" y="3253" />
+          <data x="US" y="1260" />
+          <data x="HK" y="452" />
+          <data x="GB" y="148 " />
+        </dataset>
+      </graph>
+      <graph unit="" x="location" y="number">
+        <title>Top Countries Where Intermediates Operate</title>
+        <abstract>
+          Mossack Fonseca worked with more than 14,000 banks, law firms, company incorporators and other middlemen to set up companies, foundations and trusts for customers.
+        </abstract>
+        <dataset label="">
+          <data x="HK" y="2212" />
+          <data x="GB" y="1924" />
+          <data x="CH" y="1223" />
+          <data x="US" y="617" />
+          <data x="PA" y="558" />
+          <data x="GT" y="444" />
+          <data x="LU" y="405" />
+          <data x="BR" y="403" />
+          <data x="EC" y="324" />
+          <data x="UY" y="289" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="South America" />
+        <keyword name="Western Europe" />
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Southeastern Asia" />
+        <keyword name="Taxes" />
+        <keyword name="Global Corporations" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>Bloody Money</title>
+      <abstract>
+        Some companies who have used offshore tax havens were accused of supplying fuel to the Syrian Air Force. The investigation reveals that the Panamanian firm helped these companies operate as attacks in Syria continued.
+      </abstract>
+      <keywords>
+        <keyword name="South America" />
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Taxes" />
+        <keyword name="Global Corporations" />
+        <keyword name="1%" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <quote>
+        <author>Suzanne McGee, The Guardian</author>
+        <text>It’s a sad world where the wealthy go shopping for passports while refugees drown in the Mediterranean.</text>
+      </quote>
+      <keywords>
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Taxes" />
+        <keyword name="Global Corporations" />
+        <keyword name="Migration" />
+        <keyword name="In poverty" />
+        <keyword name="1%" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <graph unit="" x="date" y="number">
+        <title>Offshore companies created since 1977</title>
+        <abstract>
+          The number of companies created by Mossack Fonseca  had a relevant decline in the last decade - Mossack Fonseca and Co. is a Panamanian law firm and corporate service provider founded in 1986 that has grown to have more than 40 offices worldwide; the firm received worldwide media attention when informations about its clients' financial dealings were published in the Panama Papers articles, following the release of an enormous cache of its documents from between 1970 and 2015 leaked to the news media.
+        </abstract>
+        <dataset label="">
+          <data x="1980" y="416" />
+          <data x="1985" y="975" />
+          <data x="1990" y="2138" />
+          <data x="1995" y="5871" />
+          <data x="2000" y="10420" />
+          <data x="2005" y="13287" />
+          <data x="2010" y="8553" />
+          <data x="2015" y="4341" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="South America" />
+        <keyword name="Taxes" />
+        <keyword name="Global Corporations" />
+        <keyword name="1%" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>Global Offshore Wealth</title>
+      <abstract>
+        The total amount of global offshore wealth corresponds to $7,600 billion. This means that, according to "The Hidden Wealth of Nations" - a recent book by Gabriel Zucman, economist at the University of California, Berkeley -, tax evasion costs governments approximately $190 billion per year. Let's make this simple and clear: tax evasion means less money for schools and roads, more money for drug barons and worse.
+      </abstract>
+      <graph unit="b$" x="string" y="number">
+        <dataset label="">
+          <data x="Europe" y="2600" />
+          <data x="Asia" y="1300" />
+          <data x="United States" y="1200" />
+          <data x="Gulf countries" y="800" />
+          <data x="Latin America" y="700" />
+          <data x="Africa" y="500" />
+          <data x="Canada" y="500" />
+          <data x="Russia" y="200" />
+        </dataset>
+      </graph>
+      <graph unit="%" x="string" y="number">
+        <title>Share of Financial Wealth Held Offshore</title>
+        <dataset label="">
+          <data x="Europe" y="10" />
+          <data x="Asia" y="4" />
+          <data x="United States" y="4" />
+          <data x="Gulf countries" y="57" />
+          <data x="Latin America" y="22" />
+          <data x="Africa" y="30" />
+          <data x="Canada" y="9" />
+          <data x="Russia" y="52" />
+        </dataset>
+      </graph>
+      <chapter>
+        <title>US is the World’s Favorite New Tax Haven</title>
+        <paragraph>Just 4% of US wealth is held offshore. By resisting new global disclosure standards, the US - with Delaware, Nevada, South Dakota and Wyoming - is creating a hot new market, becoming the go-to place to stash foreign wealth.</paragraph>
+      </chapter>
+      <chapter>
+        <title>Switzerland is so Last Century</title>
+        <paragraph>Everyone from London lawyers to Swiss trust companies is getting in on the act, helping the world’s rich move accounts from places like the Bahamas and the British Virgin Islands to US of course.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="South America" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
+        <keyword name="Northern Africa" />
+        <keyword name="Central Africa" />
+        <keyword name="Southern Africa" />
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Taxes" />
+        <keyword name="Global Corporations" />
+        <keyword name="1%" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <quote>
+        <author>Matt Phillips, Quartz</author>
+        <text>Unlike the secrets exposed by the Panama Papers, big US tax dodging is done in full public view.</text>
+      </quote>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="South America" />
+        <keyword name="Taxes" />
+        <keyword name="Global Corporations" />
+        <keyword name="1%" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>Financial Transparency</title>
+      <abstract>
+        There is still a complete lack of financial transparency in several tax havens around the world - and recently this has become a hot topic after the Panama Papers case. We need to create a unified global register of financial securities. This involves putting Central Depositories under public control.
+      </abstract>
+      <chapter>
+        <title>OECD Standards</title>
+        <paragraph>Since 2014, 97 jurisdictions have agreed to impose new disclosure requirements for bank accounts, trusts, and some other investments held by international customers. Of the nations the OECD asked to sign on, only a handful have declined: Bahrain (Middle East), Nauru, Vanuatu (both in Oceania) — and the United States.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Oceania" />
+        <keyword name="Taxes" />
+        <keyword name="Global Corporations" />
+        <keyword name="1%" />
+        <keyword name="Governance" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>British Housing Market</title>
+      <abstract>
+        In England and Wales, where most young people can't afford to buy a home, more than 90,000 properties are listed in the Land Registry to overseas owners, at least 75,000 of which are owned by companies or individuals registered in tax havens.
+      </abstract>
+      <keywords>
+        <keyword name="Eastern Europe" />
+        <keyword name="Housing and Real Estate" />
+        <keyword name="Taxes" />
+        <keyword name="Global Corporations" />
+        <keyword name="1%" />
+        <keyword name="In poverty" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>The Future of Journalism</title>
+      <subtitle>A New Direction for Investigative Reporting</subtitle>
+      <abstract>
+        The investigation requires a lot of time and is a type of reporting among the most expensive. Nevertheless some new online tools are gradually allowing reporters to uncover, distribute and display data in fastest and least expensive ways.
+      </abstract>
+      <chapter>
+        <subtitle>The Outcomes</subtitle>
+        <paragraph>
+          <list type="ordered">
+            <item>Digital Cross-Bording: new web platforms allow to connect journalists and reportes working in the same field and helping each other to get information from local registries and databases.</item>
+            <item>Data Journalism: this ambit of journalism has made on the basis of the analysis of digitized data of different nature, making possible to tell stories that otherwise would be really difficult.</item>
+            <item>Encryption and Anonymity: there are new foundamental tools, that have become more widespread and easy to use, making it safer in some ways than ever before for sources to reach out to journalists across the globe.</item>
+          </list>
+        </paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>John Doe: "Hello. This is John Doe. Interested in data?"</item>
+            <item>Süeddeutsche Zeitung: "We're very interested."</item>
+            <item>John Doe: "There are a couple of conditions. My life is in danger. We will only chat over encrypted files. No meeting, ever. The choice of stories is obviously up to you."</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Tech" />
+        <keyword name="Privacy and Surveillance" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>Printed Press is Withering</title>
+      <subtitle>The Dark Side of the Digital Journalism</subtitle>
+      <abstract>
+        The spread of Internet and digital communication tools has had heavy implications on traditional journalism. Publishing a daily or weekly newspaper required to a lot of money and this were once mainly guaranteed by the advertising. But things have changed now.
+      </abstract>
+      <chapter>
+        <title>Advertising Market Covered by the Press</title>
+        <paragraph>In the last years the coverage of printed press in the advertising market has dropped to 11.4%, while Google had a €44.5 million income with ads in 2015. For publishers the only solution is to charge for web content through paywall. Meanwhile the Guardian, which has a great free web-site, has seen its sales fall, losing €72,2 million.</paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <title>2008</title>
+        <dataset label="">
+          <data x="Covered by the press" y="27.3" />
+          <data x="Covered by others" y="72.7" />
+        </dataset>
+      </graph>
+      <graph unit="%" x="string" y="percentage">
+        <title>2016</title>
+        <dataset label="">
+          <data x="Covered by the press" y="11.4" />
+          <data x="Covered by others" y="88.6" />
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Example: @Daily Mail</title>
+        <paragraph>
+          <list type="unordered">
+            <item>To buy a color double-page it takes €105,000.</item>
+            <item>A banner on the website costs only €28 per thousand views.</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>This Could Cause Important Side Effects</title>
+        <paragraph>
+          <list type="unordered">
+            <item>LESS MONEY</item>
+            <item>LESS INFORMATION</item>
+            <item>LESS DEMOCRACY</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Tech" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>Panama Papers: the Making Of</title>
+      <subtitle>The History's Biggest Leak</subtitle>
+      <abstract>
+        The investigation was conducted by the Süddeutsche Zeitung and the International Consortium of Investigative Journalists, a global network of investigative journalists who collaborate on in-depth investigative stories.
+      </abstract>
+      <chapter>
+        <paragraph>They have been involved:</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>76 COUNTRIES</item>
+            <item>109 MEDIA ORGANIZATIONS</item>
+            <item>376 JOURNALISTS</item>
+          </list>
+        </paragraph>
+        <paragraph>The leak has included:</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>11.5 MILLION FILES</item>
+            <item>2.6 TERABYTES</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>But the Full Package of Data Has Not Shared Yet</title>
+        <paragraph>ICIJ director, Gerald Ryle, has said that the media organizations have no plans to release the full dataset, WikiLeaks-style, which he argues would expose the sensitive information of innocent private individuals.</paragraph>
+        <paragraph>While a Wikileaks survey on Twitter shows:</paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <title>Should we release all 11 million #PanamaPapers so everyone can search through them like our other publications? 1:40 AM - 4 Apr</title>
+        <abstract>
+          92,986 votes - Final results
+        </abstract>
+        <dataset label="">
+          <data x="Yes, make them searchable" y="95" />
+          <data x="No, let media cherry pick" y="5" />
+        </dataset>
+      </graph>
+      <quote>
+        <author>Gerard Ryle, ICIJ director</author>
+        <text>We’re not WikiLeaks. We’re trying to show that journalism can be done responsibly.</text>
+      </quote>
+      <keywords>
+        <keyword name="South America" />
+        <keyword name="Tech" />
+        <keyword name="Privacy and Surveillance" />
+        <keyword name="Taxes" />
+        <keyword name="Global Corporations" />
+        <keyword name="1%" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>A Brief History of Leaks</title>
+      <chapter>
+        <paragraph>
+          <list type="unordered">
+            <item>CABLEGATE - 1.7GB - Wikileaks (2010): Classified cables that had been sent to the US State Department by 274 of its consulates, embassies, and diplomatic missions around the world.</item>
+            <item>OFFSHORE LEAKS - 260GB - ICIJ (2013): Investigation based on a cache of 2.5 million secret records about the offshore assets of people from 170 countries and territories, obtained by ICIJ's director.</item>
+            <item>LUXEMBURG LEAKS - 4GB - ICIJ (2014): Investigation based on confidential information about Luxembourg’s tax rulings set up by PwC from 2002 to 2010 to the benefits of its clients.</item>
+            <item>SWISS LEAKS - 3.3GB - ICIJ (2015): Investigation on a giant tax evasion scheme allegedly operated with the knowledge and encouragement of the British multinational bank HSBC via its Swiss subsidiary.</item>
+            <item>PANAMA PAPARS - 2.6TB - ICIJ (2016): The Papers are 11.5 million leaked documents that detail financial and attorney–client information for more than 214,488 offshore entities. The leaked documents were created by Panamanian law firm and corporate service provider Mossack Fonseca; some date back to the 1970s.</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <graph unit="GB" x="string" y="number">
+        <dataset label="">
+          <data x="Cablegate" y="1.7" />
+          <data x="Offshore Leaks" y="260" />
+          <data x="Luxemburg Leaks" y="4" />
+          <data x="Swiss Leaks" y="3.3" />
+          <data x="Panama Papers" y="2600" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="South America" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
+        <keyword name="Northern Africa" />
+        <keyword name="Central Africa" />
+        <keyword name="Southern Africa" />
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Southern Asia" />
+        <keyword name="Southeastern Asia" />
+        <keyword name="Oceania" />
+        <keyword name="Tech" />
+        <keyword name="Privacy and Surveillance" />
+        <keyword name="Taxes" />
+        <keyword name="Global Corporations" />
+        <keyword name="1%" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>Philippines</title>
+      <abstract>
+        The Philippines is one of the most dangerous places in the world to be a journalist, especially if you’re in talk radio. According to the Philippine Center for Media Freedom and Responsibility, at least 168 journalists have been killed since 1986, when the Marcos dictatorship fell and democracy was restored.
+      </abstract>
+      <keywords>
+        <keyword name="Southeastern Asia" />
+        <keyword name="Privacy and Surveillance" />
+        <keyword name="Employment" />
+        <keyword name="Governance" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>China- 29 Mar 2016</title>
+      <abstract>
+        You Shaolei, the director of the Southern Metropolis Daily, a chinese daily Tabloid newspaper published in Guangzhou, resigned denouncing the increasing control of the media under the current President Xi Jinping.
+      </abstract>
+      <keywords>
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Privacy and Surveillance" />
+        <keyword name="Employment" />
+        <keyword name="Governance" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>Maldive - 3 April 2016</title>
+      <abstract>
+        The police intervened violently against a group of journalists who had staged a sit-in outside the office of President Abdulla Yameen; the reasons were different and linked to restrictions on press freedom in the archipelago.
+      </abstract>
+      <keywords>
+        <keyword name="Southern Asia" />
+        <keyword name="Privacy and Surveillance" />
+        <keyword name="Employment" />
+        <keyword name="Governance" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+    <section>
+      <title>Reactions of Countries Implicated in Panama Papers</title>
+      <abstract>
+        This is only a small part of the list of the reactions to Panama Papers - related to offshore tax havens -, and response's of many countries and other official bodies relating to the mass leak of legal documents.
+      </abstract>
+      <chapter>
+        <paragraph>The revelations have been discredited or censured.</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>RUSSIA: Putin denounces Panama Papers as a US plot to destabilize Russia. “The easiest way to do so is to induce some mistrust to authorities within the society” Putin said, adding that the creators of the leak aimed at the unity of the multiethnic Russian people.</item>
+            <item>CHINA: All mentions of Panama Papers were banned from Chinese websites and newspapers.</item>
+          </list>
+        </paragraph>
+        <paragraph>The leak have led to internal investigations.</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>ICELAND: A petition of 16,000 signatures and the power of newspapers have allowed the resignations of the First Minister Gunnlaugsson.</item>
+            <item>FRANCE: French president Francois Hollande welcomed the revelation of Panama papers: “I can assure you that investigations will be conducted”.</item>
+            <item>ITALY: The italian IRS will investigate the 800 Italians that appeared in tax havens files.</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>But.. Where Are the Americans at?</title>
+      </chapter>
+      <quote>
+        <author>Craig Murray, author and human rights activist</author>
+        <text>Unfortunately the leaker has made the dreadful mistake of turning to the western corporate media to publicise the results. In consequence the first major story, published by the Guardian is all about Vladimir Putin. But why focus on Russia? Russian wealth is only a tiny minority of the money hidden away with the aid of Mossack Fonseca. In fact, it soon becomes obvious that the selective reporting is going to stink.</text>
+      </quote>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
+        <keyword name="South America" />
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Privacy and Surveillance" />
+        <keyword name="Governance" />
+        <keyword name="Taxes" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>californiasunday.com</source>
+        <source>ejo.ch</source>
+        <source>espresso.repubblica.it</source>
+        <source>financialsecrecyindex.com</source>
+        <source>fusion.net</source>
+        <source>icij.org</source>
+        <source>medium.com</source>
+        <source>publicintegrity.org</source>
+        <source>qz.com</source>
+        <source>sueddeutsche.de</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>theintercept.com</source>
+        <source>tpi.it</source>
+        <source>twitter.com</source>
+        <source>wired.com</source>
+        <source>zerohedge.com</source>
+        <source>Internazionale</source>
+      </sources>
+    </section>
+  </sections>
+</bulletin>

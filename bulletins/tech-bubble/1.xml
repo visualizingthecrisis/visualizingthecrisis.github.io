@@ -1,4 +1,4 @@
-<bulletins group="techbubble">
+<bulletins>
   <title>Bursting Unicorns</title>
   <authors>
     <author>Elisa Bianchi</author>
@@ -154,9 +154,9 @@
             </graph>
             <quote>
               <author>Bill Gates</author>
-              <text>It never should be a case of closing your eyes and saying
+              <text>"It never should be a case of closing your eyes and saying
                 ‘Oh, it’s a tech company, just throw money at it.’I guess the
-                unicorns value will go down in the next two years.”</text>
+                unicorns value will go down in the next two years."</text>
               </quote>
               <chapter>
                 <title>The bet of the future: energy startups</title>

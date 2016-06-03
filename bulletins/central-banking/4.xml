@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>                                          <!--[ 1 ]-->
+<bulletins group="centralbanking">                                                                   <!--[ 1 ]-->
+  <title>OH! G.O.D.</title>                                                     <!--[ 1 ]-->
+  <subtitle>Governors Of Demand</subtitle>                                    <!--[ 1 ]-->
+  <authors>                                                                 <!--[ 1 ]-->
+    <author>Giulia Fracas</author>                                          <!--[1-N]-->
+    <author>Francesca Polini</author>
+  </authors>
+  <bulletin id="04" date="20160326">                                     <!--[1-N]-->
+    <title>Negative Interest Rates</title>                                                    <!--[0-1]-->
+    <sections>                                                            <!--[ 1 ]-->
+      <section>                                                           <!--[1-N]-->
+        <chapter>                                                         <!--[0-N]-->
+          <title>The best negatives</title>                                                          <!--[0-1]-->
+          <paragraph>Denmark and Sweden are two states that have a negative interest rate. This rate increase GDP, in fact more interest rate goes down, more GDP raises. Sweden took advantages from negative interest rate, but in this case, immigrants was the very affluence for the state. For the rest of the year, the situation could change. Also Denmark moves down interest rate and it decided to lower again if it will be necessary, because the state took advantages from that financial measure.</paragraph>                                          <!--[0-N]-->
+        </chapter>
+        <graph unit="%" x="string" y="number"> 		          <!--[0-N]-->
+          <title>Sweden</title>                                    <!--[0-1]-->
+          <abstract>The current situation and forecasts about negative interest rate and GDP in Sweden</abstract>					                        				                            <!-- max 144 char-->
+          <dataset label= "GDP">                           	<!--[1-N]-->
+            <data x="Jan-Mar" y="1.1"/>                               <!--[1-N]-->
+            <data x="Apr-Jun" y="1"/>
+            <data x="Jul-Sep" y="0.8"/>
+            <data x="Oct-Dec" y="0.7"/>
+          </dataset>
+          <dataset label= "Interest Rate">                           	<!--[1-N]-->
+            <data x="Jan-Mar" y="-0.5"/>                               <!--[1-N]-->
+            <data x="Apr-Jun" y="-0.6"/>
+            <data x="Jul-Sep" y="-0.6"/>
+            <data x="Oct-Dec" y="-0.6"/>
+          </dataset>
+        </graph>
+        <graph unit="%" x="string" y="number"> 		          <!--[0-N]-->
+          <title>Denmark</title>                                    <!--[0-1]-->
+          <abstract>The current situation and forecasts about negative interest rate and GDP in Denmark</abstract>					                        				                            <!-- max 144 char-->
+          <dataset label= "GDP">                           	<!--[1-N]-->
+            <data x="Jan-Mar" y="0.3"/>                               <!--[1-N]-->
+            <data x="Apr-Jun" y="0.4"/>
+            <data x="Jul-Sep" y="0.5"/>
+            <data x="Oct-Dec" y="0.6"/>
+          </dataset>
+          <dataset label= "Interest Rate">                           	<!--[1-N]-->
+            <data x="Jan-Mar" y="-0.65"/>                               <!--[1-N]-->
+            <data x="Apr-Jun" y="-0.65"/>
+            <data x="Jul-Sep" y="-0.45"/>
+            <data x="Oct-Dec" y="-0.25"/>
+          </dataset>
+        </graph>
+        <chapter>                                                       <!--[0-N]-->
+          <title>Sweden Interest Rate Forecast</title>								                  <!--[0-1]-->
+          <paragraph>In 2020 Interest Rate is projected to trend around 1.00%</paragraph>                        <!--[0-N]-->
+          <title>Denmark Interest Rate Forecast</title>								                  <!--[0-1]-->
+          <paragraph>In 2020 Interest Rate is projected to trend around 1.75%</paragraph>                        <!--[0-N]-->
+          <title>What is deposit rate?</title>								                  <!--[0-1]-->
+          <paragraph>It is a rate paid by financial institutions to deposit account holders. Deposit accounts include certificates of deposit, savings accounts and self-directed deposit retirement accounts.</paragraph>                        <!--[0-N]-->
+          <paragraph>Hungary and Euro Area have a positive interest rate or near zero, but they have a negative deposit rate. Practically, they do this, because to discourage banks from holding money and thus weaken the currency.</paragraph>
+        </chapter>
+        <keywords>                                                      <!--[ 1 ]-->
+          <keyword name="Interest Rates"/>                                   <!--[1-N]-->
+          <keyword name="GDP"/>
+          <keyword name="Western Europe"/>
+          <keyword name="Eastern Europe"/>
+        </keywords>
+        <sources>                                                       <!--[ 1 ]-->
+          <source>tradingeconomics.com</source>                                     <!--[1-N]-->
+          <source>econotimes.com</source>
+          <source>bloomberg.com</source>
+          <source>ibtimes.com</source>
+        </sources>
+      </section>
+      <section>                                                           <!--[1-N]-->
+        <chapter>                                                         <!--[0-N]-->
+          <title>A little improvement</title>                                                          <!--[0-1]-->
+          <paragraph>Also, Switzerland and Euro Area changed their interest rate in negative for improving economic condition. From the change, Switzerland had a little improvement in import but it has some problems in exports again. Even if BCE needs time to reach a lower unemployment level, the effect of the choice seems positive.</paragraph>                                           <!--[0-N]-->
+          <paragraph>In Euro Area the current employment rate is 10.3%, but the forecast is 9.6%</paragraph>                                           <!--[0-N]-->
+          <paragraph>In the long term, Switzerland exports previsions will stay at 17043.1 lower than imports.</paragraph>
+        </chapter>
+        <graph unit="CHF" x="date" y="number"> 		          <!--[0-N]-->
+          <title>Switzerland import/export</title>                                    <!--[0-1]-->
+          <abstract>Switzerland import and export are going better, but import is lower than export again</abstract>					                        				                            <!-- max 144 char-->
+          <dataset label= "Import">                           	<!--[1-N]-->
+            <data x="201508" y="11,476.5"/>                               <!--[1-N]-->
+            <data x="201509" y="13,909.5"/>
+            <data x="201510" y="14,340.8"/>
+            <data x="201511" y="15,207.1"/>
+            <data x="201512" y="13,607.9"/>
+            <data x="201601" y="12,797.2"/>
+            <data x="201602" y="13,550.1"/>
+          </dataset>
+          <dataset label= "Export">                           	<!--[1-N]-->
+            <data x="201508" y="14,328.8"/>                               <!--[1-N]-->
+            <data x="201509" y="17,043.1"/>
+            <data x="201510" y="18,870.6"/>
+            <data x="201511" y="18,318.4"/>
+            <data x="201512" y="16,187.1"/>
+            <data x="201601" y="16,306.6"/>
+            <data x="201602" y="17,621"/>
+          </dataset>
+        </graph>
+          <keywords>                                                      <!--[ 1 ]-->
+            <keyword name="Import/Export"/>                                    <!--[1-N]-->
+            <keyword name="Employment"/>
+            <keyword name="Western Europe"/>
+          </keywords>
+          <sources>                                                       <!--[ 1 ]-->
+            <source>tradingeconomics.com</source>                                     <!--[1-N]-->
+            <source>bloomberg.com</source>
+            <source>ilsole24ore.com</source>
+          </sources>
+        </section>
+        <section>                                                           <!--[1-N]-->
+          <chapter>                                                         <!--[0-N]-->
+            <title>The worst negative interest rate</title>                                                          <!--[0-1]-->
+            <paragraph> Last week, Japan decided to go in negative for increasing its insecure economy. Unfortunally, this financial measure didn’t work very well, in fact the Japanese currency is becoming a super-currency, because many people invest in yen and this process don’t help state’s economy.</paragraph>                                            <!--[0-N]-->
+          </chapter>
+          <table>                                                         <!--[0-N]-->
+            <row type="head">                                             <!--[ 1 ]-->
+              <cell>Japan Currency Previsions</cell>                                            <!--[1-N]-->
+              <cell>months</cell>
+            </row>
+            <row type="cell">                                             <!--[1-N]-->
+              <cell>113</cell>                                          <!--[1-N]-->
+              <cell>Jan/Mar</cell>
+            </row>
+            <row type="cell">                                             <!--[1-N]-->
+              <cell>122</cell>                                          <!--[1-N]-->
+              <cell>Apr/Jun</cell>
+            </row>
+            <row type="cell">                                             <!--[1-N]-->
+              <cell>123</cell>                                          <!--[1-N]-->
+              <cell>Jul/Sep</cell>
+            </row>
+            <row type="cell">                                             <!--[1-N]-->
+              <cell>125</cell>                                          <!--[1-N]-->
+              <cell>Oct/Dec</cell>
+            </row>
+          </table>
+          <graph unit="USD/YEN" x="date" y="number"> 		          <!--[0-N]-->
+            <title>Japan Currency</title>                                    <!--[0-1]-->
+            <abstract>Japan currency after negative interest rate is becoming a super-currency</abstract>				                                    					                            <!-- max 144 char-->
+            <dataset label= "Japan Currency">                           	<!--[1-N]-->
+              <data x="0314" y="113"/>                               <!--[1-N]-->
+              <data x="0316" y="112"/>
+              <data x="0317" y="111"/>
+              <data x="0323" y="112"/>
+              <data x="0328" y="113"/>
+            </dataset>
+          </graph>
+          <keywords>                                                      <!--[ 1 ]-->
+            <keyword name="Unconventional Monetary Policies"/>                                   <!--[1-N]-->
+            <keyword name="Interest Rates"/>
+            <keyword name="Currencies"/>
+            <keyword name="Southeastern Asia"/>
+          </keywords>
+          <sources>                                                       <!--[ 1 ]-->
+            <source>wallstreetitalia.com</source>                                     <!--[1-N]-->
+            <source>tradingeconomics.com</source>
+          </sources>
+        </section>
+        <section>                                                           <!--[1-N]-->
+          <chapter>                                                         <!--[0-N]-->
+            <title>Trend of negative?</title>                                                          <!--[0-1]-->
+            <paragraph>On March 22nd the National Bank of Hungary decided to adopt a negative rate because it want to reach 3% inflation. Now, the state’s inflation is increasing but it’s not enough, this is the reason why it changed in negative. Many other states are thinking about negative interest rate. Is it a new tendency? What can it do for the economy situation? Is it better or worste?</paragraph>                                                           <!--[0-N]-->
+            <paragraph>In 2020 Hungary is prefixing to reach the inflation rate of 3% during the year.</paragraph>                                              <!--[0-N]-->
+          </chapter>
+          <graph unit="%" x="string" y="number"> 		          <!--[0-N]-->
+            <title>Hungary</title>                                    <!--[0-1]-->
+            <abstract>Hungary is increasing its inflation with new trend of negative rate</abstract>						        					                            <!-- max 144 char-->
+            <dataset label= "Interest Rate">                           	<!--[1-N]-->
+              <data x="Jan-Mar" y="1.35"/>                               <!--[1-N]-->
+              <data x="Apr-Jun" y="1.35"/>
+              <data x="Jul-Sep" y="1.35"/>
+              <data x="Oct-Dec" y="1.35"/>
+            </dataset>
+            <dataset label= "Inflation">                           	<!--[1-N]-->
+              <data x="Jan-Mar" y="0.75"/>                               <!--[1-N]-->
+              <data x="Apr-Jun" y="1"/>
+              <data x="Jul-Sep" y="1.2"/>
+              <data x="Oct-Dec" y="1.25"/>
+            </dataset>
+          </graph>
+          <keywords>                                                      <!--[ 1 ]-->
+            <keyword name="Eastern Europe"/>                                   <!--[1-N]-->
+            <keyword name="Unconventional Monetary Policies"/>
+            <keyword name="Inflation"/>
+            <keyword name="Interest Rates"/>
+          </keywords>
+          <sources>                                                       <!--[ 1 ]-->
+            <source>tredingeconomics.com</source>                                     <!--[1-N]-->
+            <source>ilmessaggero.it</source>
+          </sources>
+        </section>
+        <section>                                                                                                                          <!--[1-N]-->
+          <quote>                                                         <!--[0-N]-->
+            <author>Claudio Borio</author>                                  <!--[ 1 ]-->
+            <text>Negative rates could cripple banks' margins, profitability and resilience. The markets cannot be expected to ignore such profound
+                  effects on the financial system. Negative rates should therefore be shelved by the central banks as a policy tool.</text>                                       <!--[ 1 ]-->
+          </quote>
+        </section>
+        <section>
+          <graph unit="%" x="string" y="number"> 		          <!--[0-N]-->
+         <title>The negative era of interest rates</title>                                    <!--[0-1]-->
+         <abstract>The decisions about interest rate in March</abstract>	                                   					                            <!-- max 144 char-->
+         <dataset label= "Interest Rate">                           	<!--[1-N]-->
+           <data x="RON" y="1.75"/>                               <!--[1-N]-->
+           <data x="RSD" y="4.25"/>
+           <data x="KRW" y="1.50"/>
+           <data x="BDT" y=" "/>
+           <data x="IDR" y="6.75"/>
+           <data x="GBP" y="0.50"/>
+           <data x="PLN" y="1.50"/>
+           <data x="PEN" y="4.25"/>
+           <data x="CLP" y="3.50"/>
+           <data x="MZN" y="10.75"/>
+           <data x="TRY" y="7.50"/>
+           <data x="SEK" y="-0.6"/>
+           <data x="KES" y="11.50"/>
+           <data x="BRL" y="14.25"/>
+           <data x="PYG" y="6.00"/>
+           <data x="MYR" y="3.25"/>
+           <data x="EUR" y="0.00"/>
+           <data x="ILS" y="0.10"/>
+           <data x="AOA" y="12.00"/>
+           <data x="HUF" y="1.20"/>
+           <data x="NGN" y="12.00"/>
+           <data x="USD" y="0.50"/>
+           <data x="NZD" y="2.25"/>
+           <data x="CHF" y="-0.75"/>
+           <data x="EGP" y="10.75"/>
+           <data x="UAH" y="17.00"/>
+           <data x="MDL" y="19.00"/>
+           <data x="ZAR" y="7.00"/>
+           <data x="RUB" y="11.00"/>
+           <data x="TTD" y="4.75"/>
+           <data x="KZT" y="17.00"/>
+           <data x="CAD" y="0.50"/>
+           <data x="AUD" y="2.00"/>
+           <data x="NAD" y="6.75"/>
+           <data x="THB" y=" "/>
+           <data x="GEL" y="8.00"/>
+           <data x="ALL" y="1.75"/>
+           <data x="JPY" y="-0.10"/>
+           <data x="MXN" y="3.75"/>
+           <data x="ISK" y="5.75"/>
+           <data x="ZMK" y="15.50"/>
+           <data x="KGS" y="10.00"/>
+           <data x="NOK" y="0.50"/>
+           <data x="LKR" y="6.50"/>
+           <data x="MAD" y="2.25"/>
+           <data x="PHP" y="4.00"/>
+           <data x="TWD" y="1.50"/>
+           <data x="INR" y=" "/>
+           <data x="COP" y=" "/>
+           <data x="UAH" y=" "/>
+           <data x="DNK" y="-0.65"/>
+           <data x="CZK" y=" "/>
+           <data x="PKR" y=" "/>
+           <data x="FJD" y="0.50"/>
+         </dataset>
+         <dataset label= "Deposite Rate">                           	<!--[1-N]-->
+           <data x="RON" y=" "/>                               <!--[1-N]-->
+           <data x="RSD" y=" "/>
+           <data x="KRW" y=" "/>
+           <data x="BDT" y=" "/>
+           <data x="IDR" y=" "/>
+           <data x="GBP" y=" "/>
+           <data x="PLN" y=" "/>
+           <data x="PEN" y=" "/>
+           <data x="CLP" y=" "/>
+           <data x="MZN" y=" "/>
+           <data x="TRY" y=" "/>
+           <data x="SEK" y="-1.20"/>
+           <data x="KES" y=" "/>
+           <data x="BRL" y=" "/>
+           <data x="PYG" y=" "/>
+           <data x="MYR" y=" "/>
+           <data x="EUR" y="-0.10"/>
+           <data x="ILS" y=" "/>
+           <data x="AOA" y=" "/>
+           <data x="HUF" y="-0.10"/>
+           <data x="NGN" y=" "/>
+           <data x="USD" y=" "/>
+           <data x="NZD" y=" "/>
+           <data x="CHF" y=" "/>
+           <data x="EGP" y=" "/>
+           <data x="UAH" y=" "/>
+           <data x="MDL" y=" "/>
+           <data x="ZAR" y=" "/>
+           <data x="RUB" y=" "/>
+           <data x="TTD" y=" "/>
+           <data x="KZT" y=" "/>
+           <data x="CAD" y=" "/>
+           <data x="AUD" y=" "/>
+           <data x="NAD" y=" "/>
+           <data x="THB" y=" "/>
+           <data x="GEL" y=" "/>
+           <data x="ALL" y=" "/>
+           <data x="JPY" y="-0.10"/>
+           <data x="MXN" y=" "/>
+           <data x="ISK" y=" "/>
+           <data x="ZMK" y=" "/>
+           <data x="KGS" y=" "/>
+           <data x="NOK" y=" "/>
+           <data x="LKR" y=" "/>
+           <data x="MAD" y=" "/>
+           <data x="PHP" y=" "/>
+           <data x="TWD" y=" "/>
+           <data x="INR" y=" "/>
+           <data x="COP" y=" "/>
+           <data x="UAH" y=" "/>
+           <data x="DNK" y="-0.65"/>
+           <data x="CZK" y=" "/>
+           <data x="PKR" y=" "/>
+           <data x="FJD" y=" "/>
+         </dataset>
+       </graph>
+          <chapter>                                                       <!--[0-N]-->
+            <title>Will world goes negative?</title>								                  <!--[0-1]-->
+            <paragraph>Imagine a bank that pays negative interest. Depositors are actually charged to keep their money in an account. Crazy as it sounds, several of Europe’s central banks have cut key interest rates below zero and kept them there for more than a year. Now Japan is trying it, too. For some, it’s a bid to reinvigorate an economy with other options exhausted. Others want to push foreigners to move their money somewhere else. Either way, it’s an unorthodox choice that has distorted financial markets and triggered warnings that the strategy could backfire. If negative interest rates work, however, they may mark the start of a new era for the world’s central banks.</paragraph>                        <!--[0-N]-->
+            <paragraph>Central banks have a meetings calendar and in those dates they can change interest rates and deposit rates.</paragraph>                                               <!--[0-N]-->
+          </chapter>
+            <keywords>                                                      <!--[ 1 ]-->
+              <keyword name="Interest Rates"/>                                    <!--[1-N]-->
+              <keyword name="Unconventional Monetary Policies"/>
+            </keywords>
+            <sources>                                                       <!--[ 1 ]-->
+              <source>centralbankinfo.com</source>                                     <!--[1-N]-->
+            </sources>
+          </section>
+        </sections>
+      </bulletin>
+    </bulletins>

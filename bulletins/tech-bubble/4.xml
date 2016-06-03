@@ -1,4 +1,4 @@
-<bulletins group="techbubble">
+<bulletins>
   <title>Bursting Unicorns</title>
   <authors>
     <author>Elisa Bianchi</author>
@@ -181,217 +181,222 @@
                             <paragraph>March 22th 2016, President Obama is in Cuba,
                               and Silicon Valley is tagging along for the ride.</paragraph>
                             </chapter>
-                            <graph unit="B$" x="date" y="number">
-                              <title>History of US-Cuban relations</title>
-                              <dataset label= "global imports">
-                                <data x="1950" y="1"/>
-                                <data x="1955" y="1"/>
-                                <data x="1960" y="1"/>
-                                <data x="1965" y="1.5"/>
-                                <data x="1970" y="2"/>
-                                <data x="1975" y="2"/>
-                                <data x="1980" y="5"/>
-                                <data x="1985" y="7"/>
-                                <data x="1990" y="8"/>
-                                <data x="1995" y="3"/>
-                                <data x="2000" y="4.5"/>
-                                <data x="2005" y="4"/>
-                                <data x="2010" y="10.2"/>
-                                <data x="2015" y="13"/>
-                              </dataset>
-                              <dataset label= "global exports">
-                                <data x="1950" y="1"/>
-                                <data x="1955" y="1"/>
-                                <data x="1960" y="1"/>
-                                <data x="1965" y="1"/>
-                                <data x="1970" y="1"/>
-                                <data x="1975" y="1.5"/>
-                                <data x="1980" y="4"/>
-                                <data x="1985" y="6"/>
-                                <data x="1990" y="6"/>
-                                <data x="1995" y="2"/>
-                                <data x="2000" y="2.5"/>
-                                <data x="2005" y="2.5"/>
-                                <data x="2010" y="3.5"/>
-                                <data x="2015" y="6"/>
-                              </dataset>
-                            </graph>
-                            <table>
-                              <row type="head">
-                                <cell>date</cell>
-                                <cell>event</cell>
-                              </row>
-                              <row type="cell">
-                                <cell>Oct '60</cell>
-                                <cell>US imposes first trade embargo</cell>
-                              </row>
-                              <row type="cell">
-                                <cell>Jan '61</cell>
-                                <cell>US breaks off diplomatic relations</cell>
-                              </row>
-                              <row type="cell">
-                                <cell>Feb '62</cell>
-                                <cell>US imposes full trade embargo</cell>
-                              </row>
-                              <row type="cell">
-                                <cell>Mar '77</cell>
-                                <cell>US travel restrictions allowed to lapse</cell>
-                              </row>
-                              <row type="cell">
-                                <cell>Nov '82</cell>
-                                <cell>Travel ban is re-established, trade sanctions tightened </cell>
-                              </row>
-                              <row type="cell">
-                                <cell>Mar '96</cell>
-                                <cell>US eases travel restriction</cell>
-                              </row>
-                              <row type="cell">
-                                <cell>Apr '09</cell>
-                                <cell>US eases travel restriction</cell>
-                              </row>
-                              <row type="cell">
-                                <cell>Mar '16</cell>
-                                <cell>Tranfer of money restiction futher easier</cell>
-                              </row>
-                            </table>
-                            <keywords>
-                              <keyword name="North America" />
-                              <keyword name="Import/Export" />
-                              <keyword name="Tourism" />
-                              <keyword name="Commerce" />
-                              <keyword name="Governance" />
-                            </keywords>
-                            <sources>
-                              <source>bloomberg.com</source>
-                              <source>qz.com</source>
-                              <source>wsj.com</source>
-                              <source>cbinsights</source>
-                            </sources>
-                          </section>
-                          <section>
-                            <title>Cuba: transfer of money</title>
-                            <graph unit="%" x="string" y="percentage">
-                              <title>Cuba GDP</title>
-                              <abstract>2 B$/year is sending by US to Cuba. This is the
-                                equivalent of 3% of the total of Cuba GDP.</abstract>
-                                <dataset label= "Cuba GDP">
-                                  <data x="Cuba GDP" y="97"/>
-                                  <data x="Cuba GDP sent by US" y="3"/>
+                            <quote>
+                              <author></author>
+                              <text>March 22th 2016, President Obama is in Cuba, and Silicon Valley
+                                is tagging along for the ride.</text>
+                              </quote>
+                              <graph unit="B$" x="date" y="number">
+                                <title>History of US-Cuban relations</title>
+                                <dataset label= "global imports">
+                                  <data x="1950" y="1"/>
+                                  <data x="1955" y="1"/>
+                                  <data x="1960" y="1"/>
+                                  <data x="1965" y="1.5"/>
+                                  <data x="1970" y="2"/>
+                                  <data x="1975" y="2"/>
+                                  <data x="1980" y="5"/>
+                                  <data x="1985" y="7"/>
+                                  <data x="1990" y="8"/>
+                                  <data x="1995" y="3"/>
+                                  <data x="2000" y="4.5"/>
+                                  <data x="2005" y="4"/>
+                                  <data x="2010" y="10.2"/>
+                                  <data x="2015" y="13"/>
+                                </dataset>
+                                <dataset label= "global exports">
+                                  <data x="1950" y="1"/>
+                                  <data x="1955" y="1"/>
+                                  <data x="1960" y="1"/>
+                                  <data x="1965" y="1"/>
+                                  <data x="1970" y="1"/>
+                                  <data x="1975" y="1.5"/>
+                                  <data x="1980" y="4"/>
+                                  <data x="1985" y="6"/>
+                                  <data x="1990" y="6"/>
+                                  <data x="1995" y="2"/>
+                                  <data x="2000" y="2.5"/>
+                                  <data x="2005" y="2.5"/>
+                                  <data x="2010" y="3.5"/>
+                                  <data x="2015" y="6"/>
                                 </dataset>
                               </graph>
-                              <chapter>
-                                <paragraph>The first country, in the ranking of countries
-                                  who receive money from USA, is Mexico that receive 21 B$,
-                                  the second one is China that receive 18 B$. Cuba is the tenth
-                                  country (2 B$). Part of this amount, 147 M$ is equivalent of 1.5%
-                                  of annual revenue of PayPal. </paragraph>
-                                </chapter>
+                              <table>
+                                <row type="head">
+                                  <cell>date</cell>
+                                  <cell>event</cell>
+                                </row>
+                                <row type="cell">
+                                  <cell>Oct '60</cell>
+                                  <cell>US imposes first trade embargo</cell>
+                                </row>
+                                <row type="cell">
+                                  <cell>Jan '61</cell>
+                                  <cell>US breaks off diplomatic relations</cell>
+                                </row>
+                                <row type="cell">
+                                  <cell>Feb '62</cell>
+                                  <cell>US imposes full trade embargo</cell>
+                                </row>
+                                <row type="cell">
+                                  <cell>Mar '77</cell>
+                                  <cell>US travel restrictions allowed to lapse</cell>
+                                </row>
+                                <row type="cell">
+                                  <cell>Nov '82</cell>
+                                  <cell>Travel ban is re-established, trade sanctions tightened </cell>
+                                </row>
+                                <row type="cell">
+                                  <cell>Mar '96</cell>
+                                  <cell>US eases travel restriction</cell>
+                                </row>
+                                <row type="cell">
+                                  <cell>Apr '09</cell>
+                                  <cell>US eases travel restriction</cell>
+                                </row>
+                                <row type="cell">
+                                  <cell>Mar '16</cell>
+                                  <cell>Tranfer of money restiction futher easier</cell>
+                                </row>
+                              </table>
+                              <keywords>
+                                <keyword name="North America" />
+                                <keyword name="Import/Export" />
+                                <keyword name="Tourism" />
+                                <keyword name="Commerce" />
+                                <keyword name="Governance" />
+                              </keywords>
+                              <sources>
+                                <source>bloomberg.com</source>
+                                <source>qz.com</source>
+                                <source>wsj.com</source>
+                                <source>cbinsights</source>
+                              </sources>
+                            </section>
+                            <section>
+                              <title>Cuba: transfer of money</title>
+                              <graph unit="%" x="string" y="percentage">
+                                <title>Cuba GDP</title>
+                                <abstract>2 B$/year is sending by US to Cuba. This is the
+                                  equivalent of 3% of the total of Cuba GDP.</abstract>
+                                  <dataset label= "Cuba GDP">
+                                    <data x="Cuba GDP" y="97"/>
+                                    <data x="Cuba GDP sent by US" y="3"/>
+                                  </dataset>
+                                </graph>
                                 <chapter>
-                                  <title>Stripe</title>
-                                  <paragraph>Last week, the company said it would
-                                    start offering Cuban entrepreneurs the ability
-                                    to incorporate companies in the U.S., set up
-                                    American bank accounts, and use Stripe to accept
-                                    payments in Cuba.</paragraph>
+                                  <paragraph>The first country, in the ranking of countries
+                                    who receive money from USA, is Mexico that receive 21 B$,
+                                    the second one is China that receive 18 B$. Cuba is the tenth
+                                    country (2 B$). Part of this amount, 147 M$ is equivalent of 1.5%
+                                    of annual revenue of PayPal. </paragraph>
                                   </chapter>
-                                  <keywords>
-                                    <keyword name="North America" />
-                                    <keyword name="Currencies" />
-                                    <keyword name="Central and Eastern Asia" />
-                                    <keyword name="Migration" />
-                                    <keyword name="Citizenship" />
-                                    <keyword name="GDP" />
-                                    <keyword name="Global Corporations" />
-                                    <keyword name="Start-ups" />
-                                    <keyword name="Tech" />
-                                    <keyword name="Investments" />
-                                  </keywords>
-                                  <sources>
-                                    <source>bloomberg.com</source>
-                                    <source>qz.com</source>
-                                    <source>wsj.com</source>
-                                    <source>cbinsights</source>
-                                  </sources>
-                                </section>
-                                <section>
-                                  <title>Cuba: travel</title>
-                                  <subtitle>Airbnb</subtitle>
                                   <chapter>
-                                    <paragraph>Cuba has been one of Airbnb’s fastest-growing
-                                      market in 2015. 13000 guests from the US booked a Cuban
-                                      Airbnb in casas particulares, and 250$ spent
-                                      per booking.</paragraph>
+                                    <title>Stripe</title>
+                                    <paragraph>Last week, the company said it would
+                                      start offering Cuban entrepreneurs the ability
+                                      to incorporate companies in the U.S., set up
+                                      American bank accounts, and use Stripe to accept
+                                      payments in Cuba.</paragraph>
                                     </chapter>
-                                    <graph x="string" y="number">
-                                      <title>Most popular cities in Cuba, by number
-                                        of Airbnb casas.</title>
-                                        <dataset label= "number of Airbnb casas">
-                                          <data x="Vinales" y="200"/>
-                                          <data x="Havana" y="2500"/>
-                                          <data x="Santa Clara" y="95"/>
-                                          <data x="Trinidad" y="330"/>
-                                          <data x="Santiago" y="150"/>
-                                        </dataset>
-                                      </graph>
-                                      <keywords>
-                                        <keyword name="North America" />
-                                        <keyword name="Sharing Economy" />
-                                        <keyword name="Start-ups" />
-                                        <keyword name="Housing and Real Estate" />
-                                        <keyword name="Tourism" />
-                                        <keyword name="Investments" />
-                                      </keywords>
-                                      <sources>
-                                        <source>bloomberg.com</source>
-                                        <source>qz.com</source>
-                                        <source>wsj.com</source>
-                                        <source>cbinsights</source>
-                                      </sources>
-                                    </section>
-                                    <section>
-                                      <title>Cuba: internet access</title>
-                                      <chapter>
-                                        <title>Netflix</title>
-                                        <paragraph>Netflix Inc, said it will offer
-                                          movies and TV shows in Cuba, becoming one
-                                          of the first U.S. companies to operate there
-                                          after President Barack Obama moved to restore
-                                          diplomatic ties.</paragraph>
-                                        </chapter>
+                                    <keywords>
+                                      <keyword name="North America" />
+                                      <keyword name="Currencies" />
+                                      <keyword name="Central and Eastern Asia" />
+                                      <keyword name="Migration" />
+                                      <keyword name="Citizenship" />
+                                      <keyword name="GDP" />
+                                      <keyword name="Global Corporations" />
+                                      <keyword name="Start-ups" />
+                                      <keyword name="Tech" />
+                                      <keyword name="Investments" />
+                                    </keywords>
+                                    <sources>
+                                      <source>bloomberg.com</source>
+                                      <source>qz.com</source>
+                                      <source>wsj.com</source>
+                                      <source>cbinsights</source>
+                                    </sources>
+                                  </section>
+                                  <section>
+                                    <title>Cuba: travel</title>
+                                    <subtitle>Airbnb</subtitle>
+                                    <chapter>
+                                      <paragraph>Cuba has been one of Airbnb’s fastest-growing
+                                        market in 2015. 13000 guests from the US booked a Cuban
+                                        Airbnb in casas particulares, and 250$ spent
+                                        per booking.</paragraph>
+                                      </chapter>
+                                      <graph x="string" y="number">
+                                        <title>Most popular cities in Cuba, by number
+                                          of Airbnb casas.</title>
+                                          <dataset label= "number of Airbnb casas">
+                                            <data x="Vinales" y="200"/>
+                                            <data x="Havana" y="2,500"/>
+                                            <data x="Santa Clara" y="95"/>
+                                            <data x="Trinidad" y="330"/>
+                                            <data x="Santiago" y="150"/>
+                                          </dataset>
+                                        </graph>
+                                        <keywords>
+                                          <keyword name="North America" />
+                                          <keyword name="Sharing Economy" />
+                                          <keyword name="Start-ups" />
+                                          <keyword name="Housing and Real Estate" />
+                                          <keyword name="Tourism" />
+                                          <keyword name="Investments" />
+                                        </keywords>
+                                        <sources>
+                                          <source>bloomberg.com</source>
+                                          <source>qz.com</source>
+                                          <source>wsj.com</source>
+                                          <source>cbinsights</source>
+                                        </sources>
+                                      </section>
+                                      <section>
+                                        <title>Cuba: internet access</title>
                                         <chapter>
-                                          <title>Google</title>
-                                          <paragraph>The arrival of Google on the scene
-                                          should do a lot to drive competition and encourage
-                                          faster digital growth. The country needs it.</paragraph>
-                                        </chapter>
+                                          <title>Netflix</title>
+                                          <paragraph>Netflix Inc, said it will offer
+                                            movies and TV shows in Cuba, becoming one
+                                            of the first U.S. companies to operate there
+                                            after President Barack Obama moved to restore
+                                            diplomatic ties.</paragraph>
+                                          </chapter>
                                           <chapter>
-                                            <paragraph>4.5 $/hour is the fee for first public wi-fi hotspot
-                                              but 20 $/month is the Cuba average monthly wage. 2.95 $/hour
-                                              is the roaming offered by the US company Verizon.</paragraph>
+                                            <title>Google</title>
+                                            <paragraph>The arrival of Google on the scene
+                                              should do a lot to drive competition and encourage
+                                              faster digital growth. The country needs it.</paragraph>
                                             </chapter>
-                                            <graph unit="%" x="string" y="percentage">
-                                              <dataset label= "internet access">
-                                                <data x="Cubans have the web access" y="30"/>
-                                                <data x="Cubans online" y="4"/>
-                                                <data x="Cubans have boardrand connections" y="0.05"/>
-                                                <data x="Cubans haven't the web access" y="65.95"/>
-                                              </dataset>
-                                            </graph>
-                                            <keywords>
-                                              <keyword name="North America" />
-                                              <keyword name="Governance" />
-                                              <keyword name="Global Corporations" />
-                                              <keyword name="In poverty" />
-                                              <keyword name="Tech" />
-                                              <keyword name="Investments" />
-                                            </keywords>
-                                            <sources>
-                                              <source>bloomberg.com</source>
-                                              <source>qz.com</source>
-                                              <source>wsj.com</source>
-                                              <source>cbinsights</source>
-                                            </sources>
-                                          </section>
-                                        </sections>
-                                      </bulletin>
-                                    </bulletins>
+                                            <chapter>
+                                              <paragraph>4.5 $/hour is the fee for first public wi-fi hotspot
+                                                but 20 $/month is the Cuba average monthly wage. 2.95 $/hour
+                                                is the roaming offered by the US company Verizon.</paragraph>
+                                              </chapter>
+                                              <graph unit="%" x="string" y="percentage">
+                                                <dataset label= "internet access">
+                                                  <data x="Cubans have the web access" y="30"/>
+                                                  <data x="Cubans online" y="4"/>
+                                                  <data x="Cubans have boardrand connections" y="0.05"/>
+                                                  <data x="Cubans haven't the web access" y="65.95"/>
+                                                </dataset>
+                                              </graph>
+                                              <keywords>
+                                                <keyword name="North America" />
+                                                <keyword name="Governance" />
+                                                <keyword name="Global Corporations" />
+                                                <keyword name="In poverty" />
+                                                <keyword name="Tech" />
+                                                <keyword name="Investments" />
+                                              </keywords>
+                                              <sources>
+                                                <source>bloomberg.com</source>
+                                                <source>qz.com</source>
+                                                <source>wsj.com</source>
+                                                <source>cbinsights</source>
+                                              </sources>
+                                            </section>
+                                          </sections>
+                                        </bulletin>
+                                      </bulletins>

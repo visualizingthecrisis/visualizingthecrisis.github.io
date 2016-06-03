@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins>
+  <title>REAL ESTATE</title>
+  <subtitle>Visualizing the crisis</subtitle>
+  <authors>
+    <author>Irene Chiappini</author>
+    <author>Giulia Serafin</author>
+  </authors>
+  <bulletin id="9" date="20160505">
+    <title>U.S. military homebuyers</title>
+    <sections>
+      <section>
+        <title>Who are home buyers</title>
+        <chapter>
+          <paragraph>34 years old is the median age of  typical active-service buyer was a lot younger than non-military buyers, 40 years old, and was more likely to be married and have multiple children living in their household. As a result, they typically bought a larger home that cost more than those purchased by both non-military buyers and veterans.
+          </paragraph>
+          <paragraph>Bought homes at a rate:
+            <list type="unordered">
+              <item>Active military: 51%</item>
+              <item>Civilian: 34%</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <graph unit="%" x="name" y="number">
+          <title>Home Buyers</title>
+          <abstract>the main part of buyer are civilian.</abstract>
+          <dataset label="home buyers">
+            <data x="Veteran military" y="3"/>
+            <data x="Active military" y="18"/>
+            <data x="Civilian" y="78"/>
+          </dataset>
+        </graph>
+        <graph unit="%" x="name" y="number">
+          <title>Home Sellers</title>
+          <abstract>the main part of sellers are civilian.</abstract>
+          <dataset label="home sellers">
+            <data x="Veteran military" y="1"/>
+            <data x="Active military" y="21"/>
+            <data x="Civilian" y="79"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="North America"/>
+          <keyword name="Employment"/>
+          <keyword name="Investments"/>
+          <keyword name="Loans"/>
+          <keyword name="Military"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>National Association of Realtors “Veterans and active military home buyers and sellers profile”</source>
+          <source>World Property Journal “Active U.S. Military Homebuyers Purchase at Younger Age”</source>
+          <source>Statista “Active Duty U.S. Army personnel numbers from 1995 to 2016”</source>
+          <source>Numbeo</source>
+        </sources>
+      </section>
+      <section>
+        <title>Veteran affairs loans</title>
+        <chapter>
+          <paragraph>Most popular loan type. Safe and affordable choise:100% financing Active and veteran military.
+          </paragraph>
+          <paragraph>
+            <list type="unordered">
+              <item>Active military: 74%</item>
+              <item>Veteran military: 54%</item>
+            </list>
+          </paragraph>
+          <paragraph>
+            <list type="unordered">
+              <item>Active military: leading the mayority financing , the entire home purchase</item>
+              <item>Veteran military: putting down a median down payment of 5%</item>
+              <item>Civilian: putting down a median down payment of 11%</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>With the ability to obtain a VA LOAN</title>
+          <paragraph>buyers said saving for a down payment was the most difficult step:
+            <list type="unordered">
+              <item>Active military: 3%</item>
+              <item>Veteran military: 5%</item>
+            </list>
+          </paragraph>
+          <paragraph>buyers said student loan debt delayed saving:
+            <list type="unordered">
+              <item>Active military: 13%</item>
+              <item>Veteran military: 4%</item>
+            </list>
+          </paragraph>
+          <paragraph>
+            <list type="unordered">
+              <item>Active military: 43% have credit card debts</item>
+              <item>Veteran military: 62% other debts</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="North America"/>
+          <keyword name="Employment"/>
+          <keyword name="Investments"/>
+          <keyword name="Loans"/>
+          <keyword name="Military"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>National Association of Realtors “Veterans and active military home buyers and sellers profile”</source>
+          <source>World Property Journal “Active U.S. Military Homebuyers Purchase at Younger Age”</source>
+          <source>Statista “Active Duty U.S. Army personnel numbers from 1995 to 2016”</source>
+          <source>Numbeo</source>
+        </sources>
+      </section>
+      <section>
+        <title>Price of home purchased</title>
+        <table>
+          <row type="head">
+            <cell></cell>
+            <cell>$75,000 to $150,000</cell>
+            <cell>$150,000 to $300,000</cell>
+            <cell>$300,000 to 500,000</cell>
+            <cell>median price</cell>
+          </row>
+          <row type="cell">
+            <cell>Veteran military</cell>
+            <cell>25%</cell>
+            <cell>48%</cell>
+            <cell>27%</cell>
+            <cell>$220.000</cell>
+          </row>
+          <row type="cell">
+            <cell>Active military</cell>
+            <cell>21%</cell>
+            <cell>45%</cell>
+            <cell>34%</cell>
+            <cell>$226.000</cell>
+          </row>
+          <row type="cell">
+            <cell>Civilian</cell>
+            <cell>27%</cell>
+            <cell>44%</cell>
+            <cell>29%</cell>
+            <cell>$220.000</cell>
+          </row>
+        </table>
+        <chapter>
+          <paragraph>Despite having a lower median income ($76,800), more stable job security and no down payment financing options give aspiring homeowners in the military a deserving advantage over their civilian peers,furthermore, their tendencies to marry and raise a family at an earlier age and carry less student debt make buying a home a more desirable and achievable option.
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="North America"/>
+          <keyword name="Employment"/>
+          <keyword name="Investments"/>
+          <keyword name="Loans"/>
+          <keyword name="Military"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>National Association of Realtors “Veterans and active military home buyers and sellers profile”</source>
+          <source>World Property Journal “Active U.S. Military Homebuyers Purchase at Younger Age”</source>
+          <source>Statista “Active Duty U.S. Army personnel numbers from 1995 to 2016”</source>
+          <source>Numbeo</source>
+        </sources>
+      </section>
+      <section>
+        <title>Charatteristics of home on which buyer compromised</title>
+        <table>
+          <row type="head">
+            <cell></cell>
+            <cell>Savings</cell>
+            <cell>Gift from relative or friend</cell>
+            <cell>401 k/pension fund including loan</cell>
+            <cell>Sale of stocks or bonds</cell>
+            <cell>Loan from relative or friend</cell>
+            <cell>Other</cell>
+          </row>
+          <row type="cell">
+            <cell>Veteran military</cell>
+            <cell>3%</cell>
+            <cell>70%</cell>
+            <cell>14%</cell>
+            <cell>2%</cell>
+            <cell>10%</cell>
+            <cell>2%</cell>
+          </row>
+          <row type="cell">
+            <cell>Active military</cell>
+            <cell>28%</cell>
+            <cell>52%</cell>
+            <cell>4%</cell>
+            <cell>2%</cell>
+            <cell>6%</cell>
+            <cell>8%</cell>
+          </row>
+          <row type="cell">
+            <cell>Civilian</cell>
+            <cell>8%</cell>
+            <cell>65%</cell>
+            <cell>13%</cell>
+            <cell>3%</cell>
+            <cell>3%</cell>
+            <cell>9%</cell>
+          </row>
+        </table>
+        <keywords>
+          <keyword name="North America"/>
+          <keyword name="Employment"/>
+          <keyword name="Investments"/>
+          <keyword name="Loans"/>
+          <keyword name="Military"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>National Association of Realtors “Veterans and active military home buyers and sellers profile”</source>
+          <source>World Property Journal “Active U.S. Military Homebuyers Purchase at Younger Age”</source>
+          <source>Statista “Active Duty U.S. Army personnel numbers from 1995 to 2016”</source>
+          <source>Numbeo</source>
+        </sources>
+      </section>
+      <section>
+        <title>Charatteristics of home on which buyer compromised</title>
+          <table>
+            <row type="head">
+              <cell></cell>
+              <cell>Price home</cell>
+              <cell>Size home</cell>
+              <cell>Distance job</cell>
+              <cell>Other compromised</cell>
+              <cell>Style home</cell>
+              <cell>Distance family</cell>
+              <cell>Distance school</cell>
+            </row>
+            <row type="cell">
+              <cell>Veteran military</cell>
+              <cell>23%</cell>
+              <cell>24%</cell>
+              <cell>22%</cell>
+              <cell>2%</cell>
+              <cell>21%</cell>
+              <cell>5%</cell>
+              <cell>4%</cell>
+            </row>
+            <row type="cell">
+              <cell>Active military</cell>
+              <cell>20%</cell>
+              <cell>17%</cell>
+              <cell>14%</cell>
+              <cell>25%</cell>
+              <cell>14%</cell>
+              <cell>6%</cell>
+              <cell>4%</cell>
+            </row>
+            <row type="cell">
+              <cell>Civilian</cell>
+              <cell>19%</cell>
+              <cell>17%</cell>
+              <cell>8%</cell>
+              <cell>38%</cell>
+              <cell>10%</cell>
+              <cell>5%</cell>
+              <cell>3%</cell>
+            </row>
+          </table>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Employment"/>
+            <keyword name="Investments"/>
+            <keyword name="Loans"/>
+            <keyword name="Military"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>National Association of Realtors “Veterans and active military home buyers and sellers profile”</source>
+            <source>World Property Journal “Active U.S. Military Homebuyers Purchase at Younger Age”</source>
+            <source>Statista “Active Duty U.S. Army personnel numbers from 1995 to 2016”</source>
+            <source>Numbeo</source>
+          </sources>
+        </section>
+        <section>
+          <title>Etnicity of home buyers</title>
+          <table>
+            <row type="head">
+              <cell></cell>
+              <cell>White</cell>
+              <cell>Hispanic</cell>
+              <cell>Black</cell>
+              <cell>Asian</cell>
+              <cell>Other</cell>
+            </row>
+            <row type="cell">
+              <cell>Veteran military</cell>
+              <cell>89%</cell>
+              <cell>4%</cell>
+              <cell>6%</cell>
+              <cell>2%</cell>
+              <cell>2%</cell>
+            </row>
+            <row type="cell">
+              <cell>Active military</cell>
+              <cell>78%</cell>
+              <cell>8%</cell>
+              <cell>12%</cell>
+              <cell>6%</cell>
+              <cell>1%</cell>
+            </row>
+            <row type="cell">
+              <cell>Civilian</cell>
+              <cell>85%</cell>
+              <cell>7%</cell>
+              <cell>4%</cell>
+              <cell>5%</cell>
+              <cell>2%</cell>
+            </row>
+          </table>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Employment"/>
+            <keyword name="Investments"/>
+            <keyword name="Loans"/>
+            <keyword name="Military"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>National Association of Realtors “Veterans and active military home buyers and sellers profile”</source>
+            <source>World Property Journal “Active U.S. Military Homebuyers Purchase at Younger Age”</source>
+            <source>Statista “Active Duty U.S. Army personnel numbers from 1995 to 2016”</source>
+            <source>Numbeo</source>
+          </sources>
+        </section>
+        <section>
+          <title>Age of home buyers</title>
+          <table>
+            <row type="head">
+              <cell></cell>
+              <cell>18-34</cell>
+              <cell>35-54</cell>
+              <cell>55-74</cell>
+              <cell>Over 75</cell>
+              <cell>Median age</cell>
+            </row>
+            <row type="cell">
+              <cell>Veteran military</cell>
+              <cell>12%</cell>
+              <cell>27%</cell>
+              <cell>52%</cell>
+              <cell>9%</cell>
+              <cell>61</cell>
+            </row>
+            <row type="cell">
+              <cell>Active military</cell>
+              <cell>51%</cell>
+              <cell>40%</cell>
+              <cell>7%</cell>
+              <cell>2%</cell>
+              <cell>34</cell>
+            </row>
+            <row type="cell">
+              <cell>Civilian</cell>
+              <cell>34%</cell>
+              <cell>38%</cell>
+              <cell>26%</cell>
+              <cell>3%</cell>
+              <cell>40</cell>
+            </row>
+          </table>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Employment"/>
+            <keyword name="Investments"/>
+            <keyword name="Loans"/>
+            <keyword name="Military"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>National Association of Realtors “Veterans and active military home buyers and sellers profile”</source>
+            <source>World Property Journal “Active U.S. Military Homebuyers Purchase at Younger Age”</source>
+            <source>Statista “Active Duty U.S. Army personnel numbers from 1995 to 2016”</source>
+            <source>Numbeo</source>
+          </sources>
+        </section>
+        <section>
+          <title>Status of home buyers</title>
+          <table>
+            <row type="head">
+              <cell></cell>
+              <cell>Married</cell>
+              <cell>Single F</cell>
+              <cell>Single M</cell>
+              <cell>Couple</cell>
+              <cell>Other</cell>
+            </row>
+            <row type="cell">
+              <cell>Veteran military</cell>
+              <cell>78%</cell>
+              <cell>4%</cell>
+              <cell>13%</cell>
+              <cell>4%</cell>
+              <cell>2%</cell>
+            </row>
+            <row type="cell">
+              <cell>Active military</cell>
+              <cell>77%</cell>
+              <cell>8%</cell>
+              <cell>4%</cell>
+              <cell>8%</cell>
+              <cell>4%</cell>
+            </row>
+            <row type="cell">
+              <cell>Civilian</cell>
+              <cell>64%</cell>
+              <cell>17%</cell>
+              <cell>8%</cell>
+              <cell>8%</cell>
+              <cell>2%</cell>
+            </row>
+          </table>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Employment"/>
+            <keyword name="Investments"/>
+            <keyword name="Loans"/>
+            <keyword name="Military"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>National Association of Realtors “Veterans and active military home buyers and sellers profile”</source>
+            <source>World Property Journal “Active U.S. Military Homebuyers Purchase at Younger Age”</source>
+            <source>Statista “Active Duty U.S. Army personnel numbers from 1995 to 2016”</source>
+            <source>Numbeo</source>
+          </sources>
+        </section>
+        <section>
+          <title>Prior living arrangement</title>
+          <table>
+            <row type="head">
+              <cell></cell>
+              <cell>Owned home</cell>
+              <cell>Rented home</cell>
+              <cell>Living with parents/friends</cell>
+              <cell>Rented home ultimately purchased</cell>
+            </row>
+            <row type="cell">
+              <cell>Veteran military</cell>
+              <cell>54%</cell>
+              <cell>40%</cell>
+              <cell>5%</cell>
+              <cell>1%</cell>
+            </row>
+            <row type="cell">
+              <cell>Active military</cell>
+              <cell>77%</cell>
+              <cell>8%</cell>
+              <cell>4%</cell>
+              <cell>8%</cell>
+            </row>
+            <row type="cell">
+              <cell>Civilian</cell>
+              <cell>64%</cell>
+              <cell>17%</cell>
+              <cell>8%</cell>
+              <cell>8%</cell>
+            </row>
+          </table>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Employment"/>
+            <keyword name="Investments"/>
+            <keyword name="Loans"/>
+            <keyword name="Military"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>National Association of Realtors “Veterans and active military home buyers and sellers profile”</source>
+            <source>World Property Journal “Active U.S. Military Homebuyers Purchase at Younger Age”</source>
+            <source>Statista “Active Duty U.S. Army personnel numbers from 1995 to 2016”</source>
+            <source>Numbeo</source>
+          </sources>
+        </section>
+        <section>
+          <title>Expenses that delayed home purchase</title>
+          <table>
+            <row type="head">
+              <cell></cell>
+              <cell>Student loans</cell>
+              <cell>Credit card debt</cell>
+              <cell>Car loan</cell>
+              <cell>Child care costs</cell>
+              <cell>Health care costs</cell>
+              <cell>Other</cell>
+            </row>
+            <row type="cell">
+              <cell>Veteran military</cell>
+              <cell>4%</cell>
+              <cell>26%</cell>
+              <cell>8%</cell>
+              <cell>4%</cell>
+              <cell>9%</cell>
+              <cell>62%</cell>
+            </row>
+            <row type="cell">
+              <cell>Active military</cell>
+              <cell>13%</cell>
+              <cell>43%</cell>
+              <cell>23%</cell>
+              <cell>7%</cell>
+              <cell> - </cell>
+              <cell>29%</cell>
+            </row>
+            <row type="cell">
+              <cell>Civilian</cell>
+              <cell>37%</cell>
+              <cell>37%</cell>
+              <cell>25%</cell>
+              <cell>14%</cell>
+              <cell>11%</cell>
+              <cell>26%</cell>
+            </row>
+          </table>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Employment"/>
+            <keyword name="Investments"/>
+            <keyword name="Loans"/>
+            <keyword name="Military"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>National Association of Realtors “Veterans and active military home buyers and sellers profile”</source>
+            <source>World Property Journal “Active U.S. Military Homebuyers Purchase at Younger Age”</source>
+            <source>Statista “Active Duty U.S. Army personnel numbers from 1995 to 2016”</source>
+            <source>Numbeo</source>
+          </sources>
+        </section>
+        <section>
+          <title>Location of home purchased</title>
+          <table>
+            <row type="head">
+              <cell></cell>
+              <cell>Suburb</cell>
+              <cell>Small town</cell>
+              <cell>Central city</cell>
+              <cell>Rural area</cell>
+              <cell>Resort</cell>
+            </row>
+            <row type="cell">
+              <cell>Veteran military</cell>
+              <cell>52%</cell>
+              <cell>22%</cell>
+              <cell>9%</cell>
+              <cell>13%</cell>
+              <cell>3%</cell>
+            </row>
+            <row type="cell">
+              <cell>Active military</cell>
+              <cell>53%</cell>
+              <cell>18%</cell>
+              <cell>12%</cell>
+              <cell>15%</cell>
+              <cell>2%</cell>
+            </row>
+            <row type="cell">
+              <cell>Civilian</cell>
+              <cell>52%</cell>
+              <cell>19%</cell>
+              <cell>14%</cell>
+              <cell>13%</cell>
+              <cell>2%</cell>
+            </row>
+          </table>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Employment"/>
+            <keyword name="Investments"/>
+            <keyword name="Loans"/>
+            <keyword name="Military"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>National Association of Realtors “Veterans and active military home buyers and sellers profile”</source>
+            <source>World Property Journal “Active U.S. Military Homebuyers Purchase at Younger Age”</source>
+            <source>Statista “Active Duty U.S. Army personnel numbers from 1995 to 2016”</source>
+            <source>Numbeo</source>
+          </sources>
+        </section>
+        <section>
+          <title>Typology of home purchased</title>
+          <table>
+            <row type="head">
+              <cell></cell>
+              <cell>Detached single-family</cell>
+              <cell>Townhouse</cell>
+              <cell>Apartment</cell>
+              <cell>Duplex</cell>
+              <cell>Other</cell>
+            </row>
+            <row type="cell">
+              <cell>Veteran military</cell>
+              <cell>64%</cell>
+              <cell>17%</cell>
+              <cell>8%</cell>
+              <cell>8%</cell>
+              <cell>2%</cell>
+            </row>
+            <row type="cell">
+              <cell>Active military</cell>
+              <cell>84%</cell>
+              <cell>5%</cell>
+              <cell>1%</cell>
+              <cell>2%</cell>
+              <cell>8%</cell>
+            </row>
+            <row type="cell">
+              <cell>Civilian</cell>
+              <cell>83%</cell>
+              <cell>7%</cell>
+              <cell>2%</cell>
+              <cell>2%</cell>
+              <cell>6%</cell>
+            </row>
+          </table>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Employment"/>
+            <keyword name="Investments"/>
+            <keyword name="Loans"/>
+            <keyword name="Military"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>National Association of Realtors “Veterans and active military home buyers and sellers profile”</source>
+            <source>World Property Journal “Active U.S. Military Homebuyers Purchase at Younger Age”</source>
+            <source>Statista “Active Duty U.S. Army personnel numbers from 1995 to 2016”</source>
+            <source>Numbeo</source>
+          </sources>
+        </section>
+        <section>
+          <title>Factors to move</title>
+          <table>
+            <row type="head">
+              <cell></cell>
+              <cell>Life changes</cell>
+              <cell>Never moving</cell>
+              <cell>For carreer/job</cell>
+              <cell>For a better area</cell>
+              <cell>Outgrow home</cell>
+              <cell>Outgrow home</cell>
+            </row>
+            <row type="cell">
+              <cell>Veteran military</cell>
+              <cell>41%</cell>
+              <cell>30%</cell>
+              <cell>10%</cell>
+              <cell>8%</cell>
+              <cell>3%</cell>
+              <cell>9%</cell>
+            </row>
+            <row type="cell">
+              <cell>Active military</cell>
+              <cell>9%</cell>
+              <cell>9%</cell>
+              <cell>53%</cell>
+              <cell>5%</cell>
+              <cell>5%</cell>
+              <cell>5%</cell>
+            </row>
+            <row type="cell">
+              <cell>Civilian</cell>
+              <cell>41%</cell>
+              <cell>22%</cell>
+              <cell>16%</cell>
+              <cell>8%</cell>
+              <cell>6%</cell>
+              <cell>6%</cell>
+            </row>
+          </table>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="Employment"/>
+            <keyword name="Investments"/>
+            <keyword name="Loans"/>
+            <keyword name="Military"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>National Association of Realtors “Veterans and active military home buyers and sellers profile”</source>
+            <source>World Property Journal “Active U.S. Military Homebuyers Purchase at Younger Age”</source>
+            <source>Statista “Active Duty U.S. Army personnel numbers from 1995 to 2016”</source>
+            <source>Numbeo</source>
+          </sources>
+        </section>
+      </sections>
+    </bulletin>
+  </bulletins>

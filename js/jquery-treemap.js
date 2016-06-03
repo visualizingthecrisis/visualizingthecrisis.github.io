@@ -100,6 +100,9 @@
             var $content = $("<div>" + node.label + "</div>");
             $content.addClass('treemap-label');
             $content.css({
+              'margin-top':'1px',
+              'margin-left':'1px',
+
                 'display': 'relative',
                 'position': 'relative',
                 'text-align': 'left',

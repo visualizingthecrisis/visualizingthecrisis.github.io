@@ -1,0 +1,1267 @@
+<bulletin id="issue 9" date="20160507">
+  <sections>
+    <section>
+      <graph unit="%" x="date" y="number">
+        <title>'Basic Income' Searches in Google</title>
+        <dataset label="">
+          <data x="20110430" y="26" />
+          <data x="20111031" y="20" />
+          <data x="20120430" y="27" />
+          <data x="20121031" y="17" />
+          <data x="20130430" y="29" />
+          <data x="20131031" y="40" />
+          <data x="20140430" y="41" />
+          <data x="20141031" y="26" />
+          <data x="20150430" y="42" />
+          <data x="20151031" y="42" />
+          <data x="20160430" y="76" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Income and Pensions" />
+      </keywords>
+      <sources>
+        <source>google.it/trends</source>
+      </sources>
+    </section>
+    <section>
+      <title>The World's Most Miserable Economies</title>
+      <abstract>
+        The misery index is an economic indicator - created by economist Arthur Okun - that helps determine how the average citizen is doing economically and it is calculated by adding the seasonally adjusted unemployment rate to the annual inflation rate.
+      </abstract>
+      <graph unit="" x="location" y="number">
+        <title>Venezuela Has an Unhappy First Place</title>
+        <dataset label="">
+          <data x="VE" y="159.5" />
+          <data x="AR" y="40" />
+          <data x="ZA" y="32" />
+          <data x="GR" y="27" />
+          <data x="UA" y="26" />
+        </dataset>
+      </graph>
+      <graph unit="%" x="location" y="number">
+        <dataset label="Inflation">
+          <data x="VE" y="152" />
+          <data x="AR" y="32" />
+          <data x="ZA" y="6" />
+          <data x="GR" y="0.5" />
+          <data x="UA" y="16" />
+        </dataset>
+        <dataset label="Unemployment">
+          <data x="VE" y="7.5" />
+          <data x="AR" y="8" />
+          <data x="ZA" y="26" />
+          <data x="GR" y="26.5" />
+          <data x="UA" y="10" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>Thanks to off-the-charts inflation, Venezuela will probably retain the dubious honor of being the most miserable economy in 2016. Galloping inflation at an annual average of 98.3% last year alongside 6.8% unemployment earned the South American country the runaway top spot on the 2015 misery index.</paragraph>
+      </chapter>
+      <chapter>
+        <title>In Addition to the Economic Crisis, the Energy Crisis</title>
+        <paragraph>In a desperate attempt to save electricity, drought-stricken Venezuela has introduced a new concept to the workplace calendar: the five-day weekend.</paragraph>
+        <paragraph>The president Nicolás Maduro announced that public employees will work only two days a week and that in the most populous states there will be continuous power outages.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="South America" />
+        <keyword name="Southern Africa" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Employment" />
+        <keyword name="Inflation/Deflation" />
+        <keyword name="Governance" />
+        <keyword name="In poverty" />
+        <keyword name="Working class" />
+      </keywords>
+      <sources>
+        <source>aljazeera.com</source>
+        <source>basicincome.org</source>
+        <source>bloomberg.com</source>
+        <source>elespectador.com</source>
+        <source>fastcompany.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>foxnews.com</source>
+        <source>google.it/trends</source>
+        <source>huffingtonpost.com</source>
+        <source>mediapart.fr</source>
+        <source>oecd.org</source>
+        <source>qz.com</source>
+        <source>ritholtz.com</source>
+        <source>seattletimes.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>vox.com</source>
+        <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
+      </sources>
+    </section>
+    <section>
+      <title>Misery Index</title>
+      <chapter>
+        <paragraph>Misery index estimates - calculated by adding the seasonally adjusted unemployment rate to the annual inflation rate - were compiled using the median estimates in Bloomberg economic surveys from the past three months. Figures for 2015 and 2016 inflation and unemployment data reflect the average over the year and use the most current data available for each country.</paragraph>
+      </chapter>
+      <table>
+        <row type="head">
+          <cell>Country</cell>
+          <cell>Misery Index 2016</cell>
+          <cell>Rank 2016</cell>
+          <cell>Misery Index 2015</cell>
+          <cell>Rank 2015</cell>
+        </row>
+        <row type="cell">
+          <cell>Venezuela</cell>
+          <cell>159.7</cell>
+          <cell>1</cell>
+          <cell>105.1</cell>
+          <cell>1</cell>
+        </row>
+        <row type="cell">
+          <cell>Argentina</cell>
+          <cell>39.9</cell>
+          <cell>2</cell>
+          <cell>22.1</cell>
+          <cell>5</cell>
+        </row>
+        <row type="cell">
+          <cell>South Africa</cell>
+          <cell>32.0</cell>
+          <cell>3</cell>
+          <cell>30.2</cell>
+          <cell>3</cell>
+        </row>
+        <row type="cell">
+          <cell>Greece</cell>
+          <cell>27.0</cell>
+          <cell>4</cell>
+          <cell>23.4</cell>
+          <cell>4</cell>
+        </row>
+        <row type="cell">
+          <cell>Ukraine</cell>
+          <cell>26.3</cell>
+          <cell>5</cell>
+          <cell>57.8</cell>
+          <cell>2</cell>
+        </row>
+        <row type="cell">
+          <cell>Spain</cell>
+          <cell>21.2</cell>
+          <cell>6</cell>
+          <cell>21.6</cell>
+          <cell>6</cell>
+        </row>
+        <row type="cell">
+          <cell>Serbia</cell>
+          <cell>20.9</cell>
+          <cell>7</cell>
+          <cell>-</cell>
+          <cell>-</cell>
+        </row>
+        <row type="cell">
+          <cell>Turkey</cell>
+          <cell>18.8</cell>
+          <cell>8</cell>
+          <cell>17.9</cell>
+          <cell>8</cell>
+        </row>
+        <row type="cell">
+          <cell>Brazil</cell>
+          <cell>16.8</cell>
+          <cell>9</cell>
+          <cell>15.8</cell>
+          <cell>11</cell>
+        </row>
+        <row type="cell">
+          <cell>Kazakhstan</cell>
+          <cell>16.7</cell>
+          <cell>10</cell>
+          <cell>17.3</cell>
+          <cell>9</cell>
+        </row>
+        <row type="cell">
+          <cell>Croatia</cell>
+          <cell>16.7</cell>
+          <cell>11</cell>
+          <cell>11.6</cell>
+          <cell>17</cell>
+        </row>
+        <row type="cell">
+          <cell>Uruguay</cell>
+          <cell>16.5</cell>
+          <cell>12</cell>
+          <cell>16.2</cell>
+          <cell>10</cell>
+        </row>
+        <row type="cell">
+          <cell>Cyprus</cell>
+          <cell>15.7</cell>
+          <cell>13</cell>
+          <cell>13.5</cell>
+          <cell>13</cell>
+        </row>
+        <row type="cell">
+          <cell>Russia</cell>
+          <cell>14.5</cell>
+          <cell>14</cell>
+          <cell>21.1</cell>
+          <cell>7</cell>
+        </row>
+        <row type="cell">
+          <cell>Colombia</cell>
+          <cell>14.5</cell>
+          <cell>15</cell>
+          <cell>13.9</cell>
+          <cell>12</cell>
+        </row>
+        <row type="cell">
+          <cell>Portugal</cell>
+          <cell>12.5</cell>
+          <cell>16</cell>
+          <cell>13.0</cell>
+          <cell>14</cell>
+        </row>
+        <row type="cell">
+          <cell>Costa Rica</cell>
+          <cell>12.1</cell>
+          <cell>17</cell>
+          <cell>10.4</cell>
+          <cell>22</cell>
+        </row>
+        <row type="cell">
+          <cell>Italy</cell>
+          <cell>12.0</cell>
+          <cell>18</cell>
+          <cell>12.0</cell>
+          <cell>16</cell>
+        </row>
+        <row type="cell">
+          <cell>Slovakia</cell>
+          <cell>11.4</cell>
+          <cell>19</cell>
+          <cell>11.2</cell>
+          <cell>18</cell>
+        </row>
+        <row type="cell">
+          <cell>Euro Area</cell>
+          <cell>11.2</cell>
+          <cell>20</cell>
+          <cell>10.9</cell>
+          <cell>19</cell>
+        </row>
+        <row type="cell">
+          <cell>France</cell>
+          <cell>11.1</cell>
+          <cell>21</cell>
+          <cell>10.5</cell>
+          <cell>21</cell>
+        </row>
+        <row type="cell">
+          <cell>Indonesia</cell>
+          <cell>11.0</cell>
+          <cell>22</cell>
+          <cell>12.4</cell>
+          <cell>15</cell>
+        </row>
+        <row type="cell">
+          <cell>Lithuania</cell>
+          <cell>10.9</cell>
+          <cell>23</cell>
+          <cell>8.8</cell>
+          <cell>29</cell>
+        </row>
+        <row type="cell">
+          <cell>Latvia</cell>
+          <cell>10.9</cell>
+          <cell>24</cell>
+          <cell>8.2</cell>
+          <cell>31</cell>
+        </row>
+        <row type="cell">
+          <cell>Chile</cell>
+          <cell>10.7</cell>
+          <cell>25</cell>
+          <cell>10.6</cell>
+          <cell>20</cell>
+        </row>
+        <row type="cell">
+          <cell>Finland</cell>
+          <cell>10.4</cell>
+          <cell>26</cell>
+          <cell>9.2</cell>
+          <cell>27</cell>
+        </row>
+        <row type="cell">
+          <cell>Poland</cell>
+          <cell>10.1</cell>
+          <cell>27</cell>
+          <cell>6.6</cell>
+          <cell>42</cell>
+        </row>
+        <row type="cell">
+          <cell>Belgium</cell>
+          <cell>9.9</cell>
+          <cell>28</cell>
+          <cell>9.0</cell>
+          <cell>28</cell>
+        </row>
+        <row type="cell">
+          <cell>Peru</cell>
+          <cell>9.8</cell>
+          <cell>29</cell>
+          <cell>10.0</cell>
+          <cell>24</cell>
+        </row>
+        <row type="cell">
+          <cell>Slovenia</cell>
+          <cell>9.7</cell>
+          <cell>30</cell>
+          <cell>8.6</cell>
+          <cell>30</cell>
+        </row>
+        <row type="cell">
+          <cell>Ireland</cell>
+          <cell>9.6</cell>
+          <cell>31</cell>
+          <cell>9.3</cell>
+          <cell>26</cell>
+        </row>
+        <row type="cell">
+          <cell>Ecuador</cell>
+          <cell>9.3</cell>
+          <cell>32</cell>
+          <cell>10.0</cell>
+          <cell>23</cell>
+        </row>
+        <row type="cell">
+          <cell>Bulgaria</cell>
+          <cell>9.3</cell>
+          <cell>33</cell>
+          <cell>9.4</cell>
+          <cell>25</cell>
+        </row>
+        <row type="cell">
+          <cell>Philippines</cell>
+          <cell>9.0</cell>
+          <cell>34</cell>
+          <cell>7.7</cell>
+          <cell>33</cell>
+        </row>
+        <row type="cell">
+          <cell>Hungary</cell>
+          <cell>9.0</cell>
+          <cell>35</cell>
+          <cell>6.9</cell>
+          <cell>39</cell>
+        </row>
+        <row type="cell">
+          <cell>Sri Lanka</cell>
+          <cell>8.7</cell>
+          <cell>36</cell>
+          <cell>-</cell>
+          <cell>-</cell>
+        </row>
+        <row type="cell">
+          <cell>Canada</cell>
+          <cell>8.6</cell>
+          <cell>37</cell>
+          <cell>8.0</cell>
+          <cell>32</cell>
+        </row>
+        <row type="cell">
+          <cell>Australia</cell>
+          <cell>8.2</cell>
+          <cell>38</cell>
+          <cell>7.6</cell>
+          <cell>34</cell>
+        </row>
+        <row type="cell">
+          <cell>Sweden</cell>
+          <cell>8.0</cell>
+          <cell>39</cell>
+          <cell>7.4</cell>
+          <cell>36</cell>
+        </row>
+        <row type="cell">
+          <cell>Estonia</cell>
+          <cell>7.9</cell>
+          <cell>40</cell>
+          <cell>5.7</cell>
+          <cell>47</cell>
+        </row>
+        <row type="cell">
+          <cell>Netherlands</cell>
+          <cell>7.8</cell>
+          <cell>41</cell>
+          <cell>7.5</cell>
+          <cell>35</cell>
+        </row>
+        <row type="cell">
+          <cell>New Zealand</cell>
+          <cell>7.7</cell>
+          <cell>42</cell>
+          <cell>6.1</cell>
+          <cell>46</cell>
+        </row>
+        <row type="cell">
+          <cell>Germany</cell>
+          <cell>7.5</cell>
+          <cell>43</cell>
+          <cell>6.7</cell>
+          <cell>40</cell>
+        </row>
+        <row type="cell">
+          <cell>Czech Republic</cell>
+          <cell>7.4</cell>
+          <cell>44</cell>
+          <cell>7.1</cell>
+          <cell>37</cell>
+        </row>
+        <row type="cell">
+          <cell>Mexico</cell>
+          <cell>7.4</cell>
+          <cell>45</cell>
+          <cell>7.1</cell>
+          <cell>38</cell>
+        </row>
+        <row type="cell">
+          <cell>Austria</cell>
+          <cell>7.4</cell>
+          <cell>46</cell>
+          <cell>5.4</cell>
+          <cell>51</cell>
+        </row>
+        <row type="cell">
+          <cell>El Salvador</cell>
+          <cell>7.3</cell>
+          <cell>47</cell>
+          <cell>-</cell>
+          <cell>-</cell>
+        </row>
+        <row type="cell">
+          <cell>Luxembourg</cell>
+          <cell>7.3</cell>
+          <cell>48</cell>
+          <cell>6.6</cell>
+          <cell>41</cell>
+        </row>
+        <row type="cell">
+          <cell>Norway</cell>
+          <cell>6.9</cell>
+          <cell>49</cell>
+          <cell>6.5</cell>
+          <cell>43</cell>
+        </row>
+        <row type="cell">
+          <cell>Iceland</cell>
+          <cell>6.4</cell>
+          <cell>50</cell>
+          <cell>5.4</cell>
+          <cell>50</cell>
+        </row>
+        <row type="cell">
+          <cell>United States</cell>
+          <cell>6.4</cell>
+          <cell>51</cell>
+          <cell>4.6</cell>
+          <cell>53</cell>
+        </row>
+        <row type="cell">
+          <cell>Malaysia</cell>
+          <cell>6.3</cell>
+          <cell>52</cell>
+          <cell>5.2</cell>
+          <cell>52</cell>
+        </row>
+        <row type="cell">
+          <cell>Romania</cell>
+          <cell>6.3</cell>
+          <cell>53</cell>
+          <cell>6.3</cell>
+          <cell>45</cell>
+        </row>
+        <row type="cell">
+          <cell>United Kingdom</cell>
+          <cell>6.2</cell>
+          <cell>54</cell>
+          <cell>5.5</cell>
+          <cell>48</cell>
+        </row>
+        <row type="cell">
+          <cell>Hong Kong</cell>
+          <cell>6.0</cell>
+          <cell>55</cell>
+          <cell>6.3</cell>
+          <cell>44</cell>
+        </row>
+        <row type="cell">
+          <cell>Denmark</cell>
+          <cell>5.9</cell>
+          <cell>56</cell>
+          <cell>4.3</cell>
+          <cell>55</cell>
+        </row>
+        <row type="cell">
+          <cell>China</cell>
+          <cell>5.8</cell>
+          <cell>57</cell>
+          <cell>5.5</cell>
+          <cell>49</cell>
+        </row>
+        <row type="cell">
+          <cell>South Korea</cell>
+          <cell>5.0</cell>
+          <cell>58</cell>
+          <cell>4.3</cell>
+          <cell>54</cell>
+        </row>
+        <row type="cell">
+          <cell>Taiwan</cell>
+          <cell>4.8</cell>
+          <cell>59</cell>
+          <cell>3.5</cell>
+          <cell>57</cell>
+        </row>
+        <row type="cell">
+          <cell>Japan</cell>
+          <cell>4.0</cell>
+          <cell>60</cell>
+          <cell>4.2</cell>
+          <cell>56</cell>
+        </row>
+        <row type="cell">
+          <cell>Switzerland</cell>
+          <cell>3.2</cell>
+          <cell>61</cell>
+          <cell>2.2</cell>
+          <cell>58</cell>
+        </row>
+        <row type="cell">
+          <cell>Singapore</cell>
+          <cell>2.6</cell>
+          <cell>62</cell>
+          <cell>1.4</cell>
+          <cell>59</cell>
+        </row>
+        <row type="cell">
+          <cell>Thailand</cell>
+          <cell>2.2</cell>
+          <cell>63</cell>
+          <cell>0.0</cell>
+          <cell>60</cell>
+        </row>
+      </table>
+      <chapter>
+        <paragraph>The ranking of 63 economies is compiled by adding a country's jobless rate and inflation, a long-standing calculation in which a higher score indicates more misery. Venezuela's 159.7 tally for the 2016 misery quadruples the next-worst ranking Argentina.</paragraph>
+        <paragraph>The world's happiest economies this year will look quite similar to last year's rankings. Thailand, in part due to unique structural issues that allow more people to count as employed, will stay as least miserable.</paragraph>
+      </chapter>
+      <graph unit="%" x="date" y="percentage">
+        <title>Thailand and Venezuela Unemployment Rate Distance</title>
+        <dataset label="Venezuela">
+          <data x="20150131" y="7.90" />
+          <data x="20150228" y="7.60" />
+          <data x="20150331" y="6.20" />
+          <data x="20150430" y="7.00" />
+          <data x="20150531" y="6.60" />
+          <data x="20150630" y="7.00" />
+          <data x="20150731" y="7.00" />
+          <data x="20150831" y="6.60" />
+          <data x="20150930" y="7.10" />
+          <data x="20151031" y="6.70" />
+          <data x="20151130" y="6.10" />
+          <data x="20151231" y="6.00" />
+        </dataset>
+        <dataset label="Thailand">
+          <data x="20150131" y="1.50" />
+          <data x="20150228" y="0.82" />
+          <data x="20150331" y="0.98" />
+          <data x="20150430" y="0.85" />
+          <data x="20150531" y="0.93" />
+          <data x="20150630" y="0.83" />
+          <data x="20150731" y="1.00" />
+          <data x="20150831" y="0.97" />
+          <data x="20150930" y="0.80" />
+          <data x="20151031" y="0.90" />
+          <data x="20151130" y="0.90" />
+          <data x="20151231" y="0.65" />
+        </dataset>
+      </graph>
+      <quote>
+        <author>Chirathep Senivongs Na Ayudhya, Bank of Thailand spokesman</author>
+        <text>Our unemployment rate has been low not because of a different definition from other countries, but because of structural problems. The agricultural sector absorbs laborers and those who can't find work can always look for jobs in the informal sector or do something on their own.</text>
+      </quote>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="South America" />
+        <keyword name="Western Europe" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Southern Asia" />
+        <keyword name="Southeastern Asia" />
+        <keyword name="Oceania" />
+        <keyword name="Employment" />
+        <keyword name="Inflation/Deflation" />
+        <keyword name="Governance" />
+        <keyword name="In poverty" />
+        <keyword name="Agriculture" />
+        <keyword name="Working class" />
+      </keywords>
+      <sources>
+        <source>aljazeera.com</source>
+        <source>basicincome.org</source>
+        <source>bloomberg.com</source>
+        <source>elespectador.com</source>
+        <source>fastcompany.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>foxnews.com</source>
+        <source>google.it/trends</source>
+        <source>huffingtonpost.com</source>
+        <source>mediapart.fr</source>
+        <source>oecd.org</source>
+        <source>qz.com</source>
+        <source>ritholtz.com</source>
+        <source>seattletimes.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>vox.com</source>
+        <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
+      </sources>
+    </section>
+    <section>
+      <title>Revolutions In Progress</title>
+      <abstract>
+        Labour Day is an annual holiday to celebrate the achievements of workers. Labour Day has its origins in the labour union movement, specifically the eight-hour day movement, which advocated eight hours for work, eight hours for recreation, and eight hours for rest. For many countries, Labour Day is synonymous with, or linked with, International Workers' Day, which occurs on 1 May.
+      </abstract>
+      <chapter>
+        <title>May Day</title>
+        <paragraph>Main peaceful demonstrations</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>LOS ANGELES. Hundreds of people marched in a rally that took aim at Republican presidential front-runner Donald Trump for his anti-illegal immigration platform that includes building a wall along the U.S. border with Mexico.</item>
+            <item>PORTLAND / S. FRANCISCO / OAKLAND. Large events also took place in Portland, San Francisco and Oakland. Hundreds of workers rallied along cities' streets in support of immigrant and workers' rights and to demand justice for several men killed by city police.</item>
+            <item>SAO PAULO. Brazilian President Dilma Rousseff join Sao Paulo's rally announcing to tens of thousands of backers that she will beef up a flagship social program, reduce the impact of income tax and build another 25,000 new low-price homes.</item>
+            <item>LONDON. Labour Party leader Corbyn joined thousands of people at a rally in central London, using the occasion to condemn the progress of far-right groups throughout Europe: he said the party is united against the far-right and against racism.</item>
+            <item>BERLIN / HAMBURG.Thousands of people in the German cities of Berlin and Hamburg were participating in demonstrations. The protests were peaceful, with police reporting only minor incidents of violence.</item>
+            <item>MOSCOW. Tens of thousands of people marched across Moscow's Red Square in a pro-Kremlin workers' rally. The slogans focused on wages and jobs for young professionals and clearly criticized Putin's government for falling living standards.</item>
+            <item>SEOUL. Tens of thousands of South Koreans took part in rallies to criticise labour reforms pushed by the government and to call for a higher minimum wage. Labour activists say the reform bill will make it easier for companies to lay off workers.</item>
+            <item>TAIPEI.Labor unions took to the streets with a march to call on the government: thousands of protesters from different labor groups staged a rally on a street to ask for raising minimum wage and shorter working hours.</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>Mayday</title>
+        <paragraph>Main violent protests</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>PARIS. The celebrations coincided with nationwide escalating protests against labor law reforms. The CGT labor union said there were more than 70,000 protesters in Paris alone. Clashes with police were reported. Since March 31, hundreds of thousands of predominantly young protesters all over France have struggled against the reform; here are some points: new provisions regarding working hours, social dialogue, layoffs and working conditions</item>
+            <item>SEATTLE. What began as peaceful protests for immigration and workers rights erupted into violence when anti-capitalist demonstrators began throwing rocks and bottles, clashing with Seattle police: 9 arrested, 5 officers hurt.</item>
+            <item>MONTREAL. Several hundred anticapitalist demonstrators marched through the streets of Montreal. The rally turned violent after protesters started throwing projectiles and breaking windows at a downtown police station.</item>
+            <item>TURIN. Police had to interfere when far-left protesters staged a demonstration to oppose supporters of the ruling Democratic Party, who had gathered in the city. The protesters lit flares and held banners denouncing the Prime Minister.</item>
+            <item>PLAUEN.A group of around 500 right-wing protesters marched in the city, while1,500 of left-wingers also gathered, resulting in clashes between opposing demonstrators: police used water cannon against protesters.</item>
+            <item>INSTANBUL. Thousands of demonstrators rallied in an authorized area of Istanbul while police cracked down on other protests. Police used tear gas and water cannons on demonstrators trying to reach Taksim Square. One man died.</item>
+            <item>MANILA. About 2,000 left-wing protesters scuffled with riot police, who used shields and a water cannon to try to prevent the demonstrators from getting near the U.S. Embassy. Labor leaders said 20 protesters were injured.</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="South America" />
+        <keyword name="Western Europe" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Southeastern Asia" />
+        <keyword name="Employment" />
+        <keyword name="US Elections" />
+        <keyword name="Migration" />
+        <keyword name="Governance" />
+        <keyword name="Taxes" />
+        <keyword name="Income and Pensions" />
+        <keyword name="Working class" />
+      </keywords>
+      <sources>
+        <source>aljazeera.com</source>
+        <source>basicincome.org</source>
+        <source>bloomberg.com</source>
+        <source>elespectador.com</source>
+        <source>fastcompany.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>foxnews.com</source>
+        <source>google.it/trends</source>
+        <source>huffingtonpost.com</source>
+        <source>mediapart.fr</source>
+        <source>oecd.org</source>
+        <source>qz.com</source>
+        <source>ritholtz.com</source>
+        <source>seattletimes.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>vox.com</source>
+        <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
+      </sources>
+    </section>
+    <section>
+      <title>Minimum-Wage Madness</title>
+      <subtitle>Fight for $15!</subtitle>
+      <chapter>
+        <paragraph>On November 29, 2012, New York City’s fast food workers took to the streets to demand fair pay. It was the beginning of a movement dubbed “Fight for $15”. The employees earned anywhere from $7.50 to $8.50, which put them below the poverty line. Though the protests received national coverage, many thought such a drastic wage increase to be a pipe dream.</paragraph>
+        <paragraph>Now things are changing. Last month New York State’s legislature passed a plan that would raise New York City’s minimum wage to $15 an hour by 2018, and have the rest of the state’s minimum hourly wage rise to at least $12.50.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Employment" />
+        <keyword name="Governance" />
+        <keyword name="Income and Pensions" />
+        <keyword name="Working class" />
+        <keyword name="In poverty" />
+      </keywords>
+      <sources>
+        <source>aljazeera.com</source>
+        <source>basicincome.org</source>
+        <source>bloomberg.com</source>
+        <source>elespectador.com</source>
+        <source>fastcompany.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>foxnews.com</source>
+        <source>google.it/trends</source>
+        <source>huffingtonpost.com</source>
+        <source>mediapart.fr</source>
+        <source>oecd.org</source>
+        <source>qz.com</source>
+        <source>ritholtz.com</source>
+        <source>seattletimes.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>vox.com</source>
+        <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
+      </sources>
+    </section>
+    <section>
+      <graph unit="" x="location" y="number">
+        <title>Ratio of the Minimum Wage to Median Wage in OECD Countries</title>
+        <dataset label="">
+          <data x="TR" y="0.677" />
+          <data x="CL" y="0.676" />
+          <data x="FR" y="0.611" />
+          <data x="SI" y="0.609" />
+          <data x="NZ" y="0.596" />
+          <data x="PT" y="0.575" />
+          <data x="LU" y="0.566" />
+          <data x="IL" y="0.563" />
+          <data x="HU" y="0.536" />
+          <data x="AU" y="0.533" />
+          <data x="RO" y="0.531" />
+          <data x="LV" y="0.508" />
+          <data x="BE" y="0.505" />
+          <data x="PL" y="0.502" />
+          <data x="LT" y="0.494" />
+          <data x="GB" y="0.480" />
+          <data x="NL" y="0.477" />
+          <data x="SK" y="0.475" />
+          <data x="GR" y="0.461" />
+          <data x="KR" y="0.458" />
+          <data x="CA" y="0.451" />
+          <data x="IE" y="0.431" />
+          <data x="EE" y="0.415" />
+          <data x="ES" y="0.414" />
+          <data x="JP" y="0.389" />
+          <data x="MX" y="0.375" />
+          <data x="CZ" y="0.368" />
+          <data x="US" y="0.367" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>Within the OECD, minimum-wage workers in Turkey are closest to the median, while USA ranks just as 28th, with a ratio of 0.367.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="South America" />
+        <keyword name="Western Europe" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Employment" />
+        <keyword name="Income and Pensions" />
+        <keyword name="Working class" />
+      </keywords>
+      <sources>
+        <source>aljazeera.com</source>
+        <source>basicincome.org</source>
+        <source>bloomberg.com</source>
+        <source>elespectador.com</source>
+        <source>fastcompany.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>foxnews.com</source>
+        <source>google.it/trends</source>
+        <source>huffingtonpost.com</source>
+        <source>mediapart.fr</source>
+        <source>oecd.org</source>
+        <source>qz.com</source>
+        <source>ritholtz.com</source>
+        <source>seattletimes.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>vox.com</source>
+        <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
+      </sources>
+    </section>
+    <section>
+      <graph unit="$" x="date" y="number">
+        <title>US Federal Minimum Wage History</title>
+        <dataset label="Statutory Minimum Wage">
+          <data x="1940" y="0.30" />
+          <data x="1945" y="0.40" />
+          <data x="1950" y="0.75" />
+          <data x="1955" y="1.00" />
+          <data x="1960" y="1.15" />
+          <data x="1965" y="1.25" />
+          <data x="1970" y="1.45" />
+          <data x="1975" y="2.10" />
+          <data x="1980" y="3.10" />
+          <data x="1985" y="3.57" />
+          <data x="1990" y="3.80" />
+          <data x="1995" y="4.75" />
+          <data x="2000" y="5.15" />
+          <data x="2005" y="5.85" />
+          <data x="2010" y="6.55" />
+          <data x="2015" y="7.25" />
+        </dataset>
+        <dataset label="Inflation-adjusted">
+          <data x="1940" y="5.00" />
+          <data x="1945" y="5.20" />
+          <data x="1950" y="7.20" />
+          <data x="1955" y="6.60" />
+          <data x="1960" y="8.00" />
+          <data x="1965" y="8.40" />
+          <data x="1970" y="10.00" />
+          <data x="1975" y="9.20" />
+          <data x="1980" y="8.80" />
+          <data x="1985" y="7.40" />
+          <data x="1990" y="7.00" />
+          <data x="1995" y="6.60" />
+          <data x="2000" y="7.20" />
+          <data x="2005" y="6.40" />
+          <data x="2010" y="7.80" />
+          <data x="2015" y="7.25" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>Peak value minimun wage in real terms was reached in 1970. Its $1.45 an hour would have the purchasing power of $10 today.</paragraph>
+      </chapter>
+      <chapter>
+        <title>But Higher Minimum Wage Would Cost Jobs</title>
+        <paragraph>The American Action Forum, a right-leaning think tank, has calculated the number of jobs that would be lost due to higher minimum wage.</paragraph>
+      </chapter>
+      <table>
+        <row type="head">
+          <cell>Minimum</cell>
+          <cell>Job losses</cell>
+        </row>
+        <row type="cell">
+          <cell>$12</cell>
+          <cell>1.3m</cell>
+        </row>
+        <row type="cell">
+          <cell>$15</cell>
+          <cell>3.3m</cell>
+        </row>
+      </table>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Employment" />
+        <keyword name="Income and Pensions" />
+        <keyword name="Working class" />
+      </keywords>
+      <sources>
+        <source>aljazeera.com</source>
+        <source>basicincome.org</source>
+        <source>bloomberg.com</source>
+        <source>elespectador.com</source>
+        <source>fastcompany.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>foxnews.com</source>
+        <source>google.it/trends</source>
+        <source>huffingtonpost.com</source>
+        <source>mediapart.fr</source>
+        <source>oecd.org</source>
+        <source>qz.com</source>
+        <source>ritholtz.com</source>
+        <source>seattletimes.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>vox.com</source>
+        <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
+      </sources>
+    </section>
+    <section>
+      <title>A Basic Income Is Smarter Than a Minimum Wage</title>
+      <graph unit="$ per month" x="location" y="number">
+        <title>Per Capita Public Spending on Social Programs in OECD Countries</title>
+        <abstract>
+          A basic income could be any amount, but estimates typically begin with how much is currently spent on social assistance programs. This method is practical for a quantitative and political reason: it’s fairly simple to evaluate existing social spending and to advocate basic income as a replacement. But welfare spending varies widely from country to country: for exemple in U.S. dozens of social-welfare programs now costing taxpayers about $1 trillion a year, could be folded into a basic-income project that provides $700 per capita.
+        </abstract>
+        <dataset label="">
+          <data x="LU" y="1,260" />
+          <data x="NO" y="850" />
+          <data x="AT" y="836" />
+          <data x="DK" y="816" />
+          <data x="BE" y="812" />
+          <data x="SE" y="790" />
+          <data x="FR" y="786" />
+          <data x="FI" y="756" />
+          <data x="DE" y="736" />
+          <data x="NL" y="724" />
+          <data x="US" y="700" />
+          <data x="IE" y="672" />
+          <data x="CH" y="634" />
+          <data x="GB" y="622" />
+          <data x="IT" y="620 " />
+          <data x="ES" y="600  " />
+          <data x="JP" y="600" />
+          <data x="AU" y="552" />
+          <data x="OECD" y="548 " />
+          <data x="CA" y="536" />
+          <data x="IS" y="506" />
+          <data x="SI" y="502" />
+          <data x="GR" y="484" />
+          <data x="PR" y="444" />
+          <data x="NZ" y="444 " />
+          <data x="CZ" y="404" />
+          <data x="IL" y="372" />
+          <data x="HU" y="324" />
+          <data x="SK" y="314" />
+          <data x="PL" y="300" />
+          <data x="EE" y="254" />
+          <data x="KR" y="206 " />
+          <data x="TR" y="136" />
+          <data x="CL" y="128" />
+          <data x="MX" y="84" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="South America" />
+        <keyword name="Western Europe" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Employment" />
+        <keyword name="US Elections" />
+        <keyword name="Migration" />
+        <keyword name="Governance" />
+        <keyword name="Taxes" />
+        <keyword name="Income and Pensions" />
+        <keyword name="Working class" />
+      </keywords>
+      <sources>
+        <source>aljazeera.com</source>
+        <source>basicincome.org</source>
+        <source>bloomberg.com</source>
+        <source>elespectador.com</source>
+        <source>fastcompany.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>foxnews.com</source>
+        <source>google.it/trends</source>
+        <source>huffingtonpost.com</source>
+        <source>mediapart.fr</source>
+        <source>oecd.org</source>
+        <source>qz.com</source>
+        <source>ritholtz.com</source>
+        <source>seattletimes.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>vox.com</source>
+        <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
+      </sources>
+    </section>
+    <section>
+      <title>Basic Income</title>
+      <subtitle>What Would Happen If We Just Gave People Money?</subtitle>
+      <chapter>
+        <paragraph>A basic income is an income unconditionally granted to all on an individual basis, without means test or work requirement.</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>It is being paid to individuals rather than households.</item>
+            <item>It is paid irrespective of any income from other sources.</item>
+            <item>It could help eradicate poverty.</item>
+          </list>
+        </paragraph>
+        <paragraph>Basic income is not a single idea but a family of closely related ideas, which go by an assortment of names: universal basic income, unconditional basic income, guaranteed annual income, citizen’s income, negative income tax etc.</paragraph>
+        <paragraph>But the core motivation - to address social ills by just giving people money - has a long history:</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>C16th</item>
+            <item>Thomas More</item>
+            <item>Johannes Ludovicus Vives</item>
+            <item>1776</item>
+            <item>Thomas Jefferson</item>
+            <item>1795</item>
+            <item>Antoine Caritat</item>
+            <item>Thomas Paine</item>
+            <item>1862</item>
+            <item>Abraham Lincoln</item>
+            <item>1880s</item>
+            <item>Henry George</item>
+            <item>Edward Bellamy</item>
+            <item>1918</item>
+            <item>Bertrand Russell</item>
+            <item>1930s</item>
+            <item>Francis Townsend</item>
+            <item>Huey Long</item>
+            <item>Clifford Hugh Douglas</item>
+            <item>1940s</item>
+            <item>Franklin Roosevelt</item>
+            <item>Friedrich von Hayek</item>
+            <item>Peter Drucker</item>
+            <item>1960s</item>
+            <item>Milton Friedman</item>
+            <item>Robert Theobald</item>
+            <item>John Kenneth Galbraith</item>
+            <item>Erich Fromm</item>
+            <item>Marshall McLuhan</item>
+            <item>Martin Luther King Jr.</item>
+            <item>Margaret Mead</item>
+            <item>Philip Wogaman</item>
+            <item>Paul Samuelson</item>
+            <item>Lyndon Johnson</item>
+            <item>Buckminster Fuller</item>
+            <item>Richard Nixon</item>
+            <item>Daniel Moynihan</item>
+            <item>1970s</item>
+            <item>George McGovern</item>
+            <item>James Tobin</item>
+            <item>Gerald Ford</item>
+            <item>Jimmy Carter</item>
+            <item>1980s</item>
+            <item>Leonard Michael Greene</item>
+            <item>Alfred Andersen</item>
+            <item>Philippe Van Parijs</item>
+            <item>Guy Standing</item>
+            <item>1990s</item>
+            <item>Jeffrey Smith and Gary Flo</item>
+            <item>Theresa Funiciello</item>
+            <item>Jeremy Rifkin</item>
+            <item>Hazel Henderson</item>
+            <item>Richard Nixon</item>
+            <item>Robert Schutz</item>
+            <item>Michael Murray</item>
+            <item>Steven Shafarman</item>
+            <item>Bruce Ackerman and Anne Alstott</item>
+            <item>2000-</item>
+            <item>U.S. Basic Income Guarantee Network</item>
+            <item>Citizen Policies Institute</item>
+            <item>Robley E. George</item>
+            <item>Eduardo Suplicy</item>
+            <item>Stanley Aronowitz</item>
+            <item>Charles Murray</item>
+            <item>Marshall Brain</item>
+            <item>Mike Huckabee</item>
+            <item>Mike Gravel</item>
+            <item>Richard Cook</item>
+            <item>Joseph V. Kennedy</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Employment" />
+        <keyword name="Income and Pensions" />
+        <keyword name="In poverty" />
+        <keyword name="Governance" />
+      </keywords>
+      <sources>
+        <source>aljazeera.com</source>
+        <source>basicincome.org</source>
+        <source>bloomberg.com</source>
+        <source>elespectador.com</source>
+        <source>fastcompany.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>foxnews.com</source>
+        <source>google.it/trends</source>
+        <source>huffingtonpost.com</source>
+        <source>mediapart.fr</source>
+        <source>oecd.org</source>
+        <source>qz.com</source>
+        <source>ritholtz.com</source>
+        <source>seattletimes.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>vox.com</source>
+        <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
+      </sources>
+    </section>
+    <section>
+      <title>Reach Higher</title>
+      <subtitle>Basic Income, A New Way of Living</subtitle>
+      <chapter>
+        <paragraph>An "unconditional basic income" (also called "basic income", "basic income guarantee", "universal basic income", "universal demogrant", or "citizen’s income") is a form of social security system in which all citizens or residents of a country regularly receive an unconditional sum of money, either from a government or some other public institution, in addition to any income received from elsewhere.</paragraph>
+        <paragraph>Here are some examples and pilot projects.</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>LEGEND</item>
+            <item>U= universal</item>
+            <item>B= basic</item>
+            <item>L= long-term</item>
+            <item>R= randomized</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>Basic Income Planned Projects</title>
+      </chapter>
+      <table>
+        <row type="head">
+          <cell>Project</cell>
+          <cell>U</cell>
+          <cell>B</cell>
+          <cell>L</cell>
+          <cell>R</cell>
+        </row>
+        <row type="cell">
+          <cell>DEU 2014: "Mein Grundeinkommen" is a German non-profit organization that crowdfunds unconditional basic incomes. Each person who wins receives a monthly payment of €1,000 for the duration of one year.</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+        </row>
+        <row type="cell">
+          <cell>San Fancisco, USA 2016: In January, Sam Altman, the president of “Y Combinator” announced that the San Francisco-based startup fund was organizing a basic income study in the U.S.</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+        </row>
+        <row type="cell">
+          <cell>SWZ 2016: Switzerland will hold the world's first universal basic income referendum in June 5. The suggested amount is 2,500 Swiss francs per month, or about $1,700 after adjusting for the cost of living.</cell>
+          <cell>✓</cell>
+          <cell>✓</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+        </row>
+        <row type="cell">
+          <cell>Ontario, CAN 2016: Canadian province Ontario is taking the next step toward offering a standard income to all citizens: a Universal Basic Income pilot project, set to unroll this year.</cell>
+          <cell>✓</cell>
+          <cell>✓</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+        </row>
+        <row type="cell">
+          <cell>FIN 2016: The government will launch in the coming months of 2016 a pilot project to test the introduction of basic income: 1,500 people will receive up to €750 per month as a supplement to their normal wage.</cell>
+          <cell>✓</cell>
+          <cell>✓</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+        </row>
+        <row type="cell">
+          <cell>Utrecht, NLD 2016: In January of 2016, the fourth largest city in the Netherlands and its partner, the University of Utrecht, started giving free money to a group of people to test the “basic income” theory.</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+        </row>
+        <row type="cell">
+          <cell>KEN / UGA 2016: “GiveDirectly”, a charity that gives money directly to poor people in Kenya and Uganda, is launching a big new experiment: the group will randomly select dozens of villages with about 6,000 people, providing every current resident with a basic income for the next 10 years.</cell>
+          <cell>✓</cell>
+          <cell>✓</cell>
+          <cell>✓</cell>
+          <cell>✓</cell>
+        </row>
+      </table>
+      <chapter>
+        <title>Basic Income Completed Pilots</title>
+      </chapter>
+      <table>
+        <row type="head">
+          <cell>Project</cell>
+          <cell>U</cell>
+          <cell>B</cell>
+          <cell>L</cell>
+          <cell>R</cell>
+        </row>
+        <row type="cell">
+          <cell>New Jersey, USA 1968–1972, Sample size: 1,216</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+        </row>
+        <row type="cell">
+          <cell>Rural Iowa/North Carolina, USA 1970–1972, Sample size: 809</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+        </row>
+        <row type="cell">
+          <cell>Seattle/Denver, USA 1970–1976, Sample size: 4,800</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+        </row>
+        <row type="cell">
+          <cell>Gary, Indiana, USA 1971–1974, Sample size: 1799</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+        </row>
+        <row type="cell">
+          <cell>Manitoba, CAN 1975–1978, Sample size: 1,300</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+        </row>
+        <row type="cell">
+          <cell>Eastern Band of the Cherokee, USA 1996– , Sample size: 15,000</cell>
+          <cell>✗</cell>
+          <cell>✗</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+        </row>
+        <row type="cell">
+          <cell>Otjievero/Omitara, NAM 2008–2009, Sample size: 930</cell>
+          <cell>✓</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+          <cell>✗</cell>
+        </row>
+        <row type="cell">
+          <cell>Madhya Pradesh, IND 2011–2012, Sample size: 930</cell>
+          <cell>✓</cell>
+          <cell>✗</cell>
+          <cell>✗</cell>
+          <cell>✗</cell>
+        </row>
+      </table>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Western Europe" />
+        <keyword name="Central Africa" />
+        <keyword name="Southern Asia" />
+        <keyword name="Employment" />
+        <keyword name="Income and Pensions" />
+        <keyword name="In poverty" />
+        <keyword name="Governance" />
+      </keywords>
+      <sources>
+        <source>aljazeera.com</source>
+        <source>basicincome.org</source>
+        <source>bloomberg.com</source>
+        <source>elespectador.com</source>
+        <source>fastcompany.com</source>
+        <source>fivethirtyeight.com</source>
+        <source>foxnews.com</source>
+        <source>google.it/trends</source>
+        <source>huffingtonpost.com</source>
+        <source>mediapart.fr</source>
+        <source>oecd.org</source>
+        <source>qz.com</source>
+        <source>ritholtz.com</source>
+        <source>seattletimes.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>vox.com</source>
+        <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
+      </sources>
+    </section>
+  </sections>
+</bulletin>

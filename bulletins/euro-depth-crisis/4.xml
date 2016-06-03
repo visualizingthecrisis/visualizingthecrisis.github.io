@@ -13,7 +13,7 @@
     <title>Expected only a small fall in EU debt to 2020</title>
       <chapter>
         <paragraph>
-          Rating agency Moody’s said the eurozone sovereigns’ ratings will likely remain stable in 2016 but fading fiscal
+          Rating agency Moody’s said the eurozone sovereign's ratings will likely remain stable in 2016 but fading fiscal
           consolidation, limited progress on structural reforms, and rising political risks limit upside potential and create
           longer-term risks. Even as debt loads remain stubbornly high, the deleveraging process has been hampered by a combination
           of low growth and low inflation with progress on structural reforms limited at both a national and a eurozone level.
@@ -358,6 +358,35 @@
             <keyword name="Western Europe" />
             <keyword area="Generation X (1965–1980)" />
             <keyword name="Working class" />
+            <keyword area="Brexit/Grexit" />
+          </keywords>
+          <sources>
+            <source>Dhnet.be</source>
+            <source>Tradingeconomics.com</source>
+            <source>Independent.ie</source>
+            <source>Thenews.com</source>
+            <source>Marketoracle.com</source>
+            <source>TheGuardian.com</source>
+            <source>Bloomberg.com</source>
+            <source>Marketwatch.com</source>
+            <source>Openeurope.com</source>
+          </sources>
+        </section>
+
+        <section>
+          <quote>
+            <author>Matthew Elliott</author>
+            <text>
+              Vote
+              Leave chief executive Matthew Elliott criticized the CBI for using “deeply pessimistic” assumptions in
+              its report and said the U.K. economy would continue to expand after an exit.
+            </text>
+          </quote>
+          <keywords>
+            <keyword name="Import/Export" />
+            <keyword name="GDP" />
+            <keyword name="Western Europe" />
+            <keyword area="Taxes" />
             <keyword area="Brexit/Grexit" />
           </keywords>
           <sources>

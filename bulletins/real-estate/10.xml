@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins>
+  <title>REAL ESTATE</title>
+  <subtitle>Visualizing the crisis</subtitle>
+  <authors>
+    <author>Irene Chiappini</author>
+    <author>Giulia Serafin</author>
+  </authors>
+  <bulletin id="10" date="20160512">
+    <title>UK Housing crisis</title>
+    <sections>
+      <section>
+        <title>London house prices explosion</title>
+        <chapter>
+          <paragraph>This month’s snapshot of sold property in the capital shows prices continuing to climb, with sales volumes notably lower that before the financial crisis.</paragraph>
+          <paragraph>London real estate at-a-glance (April, 28 update)</paragraph>
+          <paragraph>
+            <list type="unordered">
+              <item>£ 18 M Highest priced sale</item>
+              <item>£ 446,261 Median home price</item>
+              <item>+ 14.3% Yearly change</item>
+            </list>
+          </paragraph>
+        </chapter>
+          <keywords>
+            <keyword name="Western Europe"/>
+            <keyword name="Investments"/>
+            <keyword name="Loans"/>
+            <keyword name="Citizenship"/>
+            <keyword name="Middle class"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>The Telegraph ”Hope over fear: how sadiq khan won the mayoral election race”</source>
+            <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
+            <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
+            <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
+          </sources>
+        </section>
+        <section>
+          <title>The bank of mum and dad</title>
+          <chapter>
+            <paragraph>Family and friends will spend 5 billion pounds this year helping people buy property in the U.K.</paragraph>
+          </chapter>
+          <chapter>
+            <title>How much parents help</title>
+            <paragraph>Parents in London are giving half of their net wealth to their children as a deposit for properties.</paragraph>
+          </chapter>
+          <chapter>
+            <title>Why asking for parents help</title>
+            <paragraph>
+              <list type="unordered">
+                <item>Affordable housing is in short supply</item>
+                <item>Renting is very expensive</item>
+                <item>Buying is out of most young people’s reach</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <graph unit="%" x="area" y="number">
+            <title>Average family contribution to home purchase</title>
+            <dataset label="family contribution to home purchase">
+              <data x="W.Midlands" y="10"/>
+              <data x="North East" y="27"/>
+              <data x="E.Midlands" y="32"/>
+              <data x="North West" y="33"/>
+              <data x="Scotland" y="34"/>
+              <data x="South East" y="36"/>
+              <data x="Yorkshire" y="38"/>
+              <data x="Wales" y="42"/>
+              <data x="South West" y="42"/>
+              <data x="London" y="51"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Western Europe"/>
+            <keyword name="Investments"/>
+            <keyword name="Loans"/>
+            <keyword name="Citizenship"/>
+            <keyword name="Middle class"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>The Telegraph ”Hope over fear: how sadiq khan won the mayoral election race”</source>
+            <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
+            <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
+            <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
+          </sources>
+        </section>
+        <section>
+          <title>New faces: who will solve the problem?</title>
+          <chapter>
+            <paragraph>Hope over fear: Sadiq Khan won London mayoral election race. He described the bill as “the most extreme in terms of housing in a generation”.</paragraph>
+          </chapter>
+          <chapter>
+            <title>Zac Goldsmith</title>
+            <paragraph>MP for Richmond Park and a former editor for the Ecologist, 41 years old.</paragraph>
+            <paragraph>Conservative
+              <list type="unordered">
+                <item>Build 50,000 homes by 2020</item>
+                <item>500 more police on the Tube </item>
+                <item>Freeze council tax for 4 years</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>Sadiq Khan</title>
+            <paragraph>MP for Tooting and a  former human rights lawyer,45 years old. </paragraph>
+            <paragraph>Labour
+              <list type="unordered">
+                <item>Give Londoners “first dibs” on new homes</item>
+                <item>New housing with rent based on local income</item>
+                <item>All public transport fares frozen for 4 years</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>May,5 election results</title>
+            <paragraph>Sadiq Khan won the  fifth London mayoral election.</paragraph>
+            <paragraph>Labour
+              <list type="unordered">
+                <item>43,1% Conservative</item>
+                <item>56,9% Labour</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Western Europe"/>
+            <keyword name="Investments"/>
+            <keyword name="Loans"/>
+            <keyword name="Citizenship"/>
+            <keyword name="Middle class"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>The Telegraph ”Hope over fear: how sadiq khan won the mayoral election race”</source>
+            <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
+            <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
+            <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
+          </sources>
+        </section>
+        <section>
+          <title>Housing crisis: how big is the problem</title>
+          <subtitle>Costs, crisis and sqatting</subtitle>
+          <chapter>
+            <title>Rising costs</title>
+            <paragraph>People are unable to pay extortionate private sector rents.</paragraph>
+          </chapter>
+          <chapter>
+            <title>Crisis perceived</title>
+            <paragraph>Nearly 4 out of 5 Britons say they are experiencing a housing crisis. </paragraph>
+          </chapter>
+          <chapter>
+            <title>More homeless</title>
+            <paragraph>Squatting is on the rise again despite being outlawed in 2012.</paragraph>
+          </chapter>
+          <chapter>
+            <title>A brief comparison</title>
+            <paragraph>
+              <list type="unordered">
+                <item>£34,320 The median gross salary for a full-time workerin London</item>
+                <item>£395,000 How much first-time buyers spent on average in the 4th quarter on a London home</item>
+                <item>£281,000 A typical mortgage (and the equivalent of median home price in 2005)</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Western Europe"/>
+            <keyword name="Investments"/>
+            <keyword name="Loans"/>
+            <keyword name="Citizenship"/>
+            <keyword name="Middle class"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>The Telegraph ”Hope over fear: how sadiq khan won the mayoral election race”</source>
+            <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
+            <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
+            <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
+          </sources>
+        </section>
+        <section>
+          <title>People fears</title>
+          <subtitle>Renters and buyers, britons’ thoughts in percentages</subtitle>
+          <chapter>
+            <paragraph>4 in 10 renters fear they will never own a home</paragraph>
+            <paragraph>
+              <list type="unordered">
+                <item>26% “I will buy a house in five years”</item>
+                <item>71% “I couldn’t buy without family help”</item>
+                <item>37% “Home ownership is out of reach for good”</item>
+                <item>67% “I would like to buy a home...one day!”</item>
+              </list>
+            </paragraph>
+          </chapter>
+            <keywords>
+              <keyword name="Western Europe"/>
+              <keyword name="Investments"/>
+              <keyword name="Loans"/>
+              <keyword name="Citizenship"/>
+              <keyword name="Middle class"/>
+              <keyword name="Housing Real estate"/>
+            </keywords>
+            <sources>
+              <source>The Telegraph ”Hope over fear: how sadiq khan won the mayoral election race”</source>
+              <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
+              <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
+              <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
+            </sources>
+          </section>
+          <section>
+            <title>Special report housing crisis</title>
+            <subtitle>Opinium Research interviewed 1,004 UK adults aged 18+</subtitle>
+            <chapter>
+              <title>Housing crisis</title>
+              <paragraph>Some people say that Britain is “in the throes of a housing crisis”. Would you say that this is something you agree with or disagree with?</paragraph>
+              <paragraph>
+                <list type="unordered">
+                  <item>33% strongly agree</item>
+                  <item>36% slightly agree</item>
+                  <item>13% slightly disagree</item>
+                  <item>4% strongly disagree</item>
+                  <item>14% don’t know</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>Ownership</title>
+              <paragraph>To what extent do you agree or disagree with the following statement? “One day, I would like to own my own home?”</paragraph>
+              <paragraph>
+                <list type="unordered">
+                  <item>46% strongly agree</item>
+                  <item>36% slightly agree</item>
+                  <item>6% slightly disagree</item>
+                  <item>14% strongly disagree</item>
+                  <item>13% don’t know</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>Urban</title>
+              <paragraph>Some people say that Britain is “in the throes of a housing crisis”. Would you say that this is something you agree with or disagree with? Urban net: excluding don’t knows</paragraph>
+              <paragraph>
+                <list type="unordered">
+                  <item>88% agree</item>
+                  <item>12% disagree</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>Rural</title>
+              <paragraph>Some people say that Britain is “in the throes of a housing crisis”. Would you say that this is something you agree with or disagree with? Rural net: excluding don’t knows</paragraph>
+              <paragraph>
+                <list type="unordered">
+                  <item>73% agree</item>
+                  <item>27% disagree</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>Impacts</title>
+              <paragraph>Which, if any, of the following do you think has had a significant impact on Britain’s housing crisis?</paragraph>
+              <paragraph>
+                <list type="unordered">
+                  <item>48% Right-to-buy scheme and selling off of social housing</item>
+                  <item>38% shorthold tenancies and no rent controls</item>
+                  <item>12% aid first time buyers</item>
+                  <item>15% restriction on planning permission</item>
+                  <item>54% immigration</item>
+                  <item>51% foreign investors buyng up property</item>
+                  <item>25% NIMBY's</item>
+                  <item>32% developers holding  land after planning</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>Soltions</title>
+              <paragraph>Which, if any, of the following options do you think would help tackle Britain’s housing crisis?</paragraph>
+              <paragraph>
+                <list type="unordered">
+                  <item>58% more social housing</item>
+                  <item>48% restrictions on the rights to purchase for foreign buyers / investors</item>
+                  <item>46% restrictions on the number of properties</item>
+                  <item>30% a cap on rent for tenants</item>
+                  <item>37% a cap on rent for tenants</item>
+                  <item>13% relax planning laws on property </item>
+                  <item>18% use taxation to deflate housing prices</item>
+                  <item>22% end discounts on right to buy</item>
+                  <item>22% more private housing</item>
+                  <item>46% more restrictions on immigration to Britain</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>Prefered soltions</title>
+              <paragraph>Some would argue that Britain’s cities are under particular strain. Which, if any, of the following options would be your preferred solution to improving the housing situation in cities in Britain?</paragraph>
+              <paragraph>
+                <list type="unordered">
+                  <item>60% build on brownfield land</item>
+                  <item>48% restrict foreign immigration to Britain’s cities</item>
+                  <item>15% build more floors on existing housing</item>
+                  <item>12% increase housing in the suburbs</item>
+                  <item>12% reduce planning on  city skyline</item>
+                  <item>10% build on green belt land</item>
+                  <item>51% restrict foreign ownership of properties for investment</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <keywords>
+              <keyword name="Western Europe"/>
+              <keyword name="Investments"/>
+              <keyword name="Loans"/>
+              <keyword name="Citizenship"/>
+              <keyword name="Middle class"/>
+              <keyword name="Housing Real estate"/>
+            </keywords>
+            <sources>
+              <source>The Telegraph ”Hope over fear: how sadiq khan won the mayoral election race”</source>
+              <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
+              <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
+              <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
+            </sources>
+          </section>
+        </sections>
+      </bulletin>
+    </bulletins>

@@ -163,6 +163,38 @@
 </section>
 
 <section>
+<quote>
+  <author>Mario Draghi</author>
+  <text>
+    Mario Draghi has said the ECB won’t hesitate to act if it believes recent financial-market turmoil or lower
+    oil prices will weigh further on inflation in the currency area.
+  </text>
+</quote>
+<keywords>
+<keyword name="North America"/>
+<keyword name="South America"/>
+<keyword name="Eastern Europe"/>
+<keyword name="Western Europe"/>
+<keyword name="Middle East and Western Asia"/>
+<keyword name="Central and Eastern Asia"/>
+<keyword name="Southern Asia"/>
+<keyword name="Southeastern Asia"/>
+<keyword name="Import/Export"/>
+<keyword name="Inflation/Deflation"/>
+<keyword name="Global Corporations"/>
+<keyword name="Oil"/>
+</keywords>
+<sources>
+  <source>EuroStat.eu</source>
+  <source>Nasdaq.com</source>
+  <source>Valuewalk.com</source>
+  <source>Bloomberg.com</source>
+  <source>Investopedia.com</source>
+  <source>iEconomics.com</source>
+</sources>
+</section>
+
+<section>
   <title>European deflation and oil price</title>
   <chapter>
     <paragraph>
@@ -171,10 +203,10 @@
     </paragraph>
     <paragraph>
       <list type="ordered">
-        <item>1. Middle east countries continue to pull out oil even if the price is now very low to put US in a difficult situation.</item>
-        <item>2. Oil extraction is very expansive for US compared to middle east, so they have economic difficulties.</item>
-        <item>3. Oil extraction is very expansive for US compared to middle east, so they have economic difficulties.</item>
-        <item>4. There are other countries with financial problems, they can not afford imported products.</item>
+        <item>Middle east countries continue to pull out oil even if the price is now very low to put US in a difficult situation.</item>
+        <item>Oil extraction is very expansive for US compared to middle east, so they have economic difficulties.</item>
+        <item>Oil extraction is very expansive for US compared to middle east, so they have economic difficulties.</item>
+        <item>There are other countries with financial problems, they can not afford imported products.</item>
       </list>
     </paragraph>
   </chapter>
@@ -322,11 +354,11 @@
       <graph unit="CHF" x="date" y="number">
         <title>Foreign Exchange Reserves in Swiss Jul 2011 | Feb 2016</title>
         <dataset label="Exchange value">
-          <data x="2011" y="330000"/>
-          <data x="2012" y="485000"/>
-          <data x="2013" y="480000"/>
-          <data x="2014" y="495000"/>
-          <data x="2015" y="595000"/>
+          <data x="2011" y="330,000"/>
+          <data x="2012" y="485,000"/>
+          <data x="2013" y="480,000"/>
+          <data x="2014" y="495,000"/>
+          <data x="2015" y="595,000"/>
         </dataset>
       </graph>
       <keywords>

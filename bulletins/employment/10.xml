@@ -1,0 +1,530 @@
+<bulletin id="issue 10" date="20260514">
+  <sections>
+    <section>
+      <title>Toward the Extinction of Human Jobs</title>
+      <abstract>
+        In the last decade the Fourth Industrial Revolution has caused a widespread disruption to labour markets, with enormous change in the skill sets needed to thrive this new landscape. Many sectors have seen a complete replacement of human labor by machines, robots and automation, with a parallel increase in productivity. Despite this, humans have been able to create and train for new jobs, adapting to this new world they did: jobs which concern intellectual charge and management or control positions; jobs which are performed ‒ after many battles ‒ in shorter work days, proving that it has been an impact on performances and on the well-being of workers. Thanks to the achievement of important milestones, such as the Universal Basic Income, now adopted by an increasingly number of countries worldwide, people have finally started to cultivate their passions and interests, dedicating themselves to the development of cognitive and creative abilities, without fearing that robots will cause their financial collapse ‒ like many did just about10 years ago.
+      </abstract>
+      <chapter>
+        <paragraph>*News from the near future</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Employment" />
+        <keyword name="Automation" />
+        <keyword name="Working class" />
+        <keyword name="Tech" />
+        <keyword name="Income and Pensions" />
+      </keywords>
+      <sources>
+        <source>bcgperspectives.com</source>
+        <source>bloomberg.com</source>
+        <source>breakingnews.ie</source>
+        <source>csc.com</source>
+        <source>fastcompany.com</source>
+        <source>forbes.com</source>
+        <source>inc.com</source>
+        <source>medium.com</source>
+        <source>money.cnn.com</source>
+        <source>oecd.org</source>
+        <source>oxfordmartin.ox.ac.uk</source>
+        <source>quantumrun.com</source>
+        <source>retailresearch.org</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>Big and Fast</title>
+      <abstract>
+        Data production is expanding at an astonishing pace, arriving nowadays to almost 200 zettabyte. The huge amount of data combined with the increasing development of Machine Learning, have bring to a new paradigm of work, where efficiency and security are now ensured by AI.
+      </abstract>
+      <graph unit="ZB" x="date" y="number">
+        <abstract>
+          1 petabyte = 1,000 terabytes / 1 exabyte = 1,000 petabytes / 1 zettabyte = 1,000 exabytes
+        </abstract>
+        <dataset label="">
+          <data x="2000" y="0.2" />
+          <data x="2005" y="0.5" />
+          <data x="2010" y="1.2" />
+          <data x="2015" y="7.9" />
+          <data x="2020" y="35" />
+          <data x="2025" y="19.5" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>*News from the near future</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Automation" />
+        <keyword name="Tech" />
+      </keywords>
+      <sources>
+        <source>bcgperspectives.com</source>
+        <source>bloomberg.com</source>
+        <source>breakingnews.ie</source>
+        <source>csc.com</source>
+        <source>fastcompany.com</source>
+        <source>forbes.com</source>
+        <source>inc.com</source>
+        <source>medium.com</source>
+        <source>money.cnn.com</source>
+        <source>oecd.org</source>
+        <source>oxfordmartin.ox.ac.uk</source>
+        <source>quantumrun.com</source>
+        <source>retailresearch.org</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>Trucks Need No Drivers</title>
+      <abstract>
+        In US truck driving is just a memory now.
+      </abstract>
+      <chapter>
+        <title>A Machine Driven Business: History of Technology Penetration Phases</title>
+      <paragraph>
+      <list type="ordered">
+        <item>2012-2016: Passive autonomous driving</item>
+        <item>2015-2019: Limited driver substitution</item>
+        <item>2018-2022: Complete autonomous capabilty</item>
+        <item>2026: Massive market penetration</item>
+      </list>
+    </paragraph>
+        <paragraph>In 2012 330,000 large trucks were involved incrashes that killed nearly 4,000 people (about 90% of those were caused by driver error). Today these numbers have drastically fallen thanks to the complete replacement with selfdriving trucks.</paragraph>
+      </chapter>
+      <chapter>
+        <paragraph>*News from the near future</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Automation" />
+        <keyword name="Tech" />
+        <keyword name="Employment" />
+        <keyword name="Transportation" />
+      </keywords>
+      <sources>
+        <source>bcgperspectives.com</source>
+        <source>bloomberg.com</source>
+        <source>breakingnews.ie</source>
+        <source>csc.com</source>
+        <source>fastcompany.com</source>
+        <source>forbes.com</source>
+        <source>inc.com</source>
+        <source>medium.com</source>
+        <source>money.cnn.com</source>
+        <source>oecd.org</source>
+        <source>oxfordmartin.ox.ac.uk</source>
+        <source>quantumrun.com</source>
+        <source>retailresearch.org</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>Worldwide Spending on Robotics</title>
+      <graph unit="b$" x="date" y="number">
+        <dataset label="">
+          <data x="2000" y="7.4" />
+          <data x="2005" y="10.8" />
+          <data x="2010" y="15.1" />
+          <data x="2015" y="26.9" />
+          <data x="2020" y="42.9" />
+          <data x="2025" y="66.9" />
+        </dataset>
+      </graph>
+      <graph unit="b$" x="date" y="number">
+        <dataset label="Military">
+          <data x="2000" y="2.4" />
+          <data x="2005" y="3.5" />
+          <data x="2010" y="5.1" />
+          <data x="2015" y="7.5" />
+          <data x="2020" y="11.2" />
+          <data x="2025" y="16.5" />
+        </dataset>
+        <dataset label="Industrial">
+          <data x="2000" y="3.9" />
+          <data x="2005" y="5.2" />
+          <data x="2010" y="5.8" />
+          <data x="2015" y="11.0" />
+          <data x="2020" y="16.4" />
+          <data x="2025" y="24.4" />
+        </dataset>
+        <dataset label="Commercial">
+          <data x="2000" y="1.1" />
+          <data x="2005" y="1.7" />
+          <data x="2010" y="3.2" />
+          <data x="2015" y="5.9" />
+          <data x="2020" y="10.8" />
+          <data x="2025" y="17.0" />
+        </dataset>
+        <dataset label="Personal">
+          <data x="2005" y="0.4" />
+          <data x="2010" y="1.0" />
+          <data x="2015" y="2.5" />
+          <data x="2020" y="4.5" />
+          <data x="2025" y="9.0" />
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Bot Market</title>
+        <paragraph>A convergence of falling prices and performance improvements have led to a rapid growth of the bot market. The cost of high-quality robots and components has dropped rapidly, while CPUs got faster, and application programming easier.</paragraph>
+      </chapter>
+      <chapter>
+        <paragraph>*News from the near future</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Automation" />
+        <keyword name="Tech" />
+        <keyword name="Military" />
+        <keyword name="Commerce" />
+      </keywords>
+      <sources>
+        <source>bcgperspectives.com</source>
+        <source>bloomberg.com</source>
+        <source>breakingnews.ie</source>
+        <source>csc.com</source>
+        <source>fastcompany.com</source>
+        <source>forbes.com</source>
+        <source>inc.com</source>
+        <source>medium.com</source>
+        <source>money.cnn.com</source>
+        <source>oecd.org</source>
+        <source>oxfordmartin.ox.ac.uk</source>
+        <source>quantumrun.com</source>
+        <source>retailresearch.org</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>Once Upon a Time in US...</title>
+      <abstract>
+        In 2015 there were almost 3.5 million professional truck drivers in the US and an additional 5.2 million people employed on the truck-driving industry: 8.7 million trucking-related jobs. As opposed to now, it was one of the most-common occupations in that time, along with retail salesperson, cashier, food and beverage server, and office clerk. Together, these jobs employed 18.9 million people: nearly 13.7% percent of the labor force.
+      </abstract>
+      <graph unit="" x="string" y="number">
+        <title>Main US Jobs in 2015</title>
+        <abstract>
+          The 13,7% of total US jobs in 2015.
+        </abstract>
+        <dataset label="">
+          <data x="Food and Beverage Servers" y="4731800" />
+          <data x="Retail Salespersons" y="4612510" />
+          <data x="Cashiers" y="3478420" />
+          <data x="Office Clerks" y="2944420" />
+          <data x="Heavy Truck Drivers" y="1797700" />
+          <data x="Delivery Truck Drivers" y="1330000" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>*News from the near future</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Employment" />
+        <keyword name="Working class" />
+        <keyword name="Transportation" />
+      </keywords>
+      <sources>
+        <source>bcgperspectives.com</source>
+        <source>bloomberg.com</source>
+        <source>breakingnews.ie</source>
+        <source>csc.com</source>
+        <source>fastcompany.com</source>
+        <source>forbes.com</source>
+        <source>inc.com</source>
+        <source>medium.com</source>
+        <source>money.cnn.com</source>
+        <source>oecd.org</source>
+        <source>oxfordmartin.ox.ac.uk</source>
+        <source>quantumrun.com</source>
+        <source>retailresearch.org</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>The Future of Employment According to Oxford University</title>
+      <abstract>
+        In 2013, Oxford University researchers forecast that machines might be able to perform 47% of all US jobs in the following two decades. The authors examine how susceptible jobs are to computerisation, by implementing a novel methodology to estimate the probability of computerisation for 702 detailed occupations, using a Gaussian process classifier.
+      </abstract>
+      <chapter>
+        <title>Robotheraphy</title>
+        <paragraph>The Oxford projection was audacious, but in at least a few cases, it didn’t go far enough. For example, the authors named psychologist as one of the occupations least likely to be “computerisable.” But it has been proven that nowadays people are more honest in therapy sessions when they are confessing their troubles to a computer, because a machine can’t pass moral judgment ‒ or at least, not yet!</paragraph>
+      </chapter>
+      <chapter>
+        <paragraph>*News from the near future</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="Employment" />
+        <keyword name="Working class" />
+        <keyword name="Automation" />
+        <keyword name="Tech" />
+      </keywords>
+      <sources>
+        <source>bcgperspectives.com</source>
+        <source>bloomberg.com</source>
+        <source>breakingnews.ie</source>
+        <source>csc.com</source>
+        <source>fastcompany.com</source>
+        <source>forbes.com</source>
+        <source>inc.com</source>
+        <source>medium.com</source>
+        <source>money.cnn.com</source>
+        <source>oecd.org</source>
+        <source>oxfordmartin.ox.ac.uk</source>
+        <source>quantumrun.com</source>
+        <source>retailresearch.org</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>Taking Big Steps</title>
+      <chapter>
+        <title>Ireland Has Joined the Six-Hours Club</title>
+        <paragraph>Ireland has succeeded in obtaining the six-hour working day. After countries like Scandinavia, U.K. and large part of U.S., Ireland workers have switched to the six-hour working day for the same wage.</paragraph>
+        <paragraph>According to a Morgan McKinley survey 73% of Irish employees used to work longer than their contracted hours, but around 80% of them were not compensated for working in excess.</paragraph>
+      </chapter>
+      <chapter>
+        <title>Work Less, Work Better</title>
+        <paragraph>The 40 hour work week is so last century. The idea itself of “the more hours you work the more productive you will be” is far by now. One of the first to prove this was Sweden, in 2016 with a project that involved the staff of the Gothenburg’s Sahlgrenska University hospital. The trial was a success: Ann-Charlotte Dahlbom Larsson, head of elderly care at the home, said staff wellbeing was better and the standard of care was even higher.</paragraph>
+      </chapter>
+      <graph unit="h" x="location" y="number">
+        <title>Average Working Hours per Week in 2015</title>
+        <dataset label="">
+          <data x="DE" y="26.37" />
+          <data x="NL" y="27.40" />
+          <data x="NO" y="27.44" />
+          <data x="DK" y="27.62" />
+          <data x="FR" y="28.33" />
+          <data x="SI" y="30.02" />
+          <data x="CH" y="30.15" />
+          <data x="SE" y="30.94" />
+          <data x="AT" y="31.33" />
+          <data x="LU" y="31.60" />
+          <data x="FI" y="31.63" />
+          <data x="AU" y="32.00" />
+          <data x="GB" y="32.25" />
+          <data x="ES" y="32.48" />
+          <data x="CA" y="32.77" />
+          <data x="JP" y="33.25" />
+          <data x="IT" y="33.35" />
+          <data x="NZ" y="33.88" />
+          <data x="SK" y="33.90" />
+          <data x="CZ" y="34.15" />
+          <data x="US" y="34.40" />
+          <data x="IE" y="35.02" />
+          <data x="LT" y="35.27" />
+          <data x="IL" y="35.63" />
+          <data x="PT" y="35.71" />
+          <data x="HU" y="35.73" />
+          <data x="EE" y="35.75" />
+          <data x="IS" y="35.85" />
+          <data x="PL" y="36.89" />
+          <data x="LV" y="37.27" />
+          <data x="RU" y="38.17" />
+          <data x="CL" y="38.27" />
+          <data x="GR" y="39.27" />
+          <data x="KR" y="40.85" />
+          <data x="CR" y="42.62" />
+          <data x="MX" y="42.85" />
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Six is a Magic Number ‒ for Now</title>
+        <paragraph>The standard working hours has now gone down to an average of 6 hours per day in the European Union. The evident results in the increase of productivity of people working fewer hours have led more and more companies to reduce the number of contracted hours, which is projected to decrease to 4 hors in the next 15 years.</paragraph>
+      </chapter>
+      <chapter>
+        <paragraph>*News from the near future</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Oceania" />
+        <keyword name="North America" />
+        <keyword name="South America" />
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Employment" />
+        <keyword name="Working class" />
+        <keyword name="Automation" />
+        <keyword name="Tech" />
+      </keywords>
+      <sources>
+        <source>bcgperspectives.com</source>
+        <source>bloomberg.com</source>
+        <source>breakingnews.ie</source>
+        <source>csc.com</source>
+        <source>fastcompany.com</source>
+        <source>forbes.com</source>
+        <source>inc.com</source>
+        <source>medium.com</source>
+        <source>money.cnn.com</source>
+        <source>oecd.org</source>
+        <source>oxfordmartin.ox.ac.uk</source>
+        <source>quantumrun.com</source>
+        <source>retailresearch.org</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>Standard Working Hours per Day in EU</title>
+      <abstract>
+        It's not just the working hours: the number of people employed full-time jobs is by now gradually decreasing, causing a relentless rise of the unemployment rate.
+      </abstract>
+      <graph unit="h" x="string" y="number">
+        <title>Working Hours per Day</title>
+        <dataset label="">
+          <data x="2010-2020" y="8" />
+          <data x="2020-2025" y="7" />
+          <data x="2025-2029" y="6" />
+          <data x="2029-2038" y="5" />
+          <data x="2038- " y="4" />
+        </dataset>
+      </graph>
+      <graph unit="%" x="string" y="number">
+        <title>Percentage of Labor Force Employed</title>
+        <dataset label="">
+          <data x="2010-2018" y="90" />
+          <data x="2018-2021" y="80" />
+          <data x="2021-2023" y="90" />
+          <data x="2023-2026" y="80" />
+          <data x="2026-2028" y="70" />
+          <data x="2028-2032" y="60" />
+          <data x="2032-2034" y="50" />
+          <data x="2034-2039" y="40" />
+          <data x="2039- " y="50" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>*News from the near future</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Employment" />
+        <keyword name="Working class" />
+        <keyword name="Automation" />
+        <keyword name="Tech" />
+      </keywords>
+      <sources>
+        <source>bcgperspectives.com</source>
+        <source>bloomberg.com</source>
+        <source>breakingnews.ie</source>
+        <source>csc.com</source>
+        <source>fastcompany.com</source>
+        <source>forbes.com</source>
+        <source>inc.com</source>
+        <source>medium.com</source>
+        <source>money.cnn.com</source>
+        <source>oecd.org</source>
+        <source>oxfordmartin.ox.ac.uk</source>
+        <source>quantumrun.com</source>
+        <source>retailresearch.org</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>How We Got Here</title>
+      <subtitle>3 Steps Towards the Post-Work Era</subtitle>
+      <chapter>
+        <paragraph>
+        <list type="ordered">
+          <item>STORE CLOSURES. In UK the total number of retail store have fallen from 281,930 in 2013 to 220,000 in 2018. This caused job losses of around 316,000 in those 5 years. The share of online retail sales, instead, rose from 12.7% to 21.5%.</item>
+          <item>ARTIFICIAL INTELLIGENCE. In 2016 Google’s AlphaGo computer program won a decisive encounter with a top-ranked player of the Chinese board game Go marking significant developments in AI. By 2029 robots will likely have reached human levels of intelligence.</item>
+          <item>AUTONOMOUS VEHICLES. After the massive market penetration autonomous cars sales will reach 95.4 million annually by 2035, representing 75% of all light-dutyvehicle sales. That era will see nearly 54 million self-driving cars in use globally.</item>
+        </list>
+      </paragraph>
+      </chapter>
+      <chapter>
+        <paragraph>*News from the near future</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Employment" />
+        <keyword name="Working class" />
+        <keyword name="Automation" />
+        <keyword name="Tech" />
+      </keywords>
+      <sources>
+        <source>bcgperspectives.com</source>
+        <source>bloomberg.com</source>
+        <source>breakingnews.ie</source>
+        <source>csc.com</source>
+        <source>fastcompany.com</source>
+        <source>forbes.com</source>
+        <source>inc.com</source>
+        <source>medium.com</source>
+        <source>money.cnn.com</source>
+        <source>oecd.org</source>
+        <source>oxfordmartin.ox.ac.uk</source>
+        <source>quantumrun.com</source>
+        <source>retailresearch.org</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>Tech Gives, Tech Takes</title>
+      <abstract>
+        There will always be jobs in tech and science, but the skills needed to enter these industries are so specialized and difficult to attain that they won’t save the masses from unemployment. Moreover, the biggest tech and science companies tend to employ a very small number of employees in relation to the revenues they generate. In 1964 the most valuable US company, ATandT, was worth $267 billion and employed 758,611 people. Google, in 2016, was worth $560 billion, but had only about 55,000 employees. Today Tesla, which employed just 10,000 people, worth $692 billion.
+      </abstract>
+      <graph unit="" x="string" y="number">
+        <title>Number of Employees</title>
+        <dataset label="">
+          <data x="1964-ATandT" y="758611" />
+          <data x="2016-Google" y="55000" />
+          <data x="2026-Tesla" y="10000" />
+        </dataset>
+      </graph>
+      <graph unit="b$" x="string" y="number">
+        <title>Company Valuation</title>
+        <dataset label="">
+          <data x="1964-ATandT" y="267" />
+          <data x="2016-Google" y="560" />
+          <data x="2026-Tesla" y="692" />
+        </dataset>
+      </graph>
+      <chapter>
+        <paragraph>*News from the near future</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Employment" />
+        <keyword name="Working class" />
+        <keyword name="Automation" />
+        <keyword name="Tech" />
+        <keyword name="Global Corporations" />
+        <keyword name="Income and Pensions" />
+      </keywords>
+      <sources>
+        <source>bcgperspectives.com</source>
+        <source>bloomberg.com</source>
+        <source>breakingnews.ie</source>
+        <source>csc.com</source>
+        <source>fastcompany.com</source>
+        <source>forbes.com</source>
+        <source>inc.com</source>
+        <source>medium.com</source>
+        <source>money.cnn.com</source>
+        <source>oecd.org</source>
+        <source>oxfordmartin.ox.ac.uk</source>
+        <source>quantumrun.com</source>
+        <source>retailresearch.org</source>
+        <source>theatlantic.com</source>
+        <source>theguardian.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+    </section>
+  </sections>
+</bulletin>

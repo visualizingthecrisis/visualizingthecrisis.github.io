@@ -1,0 +1,366 @@
+<bulletins>
+  <title>Bursting Unicorns</title>
+  <authors>
+    <author>Elisa Bianchi</author>
+    <author>Francesca Luzi</author>
+    <author>Federico Rita</author>
+  </authors>
+  <bulletin id="5" date="20160331">
+    <sections>
+      <section>
+        <title>Rank of valuation</title>
+        <abstract>The first ten private companies valued at $1 billion or more
+          is unchanged and there aren't new unicorns.</abstract>
+          <chapter>
+            <paragraph>
+              <list type="ordered">
+                <item>Uber</item>
+                <item>Xiaomi</item>
+                <item>Airbnb</item>
+                <item>Palantir</item>
+                <item>Dianping</item>
+                <item>Snapchat</item>
+                <item>Wework</item>
+                <item>Flipkart</item>
+                <item>Didi Kuaidi</item>
+                <item>SpaceX</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Start-ups"/>
+            <keyword area="North America"/>
+            <keyword name="Central and Eastern Asia"/>
+            <keyword name="Transportation"/>
+            <keyword name="Tech"/>
+            <keyword name="Commerce"/>
+            <keyword name="Tourism"/>
+            <keyword name="Investments"/>
+            <keyword name="Employment"/>
+          </keywords>
+          <sources>
+            <source>bloomberg.com</source>
+            <source>cbinsights.com</source>
+            <source>nytimes.com</source>
+            <source>qz.com</source>
+            <source>timesofindia.com</source>
+            <source>wsj.com</source>
+          </sources>
+        </section>
+        <section>
+          <title>Aerospace bubbles</title>
+          <chapter>
+            <paragraph>Space is attracting increased attention in Silicon Valley
+              and in investment communities world-wide. Space ventures now appeal
+              to investors because they say that large valuations and exits are
+              demonstrating the potential for high returns.</paragraph>
+              <paragraph>March 30th 2016: SpaceX launched an inflatable space
+                habitat. SpaceX is a startup that designs and launches advanced
+                rockets, spacecrafts and satellites. The new inflatable module,
+                when deflated, is more compact and potentially much lighter than
+                others. It’s easier to fit into a launch vehicle and cheaper to launch.</paragraph>
+              </chapter>
+              <quote>
+                <author></author>
+                <text>March 30th 2016: SpaceX launched an inflatable space habitat.
+                  Space is attracting increased attention in Silicon Valley and in
+                  investment communities world-wide.</text>
+                </quote>
+                <graph x="date" y="number">
+                  <title>Number of Aerospace Deals</title>
+                  <abstract>This significant increase in Q2 2014 transaction value
+                    can be attributed to several large-cap deals in the segment</abstract>
+                    <dataset label= "Deals">
+                      <data x="Q1_2014" y="19"/>
+                      <data x="Q2_2014" y="35"/>
+                      <data x="Q3_2014" y="12"/>
+                      <data x="Q4_2014" y="30"/>
+                      <data x="Q1_2015" y="26"/>
+                      <data x="Q2_2015" y="28"/>
+                      <data x="Q3_2015" y="20"/>
+                      <data x="Q4_2015" y="18"/>
+                    </dataset>
+                  </graph>
+                  <graph unit="M$" x="string" y="number">
+                    <dataset label= "Total private funding">
+                      <data x="SpaceX" y="1,190"/>
+                      <data x="BlueOrigin" y="525.7"/>
+                      <data x="OneWeb" y="519.1"/>
+                    </dataset>
+                  </graph>
+                  <graph x="string" y="number">
+                    <title>Number of investors in space startups</title>
+                    <dataset label= "2013">
+                      <data x="banks" y="0"/>
+                      <data x="public market" y="2"/>
+                      <data x="corporations" y="7"/>
+                      <data x="PE firms" y="3"/>
+                      <data x="VC firms" y="37"/>
+                      <data x="angel investors" y="16"/>
+                      <data x="altruists" y="4"/>
+                    </dataset>
+                    <dataset label= "2014">
+                      <data x="banks" y="3"/>
+                      <data x="public market" y="0"/>
+                      <data x="corporations" y="8"/>
+                      <data x="PE firms" y="2"/>
+                      <data x="VC firms" y="20"/>
+                      <data x="angel investors" y="7"/>
+                      <data x="altruists" y="3"/>
+                    </dataset>
+                    <dataset label= "2015">
+                      <data x="banks" y="1"/>
+                      <data x="public market" y="0"/>
+                      <data x="corporations" y="15"/>
+                      <data x="PE firms" y="1"/>
+                      <data x="VC firms" y="53"/>
+                      <data x="angel investors" y="18"/>
+                      <data x="altruists" y="2"/>
+                    </dataset>
+                  </graph>
+                  <graph unit="M$" x="date" y="number">
+                    <title>SpaceX total funding history</title>
+                    <abstract>Total funding: $ 1,19B. 14 months since last
+                      funding rounds.</abstract>
+                      <dataset label= "total funding rounds">
+                        <data x="2006" y="100"/>
+                        <data x="2007" y="0"/>
+                        <data x="2008" y="20"/>
+                        <data x="2009" y="15"/>
+                        <data x="2010" y="50"/>
+                        <data x="2011" y="0"/>
+                        <data x="2012" y="30"/>
+                        <data x="2013" y="0"/>
+                        <data x="2014" y="0"/>
+                        <data x="2015" y="1,000"/>
+                      </dataset>
+                    </graph>
+                    <graph unit="%" x="string" y="percentage">
+                      <dataset label= "number of nanosats in 2016">
+                        <data x="nanosats for commercial use" y="56"/>
+                        <data x="nanosats not for commercial use" y="44"/>
+                      </dataset>
+                    </graph>
+                        <keywords>
+                          <keyword name="Tech" />
+                          <keyword name="Transportation" />
+                          <keyword name="North America" />
+                          <keyword name="Start-ups" />
+                          <keyword name="Investments" />
+                        </keywords>
+                        <sources>
+                          <source>bloomberg.com</source>
+                          <source>cbinsights.com</source>
+                          <source>nytimes.com</source>
+                          <source>qz.com</source>
+                          <source>timesofindia.com</source>
+                          <source>wsj.com</source>
+                        </sources>
+                      </section>
+                      <section>
+                        <title>India is the last big thing in E-commerce?</title>
+                        <chapter>
+                          <paragraph>On March 24th, 2016, the Indian government has
+                            clarified its policy for foreign direct investment
+                            (FDI) in the fast-growing e-commerce sector.
+                            India has allowed 100% FDI in online retail consumer
+                            businesses that operate as marketplaces companies that
+                            act as a facilitator between buyers and sellers by providing a technology platform.</paragraph>
+                            <paragraph>Indian startups have enjoyed an unprecedented
+                              funding boom over the past two years as global investors
+                              vied to grab  a piece of a rapidly growing economy with
+                              a surging mobile population. A reality check may be around the corner.</paragraph>
+                            </chapter>
+                            <graph unit="%" x="string" y="percentage">
+                              <title>E-commerce market in India</title>
+                              <abstract>The indian government has allowed foreign direct investments.
+                                Amazon and Alibaba are the main players.</abstract>
+                                <dataset label= "Composition of Indian E-commerce">
+                                  <data x="Amazon" y="12"/>
+                                  <data x="Flipkart" y="45"/>
+                                  <data x="Sneapdeal" y="26"/>
+                                  <data x="Shopclues" y="3"/>
+                                  <data x="Patym" y="7"/>
+                                  <data x="Other" y="3"/>
+                                </dataset>
+                              </graph>
+                              <graph unit="%" x="string" y="number">
+                                <title>E-commerce sales growth by country</title>
+                                <dataset label= "E-commerce sales growth in 2015">
+                                  <data x="Canada" y="20" />
+                                  <data x="USA" y="10" />
+                                  <data x="Mexico" y="20" />
+                                  <data x="Brazil" y="10" />
+                                  <data x="Argentina" y="20" />
+                                  <data x="Spain" y="10" />
+                                  <data x="France" y="10" />
+                                  <data x="Germany" y="10" />
+                                  <data x="Denmark" y="10" />
+                                  <data x="Norway" y="10" />
+                                  <data x="Sweden" y="10" />
+                                  <data x="UK" y="20" />
+                                  <data x="Italy" y="20" />
+                                  <data x="Russia" y="10" />
+                                  <data x="India" y="30" />
+                                  <data x="China" y="40" />
+                                  <data x="Indonesia" y="30" />
+                                  <data x="Australia" y="10" />
+                                  <data x="Rest of the world" y="5" />
+                                </dataset>
+                              </graph>
+                              <chapter>
+                                <title>Deal slump in tech</title>
+                                <paragraph>Investment in Indian technology firms had slowed from the peaks of 2015.
+                                  Beyond eight-year-old Flipkart, entrepreneurs and venture capital
+                                  investors are bracing for leaner times and more down to earth
+                                  valuations after two years of frenzied deal-making. A deceleration in funding
+                                  could in turn quicken the failure rate among smaller, ill-prepared startups.</paragraph>
+                                </chapter>
+                                <graph unit="B$" x="date" y="number">
+                                  <title>India investment activity of VC-backed companies in 2015</title>
+                                  <dataset label= "India's VC investments">
+                                    <data x="Q1_2015" y="0.8"/>
+                                    <data x="Q2_2015" y="2.5"/>
+                                    <data x="Q3_2015" y="2.9"/>
+                                    <data x="Q4_2015" y="1.6"/>
+                                  </dataset>
+                                </graph>
+                                <graph x="date" y="number">
+                                  <dataset label= "India's VC deals">
+                                    <data x="Q1_2015" y="105"/>
+                                    <data x="Q2_2015" y="127"/>
+                                    <data x="Q3_2015" y="138"/>
+                                    <data x="Q4_2015" y="110"/>
+                                  </dataset>
+                                </graph>
+                                <keywords>
+                                  <keyword name="Tech" />
+                                  <keyword name="Global Corporations" />
+                                  <keyword name="North America" />
+                                  <keyword name="Start-ups" />
+                                  <keyword name="Investments" />
+                                  <keyword name="South America" />
+                                  <keyword name="Eastern Europe" />
+                                  <keyword name="Western Europe" />
+                                  <keyword name="Central and Eastern Asia" />
+                                  <keyword name="Southern Asia" />
+                                  <keyword name="Oceania" />
+                                  <keyword name="Governance" />
+                                  <keyword name="Commerce" />
+                                </keywords>
+                                <sources>
+                                  <source>bloomberg.com</source>
+                                  <source>cbinsights.com</source>
+                                  <source>nytimes.com</source>
+                                  <source>qz.com</source>
+                                  <source>timesofindia.com</source>
+                                  <source>wsj.com</source>
+                                </sources>
+                              </section>
+                              <section>
+                                <title>India E-commerce: Flipkart</title>
+                                <chapter>
+                                  <paragraph>Much of the excitement surrounding Flipkart
+                                    and other Indian startups came from the expectation
+                                    that India’s Internet economy will eventually follow
+                                    in the footsteps of China’s. The problem is that while
+                                    Indians are accessing the Internet at a record rate, only a small
+                                    percentage of them shop online.</paragraph>
+                                    <paragraph>February 2016: Morgan Stanley had slashed value of its
+                                      Flipkart share by 27% to about $ 11 Billion.</paragraph>
+                                    </chapter>
+                                    <graph unit="%" x="string" y="number">
+                                      <title>Internet penetration around world</title>
+                                      <dataset label= "Internet users">
+                                        <data x="UK" y="90"/>
+                                        <data x="Germany" y="85"/>
+                                        <data x="US" y="82"/>
+                                        <data x="Japan" y="80"/>
+                                        <data x="Russia" y="65"/>
+                                        <data x="Brazil" y="55"/>
+                                        <data x="China" y="50"/>
+                                        <data x="India" y="23"/>
+                                      </dataset>
+                                      <dataset label="Online shoppers">
+                                        <data x="UK" y="58"/>
+                                        <data x="Germany" y="60"/>
+                                        <data x="US" y="51"/>
+                                        <data x="Japan" y="51"/>
+                                        <data x="Russia" y="30"/>
+                                        <data x="Brazil" y="20"/>
+                                        <data x="China" y="25"/>
+                                        <data x="India" y="5"/>
+                                      </dataset>
+                                    </graph>
+                                    <graph unit="B$" x="date" y="number">
+                                      <title>Flipkart timeline of valuation</title>
+                                      <dataset label= "valuation">
+                                        <data x="2012" y="1"/>
+                                        <data x="2013" y="1.5"/>
+                                        <data x="2015" y="15"/>
+                                      </dataset>
+                                    </graph>
+                                    <graph unit="$" x="date" y="number">
+                                      <title>E-commerce average share-price performance</title>
+                                      <dataset label= "Flipkart">
+                                        <data x="Q2_2015" y="25"/>
+                                        <data x="Q3_2015" y="25"/>
+                                        <data x="Q4_2015" y="23"/>
+                                        <data x="Q1_2016" y="0"/>
+                                      </dataset>
+                                      <dataset label= "Warby Parker">
+                                        <data x="Q2_2015" y="40"/>
+                                        <data x="Q3_2015" y="40"/>
+                                        <data x="Q4_2015" y="40"/>
+                                        <data x="Q1_2016" y="15"/>
+                                      </dataset>
+                                      <dataset label= "Dianping">
+                                        <data x="Q2_2015" y="48"/>
+                                        <data x="Q3_2015" y="110"/>
+                                        <data x="Q4_2015" y="10"/>
+                                        <data x="Q1_2016" y="48"/>
+                                      </dataset>
+                                      <dataset label= "Honest Co.">
+                                        <data x="Q2_2015" y="51"/>
+                                        <data x="Q3_2015" y="120"/>
+                                        <data x="Q4_2015" y="140"/>
+                                        <data x="Q1_2016" y="160"/>
+                                      </dataset>
+                                      <dataset label= "Wayfair">
+                                        <data x="Q2_2015" y="75"/>
+                                        <data x="Q3_2015" y="48"/>
+                                        <data x="Q4_2015" y="120"/>
+                                      </dataset>
+                                    </graph>
+                                    <graph unit="%" x="string" y="percentage">
+                                      <title>Best selling in Flipkart</title>
+                                      <dataset label= "Selling in 2015">
+                                        <data x="Electronics and appliance" y="51"/>
+                                        <data x="Fashion" y="30"/>
+                                        <data x="Books" y="7"/>
+                                        <data x="Other" y="12"/>
+                                      </dataset>
+                                    </graph>
+                                    <keywords>
+                                      <keyword name="Tech" />
+                                      <keyword name="North America" />
+                                      <keyword name="Start-ups" />
+                                      <keyword name="Investments" />
+                                      <keyword name="South America" />
+                                      <keyword name="Eastern Europe" />
+                                      <keyword name="Western Europe" />
+                                      <keyword name="Central and Eastern Asia" />
+                                      <keyword name="Commerce" />
+                                    </keywords>
+                                    <sources>
+                                      <source>bloomberg.com</source>
+                                      <source>cbinsights.com</source>
+                                      <source>nytimes.com</source>
+                                      <source>qz.com</source>
+                                      <source>timesofindia.com</source>
+                                      <source>wsj.com</source>
+                                    </sources>
+                                  </section>
+                                </sections>
+                              </bulletin>
+                            </bulletins>

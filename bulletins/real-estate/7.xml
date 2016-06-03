@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins>
+  <title>REAL ESTATE</title>
+  <subtitle>Visualizing the crisis</subtitle>
+  <authors>
+    <author>Irene Chiappini</author>
+    <author>Giulia Serafin</author>
+  </authors>
+  <bulletin id="7" date="20160421">
+    <title>Italian Scenario</title>
+    <sections>
+      <section>
+          <graph unit="K" x="region" y="number">
+            <title>New daily Mortgages per region (22/04/2016)</title>
+            <abstract>Lombardy region has the highest number of daily mortgages throughout Italy</abstract>
+            <dataset label="morgages">
+              <data x="Valle D'Aosta" y="10.00"/>
+              <data x="Piemonte" y="445.00"/>
+              <data x="Liguria" y="156.00"/>
+              <data x="Lombardia" y="1,059.00"/>
+              <data x="Trentino Alto Adige" y="14.00"/>
+              <data x="Friuli Venezia Giulia" y="100.00"/>
+              <data x="Veneto" y="445.00"/>
+              <data x="Emilia Romagna" y="407.00"/>
+              <data x="Toscana" y="410.00"/>
+              <data x="Umbria" y="78.00"/>
+              <data x="Marche" y="108.00"/>
+              <data x="Lazio" y="556.00"/>
+              <data x="Abruzzo" y="80.00"/>
+              <data x="Molise" y="12.00"/>
+              <data x="Campania" y="256.00"/>
+              <data x="Puglia" y="209.00"/>
+              <data x="Basilicata" y="34.00"/>
+              <data x="Calabria" y="68.00"/>
+              <data x="Sicilia" y="212.00"/>
+              <data x="Sardegna" y="99.00"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Western Europe"/>
+            <keyword name="Loans"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>: Il Sole 24 Ore “Casa, il mercato cerca il riscatto tra mutui e tasse”</source>
+            <source>: Il Sole 24 Ore”Casa, meglio comprare con un mutuo o con il nuovo leasing agevolato?”</source>
+            <source>: Il Sole 24 Ore”Nuovi mutui in Italia: aggiornamento giornaliero”</source>
+            <source>Numbeo</source>
+          </sources>
+        </section>
+      <section>
+        <title>Some data about cities</title>
+        <table>
+          <row type="head">
+            <cell></cell>
+            <cell>Population</cell>
+            <cell>Average Monthly Salary</cell>
+            <cell>City Centre (€/sq feet)</cell>
+            <cell>Outside Centre (€/sq feet)</cell>
+          </row>
+          <row type="cell">
+            <cell>Milan</cell>
+            <cell>1,251 milions</cell>
+            <cell>€ 1,722.56</cell>
+            <cell>€ 763.89</cell>
+            <cell>€ 292.28 </cell>
+          </row>
+        </table>
+        <table>
+          <row type="cell">
+            <cell>Florence</cell>
+            <cell>361.679</cell>
+            <cell>€ 1,464.58 </cell>
+            <cell>€ 392.84 </cell>
+            <cell>€ 258.27 </cell>
+          </row>
+          <row type="cell">
+            <cell>Rome</cell>
+            <cell>2,627 milions</cell>
+            <cell>€ 1,576.40 </cell>
+            <cell>€ 836.91</cell>
+            <cell>€ 378.47</cell>
+          </row>
+          <row type="cell">
+            <cell>Bari</cell>
+            <cell>314.311</cell>
+            <cell>€ 1,050.00  </cell>
+            <cell>€ 261.98 </cell>
+            <cell>€ 204.38 </cell>
+          </row>
+        </table>
+        <keywords>
+          <keyword name="Western Europe"/>
+          <keyword name="Loans"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>: Il Sole 24 Ore “Casa, il mercato cerca il riscatto tra mutui e tasse”</source>
+          <source>: Il Sole 24 Ore”Casa, meglio comprare con un mutuo o con il nuovo leasing agevolato?”</source>
+          <source>: Il Sole 24 Ore”Nuovi mutui in Italia: aggiornamento giornaliero”</source>
+          <source>Numbeo</source>
+        </sources>
+      </section>
+      <section>
+        <title>Mortgage vs Leasing: a comparison</title>
+        <chapter>
+          <title>Mortgage - How does it work</title>
+          <subtitle>In the last year mortgages increased + 97% in Italy.</subtitle>
+          <paragraph>
+            <list type="ordered">
+              <item>The bank accept to give a mortgage</item>
+              <item>The customer receives the full amount of money from the bank to buy a property</item>
+              <item>The customer buys the property and becomes immediately its owner</item>
+              <item>The customer can return loan with rates for a maximum of 30 years</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>Features</title>
+          <paragraph>
+            <list type="unordered">
+              <item>Low tax 1.5% / 2.5%</item>
+              <item>Settlement balance in advance</item>
+              <item>Banks are allowed to distrain the property after 18 unpaid rates</item>
+              <item>Does not permit the possession of the property with a liquid under 80% property value</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>Leasing - How does it work</title>
+          <subtitle>From January 2016 the lease was extended not only to industry but also to individuals for the purchase of properties, so leasingbecame an alternative to mortgages</subtitle>
+          <paragraph>
+            <list type="ordered">
+              <item>The bank accept to give a leasing</item>
+              <item>The bank buys a property on real estate market,(so the bank has the ownership)</item>
+              <item>The customer pays the full amount of the property to the bank with rates for a maximum of 20 years</item>
+              <item>the change of ownership comes with the last ransom money</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>Features</title>
+          <paragraph>
+            <list type="unordered">
+              <item>High tax</item>
+              <item>Settlement balance only after the last payment of rates</item>
+              <item>Banks are allowed to distrain the property after 1 unpaid rate</item>
+              <item>Permit the possession of the property with a slow liquid, 10% property value</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Western Europe"/>
+          <keyword name="Loans"/>
+          <keyword name="Housing Real estate"/>
+        </keywords>
+        <sources>
+          <source>: Il Sole 24 Ore “Casa, il mercato cerca il riscatto tra mutui e tasse”</source>
+          <source>: Il Sole 24 Ore”Casa, meglio comprare con un mutuo o con il nuovo leasing agevolato?”</source>
+          <source>: Il Sole 24 Ore”Nuovi mutui in Italia: aggiornamento giornaliero”</source>
+          <source>Numbeo</source>
+        </sources>
+      </section>
+      <section>
+        <title>Mortgages in Italy</title>
+        <chapter>
+          <paragraph>+10% Growth of  deed  in 2016 than 2013.Bank loans for family properties 49.8 Billion, -3.5% than 2006.
+          </paragraph>
+        </chapter>
+          <title>New Italian borrowers</title>
+          <paragraph>
+            <list type="ordered">
+              <item>Men 55%</item>
+              <item>Women 45%</item>
+              <item>Foreigners 9%</item>
+            </list>
+          </paragraph>
+          <table>
+            <row type="head">
+              <cell></cell>
+              <cell>Age group</cell>
+            </row>
+            <row type="cell">
+              <cell>18-24</cell>
+              <cell>5%</cell>
+            </row>
+            <row type="cell">
+              <cell>25-34</cell>
+              <cell>22%</cell>
+            </row>
+            <row type="cell">
+              <cell>35-44</cell>
+              <cell>33%</cell>
+            </row>
+            <row type="cell">
+              <cell>45-54</cell>
+              <cell>26%</cell>
+            </row>
+            <row type="cell">
+              <cell>55-64</cell>
+              <cell>13%</cell>
+            </row>
+            <row type="cell">
+              <cell>65-74</cell>
+              <cell>1%</cell>
+            </row>
+            <row type="cell">
+              <cell>over 75</cell>
+              <cell>0%</cell>
+            </row>
+          </table>
+          <keywords>
+            <keyword name="Western Europe"/>
+            <keyword name="Loans"/>
+            <keyword name="Housing Real estate"/>
+          </keywords>
+          <sources>
+            <source>Il Sole 24 Ore “Casa, il mercato cerca il riscatto tra mutui e tasse”</source>
+            <source>Il Sole 24 Ore”Casa, meglio comprare con un mutuo o con il nuovo leasing agevolato?”</source>
+            <source>Il Sole 24 Ore”Nuovi mutui in Italia: aggiornamento giornaliero”</source>
+            <source>Numbeo</source>
+          </sources>
+        </section>
+      </sections>
+      </bulletin>
+      <bulletin id="7" date="20160421">
+        <title>US builders world</title>
+        <sections>
+          <section>
+            <title>Construction sector</title>
+            <subtitle>Some data to understand housing market and homebuilders situation in US:</subtitle>
+            <graph unit="M" x="date" y="number">
+              <title>U.S. housing starts</title>
+              <abstract>New residential housing units authorized by building permits and started in the last year (from March ‘15 to March’16).</abstract>
+              <dataset label="New residential housing units">
+                <data x="April" y="1,192"/>
+                <data x="May" y="1,063"/>
+                <data x="June" y="1,213"/>
+                <data x="July" y="1,147"/>
+                <data x="August" y="1,132"/>
+                <data x="September" y="1,189"/>
+                <data x="October" y="1,073"/>
+                <data x="November" y="1,171"/>
+                <data x="December" y="1,160"/>
+                <data x="January" y="1,128"/>
+                <data x="February" y="1,213"/>
+                <data x="March" y="1,099"/>
+                <data x="April" y="1,172"/>
+              </dataset>
+            </graph>
+            <graph unit="K" x="date" y="number">
+              <title>Units under construction</title>
+              <abstract>Construction’s trend in the last 4 years about the two main typologies of houses.</abstract>
+              <dataset label="multifamily houses">
+                <data x="2013" y="350"/>
+                <data x="2016" y="428"/>
+              </dataset>
+              <dataset label="single-family houses">
+                <data x="2013" y="595"/>
+                <data x="2016" y="1000"/>
+              </dataset>
+            </graph>
+            <graph unit="DA" x="date" y="number">
+              <title>Homebuilders sentiments</title>
+              <abstract>From these data NAHB (national association of home builders) make a seasonally index in which all values over 50 mean good conditions for builders. </abstract>
+              <dataset label="Homebuilders sentiments index">
+                <data x="2007'" y="37"/>
+                <data x="2008'" y="19"/>
+                <data x="'2009'" y="12"/>
+                <data x="'2010'" y="17"/>
+                <data x="'2011'" y="18"/>
+                <data x="'2012'" y="21"/>
+                <data x="'2013'" y="45"/>
+                <data x="'2014'" y="56"/>
+                <data x="2015" y="57"/>
+                <data x="2016" y="58"/>
+              </dataset>
+            </graph>
+            <keywords>
+              <keyword name="North America"/>
+              <keyword name="Employment"/>
+              <keyword name="Working class"/>
+              <keyword name="Construction"/>
+              <keyword name="Housing Real estate"/>
+            </keywords>
+            <sources>
+              <source>World Property Journal “US builder confidence holds firm in April says NAHB index”</source>
+              <source>Eye on Housing “ Housing starts fall back to trend”</source>
+              <source>“Builder confidence unchanged in April”</source>
+              <source>CNBC “Homebuilder blues: Don’t blame labor shartage”</source>
+            </sources>
+          </section>
+            <section>
+              <title>What’s going on?</title>
+              <subtitle>There is a monthly drop in housing starts that masks the long-run growing trend which remains in place.</subtitle>
+              <chapter>
+                <paragraph>There has been a 9.2% decline in single-family house starts in March 2016. Home construction weakened in March but homebuilder sentiment hasn’t changed. Builders confidence in the market for new single-family house remained unchanged in the last 3 months: 58.</paragraph>
+              </chapter>
+              <keywords>
+                <keyword name="North America"/>
+                <keyword name="Employment"/>
+                <keyword name="Working class"/>
+                <keyword name="Construction"/>
+                <keyword name="Housing Real estate"/>
+              </keywords>
+              <sources>
+                <source>World Property Journal “US builder confidence holds firm in April says NAHB index”</source>
+                <source>Eye on Housing “ Housing starts fall back to trend”</source>
+                <source>“Builder confidence unchanged in April”</source>
+                <source>CNBC “Homebuilder blues: Don’t blame labor shartage”</source>
+              </sources>
+            </section>
+            <section>
+              <title>US is in the heart of an historically strong spring housing market.</title>
+              <chapter>
+                <title>Strenght</title>
+                <subtitle>the factors that make builders optimistics</subtitle>
+                <paragraph>
+                  <list type="ordered">
+                    <item>New job creation</item>
+                    <item>Low mortgages interest rates</item>
+                    <item>Lack of home inventory</item>
+                    <item>The customer can return loan with rates for a maximum of 30 years</item>
+                  </list>
+                </paragraph>
+              </chapter>
+              <chapter>
+                <title>Weakeness</title>
+                <subtitle>new construction costs that didn’t exist 10 years ago</subtitle>
+                <paragraph>
+                  <list type="ordered">
+                    <item>Environment-protection regulations</item>
+                    <item>Shortage of buildable lots:</item>
+                    <item>Labor crunch</item>
+                    <item>High average age of workers</item>
+                    <item>Understaffed planning</item>
+                    <item>Utility companies delays</item>
+                  </list>
+                </paragraph>
+              </chapter>
+              <keywords>
+                <keyword name="North America"/>
+                <keyword name="Employment"/>
+                <keyword name="Working class"/>
+                <keyword name="Construction"/>
+                <keyword name="Housing Real estate"/>
+              </keywords>
+              <sources>
+                <source>World Property Journal “US builder confidence holds firm in April says NAHB index”</source>
+                <source>Eye on Housing “ Housing starts fall back to trend”</source>
+                <source>“Builder confidence unchanged in April”</source>
+                <source>CNBC “Homebuilder blues: Don’t blame labor shartage”</source>
+              </sources>
+            </section>
+          </sections>
+        </bulletin>
+      </bulletins>
