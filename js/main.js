@@ -66,6 +66,10 @@ function tableToHTML($element, $parent){
 function chapterToHTML($element, $parent){
   var paragraphs=$element.find('paragraph');
   var html="<div class='section-chapter'>";
+  var titles=$element.find('title');
+  if(titles.length>0)
+  html+="<span class='chapter-title'>" + titles.first().html() +'</span>';
+
   console.log(paragraphs);
   for (var i = 0; i < paragraphs.length; ++i) {
     var lists=$(paragraphs[i]).contents();
@@ -75,7 +79,6 @@ function chapterToHTML($element, $parent){
       var $element= $(lists[l]);
       console.log($element);
       if(lists[l].nodeType==3)html+="<p>"+$element.text()+"</p>";
-      if($element.is('title'))html+="<span class='chapter-title'>" + $element.html() +'</span>';
       if($element.is('list')){
         var isOrdered=$element.attr('type')=='ordered';
         if(isOrdered)
