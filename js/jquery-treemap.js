@@ -70,7 +70,7 @@
 
             var boxId = node.id || 'treemap-node-' + i;
             var $box = $('<div id=' + boxId + '></div>');
-            console.log(node);
+        //    console.log(node);
             $box.append("<svg style='position:absolute;top:0px;left=0px' width='100%' height='100%'><rect width='100%' height='100%' fill='"+node.fill+"'></rect></svg>");
             $box.css($.extend(nodeBounds.style(), {
                 'position': 'absolute'
@@ -121,7 +121,7 @@
 
     TreeMap.prototype.fitLabelFontSize = function ($content, node) {
         var nodeBounds = node.bounds;
-        console.log($content);
+    //    console.log($content);
         $content.css('max-width',nodeBounds.width- TreeMap.TOP_MARGIN);
       //  $content.css('word-wrap','break-word');
         while ($content.height() + 3 > nodeBounds.height){// || $content.innerWidth() + 10 > nodeBounds.width){
@@ -176,10 +176,10 @@
           'max-width': width-10,
           'visibility':'hidden'
       });
-      console.log('++++');
-      console.log(s+" , "+width+"  ",$content.innerWidth());
+    //  console.log('++++');
+    //  console.log(s+" , "+width+"  ",$content.innerWidth());
 
-      console.log($content.innerWidth() +" < "+(width-10));
+  //    console.log($content.innerWidth() +" < "+(width-10));
       //$content.remove();;
       return $content.innerWidth() <width- TreeMap.TOP_MARGIN;
     }
@@ -198,8 +198,8 @@
         var leftSum = this.sumValues(halves.left),
             rightSum = this.sumValues(halves.right),
             totalSum = leftSum + rightSum;
-            console.log("***");
-            console.log(nodeList[0]);
+          //  console.log("***");
+          //  console.log(nodeList[0]);
 
 
         var l_rect = Math.round((leftSum * destRectangle.width) / totalSum);
