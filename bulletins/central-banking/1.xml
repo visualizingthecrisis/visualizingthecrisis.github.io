@@ -17,6 +17,13 @@
                   <paragraph>The World Bank 7,000 staff members.</paragraph>     <!--[0-N]-->
                   <paragraph>The International Monetary Fund 2,300 staff members.</paragraph>     <!--[0-N]-->
                 </chapter>
+                <keywords>                                                      <!--[ 1 ]-->
+          <keyword name="Global Corporations" />                                    <!--[1-N]-->
+          <keyword name="Governance" />
+        </keywords>
+        <sources>                                                       <!--[ 1 ]-->
+          <source>imf.org</source>                                     <!--[1-N]-->
+        </sources>
               </section>
               <section>
         <title>2016 Spring Annual Meeting</title>
@@ -528,7 +535,7 @@
                    </paragraph>
                  </chapter>
                      <graph unit="%" x="date" y="number">
-                       <dataset label="">
+                       <dataset label="capital inflows">
                          <data x="2000" y="0.9"/>
                          <data x="2001" y="1.25"/>
                          <data x="2002" y="1.7"/>
@@ -547,12 +554,6 @@
                          <data x="2015" y="-1.1"/>
                        </dataset>
                      </graph>
-               <keywords>
-                 <keyword name="National Debt"/>
-               </keywords>
-               <sources>
-                 <source>japan.go.jp</source>
-               </sources>
                <chapter>
                  <title>Health</title>
                    <paragraph>
@@ -565,19 +566,11 @@
                  </chapter>
                      <graph unit="%" x="string" y="percentage">
                        <title>Deaths in the world</title>
-                       <dataset label="">
+                       <dataset label="deaths and environment">
                          <data x="Attributable to the environment" y="22.5"/>
                          <data x="Non attributable to the environment" y="77.5"/>
                        </dataset>
                      </graph>
-                     <keywords>
-                       <keyword name="Healthcare"/>
-                       <keyword name="In poverty"/>
-                       <keyword name="Global Corporations"/>
-                     </keywords>
-                     <sources>
-                       <source>who.int</source>
-                     </sources>
                <chapter>
                  <title>Quality infrastructure investments</title>
                    <paragraph>
@@ -589,7 +582,7 @@
                  </chapter>
                    <graph unit="%" x="string" y="number">
                      <title>Infrastructure for growth</title>
-                     <dataset label="">
+                     <dataset label="infrastructure investments">
                        <data x="Increase in infrastructure investments" y="10"/>
                        <data x="GDP growth" y="1"/>
                      </dataset>
@@ -604,7 +597,7 @@
                    </chapter>
                    <graph unit="%" x="string" y="percentage">
                      <title>Infrastructure for social progress</title>
-                       <dataset label="">
+                       <dataset label="infrastructure social progress">
                          <data x="Cellular signal penetration in developing contries" y="68"/>
                          <data x="Remaining" y="32"/>
                        </dataset>
@@ -613,8 +606,13 @@
                      <keyword name="Construction"/>
                      <keyword name="Global Corporations"/>
                      <keywords name="Investments"/>
+                     <keywords name="National Debt"/>
+                     <keywords name="Healthcare"/>
+                     <keywords name="In poverty"/>
                    </keywords>
                    <sources>
+                     <source>japan.go.jp</source>
+                     <source>who.int</source>
                      <source>worldbank.com</source>
                    </sources>
      </section>

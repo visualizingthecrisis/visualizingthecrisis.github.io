@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="UTF-8"?>					                        <!--[ 1 ]-->
+<bulletins>                                                            <!--[ 1 ]-->
+  <title>Renewable energy</title>                                     <!--[ 1 ]-->
+  <subtitle> ENERGY A look to the Future</subtitle>                             <!--[ 1 ]-->
+  <authors>                                                             <!--[ 1 ]-->
+    <author>Eleonora Di Bartolo</author>                                           <!--[1-N]-->
+    <author>Maria Tollot</author>
+    <author>Serena Montefiori</author>
+  </authors>
+  <bulletin id="1" date="20160303">                   <!--[1-N]-->
+  <title>Green energy in the world</title>
+
+  <sections>                                                          <!--[ 1 ]-->
+    <section>
+      <title>World investments in green energy</title>
+      <abstract>							                                        <!--[0-1]-->
+        Renewables just finished another record-breaking year, with more money invested, $329 billion, and more capacity added, 121 gigawatts, than ever before.
+      </abstract>
+      <chapter>
+        <title>Increase of renewable resources</title>
+        <paragraph>The sun and the wind continue to defy gravity.</paragraph>
+        <paragraph>Oil, coal and natural gas bottomed out over the last 18 months, with bargain prices not seen in a decade.</paragraph>
+        <paragraph>That's just one of a handful of reasons 2015 should have been a rough year for clean energy.</paragraph>
+        <paragraph>We can observe that the smaller countries that often don't register on charts like the one above.</paragraph>
+        <paragraph>For the first time, half of the world's annual investment in clean energy came from emerging markets.</paragraph>
+        <paragraph>Renewables just finished another record-breaking year, with more money invested, from emerging markets.</paragraph>
+      </chapter>
+      <graph unit="$B" x="String" y="number">
+        <title>World investments in green energy by sector</title>
+        <abstract>Solar energy is the sector in which the countries invest more and more.</abstract>
+        <dataset label= "Investments">
+          <data x="Solar" y="161.5" />
+          <data x="Wind" y="109.6" />
+          <data x="Biofuels" y="3.04" />
+          <data x="Others" y="53.1" />
+        </dataset>
+      </graph>
+
+      <graph unit="%" x="Countries" y="percentage">
+        <title>World investments in green energy by country</title>
+        <abstract>China and USA are the biggest investitors in green energy.</abstract>
+        <dataset label= "Investments in percentage">
+          <data x="CN" y="43" />
+          <data x="US" y="21.8" />
+          <data x="IN" y="4.1" />
+          <data x="BR" y="2.9" />
+          <data x="MX" y="1.6" />
+          <data x="CL" y="1.4" />
+          <data x="ZA" y="1.8" />
+          <data x="MA" y="0.8" />
+        </dataset>
+      </graph>
+
+          <graph unit="$B" x="Countries" y="number">
+            <title>World investments in green energy by country</title>
+            <abstract>China and USA are the biggest investitors in green energy.</abstract>
+            <dataset label= "Investments in dollars by country">
+             <data x="CN" y="110.52" />
+             <data x="EU" y="58.51" />
+             <data x="US" y="56" />
+             <data x="IN" y="10.49" />
+             <data x="BR" y="7.47" />
+             <data x="MX" y="4.16" />
+             <data x="CL" y="3.5" />
+             <data x="ZA" y="4.52" />
+             <data x="MA" y="2.02" />
+            </dataset>
+          </graph>
+
+      <keywords>
+        <keyword area="geography">Eastern Asia/>
+        <keyword area="geography">Eastern Europe/>
+        <keyword area="geography">Western Europe/>
+        <keyword area="geography">North America/>
+        <keyword area="geography">Southern Asia/>
+        <keyword area="geography">Southern America/>
+        <keyword area="geography">North America/>
+        <keyword area="geography">Southern Africa/>
+        <keyword area="geography">Northern Africa/>
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+      </sources>
+  </section>
+
+
+  <section>
+      <chapter>
+        <title>Wind top new power generation source in Europe</title>
+        <paragraph>In 2015 12,800 MW of new wind power capacity was installed in the EU, an increase of 6.3% over 2014, and more than any other form of power generation, according to recent new figures from the European Wind Energy Association (EWEA).</paragraph>
+        <paragraph>Wind power accounted for over 44% of total power capacity installations in the EU last year.</paragraph>
+        <paragraph>€26.4 billion was invested in Europe in 2015 to finance wind energy development.</paragraph>
+        <paragraph>This was 40% more than the total investment in 2014. The total wind power capacity installed at the end of 2015 could produce 315 TWh and cover 11.4% of the EU electricity consumption in a normal wind year.</paragraph>
+      </chapter>
+
+      <graph unit="$B" x="date" y="number">
+        <title>Wind energy</title>
+        <abstract>Despite the last year wind energy is increased.</abstract>
+        <dataset label= "Investments">
+          <data x="2014" y="10.6" />
+          <data x="2015" y="26.4" />
+        </dataset>
+      </graph>
+
+      <graph unit="Mw" x="date" y="number">
+        <title>Production capacity in wind energy</title>
+        <abstract>From 2014-2015 the capacity of wind power production fell slightly.</abstract>
+        <dataset label= "Production capacity">
+          <data x="2014" y="12,800" />
+          <data x="2015" y="11,994" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword area="topics">Global Warming/>
+        <keyword area="resources">Renewables/>
+        <keyword area="finance">Investments/>
+        <keyword area="geography">Southern Asia/>
+        <keyword area="finance">Inflation/Deflation/>
+      </keywords>
+      <sources>
+        <source>energypost.eu</source>
+      </sources>
+    </section>
+
+
+    <section>
+          <chapter>
+            <title>Solar power generation capacity crosses 5,5000Mw in India</title>
+            <paragraph>The country's grid-connected solar power generation capacity has crossed the 5,000 MW mark today.</paragraph>
+            <paragraph>It is envisaged to generate 60 GW ground mounted grid-connected solar power and 40 GW roof-top grid interactive solar power to meet the target.</paragraph>
+            <paragraph>The ministry has also fixed year-wise targets to monitor the solar power generation in the country.</paragraph>
+            <paragraph>The target for the current year is 2,000 MW and 12,000 MW for the next year.</paragraph>
+          </chapter>
+          <graph unit="Mw" x="date" y="number">
+            <title>Prevision of solar power</title>
+            <abstract>India's grid-connected solar power generation capacity has crossed the 5.000 Mw mark today.</abstract>
+            <dataset label= "Production capacity from 2016 to 2017">
+              <data x="2016" y="2,000" />
+              <data x="2017" y="12,000" />
+            </dataset>
+          </graph>
+
+          <graph unit="Gw" x="string" y="number">
+            </title>Target of generation 100Gw of solar power by 2022</title>
+            <abstract>The government has set an ambitious target of generating 100 GW of solar power by 2021-22 under the National Solar Mission.</abstract>
+            <dataset label= "Prevision by 2022">
+              <data x="ground mounted grid-connected solar power" y="60" />
+              <data x="roof-top grid interactive solar power to meet the target" y="40" />
+            </dataset>
+          </graph>
+
+          <keywords>
+            <keyword area="resources">Global Warming/>
+          </keywords>
+          <sources>
+            <source>articles.economictimes.indiatimes.com</source>
+          </sources>
+        </section>
+
+
+        <section>
+            <chapter>
+              <title>Renewables take top share of German power supply in first</title>
+              <paragraph>Germany for the first time got more electricity from renewables than any other source of energy.</paragraph>
+              <paragraph>Clean-energy sources met 27.7 percent of Germany’s demand in the nine months through September, for the first time exceeding the 26.3 percent share held by lignite coal, according to calculations by Agora, an influential researcher owned by the Mercator Foundation and European Climate Foundation.</paragraph>
+              <paragraph>Merkel intends to get as much as 60 percent of the country’s power from renewables by 2035 under her “Energiewende” plan that will see all nuclear reactors closed by 2022.</paragraph>
+            </chapter>
+
+            <graph unit="%" x="date" y="percentage">
+              <title>Prevision of green energy</title>
+              <abstract>Germany for the first time got blackberries electricity from renewables than any other source of energy.</abstract>
+              <dataset label= "Production capacity in Germany">
+                <data x="2015" y="27.7" />
+                <data x="2035" y="60" />
+              </dataset>
+            </graph>
+            <keywords>
+              <keyword area="geography">Western Europe/>
+              <keyword area="resources">Renewables/>
+              <keyword area="topics">Global Warming/>
+            </keywords>
+            <sources>
+              <source>bloomberg.com</source>
+            </sources>
+      </section>
+    </sections>
+</bulletin>
+
+  <bulletin id="2" date="20161003">                   <!--[Secondo bollettino]-->
+  <title>Renewable energy in market in technology and project</title>
+  <sections>                                                          <!--[ 1 ]-->
+    <section>
+      <abstract>
+        1.2 billion people are without access to energy and another billion are connected to a national grid (95% of this ones are in Asia and Africa).
+      </abstract>
+      <chapter>
+        <title>Prevision</title>
+        <paragraph>The off-grid solar market has grown to $700 million now from non existent less than a decade ago, according to a report Thursday from the London-based research company and the World Bank Group’s Lighting Global.</paragraph>
+        <paragraph>They expect that to swell to $3.1 billion by the end of the decade.</paragraph>
+        <paragraph>Almost 100 million households worldwide may be powered by solar panels by 2020, according to Bloomberg New Energy Finance.</paragraph>
+      </chapter>
+
+      <graph unit="$B" x="date" y="number">
+        <title>Green solar industry</title>
+        <abstrac>Green solar industry</abstract>
+        <dataset label= "By 2020 investments on solar market is going to grow.">
+          <data x="2015" y="0.7" />
+          <data x="2020" y="3,1" />
+        </dataset>
+      </graph>
+
+    <keywords>
+      <keyword area="resources">Renewables/>
+      <keyword area="finance">Investments/>
+    </keywords>
+    <sources>
+      <source>about.bnef.com</source>
+    </sources>
+  </section>
+
+  <section>
+    <chapter>
+      <title>Solar, Wind and Hydro Projects Added to the North American Grid in February 2016</title>
+      <paragraph>350 MW of renewable energy capacity are currently in the testing phase of development, indicating they are close to being ready to operate.</paragraph>
+      <paragraph>Kentucky produces 29 Mw in Hydropower sector.</paragraph>
+      <paragraph>Virginia produces 22 Mw in Hydropower sector</paragraph>
+      <paragraph>Ontario produces 100 Mw in Wind power sector.</paragraph>
+      <paragraph>New Jersey produces 10 Mw for Solar power sector.</paragraph>
+</chapter>
+   <keywords>
+      <keyword area="resources">Renewables/>
+      <keyword area="resources">Water/>
+      <keyword area="geography">North America/>
+    </keywords>
+    <sources>
+      <source>renewableenergyworld.com</source>
+    </sources>
+ </section>
+
+  <section>
+    <chapter>
+      <title>The spherical sun power generator</title>
+      <paragraph>German Architect Andre Broessel design the spherical sun power generator prototype called the beta.ray.</paragraph>
+      <paragraph>His technology will combine spherical geometry principles with a dual axis tracking system, allowing twice the yield of a conventional solar panel in a much smaller surface area.</paragraph>
+      <paragraph>The futuristic design is fully rotational and is suitable for inclined surfaces, walls of buildings, and anywhere with access to the sky.</paragraph>
+      <paragraph>It can even be used as an electric car charging station.</paragraph>
+      <paragraph>The beta.ray comes with a hybrid collector to convert daily electricity and thermal energy at the same time.</paragraph>
+      <paragraph>While reducing the silicon cell area to 25% with the equivalent power output by using our ultra transmission Ball Lens point focusing concentrator, it operates at efficiency levels of nearly 57% in hybrid mode.</paragraph>
+      <paragraph>At nighttime the Ball Lens can transform into a high-power lamp to illuminate your location, simply by using a few LED’s.</paragraph>
+      <paragraph>The station is designed for off grid conditions as well as to supplement buildings’ consumption of electricity and thermal circuits like hot water.”</paragraph>
+    </chapter>
+  <keywords>
+    <keyword area="resources">Renewables/>
+    <keyword area="resources">Global Warming/>
+    <keyword area="industries">Tech/>
+    <keyword area="industries">Commerce/>
+    <keyword area="finance">Start-ups/>
+    <keyword area="finance">Investments/>
+  </keywords>
+    <sources>
+      <source>alternative-energy-news.info</source>
+    </sources>
+  </section>
+ </sections>
+</bulletin>
+
+  <bulletin id="3" date="20161703">                   <!--[1-N]-->
+  <title>Global greenhouse gas emissions</title>
+
+  <sections>                                                          <!--[ 1 ]-->
+    <section>
+      <title>Trend in global greenhouse gas emissions</title>
+      <abstract> A lot of greenhouse emissions come from human activities.</abstract>
+      <chapter>
+        <title>Greenhouse emissions by economic sector</title>
+        <paragraph>Global greenhouse gas emissions can also be broken down by the economic activities that lead to their production.</paragraph>
+      </chapter>
+      <table>
+          <row type="head">
+            <cell>Electricity</cell>
+            <cell>Industry</cell>
+            <cell>Land use</cell>
+            <cell>Trasportation</cell>
+            <cell>Buildings</cell>
+            <cell>Other energy</cell>
+          </row>
+          <row type="cell">
+            <cell>42%</cell>
+            <cell>40%</cell>
+            <cell>35%</cell>
+            <cell>20%</cell>
+            <cell>17%</cell>
+            <cell>10%</cell>
+          </row>
+        </table>
+      <chapter>
+        <title>Greenhouse emissions by gas</title>
+        <paragraph>At the global scale, the key greenhouse gases emitted by human activities are Carbon dioxide (CO2), Methane (CH4), Nitrous oxide (N2O), Fluorinated gases (F-gases).</paragraph>
+      </chapter>
+      <table>
+        <row type="head">
+          <cell>Carbon Dioxite (Industry)</cell>
+          <cell>Carbon Dioxite (Land use)</cell>
+          <cell>Methane</cell>
+          <cell>Nitrous Oxide</cell>
+        </row>
+        <row type="cell">
+          <cell>93%</cell>
+          <cell>25%</cell>
+          <cell>18%</cell>
+          <cell>10%</cell>
+        </row>
+      </table>
+
+      <chapter>
+        <title>Greenhouse emissions from the fossil fuel combustion and industrial process</title>
+        <paragraph>Increase of CO2 since 1970 with emissions from fossil fuel combustion and industrial processes are grown up throught agriculture activity, deforestation, and other land use.</paragraph>
+        <paragraph>The table below shows in percentage the Greenhouse emissions from the fossil fuel combustion and industrial process by country.</paragraph>
+      </chapter>
+      <table>
+        <row type="head">
+          <cell>Usa</cell>
+          <cell>China</cell>
+          <cell>Russia Federation</cell>
+          <cell>India</cell>
+          <cell>Other</cell>
+        </row>
+        <row type="cell">
+          <cell>49%</cell>
+          <cell>42%</cell>
+          <cell>27%</cell>
+          <cell>15%</cell>
+          <cell>52%</cell>
+        </row>
+        <keywords>
+           <keyword area="geography">Middle East and Western Asia/>
+           <keyword area="geography">Eastern Europe/>
+           <keyword area="geography">North America/>
+           <keyword area="geography">Eastern Asia/>
+           <keyword area="topics">Global Warming/>
+           <keyword area="resources">Oil/>
+           <keyword area="industries">Agricolture/>
+           <keyword area="industries">Construction/>
+           <keyword area="industries">Trasportation/>
+           <keyword area="industries">Healthcare/>
+         </keywords>
+         <sources>
+           <source>EPA United States Environmental protection Agency</source>
+         </sources>
+      </section>
+
+      <section>
+        <chapter>
+          <title>2020’s energy strategy</title>
+          <paragraph>Nowadays the European Union’s energy policies work to increase development and use of renewables and its topics.</paragraph>
+          <paragraph>In particular Europe invest on renewable energy to ensure the reliable provision of energy whenever and wherever needed and to encourage a competitive environment offering affordable prices for homes, businesses, and industries.</paragraph>
+          <paragraph>The energy consumption had to be sustainable, through the lowering of greenhouse gas emissions, pollution, and fossil fuel dependence.</paragraph>
+        </chapter>
+
+        <chapter>
+          <title>The EU's energy priorities between 2010 and 2020</title>
+          <paragraph>Increase of 20%  of the share of renewable energy in the EU's energy mix to at least 20% of consuption.</paragraph>
+          <paragraph>Greenhouse emission gases are reduced of 20%</paragraph>
+        </chapter>
+
+        <keywords>
+           <keyword area="topics">Global Worming/>
+           <keyword area="finance">Investment/>
+           <keyword area="resources">Renewables/>
+           <keyword area="industry">Healthcare/>
+         </keywords>
+         <sources>
+           <source>ec.europa.eu</source>
+         </sources>
+      </section>
+
+      <section>
+        <chapter>
+          <title>Financial impact of coal to renewable energy transition (2015-2035)</title>
+          <paragraph>Low-carbon investment needs would translate into an actual financial impact on the economy.</paragraph>
+          <paragraph>By the end of 2035, an additional incremental US$4 trillion of low-carbon assets (not pictured) would have been invested and be on the books and available for continued production after 2035.</paragraph>
+          <paragraph>Governments bear he biggest risk of value loss due to an energy transition.</paragraph>
+          <paragraph>Beginning with producers, governments and government-owned companies own well over half of global fossil fuelassets by output and reserves.</paragraph>
+        </chapter>
+        <keywords>
+           <keyword area="industries">Commerce/>
+           <keyword area="industries">Construction/>
+           <keyword area="industry">Manufacturing/>
+           <keyword area="resources">Renewables/>
+           <keyword area="finance">Investment/>
+           <keyword area="resources">Renewables/>
+           <keyword area="topics">Global Warming/>
+         </keywords>
+         <sources>
+           <source>2014.newclimateeconomy.report</source>
+         </sources>
+      </section>
+
+      <section>
+        <chapter>
+          <title>2016’s green cars rating</title>
+          <paragraph>According to climate meeting in Paris in December is expected to increase pressure for cleaner cars and trucks, which produce about a sixth of global carbon emissions and a quarter of the U.S. total.</paragraph>
+          <paragraph>The breakthrough vehicle for lower emissions cars was the Toyota Prius, a gas-battery hybrid introduced in1997 in Japan and worldwide in 2000. </paragraph>
+          <paragraph>Nowadays even proponents acknowledge that cheaper oil and rising demand for cars in China, India and other developing nations  could swamp the benefit of lowering emissions from cars in the U.S. and  Europe.</paragraph>
+        </chapter>
+
+        <table>
+          <row type="head">
+            <cell>Chevrolet</cell>
+            <cell>Mitsubushi</cell>
+            <cell>Mercedez-Benz</cell>
+            <cell>Fiat</cell>
+            <cell>Toyota</cell>
+            <cell>Volkswagen</cell>
+            <cell>Nissan</cell>
+            <cell>Kia</cell>
+            <cell>Ford</cell>
+            <cell>Mazda</cell>
+          </row>
+          <row type="cell">
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+          </row>
+          <row type="cell">
+            <cell>SPARK EV</cell>
+            <cell>I-MIEV</cell>
+            <cell>SMART FORTWO elec. drive convertible</cell>
+            <cell>500E</cell>
+            <cell>PRIUS ECO</cell>
+            <cell>E-GOLF</cell>
+            <cell>LEAF S</cell>
+            <cell>SOUL ELECTRIC</cell>
+            <cell>ELECTRIC</cell>
+            <cell>2</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>1.8L 4 auto</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>1.5L 4 auto stk</cell>
+          </row>
+
+          <row type="cell">
+            <cell>MPG City 3.81</cell>
+            <cell>MPG City 3.75</cell>
+            <cell>MPG City 3.61</cell>
+            <cell>MPG City 3.59</cell>
+            <cell>MPG City 58</cell>
+            <cell>MPG City 3.72</cell>
+            <cell>MPG City 3.75</cell>
+            <cell>MPG City 3.55</cell>
+            <cell>MPG City 3.27</cell>
+            <cell>MPG City 33</cell>
+          </row>
+
+          <row type="cell">
+            <cell>MPG Hwy 3.24</cell>
+            <cell>MPG Hwy 2.93</cell>
+            <cell>MPG Hwy 2.77</cell>
+            <cell>MPG Hwy 3.07</cell>
+            <cell>MPG Hwy 53</cell>
+            <cell>MPG Hwy 3.12</cell>
+            <cell>MPG Hwy 3.61</cell>
+            <cell>MPG Hwy 2.73</cell>
+            <cell>MPG Hwy 2.94</cell>
+            <cell>MPG Hwy 43</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Green Score 63</cell>
+            <cell>Green Score 63</cell>
+            <cell>Green Score 63</cell>
+            <cell>Green Score 62</cell>
+            <cell>Green Score 61</cell>
+            <cell>Green Score 61</cell>
+            <cell>Green Score 61</cell>
+            <cell>Green Score 59</cell>
+            <cell>Green Score 57</cell>
+            <cell>Green Score 54</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+          </row>
+      </table>
+
+<chapter>
+  <title>Legend</title>
+    <paragraph>MPG means for miles per gallons in city.</paragraph>
+    <paragraph>MPG Hwy means for miles per gallon in highway</paragraph>
+    <paragraph>Green Score is environmental sustainability rating</paragraph>
+</chapter>
+
+<keywords>
+   <keyword area="topics">Global Warming/>
+   <keyword area="finance">Global Corporations/>
+   <keyword area="resources">Renewables/>
+   <keyword area="industries">Tech/>
+   <keyword area="industries">Trasportation/>
+   <keyword area="industries">Healthcare/>
+   <keyword area="industries">Commerce/>
+ </keywords>
+ <sources>
+   <source>greenercars.org</source>
+ </sources>
+</section>
+</bulletin>
+
+<bulletin id="4" date="20162403">                   <!--[Quarto bollettino]-->
+<title>Renewables as investment for the Future</title>
+<sections>                                                          <!--[ 1 ]-->
+  <section>
+    <abstract>
+        Carbon dioxide is the main reason of climate change and that encourages investment in renewable energy.
+    </abstract>
+    <chapter>
+      <title>Trend of investments on renewable energy</title>
+      <paragraph>Investments on renewables are incouraged by a lot of factors: in particular analysis of actual impact of use of non renewable on natural ambient and development of projects and technology depending on renewable resources.</paragraph>
+    </chapter>
+
+    <graph unit="$B" x="date" y="number">
+      <title>Investments on renewables</title>
+      <abstract>From 2004 up to 2015 investments on renewables are increased.</abstract>
+      <dataset label= "EMEA (Europe,Middle East,Africa)">
+        <data x="2004" y="30" />
+        <data x="2005" y="39" />
+        <data x="2006" y="53" />
+        <data x="2007" y="75" />
+        <data x="2008" y="91" />
+        <data x="2009" y="92" />
+        <data x="2010" y="126" />
+        <data x="2011" y="135" />
+        <data x="2012" y="109" />
+        <data x="2013" y="79" />
+        <data x="2014" y="80" />
+        <data x="2015" y="72" />
+      </dataset>
+
+      <dataset label= "AMER (America)">
+        <data x="2004" y="14" />
+        <data x="2005" y="24" />
+        <data x="2006" y="44" />
+        <data x="2007" y="58" />
+        <data x="2008" y="63" />
+        <data x="2009" y="51" />
+        <data x="2010" y="68" />
+        <data x="2011" y="85" />
+        <data x="2012" y="75" />
+        <data x="2013" y="76" />
+        <data x="2014" y="75" />
+        <data x="2015" y="78" />
+      </dataset>
+
+      <dataset label= "APAC (Asia Pacific)">
+        <data x="2004" y="19" />
+        <data x="2005" y="25" />
+        <data x="2006" y="31" />
+        <data x="2007" y="42" />
+        <data x="2008" y="52" />
+        <data x="2009" y="64" />
+        <data x="2010" y="80" />
+        <data x="2011" y="98" />
+        <data x="2012" y="113" />
+        <data x="2013" y="127" />
+        <data x="2014" y="161" />
+        <data x="2015" y="179" />
+      </dataset>
+    </graph>
+
+    <keywords>
+      <keyword area="topics">Global Warming/>
+      <keyword area="resources">Renewables/>
+      <keyword area="finance">Investments/>
+      <keyword area="geography">North America/>
+      <keyword area="geography">Eastern Europe/>
+      <keyword area="geography">Western Europe/>
+      <keyword area="geography"> Northern Africa/>
+      <keyword area="geography"> Central Africa/>
+      <keyword area="geography"> Southern Africa/>
+      <keyword area="geography"> Middle East and Western Asia/>
+      <keyword area="geography"> Central and Eastern Asia/>
+      <keyword area="geography"> Southern Asia/>
+      <keyword area="geography"> Southeastern Asia/>
+      <keyword area="geography"> Oceania/>
+    </keywords>
+
+    <sources>
+      <source>Bloomerg financy energy.com</source>
+    </sources>
+  </section>
+
+<section>
+  <graph unit="%" x="string" y="percentage">
+    <title>Project using renewable power</title>
+    <abstract> Raphael Dinelli is the first scientist who completes the zero-carbon trans-Atlantic flight with a plane powered by solar energy and biofuels.</abstract>
+    <dataset label= "Zero-carbon transatlantic flight using 100% renewable energy">
+      <data x="Wind mounted solar power" y="25" />
+      <data x="Algea derived biofuels" y="55" />
+      <data x="Wind Current" y="20" />
+    </dataset>
+  </graph>
+  <keywords>
+    <keyword area="topics">Global Warming/>
+    <keyword area="resources">Renewables/>
+    <keyword area="finance">Investments/>
+    <keyword area="finance">Start-ups/>
+  </keywords>
+  <sources>
+    <source>inhabitat.com</source>
+  </sources>
+</section>
+
+<section>
+  <chapter>
+    <title>Prototype green tech: wind tree</title>
+    <paragraph>Arbre à vent (or Wind Tree ) blends perfectly with the environment , generating electricity for 320 days a year .</paragraph>
+    <paragraph>Installed at the Place de la Concorde , it has managed to produce 3500 kWh to 13,500 kWh depending on the intensity of the wind.</paragraph>
+    <paragraph>Currently the cost of a single device is about 30 thousand euro.</paragraph>
+    <paragraph>Arbre à vent produces 80% of average eletricity consumation.</paragraph>
+  </chapter>
+  <chapter>
+    <title>WaveSpring</title>
+    <paragraph>WaveSpring and is developed by the Swedish company CorPower Ocean innovative floating buoy that , according to estimates , produces three times more energy than the other devices on the market.</paragraph>
+    <paragraph>These buoys are using both the surface water movement, that of the waves coming from the depths of the sea.</paragraph>
+    <paragraph>The linear movement of the sea is therefore amplified and converted into a rotary movement.</paragraph>
+    <paragraph>WaveSpring produces 2000-4000 Twh per year.</paragraph>
+  </chapter>
+  <keywords>
+    <keyword area="topics">Global Warming/>
+    <keyword area="finance">Investments/>
+    <keyword area="finance">Start-ups/>
+    <keyword area="resources">Renewables/>
+    <keyword area="industries">Manufacturing/>
+    <keyword area="industries">Tech/>
+    <keyword area="industries">Transportation/>
+    <keyword area="industries">Commerce/>
+  </keywords>
+  <sources>
+    <source>thenexttech.startupitalia.eu</source>
+    <sources>
+  </section>
+
+  <section>
+    <chapter>
+      <title>Focus on geothermal power</title>
+      <paragraph>The world market reached upwards of 12.8 GW (gigawatts) of geothermal power operational throughout 24 countries.</paragraph>
+      <paragraph>The majority of this new capacity became operational in Turkey, Kenya, Indonesia, and the Philippines with a total of about 610 MW of new power brought online in 2014.</paragraph>
+      <paragraph>Looking at projects in the pipeline, it is expected that the geothermal industry will continue to grow at a steady pace globally.</paragraph>
+    </chapter>
+    <graph unit="GW" x="Date" y="number">
+      <title>Trend geothermal energy</title>
+      <abstract>
+        Geothermal power industry global in 2014 sustained a 5% growth rate for the third year in a row.
+      </abstract>
+      <dataset label= "Geothermal power industry global in 2014">
+        <data x="2005" y="9.000"/>
+        <data x="2006" y="9.826"/>
+        <data x="2007" y="10.000"/>
+        <data x="2008" y="10.200"/>
+        <data x="2009" y="11.562"/>
+        <data x="2010" y="11.780"/>
+        <data x="2011" y="11.962"/>
+        <data x="2012" y="11.998"/>
+        <data x="2013" y="12.000"/>
+        <data x="2014" y="12.800"/>
+        <data x="2015" y="13.596"/>
+        <data x="2016" y="14.000"/>
+        <data x="2017" y="14.500"/>
+        <data x="2018" y="16.822"/>
+        <data x="2019" y="17.200"/>
+        <data x="2020" y="17.600"/>
+        </dataset>
+        </graph>
+      <keywords>
+        <keyword area="topics">Global Warming/>
+        <keyword area="finance">Investments/>
+        <keyword area="resources">Renewables/>
+        <keyword area="industries">Manufacturing/>
+      </keywords>
+      <sources>
+        <source>2015 Annual U.S. and Global Geothermal Power Production Report</source>
+      </sources>
+    </section>
+
+    <section>
+      <chapter>
+      <title>Energy Strategy: Secure, competitive, and sustainable energy</title>
+      <paragraph>The 2020 Energy Strategy defines the EU's energy priorities between 2010 and 2020. It aims to:</paragraph>
+      <paragraph>
+        <list type="unordered"> <!--[0-N]-->
+        <item>Reduce greenhouse gases by at least 20%</item> <!--[1-N]-->
+        <item>Increase the share of renewable energy in the EU's energy mix to at least 20% of consumption</item>
+        <item>Improve energy efficiency by at least 20%</item>
+        </list>
+      </paragraph>
+      <paragraph>EU countries have agreed to the following objectives to be met by 2030:</paragraph>
+      <paragraph>
+        <list type="unordered"> <!--[0-N]-->
+        <item>A binding EU target of at least a 40% reduction in greenhouse gas emissions by 2030 compared to 1990.</item> <!--[1-N]-->
+        <item>A binding target of at least 27% of renewable energy in the EU.</item>
+        <item>An energy efficiency increase of at least 27%, to be reviewed by 2020 potentially raising the target to 30%, by 2030.</item>
+        <item>The completion of the internal energy market by reaching an electricity interconnection target of 15% between EU countries by 2030, and pushing forward important infrastructure projects.</item>
+        </list>
+      </paragraph>
+    </chapter>
+
+      <keywords>
+        <keyword area="topics">Global Warming/>
+        <keyword area="finance">Investments/>
+        <keyword area="resources">Renewables/>
+        <keyword area="industries">Manufacturing/>
+        <keyword area="geography">Eastern Europe/>
+        <keyword area="geography">Western Europe/>
+        <keyword area="industries">Healthcare/>
+      </keywords>
+
+      <sources>
+        <source>ec.europa.eu</source>
+      </sources>
+
+    </section>
+   </sections>
+ </bulletin>
+
+
+<bulletin id="5" date="20163103">                   <!--[1-N]-->
+<title>Focus on geothermal energy</title>
+
+<sections>                                                          <!--[ 1 ]-->
+  <section>
+    <title>Hystorical trend of geothermal energy</title>
+    <abstract>From 1995 to 2015 energy production doubles and according to provision it's going to reach 80.000 GW.</abstract>
+    <chapter>
+      <title>Geothermal power industry</title>
+      <paragraph>Geothermal power industry global in 2014 sustained a 5% growth rate for the third year in a row.</paragraph>
+      <paragraph>The world market reached upwards of 12.8 GW (gigawatts) of geothermal power operational throughout 24 countries.</paragraph>
+      <paragraph>The majority of this new capacity became operational in Turkey, Kenya, Indonesia, and the Philippines with a total of about 610 MW of new power brought online in 2014.</paragraph>
+      <paragraph>As of the end of 2014, there are also 11.5-12.3 GW of capacity additions in 80 countries and 630 projects.</paragraph>
+      <paragraph>Fourteen of those 80 countries are expected to bring 2 GW of power online over the next 3-4 years based on current construction. </paragraph>
+      <paragraph>Looking at projects in the pipeline, it is expected that the geothermal industry will continue to grow at a steady pace globally.</paragraph>
+      <paragraph>The longer development time frames of geothermal projects make them somewhat more immune to the booms and busts of the global energy space.</paragraph>
+    </chapter>
+
+    <table>
+      <row type="head">
+        <cell>Year</cell>
+        <cell>Hystorical event</cell>
+        <cell>Energy production (Mw)</cell>
+        <cell>Energy production (GWh)</cell>
+      </row>
+      <row type="cell">
+        <cell>1960</cell>
+        <cell>The country's first large-scale geothermal electricity-generating plant begins operation. Pacific Gas and Electric operates the plant, located at The Geysers.</cell>
+        <cell>2.000</cell>
+        <cell>3.000</cell>
+      </row>
+      <row type="cell">
+        <cell>1970</cell>
+        <cell>The Geothermal Resources Council is formed to encourage development of geothermal resources worldwide.</cell>
+        <cell>2.500</cell>
+        <cell>5.000</cell>
+      </row>
+      <row type="cell">
+        <cell>1980</cell>
+        <cell>Companies of Nevada are pioneers in the use of geothermal energy for cooking , distillation , and drying processes associated with the production of alcohol fuels.</cell>
+        <cell>3.500</cell>
+        <cell>8.000</cell>
+      </row>
+      <row type="cell">
+        <cell>2000</cell>
+        <cell>Department of the Environment creates two industry/government collaborative efforts to promote the use of geothermal energy to reduce greenhouse gas emissions.</cell>
+        <cell>10.000</cell>
+        <cell>28.000</cell>
+      </row>
+
+    <row type="cell">
+      <cell>2020</cell>
+      <cell>Forecast according to the present projects and technological developments.</cell>
+      <cell>22.700</cell>
+      <cell>70.000</cell>
+    </row>
+  </table>
+
+  <keywords>
+    <keyword area="topics">Global Warming/>
+    <keyword area="geography">North America/>
+    <keyword area="finance">Investments/>
+    <keyword area="finance">Global Corporation/>
+    <keyword area="resources">Renewables/>
+    <keyword area="industries">Manufacturing/>
+    <keyword area="industries">Healthcare/>
+    <keyword area="industries">Mining/>
+    <keyword area="industries">Commerce/>
+  </keywords>
+
+  <sources>
+    <source>2015 Annual U.S and Global Geothermal Power Production Report, Geothermal energy association</source>
+  </sources>
+</section>
+
+  <section>
+    <chapter>
+      <title>Global markets by company</title>
+      <paragraph>In general, the geothermal turbine market has several companies who provide equipment for higher temperature projects.</paragraph>
+    </chapter>
+
+    <graph unit="%" x="string" y="percentage">
+      <title>Percentage of global markets by company</title>
+      <abstract>Mitsubishi , Ormat and Fuji are major companies close to the geothermal sector.</abstract>
+      <dataset label= "Tas Energy">
+      <dataset label= "Alstom">
+      <dataset label= "General Electric">
+      <dataset label= "Toshiba">
+      <dataset label= "Ansaldo/Tosi">
+      <dataset label= "Fuji">
+      <dataset label= "Other">
+      <dataset label= "Mitsubishi">
+      <dataset label= "Ormat">
+        <data x="Tas Energy" y="2" />
+        <data x="Alstom" y="3" />
+        <data x="General Electric" y="5" />
+        <data x="Toshiba" y="9" />
+        <data x="Ansaldo/Tosi" y="10" />
+        <data x="Fuji" y="14" />
+        <data x="Other" y="14" />
+        <data x="Mitsubishi" y="18" />
+        <data x="Ormat" y="25" />
+      </dataset>
+    </graph>
+
+    <chapter>
+      <title>Geothermal developed projects by country</title>
+      <paragraph>Geothermal power has continued to heat up in Latin America and several countries have set national geothermal goals.</paragraph>
+      <paragraph>For example, El Salvador plans 40% of energy to come from geothermal power by 2020.</paragraph>
+      <paragraph>Mexico wants to get 35% of its energy from renewables including geothermal power.</paragraph>
+      <paragraph>Nicaragua plans to build another 100 MW in the next 15 years. Others such as Costa Rica and Guatemala have not set a specific geothermal goal but already have several plants under construction.</paragraph>
+      <paragraph>East Africa is another regional hotbed for activity.</paragraph>
+      <paragraph>Kenya, Rwanda, Ethiopia and Tanzania all have set geothermal power goals.</paragraph>
+      <paragraph>While not making the chart below, Ethiopia plans to have an additional 1,000 MW built by the early 2020s; the country’s Corbetti geothermal field, one of the largest in the world, is currently under development. Meanwhile Tanzania plans to build 180 MW over the next few years.</paragraph>
+      <paragraph>Overall if all countries follow through on their geothermal power goals the global industry could reach 27-30 GW by the early 2030s.</paragraph>
+    </chapter>
+
+    <table>
+      <row type="head">
+        <cell>Country</cell>
+        <cell>Number of projects</cell>
+
+      </row>
+      <row type="cell">
+        <cell>MX</cell>
+        <cell>85</cell>
+      </row>
+
+    </row>
+    <row type="cell">
+      <cell>US</cell>
+      <cell>83</cell>
+    </row>
+
+  <row type="cell">
+    <cell>ID</cell>
+    <cell>62</cell>
+  </row>
+
+  <row type="cell">
+    <cell>CL</cell>
+    <cell>59</cell>
+  </row>
+
+  <row type="cell">
+    <cell>TR</cell>
+    <cell>59</cell>
+  </row>
+
+  <row type="cell">
+    <cell>PH</cell>
+    <cell>29</cell>
+  </row>
+
+  <row type="cell">
+    <cell>KE</cell>
+    <cell>22</cell>
+  </row>
+
+  <row type="cell">
+    <cell>IS</cell>
+    <cell>16</cell>
+  </row>
+
+  <row type="cell">
+    <cell>ET</cell>
+    <cell>10</cell>
+  </row>
+
+  <row type="cell">
+    <cell>NZ</cell>
+    <cell>5</cell>
+  </row>
+</table>
+    <keywords>
+      <keyword area="topics">Global Warming/>
+      <keyword area="finance">Investments/>
+      <keyword area="finance">Global Corporation/>
+      <keyword area="resources">Renewables/>
+      <keyword area="industries">Manufacturing/>
+      <keyword area="industries">Healthcare/>
+      <keyword area="industries">Mining/>
+      <keyword area="industries">Commerce/>
+      <keyword area="geography">North America/>
+      <keyword area="geography">Southeastern Asia/>
+      <keyword area="geography">Northern Africa/>
+      <keyword area="geography">Central Africa/>
+    </keywords>
+
+    <sources>
+      <source>2015 Annual U.S and Global Geothermal Power Production Report, Geothermal energy association</source>
+    </sources>
+
+  </section>
+ </sections>
+</bulletin>
+
+<bulletin id="6" date="20160704">                   <!--[1-N]-->
+<title>Hydropower energy</title>
+
+<sections>                                                          <!--[ 1 ]-->
+  <section>
+    <title>2015 Hydropower world installation by continent and country</title>
+    <abstract>Hydropower is becoming an important resource for more and more countries.</abstract>
+    <chapter>
+      <title>Continents and countries</title>
+      <paragraph>Hydroelectricity is the term referring to electricity generated by hydropower; the production of electrical power through the use of the gravitational force of falling or flowing water.</paragraph>
+      <paragraph>It is the most widely used form of renewable energy, accounting for 16 percent of global electricity generation 3,427 terawatt-hours of electricity production in 2010 and is expected to increase about 3.1% each year for the next 25 years.</paragraph>
+    </chapter>
+
+    <table>
+      <row type="head">
+        <cell>Europe</cell>
+        <cell>Electricity generated by hydropower</cell>
+      </row>
+      <row type="cell">
+        <cell>NO</cell>
+        <cell>28,718 Mw</cell>
+      </row>
+      <row type="cell">
+        <cell>FR</cell>
+        <cell>18,382 Mw</cell>
+      </row>
+      <row type="cell">
+        <cell>SE</cell>
+        <cell>16,315 Mw</cell>
+      </row>
+      <row type="cell">
+        <cell>IT</cell>
+        <cell>14,325 Mw</cell>
+      </row>
+      <row type="cell">
+        <cell>CH</cell>
+        <cell>13,790 Mw</cell>
+      </row>
+      <row type="cell">
+        <cell>ES</cell>
+        <cell>13,293 Mw</cell>
+      </row>
+      </table>
+
+      <table>
+        <row type="head">
+          <cell>East Asia and Pacific</cell>
+          <cell>Electricity generated by hydropower</cell>
+        </row>
+        <row type="cell">
+          <cell>CN</cell>
+          <cell>299,250 Mw</cell>
+        </row>
+        <row type="cell">
+          <cell>JP</cell>
+          <cell>22,262 Mw</cell>
+        </row>
+        <row type="cell">
+          <cell>VN</cell>
+          <cell> 14,181 Mw</cell>
+        </row>
+        <row type="cell">
+          <cell>AU</cell>
+          <cell>8,050 Mw</cell>
+        </row>
+        <row type="cell">
+          <cell>ID</cell>
+          <cell>5,258Mw</cell>
+        </row>
+        <row type="cell">
+          <cell>NZ</cell>
+          <cell>5,254 Mw</cell>
+        </row>
+        </table>
+
+        <table>
+          <row type="head">
+            <cell>South and Central Asia</cell>
+            <cell>Electricity generated by hydropower</cell>
+          </row>
+          <row type="cell">
+            <cell>RU</cell>
+            <cell>49,218 Mw</cell>
+          </row>
+          <row type="cell">
+            <cell>IN</cell>
+            <cell>44,799 Mw</cell>
+          </row>
+          <row type="cell">
+            <cell>TR</cell>
+            <cell>23,661 Mw</cell>
+          </row>
+          <row type="cell">
+            <cell>IR</cell>
+            <cell>10,156 Mw</cell>
+          </row>
+          <row type="cell">
+            <cell>PK</cell>
+            <cell>17,264Mw</cell>
+          </row>
+          <row type="cell">
+            <cell>TJ</cell>
+            <cell>4,843Mw</cell>
+          </row>
+          </table>
+
+          <table>
+            <row type="head">
+              <cell>North and Central America</cell>
+              <cell>Electricity generated by hydropower</cell>
+            </row>
+            <row type="cell">
+              <cell>US</cell>
+              <cell>79,270 Mw</cell>
+            </row>
+            <row type="cell">
+              <cell>CA</cell>
+              <cell>77,558 Mw</cell>
+            </row>
+            <row type="cell">
+              <cell>MX</cell>
+              <cell>12,410 Mw</cell>
+            </row>
+            <row type="cell">
+              <cell>PA</cell>
+              <cell>1,622 Mw</cell>
+            </row>
+            <row type="cell">
+              <cell>GT</cell>
+              <cell>991Mw</cell>
+            </row>
+            </table>
+
+            <table>
+              <row type="head">
+                <cell>Africa</cell>
+                <cell>Electricity generated by hydropower</cell>
+              </row>
+              <row type="cell">
+                <cell>CD</cell>
+                <cell>17,558 Mw</cell>
+              </row>
+              <row type="cell">
+                <cell>EG</cell>
+                <cell>2,800 Mw</cell>
+              </row>
+              <row type="cell">
+                <cell>SD</cell>
+                <cell>2,250 Mw</cell>
+              </row>
+              <row type="cell">
+                <cell>MZ</cell>
+                <cell>2,178 Mw</cell>
+              </row>
+              <row type="cell">
+                <cell>ET</cell>
+                <cell>2,178Mw</cell>
+              </row>
+              <row type="cell">
+                <cell>NE</cell>
+                <cell>2,040Mw</cell>
+              </row>
+            </table>
+
+            <chapter>
+              <title>Estimated renewables energyshare of global electricity production</title>
+              <paragraph>In 2015 green energies represent 22.8% of total production of energy.</paragraph>
+              <paragraph>Hydropower produces the 16.6% of the world energy. It is the mayor source of green energy.</paragraph>
+              <paragraph>Other values are: Wind (3.1%), Biofossil (1.8%), Solar (0.9%), Geothermal (0,4%).</paragraph>
+            </chapter>
+
+            <keywords>
+              <keyword area="topics">Global Warming/>
+              <keyword area="finance">Investments/>
+              <keyword area="finance">Global Corporation/>
+              <keyword area="resources">Renewables/>
+              <keyword area="resources">Water/>
+              <keyword area="industries">Manufacturing/>
+              <keyword area="industries">Healthcare/>
+              <keyword area="industries">Mining/>
+              <keyword area="industries">Commerce/>
+              <keyword area="geography">Eastern Europe/>
+              <keyword area="geography">Western Europe/>
+              <keyword area="geography">Central and Eastern Asia/>
+              <keyword area="geography">Middle East and Western Asia/>
+              <keyword area="geography">North America/>
+              <keyword area="geography">Middle East and Western Asia/>
+              <keyword area="geography">Central and Eastern Asia/>
+              <keyword area="geography">Southern Asia/>
+              <keyword area="geography">Southeastern Asia/>
+              <keyword area="geography">Northern Africa/>
+              <keyword area="geography">Southern Africa/>
+              <keyword area="geography">Central Africa />
+            </keywords>
+
+            <sources>
+              <source>Renewableenergyworld.com</source>
+            </sources>
+          </section>
+       </sections>
+    </bulletin>
+
+    <bulletin id="7" date="20162104">                   <!--[1-N]-->
+    <title>Green Investments</title>
+
+    <sections>                                                          <!--[ 1 ]-->
+      <section>
+        <title>Green economy by big international business</title>
+        <abstract>The health of the earth is getting worse. For this investment in renewable they are growing.</abstract>
+
+        <chapter>
+          <title>Apple</title>
+          <paragraph>Apple Renew​ is a global program that lets you bring used Apple devices to any Apple Store for reuse or responsible recycling.</paragraph>
+          <paragraph>Liam​, a line of robots that can quickly disassemble iPhone 6, sorting its high­quality components and reducing the need to mine more resources from the earth.</paragraph>
+          <paragraph>With two Liam lines up and running, it's possible to take apart up to 2.4 million phones a year.</paragraph>
+          <paragraph>Every molecule of water is used matters: through employee training, baseline assessments, performance evaluations, and technical support, it already helped ​73 facilities
+            increase their reuse and recycling of treated wastewater, and save ​3.8 billion gallons of water.</paragraph>
+          <paragraph>With a system for the data centers water can be reused up to 35 times.</paragraph>
+        </chapter>
+
+        <graph unit="%" x="string" y="percentage">
+          <title>Recycled wood fiber</title>
+          <abstract>Paper used in packaging made of recycled wood fiber</abstract>
+          <dataset label= "Percentage of recycled wood fiber">
+          <data x="recycled paper" y="60"/>
+          <data x=" non recycled paper" y="40"/>
+          </dataset>
+          </graph>
+
+          <graph unit="%" x="string" y="percentage">
+            <title>Use of virgin paper</title>
+            <abstract>99% of the virgin paper used in packaging came from sustainably managed forest or controlled wood sources.</abstract>
+            <dataset label= "Percentage of virgin paper used">
+            <data x="vergin paper used" y="99"/>
+            <data x="vergin paper non used" y="1"/>
+            </dataset>
+            </graph>
+
+            <graph unit="%" x="string" y="percentage">
+              <title>Material recovered</title>
+              <abstract>Amount of material recovered for reuse through take-back initiatives in 2015.</abstract>
+              <dataset label= "libbre of material recovered">
+              <data x="Steel" y="46.000"/>
+              <data x="Plastic" y="22.000"/>
+              <data x="Glass" y="19.000"/>
+              <data x="Aluminum" y="7.000"/>
+              <data x="Copper" y="5.000"/>
+              <data x="Cobalt" y="0.400"/>
+              <data x="Zinc" y="0,350"/>
+              <data x="Lead" y="0,170"/>
+              <data x="Nickel" y="0,060"/>
+              <data x="Silver" y="0,010"/>
+              <data x="Tin" y="0,007"/>
+              <data x="Tin" y="0,003"/>
+            </dataset>
+            </graph>
+
+            <chapter>
+              <title>Amazon</title>
+              <paragraph>Critics say Amazon has been slow on the clean energy pickup, but last month the company announced that it’s building Virginia’s largest solar project; an 80­megawatt solar farm to power its nearby Amazon Services data centers.</paragraph>
+              <paragraph>The company will build an ​80­megawatt solar farm in Virginia​, the largest solar project in the state so far, to help power its Amazon Web Services data centers in the area.</paragraph>
+              <paragraph>The new solar farm in Accomack County could start feeding clean energy to the data centers as soon as October 2016 and will deliver about 170,000 megawatt­hours of electricity, or enough to power 15,000 homes.</paragraph>
+              <paragraph>Last January, Amazon announced that it was also ​building a 150­megawatt wind farm​in Benton County, Indiana.</paragraph>
+              <paragraph>It will be called the Amazon Web Services Wind Farm (Fowler Ridge) and should generate the equivalent energy of that used by approximately 46,000 US homes.</paragraph>
+            </chapter>
+
+            <chapter>
+              <title>Ikea</title>
+              <paragraph>With a plan to be energy independent in their stores by 2020, IKEA is investing​ $680 million into renewable energy over the next 5 years, adding additional solar and wind power systems to locations across the globe​</paragraph>
+              <paragraph>700.000 are solar panels on its building worldwide.</paragraph>
+              <paragraph>314 are offsite wind turbines</paragraph>
+            </chapter>
+
+            <keywords>
+              <keyword area="topics">Global Warming/>
+              <keyword area="finance">Investments/>
+              <keyword area="finance">Global Corporation/>
+              <keyword area="resources">Renewables/>
+              <keyword area="resources">Water/>
+              <keyword area="industries">Manufacturing/>
+              <keyword area="industries">Healthcare/>
+              <keyword area="resources">Wood/Forest/>
+              <keyword area="wealth">1%/>
+              <keyword area="industries">Tech/>
+            </keywords>
+
+            <sources>
+              <source>apple.com</source>
+              <source>treehugger.com</source>
+            </sources>
+          </section>
+
+          <section>
+            <title>Global invetsments</title>
+
+            <graph unit="$B" x="Date" y="Number">
+              <title>Split by type of economy</title>
+              <abstract>From 2004 to 2014 China, India and Brazil have increased investments on renewables.</abstract>
+
+              <dataset label= "CN/IN/BR">
+                <data x="2004" y="7"/>
+                <data x="2005" y="14"/>
+                <data x="2006" y="21"/>
+                <data x="2007" y="35"/>
+                <data x="2008" y="43"/>
+                <data x="2009" y="51"/>
+                <data x="2010" y="56"/>
+                <data x="2011" y="70"/>
+                <data x="2012" y="77"/>
+                <data x="2013" y="73"/>
+                <data x="2014" y="104"/>
+                <data x="2015" y="120"/>
+
+              </dataset>
+
+              <dataset label= "Other developing">
+                <data x="2004" y="3"/>
+                <data x="2005" y="6"/>
+                <data x="2006" y="8"/>
+                <data x="2007" y="11"/>
+                <data x="2008" y="17"/>
+                <data x="2009" y="14"/>
+                <data x="2010" y="20"/>
+                <data x="2011" y="17"/>
+                <data x="2012" y="30"/>
+                <data x="2013" y="26"/>
+                <data x="2014" y="28"/>
+                <data x="2015" y="36"/>
+              </dataset>
+
+              <dataset label= "Developed">
+                <data x="2004" y="37"/>
+                <data x="2005" y="52"/>
+                <data x="2006" y="83"/>
+                <data x="2007" y="118"/>
+                <data x="2008" y="128"/>
+                <data x="2009" y="114"/>
+                <data x="2010" y="163"/>
+                <data x="2011" y="191"/>
+                <data x="2012" y="150"/>
+                <data x="2013" y="135"/>
+                <data x="2014" y="141"/>
+                <data x="2015" y="130"/>
+              </dataset>
+            </graph>
+
+            <graph unit="$B" x="Date" y="Number">
+              <title>Asset Finance</title>
+              <abstract>The biggest finance investments are focused on solar and wind sources.</abstract>
+              <dataset label= "Investments">
+                <data x="2004" y="32.0"/>
+                <data x="2005" y="52.6"/>
+                <data x="2006" y="84.5"/>
+                <data x="2007" y="109.8"/>
+                <data x="2008" y="135.8"/>
+                <data x="2009" y="120.2"/>
+                <data x="2010" y="152.9"/>
+                <data x="2011" y="181.4"/>
+                <data x="2012" y="163.3"/>
+                <data x="2013" y="157.2"/>
+                <data x="2014" y="188.4"/>
+                <data x="2015" y="199.0"/>
+              </dataset>
+            </graph>
+
+            <graph unit="$B" x="Date" y="Number">
+              <title>National companies</title>
+              <abstract>From 2007 to 2014 company nationality have increased investments.</abstract>
+              <dataset label= "Investments">
+                <data x="2007" y="36.4"/>
+                <data x="2008" y="45.5"/>
+                <data x="2009" y="67.2"/>
+                <data x="2010" y="78.0"/>
+                <data x="2011" y="91.0"/>
+                <data x="2012" y="91.9"/>
+                <data x="2013" y="83,5"/>
+                <data x="2014" y="83.9"/>
+              </dataset>
+            </graph>
+
+            <table>
+              <row type="head">
+                <cell>Investment of public markets by sector</cell>
+                <cell>Growth</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Solar $10.100</cell>
+                <cell>21%</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Wind $20.100</cell>
+                <cell>-69%</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Biomass and wte $0.300</cell>
+                <cell>-10%</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Biofuels $0.300</cell>
+                <cell>-48%</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Geothermal $0.010</cell>
+                <cell>-46%</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Marine $0.004</cell>
+                <cell>-91</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Small Hydro $0.004</cell>
+                <cell>-100</cell>
+              </row>
+            </table>
+
+            <keywords>
+              <keyword area="topics">Global Warming/>
+              <keyword area="finance">Investments/>
+              <keyword area="resources">Renewables/>
+              <keyword area="industries">Manufacturing/>
+              <keyword area="industries">Healthcare/>
+              <keyword area="geography">South America/>
+              <keyword area="geography">Southern Asia/>
+              <keyword area="geography">Central and Eastern Asia/>
+            </keywords>
+
+            <sources>
+              <source>renewableenergyworld.com</source>
+            </sources>
+
+            </section>
+          </sections>
+        </bulletin>
+
+        <bulletin id="10" date="20161205">                   <!--[1-N]-->
+        <title>London pollution: ULEZ project</title>
+
+        <sections>                                                          <!--[ 1 ]-->
+          <section>
+            <title>Healthy London</title>
+            <abstract>Many studies have shown that air pollution harms human health: dangers gases in particular are the gas nitrogen dioxide (NO2) and the PM 2.5.</abstract>
+
+            <table>
+              <row type="head">
+                <cell>Level of risk of PM 2.5</cell>
+                <cell>Female</cell>
+                <cell>Male</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Lower</cell>
+                <cell>2.58%</cell>
+                <cell>2.90%</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Central</cell>
+                <cell>15.13%</cell>
+                <cell>16.97%</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Upper</cell>
+                <cell>29.42%</cell>
+                <cell>33.01%</cell>
+              </row>
+            </table>
+
+            <table>
+              <row type="head">
+                <cell>Level of risk of NO2</cell>
+                <cell>Female</cell>
+                <cell>Male</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Lower</cell>
+                <cell>8.93%</cell>
+                <cell>10.04%</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Central</cell>
+                <cell>15.70%</cell>
+                <cell>17.62%</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Upper</cell>
+                <cell>22.48%</cell>
+                <cell>25.03%</cell>
+              </row>
+            </table>
+
+            <keywords>
+              <keyword area="topics">Global Warming/>
+              <keyword area="finance">Investments/>
+              <keyword area="resources">Renewables/>
+              <keyword area="industries">Manufacturing/>
+              <keyword area="industries">Healthcare/>
+              <keyword area="industries">Transportation/>
+              <keyword area="industries">Construction/>
+            </keywords>
+
+            <sources>
+              <source>scribd.com</source>
+            </sources>
+          </section>
+
+          <section>
+            <chapter>
+              <title>Why introduce an Ultra Low Emission Zone (ULEZ)?</title>
+              <paragraph>The European Union has set legal limits for concentrations of pollutants in outdoor air, including particulate matter (PM10 and PM2.5) and nitrogen dioxide (NO2), which apply to London and the UK as whole. </paragraph>
+              <paragraph>The ULEZ proposal is the most efficient way to achieve further reductions of the most harmful road transport generated emissions in central London and across the Capital.</paragraph>
+            </chapter>
+
+            <graph unit="%" x="string" y="Percentage">
+              <title>N02 Emissions</title>
+              <abstract>Road trasport causes 40% of emissions by other trasports.</abstract>
+              <dataset label= "Road trasport">
+                <data x="Tfl Bus" y="23"/>
+                <data x="Diesel Car" y="18"/>
+                <data x="Taxi" y="18"/>
+                <data x="Van and Minibus" y="14"/>
+                <data x="HGV" y="11"/>
+                <data x="Non Tfl and bus and Coach" y="9"/>
+                <data x="Private hire vehicle" y="5"/>
+                <data x="Motocycle" y="2"/>
+                </dataset>
+             </graph>
+
+             <graph unit="%" x="string" y="Percentage">
+               <title>PM 2.5 Emissions</title>
+               <abstract>Road trasport causes 47% of emissions by other trasports.</abstract>
+               <dataset label= "Road trasport">
+                 <data x="Taxi" y="19"/>
+                 <data x="Diesel Car" y="17"/>
+                 <data x="Van and Minibus" y="15"/>
+                 <data x="Tfl Bus" y="14"/>
+                 <data x="Petrol Car" y="13"/>
+                 <data x="HGV" y="12"/>
+                 <data x="Private hire vehicle" y="6"/>
+                 <data x="Motocycle" y="4"/>
+                 </dataset>
+              </graph>
+
+              <table>
+                <row type="head">
+                  <cell>EU NOx emission standards for passenger cars according to fuel type</cell>
+                  <cell>Diesel cars</cell>
+                  <cell>Petrol cars</cell>
+                </row>
+
+                <row type="cell">
+                  <cell>Euro 3</cell>
+                  <cell>0.50 g/Km</cell>
+                  <cell>0.15 g/Km</cell>
+                </row>
+
+                <row type="cell">
+                  <cell>Euro 4</cell>
+                  <cell>0.25 g/Km</cell>
+                  <cell>0.08 g/Km</cell>
+                </row>
+
+                <row type="cell">
+                  <cell>Euro 5</cell>
+                  <cell>0.18 g/Km</cell>
+                  <cell>0.06 g/Km</cell>
+                </row>
+
+                <row type="cell">
+                  <cell>Euro 6</cell>
+                  <cell>0.08 g/Km</cell>
+                  <cell>0.06 g/Km</cell>
+                </row>
+
+            <keywords>
+              <keyword area="topics">Global Warming/>
+              <keyword area="finance">Investments/>
+              <keyword area="resources">Renewables/>
+              <keyword area="industries">Manufacturing/>
+              <keyword area="industries">Healthcare/>
+              <keyword area="industries">Transportation/>
+              <keyword area="industries">Construction/>
+            </keywords>
+
+            <sources>
+              <source>consultations.tfl.gov</source>
+            </sources>
+          </section>
+
+          <section>
+            <chapter>
+              <title>What are the proposed emission requirements?</title>
+              <paragraph>The ULEZ will require all vehicles driving in central London to meet new exhaust emissions standards (ULEZ standards).</paragraph>
+              <paragraph>The standards would take effect from 7 September 2020, and operate 24 hours a day, 7 days a week.</paragraph>
+              <paragraph>It is proposed the ULEZ standards would be based on ‘Euro standards’, these are also used in the Londonwide LEZ.</paragraph>
+              <paragraph>From specified dates onwards, vehicle manufacturers may only sell new vehicles that comply with these standards.</paragraph>
+              <paragraph>The age of a vehicle can be used as a way to determine its Euro standard according to the date of first registration.</paragraph>
+              <paragraph>Vehicles which did not comply with the relevant ULEZ standard would incur a daily charge for this non-compliance.</paragraph>
+              <paragraph>This has been set at a level to reflect the large contribution each vehicle makes on a per-vehicle basis to air pollution and is intended to deter older, more polluting vehicles.</paragraph>
+            </chapter>
+
+            <table>
+              <row type="head">
+                <cell>Type of vehicle</cell>
+                <cell>Proposed emissions standard</cell>
+                <cell>Charge Level if not compliant</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Motorcycle</cell>
+                <cell>Euro 3</cell>
+                <cell>£ 12.50</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Small val and Car</cell>
+                <cell>Euro 4 (Petrol) and EURO 6 (Diesel)</cell>
+                <cell>£ 12.50</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Large val and Minibus</cell>
+                <cell>Euro 4 (Petrol) and EURO 6 (Diesel)</cell>
+                <cell>£ 12.50</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Heavy Goods Vehicle</cell>
+                <cell>Euro VI</cell>
+                <cell>£ 100</cell>
+              </row>
+
+              <row type="cell">
+                <cell>Bus</cell>
+                <cell>Euro IV</cell>
+                <cell>£ 100</cell>
+              </row>
+            </table>
+
+            <keywords>
+              <keyword area="topics">Global Warming/>
+              <keyword area="finance">Investments/>
+              <keyword area="resources">Renewables/>
+              <keyword area="industries">Manufacturing/>
+              <keyword area="industries">Healthcare/>
+              <keyword area="industries">Transportation/>
+              <keyword area="industries">Construction/>
+            </keywords>
+
+            <sources>
+              <source>www.scribd.com</source>
+            </sources>
+          </section>
+        </sections>
+      </bulletin>
+    </bulletins>
+
+      manca 8 e 9

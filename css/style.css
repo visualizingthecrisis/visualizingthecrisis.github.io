@@ -335,7 +335,7 @@ th{
     background-color: #fff;
     font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace;
     display: inline-block !important;
-    padding:5px;
+    padding-top:2px;
   }
 .section-treemap{
   height:500px;

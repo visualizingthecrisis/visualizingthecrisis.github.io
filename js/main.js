@@ -70,7 +70,7 @@ function chapterToHTML($element, $parent){
   var html="<div class='section-chapter'>";
   var titles=$element.find('title');
   if(titles.length>0)
-  html+="<span class='chapter-title'>" + titles.first().html() +'</span>';
+  html+="<span class='chapter-title'>" + titles.first().text() +'</span>';
 
   //console.log(paragraphs);
   for (var i = 0; i < paragraphs.length; ++i) {
