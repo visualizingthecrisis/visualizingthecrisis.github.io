@@ -34,6 +34,8 @@ function processXML(d){
       if($element.is('quote')){
         $section_div.append("<div class='section-quote'><span class='quote-text'>"+$section.find('text').first().text()+"</span>"+"<span class='quote-author'> - "+$section.find('author').first().text()+"</span></div>");
       }
+      if($element.is('abstract'))$section_div.append("<span class='section-abstract'>"+$element.text()+"</span>");
+
       if($element.is('graph'))graphToHTML($element,$section_div);
       if($element.is('chapter'))chapterToHTML($element,$section_div);
       if($element.is('table'))tableToHTML($element,$section_div);
@@ -70,14 +72,14 @@ function chapterToHTML($element, $parent){
   if(titles.length>0)
   html+="<span class='chapter-title'>" + titles.first().html() +'</span>';
 
-  console.log(paragraphs);
+  //console.log(paragraphs);
   for (var i = 0; i < paragraphs.length; ++i) {
     var lists=$(paragraphs[i]).contents();
-    console.log(lists);
+  //  console.log(lists);
 
     for (var l = 0; l < lists.length; ++l) {
       var $element= $(lists[l]);
-      console.log($element);
+    //  console.log($element);
       if(lists[l].nodeType==3)html+="<p>"+$element.text()+"</p>";
       if($element.is('list')){
         var isOrdered=$element.attr('type')=='ordered';
@@ -621,7 +623,7 @@ function xArrayCheck(xData){
 
 function getDateFormat(s){
   var format=['%Y','%Y'];
-  console.log(s+" "+s.length);
+//  console.log(s+" "+s.length);
   if (s.length>4) {
     if (s.length<7) {
       return ['%Y%m','%Y/%m'];
@@ -630,7 +632,7 @@ function getDateFormat(s){
       return ['%Y%m%d','%Y/%m/%d'];
     }
     if (s.length==15) {
-      console.log('%Y/%m/%d %H:%M:%S');
+  //    console.log('%Y/%m/%d %H:%M:%S');
       return ['%Y%m%d:%H%M%S','%Y/%m/%d %H:%M:%S'];
     }
   }
