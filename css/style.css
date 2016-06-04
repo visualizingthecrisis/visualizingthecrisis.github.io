@@ -109,7 +109,6 @@ span{display: inline-block;
   display: block;
 }
 .section-title{
-  padding-bottom:20px;
   font-size: 40px;
   font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
 
@@ -140,13 +139,13 @@ span{display: inline-block;
 .section-treemap {
   width: 100%;
   display: block;
+  margin-bottom: 20px;
 }
 .section-treemap{
   display: inline;
 
   font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace !important;
   font-size: 20px;
-    margin-bottom: 20px;
     width:512px;
     margin-left:0;
     display: table;
@@ -178,7 +177,7 @@ text{
 
   font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
   margin-bottom: 10px;
-  margin-top: 22px;
+  margin-top: 40px;
   font-weight: bold;
   display: block;
 }
@@ -319,7 +318,7 @@ th{
 }
 .graph-legend{
   display: inline-block;
-  font-size: 20px;
+  font-size: 17px;
   margin-right: 10px;
 }
 
@@ -344,6 +343,7 @@ th{
 }
 
 .chapter-title{
+  margin-top:40px;
   font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
 
 }
