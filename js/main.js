@@ -164,7 +164,10 @@ function graphToHTML($element, $parent){
     }
   }
   else if ($element.attr('y')=='percentage') {
-    stringToPercentageGraph($element, $parent, xData, yData);
+    if ($element.attr('x')=='date')
+      dateToNumberGraph($element, $parent, xData, yData);
+    else
+      stringToPercentageGraph($element, $parent, xData, yData);
   }
   else if ($element.attr('y')=='string') {
     stringToStringGraph($element, $parent, xData, yData);
