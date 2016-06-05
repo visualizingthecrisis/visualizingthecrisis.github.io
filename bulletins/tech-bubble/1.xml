@@ -8,7 +8,8 @@
   <bulletin id="1" date="20160303">
     <sections>
       <section>
-        <title>Rank of valuation</title>
+        <title>The Unicorn list</title>
+        <subtitle>Week09</subtitle>
         <graph unit="B$" x="date" y="number">
           <abstract>A rank of private companies with the growth of their valuation
             from 1B$ to current valuation, from 2011 to March 2016.</abstract>

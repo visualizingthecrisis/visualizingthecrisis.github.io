@@ -83,20 +83,20 @@
                     When interest rates are negative gold prise rise up and goes down when they are positive.				                            <!-- max 144 char-->
                   </abstract>
         <dataset label="Gold price">
-                  <data x= "1995" y="1800"/>
-                  <data x= "1996" y="1400"/>
-                  <data x= "1997" y="1600"/>
-                  <data x= "1998" y="1400"/>
-                  <data x= "1999" y="1900"/>
-                  <data x= "2000" y="1550"/>
-                  <data x= "2001" y="1300"/>
-                  <data x= "2002" y="1200"/>
-                  <data x= "2003" y="1000"/>
-                  <data x= "2004" y="1000"/>
-                  <data x= "2005" y="1000"/>
-                  <data x= "2006" y="1150"/>
-                  <data x= "2015" y="1150"/>
-                  <data x= "2007" y="1000"/>
+                  <data x= "1995" y="1,800"/>
+                  <data x= "1996" y="1,400"/>
+                  <data x= "1997" y="1,600"/>
+                  <data x= "1998" y="1,400"/>
+                  <data x= "1999" y="1,900"/>
+                  <data x= "2000" y="1,550"/>
+                  <data x= "2001" y="1,300"/>
+                  <data x= "2002" y="1,200"/>
+                  <data x= "2003" y="1,000"/>
+                  <data x= "2004" y="1,000"/>
+                  <data x= "2005" y="1,000"/>
+                  <data x= "2006" y="1,150"/>
+                  <data x= "2015" y="1,150"/>
+                  <data x= "2007" y="1,000"/>
                   <data x= "2008" y="550"/>
                   <data x= "2009" y="900"/>
                   <data x= "2010" y="800"/>
@@ -197,11 +197,11 @@
         </graph>
       <graph unit= "JPY/oz" x="data" y="number">
                      <dataset label="Gold price">
-                          <data x= "20160307" y="142500"/>
-                          <data x= "20160308" y="142950"/>
-                          <data x= "20160309" y="142500"/>
-                          <data x= "20160310" y="143000"/>
-                          <data x= "20160311" y="144600"/>
+                          <data x= "20160307" y="142,500"/>
+                          <data x= "20160308" y="142,950"/>
+                          <data x= "20160309" y="142,500"/>
+                          <data x= "20160310" y="143,000"/>
+                          <data x= "20160311" y="144,600"/>
                      </dataset>
                   </graph>
       <keywords>
@@ -294,7 +294,6 @@
       </chapter>
       <chapter>
             <title>Federal reserve districts</title>
-            <paragraph>
             <list type="unordered">
                 <item>Boston</item>
                 <item>New York</item>
@@ -309,7 +308,6 @@
                 <item>Dallas </item>
                 <item>San Francisco</item>
               </list>
-            </paragraph>
           </chapter>
       <keywords>
             <keyword name="Gold" /><keyword name="North America" />
@@ -319,14 +317,14 @@
       </sources>
     </section>
     <section>
-      <title>Week's gold price</title>
+      <title>Gold price, Week 11</title>
       <graph unit="$/oz" x="date" y="number">
         <dataset label= "Gold price">
-            <data x= "20160314" y="1112"/>
-            <data x= "20160315" y="1109"/>
-            <data x= "20160316" y="1123"/>
-            <data x= "20160317" y="1112"/>
-            <data x= "20160318" y="1113"/>
+            <data x= "20160314" y="1,112"/>
+            <data x= "20160315" y="1,109"/>
+            <data x= "20160316" y="1,123"/>
+            <data x= "20160317" y="1,112"/>
+            <data x= "20160318" y="1,113"/>
           </dataset>
         </graph>
       <keywords>
