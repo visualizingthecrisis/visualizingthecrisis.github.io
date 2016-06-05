@@ -13,390 +13,390 @@
         <graph unit="B$" x="date" y="number">
           <abstract>A rank of private companies with the growth of their valuation
             from 1B$ to current valuation, from 2011 to March 2016.</abstract>
-          <dataset label="Uber">
-            <data x="20130801" y="1" />
-            <data x="20140101" y="9" />
-            <data x="20140601" y="16.5" />
-            <data x="20150501" y="45.5" />
-            <data x="20160303" y="51" />
-          </dataset>
-          <dataset label="Xiaomi">
-            <data x="20120101" y="1" />
-            <data x="20120601" y="3.4" />
-            <data x="20130101" y="8" />
-            <data x="20130801" y="8" />
-            <data x="20140101" y="8" />
-            <data x="20140601" y="8" />
-            <data x="20150501" y="41" />
-            <data x="20160303" y="46" />
-          </dataset>
-          <dataset label="Airbnb">
-            <data x="20110701" y="1" />
-            <data x="20120101" y="2.5" />
-            <data x="20120601" y="2.5" />
-            <data x="20130101" y="2.5" />
-            <data x="20130801" y="2.5" />
-            <data x="20140101" y="2.5" />
-            <data x="20140601" y="2.5" />
-            <data x="20150501" y="18" />
-            <data x="20160303" y="25.5" />
-          </dataset>
-          <dataset label="Palantir">
-            <data x="20110501" y="1" />
-            <data x="20120101" y="2.5" />
-            <data x="20120601" y="2.5" />
-            <data x="20130101" y="8.5" />
-            <data x="20130801" y="8.5" />
-            <data x="20140101" y="8.5" />
-            <data x="20140601" y="8.5" />
-            <data x="20150501" y="13" />
-            <data x="20160303" y="20" />
-          </dataset>
-          <dataset label="Snapchat">
-            <data x="20140101" y="1" />
-            <data x="20140601" y="6.5" />
-            <data x="20150501" y="13" />
-            <data x="20160303" y="16" />
-          </dataset>
-          <dataset label="Didi Kuaidi">
-            <data x="20140101" y="1" />
-            <data x="20140601" y="3.4" />
-            <data x="20150501" y="8" />
-            <data x="20160303" y="15" />
-          </dataset>
-          <dataset label="Dianping">
-            <data x="20140101" y="1" />
-            <data x="20140601" y="2" />
-            <data x="20150501" y="3.5" />
-            <data x="20160303" y="15" />
-          </dataset>
-          <dataset label="Flipkart">
-            <data x="20120601" y="1" />
-            <data x="20130101" y="1.5" />
-            <data x="20130801" y="1.5" />
-            <data x="20140101" y="1.5" />
-            <data x="20140601" y="1.5" />
-            <data x="20150501" y="13.5" />
-            <data x="20160303" y="15" />
-          </dataset>
-          <dataset label="SpaceX">
-            <data x="20120101" y="1" />
-            <data x="20120601" y="4.5" />
-            <data x="20130101" y="4.5" />
-            <data x="20130801" y="4.5" />
-            <data x="20140101" y="4.5" />
-            <data x="20140601" y="4.5" />
-            <data x="20150501" y="11" />
-            <data x="20160303" y="12" />
-          </dataset>
-          <dataset label="Pinterest">
-            <data x="20120601" y="1" />
-            <data x="20140601" y="4.5" />
-            <data x="20150501" y="9.5" />
-            <data x="20160303" y="12" />
-          </dataset>
-          <dataset label="Zenefits">
-            <data x="20150101" y="1" />
-            <data x="20150501" y="4.5" />
-            <data x="20151101" y="4" />
-            <data x="20160303" y="4" />
-          </dataset>
-          <dataset label="Souq">
-            <data x="20160303" y="1" />
-          </dataset>
-        </graph>
-        <chapter>
-          <title>Zenefits layoffs</title>
-          <paragraph>in May 2015, Zenefits is the fastest growing company in
-            Silicon Valley, with 1640 employees. But in November 2015, Buzfeed
-            discovers the Macro program allowes not licensed brokers to sell
-            insurance. The news is that on February 26th 2016, new CEO David
-            Sacks announced 250 layoffs.</paragraph>
-          </chapter>
-          <keywords>
-            <keyword name="Start-ups"/>
-            <keyword name="North America"/>
-            <keyword name="Central and Eastern Asia"/>
-            <keyword name="Transportation"/>
-            <keyword name="Tech"/>
-            <keyword name="Commerce"/>
-            <keyword name="Tourism"/>
-            <keyword name="Healtcare"/>
-            <keyword name="Employment"/>
-            <keyword name="Investments"/>
-          </keywords>
-          <sources>
-            <source>nytimes.com</source>
-            <source>ft.com</source>
-            <source>forbes.com</source>
-            <source>fortune.com</source>
-            <source>cbinsights</source>
-          </sources>
-        </section>
-        <section>
-          <title>The Bill's warning</title>
-          <subtitle>Deflation of unicorns and energy startups</subtitle>
-          <chapter>
-            <paragraph>Fidelity Fund, one of the most high-profile investors, has once
-              again “broken out the red pen” for many of its privately-held portfolio
-              companies, according to Fortune. For example, Zenefits gotmarked down
-              substantially, but the relevant period does not include its CEO stepping down
-              for compliance-related issues.</paragraph>
-            </chapter>
-            <graph unit="%" x="string" y="number">
-              <dataset label= "deflation of unicorns">
-              <data x="Dropbox" y="-10" />
-              <data x="Appnexus" y="-16" />
-              <data x="Zenefits" y="-14" />
-              <data x="Turn" y="-7" />
-              <data x="Cloudflair" y="-31" />
-              <data x="Moderna" y="-25" />
+            <dataset label="Uber">
+              <data x="20130801" y="1" />
+              <data x="20140101" y="9" />
+              <data x="20140601" y="16.5" />
+              <data x="20150501" y="45.5" />
+              <data x="20160303" y="51" />
             </dataset>
-            </graph>
-            <quote>
-              <author>Bill Gates</author>
-              <text>"It never should be a case of closing your eyes and saying
-                ‘Oh, it’s a tech company, just throw money at it.’I guess the
-                unicorns value will go down in the next two years."</text>
-              </quote>
-              <chapter>
-                <title>The bet of the future: energy startups</title>
-                <paragraph>Many promising clean-energy startups are hitting
-                  the market with products and services that could radically
-                  alter how we think of, and consume, power.</paragraph>
-                  <paragraph>
-                    <list type="unordered">
-                      <item>Enphase</item>
-                      <item>Bright</item>
-                      <item>Solazyme</item>
-                      <item>BioFuel Box</item>
-                      <item>Ice Energy</item>
-                      <item>GreatPoint</item>
-                    </list>
-                  </paragraph>
-                </chapter>
-                <keywords>
-                  <keyword name="Start-ups" />
-                  <keyword name="Tech" />
-                  <keyword name="Investments" />
-                  <keyword name="1%" />
-                  <keyword name="Renewables" />
-                  <keyword name="Global Warming" />
-                </keywords>
-                <sources>
-                  <source>nytimes.com</source>
-                  <source>ft.com</source>
-                  <source>forbes.com</source>
-                  <source>fortune.com</source>
-                  <source>cbinsights</source>
-                </sources>
-              </section>
-              <section>
-                <title>Gaps in Silicon Valley</title>
-                <abstract>The venture capitalists’ investments in Silicon Valley
-                  depend not only  on economic considerations, but also on racial
-                  and gender prejudices.</abstract>
-                  <chapter>
-                    <title>Natalie Miller's story</title>
-                    <paragraph>Natalie Miller is a 34 tech entrepeneur who started
-                      her own company, then found out she was pregnant.
-                      In 2013, Ms. Miller had been the 20th employee of Instacart
-                      managing operations during a period of extremely rapid
-                      growth, and the sum could have been huge. She quit anyway!
-                      In 2015, Ms. Miller founded Doxa, a recruiting and hiring
-                      website that would make corporate America friendlier to women.</paragraph>
-                    </chapter>
-                    <graph unit="%" x="string" y="percentage">
-                      <abstract>Venture capitalists' investments depend on startup founders' gender.</abstract>
-                      <dataset label="venture capitalists financing">
-                        <data x="male" y="68" />
-                        <data x="female" y="32" />
-                      </dataset>
-                    </graph>
-                    <graph unit="%" x="string" y="number">
-                      <title>Diversity in major tech companies</title>
-                      <abstract>In tech companies, like Facebook or Google, there is still a majority of male and white employees</abstract>
-                      <dataset label="female">
-                        <data x="US population" y="51" />
-                        <data x="Facebook" y="32" />
-                        <data x="Flickr" y="37" />
-                        <data x="Instagram" y="31" />
-                        <data x="Linkedin" y="42" />
-                        <data x="Pinterest" y="40" />
-                        <data x="Tumblr" y="37" />
-                        <data x="Twitter" y="30" />
-                        <data x="Youtube" y="30" />
-                        <data x="Amazon" y="37" />
-                        <data x="Apple" y="31" />
-                        <data x="Dell" y="30" />
-                        <data x="Ebay" y="47" />
-                        <data x="Google" y="30" />
-                        <data x="Groupon" y="47" />
-                        <data x="HP" y="33" />
-                        <data x="Indiegogo" y="45" />
-                        <data x="Intel" y="25" />
-                        <data x="Microsoft" y="38" />
-                        <data x="Nvidia" y="16" />
-                        <data x="Yahoo" y="37" />
-                      </dataset>
-                      <dataset label="white">
-                        <data x="US population" y="64" />
-                        <data x="Facebook" y="55" />
-                        <data x="Flickr" y="50" />
-                        <data x="Instagram" y="57" />
-                        <data x="Linkedin" y="56" />
-                        <data x="Pinterest" y="50" />
-                        <data x="Tumblr" y="50" />
-                        <data x="Twitter" y="59" />
-                        <data x="Youtube" y="61" />
-                        <data x="Amazon" y="60" />
-                        <data x="Apple" y="54" />
-                        <data x="Dell" y="69" />
-                        <data x="Ebay" y="60" />
-                        <data x="Google" y="60" />
-                        <data x="Groupon" y="71" />
-                        <data x="HP" y="72" />
-                        <data x="Indiegogo" y="64" />
-                        <data x="Intel" y="61" />
-                        <data x="Microsoft" y="59" />
-                        <data x="Nvidia" y="38" />
-                        <data x="Yahoo" y="50" />
-                      </dataset>
-                      <dataset label="asian">
-                        <data x="US population" y="4" />
-                        <data x="Facebook" y="36" />
-                        <data x="Flickr" y="39" />
-                        <data x="Instagram" y="34" />
-                        <data x="Linkedin" y="37" />
-                        <data x="Pinterest" y="42" />
-                        <data x="Tumblr" y="39" />
-                        <data x="Twitter" y="29" />
-                        <data x="Youtube" y="30" />
-                        <data x="Amazon" y="13" />
-                        <data x="Apple" y="18" />
-                        <data x="Dell" y="9" />
-                        <data x="Ebay" y="25" />
-                        <data x="Google" y="31" />
-                        <data x="Groupon" y="15" />
-                        <data x="HP" y="6" />
-                        <data x="Indiegogo" y="23" />
-                        <data x="Intel" y="26" />
-                        <data x="Microsoft" y="29" />
-                        <data x="Nvidia" y="44" />
-                        <data x="Yahoo" y="39" />
-                      </dataset>
-                      <dataset label="latino">
-                        <data x="US population" y="16" />
-                        <data x="Facebook" y="4" />
-                        <data x="Flickr" y="4" />
-                        <data x="Instagram" y="4" />
-                        <data x="Linkedin" y="4" />
-                        <data x="Pinterest" y="2" />
-                        <data x="Tumblr" y="4" />
-                        <data x="Twitter" y="3" />
-                        <data x="Youtube" y="3" />
-                        <data x="Amazon" y="9" />
-                        <data x="Apple" y="11" />
-                        <data x="Dell" y="11" />
-                        <data x="Ebay" y="5" />
-                        <data x="Google" y="3" />
-                        <data x="Groupon" y="5" />
-                        <data x="HP" y="14" />
-                        <data x="Indiegogo" y="8" />
-                        <data x="Intel" y="9" />
-                        <data x="Microsoft" y="5" />
-                        <data x="Nvidia" y="3" />
-                        <data x="Yahoo" y="4" />
-                      </dataset>
-                      <dataset label="black">
-                        <data x="US population" y="12" />
-                        <data x="Facebook" y="2" />
-                        <data x="Flickr" y="2" />
-                        <data x="Instagram" y="2" />
-                        <data x="Linkedin" y="2" />
-                        <data x="Pinterest" y="1" />
-                        <data x="Tumblr" y="2" />
-                        <data x="Twitter" y="2" />
-                        <data x="Youtube" y="2" />
-                        <data x="Amazon" y="15" />
-                        <data x="Apple" y="8" />
-                        <data x="Dell" y="10" />
-                        <data x="Ebay" y="8" />
-                        <data x="Google" y="2" />
-                        <data x="Groupon" y="4" />
-                        <data x="HP" y="7" />
-                        <data x="Indiegogo" y="2" />
-                        <data x="Intel" y="4" />
-                        <data x="Microsoft" y="4" />
-                        <data x="Nvidia" y="1" />
-                        <data x="Yahoo" y="2" />
-                      </dataset>
-                      <dataset label="multi">
-                        <data x="US population" y="1" />
-                        <data x="Facebook" y="3" />
-                        <data x="Flickr" y="2" />
-                        <data x="Instagram" y="3" />
-                        <data x="Linkedin" y="1" />
-                        <data x="Pinterest" y="0" />
-                        <data x="Tumblr" y="2" />
-                        <data x="Twitter" y="3" />
-                        <data x="Youtube" y="4" />
-                        <data x="Amazon" y="0" />
-                        <data x="Apple" y="2" />
-                        <data x="Dell" y="0" />
-                        <data x="Ebay" y="1" />
-                        <data x="Google" y="3" />
-                        <data x="Groupon" y="0" />
-                        <data x="HP" y="1" />
-                        <data x="Indiegogo" y="0" />
-                        <data x="Intel" y="0" />
-                        <data x="Microsoft" y="1" />
-                        <data x="Nvidia" y="14" />
-                        <data x="Yahoo" y="2" />
-                      </dataset>
-                      <dataset label="other">
-                        <data x="US population" y="3" />
-                        <data x="Facebook" y="0" />
-                        <data x="Flickr" y="2" />
-                        <data x="Instagram" y="0" />
-                        <data x="Linkedin" y="0" />
-                        <data x="Pinterest" y="5" />
-                        <data x="Tumblr" y="2" />
-                        <data x="Twitter" y="4" />
-                        <data x="Youtube" y="0" />
-                        <data x="Amazon" y="3" />
-                        <data x="Apple" y="1" />
-                        <data x="Dell" y="1" />
-                        <data x="Ebay" y="1" />
-                        <data x="Google" y="0" />
-                        <data x="Groupon" y="4" />
-                        <data x="HP" y="0" />
-                        <data x="Indiegogo" y="3" />
-                        <data x="Intel" y="1" />
-                        <data x="Microsoft" y="1" />
-                        <data x="Nvidia" y="0" />
-                        <data x="Yahoo" y="2" />
-                      </dataset>
-                    </graph>
-                    <keywords>
-                      <keyword name="Commerce" />
-                      <keyword name="Tech" />
-                      <keyword name="Start-ups" />
-                      <keyword name="Working class" />
-                      <keyword name="Millenials" />
-                      <keyword name="Investments" />
-                      <keyword name="Employment" />
-                      <keyword name="Global Corporations" />
-                      <keyword name="North America" />
-                    </keywords>
-                    <sources>
-                      <source>nytimes.com</source>
-                      <source>ft.com</source>
-                      <source>forbes.com</source>
-                      <source>fortune.com</source>
-                      <source>cbinsights</source>
-                    </sources>
-                  </section>
-                </sections>
-              </bulletin>
-            </bulletins>
+            <dataset label="Xiaomi">
+              <data x="20120101" y="1" />
+              <data x="20120601" y="3.4" />
+              <data x="20130101" y="8" />
+              <data x="20130801" y="8" />
+              <data x="20140101" y="8" />
+              <data x="20140601" y="8" />
+              <data x="20150501" y="41" />
+              <data x="20160303" y="46" />
+            </dataset>
+            <dataset label="Airbnb">
+              <data x="20110701" y="1" />
+              <data x="20120101" y="2.5" />
+              <data x="20120601" y="2.5" />
+              <data x="20130101" y="2.5" />
+              <data x="20130801" y="2.5" />
+              <data x="20140101" y="2.5" />
+              <data x="20140601" y="2.5" />
+              <data x="20150501" y="18" />
+              <data x="20160303" y="25.5" />
+            </dataset>
+            <dataset label="Palantir">
+              <data x="20110501" y="1" />
+              <data x="20120101" y="2.5" />
+              <data x="20120601" y="2.5" />
+              <data x="20130101" y="8.5" />
+              <data x="20130801" y="8.5" />
+              <data x="20140101" y="8.5" />
+              <data x="20140601" y="8.5" />
+              <data x="20150501" y="13" />
+              <data x="20160303" y="20" />
+            </dataset>
+            <dataset label="Snapchat">
+              <data x="20140101" y="1" />
+              <data x="20140601" y="6.5" />
+              <data x="20150501" y="13" />
+              <data x="20160303" y="16" />
+            </dataset>
+            <dataset label="Didi Kuaidi">
+              <data x="20140101" y="1" />
+              <data x="20140601" y="3.4" />
+              <data x="20150501" y="8" />
+              <data x="20160303" y="15" />
+            </dataset>
+            <dataset label="Dianping">
+              <data x="20140101" y="1" />
+              <data x="20140601" y="2" />
+              <data x="20150501" y="3.5" />
+              <data x="20160303" y="15" />
+            </dataset>
+            <dataset label="Flipkart">
+              <data x="20120601" y="1" />
+              <data x="20130101" y="1.5" />
+              <data x="20130801" y="1.5" />
+              <data x="20140101" y="1.5" />
+              <data x="20140601" y="1.5" />
+              <data x="20150501" y="13.5" />
+              <data x="20160303" y="15" />
+            </dataset>
+            <dataset label="SpaceX">
+              <data x="20120101" y="1" />
+              <data x="20120601" y="4.5" />
+              <data x="20130101" y="4.5" />
+              <data x="20130801" y="4.5" />
+              <data x="20140101" y="4.5" />
+              <data x="20140601" y="4.5" />
+              <data x="20150501" y="11" />
+              <data x="20160303" y="12" />
+            </dataset>
+            <dataset label="Pinterest">
+              <data x="20120601" y="1" />
+              <data x="20140601" y="4.5" />
+              <data x="20150501" y="9.5" />
+              <data x="20160303" y="12" />
+            </dataset>
+            <dataset label="Zenefits">
+              <data x="20150101" y="1" />
+              <data x="20150501" y="4.5" />
+              <data x="20151101" y="4" />
+              <data x="20160303" y="4" />
+            </dataset>
+            <dataset label="Souq">
+              <data x="20160303" y="1" />
+            </dataset>
+          </graph>
+          <chapter>
+            <title>Zenefits layoffs</title>
+            <paragraph>in May 2015, Zenefits is the fastest growing company in
+              Silicon Valley, with 1640 employees. But in November 2015, Buzfeed
+              discovers the Macro program allowes not licensed brokers to sell
+              insurance. The news is that on February 26th 2016, new CEO David
+              Sacks announced 250 layoffs.</paragraph>
+            </chapter>
+            <keywords>
+              <keyword name="Start-ups"/>
+              <keyword name="North America"/>
+              <keyword name="Central and Eastern Asia"/>
+              <keyword name="Transportation"/>
+              <keyword name="Tech"/>
+              <keyword name="Commerce"/>
+              <keyword name="Tourism"/>
+              <keyword name="Healtcare"/>
+              <keyword name="Employment"/>
+              <keyword name="Investments"/>
+            </keywords>
+            <sources>
+              <source>nytimes.com</source>
+              <source>ft.com</source>
+              <source>forbes.com</source>
+              <source>fortune.com</source>
+              <source>cbinsights</source>
+            </sources>
+          </section>
+          <section>
+            <title>The Bill's warning</title>
+            <subtitle>Deflation of unicorns and energy startups</subtitle>
+            <chapter>
+              <paragraph>Fidelity Fund, one of the most high-profile investors, has once
+                again “broken out the red pen” for many of its privately-held portfolio
+                companies, according to Fortune. For example, Zenefits gotmarked down
+                substantially, but the relevant period does not include its CEO stepping down
+                for compliance-related issues.</paragraph>
+              </chapter>
+              <graph unit="%" x="string" y="number">
+                <dataset label= "deflation of unicorns">
+                  <data x="Dropbox" y="-10" />
+                  <data x="Appnexus" y="-16" />
+                  <data x="Zenefits" y="-14" />
+                  <data x="Turn" y="-7" />
+                  <data x="Cloudflair" y="-31" />
+                  <data x="Moderna" y="-25" />
+                </dataset>
+              </graph>
+              <quote>
+                <author>Bill Gates</author>
+                <text>"It never should be a case of closing your eyes and saying
+                  ‘Oh, it’s a tech company, just throw money at it.’I guess the
+                  unicorns value will go down in the next two years."</text>
+                </quote>
+                <chapter>
+                  <title>The bet of the future: energy startups</title>
+                  <paragraph>Many promising clean-energy startups are hitting
+                    the market with products and services that could radically
+                    alter how we think of, and consume, power.</paragraph>
+                    <paragraph>
+                      <list type="unordered">
+                        <item>Enphase</item>
+                        <item>Bright</item>
+                        <item>Solazyme</item>
+                        <item>BioFuel Box</item>
+                        <item>Ice Energy</item>
+                        <item>GreatPoint</item>
+                      </list>
+                    </paragraph>
+                  </chapter>
+                  <keywords>
+                    <keyword name="Start-ups" />
+                    <keyword name="Tech" />
+                    <keyword name="Investments" />
+                    <keyword name="1%" />
+                    <keyword name="Renewables" />
+                    <keyword name="Global Warming" />
+                  </keywords>
+                  <sources>
+                    <source>nytimes.com</source>
+                    <source>ft.com</source>
+                    <source>forbes.com</source>
+                    <source>fortune.com</source>
+                    <source>cbinsights</source>
+                  </sources>
+                </section>
+                <section>
+                  <title>Gaps in Silicon Valley</title>
+                  <abstract>The venture capitalists’ investments in Silicon Valley
+                    depend not only  on economic considerations, but also on racial
+                    and gender prejudices.</abstract>
+                    <chapter>
+                      <title>Natalie Miller's story</title>
+                      <paragraph>Natalie Miller is a 34 tech entrepeneur who started
+                        her own company, then found out she was pregnant.
+                        In 2013, Ms. Miller had been the 20th employee of Instacart
+                        managing operations during a period of extremely rapid
+                        growth, and the sum could have been huge. She quit anyway!
+                        In 2015, Ms. Miller founded Doxa, a recruiting and hiring
+                        website that would make corporate America friendlier to women.</paragraph>
+                      </chapter>
+                      <graph unit="%" x="string" y="percentage">
+                        <abstract>Venture capitalists' investments depend on startup founders' gender.</abstract>
+                        <dataset label="venture capitalists financing">
+                          <data x="male" y="68" />
+                          <data x="female" y="32" />
+                        </dataset>
+                      </graph>
+                      <graph unit="%" x="string" y="number">
+                        <title>Diversity in major tech companies</title>
+                        <abstract>In tech companies, like Facebook or Google, there is still a majority of male and white employees</abstract>
+                        <dataset label="female">
+                          <data x="US population" y="51" />
+                          <data x="Facebook" y="32" />
+                          <data x="Flickr" y="37" />
+                          <data x="Instagram" y="31" />
+                          <data x="Linkedin" y="42" />
+                          <data x="Pinterest" y="40" />
+                          <data x="Tumblr" y="37" />
+                          <data x="Twitter" y="30" />
+                          <data x="Youtube" y="30" />
+                          <data x="Amazon" y="37" />
+                          <data x="Apple" y="31" />
+                          <data x="Dell" y="30" />
+                          <data x="Ebay" y="47" />
+                          <data x="Google" y="30" />
+                          <data x="Groupon" y="47" />
+                          <data x="HP" y="33" />
+                          <data x="Indiegogo" y="45" />
+                          <data x="Intel" y="25" />
+                          <data x="Microsoft" y="38" />
+                          <data x="Nvidia" y="16" />
+                          <data x="Yahoo" y="37" />
+                        </dataset>
+                        <dataset label="white">
+                          <data x="US population" y="64" />
+                          <data x="Facebook" y="55" />
+                          <data x="Flickr" y="50" />
+                          <data x="Instagram" y="57" />
+                          <data x="Linkedin" y="56" />
+                          <data x="Pinterest" y="50" />
+                          <data x="Tumblr" y="50" />
+                          <data x="Twitter" y="59" />
+                          <data x="Youtube" y="61" />
+                          <data x="Amazon" y="60" />
+                          <data x="Apple" y="54" />
+                          <data x="Dell" y="69" />
+                          <data x="Ebay" y="60" />
+                          <data x="Google" y="60" />
+                          <data x="Groupon" y="71" />
+                          <data x="HP" y="72" />
+                          <data x="Indiegogo" y="64" />
+                          <data x="Intel" y="61" />
+                          <data x="Microsoft" y="59" />
+                          <data x="Nvidia" y="38" />
+                          <data x="Yahoo" y="50" />
+                        </dataset>
+                        <dataset label="asian">
+                          <data x="US population" y="4" />
+                          <data x="Facebook" y="36" />
+                          <data x="Flickr" y="39" />
+                          <data x="Instagram" y="34" />
+                          <data x="Linkedin" y="37" />
+                          <data x="Pinterest" y="42" />
+                          <data x="Tumblr" y="39" />
+                          <data x="Twitter" y="29" />
+                          <data x="Youtube" y="30" />
+                          <data x="Amazon" y="13" />
+                          <data x="Apple" y="18" />
+                          <data x="Dell" y="9" />
+                          <data x="Ebay" y="25" />
+                          <data x="Google" y="31" />
+                          <data x="Groupon" y="15" />
+                          <data x="HP" y="6" />
+                          <data x="Indiegogo" y="23" />
+                          <data x="Intel" y="26" />
+                          <data x="Microsoft" y="29" />
+                          <data x="Nvidia" y="44" />
+                          <data x="Yahoo" y="39" />
+                        </dataset>
+                        <dataset label="latino">
+                          <data x="US population" y="16" />
+                          <data x="Facebook" y="4" />
+                          <data x="Flickr" y="4" />
+                          <data x="Instagram" y="4" />
+                          <data x="Linkedin" y="4" />
+                          <data x="Pinterest" y="2" />
+                          <data x="Tumblr" y="4" />
+                          <data x="Twitter" y="3" />
+                          <data x="Youtube" y="3" />
+                          <data x="Amazon" y="9" />
+                          <data x="Apple" y="11" />
+                          <data x="Dell" y="11" />
+                          <data x="Ebay" y="5" />
+                          <data x="Google" y="3" />
+                          <data x="Groupon" y="5" />
+                          <data x="HP" y="14" />
+                          <data x="Indiegogo" y="8" />
+                          <data x="Intel" y="9" />
+                          <data x="Microsoft" y="5" />
+                          <data x="Nvidia" y="3" />
+                          <data x="Yahoo" y="4" />
+                        </dataset>
+                        <dataset label="black">
+                          <data x="US population" y="12" />
+                          <data x="Facebook" y="2" />
+                          <data x="Flickr" y="2" />
+                          <data x="Instagram" y="2" />
+                          <data x="Linkedin" y="2" />
+                          <data x="Pinterest" y="1" />
+                          <data x="Tumblr" y="2" />
+                          <data x="Twitter" y="2" />
+                          <data x="Youtube" y="2" />
+                          <data x="Amazon" y="15" />
+                          <data x="Apple" y="8" />
+                          <data x="Dell" y="10" />
+                          <data x="Ebay" y="8" />
+                          <data x="Google" y="2" />
+                          <data x="Groupon" y="4" />
+                          <data x="HP" y="7" />
+                          <data x="Indiegogo" y="2" />
+                          <data x="Intel" y="4" />
+                          <data x="Microsoft" y="4" />
+                          <data x="Nvidia" y="1" />
+                          <data x="Yahoo" y="2" />
+                        </dataset>
+                        <dataset label="multi">
+                          <data x="US population" y="1" />
+                          <data x="Facebook" y="3" />
+                          <data x="Flickr" y="2" />
+                          <data x="Instagram" y="3" />
+                          <data x="Linkedin" y="1" />
+                          <data x="Pinterest" y="0" />
+                          <data x="Tumblr" y="2" />
+                          <data x="Twitter" y="3" />
+                          <data x="Youtube" y="4" />
+                          <data x="Amazon" y="0" />
+                          <data x="Apple" y="2" />
+                          <data x="Dell" y="0" />
+                          <data x="Ebay" y="1" />
+                          <data x="Google" y="3" />
+                          <data x="Groupon" y="0" />
+                          <data x="HP" y="1" />
+                          <data x="Indiegogo" y="0" />
+                          <data x="Intel" y="0" />
+                          <data x="Microsoft" y="1" />
+                          <data x="Nvidia" y="14" />
+                          <data x="Yahoo" y="2" />
+                        </dataset>
+                        <dataset label="other">
+                          <data x="US population" y="3" />
+                          <data x="Facebook" y="0" />
+                          <data x="Flickr" y="2" />
+                          <data x="Instagram" y="0" />
+                          <data x="Linkedin" y="0" />
+                          <data x="Pinterest" y="5" />
+                          <data x="Tumblr" y="2" />
+                          <data x="Twitter" y="4" />
+                          <data x="Youtube" y="0" />
+                          <data x="Amazon" y="3" />
+                          <data x="Apple" y="1" />
+                          <data x="Dell" y="1" />
+                          <data x="Ebay" y="1" />
+                          <data x="Google" y="0" />
+                          <data x="Groupon" y="4" />
+                          <data x="HP" y="0" />
+                          <data x="Indiegogo" y="3" />
+                          <data x="Intel" y="1" />
+                          <data x="Microsoft" y="1" />
+                          <data x="Nvidia" y="0" />
+                          <data x="Yahoo" y="2" />
+                        </dataset>
+                      </graph>
+                      <keywords>
+                        <keyword name="Commerce" />
+                        <keyword name="Tech" />
+                        <keyword name="Start-ups" />
+                        <keyword name="Working class" />
+                        <keyword name="Millenials" />
+                        <keyword name="Investments" />
+                        <keyword name="Employment" />
+                        <keyword name="Global Corporations" />
+                        <keyword name="North America" />
+                      </keywords>
+                      <sources>
+                        <source>nytimes.com</source>
+                        <source>ft.com</source>
+                        <source>forbes.com</source>
+                        <source>fortune.com</source>
+                        <source>cbinsights</source>
+                      </sources>
+                    </section>
+                  </sections>
+                </bulletin>
+              </bulletins>

@@ -1,414 +1,414 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <bulletins>
-    <title>EU Debt Crisis Odysssey</title>
-  	<subtitle>About the european crisis</subtitle>
-  	<authors>
-      <author>Valeria Mento</author>
-      <author>Jacopo Faggian</author>
-      <author>Francesca Alaimo</author>
-    </authors>
-    <bulletin id="2" date="20160311">
-      <sections>
+<bulletins>
+  <title>EU Debt Crisis Odysssey</title>
+  <subtitle>About the european crisis</subtitle>
+  <authors>
+    <author>Valeria Mento</author>
+    <author>Jacopo Faggian</author>
+    <author>Francesca Alaimo</author>
+  </authors>
+  <bulletin id="2" date="20160311">
+    <sections>
 
-  <section>
-    <title>Warning: deflation in EU</title>
-    <chapter>
-      <paragraph>Eurozone consumer prices were lower in February than a year earlier, a setback for the
-        ECB in its struggle to prevent the currency bloc’s slide into chronic deflation. The ECB’s governing
-        council is set to meet on March 9 and 10 to decide whether to boost its stimulus programs, amid signs
-        that the eurozone’s modest economic recovery may be faltering. Policy makers will have new economic
-        forecasts in March that are expected to show inflation this year falling far below the 1.0% estimated
-        in December, following another sharp drop in oil prices.
-      </paragraph>
-    </chapter>
-    <graph unit="%" x="country" y="number">
-      <title>Inflaction sitation in EU countries | Feb2016</title>
-      <dataset label="Inflation value">
-        <data x="AT" y="1.4"/>
-        <data x="BE" y="1.8"/>
-        <data x="BG" y="-0.3"/>
-        <data x="CH" y="-1.5"/>
-        <data x="CY" y="-1.1"/>
-        <data x="CZ" y="0.5"/>
-        <data x="DE" y="0.4"/>
-        <data x="DK" y="0.4"/>
-        <data x="ES" y="1.4"/>
-        <data x="CZ" y="0.5"/>
-        <data x="DE" y="0.4"/>
-        <data x="DK" y="0.4"/>
-        <data x="EE" y="-0.4"/>
-        <data x="FR" y="0.3"/>
-        <data x="GB" y="0.4"/>
-        <data x="GR" y="-0.1"/>
-        <data x="HR" y="0.2"/>
-        <data x="HU" y="1.0"/>
-        <data x="IT" y="-0.3"/>
-        <data x="LU" y="0.5"/>
-        <data x="LV" y="0.5"/>
-        <data x="LT" y="0.8"/>
-        <data x="NO" y="3.1"/>
-        <data x="NL" y="0.2"/>
-        <data x="PL" y="-0.3"/>
-        <data x="PT" y="0.7"/>
-        <data x="RO" y="-1.5"/>
-        <data x="SI" y="-0.8"/>
-        <data x="SK" y="-0.7"/>
-        <data x="SE" y="1.3"/>
-      </dataset>
-    </graph>
-    <keywords>
-    <keyword name="Eastern Europe"/>
-    <keyword name="Western Europe"/>
-    <keyword name="Governance"/>
-    <keyword name="Inflation/Deflation"/>
-    <keyword name="Oil"/>
-    </keywords>
-    <sources>
-      <source>EuroStat.eu</source>
-      <source>Nasdaq.com</source>
-      <source>Valuewalk.com</source>
-      <source>Bloomberg.com</source>
-      <source>Investopedia.com</source>
-      <source>iEconomics.com</source>
-    </sources>
-  </section>
-
-  <section>
-    <title>What are the consequences of deflation?</title>
-    <chapter>
-      <paragraph>
-        A deflationary spiral is when a period of decreasing prices leads to a situation whereby the
-        economy cannot recover, which compounds over time leading to even lower prices in a vicious cycle:
-      </paragraph>
-      <paragraph>
-        <list type="unordered">
-            <item>Falling demand</item>
-            <item>Falling prices</item>
-            <item>Lower gain for productors</item>
-            <item>Debt defaults</item>
-            <item>Bankruptices</item>
-            <item>Layoff and wage reduction</item>
-          </list>
-        </paragraph>
-    </chapter>
-    <quote>
-      <author>Mario Draghi</author>
-      <text>“Thanks to our monetary policy actions, the risk of deflation in the euro area is firmly
-      off the table”</text>
-    </quote>
-    <chapter>
-      <paragraph>
-        Mario Draghi declared this in December 2015. Just 3 month later the risk became
-        real. Deflation typically occurs during periods of economic crisis such as a recession or
-        depression as economic output slows and demand for investment and consumption dries up.
-        This may lead to an overall decline in asset prices as producers are forced to liquidate
-        inventories that people no longer want to buy.
-      </paragraph>
-      <keywords>
-      <keyword name="Governance"/>
-      <keyword name="Inflation/Deflation"/>
-      </keywords>
-      <sources>
-        <source>EuroStat.eu</source>
-        <source>Nasdaq.com</source>
-        <source>Valuewalk.com</source>
-        <source>Bloomberg.com</source>
-        <source>Investopedia.com</source>
-        <source>iEconomics.com</source>
-      </sources>
-    </chapter>
-  </section>
-
-  <section>
-    <title>Why is EU so concerned?</title>
-  <chapter>
-    <paragraph>
-      The European Union’s statistics agency said consumer prices were down 0.2% from February 2016, having
-      been up 0.3% on the year in January, creating panic and concern. That is a quit risky situation that
-      ECB has to solve has soon as possible in order to assure a better economic stability to Europe.
-    </paragraph>
-  </chapter>
-  <graph unit="%" x="date" y="number">
-    <title>Deflaction variation Mar2015 | Feb2016</title>
-    <dataset label="Deflation rate">
-      <data x="20150331" y="-0.1"/>
-      <data x="20150430" y="0"/>
-      <data x="20150531" y="0.3"/>
-      <data x="20150630" y="0.2"/>
-      <data x="20150731" y="0.2"/>
-      <data x="20150831" y="0.1"/>
-      <data x="20150930" y="-0.1"/>
-      <data x="20151031" y="0.1"/>
-      <data x="20151130" y="0.1"/>
-      <data x="20151231" y="0.2"/>
-      <data x="20160131" y="0.3"/>
-      <data x="20160229" y="-0.2"/>
-    </dataset>
-  </graph>
-  <keywords>
-  <keyword name="Eastern Europe"/>
-  <keyword name="Western Europe"/>
-  <keyword name="Governance"/>
-  <keyword name="Inflation/Deflation"/>
-  <keyword name="GDP"/>
-  </keywords>
-  <sources>
-    <source>EuroStat.eu</source>
-    <source>Nasdaq.com</source>
-    <source>Valuewalk.com</source>
-    <source>Bloomberg.com</source>
-    <source>Investopedia.com</source>
-    <source>iEconomics.com</source>
-  </sources>
-</section>
-
-<section>
-<quote>
-  <author>Mario Draghi</author>
-  <text>
-    Mario Draghi has said the ECB won’t hesitate to act if it believes recent financial-market turmoil or lower
-    oil prices will weigh further on inflation in the currency area.
-  </text>
-</quote>
-<keywords>
-<keyword name="North America"/>
-<keyword name="South America"/>
-<keyword name="Eastern Europe"/>
-<keyword name="Western Europe"/>
-<keyword name="Middle East and Western Asia"/>
-<keyword name="Central and Eastern Asia"/>
-<keyword name="Southern Asia"/>
-<keyword name="Southeastern Asia"/>
-<keyword name="Import/Export"/>
-<keyword name="Inflation/Deflation"/>
-<keyword name="Global Corporations"/>
-<keyword name="Oil"/>
-</keywords>
-<sources>
-  <source>EuroStat.eu</source>
-  <source>Nasdaq.com</source>
-  <source>Valuewalk.com</source>
-  <source>Bloomberg.com</source>
-  <source>Investopedia.com</source>
-  <source>iEconomics.com</source>
-</sources>
-</section>
-
-<section>
-  <title>European deflation and oil price</title>
-  <chapter>
-    <paragraph>
-      Mario Draghi has said the ECB won’t hesitate to act if it believes recent financial-market turmoil or lower
-      oil prices will weigh further on inflation in the currency area. Why Europe is so influenced by lower oil price?
-    </paragraph>
-    <paragraph>
-      <list type="ordered">
-        <item>Middle east countries continue to pull out oil even if the price is now very low to put US in a difficult situation.</item>
-        <item>Oil extraction is very expansive for US compared to middle east, so they have economic difficulties.</item>
-        <item>Oil extraction is very expansive for US compared to middle east, so they have economic difficulties.</item>
-        <item>There are other countries with financial problems, they can not afford imported products.</item>
-      </list>
-    </paragraph>
-  </chapter>
-  <keywords>
-  <keyword name="North America"/>
-  <keyword name="South America"/>
-  <keyword name="Eastern Europe"/>
-  <keyword name="Western Europe"/>
-  <keyword name="Middle East and Western Asia"/>
-  <keyword name="Central and Eastern Asia"/>
-  <keyword name="Southern Asia"/>
-  <keyword name="Southeastern Asia"/>
-  <keyword name="Import/Export"/>
-  <keyword name="Inflation/Deflation"/>
-  <keyword name="Global Corporations"/>
-  <keyword name="Oil"/>
-  </keywords>
-  <sources>
-    <source>EuroStat.eu</source>
-    <source>Nasdaq.com</source>
-    <source>Valuewalk.com</source>
-    <source>Bloomberg.com</source>
-    <source>Investopedia.com</source>
-    <source>iEconomics.com</source>
-  </sources>
-</section>
-
-<section>
-  <title>2017: Switzerland goes into recession?</title>
-    <chapter>
-      <paragraph>
-        Switzerland is a great example of how it doesn’t matter all that much whether a country is a member of the EU or not,
-        even when it deeply depends on trading with it. It is also shows that under such a scenario, it doesn’t really matter
-        whether or not the country chooses to keep its own currency and central bank or to adopt the union’s own.
-      </paragraph>
-    </chapter>
+      <section>
+        <title>Warning: deflation in EU</title>
         <chapter>
-      <title>The beginning of everything:</title>
-      <paragraph>
-        In 2000 Switzerland opted out of the euro to keep his own monetary policy while routing 50% of his exports to the
-        European bloc at the same time, it was somewhat deceiving themselves. It may not share the euro, but it do share
-        the same kind of monetary policy, as it was pushed by the ECB into negative interest rates.
-      </paragraph>
-        <paragraph>
-          Some steps to Swiss’s recession:
-          <list type="ordered">
-            <item>Capital starting flow from EU to Switzerland.</item>
-            <item>To avoid capital flight, Swiss National Bank disconnect the franc to the euro.</item>
-            <item>Franc value grows stronger compared to euro.</item>
-            <item>Exports to the Eurozone fell for this.</item>
-            <item>Swiss companies are in financial difficulties.</item>
-            <item>GDP may drop in 2017, so Swiss could go in recession.</item>
-          </list>
-      </paragraph>
-    </chapter>
-    <chapter>
-      <title>Consequential actions</title>
-      <paragraph>
-        When the ECB cut its key rates and unfolded a massive asset purchase programme, capital started flowing away from the
-        core Eurozone members in the direction of strong neighbour countries like Switzerland. Foreign reserves could only accumulate.
-        <list type="unordered">
-          <item>2012. ECB cut interest rates.</item>
-          <item>2013. Capital flight from euro area to Swiss.</item>
-          <item>2014. To avoid capital flight, SNB put negative interest rates.</item>
-        </list>
-      </paragraph>
-    </chapter>
-    <keywords>
-    <keyword name="Unconventional Monetary Policies"/>
-    <keyword name="Western Europe"/>
-    <keyword name="Governance"/>
-    <keyword name="Currencies"/>
-    <keyword name="Interest Rates"/>
-    </keywords>
-    <sources>
-      <source>EuroStat.eu</source>
-      <source>Nasdaq.com</source>
-      <source>Valuewalk.com</source>
-      <source>Bloomberg.com</source>
-      <source>Investopedia.com</source>
-      <source>iEconomics.com</source>
-    </sources>
-  </section>
+          <paragraph>Eurozone consumer prices were lower in February than a year earlier, a setback for the
+            ECB in its struggle to prevent the currency bloc’s slide into chronic deflation. The ECB’s governing
+            council is set to meet on March 9 and 10 to decide whether to boost its stimulus programs, amid signs
+            that the eurozone’s modest economic recovery may be faltering. Policy makers will have new economic
+            forecasts in March that are expected to show inflation this year falling far below the 1.0% estimated
+            in December, following another sharp drop in oil prices.
+          </paragraph>
+        </chapter>
+        <graph unit="%" x="country" y="number">
+          <title>Inflaction sitation in EU countries | Feb2016</title>
+          <dataset label="Inflation value">
+            <data x="AT" y="1.4"/>
+            <data x="BE" y="1.8"/>
+            <data x="BG" y="-0.3"/>
+            <data x="CH" y="-1.5"/>
+            <data x="CY" y="-1.1"/>
+            <data x="CZ" y="0.5"/>
+            <data x="DE" y="0.4"/>
+            <data x="DK" y="0.4"/>
+            <data x="ES" y="1.4"/>
+            <data x="CZ" y="0.5"/>
+            <data x="DE" y="0.4"/>
+            <data x="DK" y="0.4"/>
+            <data x="EE" y="-0.4"/>
+            <data x="FR" y="0.3"/>
+            <data x="GB" y="0.4"/>
+            <data x="GR" y="-0.1"/>
+            <data x="HR" y="0.2"/>
+            <data x="HU" y="1.0"/>
+            <data x="IT" y="-0.3"/>
+            <data x="LU" y="0.5"/>
+            <data x="LV" y="0.5"/>
+            <data x="LT" y="0.8"/>
+            <data x="NO" y="3.1"/>
+            <data x="NL" y="0.2"/>
+            <data x="PL" y="-0.3"/>
+            <data x="PT" y="0.7"/>
+            <data x="RO" y="-1.5"/>
+            <data x="SI" y="-0.8"/>
+            <data x="SK" y="-0.7"/>
+            <data x="SE" y="1.3"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Eastern Europe"/>
+          <keyword name="Western Europe"/>
+          <keyword name="Governance"/>
+          <keyword name="Inflation/Deflation"/>
+          <keyword name="Oil"/>
+        </keywords>
+        <sources>
+          <source>EuroStat.eu</source>
+          <source>Nasdaq.com</source>
+          <source>Valuewalk.com</source>
+          <source>Bloomberg.com</source>
+          <source>Investopedia.com</source>
+          <source>iEconomics.com</source>
+        </sources>
+      </section>
 
-  <section>
-    <title>Bad stats</title>
-      <chapter>
-        <paragraph>
-          All the SNB has achieved is to import deflation from the Eurozone. Prices are currently decreasing at an annual pace of -1.3%.
-          The higher franc is causing a contraction in manufacturing due to the negative impact on external demand. GDP is still growing but
-          at ever lower rates. If the ECB expands its bond buying, the Swiss problem will aggravate and the country will most likely enter recession.
-        </paragraph>
-      </chapter>
-      <graph unit="%" x="​string" y="number">
-        <title>Financial data comparation - Switzerland</title>
-        <dataset label="Swiss values">
-          <data x="GDP growth rate" y="0.4"/>
-          <data x="interes rate" y="-0.75"/>
-          <data x="manufacturing production" y="-3.94"/>
-          <data x="industrial production" y="-4.5"/>
-          <data x="Inflation rate" y="-0.8"/>
-          <data x="2015 market index ate" y="-10"/>
-        </dataset>
-      </graph>
-      <graph unit="%" x="​string" y="number">
-        <title>Financial data comparation - Eurozone</title>
-        <dataset label="EU values">
-          <data x="GDP rowth rate" y="0.3"/>
-          <data x="interest rate" y="-0"/>
-          <data x="manufacturing production" y="-0.4"/>
-          <data x="industrial production" y="-1.3"/>
-          <data x="Inflation rate" y="-0.2"/>
-          <data x="2015 market index rate" y="3"/>
-        </dataset>
-      </graph>
-      <keywords>
-        <keyword name="Currencies" />
-        <keyword name="Western Europe" />
-        <keyword name="Governance" />
-        <keyword name="Interest Rates" />
-        <keyword name="GDP" />
-        <keyword name="Inflation/Deflation" />
-        <keyword name="Interest Rates" />
-        <keyword name="Manufacturing" />
-      </keywords>
-      <sources>
-        <source>EuroStat.eu</source>
-        <source>Nasdaq.com</source>
-        <source>Valuewalk.com</source>
-        <source>Bloomberg.com</source>
-        <source>Investopedia.com</source>
-        <source>iEconomics.com</source>
-      </sources>
-    </section>
+      <section>
+        <title>What are the consequences of deflation?</title>
+        <chapter>
+          <paragraph>
+            A deflationary spiral is when a period of decreasing prices leads to a situation whereby the
+            economy cannot recover, which compounds over time leading to even lower prices in a vicious cycle:
+          </paragraph>
+          <paragraph>
+            <list type="unordered">
+              <item>Falling demand</item>
+              <item>Falling prices</item>
+              <item>Lower gain for productors</item>
+              <item>Debt defaults</item>
+              <item>Bankruptices</item>
+              <item>Layoff and wage reduction</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <quote>
+          <author>Mario Draghi</author>
+          <text>“Thanks to our monetary policy actions, the risk of deflation in the euro area is firmly
+            off the table”</text>
+          </quote>
+          <chapter>
+            <paragraph>
+              Mario Draghi declared this in December 2015. Just 3 month later the risk became
+              real. Deflation typically occurs during periods of economic crisis such as a recession or
+              depression as economic output slows and demand for investment and consumption dries up.
+              This may lead to an overall decline in asset prices as producers are forced to liquidate
+              inventories that people no longer want to buy.
+            </paragraph>
+            <keywords>
+              <keyword name="Governance"/>
+              <keyword name="Inflation/Deflation"/>
+            </keywords>
+            <sources>
+              <source>EuroStat.eu</source>
+              <source>Nasdaq.com</source>
+              <source>Valuewalk.com</source>
+              <source>Bloomberg.com</source>
+              <source>Investopedia.com</source>
+              <source>iEconomics.com</source>
+            </sources>
+          </chapter>
+        </section>
 
-    <section>
-      <title>An overvalued index</title>
-      <chapter>
-        <paragraph>
-          In 2015, the SMI index is down 10%, underperforming wider European markets. According
-          to data collected by Star Capital, Switzerland ranks at the 37th of 40 positions in terms
-          of valuation, which means that financial markets in Switzerland are largely overvalued.
-        </paragraph>
-      </chapter>
-      <graph unit="CHF" x="date" y="number">
-        <title>Foreign Exchange Reserves in Swiss Jul 2011 | Feb 2016</title>
-        <dataset label="Exchange value">
-          <data x="2011" y="330,000"/>
-          <data x="2012" y="485,000"/>
-          <data x="2013" y="480,000"/>
-          <data x="2014" y="495,000"/>
-          <data x="2015" y="595,000"/>
-        </dataset>
-      </graph>
-      <keywords>
-        <keyword name="Currencies" />
-        <keyword name="Western Europe" />
-        <keyword name="Governance" />
-      </keywords>
-      <sources>
-        <source>EuroStat.eu</source>
-        <source>Nasdaq.com</source>
-        <source>Valuewalk.com</source>
-        <source>Bloomberg.com</source>
-        <source>Investopedia.com</source>
-        <source>iEconomics.com</source>
-      </sources>
-    </section>
+        <section>
+          <title>Why is EU so concerned?</title>
+          <chapter>
+            <paragraph>
+              The European Union’s statistics agency said consumer prices were down 0.2% from February 2016, having
+              been up 0.3% on the year in January, creating panic and concern. That is a quit risky situation that
+              ECB has to solve has soon as possible in order to assure a better economic stability to Europe.
+            </paragraph>
+          </chapter>
+          <graph unit="%" x="date" y="number">
+            <title>Deflaction variation Mar2015 | Feb2016</title>
+            <dataset label="Deflation rate">
+              <data x="20150331" y="-0.1"/>
+              <data x="20150430" y="0"/>
+              <data x="20150531" y="0.3"/>
+              <data x="20150630" y="0.2"/>
+              <data x="20150731" y="0.2"/>
+              <data x="20150831" y="0.1"/>
+              <data x="20150930" y="-0.1"/>
+              <data x="20151031" y="0.1"/>
+              <data x="20151130" y="0.1"/>
+              <data x="20151231" y="0.2"/>
+              <data x="20160131" y="0.3"/>
+              <data x="20160229" y="-0.2"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Eastern Europe"/>
+            <keyword name="Western Europe"/>
+            <keyword name="Governance"/>
+            <keyword name="Inflation/Deflation"/>
+            <keyword name="GDP"/>
+          </keywords>
+          <sources>
+            <source>EuroStat.eu</source>
+            <source>Nasdaq.com</source>
+            <source>Valuewalk.com</source>
+            <source>Bloomberg.com</source>
+            <source>Investopedia.com</source>
+            <source>iEconomics.com</source>
+          </sources>
+        </section>
 
-    <section>
-      <title>Export, we have a problem</title>
-      <chapter>
-        <paragraph>
-          Exports to the Eurozone account for around 50% of Switzerland’s total exports. With the franc
-          rising against the euro, it comes as no surprise that exports to the Eurozone fell 7% last year.
-          So far, Swiss companies have been playing with margins, cutting costs and improve efficiency.
-        </paragraph>
-      </chapter>
-      <graph unit="%" x="date" y="number">
-        <title>Export rate from Swiss to Eurozone 2014 | 2016</title>
-        <dataset label="Export rate">
-          <data x="2013" y="50"/>
-          <data x="2014" y="50"/>
-          <data x="2015" y="43"/>
-        </dataset>
-      </graph>
-      <keywords>
-        <keyword name="Currencies" />
-        <keyword name="Western Europe" />
-        <keyword name="Import/Export" />
-        <keyword name="Global Corporations" />
-      </keywords>
-      <sources>
-        <source>EuroStat.eu</source>
-        <source>Nasdaq.com</source>
-        <source>Valuewalk.com</source>
-        <source>Bloomberg.com</source>
-        <source>Investopedia.com</source>
-        <source>iEconomics.com</source>
-      </sources>
-    </section>
+        <section>
+          <quote>
+            <author>Mario Draghi</author>
+            <text>
+              Mario Draghi has said the ECB won’t hesitate to act if it believes recent financial-market turmoil or lower
+              oil prices will weigh further on inflation in the currency area.
+            </text>
+          </quote>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="South America"/>
+            <keyword name="Eastern Europe"/>
+            <keyword name="Western Europe"/>
+            <keyword name="Middle East and Western Asia"/>
+            <keyword name="Central and Eastern Asia"/>
+            <keyword name="Southern Asia"/>
+            <keyword name="Southeastern Asia"/>
+            <keyword name="Import/Export"/>
+            <keyword name="Inflation/Deflation"/>
+            <keyword name="Global Corporations"/>
+            <keyword name="Oil"/>
+          </keywords>
+          <sources>
+            <source>EuroStat.eu</source>
+            <source>Nasdaq.com</source>
+            <source>Valuewalk.com</source>
+            <source>Bloomberg.com</source>
+            <source>Investopedia.com</source>
+            <source>iEconomics.com</source>
+          </sources>
+        </section>
 
-  </sections>
-</bulletin>
-</bulletins>
+        <section>
+          <title>European deflation and oil price</title>
+          <chapter>
+            <paragraph>
+              Mario Draghi has said the ECB won’t hesitate to act if it believes recent financial-market turmoil or lower
+              oil prices will weigh further on inflation in the currency area. Why Europe is so influenced by lower oil price?
+            </paragraph>
+            <paragraph>
+              <list type="ordered">
+                <item>Middle east countries continue to pull out oil even if the price is now very low to put US in a difficult situation.</item>
+                <item>Oil extraction is very expansive for US compared to middle east, so they have economic difficulties.</item>
+                <item>Oil extraction is very expansive for US compared to middle east, so they have economic difficulties.</item>
+                <item>There are other countries with financial problems, they can not afford imported products.</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="North America"/>
+            <keyword name="South America"/>
+            <keyword name="Eastern Europe"/>
+            <keyword name="Western Europe"/>
+            <keyword name="Middle East and Western Asia"/>
+            <keyword name="Central and Eastern Asia"/>
+            <keyword name="Southern Asia"/>
+            <keyword name="Southeastern Asia"/>
+            <keyword name="Import/Export"/>
+            <keyword name="Inflation/Deflation"/>
+            <keyword name="Global Corporations"/>
+            <keyword name="Oil"/>
+          </keywords>
+          <sources>
+            <source>EuroStat.eu</source>
+            <source>Nasdaq.com</source>
+            <source>Valuewalk.com</source>
+            <source>Bloomberg.com</source>
+            <source>Investopedia.com</source>
+            <source>iEconomics.com</source>
+          </sources>
+        </section>
+
+        <section>
+          <title>2017: Switzerland goes into recession?</title>
+          <chapter>
+            <paragraph>
+              Switzerland is a great example of how it doesn’t matter all that much whether a country is a member of the EU or not,
+              even when it deeply depends on trading with it. It is also shows that under such a scenario, it doesn’t really matter
+              whether or not the country chooses to keep its own currency and central bank or to adopt the union’s own.
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>The beginning of everything:</title>
+            <paragraph>
+              In 2000 Switzerland opted out of the euro to keep his own monetary policy while routing 50% of his exports to the
+              European bloc at the same time, it was somewhat deceiving themselves. It may not share the euro, but it do share
+              the same kind of monetary policy, as it was pushed by the ECB into negative interest rates.
+            </paragraph>
+            <paragraph>
+              Some steps to Swiss’s recession:
+              <list type="ordered">
+                <item>Capital starting flow from EU to Switzerland.</item>
+                <item>To avoid capital flight, Swiss National Bank disconnect the franc to the euro.</item>
+                <item>Franc value grows stronger compared to euro.</item>
+                <item>Exports to the Eurozone fell for this.</item>
+                <item>Swiss companies are in financial difficulties.</item>
+                <item>GDP may drop in 2017, so Swiss could go in recession.</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <chapter>
+            <title>Consequential actions</title>
+            <paragraph>
+              When the ECB cut its key rates and unfolded a massive asset purchase programme, capital started flowing away from the
+              core Eurozone members in the direction of strong neighbour countries like Switzerland. Foreign reserves could only accumulate.
+              <list type="unordered">
+                <item>2012. ECB cut interest rates.</item>
+                <item>2013. Capital flight from euro area to Swiss.</item>
+                <item>2014. To avoid capital flight, SNB put negative interest rates.</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Unconventional Monetary Policies"/>
+            <keyword name="Western Europe"/>
+            <keyword name="Governance"/>
+            <keyword name="Currencies"/>
+            <keyword name="Interest Rates"/>
+          </keywords>
+          <sources>
+            <source>EuroStat.eu</source>
+            <source>Nasdaq.com</source>
+            <source>Valuewalk.com</source>
+            <source>Bloomberg.com</source>
+            <source>Investopedia.com</source>
+            <source>iEconomics.com</source>
+          </sources>
+        </section>
+
+        <section>
+          <title>Bad stats</title>
+          <chapter>
+            <paragraph>
+              All the SNB has achieved is to import deflation from the Eurozone. Prices are currently decreasing at an annual pace of -1.3%.
+              The higher franc is causing a contraction in manufacturing due to the negative impact on external demand. GDP is still growing but
+              at ever lower rates. If the ECB expands its bond buying, the Swiss problem will aggravate and the country will most likely enter recession.
+            </paragraph>
+          </chapter>
+          <graph unit="%" x="​string" y="number">
+            <title>Financial data comparation - Switzerland</title>
+            <dataset label="Swiss values">
+              <data x="GDP growth rate" y="0.4"/>
+              <data x="interes rate" y="-0.75"/>
+              <data x="manufacturing production" y="-3.94"/>
+              <data x="industrial production" y="-4.5"/>
+              <data x="Inflation rate" y="-0.8"/>
+              <data x="2015 market index ate" y="-10"/>
+            </dataset>
+          </graph>
+          <graph unit="%" x="​string" y="number">
+            <title>Financial data comparation - Eurozone</title>
+            <dataset label="EU values">
+              <data x="GDP rowth rate" y="0.3"/>
+              <data x="interest rate" y="-0"/>
+              <data x="manufacturing production" y="-0.4"/>
+              <data x="industrial production" y="-1.3"/>
+              <data x="Inflation rate" y="-0.2"/>
+              <data x="2015 market index rate" y="3"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Currencies" />
+            <keyword name="Western Europe" />
+            <keyword name="Governance" />
+            <keyword name="Interest Rates" />
+            <keyword name="GDP" />
+            <keyword name="Inflation/Deflation" />
+            <keyword name="Interest Rates" />
+            <keyword name="Manufacturing" />
+          </keywords>
+          <sources>
+            <source>EuroStat.eu</source>
+            <source>Nasdaq.com</source>
+            <source>Valuewalk.com</source>
+            <source>Bloomberg.com</source>
+            <source>Investopedia.com</source>
+            <source>iEconomics.com</source>
+          </sources>
+        </section>
+
+        <section>
+          <title>An overvalued index</title>
+          <chapter>
+            <paragraph>
+              In 2015, the SMI index is down 10%, underperforming wider European markets. According
+              to data collected by Star Capital, Switzerland ranks at the 37th of 40 positions in terms
+              of valuation, which means that financial markets in Switzerland are largely overvalued.
+            </paragraph>
+          </chapter>
+          <graph unit="CHF" x="date" y="number">
+            <title>Foreign Exchange Reserves in Swiss Jul 2011 | Feb 2016</title>
+            <dataset label="Exchange value">
+              <data x="2011" y="330,000"/>
+              <data x="2012" y="485,000"/>
+              <data x="2013" y="480,000"/>
+              <data x="2014" y="495,000"/>
+              <data x="2015" y="595,000"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Currencies" />
+            <keyword name="Western Europe" />
+            <keyword name="Governance" />
+          </keywords>
+          <sources>
+            <source>EuroStat.eu</source>
+            <source>Nasdaq.com</source>
+            <source>Valuewalk.com</source>
+            <source>Bloomberg.com</source>
+            <source>Investopedia.com</source>
+            <source>iEconomics.com</source>
+          </sources>
+        </section>
+
+        <section>
+          <title>Export, we have a problem</title>
+          <chapter>
+            <paragraph>
+              Exports to the Eurozone account for around 50% of Switzerland’s total exports. With the franc
+              rising against the euro, it comes as no surprise that exports to the Eurozone fell 7% last year.
+              So far, Swiss companies have been playing with margins, cutting costs and improve efficiency.
+            </paragraph>
+          </chapter>
+          <graph unit="%" x="date" y="number">
+            <title>Export rate from Swiss to Eurozone 2014 | 2016</title>
+            <dataset label="Export rate">
+              <data x="2013" y="50"/>
+              <data x="2014" y="50"/>
+              <data x="2015" y="43"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Currencies" />
+            <keyword name="Western Europe" />
+            <keyword name="Import/Export" />
+            <keyword name="Global Corporations" />
+          </keywords>
+          <sources>
+            <source>EuroStat.eu</source>
+            <source>Nasdaq.com</source>
+            <source>Valuewalk.com</source>
+            <source>Bloomberg.com</source>
+            <source>Investopedia.com</source>
+            <source>iEconomics.com</source>
+          </sources>
+        </section>
+
+      </sections>
+    </bulletin>
+  </bulletins>

@@ -1,339 +1,339 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bullettins>
- <title>Gold Fever</title>
- <authors>
-  <author>Noemi Incardona</author>
-  <author>Fabiana Mangano</author>
-  <author>Alessandra Neri</author>
- </authors>
- <bullettin id="03" date="20160319">
-  <sections>
-    <section>
-      <title>Why gold price rise up?</title>
-      <chapter>
-        <title>Brexit</title>
+  <title>Gold Fever</title>
+  <authors>
+    <author>Noemi Incardona</author>
+    <author>Fabiana Mangano</author>
+    <author>Alessandra Neri</author>
+  </authors>
+  <bullettin id="03" date="20160319">
+    <sections>
+      <section>
+        <title>Why gold price rise up?</title>
+        <chapter>
+          <title>Brexit</title>
           <paragraph>
             Investors most likely are carefully watching the Brexit,
             which could happen in June 2016. With concerns over whether Britain will leave the European Union, gold
             beginning of 2016. In February major bullion dealers have seen an increase in the number of new customers,
             higher transaction values as well as younger customers than the norm in the long term.</paragraph>
-      </chapter>
-      <graph unit= "%" x="string" y="percentage">
-           <title>People pro Brexit</title>
-           <dataset label="Brexit vote">
+          </chapter>
+          <graph unit= "%" x="string" y="percentage">
+            <title>People pro Brexit</title>
+            <dataset label="Brexit vote">
               <data x= "Over sixty pro Brexit" y="56"/>
               <data x= "Under theerty versus Brexit" y="44"/>
             </dataset>
-           </graph>
-      <graph unit= "%" x="string" y="number">
-                 <title>Gold investors before Brexit issue</title>
-                 <dataset label="Gold investors">
-                    <data x= "Over sixty investors" y="30"/>
-                    <data x= "Under theerty investors" y="4"/>
-                  </dataset>
-      </graph>
-      <graph unit= "%" x="string" y="number">
-       <title>Gold investors after Brexit issue</title>
-       <dataset label="Gold investors">
-        <data x= "Over sixty investors" y="7"/>
-        <data x= "Under theerty investors" y="17"/>
-       </dataset>
-       </graph>
-      <chapter>
-       <title>Geopolitical conflicts</title>
-           <paragraph>
-             Gold is considered by the experts, and has been proven in history,
-             as a shield against any economic and geopolitical storms of all kinds. Amid the global crisis of any kind, only
-             gold maintains or increases its value. The category of "had asset" includes all investments (tangible assets) that
-             retain their value over time, despite periods of uncertainty or high inflation, offering protection against wars,
-             cataclysms currency and economic crisis.</paragraph>
-       </chapter>
-      <chapter>
-         <title>Ucraina</title>
-          <paragraph>
-           Putin said that if Ukraine will enter NATO and its territory will be placed in
-           new Covenant weapon systems, then Russia will aim its nuclear missiles at targets in the former Soviet republic.
-         </paragraph>
-       </chapter>
-      <chapter>
-          <title>Syria, Iraq, Iran</title>
-           <paragraph>
-            For decades, the Middle East is the main outbreak of wars in the world, and
-            in recent months it seems that there has been a further precipitation of the situation,
-            caused by Isis terrorist threats.
-          </paragraph>
-        </chapter>
-      <chapter>
-           <title>North and Sud Corea</title>
+          </graph>
+          <graph unit= "%" x="string" y="number">
+            <title>Gold investors before Brexit issue</title>
+            <dataset label="Gold investors">
+              <data x= "Over sixty investors" y="30"/>
+              <data x= "Under theerty investors" y="4"/>
+            </dataset>
+          </graph>
+          <graph unit= "%" x="string" y="number">
+            <title>Gold investors after Brexit issue</title>
+            <dataset label="Gold investors">
+              <data x= "Over sixty investors" y="7"/>
+              <data x= "Under theerty investors" y="17"/>
+            </dataset>
+          </graph>
+          <chapter>
+            <title>Geopolitical conflicts</title>
             <paragraph>
-             Sixty years have passed since the Korean War and the two republics are still
-             without a formal armistice.The major danger of the Korean War is the real danger of nuclear weapons use.
-           </paragraph>
-         </chapter>
-      <chapter>
-            <title>Africa</title>
-             <paragraph>
-              At the moment in Africa there are 25 countries at war, where fighting against governments or
-              against each other about 150 groups of rebels militias, separatist groups or anarchists.
-            </paragraph>
-          </chapter>
-      <graph unit= "Dollar/oz" x="date" y="number">
-        <title>Interest rates</title>
-                  <abstract>
-                    When interest rates are negative gold prise rise up and goes down when they are positive.				                            <!-- max 144 char-->
-                  </abstract>
-        <dataset label="Gold price">
-                  <data x= "1995" y="1,800"/>
-                  <data x= "1996" y="1,400"/>
-                  <data x= "1997" y="1,600"/>
-                  <data x= "1998" y="1,400"/>
-                  <data x= "1999" y="1,900"/>
-                  <data x= "2000" y="1,550"/>
-                  <data x= "2001" y="1,300"/>
-                  <data x= "2002" y="1,200"/>
-                  <data x= "2003" y="1,000"/>
-                  <data x= "2004" y="1,000"/>
-                  <data x= "2005" y="1,000"/>
-                  <data x= "2006" y="1,150"/>
-                  <data x= "2015" y="1,150"/>
-                  <data x= "2007" y="1,000"/>
-                  <data x= "2008" y="550"/>
-                  <data x= "2009" y="900"/>
-                  <data x= "2010" y="800"/>
-                  <data x= "2011" y="410"/>
-                  <data x= "2012" y="400"/>
-                  <data x= "2013" y="650"/>
-                  <data x= "2014" y="400"/>
-          </dataset>
-      </graph>
-      <graph unit= "$/oz" x="date" y="number">
-        <title>The Gibson's paradox</title>                                    <!--[0-1]-->
-          <abstract>							                                      <!--[0-1]-->
-              That relationship is not in tune with the quantity theory of money.					                            <!-- max 144 char-->
-                  </abstract>
-       <dataset label="Gold price">
-                  <data x= "1968" y="200"/>
-                  <data x= "1970" y="350"/>
-                  <data x= "1972" y="150"/>
-                  <data x= "1974" y="350"/>
-                  <data x= "1976" y="350"/>
-                  <data x= "1978" y="290"/>
-                  <data x= "1980" y="590"/>
-          </dataset>
-      </graph>
-      <graph unit= "Yield" x="date" y="number">
-            <title>The Gibson's paradox</title>                                    <!--[0-1]-->
-              <abstract>							                                      <!--[0-1]-->
-                  That relationship is not in tune with the quantity theory of money.					                            <!-- max 144 char-->
-                      </abstract>
-            <dataset label="Gold price">
-                      <data x= "1968" y="1"/>
-                      <data x= "1970" y="1"/>
-                      <data x= "1972" y="1.50"/>
-                      <data x= "1974" y="2.50"/>
-                      <data x= "1976" y="3.90"/>
-                      <data x= "1978" y="4"/>
-                      <data x= "1980" y="14"/>
-              </dataset>
-      </graph>
-      <keywords>
-            <keyword name="Brexit" /><keyword name="Citizenship" /><keyword name="Western Europe" />
-            <keyword name="North Africa" /><keyword name="Central Africa" />
-            <keyword name="Eastern europe" /><keyword name="Middle East and western Asia" />
-            <keyword name="Interest rates" /><keyword name="Gold" />
-          </keywords>
-      <sources>
-            <source>morningstar.co.uk</source>
-            <source>ilsole24ore.com</source>
-            <source>marketrealist.com</source>
-          </sources>
-    </section>
-    <section>
-      <title>Federal Reserve's interest rates</title>
-      <chapter>
-          <paragraph>
-             Gold snapped a three-day losing streak after Federal Reserve
-             officials held off from raising borrowing costs and scaled back
-             forecasts for how high interest rates will rise this year.
-             The Fed kept the target range for the benchmark rate at 0.25
-             percent to 0.5 percent, according to a statement Wednesday following a two-day meeting.</paragraph>
-      </chapter>
-      <graph unit= "%" x="data" y="number">
-         <dataset label="FED's interest rates">
-              <data x= "2011" y="0.25"/>
-              <data x= "2012" y="0.25"/>
-              <data x= "2013" y="0.25"/>
-              <data x= "2014" y="0.25"/>
-              <data x= "2015" y="0.25"/>
-              <data x= "2016" y="0.50"/>
-         </dataset>
-      </graph>
-      <keywords>
-            <keyword name="North America" /><keyword name="Interest Rates" />
-          </keywords>
-      <sources>
-            <source>investing.com</source>
-            <source>bloomberg.com</source>
-          </sources>
-    </section>
-    <section>
-      <title>Bank of Japans' interest rates</title>
-      <chapter>
-          <paragraph>
-               Japan’s negative interest rates are boosting demand for gold,
-               according to the nation’s biggest bullion retailer.
-               International prices have rallied 18 percent this year as
-               investors seek a haven from financial market turmoil.</paragraph>
-        </chapter>
-      <graph unit= "%" x="data" y="number">
-           <dataset label="BOJ's interest rates">
-                <data x= "2011" y="0.05"/>
-                <data x= "2012" y="0.05"/>
-                <data x= "2013" y="0.05"/>
-                <data x= "2014" y="0.05"/>
-                <data x= "2015" y="0.05"/>
-                <data x= "2016" y="-0.10"/>
-           </dataset>
-        </graph>
-      <graph unit= "JPY/oz" x="data" y="number">
-                     <dataset label="Gold price">
-                          <data x= "20160307" y="142,500"/>
-                          <data x= "20160308" y="142,950"/>
-                          <data x= "20160309" y="142,500"/>
-                          <data x= "20160310" y="143,000"/>
-                          <data x= "20160311" y="144,600"/>
-                     </dataset>
-                  </graph>
-      <keywords>
-        <keyword name="Central and Eastern Asia" /><keyword name="Interest Rates" />
-      </keywords>
-      <sources>
-        <source>investing.com</source>
-        <source>bloomberg.com</source>
-      </sources>
-    </section>
-    <section>
-      <title>European Central Bank's interest rates</title>
-      <chapter>
-              <paragraph>
-                   Draghi explained how the new moves are designed to " further
-                   facilitate the conditions of access to credit " and bring the
-                   eurozone closer to the goal of inflation to 2% (in February, the
-                   latest Eurostat survey, the rates were negative).</paragraph>
+              Gold is considered by the experts, and has been proven in history,
+              as a shield against any economic and geopolitical storms of all kinds. Amid the global crisis of any kind, only
+              gold maintains or increases its value. The category of "had asset" includes all investments (tangible assets) that
+              retain their value over time, despite periods of uncertainty or high inflation, offering protection against wars,
+              cataclysms currency and economic crisis.</paragraph>
             </chapter>
-      <graph unit= "%" x="date" y="number">
-               <dataset label="BCE's interest rates">
-                    <data x= "2011" y="1.25"/>
-                    <data x= "2012" y="0.75"/>
-                    <data x= "2013" y="0.50"/>
-                    <data x= "2014" y="0.25"/>
-                    <data x= "2015" y="0.05"/>
-                    <data x= "2016" y="0"/>
-               </dataset>
+            <chapter>
+              <title>Ucraina</title>
+              <paragraph>
+                Putin said that if Ukraine will enter NATO and its territory will be placed in
+                new Covenant weapon systems, then Russia will aim its nuclear missiles at targets in the former Soviet republic.
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>Syria, Iraq, Iran</title>
+              <paragraph>
+                For decades, the Middle East is the main outbreak of wars in the world, and
+                in recent months it seems that there has been a further precipitation of the situation,
+                caused by Isis terrorist threats.
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>North and Sud Corea</title>
+              <paragraph>
+                Sixty years have passed since the Korean War and the two republics are still
+                without a formal armistice.The major danger of the Korean War is the real danger of nuclear weapons use.
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>Africa</title>
+              <paragraph>
+                At the moment in Africa there are 25 countries at war, where fighting against governments or
+                against each other about 150 groups of rebels militias, separatist groups or anarchists.
+              </paragraph>
+            </chapter>
+            <graph unit= "Dollar/oz" x="date" y="number">
+              <title>Interest rates</title>
+              <abstract>
+                When interest rates are negative gold prise rise up and goes down when they are positive.				                            <!-- max 144 char-->
+              </abstract>
+              <dataset label="Gold price">
+                <data x= "1995" y="1,800"/>
+                <data x= "1996" y="1,400"/>
+                <data x= "1997" y="1,600"/>
+                <data x= "1998" y="1,400"/>
+                <data x= "1999" y="1,900"/>
+                <data x= "2000" y="1,550"/>
+                <data x= "2001" y="1,300"/>
+                <data x= "2002" y="1,200"/>
+                <data x= "2003" y="1,000"/>
+                <data x= "2004" y="1,000"/>
+                <data x= "2005" y="1,000"/>
+                <data x= "2006" y="1,150"/>
+                <data x= "2015" y="1,150"/>
+                <data x= "2007" y="1,000"/>
+                <data x= "2008" y="550"/>
+                <data x= "2009" y="900"/>
+                <data x= "2010" y="800"/>
+                <data x= "2011" y="410"/>
+                <data x= "2012" y="400"/>
+                <data x= "2013" y="650"/>
+                <data x= "2014" y="400"/>
+              </dataset>
             </graph>
-      <keywords>
-        <keyword name="Eastern Europe" /><keyword name="Interest Rates" />
-      </keywords>
-      <sources>
-        <source>investing.com</source>
-        <source>bloomberg.com</source>
-      </sources>
-      </section>
-    <section>
-      <title>Chinese Popolar Bank's interest rates</title>
-      <chapter>
-        <paragraph>
-          The storm that hit China on financial markets in starting the
-          2016 casts uncertainty investors, now dominated by a strong
-          aversion to risk and fear that speculative attacks can decimate their savings.
-          Chinese market swinging too, this is typical of a speculative market.</paragraph>
-      </chapter>
-      <graph unit= "%" x="date" y="number">
-        <dataset label="PBOC's interest rates">
-          <data x= "2011" y="5"/>
-          <data x= "2012" y="5.80"/>
-          <data x= "2013" y="5.10"/>
-          <data x= "2014" y="4.60"/>
-          <data x= "2015" y="4.50"/>
-          <data x= "2016" y="4.35"/>
-        </dataset>
-      </graph>
-      <keywords>
-        <keyword name="Central and Eastern Asia" /><keyword name="Interest Rates" />
-      </keywords>
-      <sources>
-        <source>investing.com</source>
-        <source>bloomberg.com</source>
-      </sources>
-    </section>
-    <section>
-      <title>Central Bank's strategies</title>
-      <graph unit= "%" x="string" y="number">
-        <dataset label="PBOC's interest rates">
-          <data x= "FED" y="0.50"/>
-          <data x= "BOJ" y="-0.10"/>
-          <data x= "BCE" y="0"/>
-          <data x= "PBOC" y="4.35"/>
-        </dataset>
-      </graph>
-      <keywords>
-        <keyword name="Central and Eastern Asia" /><keyword name="Eastern Europe" />
-        <keyword name="Interest Rates" /><keyword name="North America" />
-      </keywords>
-      <sources>
-        <source>investing.com</source>
-        <source>bloomberg.com</source>
-      </sources>
-    </section>
-    <section>
-      <title>Historical break</title>
-      <chapter>
-        <paragraph>
-          In 1914, with the beginning of the First World War, the full convertibility of gold money was abandoned,
-          except the United States.</paragraph> <paragraph>In 1913 was born the Federal Reserve.</paragraph>
-      </chapter>
-      <chapter>
-            <title>Federal reserve districts</title>
-            <list type="unordered">
-                <item>Boston</item>
-                <item>New York</item>
-                <item>Philadelphia</item>
-                <item>Cleveland</item>
-                <item>Richmond </item>
-                <item>Atlanta</item>
-                <item>Chicago </item>
-                <item>St. Louis</item>
-                <item>Minneapolis </item>
-                <item>Kansas City</item>
-                <item>Dallas </item>
-                <item>San Francisco</item>
-              </list>
-          </chapter>
-      <keywords>
-            <keyword name="Gold" /><keyword name="North America" />
-          </keywords>
-          <sources>
-      <source>gold-eagle.com</source>
-      </sources>
-    </section>
-    <section>
-      <title>Gold price, Week 11</title>
-      <graph unit="$/oz" x="date" y="number">
-        <dataset label= "Gold price">
-            <data x= "20160314" y="1,112"/>
-            <data x= "20160315" y="1,109"/>
-            <data x= "20160316" y="1,123"/>
-            <data x= "20160317" y="1,112"/>
-            <data x= "20160318" y="1,113"/>
-          </dataset>
-        </graph>
-      <keywords>
-          <keyword name="Gold" />
-      </keywords>
-      <sources>
-        <source>goldbroker.it</source>
-        </sources>
-      </section>
-  </sections>
-</bullettin>
-</bullettins>
+            <graph unit= "$/oz" x="date" y="number">
+              <title>The Gibson's paradox</title>                                    <!--[0-1]-->
+              <abstract>							                                      <!--[0-1]-->
+                That relationship is not in tune with the quantity theory of money.					                            <!-- max 144 char-->
+              </abstract>
+              <dataset label="Gold price">
+                <data x= "1968" y="200"/>
+                <data x= "1970" y="350"/>
+                <data x= "1972" y="150"/>
+                <data x= "1974" y="350"/>
+                <data x= "1976" y="350"/>
+                <data x= "1978" y="290"/>
+                <data x= "1980" y="590"/>
+              </dataset>
+            </graph>
+            <graph unit= "Yield" x="date" y="number">
+              <title>The Gibson's paradox</title>                                    <!--[0-1]-->
+              <abstract>							                                      <!--[0-1]-->
+                That relationship is not in tune with the quantity theory of money.					                            <!-- max 144 char-->
+              </abstract>
+              <dataset label="Gold price">
+                <data x= "1968" y="1"/>
+                <data x= "1970" y="1"/>
+                <data x= "1972" y="1.50"/>
+                <data x= "1974" y="2.50"/>
+                <data x= "1976" y="3.90"/>
+                <data x= "1978" y="4"/>
+                <data x= "1980" y="14"/>
+              </dataset>
+            </graph>
+            <keywords>
+              <keyword name="Brexit" /><keyword name="Citizenship" /><keyword name="Western Europe" />
+              <keyword name="North Africa" /><keyword name="Central Africa" />
+              <keyword name="Eastern europe" /><keyword name="Middle East and western Asia" />
+              <keyword name="Interest rates" /><keyword name="Gold" />
+            </keywords>
+            <sources>
+              <source>morningstar.co.uk</source>
+              <source>ilsole24ore.com</source>
+              <source>marketrealist.com</source>
+            </sources>
+          </section>
+          <section>
+            <title>Federal Reserve's interest rates</title>
+            <chapter>
+              <paragraph>
+                Gold snapped a three-day losing streak after Federal Reserve
+                officials held off from raising borrowing costs and scaled back
+                forecasts for how high interest rates will rise this year.
+                The Fed kept the target range for the benchmark rate at 0.25
+                percent to 0.5 percent, according to a statement Wednesday following a two-day meeting.</paragraph>
+              </chapter>
+              <graph unit= "%" x="data" y="number">
+                <dataset label="FED's interest rates">
+                  <data x= "2011" y="0.25"/>
+                  <data x= "2012" y="0.25"/>
+                  <data x= "2013" y="0.25"/>
+                  <data x= "2014" y="0.25"/>
+                  <data x= "2015" y="0.25"/>
+                  <data x= "2016" y="0.50"/>
+                </dataset>
+              </graph>
+              <keywords>
+                <keyword name="North America" /><keyword name="Interest Rates" />
+              </keywords>
+              <sources>
+                <source>investing.com</source>
+                <source>bloomberg.com</source>
+              </sources>
+            </section>
+            <section>
+              <title>Bank of Japans' interest rates</title>
+              <chapter>
+                <paragraph>
+                  Japan’s negative interest rates are boosting demand for gold,
+                  according to the nation’s biggest bullion retailer.
+                  International prices have rallied 18 percent this year as
+                  investors seek a haven from financial market turmoil.</paragraph>
+                </chapter>
+                <graph unit= "%" x="data" y="number">
+                  <dataset label="BOJ's interest rates">
+                    <data x= "2011" y="0.05"/>
+                    <data x= "2012" y="0.05"/>
+                    <data x= "2013" y="0.05"/>
+                    <data x= "2014" y="0.05"/>
+                    <data x= "2015" y="0.05"/>
+                    <data x= "2016" y="-0.10"/>
+                  </dataset>
+                </graph>
+                <graph unit= "JPY/oz" x="data" y="number">
+                  <dataset label="Gold price">
+                    <data x= "20160307" y="142,500"/>
+                    <data x= "20160308" y="142,950"/>
+                    <data x= "20160309" y="142,500"/>
+                    <data x= "20160310" y="143,000"/>
+                    <data x= "20160311" y="144,600"/>
+                  </dataset>
+                </graph>
+                <keywords>
+                  <keyword name="Central and Eastern Asia" /><keyword name="Interest Rates" />
+                </keywords>
+                <sources>
+                  <source>investing.com</source>
+                  <source>bloomberg.com</source>
+                </sources>
+              </section>
+              <section>
+                <title>European Central Bank's interest rates</title>
+                <chapter>
+                  <paragraph>
+                    Draghi explained how the new moves are designed to " further
+                    facilitate the conditions of access to credit " and bring the
+                    eurozone closer to the goal of inflation to 2% (in February, the
+                    latest Eurostat survey, the rates were negative).</paragraph>
+                  </chapter>
+                  <graph unit= "%" x="date" y="number">
+                    <dataset label="BCE's interest rates">
+                      <data x= "2011" y="1.25"/>
+                      <data x= "2012" y="0.75"/>
+                      <data x= "2013" y="0.50"/>
+                      <data x= "2014" y="0.25"/>
+                      <data x= "2015" y="0.05"/>
+                      <data x= "2016" y="0"/>
+                    </dataset>
+                  </graph>
+                  <keywords>
+                    <keyword name="Eastern Europe" /><keyword name="Interest Rates" />
+                  </keywords>
+                  <sources>
+                    <source>investing.com</source>
+                    <source>bloomberg.com</source>
+                  </sources>
+                </section>
+                <section>
+                  <title>Chinese Popolar Bank's interest rates</title>
+                  <chapter>
+                    <paragraph>
+                      The storm that hit China on financial markets in starting the
+                      2016 casts uncertainty investors, now dominated by a strong
+                      aversion to risk and fear that speculative attacks can decimate their savings.
+                      Chinese market swinging too, this is typical of a speculative market.</paragraph>
+                    </chapter>
+                    <graph unit= "%" x="date" y="number">
+                      <dataset label="PBOC's interest rates">
+                        <data x= "2011" y="5"/>
+                        <data x= "2012" y="5.80"/>
+                        <data x= "2013" y="5.10"/>
+                        <data x= "2014" y="4.60"/>
+                        <data x= "2015" y="4.50"/>
+                        <data x= "2016" y="4.35"/>
+                      </dataset>
+                    </graph>
+                    <keywords>
+                      <keyword name="Central and Eastern Asia" /><keyword name="Interest Rates" />
+                    </keywords>
+                    <sources>
+                      <source>investing.com</source>
+                      <source>bloomberg.com</source>
+                    </sources>
+                  </section>
+                  <section>
+                    <title>Central Bank's strategies</title>
+                    <graph unit= "%" x="string" y="number">
+                      <dataset label="PBOC's interest rates">
+                        <data x= "FED" y="0.50"/>
+                        <data x= "BOJ" y="-0.10"/>
+                        <data x= "BCE" y="0"/>
+                        <data x= "PBOC" y="4.35"/>
+                      </dataset>
+                    </graph>
+                    <keywords>
+                      <keyword name="Central and Eastern Asia" /><keyword name="Eastern Europe" />
+                      <keyword name="Interest Rates" /><keyword name="North America" />
+                    </keywords>
+                    <sources>
+                      <source>investing.com</source>
+                      <source>bloomberg.com</source>
+                    </sources>
+                  </section>
+                  <section>
+                    <title>Historical break</title>
+                    <chapter>
+                      <paragraph>
+                        In 1914, with the beginning of the First World War, the full convertibility of gold money was abandoned,
+                        except the United States.</paragraph> <paragraph>In 1913 was born the Federal Reserve.</paragraph>
+                      </chapter>
+                      <chapter>
+                        <title>Federal reserve districts</title>
+                        <list type="unordered">
+                          <item>Boston</item>
+                          <item>New York</item>
+                          <item>Philadelphia</item>
+                          <item>Cleveland</item>
+                          <item>Richmond </item>
+                          <item>Atlanta</item>
+                          <item>Chicago </item>
+                          <item>St. Louis</item>
+                          <item>Minneapolis </item>
+                          <item>Kansas City</item>
+                          <item>Dallas </item>
+                          <item>San Francisco</item>
+                        </list>
+                      </chapter>
+                      <keywords>
+                        <keyword name="Gold" /><keyword name="North America" />
+                      </keywords>
+                      <sources>
+                        <source>gold-eagle.com</source>
+                      </sources>
+                    </section>
+                    <section>
+                      <title>Gold price, Week 11</title>
+                      <graph unit="$/oz" x="date" y="number">
+                        <dataset label= "Gold price">
+                          <data x= "20160314" y="1,112"/>
+                          <data x= "20160315" y="1,109"/>
+                          <data x= "20160316" y="1,123"/>
+                          <data x= "20160317" y="1,112"/>
+                          <data x= "20160318" y="1,113"/>
+                        </dataset>
+                      </graph>
+                      <keywords>
+                        <keyword name="Gold" />
+                      </keywords>
+                      <sources>
+                        <source>goldbroker.it</source>
+                      </sources>
+                    </section>
+                  </sections>
+                </bullettin>
+              </bullettins>

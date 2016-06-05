@@ -15,522 +15,522 @@
         <quote>
           <author>Janet Yellen</author>
           <text>The United States economy remained on track despite a rough start to the year.
-Reflecting global economic and financial developments since December, however,
-the pace of rate increases is now expected to be somewhat slower.</text>
-        </quote>
-        <chapter>
-          <paragraph>On Tuesday, Janet Yellen the Federal Reserve womanchair, she decided
-to continue with Dovish strategy, during the second meeting.
-So, she said the Fed still intended to pursue a careful, patient course toward higher interest rates as the economy improved.
-These words caused reactions to other countries, especially about Asia economy.</paragraph>
-        </chapter>
-        <keywords>
-          <keyword name="Governance" />
-          <keyword name="North America" />
-        </keywords>
-        <sources>
-          <source>The Washington Post</source>
-          <source>investors.com</source>
-        </sources>
-      </section>
-      <section>
-        <title>Exchange Rate</title>
-        <abstract>The currency exchange rate before and after Fed governor speech</abstract>
-        <table>
-          <row type="head">
-            <cell>State</cell>
-            <cell>March 29th</cell>
-            <cell>March 30th</cell>
-          </row>
-          <row type="cell">
-            <cell>US</cell>
-            <cell>95.163</cell>
-            <cell>94.836</cell>
-          </row>
-            <row type="cell">
-              <cell>CN</cell>
-              <cell>6.49017</cell>
-              <cell>6.47408</cell>
-            </row>
+            Reflecting global economic and financial developments since December, however,
+            the pace of rate increases is now expected to be somewhat slower.</text>
+          </quote>
+          <chapter>
+            <paragraph>On Tuesday, Janet Yellen the Federal Reserve womanchair, she decided
+              to continue with Dovish strategy, during the second meeting.
+              So, she said the Fed still intended to pursue a careful, patient course toward higher interest rates as the economy improved.
+              These words caused reactions to other countries, especially about Asia economy.</paragraph>
+            </chapter>
+            <keywords>
+              <keyword name="Governance" />
+              <keyword name="North America" />
+            </keywords>
+            <sources>
+              <source>The Washington Post</source>
+              <source>investors.com</source>
+            </sources>
+          </section>
+          <section>
+            <title>Exchange Rate</title>
+            <abstract>The currency exchange rate before and after Fed governor speech</abstract>
+            <table>
+              <row type="head">
+                <cell>State</cell>
+                <cell>March 29th</cell>
+                <cell>March 30th</cell>
+              </row>
+              <row type="cell">
+                <cell>US</cell>
+                <cell>95.163</cell>
+                <cell>94.836</cell>
+              </row>
+              <row type="cell">
+                <cell>CN</cell>
+                <cell>6.49017</cell>
+                <cell>6.47408</cell>
+              </row>
               <row type="cell">
                 <cell>AU</cell>
                 <cell>0.76261</cell>
                 <cell>0.76696</cell>
               </row>
-                <row type="cell">
-                  <cell>KR</cell>
-                  <cell>1,154.82</cell>
-                  <cell>1,150.68</cell>
-                </row>
-                  <row type="cell">
-                    <cell>JP</cell>
-                    <cell>112.646</cell>
-                    <cell>112.437</cell>
-                  </row>
-        </table>
-        <graph unit="%" x="string" y="number">
-          <title>Currency Market Effects</title>
-          <abstract>The currencies market change after the Yellen speech</abstract>
-          <dataset label= "Currencies earnings">
-            <data x="USD" y="-0.17"/>
-            <data x="CNY" y="-0.12"/>
-            <data x="AUS" y="0.28"/>
-            <data x="KRW" y="-0.18"/>
-            <data x="JPY" y="0.09"/>
-          </dataset>
-          </graph>
-        <keywords>
-          <keyword name="Currencies" />
-        </keywords>
-        <sources>
-          <source>tradingeconomics.com</source>
-        </sources>
-      </section>
-      <section>
-        <title>Stock Market</title>
-        <abstract>Stock Market effect after Fed governor speech</abstract>
-        <table>
-          <row type="head">
-            <cell>State</cell>
-            <cell>Stock Exchange</cell>
-            <cell>Change</cell>
-          </row>
-          <row type="cell">
-            <cell>US</cell>
-            <cell>Down Jones</cell>
-            <cell>0.56</cell>
-          </row>
-          <row type="cell">
-            <cell>US</cell>
-            <cell>SP 500</cell>
-            <cell>0.88</cell>
-          </row>
-          <row type="cell">
-            <cell>US</cell>
-            <cell>Nasdaq</cell>
-            <cell>1.67</cell>
-          </row>
-            <row type="cell">
-              <cell>CN</cell>
-              <cell>SSE Composite</cell>
-              <cell>2.90</cell>
-            </row>
-            <row type="cell">
-              <cell>CN</cell>
-              <cell>Hang Seng</cell>
-              <cell>1.71</cell>
-            </row>
+              <row type="cell">
+                <cell>KR</cell>
+                <cell>1,154.82</cell>
+                <cell>1,150.68</cell>
+              </row>
+              <row type="cell">
+                <cell>JP</cell>
+                <cell>112.646</cell>
+                <cell>112.437</cell>
+              </row>
+            </table>
+            <graph unit="%" x="string" y="number">
+              <title>Currency Market Effects</title>
+              <abstract>The currencies market change after the Yellen speech</abstract>
+              <dataset label= "Currencies earnings">
+                <data x="USD" y="-0.17"/>
+                <data x="CNY" y="-0.12"/>
+                <data x="AUS" y="0.28"/>
+                <data x="KRW" y="-0.18"/>
+                <data x="JPY" y="0.09"/>
+              </dataset>
+            </graph>
+            <keywords>
+              <keyword name="Currencies" />
+            </keywords>
+            <sources>
+              <source>tradingeconomics.com</source>
+            </sources>
+          </section>
+          <section>
+            <title>Stock Market</title>
+            <abstract>Stock Market effect after Fed governor speech</abstract>
+            <table>
+              <row type="head">
+                <cell>State</cell>
+                <cell>Stock Exchange</cell>
+                <cell>Change</cell>
+              </row>
+              <row type="cell">
+                <cell>US</cell>
+                <cell>Down Jones</cell>
+                <cell>0.56</cell>
+              </row>
+              <row type="cell">
+                <cell>US</cell>
+                <cell>SP 500</cell>
+                <cell>0.88</cell>
+              </row>
+              <row type="cell">
+                <cell>US</cell>
+                <cell>Nasdaq</cell>
+                <cell>1.67</cell>
+              </row>
+              <row type="cell">
+                <cell>CN</cell>
+                <cell>SSE Composite</cell>
+                <cell>2.90</cell>
+              </row>
+              <row type="cell">
+                <cell>CN</cell>
+                <cell>Hang Seng</cell>
+                <cell>1.71</cell>
+              </row>
               <row type="cell">
                 <cell>AU</cell>
                 <cell>SP/ASX 200</cell>
                 <cell>0.12</cell>
               </row>
-                <row type="cell">
-                  <cell>KR</cell>
-                  <cell>Kospi</cell>
-                  <cell>0.36</cell>
-                </row>
-                  <row type="cell">
-                    <cell>JP</cell>
-                    <cell>Nikkei 225</cell>
-                    <cell>-1.31</cell>
-                  </row>
-        </table>
-        <keywords>
-          <keyword name="Investments" />
-        </keywords>
-        <sources>
-          <source>tradingeconomics.com</source>
-        </sources>
-      </section>
-      <section>
-        <title>Effects after Fed governor speech</title>
-        <chapter>
-          <title>US after Yellen speech</title>
-          <paragraph>While she penalizes the dollar on the currency market, recently it wobbled. After two months
-of nightmare, the US stock has reacted well. For all three stocks would be the best monthly performance since October.</paragraph>
-        </chapter>
-        <graph unit="USD" x="date" y="number">
-          <title>The US Stock Market Reaction</title>
-          <dataset label= "USD Stock Market">
-            <data x="2010" y="11,000"/>
-            <data x="2012" y="12,450"/>
-            <data x="2014" y="14,800"/>
-            <data x="2016" y="16,900"/>
-          </dataset>
-        </graph>
-        <chapter>
-      <title>China after Yellen speech</title>
-        <paragraph>The Chinese central bank strengthened yuan fixing as dollar dropped after the speech.
-In the money market in that day, the Chinese central bank injected $9.2 billion through seven-day reverse-repurchase agreement to maintain liquidity in the market.
-Over the past few months, the Chinese economy has been facing liquidity issue, prompting PBOC to conduct money market operation on daily basis.</paragraph>
-<paragraph>PBOC injected 60 billion yuan in the market.</paragraph>
-      </chapter>
-      <chapter>
-    <title>Australia after Yellen speech</title>
-      <paragraph>Australian stocks tracked a surge in the U.S. and bonds in the region climbed after the speech
-reasserted the central bank’s gradual approach to raising interest rates. Shares in Sydney
-snapped a three day decline after U.S. equities erased their losses for the year, with Yellen indicating
-deteriorating world growth warranted a slow approach to tightening monetary policy.</paragraph>
-<paragraph>Australian Dollar has rised 12% since mid-January.</paragraph>
-    </chapter>
-    <chapter>
-  <title>Effects in South Korea after Yellen speech</title>
-    <paragraph>The South Korean won notched a 2016 high on Wednesday morning after U.S. Federal Reserve Chair Janet Yellen speech.
-The won is likely to continue extending its gains in the near-term and find its footing at around the 1,140.0 level.
-The risk-off sentiment could still crop up given a shaky global oil price and a strengthening Japanese yen.</paragraph>
-<paragraph>The most important stock market is Samsung Electronics Co Ltd that were down about 0.50% after Fed governor speech.</paragraph>
-  </chapter>
-  <chapter>
-    <title>Japan after Yellen speech</title>
- <paragraph>The yen, which typically moves at odds with Japanese shares, was steady at 112.74 per dollar following a 0.7 percent bounce Tuesday that snapped its seven-day decline. The Japanese currency is headed for a 0.1 percent drop in March, after
-surging in February. The yen now has to contend with negative rates not having the desired effect,
-the Bank of Japan assessing other unconventional monetary policy options and a U.S. central bank unlikely to raise rates.</paragraph>
-</chapter>
-<graph unit="JPY" x="date" y="number">
-  <title></title>
-  <dataset label= "Japan Exports">
-    <data x="201504" y="6,550.23"/>
-    <data x="201507" y="6,663.77"/>
-    <data x="201510" y="6,543.96"/>
-    <data x="201601" y="5,351.64"/>
-    <data x="201604" y="5,463.82"/>
-  </dataset>
-</graph>
-<keywords>
-<keyword name="Southeastern Asia" />
-<keyword name="North America" />
-<keyword name="Southeastern Asia" />
-<keyword name="Central and Eastern Asia" />
-<keyword name="Currencies" />
-<keyword name="Import/Export" />
-</keywords>
-<sources>
-<source>tradingeconomics.com</source>
-<source>chinabusinessnews.com</source>
-<source>bloomberg.com</source>
-<source>economictimes.com</source>
-</sources>
-</section>
-<section>
-  <title>This week in monetary policy</title>
-  <abstract>weekly calendar of central banks meetings</abstract>
-  <chapter>
-    <title>Central Banks The world’s slow growth week’s meetings</title>
-    <paragraph>From March 28th to April 2nd, central banks from 8 countries or jurisdictions are scheduled to decide on monetary policy: Israel, Angola, Kyrgyzstan, Sri Lanka, Czech Republic, Romania, Moldova, Fiji.</paragraph>
-  </chapter>
-  <table>
-    <row type="head">
-      <cell>Date</cell>
-      <cell>Banks</cell>
-    </row>
-    <row type="cell">
-      <cell>March 28th</cell>
-      <cell>UZG, PFG, THI</cell>
-    </row>
-    <row type="cell">
-      <cell>March 29th</cell>
-      <cell>KRJ</cell>
-    </row>
-    <row type="cell">
-      <cell>March 31st</cell>
-      <cell>DLE, PAE, CAK, EJA</cell>
-    </row>
-  </table>
-  <keywords>
-          <keyword name="Interest Rates" />
-        </keywords>
-        <sources>
-          <source>centralbanknews.info</source>
-        </sources>
-</section>
-<section>
-  <title>The world's slow growth</title>
-  <graph unit="%" x="date" y="number">
-    <dataset label="Global Growth">
-      <data x="2013" y="2.4"/>
-      <data x="2014" y="2.6"/>
-      <data x="2015" y="2.4"/>
-      <data x="2016" y="2.9"/>
-      <data x="2017" y="3.1"/>
-      <data x="2018" y="3.1"/>
-    </dataset>
-  </graph>
-  <chapter>
-    <title>Global growth continues, but at a sluggish pace</title>
-    <paragraph>The world economy is exposed to risks. International Monetary Fund Managing Director Christine Lagarde warned that the recovery remains too slow, too fragile, with the risk that persistent low growth can have damaging effects on the social and political fabric of many countries.</paragraph>
-    <paragraph>Global growth is projected to reach 2.9 % in 2016, as a modest recovery in advanced economies continues and activity stabilizes among major commodity.</paragraph>
-    <paragraph>Forecasts is subject to downside risks, including a sharperslowdown in major emerging and developing economies.</paragraph>
-  </chapter>
-  <keywords>
-          <keyword name="Investments" />
-        </keywords>
-        <sources>
-          <source>imf.org</source>
-          <source>worldbank.org</source>
-        </sources>
-</section>
-<section>
-  <title>Inflation rate score</title>
-  <chapter>
-    <paragraph>Inflation is the rate at which the general level of prices for goods and services is rising and, consequently, the purchasing power of currency is falling. Central banks attempt to limit inflation, and avoid deflation, in order to keep the economy running smoothly.</paragraph>
-  </chapter>
-  <table>
-    <row type="head">
-      <cell>State</cell>
-      <cell>Current</cell>
-      <cell>Previous</cell>
-    </row>
-    <row type="cell">
-      <cell>China</cell>
-      <cell>2.3</cell>
-      <cell>1.8</cell>
-    </row>
-    <row type="cell">
-      <cell>Australia</cell>
-      <cell>1.7</cell>
-      <cell>1.5</cell>
-    </row>
-    <row type="cell">
-      <cell>United States</cell>
-      <cell>1.0</cell>
-      <cell>1.4</cell>
-    </row>
-    <row type="cell">
-      <cell>South Korea</cell>
-      <cell>1.0</cell>
-      <cell>1.3</cell>
-    </row>
-    <row type="cell">
-      <cell>Japan</cell>
-      <cell>0.3</cell>
-      <cell>0.0</cell>
-    </row>
-  </table>
-  <chapter>
-    <title>Global indicators</title>
-    <paragraph>
-      <list type="unordered">
-        <item>6.23 % GMPR - Global monetary policy rate</item>
-        <item>657.5 Total rate cuts (in Basis Point)</item>
-        <item>700 Total rate rises (in Basis Point)</item>
-      </list>
-    </paragraph>
-  </chapter>
-  <keywords>
-          <keyword name="Inflation/Deflation" />
-          <keyword name="Southeastern Asia" />
-          <keyword name="North America" />
-          <keyword name="Southeastern Asia" />
-          <keyword name="Central and Eastern Asia" />
-        </keywords>
-        <sources>
-          <source>tradingeconomics.com</source>
-          <source>investopedia.com</source>
-        </sources>
-</section>
-<section>
-  <title>How bigger is your debt?</title>
-  <abstract>By looking at level of gross gov.ment debt as a % of GDP, it can indicate how able a country is to pay back debts without incurring further debt.</abstract>
-  <graph unit="USD" x="country" y="number">
-    <title>Countries GDP</title>
-    <dataset label= "GDP">
-      <data x="US" y="19,153,149"/>
-      <data x="CN" y="5,386,014"/>
-      <data x="KR" y="491,528"/>
-      <data x="AU" y="343,597"/>
-      <data x="JP" y="8,940,638"/>
-    </dataset>
-  </graph>
-  <graph unit="%" x="country" y="number">
-    <title>Countries debt</title>
-    <dataset label= "Debt as % of GDP">
-      <data x="US" y="106"/>
-      <data x="CN" y="65"/>
-      <data x="KR" y="36"/>
-      <data x="AU" y="33"/>
-      <data x="JP" y="229"/>
-    </dataset>
-  </graph>
-  <chapter>
-    <paragraph>Japan is in a troubling spot. Its economy is growing very slowly.</paragraph>
-  </chapter>
-  <keywords>
-          <keyword name="GDP" />
-          <keyword name="National Debt" />
-        </keywords>
-        <sources>
-          <source>tradingeconomics.com</source>
-          <source>investopedia.com</source>
-        </sources>
-</section>
-<section>
-  <title>10 most into debt countries</title>
-  <table>
-    <row type="head">
-      <cell>Number</cell>
-      <cell>State</cell>
-      <cell>Debt</cell>
-    </row>
-    <row type="cell">
-      <cell>1</cell>
-      <cell>Japan</cell>
-      <cell>229%</cell>
-    </row>
-    <row type="cell">
-      <cell>2</cell>
-      <cell>Greece</cell>
-      <cell>173%</cell>
-    </row>
-    <row type="cell">
-      <cell>3</cell>
-      <cell>Lebanon</cell>
-      <cell>139%</cell>
-    </row>
-    <row type="cell">
-      <cell>4</cell>
-      <cell>Jamaica</cell>
-      <cell>138%</cell>
-    </row>
-    <row type="cell">
-      <cell>5</cell>
-      <cell>Italy</cell>
-      <cell>132%</cell>
-    </row>
-    <row type="cell">
-      <cell>6</cell>
-      <cell>Portugal</cell>
-      <cell>128%</cell>
-    </row>
-    <row type="cell">
-      <cell>7</cell>
-      <cell>Ireland</cell>
-      <cell>122%</cell>
-    </row>
-    <row type="cell">
-      <cell>8</cell>
-      <cell>Cyprus</cell>
-      <cell>112%</cell>
-    </row>
-    <row type="cell">
-      <cell>9</cell>
-      <cell>Buthan</cell>
-      <cell>110%</cell>
-    </row>
-    <row type="cell">
-      <cell>10</cell>
-      <cell>United States</cell>
-      <cell>106%</cell>
-    </row>
-  </table>
-  <keywords>
-          <keyword name="National Debt" />
-        </keywords>
-        <sources>
-          <source>businessinsider.com</source>
-        </sources>
-</section>
-<section>
-  <chapter>
-    <title>The Countries Will Drive Global Growth in 2016</title>
-    <paragraph>Despite what appears to be a global slowdown in 2016, a number of the largest economies are expected to carry the global economy as emerging markets fluctuate.</paragraph>
-    <paragraph>
-      <list type="unordered">
-        <item>United States: Is the largest economy in the world and keeps the world spinning. Besides being home to the biggest financial hub in the world, the U.S. economy is a leader in a number of facets in the global landscape.</item>
-        <item>China: Despite the bearish expectations surrounding China, the second-largest economy is not on the brink of a financial crisis. The challenges which have plagued China to this point in 2016 come amid a transition from an export-led economy to a consumption based economy.</item>
-        <item>India: Compared to most other major developing countries, India has positioned itself to withstand the near term volatility.</item>
-        <item>European Union: As the economy continues to wane, experts have predicted an end to the Eurozone if another financial crisis were to strike. That being said, there remain a few bright spots amongst the members that make up the European Union.</item>
-      </list>
-    </paragraph>
-  </chapter>
-  <keywords>
-          <keyword name="Investments" />
-        </keywords>
-        <sources>
-          <source>investopedia.com</source>
-        </sources>
-</section>
-<section>
-  <title>American Dream?</title>
-  <chapter>
-    <paragraph>Employment growth remains strong but wages grew a mere 2.3% compared to a year ago. It’s especially disappointing because the economy has added millions of jobs in the last two years. When job growth increases, wages tend to follow with it.</paragraph>
-  </chapter>
-  <graph unit="%" x="date" y="number">
-    <title>USA wages and salaries growth</title>
-    <dataset label= "Current wages">
-      <data x="201601" y="4.0"/>
-      <data x="201602" y="4.4"/>
-      <data x="201603" y="4.2"/>
-      <data x="201604" y="4.2"/>
-      </dataset>
-    </graph>
-    <graph unit="%" x="string" y="number">
-      <title>USA wages and salaries growth in the future</title>
-      <dataset label= "Forecast wages">
-        <data x="2016Apr-Jun" y="4.4"/>
-        <data x="2017Jan-Mar" y="4.8"/>
-        <data x="2020" y="4.7"/>
-        </dataset>
-      </graph>
-    <chapter>
-      <paragraph>One reason for mediocre wage growth is the number of Americans who want full-time work but can only find part-time jobs. That’s a key reason why underemployment - which combines unemployment and people looking for better jobs - remains high.</paragraph>
-    </chapter>
-    <keywords>
-          <keyword name="Employment" />
-          <keyword name="North America" />
-        </keywords>
-        <sources>
-          <source>tradingeconomics.com</source>
-          <source>investors.com</source>
-        </sources>
-</section>
-<section>
-  <title>Will helicopter fly over Japan?</title>
-  <chapter>
-    <paragraph>First, the quantitative and qualitative easing (QQE), and then the negative interest rate policy (NIRP). Now observers are speculating that it should be helicopter money the next move BoJ.</paragraph>
-  </chapter>
-  <chapter>
-    <title>Helicopter money or Quantitative easing?</title>
-    <paragraph>Helicopters dropping money it’s a vivid metaphor for a drastic form of central bank stimulus that is gaining attention as a possible way to help the global economy out of its malaise. Helicopter money gets around that dependence on banks. It aims to put the money directly into circulation. It’s supposed to be accompanied with a guarantee that it is a permanent addition to the money supply — unlike quantitative easing, which central banks say they eventually intend to unwind.</paragraph>
-    <paragraph>Under quantitative easing, central banks buy government bonds from commercial banks. Central banks pay for the bonds by electronically increasing the amounts of money in the accounts that the commercial banks are required to hold at the central bank. When the account balance goes up, new money is created.</paragraph>
-  </chapter>
-  <chapter>
-    <title>Purposes of helicopter money drop</title>
-    <paragraph>
-       <list type="unordered">
-         <item>Increase money supply</item>
-         <item>Target higher inflation</item>
-         <item>Increase aggregate demand</item>
-       </list>
-    </paragraph>
-  </chapter>
-  <chapter>
-    <title>Big spender</title>
-    <paragraph>Under BOJ Governor Haruhiko Kuroda, the bank undertook an initial round of QE in 2013 that doubled its balance sheet. But with inflation continuing to stagnate at well below 1 percent, the bank has moved into a second, open-ended phase of QE consisting of $660 billion in yearly asset purchases that Kuroda says will continue until the 2% inflation target is achieved.</paragraph>
-  </chapter>
-  <graph unit="%" x="date" y="number">
-    <title>Assets holdings as a percentage of GDP</title>
-    <dataset label= "holdings">
-      <data x="2008" y="20"/>
-      <data x="2009" y="25"/>
-      <data x="2010" y="23"/>
-      <data x="2011" y="30"/>
-      <data x="2012" y="28"/>
-      <data x="2013" y="27"/>
-      <data x="2014" y="35"/>
-      <data x="2015" y="73"/>
-    </dataset>
-  </graph>
-  <keywords>
-        <keyword name="Unconventional Monetary Policies" />
-        <keyword name="Southeastern Asia" />
-        <keyword name="Governance" />
-      </keywords>
-      <sources>
-        <source>forbes.com</source>
-        <source>themarketmogul.com</source>
-      </sources>
-</section>
-</sections>
-</bulletin>
-</bulletins>
+              <row type="cell">
+                <cell>KR</cell>
+                <cell>Kospi</cell>
+                <cell>0.36</cell>
+              </row>
+              <row type="cell">
+                <cell>JP</cell>
+                <cell>Nikkei 225</cell>
+                <cell>-1.31</cell>
+              </row>
+            </table>
+            <keywords>
+              <keyword name="Investments" />
+            </keywords>
+            <sources>
+              <source>tradingeconomics.com</source>
+            </sources>
+          </section>
+          <section>
+            <title>Effects after Fed governor speech</title>
+            <chapter>
+              <title>US after Yellen speech</title>
+              <paragraph>While she penalizes the dollar on the currency market, recently it wobbled. After two months
+                of nightmare, the US stock has reacted well. For all three stocks would be the best monthly performance since October.</paragraph>
+              </chapter>
+              <graph unit="USD" x="date" y="number">
+                <title>The US Stock Market Reaction</title>
+                <dataset label= "USD Stock Market">
+                  <data x="2010" y="11,000"/>
+                  <data x="2012" y="12,450"/>
+                  <data x="2014" y="14,800"/>
+                  <data x="2016" y="16,900"/>
+                </dataset>
+              </graph>
+              <chapter>
+                <title>China after Yellen speech</title>
+                <paragraph>The Chinese central bank strengthened yuan fixing as dollar dropped after the speech.
+                  In the money market in that day, the Chinese central bank injected $9.2 billion through seven-day reverse-repurchase agreement to maintain liquidity in the market.
+                  Over the past few months, the Chinese economy has been facing liquidity issue, prompting PBOC to conduct money market operation on daily basis.</paragraph>
+                  <paragraph>PBOC injected 60 billion yuan in the market.</paragraph>
+                </chapter>
+                <chapter>
+                  <title>Australia after Yellen speech</title>
+                  <paragraph>Australian stocks tracked a surge in the U.S. and bonds in the region climbed after the speech
+                    reasserted the central bank’s gradual approach to raising interest rates. Shares in Sydney
+                    snapped a three day decline after U.S. equities erased their losses for the year, with Yellen indicating
+                    deteriorating world growth warranted a slow approach to tightening monetary policy.</paragraph>
+                    <paragraph>Australian Dollar has rised 12% since mid-January.</paragraph>
+                  </chapter>
+                  <chapter>
+                    <title>Effects in South Korea after Yellen speech</title>
+                    <paragraph>The South Korean won notched a 2016 high on Wednesday morning after U.S. Federal Reserve Chair Janet Yellen speech.
+                      The won is likely to continue extending its gains in the near-term and find its footing at around the 1,140.0 level.
+                      The risk-off sentiment could still crop up given a shaky global oil price and a strengthening Japanese yen.</paragraph>
+                      <paragraph>The most important stock market is Samsung Electronics Co Ltd that were down about 0.50% after Fed governor speech.</paragraph>
+                    </chapter>
+                    <chapter>
+                      <title>Japan after Yellen speech</title>
+                      <paragraph>The yen, which typically moves at odds with Japanese shares, was steady at 112.74 per dollar following a 0.7 percent bounce Tuesday that snapped its seven-day decline. The Japanese currency is headed for a 0.1 percent drop in March, after
+                        surging in February. The yen now has to contend with negative rates not having the desired effect,
+                        the Bank of Japan assessing other unconventional monetary policy options and a U.S. central bank unlikely to raise rates.</paragraph>
+                      </chapter>
+                      <graph unit="JPY" x="date" y="number">
+                        <title></title>
+                        <dataset label= "Japan Exports">
+                          <data x="201504" y="6,550.23"/>
+                          <data x="201507" y="6,663.77"/>
+                          <data x="201510" y="6,543.96"/>
+                          <data x="201601" y="5,351.64"/>
+                          <data x="201604" y="5,463.82"/>
+                        </dataset>
+                      </graph>
+                      <keywords>
+                        <keyword name="Southeastern Asia" />
+                        <keyword name="North America" />
+                        <keyword name="Southeastern Asia" />
+                        <keyword name="Central and Eastern Asia" />
+                        <keyword name="Currencies" />
+                        <keyword name="Import/Export" />
+                      </keywords>
+                      <sources>
+                        <source>tradingeconomics.com</source>
+                        <source>chinabusinessnews.com</source>
+                        <source>bloomberg.com</source>
+                        <source>economictimes.com</source>
+                      </sources>
+                    </section>
+                    <section>
+                      <title>This week in monetary policy</title>
+                      <abstract>weekly calendar of central banks meetings</abstract>
+                      <chapter>
+                        <title>Central Banks The world’s slow growth week’s meetings</title>
+                        <paragraph>From March 28th to April 2nd, central banks from 8 countries or jurisdictions are scheduled to decide on monetary policy: Israel, Angola, Kyrgyzstan, Sri Lanka, Czech Republic, Romania, Moldova, Fiji.</paragraph>
+                      </chapter>
+                      <table>
+                        <row type="head">
+                          <cell>Date</cell>
+                          <cell>Banks</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>March 28th</cell>
+                          <cell>UZG, PFG, THI</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>March 29th</cell>
+                          <cell>KRJ</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>March 31st</cell>
+                          <cell>DLE, PAE, CAK, EJA</cell>
+                        </row>
+                      </table>
+                      <keywords>
+                        <keyword name="Interest Rates" />
+                      </keywords>
+                      <sources>
+                        <source>centralbanknews.info</source>
+                      </sources>
+                    </section>
+                    <section>
+                      <title>The world's slow growth</title>
+                      <graph unit="%" x="date" y="number">
+                        <dataset label="Global Growth">
+                          <data x="2013" y="2.4"/>
+                          <data x="2014" y="2.6"/>
+                          <data x="2015" y="2.4"/>
+                          <data x="2016" y="2.9"/>
+                          <data x="2017" y="3.1"/>
+                          <data x="2018" y="3.1"/>
+                        </dataset>
+                      </graph>
+                      <chapter>
+                        <title>Global growth continues, but at a sluggish pace</title>
+                        <paragraph>The world economy is exposed to risks. International Monetary Fund Managing Director Christine Lagarde warned that the recovery remains too slow, too fragile, with the risk that persistent low growth can have damaging effects on the social and political fabric of many countries.</paragraph>
+                        <paragraph>Global growth is projected to reach 2.9 % in 2016, as a modest recovery in advanced economies continues and activity stabilizes among major commodity.</paragraph>
+                        <paragraph>Forecasts is subject to downside risks, including a sharperslowdown in major emerging and developing economies.</paragraph>
+                      </chapter>
+                      <keywords>
+                        <keyword name="Investments" />
+                      </keywords>
+                      <sources>
+                        <source>imf.org</source>
+                        <source>worldbank.org</source>
+                      </sources>
+                    </section>
+                    <section>
+                      <title>Inflation rate score</title>
+                      <chapter>
+                        <paragraph>Inflation is the rate at which the general level of prices for goods and services is rising and, consequently, the purchasing power of currency is falling. Central banks attempt to limit inflation, and avoid deflation, in order to keep the economy running smoothly.</paragraph>
+                      </chapter>
+                      <table>
+                        <row type="head">
+                          <cell>State</cell>
+                          <cell>Current</cell>
+                          <cell>Previous</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>China</cell>
+                          <cell>2.3</cell>
+                          <cell>1.8</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>Australia</cell>
+                          <cell>1.7</cell>
+                          <cell>1.5</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>United States</cell>
+                          <cell>1.0</cell>
+                          <cell>1.4</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>South Korea</cell>
+                          <cell>1.0</cell>
+                          <cell>1.3</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>Japan</cell>
+                          <cell>0.3</cell>
+                          <cell>0.0</cell>
+                        </row>
+                      </table>
+                      <chapter>
+                        <title>Global indicators</title>
+                        <paragraph>
+                          <list type="unordered">
+                            <item>6.23 % GMPR - Global monetary policy rate</item>
+                            <item>657.5 Total rate cuts (in Basis Point)</item>
+                            <item>700 Total rate rises (in Basis Point)</item>
+                          </list>
+                        </paragraph>
+                      </chapter>
+                      <keywords>
+                        <keyword name="Inflation/Deflation" />
+                        <keyword name="Southeastern Asia" />
+                        <keyword name="North America" />
+                        <keyword name="Southeastern Asia" />
+                        <keyword name="Central and Eastern Asia" />
+                      </keywords>
+                      <sources>
+                        <source>tradingeconomics.com</source>
+                        <source>investopedia.com</source>
+                      </sources>
+                    </section>
+                    <section>
+                      <title>How bigger is your debt?</title>
+                      <abstract>By looking at level of gross gov.ment debt as a % of GDP, it can indicate how able a country is to pay back debts without incurring further debt.</abstract>
+                      <graph unit="USD" x="country" y="number">
+                        <title>Countries GDP</title>
+                        <dataset label= "GDP">
+                          <data x="US" y="19,153,149"/>
+                          <data x="CN" y="5,386,014"/>
+                          <data x="KR" y="491,528"/>
+                          <data x="AU" y="343,597"/>
+                          <data x="JP" y="8,940,638"/>
+                        </dataset>
+                      </graph>
+                      <graph unit="%" x="country" y="number">
+                        <title>Countries debt</title>
+                        <dataset label= "Debt as % of GDP">
+                          <data x="US" y="106"/>
+                          <data x="CN" y="65"/>
+                          <data x="KR" y="36"/>
+                          <data x="AU" y="33"/>
+                          <data x="JP" y="229"/>
+                        </dataset>
+                      </graph>
+                      <chapter>
+                        <paragraph>Japan is in a troubling spot. Its economy is growing very slowly.</paragraph>
+                      </chapter>
+                      <keywords>
+                        <keyword name="GDP" />
+                        <keyword name="National Debt" />
+                      </keywords>
+                      <sources>
+                        <source>tradingeconomics.com</source>
+                        <source>investopedia.com</source>
+                      </sources>
+                    </section>
+                    <section>
+                      <title>10 most into debt countries</title>
+                      <table>
+                        <row type="head">
+                          <cell>Number</cell>
+                          <cell>State</cell>
+                          <cell>Debt</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>1</cell>
+                          <cell>Japan</cell>
+                          <cell>229%</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>2</cell>
+                          <cell>Greece</cell>
+                          <cell>173%</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>3</cell>
+                          <cell>Lebanon</cell>
+                          <cell>139%</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>4</cell>
+                          <cell>Jamaica</cell>
+                          <cell>138%</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>5</cell>
+                          <cell>Italy</cell>
+                          <cell>132%</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>6</cell>
+                          <cell>Portugal</cell>
+                          <cell>128%</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>7</cell>
+                          <cell>Ireland</cell>
+                          <cell>122%</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>8</cell>
+                          <cell>Cyprus</cell>
+                          <cell>112%</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>9</cell>
+                          <cell>Buthan</cell>
+                          <cell>110%</cell>
+                        </row>
+                        <row type="cell">
+                          <cell>10</cell>
+                          <cell>United States</cell>
+                          <cell>106%</cell>
+                        </row>
+                      </table>
+                      <keywords>
+                        <keyword name="National Debt" />
+                      </keywords>
+                      <sources>
+                        <source>businessinsider.com</source>
+                      </sources>
+                    </section>
+                    <section>
+                      <chapter>
+                        <title>The Countries Will Drive Global Growth in 2016</title>
+                        <paragraph>Despite what appears to be a global slowdown in 2016, a number of the largest economies are expected to carry the global economy as emerging markets fluctuate.</paragraph>
+                        <paragraph>
+                          <list type="unordered">
+                            <item>United States: Is the largest economy in the world and keeps the world spinning. Besides being home to the biggest financial hub in the world, the U.S. economy is a leader in a number of facets in the global landscape.</item>
+                            <item>China: Despite the bearish expectations surrounding China, the second-largest economy is not on the brink of a financial crisis. The challenges which have plagued China to this point in 2016 come amid a transition from an export-led economy to a consumption based economy.</item>
+                            <item>India: Compared to most other major developing countries, India has positioned itself to withstand the near term volatility.</item>
+                            <item>European Union: As the economy continues to wane, experts have predicted an end to the Eurozone if another financial crisis were to strike. That being said, there remain a few bright spots amongst the members that make up the European Union.</item>
+                          </list>
+                        </paragraph>
+                      </chapter>
+                      <keywords>
+                        <keyword name="Investments" />
+                      </keywords>
+                      <sources>
+                        <source>investopedia.com</source>
+                      </sources>
+                    </section>
+                    <section>
+                      <title>American Dream?</title>
+                      <chapter>
+                        <paragraph>Employment growth remains strong but wages grew a mere 2.3% compared to a year ago. It’s especially disappointing because the economy has added millions of jobs in the last two years. When job growth increases, wages tend to follow with it.</paragraph>
+                      </chapter>
+                      <graph unit="%" x="date" y="number">
+                        <title>USA wages and salaries growth</title>
+                        <dataset label= "Current wages">
+                          <data x="201601" y="4.0"/>
+                          <data x="201602" y="4.4"/>
+                          <data x="201603" y="4.2"/>
+                          <data x="201604" y="4.2"/>
+                        </dataset>
+                      </graph>
+                      <graph unit="%" x="string" y="number">
+                        <title>USA wages and salaries growth in the future</title>
+                        <dataset label= "Forecast wages">
+                          <data x="2016Apr-Jun" y="4.4"/>
+                          <data x="2017Jan-Mar" y="4.8"/>
+                          <data x="2020" y="4.7"/>
+                        </dataset>
+                      </graph>
+                      <chapter>
+                        <paragraph>One reason for mediocre wage growth is the number of Americans who want full-time work but can only find part-time jobs. That’s a key reason why underemployment - which combines unemployment and people looking for better jobs - remains high.</paragraph>
+                      </chapter>
+                      <keywords>
+                        <keyword name="Employment" />
+                        <keyword name="North America" />
+                      </keywords>
+                      <sources>
+                        <source>tradingeconomics.com</source>
+                        <source>investors.com</source>
+                      </sources>
+                    </section>
+                    <section>
+                      <title>Will helicopter fly over Japan?</title>
+                      <chapter>
+                        <paragraph>First, the quantitative and qualitative easing (QQE), and then the negative interest rate policy (NIRP). Now observers are speculating that it should be helicopter money the next move BoJ.</paragraph>
+                      </chapter>
+                      <chapter>
+                        <title>Helicopter money or Quantitative easing?</title>
+                        <paragraph>Helicopters dropping money it’s a vivid metaphor for a drastic form of central bank stimulus that is gaining attention as a possible way to help the global economy out of its malaise. Helicopter money gets around that dependence on banks. It aims to put the money directly into circulation. It’s supposed to be accompanied with a guarantee that it is a permanent addition to the money supply — unlike quantitative easing, which central banks say they eventually intend to unwind.</paragraph>
+                        <paragraph>Under quantitative easing, central banks buy government bonds from commercial banks. Central banks pay for the bonds by electronically increasing the amounts of money in the accounts that the commercial banks are required to hold at the central bank. When the account balance goes up, new money is created.</paragraph>
+                      </chapter>
+                      <chapter>
+                        <title>Purposes of helicopter money drop</title>
+                        <paragraph>
+                          <list type="unordered">
+                            <item>Increase money supply</item>
+                            <item>Target higher inflation</item>
+                            <item>Increase aggregate demand</item>
+                          </list>
+                        </paragraph>
+                      </chapter>
+                      <chapter>
+                        <title>Big spender</title>
+                        <paragraph>Under BOJ Governor Haruhiko Kuroda, the bank undertook an initial round of QE in 2013 that doubled its balance sheet. But with inflation continuing to stagnate at well below 1 percent, the bank has moved into a second, open-ended phase of QE consisting of $660 billion in yearly asset purchases that Kuroda says will continue until the 2% inflation target is achieved.</paragraph>
+                      </chapter>
+                      <graph unit="%" x="date" y="number">
+                        <title>Assets holdings as a percentage of GDP</title>
+                        <dataset label= "holdings">
+                          <data x="2008" y="20"/>
+                          <data x="2009" y="25"/>
+                          <data x="2010" y="23"/>
+                          <data x="2011" y="30"/>
+                          <data x="2012" y="28"/>
+                          <data x="2013" y="27"/>
+                          <data x="2014" y="35"/>
+                          <data x="2015" y="73"/>
+                        </dataset>
+                      </graph>
+                      <keywords>
+                        <keyword name="Unconventional Monetary Policies" />
+                        <keyword name="Southeastern Asia" />
+                        <keyword name="Governance" />
+                      </keywords>
+                      <sources>
+                        <source>forbes.com</source>
+                        <source>themarketmogul.com</source>
+                      </sources>
+                    </section>
+                  </sections>
+                </bulletin>
+              </bulletins>

@@ -1,33 +1,33 @@
 <bulletin id="issue 5" date="20160402">
   <sections>
-      <section>
-        <graph unit="%" x="date" y="number">
-          <title>Asylum Application in EU</title>
-          <dataset label="">
-            <data x="2005" y="234,675" />
-            <data x="2006" y="197,410" />
-            <data x="2007" y="222,635" />
-            <data x="2008" y="225,150" />
-            <data x="2009" y="263,835" />
-            <data x="2010" y="259,400" />
-            <data x="2011" y="309,040" />
-            <data x="2012" y="335,290" />
-            <data x="2013" y="431,090" />
-            <data x="2014" y="626,960" />
-            <data x="2014" y="1,321,600" />
-            </dataset>
-            </graph>
-            <keywords>
-            <keyword name="Eastern Europe" />
-            <keyword name="Western Europe" />
-            <keyword name="Migration" />
-            <keyword name="In poverty" />
-          </keywords>
-          <sources>
-            <source>ec.europa.eu/eurostat</source>
-          </sources>
-      </section>
-      <section>
+    <section>
+      <graph unit="%" x="date" y="number">
+        <title>Asylum Application in EU</title>
+        <dataset label="">
+          <data x="2005" y="234,675" />
+          <data x="2006" y="197,410" />
+          <data x="2007" y="222,635" />
+          <data x="2008" y="225,150" />
+          <data x="2009" y="263,835" />
+          <data x="2010" y="259,400" />
+          <data x="2011" y="309,040" />
+          <data x="2012" y="335,290" />
+          <data x="2013" y="431,090" />
+          <data x="2014" y="626,960" />
+          <data x="2014" y="1,321,600" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
+        <keyword name="Migration" />
+        <keyword name="In poverty" />
+      </keywords>
+      <sources>
+        <source>ec.europa.eu/eurostat</source>
+      </sources>
+    </section>
+    <section>
       <title>Exodus</title>
       <chapter>
         <paragraph>By allowing workers to move to where they are more productive, international migration results in an increase in aggregate output and income. Remittances generally reduce the level and severity of poverty and lead to higher human capital accumulation, greater health and education expenditures, reduced child labor and better preparedness for adverse shocks such as droughts, earthquakes, and cyclones. Diasporas can be an important source of trade, capital, technology, and knowledge for countries of origin and destination.</paragraph>
@@ -257,136 +257,136 @@
       <chapter>
         <title>Top Remittance-Sending Countries, 2014</title>
       </chapter>
-        <graph unit="b$" x="location" y="number">
-          <dataset label= "">
-            <data x="US" y="56.3"/>
-            <data x="SA" y="36.9"/>
-            <data x="RU" y="32.6"/>
-            <data x="CH" y="24.7"/>
-            <data x="DE" y="20.8"/>
-            <data x="AE" y="19.3"/>
-            <data x="KW" y="18.1"/>
-            <data x="FR" y="13.8"/>
-            <data x="LU" y="12.7"/>
-            <data x="GB" y="11.5"/>
-          </dataset>
-        </graph>
-        <chapter>
-          <title>Top Remittance-Receiving Countries, 2014</title>
-        </chapter>
-          <graph unit="b$" x="location" y="number">
-            <dataset label= "">
-              <data x="IN" y="72.2"/>
-              <data x="CN" y="63.9"/>
-              <data x="PH" y="29.7"/>
-              <data x="MX" y="25.7"/>
-              <data x="FR" y="24.6"/>
-              <data x="NG" y="20.8"/>
-              <data x="EG" y="20.4"/>
-              <data x="PK" y="20.1"/>
-              <data x="DE" y="17.5"/>
-              <data x="BD" y="15.8"/>
-            </dataset>
-          </graph>
-          <chapter>
-            <title>Top Remittance-Receiving Countries as Ratio of GDP in 2014</title>
-          </chapter>
-            <graph unit="%" x="location" y="number">
-              <dataset label= "">
-                <data x="TJ" y="41.7"/>
-                <data x="KG" y="30.3"/>
-                <data x="NP" y="29.2"/>
-                <data x="TO" y="27.9"/>
-                <data x="MD" y="26.2"/>
-                <data x="LR" y="24.6"/>
-                <data x="BM" y="23.1"/>
-                <data x="HT" y="22.7"/>
-              </dataset>
-            </graph>
-            <keywords>
-              <keyword name="Migration" />
-              <keyword name="GDP" />
-              <keyword name="Taxes" />
-              <keyword name="In poverty" />
-            </keywords>
-            <sources>
-              <source>bbc.com</source>
-              <source>bloomberg.com</source>
-              <source>ec.europa.eu/eurostat</source>
-              <source>equaltime.org</source>
-              <source>fortune.com</source>
-              <source>ilo.org</source>
-              <source>iom.int</source>
-              <source>liberation.fr</source>
-              <source>magazine.unibo.it</source>
-              <source>nationalgeographic.com</source>
-              <source>newstalkzb.co.nz</source>
-              <source>politico.com</source>
-              <source>rainews.it</source>
-              <source>theguardian.com</source>
-              <source>thenation.com</source>
-              <source>un.org</source>
-              <source>unhcr.org</source>
-              <source>wsj.com</source>
-              <source>worldbank.org</source>
-              <source>Internazionale</source>
-            </sources>
+      <graph unit="b$" x="location" y="number">
+        <dataset label= "">
+          <data x="US" y="56.3"/>
+          <data x="SA" y="36.9"/>
+          <data x="RU" y="32.6"/>
+          <data x="CH" y="24.7"/>
+          <data x="DE" y="20.8"/>
+          <data x="AE" y="19.3"/>
+          <data x="KW" y="18.1"/>
+          <data x="FR" y="13.8"/>
+          <data x="LU" y="12.7"/>
+          <data x="GB" y="11.5"/>
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Top Remittance-Receiving Countries, 2014</title>
+      </chapter>
+      <graph unit="b$" x="location" y="number">
+        <dataset label= "">
+          <data x="IN" y="72.2"/>
+          <data x="CN" y="63.9"/>
+          <data x="PH" y="29.7"/>
+          <data x="MX" y="25.7"/>
+          <data x="FR" y="24.6"/>
+          <data x="NG" y="20.8"/>
+          <data x="EG" y="20.4"/>
+          <data x="PK" y="20.1"/>
+          <data x="DE" y="17.5"/>
+          <data x="BD" y="15.8"/>
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Top Remittance-Receiving Countries as Ratio of GDP in 2014</title>
+      </chapter>
+      <graph unit="%" x="location" y="number">
+        <dataset label= "">
+          <data x="TJ" y="41.7"/>
+          <data x="KG" y="30.3"/>
+          <data x="NP" y="29.2"/>
+          <data x="TO" y="27.9"/>
+          <data x="MD" y="26.2"/>
+          <data x="LR" y="24.6"/>
+          <data x="BM" y="23.1"/>
+          <data x="HT" y="22.7"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Migration" />
+        <keyword name="GDP" />
+        <keyword name="Taxes" />
+        <keyword name="In poverty" />
+      </keywords>
+      <sources>
+        <source>bbc.com</source>
+        <source>bloomberg.com</source>
+        <source>ec.europa.eu/eurostat</source>
+        <source>equaltime.org</source>
+        <source>fortune.com</source>
+        <source>ilo.org</source>
+        <source>iom.int</source>
+        <source>liberation.fr</source>
+        <source>magazine.unibo.it</source>
+        <source>nationalgeographic.com</source>
+        <source>newstalkzb.co.nz</source>
+        <source>politico.com</source>
+        <source>rainews.it</source>
+        <source>theguardian.com</source>
+        <source>thenation.com</source>
+        <source>un.org</source>
+        <source>unhcr.org</source>
+        <source>wsj.com</source>
+        <source>worldbank.org</source>
+        <source>Internazionale</source>
+      </sources>
     </section>
     <section>
-    <title>Remittances Worldwide</title>
-    <graph unit="%" x="string" y="percentage">
-      <dataset label= "Total amount of remittances, 2015">
-        <data x="$601b" y="100"/>
-      </dataset>
-      <dataset label= "Remittances sent to developing countries, 2015">
+      <title>Remittances Worldwide</title>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label= "Total amount of remittances, 2015">
+          <data x="$601b" y="100"/>
+        </dataset>
+        <dataset label= "Remittances sent to developing countries, 2015">
           <data x="$441b" y="73.37"/>
         </dataset>
-    </graph>
-    <chapter>
-      <paragraph>Migrants sent back around $601 billion to their home countries last year, of which $441 billion went to developing countries — three times the size of official aid.</paragraph>
-    </chapter>
-    <chapter>
-      <title>Average Remittance Price</title>
-    </chapter>
-    <graph unit="%" x="string" y="percentage">
-      <dataset label= "Total amount of remittances">
-        <data x="$601b" y="100"/>
-      </dataset>
-      <dataset label= "Remittances sent to developing countries">
+      </graph>
+      <chapter>
+        <paragraph>Migrants sent back around $601 billion to their home countries last year, of which $441 billion went to developing countries — three times the size of official aid.</paragraph>
+      </chapter>
+      <chapter>
+        <title>Average Remittance Price</title>
+      </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label= "Total amount of remittances">
+          <data x="$601b" y="100"/>
+        </dataset>
+        <dataset label= "Remittances sent to developing countries">
           <data x="$44.3b" y="7.37"/>
         </dataset>
-    </graph>
-    <chapter>
-      <paragraph>Globally, sending remittances costs an average of 7.37% ($44.3b) of the amount sent. Cutting prices by at least 5 percentage points can save up to $16 billion a year.</paragraph>
-    </chapter>
-    <keywords>
-      <keyword name="Migration" />
-      <keyword name="GDP" />
-      <keyword name="Taxes" />
-      <keyword name="In poverty" />
-    </keywords>
-    <sources>
-      <source>bbc.com</source>
-      <source>bloomberg.com</source>
-      <source>ec.europa.eu/eurostat</source>
-      <source>equaltime.org</source>
-      <source>fortune.com</source>
-      <source>ilo.org</source>
-      <source>iom.int</source>
-      <source>liberation.fr</source>
-      <source>magazine.unibo.it</source>
-      <source>nationalgeographic.com</source>
-      <source>newstalkzb.co.nz</source>
-      <source>politico.com</source>
-      <source>rainews.it</source>
-      <source>theguardian.com</source>
-      <source>thenation.com</source>
-      <source>un.org</source>
-      <source>unhcr.org</source>
-      <source>wsj.com</source>
-      <source>worldbank.org</source>
-      <source>Internazionale</source>
-    </sources>
+      </graph>
+      <chapter>
+        <paragraph>Globally, sending remittances costs an average of 7.37% ($44.3b) of the amount sent. Cutting prices by at least 5 percentage points can save up to $16 billion a year.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Migration" />
+        <keyword name="GDP" />
+        <keyword name="Taxes" />
+        <keyword name="In poverty" />
+      </keywords>
+      <sources>
+        <source>bbc.com</source>
+        <source>bloomberg.com</source>
+        <source>ec.europa.eu/eurostat</source>
+        <source>equaltime.org</source>
+        <source>fortune.com</source>
+        <source>ilo.org</source>
+        <source>iom.int</source>
+        <source>liberation.fr</source>
+        <source>magazine.unibo.it</source>
+        <source>nationalgeographic.com</source>
+        <source>newstalkzb.co.nz</source>
+        <source>politico.com</source>
+        <source>rainews.it</source>
+        <source>theguardian.com</source>
+        <source>thenation.com</source>
+        <source>un.org</source>
+        <source>unhcr.org</source>
+        <source>wsj.com</source>
+        <source>worldbank.org</source>
+        <source>Internazionale</source>
+      </sources>
     </section>
     <section>
       <title>Youth Displacement</title>
@@ -409,17 +409,17 @@
           <cell>1st</cell>
           <cell>Hungary</cell>
           <cell>40%</cell>
-         </row>
-         <row type="cell">
-           <cell>2nd</cell>
-           <cell>Poland / Slovakia</cell>
-           <cell>40%</cell>
-          </row>
-          <row type="cell">
-            <cell>3rd</cell>
-            <cell>Italy / Greece / Portugal</cell>
-            <cell>30%</cell>
-           </row>
+        </row>
+        <row type="cell">
+          <cell>2nd</cell>
+          <cell>Poland / Slovakia</cell>
+          <cell>40%</cell>
+        </row>
+        <row type="cell">
+          <cell>3rd</cell>
+          <cell>Italy / Greece / Portugal</cell>
+          <cell>30%</cell>
+        </row>
       </table>
       <keywords>
         <keyword name="North America" />
@@ -577,17 +577,17 @@
     </section>
     <section>
       <chapter>
-      <title>Welcoming Refugees</title>
-      <paragraph>In the face of Europe’s economic crisis and demographic decline (especially in Germany and Italy), which threatens to bring about a fall in the active population by 2030, immigration could be a real asset, helping to stimulate economic activity and to pay the pensions of the baby boomers.</paragraph>
-      <paragraph>The migrants could find their place in EU countries, revitaling the economic and social life of the many small towns and rural areas abandoned. Europe’s political community and society needs to bring a revolution in their way of thinking and to realise that the arrival of migrants, far from being a burden or a catastrophe, can represent an opportunity.</paragraph>
-    </chapter>
-    <graph unit="" x="string" y="number">
-      <title>Welcome Syrians!</title>
-      <dataset label= "">
-        <data x="Refugees hosted in neighboring countries: Jordan, Lebanon and Turkey" y="4000000"/>
-        <data x="Refugees hosted in wealthy countries: Europe" y="185000"/>
-      </dataset>
-    </graph>
+        <title>Welcoming Refugees</title>
+        <paragraph>In the face of Europe’s economic crisis and demographic decline (especially in Germany and Italy), which threatens to bring about a fall in the active population by 2030, immigration could be a real asset, helping to stimulate economic activity and to pay the pensions of the baby boomers.</paragraph>
+        <paragraph>The migrants could find their place in EU countries, revitaling the economic and social life of the many small towns and rural areas abandoned. Europe’s political community and society needs to bring a revolution in their way of thinking and to realise that the arrival of migrants, far from being a burden or a catastrophe, can represent an opportunity.</paragraph>
+      </chapter>
+      <graph unit="" x="string" y="number">
+        <title>Welcome Syrians!</title>
+        <dataset label= "">
+          <data x="Refugees hosted in neighboring countries: Jordan, Lebanon and Turkey" y="4000000"/>
+          <data x="Refugees hosted in wealthy countries: Europe" y="185000"/>
+        </dataset>
+      </graph>
     </section>
     <section>
       <title>Immigrants Founded 51% of US Billion-Dollar Startups</title>
@@ -603,42 +603,42 @@
           <data x="44 companies" y="51"/>
         </dataset>
       </graph>
-        <chapter>
-          <paragraph>On 87 companies, 44 were founded by immigrants. These companies are collectively valued at $168 billion and create an average of roughly 760 jobs per company.</paragraph>
-          <paragraph>The study also estimates that immigrants make up over 70% of key management or product development positions at these companies.</paragraph>
-        </chapter>
-        <keywords>
-          <keyword name="North America" />
-          <keyword name="Migration" />
-          <keyword name="In poverty" />
-          <keyword name="Employment" />
-          <keyword name="Income and Pension" />
-          <keyword name="Start-ups" />
-          <keyword name="Global Corporations" />
-          <keyword name="Working class" />
-        </keywords>
-        <sources>
-          <source>bbc.com</source>
-          <source>bloomberg.com</source>
-          <source>ec.europa.eu/eurostat</source>
-          <source>equaltime.org</source>
-          <source>fortune.com</source>
-          <source>ilo.org</source>
-          <source>iom.int</source>
-          <source>liberation.fr</source>
-          <source>magazine.unibo.it</source>
-          <source>nationalgeographic.com</source>
-          <source>newstalkzb.co.nz</source>
-          <source>politico.com</source>
-          <source>rainews.it</source>
-          <source>theguardian.com</source>
-          <source>thenation.com</source>
-          <source>un.org</source>
-          <source>unhcr.org</source>
-          <source>wsj.com</source>
-          <source>worldbank.org</source>
-          <source>Internazionale</source>
-        </sources>
+      <chapter>
+        <paragraph>On 87 companies, 44 were founded by immigrants. These companies are collectively valued at $168 billion and create an average of roughly 760 jobs per company.</paragraph>
+        <paragraph>The study also estimates that immigrants make up over 70% of key management or product development positions at these companies.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Migration" />
+        <keyword name="In poverty" />
+        <keyword name="Employment" />
+        <keyword name="Income and Pension" />
+        <keyword name="Start-ups" />
+        <keyword name="Global Corporations" />
+        <keyword name="Working class" />
+      </keywords>
+      <sources>
+        <source>bbc.com</source>
+        <source>bloomberg.com</source>
+        <source>ec.europa.eu/eurostat</source>
+        <source>equaltime.org</source>
+        <source>fortune.com</source>
+        <source>ilo.org</source>
+        <source>iom.int</source>
+        <source>liberation.fr</source>
+        <source>magazine.unibo.it</source>
+        <source>nationalgeographic.com</source>
+        <source>newstalkzb.co.nz</source>
+        <source>politico.com</source>
+        <source>rainews.it</source>
+        <source>theguardian.com</source>
+        <source>thenation.com</source>
+        <source>un.org</source>
+        <source>unhcr.org</source>
+        <source>wsj.com</source>
+        <source>worldbank.org</source>
+        <source>Internazionale</source>
+      </sources>
     </section>
     <section>
       <chapter>

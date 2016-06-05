@@ -109,151 +109,108 @@
                   <author></author>
                   <text>Uber and its Chinese rival Didi Kuaidi are locked
                     in a billion-dollar battle to control the world’s largest ride-hailing market.</text>
-                </quote>
-                <table>
-                  <row type="head">
-                    <cell>name</cell>
-                    <cell>total equity funding</cell>
-                    <cell>headquarters</cell>
-                    <cell>founders</cell>
-                    <cell>categories</cell>
-                    <cell>foundation</cell>
-                    <cell>employments</cell>
-                  </row>
-                  <row type="cell">
-                    <cell>Uber</cell>
-                    <cell>8.81 B$</cell>
-                    <cell>San Francisco</cell>
-                    <cell>G. Camp, T. Kalanick</cell>
-                    <cell>transportation</cell>
-                    <cell>20090301</cell>
-                    <cell>1k/5k</cell>
-                  </row>
-                  <row type="cell">
-                    <cell>Didi Kuaidi</cell>
-                    <cell>4.42 B$</cell>
-                    <cell>Beijing</cell>
-                    <cell>Cheng Wei</cell>
-                    <cell>transportation</cell>
-                    <cell>20120901</cell>
-                    <cell>1k/5k</cell>
-                  </row>
-                </table>
-                <keywords>
-                  <keyword name="Start-ups"/>
-                  <keyword name="North America"/>
-                  <keyword name="Central and Eastern Asia"/>
-                  <keyword name="Transportation"/>
-                  <keyword name="Tech"/>
-                  <keyword name="Sharing Economy"/>
-                  <keyword name="Investments"/>
-                </keywords>
-                <sources>
-                  <source>nytimes.com</source>
-                  <source>vanityfair.com</source>
-                  <source>crunchbase.com</source>
-                  <source>fortune.com</source>
-                  <source>bloomberg.com</source>
-                  <source>techinasia.com</source>
-                  <source>cbinsights</source>
-                </sources>
-              </section>
-              <section>
-                <title>Tech in Asia</title>
-                <subtitle>Concentration of tech startups and unicorns of asiatic cities</subtitle>
-                <table>
-                  <row type="head">
-                    <cell>city</cell>
-                    <cell>number of unicorns</cell>
-                  </row>
-                  <row type="cell">
-                    <cell>Beijing</cell>
-                    <cell>10</cell>
-                  </row>
-                  <row type="cell">
-                    <cell>Seoul</cell>
-                    <cell>3</cell>
-                  </row>
-                  <row type="cell">
-                    <cell>Tokyo</cell>
-                    <cell>1</cell>
-                  </row>
-                  <row type="cell">
-                    <cell>Shanghai</cell>
-                    <cell>7</cell>
-                  </row>
-                  <row type="cell">
-                    <cell>Hong Kong</cell>
-                    <cell>5</cell>
-                  </row>
-                  <row type="cell">
-                    <cell>Bangkok</cell>
-                    <cell>1</cell>
-                  </row>
-                  <row type="cell">
-                    <cell>Singapore</cell>
-                    <cell>2</cell>
-                  </row>
-                  <row type="cell">
-                    <cell>Bengaluru</cell>
-                    <cell>3</cell>
-                  </row>
-                  <row type="cell">
-                    <cell>Mumbai</cell>
-                    <cell>1</cell>
-                  </row>
-                  <row type="cell">
-                    <cell>New Dehli</cell>
-                    <cell>4</cell>
-                  </row>
-                </table>
-                <keywords>
-                  <keyword name="Central and Eastern Asia" />
-                  <keyword name="Southern Asia" />
-                  <keyword name="Southeastern Asia" />
-                  <keyword name="Start-ups" />
-                  <keyword name="Tech" />
-                </keywords>
-                <sources>
-                  <source>nytimes.com</source>
-                  <source>vanityfair.com</source>
-                  <source>crunchbase.com</source>
-                  <source>fortune.com</source>
-                  <source>bloomberg.com</source>
-                  <source>techinasia.com</source>
-                  <source>cbinsights</source>
-                </sources>
-              </section>
-              <section>
-                <title>China investors-backed tech financing</title>
-                <chapter>
-                  <paragraph>China’s rich and wealthy are pouring money into start-up
-                    tech ventures in the absence of many other profitable investiment opportunities.
-                    Venture capital investments into China’s technology startups more than doubled
-                    to $32.2 B in 2015, with $4.7 B of investments so far this year.</paragraph>
-                  </chapter>
-                  <graph unit="B$" x="date" y="number">
-                    <title>China investments and stock market</title>
-                    <dataset label= "China's VC investments">
-                      <data x="2012" y="3"/>
-                      <data x="2013" y="5"/>
-                      <data x="2014" y="16"/>
-                      <data x="2015" y="32"/>
-                      <data x="Q1_2016" y="9"/>
-                    </dataset>
-                  </graph>
-                  <graph unit="^SSEC" x="date" y="number">
-                    <dataset label= "China's stock market">
-                      <data x="2012" y="2,500"/>
-                      <data x="2013" y="2,400"/>
-                      <data x="2014" y="2,600"/>
-                      <data x="2015" y="4,500"/>
-                      <data x="Q1_2016" y="3,000"/>
-                    </dataset>
-                  </graph>
+                  </quote>
+                  <table>
+                    <row type="head">
+                      <cell>name</cell>
+                      <cell>total equity funding</cell>
+                      <cell>headquarters</cell>
+                      <cell>founders</cell>
+                      <cell>categories</cell>
+                      <cell>foundation</cell>
+                      <cell>employments</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>Uber</cell>
+                      <cell>8.81 B$</cell>
+                      <cell>San Francisco</cell>
+                      <cell>G. Camp, T. Kalanick</cell>
+                      <cell>transportation</cell>
+                      <cell>20090301</cell>
+                      <cell>1k/5k</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>Didi Kuaidi</cell>
+                      <cell>4.42 B$</cell>
+                      <cell>Beijing</cell>
+                      <cell>Cheng Wei</cell>
+                      <cell>transportation</cell>
+                      <cell>20120901</cell>
+                      <cell>1k/5k</cell>
+                    </row>
+                  </table>
+                  <keywords>
+                    <keyword name="Start-ups"/>
+                    <keyword name="North America"/>
+                    <keyword name="Central and Eastern Asia"/>
+                    <keyword name="Transportation"/>
+                    <keyword name="Tech"/>
+                    <keyword name="Sharing Economy"/>
+                    <keyword name="Investments"/>
+                  </keywords>
+                  <sources>
+                    <source>nytimes.com</source>
+                    <source>vanityfair.com</source>
+                    <source>crunchbase.com</source>
+                    <source>fortune.com</source>
+                    <source>bloomberg.com</source>
+                    <source>techinasia.com</source>
+                    <source>cbinsights</source>
+                  </sources>
+                </section>
+                <section>
+                  <title>Tech in Asia</title>
+                  <subtitle>Concentration of tech startups and unicorns of asiatic cities</subtitle>
+                  <table>
+                    <row type="head">
+                      <cell>city</cell>
+                      <cell>number of unicorns</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>Beijing</cell>
+                      <cell>10</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>Seoul</cell>
+                      <cell>3</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>Tokyo</cell>
+                      <cell>1</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>Shanghai</cell>
+                      <cell>7</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>Hong Kong</cell>
+                      <cell>5</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>Bangkok</cell>
+                      <cell>1</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>Singapore</cell>
+                      <cell>2</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>Bengaluru</cell>
+                      <cell>3</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>Mumbai</cell>
+                      <cell>1</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>New Dehli</cell>
+                      <cell>4</cell>
+                    </row>
+                  </table>
                   <keywords>
                     <keyword name="Central and Eastern Asia" />
-                    <keyword name="Investments" />
+                    <keyword name="Southern Asia" />
+                    <keyword name="Southeastern Asia" />
                     <keyword name="Start-ups" />
                     <keyword name="Tech" />
                   </keywords>
@@ -268,19 +225,35 @@
                   </sources>
                 </section>
                 <section>
-                  <title>Japan's lonely child</title>
+                  <title>China investors-backed tech financing</title>
                   <chapter>
-                    <paragraph>In March 4th 2016, Mercari, a peer-to-peer marketplace app,
-                      has claimed the title of Japan’s first pre-IPO startup
-                      unicorn after raising 8.4 billion yen (about $75 million)
-                      at a valuation of over $ 1 billion. This is the Tokyo-based
-                      company’s first Series D. Launched in 2013, Mercari lets users
-                      buy and sell products including fashion, electronics and handmade items.</paragraph>
+                    <paragraph>China’s rich and wealthy are pouring money into start-up
+                      tech ventures in the absence of many other profitable investiment opportunities.
+                      Venture capital investments into China’s technology startups more than doubled
+                      to $32.2 B in 2015, with $4.7 B of investments so far this year.</paragraph>
                     </chapter>
+                    <graph unit="B$" x="date" y="number">
+                      <title>China investments and stock market</title>
+                      <dataset label= "China's VC investments">
+                        <data x="2012" y="3"/>
+                        <data x="2013" y="5"/>
+                        <data x="2014" y="16"/>
+                        <data x="2015" y="32"/>
+                        <data x="Q1_2016" y="9"/>
+                      </dataset>
+                    </graph>
+                    <graph unit="^SSEC" x="date" y="number">
+                      <dataset label= "China's stock market">
+                        <data x="2012" y="2,500"/>
+                        <data x="2013" y="2,400"/>
+                        <data x="2014" y="2,600"/>
+                        <data x="2015" y="4,500"/>
+                        <data x="Q1_2016" y="3,000"/>
+                      </dataset>
+                    </graph>
                     <keywords>
                       <keyword name="Central and Eastern Asia" />
                       <keyword name="Investments" />
-                      <keyword name="Commerce" />
                       <keyword name="Start-ups" />
                       <keyword name="Tech" />
                     </keywords>
@@ -295,15 +268,19 @@
                     </sources>
                   </section>
                   <section>
-                    <title>South Korea: Line Corp</title>
+                    <title>Japan's lonely child</title>
                     <chapter>
-                      <paragraph>Messagging app operator Line Corp, owned by South Korea’s
-                        largest web portal operator, plans $ 3 billion initial public
-                        offering in New York and Tokyo.</paragraph>
+                      <paragraph>In March 4th 2016, Mercari, a peer-to-peer marketplace app,
+                        has claimed the title of Japan’s first pre-IPO startup
+                        unicorn after raising 8.4 billion yen (about $75 million)
+                        at a valuation of over $ 1 billion. This is the Tokyo-based
+                        company’s first Series D. Launched in 2013, Mercari lets users
+                        buy and sell products including fashion, electronics and handmade items.</paragraph>
                       </chapter>
                       <keywords>
                         <keyword name="Central and Eastern Asia" />
                         <keyword name="Investments" />
+                        <keyword name="Commerce" />
                         <keyword name="Start-ups" />
                         <keyword name="Tech" />
                       </keywords>
@@ -318,17 +295,14 @@
                       </sources>
                     </section>
                     <section>
-                      <title>Indonesia and its two unicorns</title>
+                      <title>South Korea: Line Corp</title>
                       <chapter>
-                        <paragraph>The country plans to create startup IPO Market to Draw investors.
-                          It may see 2 unicorns within the year. Tokopedia is Indonesia’s top
-                          C2C marketplace that lets individuals and SMBs owners open and maintain their online
-                          stores for free. Traveloka consists of Harvard dropout
-                          and NetSuite and LinkedIn engineers.
-                          It is ranked as Indonesia’s No. 1 flight search and booking site.</paragraph>
+                        <paragraph>Messagging app operator Line Corp, owned by South Korea’s
+                          largest web portal operator, plans $ 3 billion initial public
+                          offering in New York and Tokyo.</paragraph>
                         </chapter>
                         <keywords>
-                          <keyword name="Southeastern Asia" />
+                          <keyword name="Central and Eastern Asia" />
                           <keyword name="Investments" />
                           <keyword name="Start-ups" />
                           <keyword name="Tech" />
@@ -344,10 +318,14 @@
                         </sources>
                       </section>
                       <section>
-                        <title>Singapore's investments</title>
+                        <title>Indonesia and its two unicorns</title>
                         <chapter>
-                          <paragraph>Singapore-based United Overseas Bank’s will invest
-                            $ 10 million in an Israel based equity crowdfunding platform OurCrowd.</paragraph>
+                          <paragraph>The country plans to create startup IPO Market to Draw investors.
+                            It may see 2 unicorns within the year. Tokopedia is Indonesia’s top
+                            C2C marketplace that lets individuals and SMBs owners open and maintain their online
+                            stores for free. Traveloka consists of Harvard dropout
+                            and NetSuite and LinkedIn engineers.
+                            It is ranked as Indonesia’s No. 1 flight search and booking site.</paragraph>
                           </chapter>
                           <keywords>
                             <keyword name="Southeastern Asia" />
@@ -366,19 +344,16 @@
                           </sources>
                         </section>
                         <section>
-                          <title>Indian Uber's competitor</title>
+                          <title>Singapore's investments</title>
                           <chapter>
-                            <paragraph>Uber’s main competitor in India, ANI Tecnologies Pvt. Ltd’s Ola
-                              launched a similar service in Bangalore Thursday with 2 rupees per km,
-                              lower than Uber.</paragraph>
+                            <paragraph>Singapore-based United Overseas Bank’s will invest
+                              $ 10 million in an Israel based equity crowdfunding platform OurCrowd.</paragraph>
                             </chapter>
                             <keywords>
-                              <keyword name="Southern Asia" />
+                              <keyword name="Southeastern Asia" />
                               <keyword name="Investments" />
                               <keyword name="Start-ups" />
                               <keyword name="Tech" />
-                              <keyword name="Transportation" />
-                              <keyword name="Sharing Economy" />
                             </keywords>
                             <sources>
                               <source>nytimes.com</source>
@@ -391,11 +366,11 @@
                             </sources>
                           </section>
                           <section>
-                            <title>Uber in Pakistan</title>
+                            <title>Indian Uber's competitor</title>
                             <chapter>
-                              <paragraph>$ 250 million is the investment of Uber Technologies Inc.
-                                to launch its ride-hailing app in Pakistan and to expand
-                                it into the Middle East and North Africa.</paragraph>
+                              <paragraph>Uber’s main competitor in India, ANI Tecnologies Pvt. Ltd’s Ola
+                                launched a similar service in Bangalore Thursday with 2 rupees per km,
+                                lower than Uber.</paragraph>
                               </chapter>
                               <keywords>
                                 <keyword name="Southern Asia" />
@@ -404,7 +379,6 @@
                                 <keyword name="Tech" />
                                 <keyword name="Transportation" />
                                 <keyword name="Sharing Economy" />
-                                <keyword name="Northern Africa" />
                               </keywords>
                               <sources>
                                 <source>nytimes.com</source>
@@ -416,6 +390,32 @@
                                 <source>cbinsights</source>
                               </sources>
                             </section>
-                          </sections>
-                        </bulletin>
-                      </bulletins>
+                            <section>
+                              <title>Uber in Pakistan</title>
+                              <chapter>
+                                <paragraph>$ 250 million is the investment of Uber Technologies Inc.
+                                  to launch its ride-hailing app in Pakistan and to expand
+                                  it into the Middle East and North Africa.</paragraph>
+                                </chapter>
+                                <keywords>
+                                  <keyword name="Southern Asia" />
+                                  <keyword name="Investments" />
+                                  <keyword name="Start-ups" />
+                                  <keyword name="Tech" />
+                                  <keyword name="Transportation" />
+                                  <keyword name="Sharing Economy" />
+                                  <keyword name="Northern Africa" />
+                                </keywords>
+                                <sources>
+                                  <source>nytimes.com</source>
+                                  <source>vanityfair.com</source>
+                                  <source>crunchbase.com</source>
+                                  <source>fortune.com</source>
+                                  <source>bloomberg.com</source>
+                                  <source>techinasia.com</source>
+                                  <source>cbinsights</source>
+                                </sources>
+                              </section>
+                            </sections>
+                          </bulletin>
+                        </bulletins>

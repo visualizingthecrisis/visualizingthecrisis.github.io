@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <bulletins>
-    <title>EU Debt Crisis Odysssey</title>
-  	<subtitle>About the european crisis</subtitle>
-  	<authors>
-      <author>Valeria Mento</author>
-      <author>Jacopo Faggian</author>
-      <author>Francesca Alaimo</author>
-    </authors>
-    <bulletin id="9" date="20160505">
-      <sections>
+<bulletins>
+  <title>EU Debt Crisis Odysssey</title>
+  <subtitle>About the european crisis</subtitle>
+  <authors>
+    <author>Valeria Mento</author>
+    <author>Jacopo Faggian</author>
+    <author>Francesca Alaimo</author>
+  </authors>
+  <bulletin id="9" date="20160505">
+    <sections>
 
-<section>
-  <quote>
-  <author>Eurostat on twitter</author>
-  <text>
-    During these days Eurostat is publishing, on its twitter page, information regarding
-    European GDP, unemployment and inflaction rates, saying that the situation is going
-    better, because EUis reaching pre-crisis level.
-  </text>
- </quote>
- <keywords>
-   <keyword name="Western Europe" />
-   <keyword name="Eastern Europe" />
-   <keyword name="National Debt" />
-   <keyword name="GDP" />
- </keywords>
- <sources>
-   <source>Eurostat.eu</source>
-   <source>Sentifi.com</source>
-   <source>Theguardian.com</source>
-   <source>Tradingeconomics.com</source>
-   <source>Telegraph.com</source>
-   <source>Cbs.com/</source>
-   <source>Financialnews.com</source>
-   <source>Newsnow.com</source>
-   <source>Wsj.com</source>
-   <source>Lsr.com</source>
- </sources>
-</section>
+      <section>
+        <quote>
+          <author>Eurostat on twitter</author>
+          <text>
+            During these days Eurostat is publishing, on its twitter page, information regarding
+            European GDP, unemployment and inflaction rates, saying that the situation is going
+            better, because EUis reaching pre-crisis level.
+          </text>
+        </quote>
+        <keywords>
+          <keyword name="Western Europe" />
+          <keyword name="Eastern Europe" />
+          <keyword name="National Debt" />
+          <keyword name="GDP" />
+        </keywords>
+        <sources>
+          <source>Eurostat.eu</source>
+          <source>Sentifi.com</source>
+          <source>Theguardian.com</source>
+          <source>Tradingeconomics.com</source>
+          <source>Telegraph.com</source>
+          <source>Cbs.com/</source>
+          <source>Financialnews.com</source>
+          <source>Newsnow.com</source>
+          <source>Wsj.com</source>
+          <source>Lsr.com</source>
+        </sources>
+      </section>
 
-  <section>
-    <title>#Back to pre-crisis?</title>
-      <chapter>
-        <paragraph>
+      <section>
+        <title>#Back to pre-crisis?</title>
+        <chapter>
+          <paragraph>
 
-        </paragraph>
-      </chapter>
-      <chapter>
-        <paragraph>
-          #SomethingIsChanging: #EuroAreaGDP is slowly growing, reaching the pre-crisis level.
-          That is a good sign of economic recovery. During the first quarter of 2016 GDP
-          increased by +0.6% , by +1.6% compared with the first quarter of 2015.
-        </paragraph>
-      </chapter>
+          </paragraph>
+        </chapter>
+        <chapter>
+          <paragraph>
+            #SomethingIsChanging: #EuroAreaGDP is slowly growing, reaching the pre-crisis level.
+            That is a good sign of economic recovery. During the first quarter of 2016 GDP
+            increased by +0.6% , by +1.6% compared with the first quarter of 2015.
+          </paragraph>
+        </chapter>
         <graph unit="%" x="date" y="number">
           <title>% changes over the previous quarter</title>
           <abstract>2008: Begin of the “Great Crisis”;
@@ -110,57 +110,57 @@
 
       <section>
         <title>Country comparison</title>
-          <chapter>
-            <paragraph>
-              Let’s make a comparison between #EuroAreaGDP, China and USA GDP growth
-               for the first quarter of 2016. USA recovery seems to be slowest than
-               Europe. China is still going strong.
-            </paragraph>
-          </chapter>
-          <graph unit="%" x="country" y="number">
-            <title>GDP growth rates Q1-2016</title>
-            <abstract>% data compared with Q1-2015</abstract>
-            <dataset label="GDP Growth">
-              <data x="US" y="0.6"/>
-              <data x="EU" y="1.6"/>
-              <data x="CN" y="6.7"/>
-            </dataset>
-          </graph>
-          <keywords>
-            <keyword name="Western Europe" />
-            <keyword name="Eastern Europe" />
-            <keyword name="National Debt" />
-            <keyword name="GDP" />
-            <keyword name="Central and Eastern Asia" />
-            <keyword name="North America" />
-          </keywords>
-          <sources>
-            <source>Eurostat.eu</source>
-            <source>Sentifi.com</source>
-            <source>Theguardian.com</source>
-            <source>Tradingeconomics.com</source>
-            <source>Telegraph.com</source>
-            <source>Cbs.com/</source>
-            <source>Financialnews.com</source>
-            <source>Newsnow.com</source>
-            <source>Wsj.com</source>
-            <source>Lsr.com</source>
-          </sources>
+        <chapter>
+          <paragraph>
+            Let’s make a comparison between #EuroAreaGDP, China and USA GDP growth
+            for the first quarter of 2016. USA recovery seems to be slowest than
+            Europe. China is still going strong.
+          </paragraph>
+        </chapter>
+        <graph unit="%" x="country" y="number">
+          <title>GDP growth rates Q1-2016</title>
+          <abstract>% data compared with Q1-2015</abstract>
+          <dataset label="GDP Growth">
+            <data x="US" y="0.6"/>
+            <data x="EU" y="1.6"/>
+            <data x="CN" y="6.7"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Western Europe" />
+          <keyword name="Eastern Europe" />
+          <keyword name="National Debt" />
+          <keyword name="GDP" />
+          <keyword name="Central and Eastern Asia" />
+          <keyword name="North America" />
+        </keywords>
+        <sources>
+          <source>Eurostat.eu</source>
+          <source>Sentifi.com</source>
+          <source>Theguardian.com</source>
+          <source>Tradingeconomics.com</source>
+          <source>Telegraph.com</source>
+          <source>Cbs.com/</source>
+          <source>Financialnews.com</source>
+          <source>Newsnow.com</source>
+          <source>Wsj.com</source>
+          <source>Lsr.com</source>
+        </sources>
       </section>
 
       <section>
         <title>European unemployment</title>
-          <chapter>
-            <paragraph>
-              GDP rates is going better, but there is still something that slows down optimism:
-              #UnemploymentRate is not decreasing as we expected. There are some countries with
-              an #UnemploymentRate to high, this fact is creating concern.
-            </paragraph>
-          </chapter>
-          <graph unit="%" x="string" y="number">
-            <title>Unemployment rate in Euro Area - Feb 2016</title>
-            <abstract>Employment is important to increase domestic consumption, necessary
-              to the economic recovery</abstract>
+        <chapter>
+          <paragraph>
+            GDP rates is going better, but there is still something that slows down optimism:
+            #UnemploymentRate is not decreasing as we expected. There are some countries with
+            an #UnemploymentRate to high, this fact is creating concern.
+          </paragraph>
+        </chapter>
+        <graph unit="%" x="string" y="number">
+          <title>Unemployment rate in Euro Area - Feb 2016</title>
+          <abstract>Employment is important to increase domestic consumption, necessary
+            to the economic recovery</abstract>
             <dataset label="GDP Growth">
               <data x="CZ" y="4.1"/>
               <data x="DE" y="4.3"/>
@@ -212,10 +212,10 @@
             <source>Wsj.com</source>
             <source>Lsr.com</source>
           </sources>
-      </section>
+        </section>
 
-      <section>
-        <title>What's Sentify?</title>
+        <section>
+          <title>What's Sentify?</title>
           <chapter>
             <paragraph>
               Sentifi is a leading platform to access, monitor and collaborate on the wisdom
@@ -267,10 +267,10 @@
             <source>Wsj.com</source>
             <source>Lsr.com</source>
           </sources>
-      </section>
+        </section>
 
-      <section>
-        <title>China Slowdown</title>
+        <section>
+          <title>China Slowdown</title>
           <graph unit="%" x="date" y="number">
             <title>China: SLR vs. official sources</title>
             <abstract>Analysts of Lombard Street Reserch say China’s growth is slowing more than Beijing admits</abstract>
@@ -332,10 +332,10 @@
             <source>Wsj.com</source>
             <source>Lsr.com</source>
           </sources>
-      </section>
+        </section>
 
-      <section>
-        <title>Unemployment in Euro Area</title>
+        <section>
+          <title>Unemployment in Euro Area</title>
           <chapter>
             <paragraph>
               Euro Area 19: they're the Euro Area’s country with the monetary union:
@@ -371,248 +371,248 @@
             <source>Wsj.com</source>
             <source>Lsr.com</source>
           </sources>
-      </section>
+        </section>
 
-      <section>
-        <title>European inflation</title>
-        <chapter>
-          <paragraph>
-            Euro area #InflationWentDown again in April to 0.2%, in March was to 0.0%.
-            Another bad news for our economy: deflaction usualy is a sign of #PossibleRecession
-            for a countries, infact target inflation should be 2%.
-          </paragraph>
-        </chapter>
-        <graph unit="%" x="date" y="number">
-          <title>Eu inflation 2013-2016</title>
-          <abstract>2% is the target established by economist that indicates a
-            good balance and a good economic growth of a country</abstract>
-          <dataset label="Inflation rate">
-            <data x="20130131" y="2"/>
-            <data x="20130630" y="1.5"/>
-            <data x="20140131" y="0.9"/>
-            <data x="20140630" y="0.4"/>
-            <data x="20150131" y="-0.6"/>
-            <data x="20150630" y="0.2"/>
-            <data x="20160131" y="0.5"/>
-            <data x="20160630" y="-0.2"/>
-          </dataset>
-        </graph>
-        <graph unit="%" x="string" y="number">
-          <title>Eu annual inflation and its component</title>
-          <dataset label="Inflation rate">
-            <data x="All items" y="-0.1"/>
-            <data x="Energy" y="-8.5"/>
-            <data x="Food Alcohol Tobacco" y="0.8"/>
-            <data x="Non energy industrial goods" y="0.5"/>
-            <data x="Services" y="1"/>
-          </dataset>
-        </graph>
-        <keywords>
-          <keyword name="Eastern Europe" />
-          <keyword name="Western Europe" />
-          <keyword name="Inflation/Deflation" />
-          <keyword name="Oil" />
-          <keyword name="Agriculture" />
-          <keyword name="Manufacturing" />
-          <keyword name="Transportation" />
-        </keywords>
-        <sources>
-          <source>Eurostat.eu</source>
-          <source>Sentifi.com</source>
-          <source>Theguardian.com</source>
-          <source>Tradingeconomics.com</source>
-          <source>Telegraph.com</source>
-          <source>Cbs.com/</source>
-          <source>Financialnews.com</source>
-          <source>Newsnow.com</source>
-          <source>Wsj.com</source>
-          <source>Lsr.com</source>
-        </sources>
-      </section>
+        <section>
+          <title>European inflation</title>
+          <chapter>
+            <paragraph>
+              Euro area #InflationWentDown again in April to 0.2%, in March was to 0.0%.
+              Another bad news for our economy: deflaction usualy is a sign of #PossibleRecession
+              for a countries, infact target inflation should be 2%.
+            </paragraph>
+          </chapter>
+          <graph unit="%" x="date" y="number">
+            <title>Eu inflation 2013-2016</title>
+            <abstract>2% is the target established by economist that indicates a
+              good balance and a good economic growth of a country</abstract>
+              <dataset label="Inflation rate">
+                <data x="20130131" y="2"/>
+                <data x="20130630" y="1.5"/>
+                <data x="20140131" y="0.9"/>
+                <data x="20140630" y="0.4"/>
+                <data x="20150131" y="-0.6"/>
+                <data x="20150630" y="0.2"/>
+                <data x="20160131" y="0.5"/>
+                <data x="20160630" y="-0.2"/>
+              </dataset>
+            </graph>
+            <graph unit="%" x="string" y="number">
+              <title>Eu annual inflation and its component</title>
+              <dataset label="Inflation rate">
+                <data x="All items" y="-0.1"/>
+                <data x="Energy" y="-8.5"/>
+                <data x="Food Alcohol Tobacco" y="0.8"/>
+                <data x="Non energy industrial goods" y="0.5"/>
+                <data x="Services" y="1"/>
+              </dataset>
+            </graph>
+            <keywords>
+              <keyword name="Eastern Europe" />
+              <keyword name="Western Europe" />
+              <keyword name="Inflation/Deflation" />
+              <keyword name="Oil" />
+              <keyword name="Agriculture" />
+              <keyword name="Manufacturing" />
+              <keyword name="Transportation" />
+            </keywords>
+            <sources>
+              <source>Eurostat.eu</source>
+              <source>Sentifi.com</source>
+              <source>Theguardian.com</source>
+              <source>Tradingeconomics.com</source>
+              <source>Telegraph.com</source>
+              <source>Cbs.com/</source>
+              <source>Financialnews.com</source>
+              <source>Newsnow.com</source>
+              <source>Wsj.com</source>
+              <source>Lsr.com</source>
+            </sources>
+          </section>
 
-      <section>
-        <title>Export stats</title>
-        <chapter>
-          <paragraph>
-            Also #ExportIsInCrisis. Export is fundamental for italian economy, but datas
-            from March say "-5,2% on extra-European markets. Main causes are general turmoil
-            in some nations and general word economic slowdown.
-          </paragraph>
-        </chapter>
-        <graph unit="EUR" x="date" y="number">
-          <title>From Italy to Bricks and Ticks</title>
-          <abstract>2% is the target established by economist that indicates a
-            good balance and a good economic growth of a country</abstract>
-          <dataset label="Export to Bricks">
-            <data x="2010" y="24,863,000,000"/>
-            <data x="2011" y="28,000,000,000"/>
-            <data x="2012" y="27,812,000,000"/>
-            <data x="2013" y="29,945,000,000"/>
-            <data x="2014" y="28,531,000,000"/>
-            <data x="2015" y="2,595,9000,000"/>
-          </dataset>
-          <dataset label="Export to Ticks">
-            <data x="2010" y="14,973,000,000"/>
-            <data x="2011" y="17,320,000,000"/>
-            <data x="2012" y="16,432,000,000"/>
-            <data x="2013" y="17,419,000,000"/>
-            <data x="2014" y="17,596,000,000"/>
-            <data x="2015" y="18,848,000,000"/>
-          </dataset>
-        </graph>
-        <graph unit="%" x="country" y="number">
-          <title>2015's value country details</title>
-          <abstract>2% is the target established by economist that indicates a
-            good balance and a good economic growth of a country</abstract>
-          <dataset label="Export to Bricks">
-            <data x="BR" y="-0.2"/>
-            <data x="ZA" y="-8.2"/>
-            <data x="RU" y="42.3"/>
-          </dataset>
-          <dataset label="Export to Ticks">
-            <data x="IN" y="-2.9"/>
-            <data x="CN" y="22"/>
-            <data x="KR" y="25.6"/>
-            <data x="TW" y="79.3"/>
-          </dataset>
-        </graph>
-        <keywords>
-          <keyword name="Eastern Europe" />
-          <keyword name="Western Europe" />
-          <keyword name="Import/Export" />
-          <keyword name="Commerce" />
-          <keyword name="South America" />
-          <keyword name="Southern Africa" />
-          <keyword name="Middle East and Western Asia" />
-          <keyword name="Central and Eastern Asia" />
-          <keyword name="Southern Asia" />
-          <keyword name="Southeastern Asia" />
-        </keywords>
-        <sources>
-          <source>Eurostat.eu</source>
-          <source>Sentifi.com</source>
-          <source>Theguardian.com</source>
-          <source>Tradingeconomics.com</source>
-          <source>Telegraph.com</source>
-          <source>Cbs.com/</source>
-          <source>Financialnews.com</source>
-          <source>Newsnow.com</source>
-          <source>Wsj.com</source>
-          <source>Lsr.com</source>
-        </sources>
-      </section>
+          <section>
+            <title>Export stats</title>
+            <chapter>
+              <paragraph>
+                Also #ExportIsInCrisis. Export is fundamental for italian economy, but datas
+                from March say "-5,2% on extra-European markets. Main causes are general turmoil
+                in some nations and general word economic slowdown.
+              </paragraph>
+            </chapter>
+            <graph unit="EUR" x="date" y="number">
+              <title>From Italy to Bricks and Ticks</title>
+              <abstract>2% is the target established by economist that indicates a
+                good balance and a good economic growth of a country</abstract>
+                <dataset label="Export to Bricks">
+                  <data x="2010" y="24,863,000,000"/>
+                  <data x="2011" y="28,000,000,000"/>
+                  <data x="2012" y="27,812,000,000"/>
+                  <data x="2013" y="29,945,000,000"/>
+                  <data x="2014" y="28,531,000,000"/>
+                  <data x="2015" y="2,595,9000,000"/>
+                </dataset>
+                <dataset label="Export to Ticks">
+                  <data x="2010" y="14,973,000,000"/>
+                  <data x="2011" y="17,320,000,000"/>
+                  <data x="2012" y="16,432,000,000"/>
+                  <data x="2013" y="17,419,000,000"/>
+                  <data x="2014" y="17,596,000,000"/>
+                  <data x="2015" y="18,848,000,000"/>
+                </dataset>
+              </graph>
+              <graph unit="%" x="country" y="number">
+                <title>2015's value country details</title>
+                <abstract>2% is the target established by economist that indicates a
+                  good balance and a good economic growth of a country</abstract>
+                  <dataset label="Export to Bricks">
+                    <data x="BR" y="-0.2"/>
+                    <data x="ZA" y="-8.2"/>
+                    <data x="RU" y="42.3"/>
+                  </dataset>
+                  <dataset label="Export to Ticks">
+                    <data x="IN" y="-2.9"/>
+                    <data x="CN" y="22"/>
+                    <data x="KR" y="25.6"/>
+                    <data x="TW" y="79.3"/>
+                  </dataset>
+                </graph>
+                <keywords>
+                  <keyword name="Eastern Europe" />
+                  <keyword name="Western Europe" />
+                  <keyword name="Import/Export" />
+                  <keyword name="Commerce" />
+                  <keyword name="South America" />
+                  <keyword name="Southern Africa" />
+                  <keyword name="Middle East and Western Asia" />
+                  <keyword name="Central and Eastern Asia" />
+                  <keyword name="Southern Asia" />
+                  <keyword name="Southeastern Asia" />
+                </keywords>
+                <sources>
+                  <source>Eurostat.eu</source>
+                  <source>Sentifi.com</source>
+                  <source>Theguardian.com</source>
+                  <source>Tradingeconomics.com</source>
+                  <source>Telegraph.com</source>
+                  <source>Cbs.com/</source>
+                  <source>Financialnews.com</source>
+                  <source>Newsnow.com</source>
+                  <source>Wsj.com</source>
+                  <source>Lsr.com</source>
+                </sources>
+              </section>
 
-      <section>
-        <title>The newspapers voice</title>
-        <chapter>
-          <paragraph>
-            Europe is still weighed down by high debt, weak bank profits,
-            high unemployment and vast excess capacity in the economy.
-          </paragraph>
-        </chapter>
-        <graph unit="%" x="string" y="percentage">
-          <title>Youth unemployment in EU</title>
-          <abstract>
-            50% of unemployed young people is an extremely high
-            rate for the European Union, so we need to find a solution.
-          </abstract>
-          <dataset label="Export to Bricks">
-            <data x="employed" y="50"/>
-            <data x="unemployed" y="50"/>
-          </dataset>
-        </graph>
-        <graph unit="%" x="country" y="percentage">
-          <title>Situation on unemployment in Spain and France</title>
-          <dataset label="Export to Bricks">
-            <data x="ES" y="21"/>
-            <data x="FR" y="15"/>
-          </dataset>
-        </graph>
-        <keywords>
-          <keyword name="Eastern Europe" />
-          <keyword name="Western Europe" />
-          <keyword name="Employment" />
-          <keyword name="Millennials (1981–2000)" />
-          <keyword name="Generation X (1965–1980)" />
-          <keyword name="Baby Boomers (1945–1964)" />
-          <keyword name="Middle East and Western Asia" />
-          <keyword name="Working class" />
-        </keywords>
-        <sources>
-          <source>Eurostat.eu</source>
-          <source>Sentifi.com</source>
-          <source>Theguardian.com</source>
-          <source>Tradingeconomics.com</source>
-          <source>Telegraph.com</source>
-          <source>Cbs.com/</source>
-          <source>Financialnews.com</source>
-          <source>Newsnow.com</source>
-          <source>Wsj.com</source>
-          <source>Lsr.com</source>
-        </sources>
-      </section>
+              <section>
+                <title>The newspapers voice</title>
+                <chapter>
+                  <paragraph>
+                    Europe is still weighed down by high debt, weak bank profits,
+                    high unemployment and vast excess capacity in the economy.
+                  </paragraph>
+                </chapter>
+                <graph unit="%" x="string" y="percentage">
+                  <title>Youth unemployment in EU</title>
+                  <abstract>
+                    50% of unemployed young people is an extremely high
+                    rate for the European Union, so we need to find a solution.
+                  </abstract>
+                  <dataset label="Export to Bricks">
+                    <data x="employed" y="50"/>
+                    <data x="unemployed" y="50"/>
+                  </dataset>
+                </graph>
+                <graph unit="%" x="country" y="percentage">
+                  <title>Situation on unemployment in Spain and France</title>
+                  <dataset label="Export to Bricks">
+                    <data x="ES" y="21"/>
+                    <data x="FR" y="15"/>
+                  </dataset>
+                </graph>
+                <keywords>
+                  <keyword name="Eastern Europe" />
+                  <keyword name="Western Europe" />
+                  <keyword name="Employment" />
+                  <keyword name="Millennials (1981–2000)" />
+                  <keyword name="Generation X (1965–1980)" />
+                  <keyword name="Baby Boomers (1945–1964)" />
+                  <keyword name="Middle East and Western Asia" />
+                  <keyword name="Working class" />
+                </keywords>
+                <sources>
+                  <source>Eurostat.eu</source>
+                  <source>Sentifi.com</source>
+                  <source>Theguardian.com</source>
+                  <source>Tradingeconomics.com</source>
+                  <source>Telegraph.com</source>
+                  <source>Cbs.com/</source>
+                  <source>Financialnews.com</source>
+                  <source>Newsnow.com</source>
+                  <source>Wsj.com</source>
+                  <source>Lsr.com</source>
+                </sources>
+              </section>
 
-      <section>
-        <title>Inflation in Italy</title>
-        <chapter>
-          <paragraph>
-            Situation in Italy is even worst then Europan situation taking into consideration inflation rate
-          </paragraph>
-        </chapter>
-        <graph unit="%" x="date" y="number">
-          <title>Cyclical trend in Italy</title>
-          <dataset label="Export to Bricks">
-            <data x="20150430" y="0.1"/>
-            <data x="20150531" y="0.1"/>
-            <data x="20150630" y="0.2"/>
-            <data x="20150731" y="-0.1"/>
-            <data x="20150831" y="0.2"/>
-            <data x="20150930" y="-0.4"/>
-            <data x="20151031" y="0.2"/>
-            <data x="20151130" y="-0.4"/>
-            <data x="20151231" y="0"/>
-            <data x="20160131" y="-0,2"/>
-            <data x="20160229" y="-0,2"/>
-            <data x="20160331" y="0.2"/>
-            <data x="20160430" y="0"/>
-          </dataset>
-        </graph>
-        <graph unit="%" x="date" y="number">
-          <title>Annual inflation in Italy</title>
-          <dataset label="Export to Bricks">
-            <data x="20150430" y="-0.1"/>
-            <data x="20150531" y="0.1"/>
-            <data x="20150630" y="0.2"/>
-            <data x="20150731" y="0.2"/>
-            <data x="20150831" y="0.2"/>
-            <data x="20150930" y="0.2"/>
-            <data x="20151031" y="0.3"/>
-            <data x="20151130" y="-0.1"/>
-            <data x="20151231" y="-0.1"/>
-            <data x="20160131" y="0.3"/>
-            <data x="20160229" y="-0,3"/>
-            <data x="20160331" y="-0.2"/>
-            <data x="20160430" y="-0.4"/>
-          </dataset>
-        </graph>
-          <keywords>
-          <keyword name="Inflation/Deflation" />
-          <keyword name="Western Europe" />
-        </keywords>
-        <sources>
-          <source>Eurostat.eu</source>
-          <source>Sentifi.com</source>
-          <source>Theguardian.com</source>
-          <source>Tradingeconomics.com</source>
-          <source>Telegraph.com</source>
-          <source>Cbs.com/</source>
-          <source>Financialnews.com</source>
-          <source>Newsnow.com</source>
-          <source>Wsj.com</source>
-          <source>Lsr.com</source>
-        </sources>
-      </section>
+              <section>
+                <title>Inflation in Italy</title>
+                <chapter>
+                  <paragraph>
+                    Situation in Italy is even worst then Europan situation taking into consideration inflation rate
+                  </paragraph>
+                </chapter>
+                <graph unit="%" x="date" y="number">
+                  <title>Cyclical trend in Italy</title>
+                  <dataset label="Export to Bricks">
+                    <data x="20150430" y="0.1"/>
+                    <data x="20150531" y="0.1"/>
+                    <data x="20150630" y="0.2"/>
+                    <data x="20150731" y="-0.1"/>
+                    <data x="20150831" y="0.2"/>
+                    <data x="20150930" y="-0.4"/>
+                    <data x="20151031" y="0.2"/>
+                    <data x="20151130" y="-0.4"/>
+                    <data x="20151231" y="0"/>
+                    <data x="20160131" y="-0,2"/>
+                    <data x="20160229" y="-0,2"/>
+                    <data x="20160331" y="0.2"/>
+                    <data x="20160430" y="0"/>
+                  </dataset>
+                </graph>
+                <graph unit="%" x="date" y="number">
+                  <title>Annual inflation in Italy</title>
+                  <dataset label="Export to Bricks">
+                    <data x="20150430" y="-0.1"/>
+                    <data x="20150531" y="0.1"/>
+                    <data x="20150630" y="0.2"/>
+                    <data x="20150731" y="0.2"/>
+                    <data x="20150831" y="0.2"/>
+                    <data x="20150930" y="0.2"/>
+                    <data x="20151031" y="0.3"/>
+                    <data x="20151130" y="-0.1"/>
+                    <data x="20151231" y="-0.1"/>
+                    <data x="20160131" y="0.3"/>
+                    <data x="20160229" y="-0,3"/>
+                    <data x="20160331" y="-0.2"/>
+                    <data x="20160430" y="-0.4"/>
+                  </dataset>
+                </graph>
+                <keywords>
+                  <keyword name="Inflation/Deflation" />
+                  <keyword name="Western Europe" />
+                </keywords>
+                <sources>
+                  <source>Eurostat.eu</source>
+                  <source>Sentifi.com</source>
+                  <source>Theguardian.com</source>
+                  <source>Tradingeconomics.com</source>
+                  <source>Telegraph.com</source>
+                  <source>Cbs.com/</source>
+                  <source>Financialnews.com</source>
+                  <source>Newsnow.com</source>
+                  <source>Wsj.com</source>
+                  <source>Lsr.com</source>
+                </sources>
+              </section>
 
-  </sections>
-</bulletin>
-</bulletins>
+            </sections>
+          </bulletin>
+        </bulletins>

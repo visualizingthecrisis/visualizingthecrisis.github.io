@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>                                          <!--[ 1 ]-->
 <bulletins group="centralbanking">                                                                    <!--[ 1 ]-->
   <title>OH! G.O.D.</title>                                                     <!--[ 1 ]-->
-    <subtitle>Governors Of Demand</subtitle>                                    <!--[ 1 ]-->
-      <authors>                                                                 <!--[ 1 ]-->
-        <author>Giulia Fracas</author>                                          <!--[1-N]-->
-        <author>Francesca Polini</author>
-      </authors>
-        <bulletin id="01" date="20160305">                                     <!--[1-N]-->
-          <sections>                                                            <!--[ 1 ]-->
-            <section>                                                           <!--[1-N]-->
-              <title>How many groups lead us?</title>                                         <!--[0-1]-->
-              <chapter>                                                         <!--[0-N]-->
-                <paragraph>The International Monetary Fund and the World Bank were both created at an international conference convened in Bretton Woods, New Hampshire, United States in July 1944.
-                  The goal of the conference was to establish a framework for economic cooperation and development that would lead to a more stable and prosperous global economy.
-                  While this goal remains central to both institutions, their work is constantly evolving in response to new economic developments and challenges.</paragraph>                                <!--[0-N]-->
-                  <paragraph>The World Bank 7,000 staff members.</paragraph>     <!--[0-N]-->
-                  <paragraph>The International Monetary Fund 2,300 staff members.</paragraph>     <!--[0-N]-->
-                </chapter>
-                <keywords>                                                      <!--[ 1 ]-->
-          <keyword name="Global Corporations" />                                    <!--[1-N]-->
-          <keyword name="Governance" />
-        </keywords>
-        <sources>                                                       <!--[ 1 ]-->
-          <source>imf.org</source>                                     <!--[1-N]-->
-        </sources>
-              </section>
-              <section>
-        <title>2016 Spring Annual Meeting</title>
-        <abstract>
-    		    The relationship between The World Bank
+  <subtitle>Governors Of Demand</subtitle>                                    <!--[ 1 ]-->
+  <authors>                                                                 <!--[ 1 ]-->
+    <author>Giulia Fracas</author>                                          <!--[1-N]-->
+    <author>Francesca Polini</author>
+  </authors>
+  <bulletin id="01" date="20160305">                                     <!--[1-N]-->
+    <sections>                                                            <!--[ 1 ]-->
+      <section>                                                           <!--[1-N]-->
+        <title>How many groups lead us?</title>                                         <!--[0-1]-->
+        <chapter>                                                         <!--[0-N]-->
+          <paragraph>The International Monetary Fund and the World Bank were both created at an international conference convened in Bretton Woods, New Hampshire, United States in July 1944.
+            The goal of the conference was to establish a framework for economic cooperation and development that would lead to a more stable and prosperous global economy.
+            While this goal remains central to both institutions, their work is constantly evolving in response to new economic developments and challenges.</paragraph>                                <!--[0-N]-->
+            <paragraph>The World Bank 7,000 staff members.</paragraph>     <!--[0-N]-->
+            <paragraph>The International Monetary Fund 2,300 staff members.</paragraph>     <!--[0-N]-->
+          </chapter>
+          <keywords>                                                      <!--[ 1 ]-->
+            <keyword name="Global Corporations" />                                    <!--[1-N]-->
+            <keyword name="Governance" />
+          </keywords>
+          <sources>                                                       <!--[ 1 ]-->
+            <source>imf.org</source>                                     <!--[1-N]-->
+          </sources>
+        </section>
+        <section>
+          <title>2016 Spring Annual Meeting</title>
+          <abstract>
+            The relationship between The World Bank
             and The International Monetary Fund
-        </abstract>
-        <chapter>
-          <paragraph>
-            Each year central bankers, ministers of finance
-            and development, private sector executives, and academics
-            meet together to discuss issues of global concern, including
-            the world economic outlook, poverty eradication, economic development,
-            and aid effectiveness. This year will be held in Washington D.C. on April
-            15th - 17th.
-          </paragraph>
-        </chapter>
-        <chapter>
+          </abstract>
+          <chapter>
+            <paragraph>
+              Each year central bankers, ministers of finance
+              and development, private sector executives, and academics
+              meet together to discuss issues of global concern, including
+              the world economic outlook, poverty eradication, economic development,
+              and aid effectiveness. This year will be held in Washington D.C. on April
+              15th - 17th.
+            </paragraph>
+          </chapter>
+          <chapter>
             <title>The economic solution of IMF and WB</title>
             <paragraph>
               The IMF works hand-in-hand with the World Bank, and although they are two separate
@@ -68,10 +68,10 @@
             <source>imf.org</source>
             <source>worldbank.org</source>
           </sources>
-      </section>
-      <section>
-        <title>The quota formula</title>
-        <chapter>
+        </section>
+        <section>
+          <title>The quota formula</title>
+          <chapter>
             <paragraph>
               Quota subscriptions are a central
               component of the IMF’s financial
@@ -80,58 +80,58 @@
               based broadly on its relative
               position in the world economy.
             </paragraph>
-        </chapter>
-        <graph unit="%" x="string" y="percentage">
-          <title>The quota formula</title>
-          <dataset label= "member quotas">
-            <data x="GDP" y="50"/>
-            <data x="Opennes" y="30"/>
-            <data x="Economic variability" y="15"/>
-            <data x="International reserves" y="5"/>
-          </dataset>
-        </graph>
-        <keywords>
-          <keyword name="GDP"/>
-          <keyword name="Global Corporations"/>
-          <keyword name="Governance"/>
-        </keywords>
-        <sources>
-          <source>imf.org</source>
-          <source>worldbank.org</source>
-        </sources>
-      </section>
-      <section>
-        <title>Key roles in the IMF</title>
+          </chapter>
+          <graph unit="%" x="string" y="percentage">
+            <title>The quota formula</title>
+            <dataset label= "member quotas">
+              <data x="GDP" y="50"/>
+              <data x="Opennes" y="30"/>
+              <data x="Economic variability" y="15"/>
+              <data x="International reserves" y="5"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="GDP"/>
+            <keyword name="Global Corporations"/>
+            <keyword name="Governance"/>
+          </keywords>
+          <sources>
+            <source>imf.org</source>
+            <source>worldbank.org</source>
+          </sources>
+        </section>
+        <section>
+          <title>Key roles in the IMF</title>
           <chapter>
             <title>1. Subscriptions </title>
-              <paragraph>
-                determines the maximum amount
-                of financial resources the member
-                is obliged to provide to the IMF.
-              </paragraph>
-            </chapter>
-                <graph unit="%" x="string" y="percentage">
-                  <dataset label= "member quotas">
-                    <data x="SDRs or accepted currencies" y="25"/>
-                    <data x="member's own currencies" y="75"/>
-                  </dataset>
-                </graph>
-        <chapter>
-          <title>2. Voting power</title>
+            <paragraph>
+              determines the maximum amount
+              of financial resources the member
+              is obliged to provide to the IMF.
+            </paragraph>
+          </chapter>
+          <graph unit="%" x="string" y="percentage">
+            <dataset label= "member quotas">
+              <data x="SDRs or accepted currencies" y="25"/>
+              <data x="member's own currencies" y="75"/>
+            </dataset>
+          </graph>
+          <chapter>
+            <title>2. Voting power</title>
             <paragraph>
               The quota largely determines a
               member’s voting power in IMF
               decisions.
             </paragraph>
-        </chapter>
-        <chapter>
-          <title>3. Access to financing</title>
+          </chapter>
+          <chapter>
+            <title>3. Access to financing</title>
             <paragraph>
               The amount of financing a member
               can obtain from the IMF (its access
               limit) is based on its quota.
             </paragraph>
-        </chapter>
+          </chapter>
           <quote>
             <author>Christine Lagarde</author>
             <text>
@@ -147,475 +147,475 @@
               we need action now.
             </text>
           </quote>
-        <keywords>
-          <keyword name="Governance"/>
-          <keyword name="Global Corporations"/>
-        </keywords>
-        <sources>
-          <source>imf.org</source>
-        </sources>
-      </section>
-                   <section>
-                <chapter>                                                       <!--[0-N]-->
-                <title>The Group of Twenty</title>                              <!--[0-1]-->
-                <paragraph>Formally established in September 1999 the Group is the premier forum for international cooperation on the most important issues of the global economic and financial agenda.
-                  It promotes open and constructive discussion between industrial and emerging-market countries on key issues related to global economic stability.</paragraph>                                <!--[0-N]-->
-                </chapter>
-                <chapter>
-           <title>2016 Leading Country</title>
-             <paragraph>
-               <list type="unordered">
-                 <item>China</item>
-               </list>
-             </paragraph>
-         </chapter>
-         <chapter>
-           <title>Member States</title>
-             <paragraph>
-               <list type="unordered">
-                 <item>Argentina</item>
-                 <item>Australia</item>
-                 <item>Brazil</item>
-                 <item>Canada</item>
-                 <item>France</item>
-                 <item>Germany</item>
-                 <item>India</item>
-                 <item>Indonesia</item>
-                 <item>Japan</item>
-                 <item>Italy</item>
-                 <item>Republic of Korea</item>
-                 <item>Mexico</item>
-                 <item>Saudi Arabia</item>
-                 <item>Russia</item>
-                 <item>South Africa</item>
-                 <item>Turkey</item>
-                 <item>United States</item>
-                 <item>United Kingdom</item>
-                 <item>European Union</item>
-               </list>
-             </paragraph>
-         </chapter>
-         <keywords>                                                <!--[ 1 ]-->
-            <keyword name="Global Corporations"/>               <!--[1-N]-->
-                </keywords>
-                <sources>                                                        <!--[ 1 ]-->
-                   <source>g8.org</source>                                           <!--[1-N]-->
-                   <source>wikipedia.org</source>
-                </sources>
-              </section>
-              <section>                                                         <!--[1-N]-->
-                <title>G20 SUMMITS</title>                                      <!--[0-1]-->
-                <abstract>It is normal practice for the G20 to meet once a year. However, leaders met twice a year when the global economy was in crisis.</abstract>                             <!-- max 144 char-->
-                <table>                                                         <!--[0-N]-->
-                  <row type="head">                                             <!--[ 1 ]-->
-                    <cell>Year</cell>                                           <!--[1-N]-->
-                    <cell>City</cell>
-                    <cell>State</cell>
-                  </row>
-                  <row type="cell">                                             <!--[1-N]-->
-                    <cell>2008</cell>                                           <!--[1-N]-->
-                    <cell>Washington D.C.</cell>
-                    <cell>United States</cell>
-                  </row>
-                  <row type="cell">                                             <!--[1-N]-->
-                    <cell>2009</cell>                                           <!--[1-N]-->
-                    <cell>London, Pittsburgh</cell>
-                    <cell>United Kingdom, United States</cell>
-                  </row>
-                  <row type="cell">                                             <!--[1-N]-->
-                    <cell>2010</cell>                                           <!--[1-N]-->
-                    <cell>Toronto, Seoul</cell>
-                    <cell>Canada, Republic of Korea</cell>
-                  </row>
-                  <row type="cell">                                             <!--[1-N]-->
-                    <cell>2011</cell>                                           <!--[1-N]-->
-                    <cell>Cannes</cell>
-                    <cell>France</cell>
-                  </row>
-                  <row type="cell">                                             <!--[1-N]-->
-                    <cell>2012</cell>                                           <!--[1-N]-->
-                    <cell>Los Cabos</cell>
-                    <cell>Mexico</cell>
-                  </row>
-                  <row type="cell">                                             <!--[1-N]-->
-                    <cell>2013</cell>                                           <!--[1-N]-->
-                    <cell>St. Petersburg</cell>
-                    <cell>Russia</cell>
-                  </row>
-                  <row type="cell">                                             <!--[1-N]-->
-                    <cell>2014</cell>                                           <!--[1-N]-->
-                    <cell>Brisbane</cell>
-                    <cell>Australia</cell>
-                  </row>
-                  <row type="cell">                                             <!--[1-N]-->
-                    <cell>2015</cell>                                           <!--[1-N]-->
-                    <cell>Antalya</cell>
-                    <cell>Turkey</cell>
-                  </row>
-                  <row type="cell">                                             <!--[1-N]-->
-                    <cell>2016</cell>                                           <!--[1-N]-->
-                    <cell>Hangzhou</cell>
-                    <cell>Chinas</cell>
-                  </row>
-                  <row type="cell">                                             <!--[1-N]-->
-                    <cell>2017</cell>                                           <!--[1-N]-->
-                    <cell>Hamburg</cell>
-                    <cell>Germany</cell>
-                  </row>
-                </table>
-                <chapter>                                                       <!--[0-N]-->
-                <title>Finance Ministers and Central Bank Governors’Meetings</title>      <!--[0-1]-->
-                  <paragraph>They are meeting this weekend in Shanghai to discuss the current state of the global economy, which looks shaky at best. With concerns over the U.S. stock market, global growth, and the ability for governments to fight another global recession.</paragraph>          <!--[0-N]-->
-                  <paragraph>                                                   <!--[0-N]-->
-                    <list type="Date">                                          <!--[1-N]-->
-                      <item>February 26-27, 2016</item>
-                      <item>April 14-15, 2016</item>
-                      <item>July 23-24, 2016</item>
-                    </list>
-                    <list type="City">                                          <!--[0-N]-->
-                      <item>Shanghai</item>                                     <!--[1-N]-->
-                      <item>Washington D.C.</item>
-                      <item>Chengdu</item>
-                    </list>
-                  </paragraph>
-                </chapter>
-                <keywords>                                                      <!--[ 1 ]-->
-            <keyword name="Global Corporations"/>               <!--[1-N]-->
-            <keyword name="North America"/>
-            <keyword name="Central and Eastern Asia"/>
-                </keywords>
-                <sources>                                                        <!--[ 1 ]-->
-                   <source>g20.org</source>                                           <!--[1-N]-->
-                </sources>
-              </section>
-              <section>                                                         <!--[1-N]-->
-                <title>What you need to know about this G20 Summit</title>      <!--[0-1]-->
-                <chapter>                                                       <!--[0-N]-->
-                <paragraph>
-                  <list type="ordered">                                          <!--[0-N]-->
-                    <item>We’re in the midst of a currency war, and nobody wants to admit it</item>                                              <!--[1-N]-->
-                    <item>The countries who can afford fiscal stimulus are ideologically opposed to it</item>
-                    <item>There’s no agreement on what to do to combat the coming global downturn WB IMF</item>
-                  </list>
-                </paragraph>
-              </chapter>
-              <keywords>                                                      <!--[ 1 ]-->
-          <keyword name="Global Corporations"/>               <!--[1-N]-->
-          <keyword name="Currencies"/>
-              </keywords>
-              <sources>                                                        <!--[ 1 ]-->
-                 <source>fortune.com</source>                                           <!--[1-N]-->
-              </sources>
-              </section>
-              <section>                                                         <!--[1-N]-->
-              <title>Main topics</title>                                        <!--[0-1]-->
-              <graph unit="%" x="date" y="number">                     <!--[0-N]-->
-                <title>Global slow-growth</title>                               <!--[0-1]-->
-                <abstract>Global recovery continues, but at an ever-slowing and fragile pace that leaves the world econonomy more exposed to risk.</abstract>        <!-- max 144 char-->
-                <dataset label="Global Growth">                                 <!--[1-N]-->
-                  <data x="2014" y="2.8" />
-                  <data x="2015" y="2.6" />
-                  <data x="2016" y="2.9" />
-                  <data x="2017" y="3.2" />
-                </dataset>
-              </graph>
-              <chapter>                                                         <!--[0-N]-->
-              <paragraph>While emerging markets and developing economies will still account for the lion’s share of world growth in 2016, prospects across countries remain uneven and generally weaker than over the past two decades.</paragraph>                 <!--[0-N]-->
-              <title>Brexit</title>                                             <!--[0-1]-->
-                <paragraph>he term refers to the possibility of Britain withdrawal from the European Union. The impact of the UK leaving the European Union create an instable economic situation where everyone loses, because of the tight link between UK and EU markets. Economists are now trying to focus on the possible or probable consequences both positive or negative in terms of number and GDP.</paragraph>      <!--[0-N]-->
-              </chapter>
-              <table>                                                           <!--[0-N]-->
-                <row type="head">                                               <!--[ 1 ]-->
-                  <cell>States</cell>                                           <!--[1-N]-->
-                  <cell>GDP</cell>
-                </row>
-                <row type="cell">                                               <!--[1-N]-->
-                  <cell>UK</cell>                                               <!--[1-N]-->
-                  <cell>-4%</cell>
-                </row>
-                <row type="cell">                                               <!--[1-N]-->
-                  <cell>IS</cell>                                               <!--[1-N]-->
-                  <cell>-2.66%</cell>
-                </row>
-                <row type="cell">                                               <!--[1-N]-->
-                  <cell>DE</cell>                                               <!--[1-N]-->
-                  <cell>-0.33%</cell>
-                </row>
-                <row type="cell">                                               <!--[1-N]-->
-                  <cell>FR</cell>                                               <!--[1-N]-->
-                  <cell>-0.26%</cell>
-                </row>
-                <row type="cell">                                               <!--[1-N]-->
-                  <cell>ES</cell>                                               <!--[1-N]-->
-                  <cell>-0.22%</cell>
-                </row>
-              </table>
-            <keywords>                                                      <!--[ 1 ]-->
-        <keyword name="Global Corporations"/>               <!--[1-N]-->
-        <keyword name="Brexit"/>
-        <keyword name="Western Europe"/>
+          <keywords>
+            <keyword name="Governance"/>
+            <keyword name="Global Corporations"/>
+          </keywords>
+          <sources>
+            <source>imf.org</source>
+          </sources>
+        </section>
+        <section>
+          <chapter>                                                       <!--[0-N]-->
+            <title>The Group of Twenty</title>                              <!--[0-1]-->
+            <paragraph>Formally established in September 1999 the Group is the premier forum for international cooperation on the most important issues of the global economic and financial agenda.
+              It promotes open and constructive discussion between industrial and emerging-market countries on key issues related to global economic stability.</paragraph>                                <!--[0-N]-->
+            </chapter>
+            <chapter>
+              <title>2016 Leading Country</title>
+              <paragraph>
+                <list type="unordered">
+                  <item>China</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>Member States</title>
+              <paragraph>
+                <list type="unordered">
+                  <item>Argentina</item>
+                  <item>Australia</item>
+                  <item>Brazil</item>
+                  <item>Canada</item>
+                  <item>France</item>
+                  <item>Germany</item>
+                  <item>India</item>
+                  <item>Indonesia</item>
+                  <item>Japan</item>
+                  <item>Italy</item>
+                  <item>Republic of Korea</item>
+                  <item>Mexico</item>
+                  <item>Saudi Arabia</item>
+                  <item>Russia</item>
+                  <item>South Africa</item>
+                  <item>Turkey</item>
+                  <item>United States</item>
+                  <item>United Kingdom</item>
+                  <item>European Union</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <keywords>                                                <!--[ 1 ]-->
+              <keyword name="Global Corporations"/>               <!--[1-N]-->
             </keywords>
             <sources>                                                        <!--[ 1 ]-->
-               <source>IMF.org</source>                                           <!--[1-N]-->
+              <source>g8.org</source>                                           <!--[1-N]-->
+              <source>wikipedia.org</source>
+            </sources>
+          </section>
+          <section>                                                         <!--[1-N]-->
+            <title>G20 SUMMITS</title>                                      <!--[0-1]-->
+            <abstract>It is normal practice for the G20 to meet once a year. However, leaders met twice a year when the global economy was in crisis.</abstract>                             <!-- max 144 char-->
+            <table>                                                         <!--[0-N]-->
+              <row type="head">                                             <!--[ 1 ]-->
+                <cell>Year</cell>                                           <!--[1-N]-->
+                <cell>City</cell>
+                <cell>State</cell>
+              </row>
+              <row type="cell">                                             <!--[1-N]-->
+                <cell>2008</cell>                                           <!--[1-N]-->
+                <cell>Washington D.C.</cell>
+                <cell>United States</cell>
+              </row>
+              <row type="cell">                                             <!--[1-N]-->
+                <cell>2009</cell>                                           <!--[1-N]-->
+                <cell>London, Pittsburgh</cell>
+                <cell>United Kingdom, United States</cell>
+              </row>
+              <row type="cell">                                             <!--[1-N]-->
+                <cell>2010</cell>                                           <!--[1-N]-->
+                <cell>Toronto, Seoul</cell>
+                <cell>Canada, Republic of Korea</cell>
+              </row>
+              <row type="cell">                                             <!--[1-N]-->
+                <cell>2011</cell>                                           <!--[1-N]-->
+                <cell>Cannes</cell>
+                <cell>France</cell>
+              </row>
+              <row type="cell">                                             <!--[1-N]-->
+                <cell>2012</cell>                                           <!--[1-N]-->
+                <cell>Los Cabos</cell>
+                <cell>Mexico</cell>
+              </row>
+              <row type="cell">                                             <!--[1-N]-->
+                <cell>2013</cell>                                           <!--[1-N]-->
+                <cell>St. Petersburg</cell>
+                <cell>Russia</cell>
+              </row>
+              <row type="cell">                                             <!--[1-N]-->
+                <cell>2014</cell>                                           <!--[1-N]-->
+                <cell>Brisbane</cell>
+                <cell>Australia</cell>
+              </row>
+              <row type="cell">                                             <!--[1-N]-->
+                <cell>2015</cell>                                           <!--[1-N]-->
+                <cell>Antalya</cell>
+                <cell>Turkey</cell>
+              </row>
+              <row type="cell">                                             <!--[1-N]-->
+                <cell>2016</cell>                                           <!--[1-N]-->
+                <cell>Hangzhou</cell>
+                <cell>Chinas</cell>
+              </row>
+              <row type="cell">                                             <!--[1-N]-->
+                <cell>2017</cell>                                           <!--[1-N]-->
+                <cell>Hamburg</cell>
+                <cell>Germany</cell>
+              </row>
+            </table>
+            <chapter>                                                       <!--[0-N]-->
+              <title>Finance Ministers and Central Bank Governors’Meetings</title>      <!--[0-1]-->
+              <paragraph>They are meeting this weekend in Shanghai to discuss the current state of the global economy, which looks shaky at best. With concerns over the U.S. stock market, global growth, and the ability for governments to fight another global recession.</paragraph>          <!--[0-N]-->
+              <paragraph>                                                   <!--[0-N]-->
+                <list type="Date">                                          <!--[1-N]-->
+                  <item>February 26-27, 2016</item>
+                  <item>April 14-15, 2016</item>
+                  <item>July 23-24, 2016</item>
+                </list>
+                <list type="City">                                          <!--[0-N]-->
+                  <item>Shanghai</item>                                     <!--[1-N]-->
+                  <item>Washington D.C.</item>
+                  <item>Chengdu</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <keywords>                                                      <!--[ 1 ]-->
+              <keyword name="Global Corporations"/>               <!--[1-N]-->
+              <keyword name="North America"/>
+              <keyword name="Central and Eastern Asia"/>
+            </keywords>
+            <sources>                                                        <!--[ 1 ]-->
+              <source>g20.org</source>                                           <!--[1-N]-->
+            </sources>
+          </section>
+          <section>                                                         <!--[1-N]-->
+            <title>What you need to know about this G20 Summit</title>      <!--[0-1]-->
+            <chapter>                                                       <!--[0-N]-->
+              <paragraph>
+                <list type="ordered">                                          <!--[0-N]-->
+                  <item>We’re in the midst of a currency war, and nobody wants to admit it</item>                                              <!--[1-N]-->
+                  <item>The countries who can afford fiscal stimulus are ideologically opposed to it</item>
+                  <item>There’s no agreement on what to do to combat the coming global downturn WB IMF</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <keywords>                                                      <!--[ 1 ]-->
+              <keyword name="Global Corporations"/>               <!--[1-N]-->
+              <keyword name="Currencies"/>
+            </keywords>
+            <sources>                                                        <!--[ 1 ]-->
+              <source>fortune.com</source>                                           <!--[1-N]-->
+            </sources>
+          </section>
+          <section>                                                         <!--[1-N]-->
+            <title>Main topics</title>                                        <!--[0-1]-->
+            <graph unit="%" x="date" y="number">                     <!--[0-N]-->
+              <title>Global slow-growth</title>                               <!--[0-1]-->
+              <abstract>Global recovery continues, but at an ever-slowing and fragile pace that leaves the world econonomy more exposed to risk.</abstract>        <!-- max 144 char-->
+              <dataset label="Global Growth">                                 <!--[1-N]-->
+                <data x="2014" y="2.8" />
+                <data x="2015" y="2.6" />
+                <data x="2016" y="2.9" />
+                <data x="2017" y="3.2" />
+              </dataset>
+            </graph>
+            <chapter>                                                         <!--[0-N]-->
+              <paragraph>While emerging markets and developing economies will still account for the lion’s share of world growth in 2016, prospects across countries remain uneven and generally weaker than over the past two decades.</paragraph>                 <!--[0-N]-->
+              <title>Brexit</title>                                             <!--[0-1]-->
+              <paragraph>he term refers to the possibility of Britain withdrawal from the European Union. The impact of the UK leaving the European Union create an instable economic situation where everyone loses, because of the tight link between UK and EU markets. Economists are now trying to focus on the possible or probable consequences both positive or negative in terms of number and GDP.</paragraph>      <!--[0-N]-->
+            </chapter>
+            <table>                                                           <!--[0-N]-->
+              <row type="head">                                               <!--[ 1 ]-->
+                <cell>States</cell>                                           <!--[1-N]-->
+                <cell>GDP</cell>
+              </row>
+              <row type="cell">                                               <!--[1-N]-->
+                <cell>UK</cell>                                               <!--[1-N]-->
+                <cell>-4%</cell>
+              </row>
+              <row type="cell">                                               <!--[1-N]-->
+                <cell>IS</cell>                                               <!--[1-N]-->
+                <cell>-2.66%</cell>
+              </row>
+              <row type="cell">                                               <!--[1-N]-->
+                <cell>DE</cell>                                               <!--[1-N]-->
+                <cell>-0.33%</cell>
+              </row>
+              <row type="cell">                                               <!--[1-N]-->
+                <cell>FR</cell>                                               <!--[1-N]-->
+                <cell>-0.26%</cell>
+              </row>
+              <row type="cell">                                               <!--[1-N]-->
+                <cell>ES</cell>                                               <!--[1-N]-->
+                <cell>-0.22%</cell>
+              </row>
+            </table>
+            <keywords>                                                      <!--[ 1 ]-->
+              <keyword name="Global Corporations"/>               <!--[1-N]-->
+              <keyword name="Brexit"/>
+              <keyword name="Western Europe"/>
+            </keywords>
+            <sources>                                                        <!--[ 1 ]-->
+              <source>IMF.org</source>                                           <!--[1-N]-->
             </sources>
           </section>
           <section>
-             <title>G7/G8</title>
-               <chapter>
-                 <title>The Group of Seven</title>
-                   <paragraph>
-                     At its beginnings in 1985, the
-                     Group was an informal gathering
-                     of heads of state and governments
-                     of the world's most advanced
-                     economies. In 1998 Russia joined
-                     what that became the G8. The
-                     G7/8 deals with such issues as:
-                     global economic outlook and
-                     macroeconomic management,
-                     international trade, energy,
-                     climate change, and relations
-                     with developing countries.
-                   </paragraph>
-               </chapter>
-               <chapter>
-                 <title>G8 when Russia participate</title>
-                   <paragraph>
-                     <list type="unordered">
-                       <item>Russia</item>
-                     </list>
-                   </paragraph>
-               </chapter>
-               <chapter>
-                 <title>2016 Leading country</title>
-                   <paragraph>
-                     <list type="unordered">
-                       <item>Japan</item>
-                     </list>
-                   </paragraph>
-               </chapter>
-               <chapter>
-                 <title>Member States</title>
-                   <paragraph>
-                     <list type="unordered">
-                       <item>Canada</item>
-                       <item>United States</item>
-                       <item>United Kingdom</item>
-                       <item>France</item>
-                       <item>Germany</item>
-                       <item>Italy</item>
-                       <item>Japan</item>
-                     </list>
-                   </paragraph>
-               </chapter>
-               <keywords>
-                 <keyword name="Global Corporations"/>
-                 <keyword name="Governance"/>
-               </keywords>
-               <sources>
-                 <source>japan.go.jp</source>
-               </sources>
-           </section>
-           <section>
-             <chapter>
-               <title>G7/8 Summits</title>
-                 <paragraph>
-                   The annual G7/8 leaders summit
-                   attended by the heads of
-                   government. They meet to discuss
-                   issues such as global economic
-                   governance, international security,
-                   and energy policy.
-                 </paragraph>
-             </chapter>
-             <table>
-               <row type="head">
-                 <cell>Year</cell>
-                 <cell>City</cell>
-                 <cell>State</cell>
-               </row>
-               <row type="cell">
-                 <cell>2008/G8</cell>
-                 <cell>Hokkaido Yeyako</cell>
-                 <cell>Japan</cell>
-               </row>
-               <row type="cell">
-                 <cell>2009/G8</cell>
-                 <cell>L'Aquila</cell>
-                 <cell>Italy</cell>
-               </row>
-               <row type="cell">
-                 <cell>2010/G8</cell>
-                 <cell>Muskoka</cell>
-                 <cell>Canada</cell>
-               </row>
-               <row type="cell">
-                 <cell>2011/G8</cell>
-                 <cell>Deauville</cell>
-                 <cell>France</cell>
-               </row>
-               <row type="cell">
-                 <cell>2012/G8</cell>
-                 <cell>Camp David</cell>
-                 <cell>United States of America</cell>
-               </row>
-               <row type="cell">
-                 <cell>2013/G8</cell>
-                 <cell>Lough Erne</cell>
-                 <cell>United Kingdom</cell>
-               </row>
-               <row type="cell">
-                 <cell>2014/G7</cell>
-                 <cell>Brussels, The Hague</cell>
-                 <cell>Belgium, Belgium: Nuclear Security Summit</cell>
-               </row>
-               <row type="cell">
-                 <cell>2015/G7</cell>
-                 <cell>Schloss Elmau</cell>
-                 <cell>Germany</cell>
-               </row>
-               <row type="cell">
-                 <cell>2016/G7</cell>
-                 <cell>Hangzhou</cell>
-                 <cell>Japan</cell>
-               </row>
-               <row type="cell">
-                 <cell>2017/G7</cell>
-                 <cell>Taormina</cell>
-                 <cell>Italy</cell>
-               </row>
-             </table>
-             <keywords>
-               <keyword name="Governance"/>
-               <keyword name="Global Corporations"/>
-             </keywords>
-             <sources>
-               <source>japan.go.jp/g7</source>
-             </sources>
-           </section>
-           <section>
-             <title>Finance Ministers and Central Bank Governors' Meetings</title>
-               <chapter>
-                 <title>May 20th and 21st, Sendai City</title>
-                   <paragraph>
-                     The meeting covers the following
-                     four broad topic areas: Global
-                     Economy; International Financial
-                     Architecture; Sustainable and
-                     Inclusive Development; and
-                     Integrity of Financial Flows.
-                   </paragraph>
-                   <paragraph>
-                     <list type="ordered">
-                       <item>Revitalizing Global Economy</item>
-                       <item>Building Resilient International Financial Architecture</item>
-                       <item>Towards Sustainable and Inclusive Development</item>
-                       <item>Promoting Integrity of Cross-border Financial Flows</item>
-                     </list>
-                   </paragraph>
-               </chapter>
-               <keywords>
-                 <keyword name="Governance" />
-                 <keyword name="Global Corporations" />
-               </keywords>
-               <sources>
-                 <source>G20.com</source>
-               </sources>
-           </section>
-           <section>
-             <title>Main topics</title>
-               <chapter>
-                 <title>Net Capital Inflows to Emerging Market Economies</title>
-                   <paragraph>
-                     Net capital inflows to emerging markets over the
-                     past four decades have exhibited cycles. A slowdown
-                     phase of one such cycle has been taking place since
-                     2010. Past net capital inflow slowdowns have been
-                     associated with external debt crises.
-                   </paragraph>
-                 </chapter>
-                     <graph unit="%" x="date" y="number">
-                       <dataset label="capital inflows">
-                         <data x="2000" y="0.9"/>
-                         <data x="2001" y="1.25"/>
-                         <data x="2002" y="1.7"/>
-                         <data x="2003" y="1.81"/>
-                         <data x="2004" y="2.17"/>
-                         <data x="2005" y="2.5"/>
-                         <data x="2006" y="1.96"/>
-                         <data x="2007" y="4.09"/>
-                         <data x="2008" y="1.3"/>
-                         <data x="2009" y="2.5"/>
-                         <data x="2010" y="3.7"/>
-                         <data x="2011" y="2.5"/>
-                         <data x="2012" y="1.27"/>
-                         <data x="2013" y="1.81"/>
-                         <data x="2014" y="0.33"/>
-                         <data x="2015" y="-1.1"/>
-                       </dataset>
-                     </graph>
-               <chapter>
-                 <title>Health</title>
-                   <paragraph>
-                     At the G7 Ise-Shima Summit, leaders will consider
-                     issues including strengthening the response to public
-                     health emergencies, by taking into account
-                     the lessons learned from previous outbreaks,
-                     such as Ebola.
-                   </paragraph>
-                 </chapter>
-                     <graph unit="%" x="string" y="percentage">
-                       <title>Deaths in the world</title>
-                       <dataset label="deaths and environment">
-                         <data x="Attributable to the environment" y="22.5"/>
-                         <data x="Non attributable to the environment" y="77.5"/>
-                       </dataset>
-                     </graph>
-               <chapter>
-                 <title>Quality infrastructure investments</title>
-                   <paragraph>
-                     The infrastructure gap is estimated at $1 trillion
-                     in low- and middle-income countries, and the
-                     demand for infrastructure continues to grow
-                     as countries develop.
-                   </paragraph>
-                 </chapter>
-                   <graph unit="%" x="string" y="number">
-                     <title>Infrastructure for growth</title>
-                     <dataset label="infrastructure investments">
-                       <data x="Increase in infrastructure investments" y="10"/>
-                       <data x="GDP growth" y="1"/>
-                     </dataset>
-                   </graph>
-                 <chapter>
-                   <title>Infrastructure as a countercyclical instrument</title>
-                     <paragraph>
-                       A US$1 increase in public spending in infrastructure
-                       in developing countries generates a US$0.35
-                       increase in exports from developed countries
-                     </paragraph>
-                   </chapter>
-                   <graph unit="%" x="string" y="percentage">
-                     <title>Infrastructure for social progress</title>
-                       <dataset label="infrastructure social progress">
-                         <data x="Cellular signal penetration in developing contries" y="68"/>
-                         <data x="Remaining" y="32"/>
-                       </dataset>
-                   </graph>
-                   <keywords>
-                     <keyword name="Construction"/>
-                     <keyword name="Global Corporations"/>
-                     <keywords name="Investments"/>
-                     <keywords name="National Debt"/>
-                     <keywords name="Healthcare"/>
-                     <keywords name="In poverty"/>
-                   </keywords>
-                   <sources>
-                     <source>japan.go.jp</source>
-                     <source>who.int</source>
-                     <source>worldbank.com</source>
-                   </sources>
-     </section>
-          </sections>
-        </bulletin>
-</bulletins>
+            <title>G7/G8</title>
+            <chapter>
+              <title>The Group of Seven</title>
+              <paragraph>
+                At its beginnings in 1985, the
+                Group was an informal gathering
+                of heads of state and governments
+                of the world's most advanced
+                economies. In 1998 Russia joined
+                what that became the G8. The
+                G7/8 deals with such issues as:
+                global economic outlook and
+                macroeconomic management,
+                international trade, energy,
+                climate change, and relations
+                with developing countries.
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>G8 when Russia participate</title>
+              <paragraph>
+                <list type="unordered">
+                  <item>Russia</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>2016 Leading country</title>
+              <paragraph>
+                <list type="unordered">
+                  <item>Japan</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <chapter>
+              <title>Member States</title>
+              <paragraph>
+                <list type="unordered">
+                  <item>Canada</item>
+                  <item>United States</item>
+                  <item>United Kingdom</item>
+                  <item>France</item>
+                  <item>Germany</item>
+                  <item>Italy</item>
+                  <item>Japan</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <keywords>
+              <keyword name="Global Corporations"/>
+              <keyword name="Governance"/>
+            </keywords>
+            <sources>
+              <source>japan.go.jp</source>
+            </sources>
+          </section>
+          <section>
+            <chapter>
+              <title>G7/8 Summits</title>
+              <paragraph>
+                The annual G7/8 leaders summit
+                attended by the heads of
+                government. They meet to discuss
+                issues such as global economic
+                governance, international security,
+                and energy policy.
+              </paragraph>
+            </chapter>
+            <table>
+              <row type="head">
+                <cell>Year</cell>
+                <cell>City</cell>
+                <cell>State</cell>
+              </row>
+              <row type="cell">
+                <cell>2008/G8</cell>
+                <cell>Hokkaido Yeyako</cell>
+                <cell>Japan</cell>
+              </row>
+              <row type="cell">
+                <cell>2009/G8</cell>
+                <cell>L'Aquila</cell>
+                <cell>Italy</cell>
+              </row>
+              <row type="cell">
+                <cell>2010/G8</cell>
+                <cell>Muskoka</cell>
+                <cell>Canada</cell>
+              </row>
+              <row type="cell">
+                <cell>2011/G8</cell>
+                <cell>Deauville</cell>
+                <cell>France</cell>
+              </row>
+              <row type="cell">
+                <cell>2012/G8</cell>
+                <cell>Camp David</cell>
+                <cell>United States of America</cell>
+              </row>
+              <row type="cell">
+                <cell>2013/G8</cell>
+                <cell>Lough Erne</cell>
+                <cell>United Kingdom</cell>
+              </row>
+              <row type="cell">
+                <cell>2014/G7</cell>
+                <cell>Brussels, The Hague</cell>
+                <cell>Belgium, Belgium: Nuclear Security Summit</cell>
+              </row>
+              <row type="cell">
+                <cell>2015/G7</cell>
+                <cell>Schloss Elmau</cell>
+                <cell>Germany</cell>
+              </row>
+              <row type="cell">
+                <cell>2016/G7</cell>
+                <cell>Hangzhou</cell>
+                <cell>Japan</cell>
+              </row>
+              <row type="cell">
+                <cell>2017/G7</cell>
+                <cell>Taormina</cell>
+                <cell>Italy</cell>
+              </row>
+            </table>
+            <keywords>
+              <keyword name="Governance"/>
+              <keyword name="Global Corporations"/>
+            </keywords>
+            <sources>
+              <source>japan.go.jp/g7</source>
+            </sources>
+          </section>
+          <section>
+            <title>Finance Ministers and Central Bank Governors' Meetings</title>
+            <chapter>
+              <title>May 20th and 21st, Sendai City</title>
+              <paragraph>
+                The meeting covers the following
+                four broad topic areas: Global
+                Economy; International Financial
+                Architecture; Sustainable and
+                Inclusive Development; and
+                Integrity of Financial Flows.
+              </paragraph>
+              <paragraph>
+                <list type="ordered">
+                  <item>Revitalizing Global Economy</item>
+                  <item>Building Resilient International Financial Architecture</item>
+                  <item>Towards Sustainable and Inclusive Development</item>
+                  <item>Promoting Integrity of Cross-border Financial Flows</item>
+                </list>
+              </paragraph>
+            </chapter>
+            <keywords>
+              <keyword name="Governance" />
+              <keyword name="Global Corporations" />
+            </keywords>
+            <sources>
+              <source>G20.com</source>
+            </sources>
+          </section>
+          <section>
+            <title>Main topics</title>
+            <chapter>
+              <title>Net Capital Inflows to Emerging Market Economies</title>
+              <paragraph>
+                Net capital inflows to emerging markets over the
+                past four decades have exhibited cycles. A slowdown
+                phase of one such cycle has been taking place since
+                2010. Past net capital inflow slowdowns have been
+                associated with external debt crises.
+              </paragraph>
+            </chapter>
+            <graph unit="%" x="date" y="number">
+              <dataset label="capital inflows">
+                <data x="2000" y="0.9"/>
+                <data x="2001" y="1.25"/>
+                <data x="2002" y="1.7"/>
+                <data x="2003" y="1.81"/>
+                <data x="2004" y="2.17"/>
+                <data x="2005" y="2.5"/>
+                <data x="2006" y="1.96"/>
+                <data x="2007" y="4.09"/>
+                <data x="2008" y="1.3"/>
+                <data x="2009" y="2.5"/>
+                <data x="2010" y="3.7"/>
+                <data x="2011" y="2.5"/>
+                <data x="2012" y="1.27"/>
+                <data x="2013" y="1.81"/>
+                <data x="2014" y="0.33"/>
+                <data x="2015" y="-1.1"/>
+              </dataset>
+            </graph>
+            <chapter>
+              <title>Health</title>
+              <paragraph>
+                At the G7 Ise-Shima Summit, leaders will consider
+                issues including strengthening the response to public
+                health emergencies, by taking into account
+                the lessons learned from previous outbreaks,
+                such as Ebola.
+              </paragraph>
+            </chapter>
+            <graph unit="%" x="string" y="percentage">
+              <title>Deaths in the world</title>
+              <dataset label="deaths and environment">
+                <data x="Attributable to the environment" y="22.5"/>
+                <data x="Non attributable to the environment" y="77.5"/>
+              </dataset>
+            </graph>
+            <chapter>
+              <title>Quality infrastructure investments</title>
+              <paragraph>
+                The infrastructure gap is estimated at $1 trillion
+                in low- and middle-income countries, and the
+                demand for infrastructure continues to grow
+                as countries develop.
+              </paragraph>
+            </chapter>
+            <graph unit="%" x="string" y="number">
+              <title>Infrastructure for growth</title>
+              <dataset label="infrastructure investments">
+                <data x="Increase in infrastructure investments" y="10"/>
+                <data x="GDP growth" y="1"/>
+              </dataset>
+            </graph>
+            <chapter>
+              <title>Infrastructure as a countercyclical instrument</title>
+              <paragraph>
+                A US$1 increase in public spending in infrastructure
+                in developing countries generates a US$0.35
+                increase in exports from developed countries
+              </paragraph>
+            </chapter>
+            <graph unit="%" x="string" y="percentage">
+              <title>Infrastructure for social progress</title>
+              <dataset label="infrastructure social progress">
+                <data x="Cellular signal penetration in developing contries" y="68"/>
+                <data x="Remaining" y="32"/>
+              </dataset>
+            </graph>
+            <keywords>
+              <keyword name="Construction"/>
+              <keyword name="Global Corporations"/>
+              <keywords name="Investments"/>
+              <keywords name="National Debt"/>
+              <keywords name="Healthcare"/>
+              <keywords name="In poverty"/>
+            </keywords>
+            <sources>
+              <source>japan.go.jp</source>
+              <source>who.int</source>
+              <source>worldbank.com</source>
+            </sources>
+          </section>
+        </sections>
+      </bulletin>
+    </bulletins>

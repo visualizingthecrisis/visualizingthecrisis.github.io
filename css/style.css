@@ -343,7 +343,13 @@ th{
 }
 
 .chapter-title{
-  margin-top:40px;
   font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
 
+}
+.section-chapter{
+    margin-top:40px;
+}
+
+.section-abstract{
+    margin-top:40px;
 }
