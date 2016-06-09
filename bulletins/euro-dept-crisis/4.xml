@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
   <bulletins>
     <title>EU Debt Crisis Odysssey</title>
-  	<subtitle>About the european crisis</subtitle>
+  	<subtitle>About the European crisis</subtitle>
   	<authors>
       <author>Valeria Mento</author>
       <author>Jacopo Faggian</author>
@@ -10,13 +10,13 @@
       <sections>
 
       <section>
-    <title>Expected only a small fall in EU debt to 2020</title>
+    <title>Only a small fall in EU debt expected from 2020</title>
       <chapter>
         <paragraph>
-          Rating agency Moody’s said the eurozone sovereign's ratings will likely remain stable in 2016 but fading fiscal
+          Rating agency Moody’s said the Eurozone sovereign's ratings will likely remain stable in 2016 but fading fiscal
           consolidation, limited progress on structural reforms, and rising political risks limit upside potential and create
           longer-term risks. Even as debt loads remain stubbornly high, the deleveraging process has been hampered by a combination
-          of low growth and low inflation with progress on structural reforms limited at both a national and a eurozone level.
+          of low growth and low inflation with progress on structural reforms limited at both a national and a Eurozone level.
         </paragraph>
       </chapter>
       <chapter>
@@ -76,15 +76,15 @@
         <source>TheGuardian.com</source>
         <source>Bloomberg.com</source>
         <source>Marketwatch.com</source>
-        <source>Openeurope.com</source>
+        <source>OpenEurope.com</source>
       </sources>
     </section>
 
     <section>
-      <title>European inner circle of triple A, according to Standars and Poor’s</title>
+      <title>European inner circle of triple A, according to Standars&amp;Poor’s</title>
         <chapter>
           <paragraph>
-            Rating agency’s Standard and Poor’s confirmed its AAA rating awarded in Denmark and Luxembourg and Sweden.
+            Rating agency’s Standard&amp;Poor’s confirmed its AAA rating awarded in Denmark and Luxembourg and Sweden.
             “The Danish economy is rich, competitive and diversified with a debt level remained “modest“. “The economy
             of Luxembourg is based on institutions and governance”. Furthermore, Sweden have a low debt.
           </paragraph>
@@ -203,7 +203,7 @@
             <source>TheGuardian.com</source>
             <source>Bloomberg.com</source>
             <source>Marketwatch.com</source>
-            <source>Openeurope.com</source>
+            <source>OpenEurope.com</source>
           </sources>
     </section>
 
@@ -300,7 +300,7 @@
             <source>TheGuardian.com</source>
             <source>Bloomberg.com</source>
             <source>Marketwatch.com</source>
-            <source>Openeurope.com</source>
+            <source>OpenEurope.com</source>
           </sources>
         </section>
 
@@ -338,12 +338,12 @@
               <source>TheGuardian.com</source>
               <source>Bloomberg.com</source>
               <source>Marketwatch.com</source>
-              <source>Openeurope.com</source>
+              <source>OpenEurope.com</source>
             </sources>
             </section>
 
       <section>
-        <title>Warning! Million jobs lost</title>
+        <title>Warning: a million jobs lost</title>
           <chapter>
             <paragraph>
               Employment would also take a hit in the years after a Brexit, the report forecast. In the first three
@@ -369,16 +369,16 @@
             <source>TheGuardian.com</source>
             <source>Bloomberg.com</source>
             <source>Marketwatch.com</source>
-            <source>Openeurope.com</source>
+            <source>OpenEurope.com</source>
           </sources>
         </section>
 
         <section>
           <quote>
             <author>Matthew Elliott</author>
+            <role>Chief executive of BigBrotherWatch</role>
             <text>
-              Vote
-              Leave chief executive Matthew Elliott criticized the CBI for using “deeply pessimistic” assumptions in
+              He criticized the CBI for using “deeply pessimistic” assumptions in
               its report and said the U.K. economy would continue to expand after an exit.
             </text>
           </quote>
@@ -398,7 +398,7 @@
             <source>TheGuardian.com</source>
             <source>Bloomberg.com</source>
             <source>Marketwatch.com</source>
-            <source>Openeurope.com</source>
+            <source>OpenEurope.com</source>
           </sources>
         </section>
 
@@ -415,7 +415,7 @@
           </paragraph>
         </chapter>
         <graph unit="string" x="string" y="number">
-          <title>Impact of Brexit on UK GDP | 2030</title>
+          <title>Impact of Brexit on UK GDP, 2030</title>
           <dataset label="Brexit worst case">
             <data x="min" y="-2,2"/>
             <data x="max" y="-0,8"/>
@@ -445,7 +445,7 @@
           <source>TheGuardian.com</source>
           <source>Bloomberg.com</source>
           <source>Marketwatch.com</source>
-          <source>Openeurope.com</source>
+          <source>OpenEurope.com</source>
         </sources>
     </section>
 
@@ -467,7 +467,7 @@
             </paragraph>
           </chapter>
           <graph unit="USD" x="date" y="number">
-            <title>EUR | USD exchange 14th Mar | 20th Mar</title>
+            <title>EUR/USD exchange 14h Mar, 20 Mar</title>
             <dataset label="Dollar value">
               <data x="20160314" y="1.117"/>
               <data x="20160315" y="1.117"/>
@@ -479,7 +479,7 @@
             </dataset>
           </graph>
           <graph unit="USD" x="date" y="number">
-            <title>JPY | USD exchange 14th Mar | 20th Mar</title>
+            <title>JPY/USD exchange 14th Mar | 20th Mar</title>
             <dataset label="Dollar value">
               <data x="20160314" y="0.00881"/>
               <data x="20160315" y="0.00881"/>
@@ -530,7 +530,7 @@
                   <source>TheGuardian.com</source>
                   <source>Bloomberg.com</source>
                   <source>Marketwatch.com</source>
-                  <source>Openeurope.com</source>
+                  <source>OpenEurope.com</source>
                 </sources>
               </section>
 
