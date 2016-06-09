@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>					                        <!--[ 1 ]-->
+ <bulletins>                                                            <!--[ 1 ]-->
+  <title>Gold Fever</title>                                     <!--[ 1 ]-->
+	<subtitle>Visualizing the crisis</subtitle>                             <!--[ 1 ]-->
+	<authors>                                                             <!--[ 1 ]-->
+    <author>Noemi Incardona</author>                                           <!--[1-N]-->
+    <author>Fabiana Mangano</author>
+    <author>Alessandra Neri</author>
+  </authors>
+  <bulletin id="05" date="20160402">                   <!--[1-N]-->
+    <sections>                                                          <!--[ 1 ]-->
+      <section>                                                         <!--[1-N]-->
+        <title>Gold price</title>
+        <subtitle>Week 13</subtitle>
+        <graph unit="USD/oz" x="date" y="number"> 		          <!--[0-N]-->
+          <dataset label= "Gold price">                           	<!--[1-N]-->
+            <data x="20160328" y="1,222"/>
+            <data x="20160329" y="1,239"/>
+            <data x="20160330" y="1,235"/>
+            <data x="20160331" y="1,235"/>
+            <data x="20160401" y="1,229"/>                            <!--[1-N]-->
+          </dataset>
+        </graph>
+        <keywords>                                                      <!--[ 1 ]-->
+          <keyword name="gold"/>                                    <!--[1-N]-->
+        </keywords>
+        <sources>
+          <source>goldbrocker.it</source>
+        </sources>
+      </section>
+      <section>                                                         <!--[1-N]-->
+       <title>What inflence the bullish and the bearish trend</title>
+       <chapter>                                                   <!--[0-N]-->
+         <paragraph>
+           The Bear Market phase usually lasts five years,
+           a measure that results from an "empirical" estimate,
+           and therefore should not be considered a certainty.
+         </paragraph>                        <!--[0-N]-->
+         <paragraph>
+           <list type="unordered">                                     <!--[0-N]-->
+             <item>Tightening of FED’s monetary policies</item>                                    <!--[1-N]-->
+             <item>Strengthening of dollar against all currencies</item>                                                 <!--[1-N]-->
+             <item>Weak global economic growth</item>
+             <item>Increasing levels of stock index S P 500</item>                                    <!--[1-N]-->
+             <item>Great masses of money in ETFs</item>
+           </list>
+         </paragraph>
+         <paragraph>
+           The Bear Market phase usually lasts five years,
+           a measure that results from an "empirical" estimate,
+           and therefore should not be considered a certainty.
+         </paragraph>
+         <paragraph>
+           <list type="unordered">                                     <!--[0-N]-->
+           <item>Increase in demand for gold ETFs</item>                                    <!--[1-N]-->
+           <item>Overvalutazion of the dollar</item>
+           <item>Worsening of global debt crisis</item>                                    <!--[1-N]-->
+           <item>Purchases of gold by central banks</item>
+           <item>Change in the cycle of commodities</item>
+         </list>
+       </paragraph>
+      </chapter>
+      <keywords>                                                      <!--[ 1 ]-->
+         <keyword name=">Unconventional Monetary Policies" />
+         <keyword name="Currencies" />
+         <keyword name="Investments" />
+         <keyword name="Gold" />                                    <!--[1-N]-->
+      </keywords>
+      <sources>                                                       <!--[ 1 ]-->
+         <source>forexinfo.it</source>
+      </sources>                                                                   <!--[0-N]-->
+    </section>
+      <section>                                                         <!--[1-N]-->
+       <title>The different 2015 and 2016 trend</title>
+       <chapter>                                                   <!--[0-N]-->
+         <paragraph>The main stage of the 2015 trend has seen slow but steady descent,
+          reaching a decrease of 50%. In this year the safes haven have lost their "appeal".
+          For gold price it was a Bearish year.
+         </paragraph>
+         <paragraph>In 2016, instead, the price of gold, seems to be regaining its splendor.
+           Gold is the raw material that is having the best performance in 2016,
+            thanks to a series of factors that allow the rise in the price of gold.
+             For this reason gold have a Bullish trend.
+         </paragraph>
+         </chapter>
+         </graph>
+         <graph unit="USD/oz" x="date" y="number"> 		          <!--[0-N]-->
+           <title>2016 bullish trend</title>
+           <dataset label= "Gold price">                           	<!--[1-N]-->
+             <data x="20160101" y="1060"/>
+             <data x="20160201" y="1100"/>
+             <data x="20160301" y="1200"/>
+             <data x="20160401" y="1230"/>
+           </dataset>
+         </graph>
+       <keywords>
+         <keyword name="gold" />                                    <!--[1-N]-->
+       </keywords>
+       <sources>                                                       <!--[ 1 ]-->
+         <source>forexinfo.it</source>
+         <source>bullionvault.it</source>
+       </sources>                                                                   <!--[0-N]-->
+      </section>
+      <section>                                                         <!--[1-N]-->
+       <title>The different strategies of the central banks caused uncertainty.</title>
+         <paragraph>The different strategies of the central banks caused uncertainty.
+            The Fed with positive interest rates, caused a sudden collapse of the dollar
+            and uncertainty among investors,while the ECB and the BOJ with the negative deposit rates
+             will stimulate the banks to put money
+         </paragraph>
+      </chapter>
+         <graph unit="%" x="string" y="percentage">
+           <dataset label= "Gold investments">                           	<!--[1-N]-->
+             <data x="men don't wont to sell gold" y="41"/>
+             <data x="men wont invest in gold" y="59"/>
+           </dataset>
+         </graph>
+       <keywords>                                                      <!--[ 1 ]-->
+         <keyword name="Gold" />
+         <keyword name="Investments" />
+         <keyword name="Interest Rates" />                                           <!--[1-N]-->
+       </keywords>
+       <section>                                                         <!--[1-N]-->
+        <title>Prevision for 2016</title>
+        <chapter>
+          <paragraph>The gold investments in 2016 seem crackling. According to a survey,
+            nearly one-fifth of investors expect the price of gold at the end of 2016 to rise by 10%,
+            while a fifth thinks that this increase may even reach 20%. Only a minority has a bearish view for the gold price.
+        </chapter>
+        <graph unit="%" x="string" y="percentage">
+            <dataset label= "Investors' expectations">                           	<!--[1-N]-->
+              <data x="Bullish" y="30"/>
+              <data x="Bearish" y="21"/>
+            </dataset>
+          </graph>
+        </paragraph>
+        <sources>                                                       <!--[ 1 ]-->
+         <source>bloomberg.com</source>
+         <source>lastampa.it</source>
+       </sources>                                                                   <!--[0-N]-->
+      </section>
+      <section>                                                         <!--[1-N]-->
+       <title>Yellen’s words push the gold up</title>
+       <chapter>                                                   <!--[0-N]-->
+         <paragraph>Janet Yellen’s speech causes another gold rally. Gold futures advanced as much as 1.6%,
+           the most in seven sessions, after Yellen said it’s appropriate for U.S. central bankers to “proceed cautiously”
+           in raising interest rates because the global economy presents heightened risks.
+         </paragraph>
+         <paragraph>After Yellen’s speech, the odds of a rate increase by December fell to 64%, from 73% a day earlier.
+         </paragraph>
+         </chapter>
+         <graph unit="USD/oz" x="date" y="number">
+           <dataset label= "Gold price">                           	<!--[1-N]-->
+             <data x="20160330:000000" y="1,220"/>
+             <data x="20160330:010000" y="1,221"/>
+             <data x="20160330:020000" y="1,219.75"/>
+             <data x="20160330:030000" y="1,218"/>
+             <data x="20160330:040000" y="1,217"/>
+             <data x="20160330:050000" y="1,219"/>
+             <data x="20160330:060000" y="1,222"/>
+             <data x="20160330:070000" y="1,218"/>
+             <data x="20160330:080000" y="1,222"/>
+             <data x="20160330:090000" y="1,222.50"/>
+             <data x="20160330:100000" y="1,225"/>
+             <data x="20160330:110000" y="1,228"/>
+             <data x="20160330:120000" y="1,230"/>
+             <data x="20160330:130000" y="1,243"/>
+             <data x="20160330:140000" y="1,239.50"/>
+           </dataset>
+         </graph>
+       <keywords>                                                      <!--[ 1 ]-->
+         <keyword name="Gold" />
+         <keyword name="Interest Rates" />
+         <keyword name="North America" />                                            <!--[1-N]-->
+       </keywords>
+       <sources>                                                       <!--[ 1 ]-->
+         <source>bloomberg.com</source>
+         <source>ilsole24ore.com</source>
+         <source>bullionvault.it</source>
+       </sources>                                                                   <!--[0-N]-->
+      </section>
+      <section>
+       <title>Asia Pacific corruption perception index 2015</title>
+       <graph unit="people" x="location" y="number">
+          <dataset label= "%">                           	<!--[1-N]-->
+            <data x="Japan" y="75"/>
+            <data x="Taiwan" y="62"/>
+            <data x="South Korea" y="56"/>
+            <data x="Mongolia" y="39"/>
+            <data x="India" y="38"/>
+            <data x="Thailand" y="38"/>
+            <data x="China" y="37"/>
+            <data x="Sri Lanka" y="37"/>
+            <data x="Indonesia" y="36"/>
+            <data x="Philippines" y="35"/>
+            <data x="Vietnam" y="31"/>
+            <data x="Pakistan" y="30"/>
+            <data x="Nepal" y="27"/>
+            <data x="Bangladesh" y="25"/>
+            <data x="Papua New Guinea" y="25"/>
+            <data x="Afghanistan" y="18"/>
+            <data x="North Corea" y="8"/>
+          </dataset>
+        </graph>
+        <chapter>                                                      <!--[1-N]-->
+         <title>A tool against corruption of China</title>                                                  <!--[0-N]-->
+           <paragraph>Catching Tigers and Flies, a part of the Xi Jinping’s
+           anticorruption campaign against corruption that China’s
+           President, Xi Jinping, launched shortly after he came to power in late 2012.</paragraph>
+           <paragraph>Scything through all ranks of people, Xi’s deputies have
+           felled officials of both high and low rank, or as Xi himself
+           put it in a memorable phrase, both “tigers and flies.” To
+           date, tens of thousands have been swept out of office.</paragraph>
+           </chapter>
+        <graph unit="people" x="string" y="number">
+           <abstract>							                                      <!--[0-1]-->
+            Tiger are party and governmental officials, sub-provincial/ministeral lever and military officers holding a rank of Major General. 					                            <!-- max 144 char-->
+           </abstract>
+           <dataset label= "Tigers">                           	<!--[1-N]-->
+             <data x="investigated" y="10"/>
+             <data x="expelled/arrested" y="10"/>
+             <data x="sentenced" y="0"/>
+           </dataset>
+        </graph>
+         <graph unit="people" x="string" y="number">
+           <abstract>							                                      <!--[0-1]-->
+            Flies are level officers and individuals 					                            <!-- max 144 char-->
+           </abstract>
+           <dataset label= "Flies">                           	<!--[1-N]-->
+             <data x="investigated" y="40"/>
+             <data x="expelled/arrested" y="70"/>
+             <data x="sentenced" y="5"/>
+           </dataset>
+         </graph>
+       <keywords>                                                      <!--[ 1 ]-->
+         <keyword name="Middle East and Western Asia" />
+         <keyword name="Central and Eastern Asia" />
+         <keyword name="Southern Asia" />
+         <keyword name="Southeastern Asia" />                                    <!--[1-N]-->
+       </keywords>
+       <sources>                                                       <!--[ 1 ]-->
+         <source>trasparency.org</source>
+         <source>chinafile.com</source>
+       </sources>                                                                   <!--[0-N]-->
+      </section>
+      <section>
+        <quote>
+          <author>Bloomberg News </author>
+          <text>According to analysts, such a crisis is in all respects comparable to the one that struck the United States in 1929.</text>
+        </quote>                                                       <!--[1-N]-->
+       <title>If Chinese bubble burst? </title>
+       <chapter>                                                   <!--[0-N]-->
+         <paragraph>Temporary crisis or the bursting of a speculative bubble?
+           The question is bugging investors exposed to the Chinese
+           stock market, struggling with a slip that, from the peak of
+           June 12, has led the Stock Markets of Shanghai and Shenzhen lose about 30%, burning an equivalent
+           capitalization to $ 3 trillion.
+         </paragraph>
+         <paragraph>A bad tripped after a run that had brought the price lists to earn 150% in one year.
+           The risks from here 2 years will create a truly unfortunate
+           convergence that will hit all of them with regard to Asian and South East Asian markets is very high.
+         </paragraph>
+         </chapter>
+         <graph unit="%" x="date" y="number">
+           <title>Chinese GDP go down</title>
+           <dataset label= "GDP variation">                           	<!--[1-N]-->
+             <data x="2007" y="14.2"/>
+             <data x="2008" y="9.6"/>
+             <data x="2009" y="9.2"/>
+             <data x="2010" y="10.4"/>
+             <data x="2011" y="9.3"/>
+             <data x="2012" y="7.8"/>
+             <data x="2013" y="7.7"/>
+             <data x="2014" y="7.4"/>
+             <data x="2015" y="6.9"/>
+           </dataset>
+         </graph>                                                           <!--[0-N]-->                                                       <!--[1-N]-->
+       <title>Why China buys all this gold?</title>
+       <chapter>                                                   <!--[0-N]-->
+         <paragraph></paragraph>
+         </chapter>
+         <graph unit="Tons" x="date" y="number">
+           <title>Chinese GDP collapses, instead gold reserves increase</title>
+           <abstract>China wants become part of the basket of currencies SDR of the IMF,
+             or China aims to become a real alternative to the IMF?</abstract>
+           <dataset label= "Gold reserve">
+             <data x="2007" y="235"/>
+             <data x="2008" y="250"/>
+             <data x="2009" y="280"/>
+             <data x="2010" y="320"/>
+             <data x="2011" y="347"/>
+             <data x="2012" y="370"/>
+             <data x="2013" y="390"/>
+             <data x="2014" y="420"/>
+             <data x="2015" y="465"/>
+           </dataset>
+          </graph>
+          <keywords>                                                      <!--[ 1 ]-->
+            <keyword name="GDP"/><keyword name="Gold"/>
+            <keyword name="Investments"/>
+            <keyword name=">Central and Eastern Asia"/>                                             <!--[1-N]-->
+          </keywords>
+          <sources>                                                       <!--[ 1 ]-->
+            <source>soldionline.it</source>
+            <source>bullionvault.com</source>
+            <source>bloomberg.com</source>
+          </sources>
+     </section>
+     <section>                                                         <!--[1-N]-->
+          <title>Historical break</title>
+          <subtitle>After crash of 1929 </subtitle>
+          <chapter>                                                   <!--[0-N]-->
+            <paragraph>The devaluation of the pound in 1931 and the dollar in 1934, after the crash of 1929,
+              behaved an abrupt decrease in the gold content of these currencies and thus a significant
+              increase in the price of gold.</paragraph>
+            <paragraph>Depression of 1929 had devastating recessionary effects in both industrialized countries
+              and in those commodity exporters with a general decline in demand and production.</paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Gold" />
+            <keyword name="currencies" />
+            <keyword name="Wester Europe" />
+          </keywords>
+          <sources>                                                       <!--[ 1 ]-->
+            <source>bullionvault.it</source>
+          </sources>                                                                   <!--[0-N]-->
+     </section>                                                                           <!--[0-N]-->
+    </sections>
+   </bulletin>
+  </bulletins>

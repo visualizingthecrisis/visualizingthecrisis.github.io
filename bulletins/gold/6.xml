@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bullettins>
+  <title>Gold Fever</title>
+	<subtitle>Visualizing the crisis</subtitle>
+	<authors>
+    <author>Noemi Incardona</author>
+    <author>Fabiana Mangano</author>
+    <author>Alessandra Neri</author>
+  </authors>
+  <bullettin id="06" date="20160423">
+   <sections>
+    <section>
+      <title>Indian golden traditions</title>
+      <chapter>
+         <paragraph>
+           In India, gold jewellery is a store of value, a symbol of wealth and status and a
+           fundamental part of many rituals. In the country’s rural population, a deep affinity
+           for gold goes hand in hand with practical considerations of the portability and security
+           of jewellery as an investment.</paragraph>
+         <paragraph>
+             This, explains how India’s appetite for gold defies market
+             conditions: despite a 400% rise in the rupee gold price over the last decade,
+             gold demand continues to grow.</paragraph>
+      </chapter>
+      <chapter>
+         <title>Indian Diwali</title>
+         <paragraph>
+                   Diwali falling between mid-October and mid-November and  is one of the most important
+                   dates in the Indian calendar, and as they celebrate, Indians buy gold (around 10 tonnes).
+                   India is one of the largest markets for gold jewellery, which has a complex and central role
+                   in the country’s cultures.</paragraph>
+      </chapter>
+      <chapter>
+        <title>Indian marriage</title>
+            <paragraph>Gold is central to more personal life events too. Gifting gold is a deeply ingrained part
+              of marriage rituals in Indian society, weddings generate approximately 50% of annual gold demand.
+              Families begin saving soon after the birth of a girl, and the “Stridhan”, or gift of gold to the bride,
+              gives her financial security once she is married.</paragraph>
+      </chapter>
+      <graph unit= "%" x="string" y="number">
+            <title>Age Indian woman first received a gold gift</title>
+            <abstract>
+              Based on 13,000 interviews of woman and men aged 18-60 years old,
+               who have purchased or received gold jewellery in the last two years.
+            </abstract>
+            <dataset label="Gold gift">
+              <data x= "Under 18 years" y="33"/>
+              <data x= "18-21 years" y="29"/>
+              <data x= "21-24 years" y="26"/>
+              <data x= "24-27 years" y="18"/>
+              <data x= "27-30 years" y="5"/>
+              <data x= "30 + years" y="16"/>
+            </dataset>
+        </graph>
+      <graph unit= "million" x="string" y="number">
+              <title>Indian population’s composition of 2015</title>
+              <dataset label="Men">
+                <data x= "0-4" y="60,000"/>
+                <data x= "5-9" y="63,000"/>
+                <data x= "10-14" y="63,500"/>
+                <data x= "15-19" y="55,000"/>
+                <data x= "20-24" y="53,000"/>
+                <data x= "25-29" y="17,000"/>
+                <data x= "30-34" y="13,000"/>
+                <data x= "35-49" y="40,000"/>
+                <data x= "50-64" y="18,000"/>
+                <data x= "65-79" y="15,000"/>
+                <data x= "80-94" y="63,000"/>
+                <data x= "95-99" y="0.70"/>
+                <data x= "100+" y="0.05"/>
+              </dataset>
+              <dataset label="Womann">
+                <data x= "0-4" y="54,000"/>
+                <data x= "5-9" y="53,000"/>
+                <data x= "10-14" y="50,500"/>
+                <data x= "15-19" y="55,000"/>
+                <data x= "20-24" y="48,000"/>
+                <data x= "25-29" y="46,000"/>
+                <data x= "30-34" y="42,000"/>
+                <data x= "35-49" y="33,000"/>
+                <data x= "50-64" y="25,000"/>
+                <data x= "65-79" y="13,000"/>
+                <data x= "80-94" y="5,000"/>
+                <data x= "95-99" y="2,000"/>
+                <data x= "100+" y="0.07"/>
+              </dataset>
+      </graph>
+      <quote>
+        <author>World Gold Council</author>
+        <text>The averege age of marriage are 22 for woman and 24 for men.</text>
+      </quote>
+      <keywords>
+       <keyword name="Southern Asia" /><keyword name="Citizenship" />
+       <keyword name="Gold" />
+      </keywords>
+      <sources>
+        <source>gold.org</source>
+      </sources>
+     </section>
+    <section>
+       <title>Indians and their relationship with gold</title>
+       <graph unit= "%" x="string" y="number">
+             <title>What Indian want to buy over next year?</title>
+             <abstract>
+               Based on 13,000 interviews of woman and men aged 18-60 years old,
+                who have purchased or received gold jewellery in the last two years.
+             </abstract>
+             <dataset label="Indian shopping">
+               <data x= "Elettronic item" y="8"/>
+               <data x= "Luxury cosmetics" y="6"/>
+               <data x= "Designer shoes" y="12"/>
+               <data x= "Designer bags" y="30"/>
+               <data x= "Gold jewellery" y="63"/>
+             </dataset>
+         </graph>
+         <graph unit= "%" x="string" y="number">
+               <title>What is the gold for Indians?</title>
+               <abstract>
+                 Based on 13,000 interviews of woman and men aged 18-60 years old,
+                  who have purchased or received gold jewellery in the last two years.
+               </abstract>
+                <dataset label="Indian answers">
+                 <data x= "Reflects personality" y="85"/>
+                 <data x= "Cultural identity" y="82"/>
+                 <data x= "Love gift" y="85"/>
+                 <data x= "Eredity for children" y="85"/>
+                 <data x= "Finacial security" y="85"/>
+               </dataset>
+           </graph>
+           <graph unit= "metric tons" x="data" y="number">
+             <dataset label="Gold">
+                 <title>Indian gold import</title>
+                   <data x= "1991" y="11"/>
+                   <data x= "1992" y="25"/>
+                   <data x= "1993" y="50"/>
+                   <data x= "1994" y="55"/>
+                   <data x= "1995" y="60"/>
+                   <data x= "1996" y="79"/>
+                   <data x= "1997" y="120"/>
+                   <data x= "1998" y="35"/>
+                   <data x= "1998" y="42"/>
+                   <data x= "1999" y="50"/>
+                   <data x= "2000" y="59"/>
+                   <data x= "2001" y="80"/>
+                   <data x= "2002" y="75"/>
+                   <data x= "2003" y="52"/>
+                   <data x= "2004" y="84"/>
+                   <data x= "2005" y="54"/>
+                   <data x= "2006" y="78"/>
+                   <data x= "2007" y="100"/>
+                   <data x= "2008" y="60"/>
+                   <data x= "2009" y="41"/>
+                   <data x= "2010" y="16"/>
+                   <data x= "2011" y="35"/>
+                   <data x= "2012" y="58"/>
+                   <data x= "2013" y="78"/>
+                   <data x= "2014" y="95"/>
+                   <data x= "2015" y="150"/>
+                 </dataset>
+             </graph>
+             <keywords>
+              <keyword name="Southern Asia" /><keyword name="Citizenship" />
+              <keyword name="Gold" /><keyword name="Import/Export" />
+             </keywords>
+             <sources>
+               <source>gold.org</source>
+               <source>atals.com</source>
+             </sources>
+    </section>
+    <section>
+      <title>Gold as a good omen for the Chinese New Year</title>
+      <chapter>
+         <paragraph>
+           The Chinese New Year is one of the most important and most felt traditional Chinese holidays,
+            and celebrates precisely the start of the new year according to the Chinese calendar.</paragraph>
+         <paragraph>
+             Chinese New Year traditionally marks the period of greatest purchase of gold by individuals.
+             Even before the Lunar New Year on 19 February, the gold coins issued by the People's Bank of
+             China for the year of the Goat are sold out.</paragraph>
+         <paragraph>
+                 Even this kind of purchases are a key fact for analysts,
+                 intent on research data indicating the extent of demand for gold in the second largest economy
+                 in the world. After all, the demand for gold bars, coins and jewelery by individuals in China
+                 is equal to one ounce in five sold worldwide in the last five years, second only to India.</paragraph>
+      </chapter>
+      <graph unit= "tons" x="data" y="number">
+            <title>Chinese jewellwry demand growing</title>
+            <dataset label="jewellwry demand">
+              <data x= "1996" y="330"/>
+              <data x= "1997" y="310"/>
+              <data x= "1998" y="290"/>
+              <data x= "1999" y="350"/>
+              <data x= "2000" y="250"/>
+              <data x= "2001" y="280"/>
+              <data x= "2001" y="210"/>
+              <data x= "2003" y="210"/>
+              <data x= "2004" y="210"/>
+              <data x= "2005" y="210"/>
+              <data x= "2006" y="220"/>
+              <data x= "2007" y="250"/>
+              <data x= "2008" y="230"/>
+              <data x= "2009" y="305"/>
+              <data x= "2010" y="350"/>
+              <data x= "2011" y="390"/>
+              <data x= "2012" y="460"/>
+              <data x= "2013" y="520"/>
+              <data x= "2014" y="510"/>
+              <data x= "2015" y="670"/>
+            </dataset>
+        </graph>
+      <keywords>
+       <keyword name="Central and Eastern Asia" /><keyword name="Citizenship" />
+       <keyword name="Gold" />
+      </keywords>
+      <sources>
+        <source>gold.org</source>
+        <source>atals.com</source>
+      </sources>
+    </section>
+    <section>
+        <title>Historical break</title>
+        <subtitle>Restrictions for gold</subtitle>
+        <chapter>
+          <paragraph>
+            In 1934, USA it is determined that individuals can no longer exchange gold.</paragraph>
+            <paragraph>Franklin Delano Roosevelt between 1933 and 1937 brought the New Deal,
+              a reform plan to lift the country out of the Great Depression of 1929</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Gold" /><keyword name="North America" />
+        </keywords>
+        <sources>
+         <source>goldbroker.com</source>
+       </sources>
+   </section>
+ </sections>
+  </bullettin>
+</bullettins>

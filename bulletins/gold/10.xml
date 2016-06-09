@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bullettins>
+  <title>Gold Fever</title>
+	<subtitle>Visualizing the crisis</subtitle>
+	<authors>
+    <author>Noemi Incardona</author>
+    <author>Fabiana Mangano</author>
+    <author>Alessandra Neri</author>
+  </authors>
+  <bullettin id="10" date="20160514">
+    <sections>
+      <section>
+          <title>The Vatican's sacred gold</title>
+          <chapter>
+          <paragraph>
+            When the devaluation of the Italian lira began in late 1994, the Vatican
+            withdrew his money and reinvested them in US dollars, Japanese yen, British
+            pounds and German marks. The Vatican stepped fully into the European
+            Economic Monetary System, which was and still is very useful for net capital
+            gains of the Holy See.</paragraph>
+            <paragraph>
+            Reading the statements never published APSA (the body which manages the
+            assets of the Apostolic See ) and some confidential notes signed by the new
+            president of the IOR Jean Baptist de Franssu, we understand that important part
+            of the treasure is hidden right APSA, which unlike the IOR he has never
+            announced his accounts. IOR is a real bank without branches, but which administers
+            the capital of the religious orders, the institutions of the Church, the dioceses,
+            parishes and other Vatican organizations.</paragraph>
+        <quote>
+              <author>L'Espresso</author>
+              <text>APSA holds the gold for 32,232 ounces in bullions and 3,122 ounces of monetary gold.</text>
+        </quote>
+        </chapter>
+        <chapter>
+           <title>Vatican financial venue</title>
+           <paragraph>
+           <list type="unordered">
+               <item>AIF venue, St. Carlo’s Palace</item>
+               <item>Vatican governor’s venue, Governor's Palace</item>
+               <item>APSA and IOR venue, Apostolic Palace</item>
+               <item>Vatican Bank</item>
+             </list>
+           </paragraph>
+        </chapter>
+         <chapter>
+           <title>APSA, the apostolic venue’s patrimony administration</title>
+           <paragraph>
+           <list type="ordered">
+               <item>President, Cardinal Domenico Calcagno</item>
+               <item>Segretary, Prelate Luigi Mistò</item>
+               <item>Executive management, Stefano Loreti</item>
+               <item>Delegate ordinary section (real estate, vatican staff, need of departments, internet), Prelate Massimo Boarotto</item>
+               <item>Delegate Straordinary section (mobile assets. mobile assets in trust, funds), Paolo Mannini</item>
+             </list>
+           </paragraph>
+        </chapter>
+        <graph unit= "millions" x="string" y="number">
+             <title>APSA’s treasure: investments in real estate, stocks, gold</title>
+             <dataset label="Vatican assets">
+               <data x= "Total assets" y="9,000"/>
+               <data x= "Investments" y="475"/>
+               <data x= "Real estate" y="342"/>
+               <data x= "Gold" y="30"/>
+             </dataset>
+        </graph>
+        <keywords>
+              <keyword name="Gold" /><keyword name="Eastern Europe" /><keyword name="Investments" />
+              <keyword name="Global Corporations" />
+        </keywords>
+        <sources>
+            <source>vativan.va</source>
+            <source>espresso.repubblica.it</source>
+            <source>ior.va</source>
+        </sources>
+      </section>
+      <section>
+        <quote>
+          <author>La Stampa</author>
+          <text>Reciclyng peacked in 2009, at 1,728 tonnes, and reached a 7-year low in 2015</text>
+        </quote>
+        <chapter>
+          <paragraph>
+            Gold is the most ductile metals in nature, second only to
+            platinum, as well as being an excellent conductor of
+            electricity, is widely used in the industries of this sector.
+            In fact, with only one gram of yellow metal you can draw
+            a wire along more than 3 km, as well as for its inertia and
+            resistance is also used in the construction of spacecraft
+            and robotics. Pure state gold is incorruptible and will not
+            rust, which means that it does not deteriorate when
+            attacked by atmospheric agents such as air or water, and
+            does not change even when it comes in contact with almost all chemicals.</paragraph>
+            <paragraph>
+            For all these reasons, gold is also called the eternal metal. For some years now, thanks to
+            the economic crisis, many thought that it was useful to monetize through gold mining contained in different
+            types of electronic equipment broken or disused.</paragraph>
+        </chapter>
+        <graph unit= "$/oz" x="data" y="number">
+             <title>Gold recycling rates reflect the shifts in the price of gold</title>
+             <dataset label="Recycled gold">
+                <data x= "2004" y="409"/>
+                <data x= "2006" y="604"/>
+                <data x= "2008" y="872"/>
+                <data x= "2010" y="1,225"/>
+                <data x= "2012" y="1,669"/>
+                <data x= "2014" y="1,266"/>
+              </dataset>
+             </graph>
+        <graph unit= "%" x="data" y="number">
+                  <dataset label="Gold price">
+                     <data x= "2004" y="30"/>
+                     <data x= "2006" y="35"/>
+                     <data x= "2008" y="39"/>
+                     <data x= "2010" y="39"/>
+                     <data x= "2012" y="37"/>
+                     <data x= "2014" y="26"/>
+                   </dataset>
+        </graph>
+        <chapter>
+          <title>Why is important the recicled gold</title>
+          <paragraph>
+          <list type="unordered">
+              <item>Recycled gold accounts for about 1/3 of total supply</item>
+              <item>The gold price is the most important factor that driving recycling supply</item>
+              <item>Economic crisis can increase recycling by up to 20%</item>
+              <item>Reciclyng peacked in 2009, at 1,728 tonnes, and reached a 7-year low in 2015</item>
+              <item>Recycled gold from industrial waste has doubled in the last 10 year</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <keywords>
+              <keyword name="Gold" />
+        </keywords>
+        <sources>
+            <source>rinnovabili.it</source>
+            <source>lastampa.it</source>
+        </sources>
+      </section>
+      <section>
+        <title>What we don’t know about owr mobile phones</title>
+        <chapter>
+          <title>Where gold is in industrial waste?</title>
+          <paragraph>
+          <list type="unordered">
+              <item>Some parts of the CPU like pins</item>
+              <item>Some parts of the RAM memory</item>
+              <item>Expansion memory circuits</item>
+              <item>Jumpers of the motherboard</item>
+              <item>Socket of the motherboard</item>
+              <item>Some parts of the power battery</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <chapter>
+              <title>Metals in owr mobile phone</title>
+              <paragraph>
+              <list type="unordered">
+                  <item>Gold, used to coat wires in the circuits boards</item>
+                  <item>Tin, solderings in the circuits boards</item>
+                  <item>Tungsten,in the components that helps mobile phones to vibrate</item>
+                  <item>Silver, composes a mejor part of microelectrical componets</item>
+                  <item>Copper, act as a transistors in the circuits boards</item>
+                  <item>Tantalum, act as a transistors in the circuits boards</item>
+                </list>
+              </paragraph>
+        </chapter>
+        <graph unit= "mg" x="string" y="number">
+             <title>How much precious metals are there in a mobile phone?</title>
+             <dataset label="Metals">
+                <data x= "Silver" y="250"/>
+                <data x= "Gold" y="24"/>
+                <data x= "Palladium" y="9"/>
+                <data x= "Platinum" y="9"/>
+              </dataset>
+        </graph>
+        <keywords>
+              <keyword name="Gold" />
+        </keywords>
+        <sources>
+            <source>rinnovabili.it</source>
+            <source>lastampa.it</source>
+        </sources>
+      </section>
+      <section>
+        <title>What appens to Apple?</title>
+        <chapter>
+          <paragraph>
+            Apple has released interesting numbers to understand
+            the volume and the number of materials recycled from old
+            devices of Apple, properly recovered. In the " spoils"
+            there are about 28 thousand tons of steel, aluminum and
+            glass. And more than one ton of gold. Worth over 40 million dollars, in addition to the more
+            than 10 million of the other materials. According communicates Apple, are about 90 million pounds of
+            electronic waste collected through the recycling program,
+            71% of the total weight of the products sold by Apple from 7 years to today.</paragraph>
+            <paragraph>
+            But this isn’t the real news! More likely, it was reported that Apple has recycled “40
+            million pounds of electronic waste through its recycling
+            program” and much of this waste come from the iPhone and other Apple old products. Of this waste,1 ton of
+            them was gold, which, according to current prices, worth
+            40 million dollars. Apple has paid independent recyclers to recycle old electronics - and that almost never
+            corresponded to Apple products, however - because the law requires you to do so.</paragraph>
+        </chapter>
+        <keywords>
+                  <keyword name="Gold" />
+            </keywords>
+        <sources>
+                <source>lastampa.it</source>
+            </sources>
+      </section>
+      <section>
+       <title>Historical break</title>
+       <subtitle>The end of the Bretton Woods agreements</subtitle>
+       <chapter>
+        <paragraph>
+          August 15, 1971, at Camp David, Richard Nixon suspended the convertibility of the dollar into gold, because,
+          with the increasing of gold conversion requests American stocks were increasingly shrinking.</paragraph>
+          <paragraph>Camp David is one of the residences of the President of the United States.
+             It was built in 1942 by President Franklin Delano Roosevelt as the " Shangri-La ",
+              and under his successor Harry Truman became the official residence.</paragraph>
+       </chapter>
+       <keywords>
+        <keyword name="Gold" /><keyword name="North America" />
+      </keywords>
+      </section>
+     <section>
+      <title>Gold price</title>
+      <subtitle>Week 18</subtitle>
+      <graph unit="$/oz" x="date" y="number">
+        <dataset label= "Gold price">
+            <data x= "20160509" y="1,264"/>
+            <data x= "20160510" y="1,266"/>
+            <data x= "20160511" y="1,278"/>
+            <data x= "20160512" y="1,265"/>
+            <data x= "20160513" y="1,272"/>
+          </dataset>
+        </graph>
+      <keywords>
+          <keyword name="Gold" />
+      </keywords>
+      <sources>
+        <source>goldbroker.it</source>
+      </sources>
+    </section>
+      </sections>
+    </bullettin>
+  </bullettins>

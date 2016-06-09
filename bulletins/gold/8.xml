@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bullettins>
+  <title>Gold Fever</title>
+	<subtitle>#visualizingthecrisis</subtitle>
+	<authors>
+    <author>Noemi Incardona</author>
+    <author>Fabiana Mangano</author>
+    <author>Alessandra Neri</author>
+  </authors>
+  <bullettin id="08" date="20160430">
+    <sections>
+      <section>
+        <quote>
+          <author>Etrurian Bank</author>
+          <text>We are mere intermediates, we don't produce gold.</text>
+        </quote>
+        <chapter>
+          <title>The fake of Rai gold coins. Supplier prize? Etrurian Bank</title>
+          <paragraph>
+          The case raised by the complaint of a winner of the "Red or Black" program,
+           is the subject of an episode broadcast on RAI-3 on April 24.</paragraph>
+            <paragraph> The winner Maria Cristina Sparanide that by participating in 2013 to the transmission of Rai Uno,
+              had won 100 thousand euro in gold coins. Report found that those tokens despite were paid as pure gold
+              are actually a lower title: 995 compared to 999.9.
+            </paragraph>
+            <paragraph> A supply of ingots the mint was Banca Etruria.
+               The Institute is the historical supplier of the Mint, which annually buys millions of ingots
+               and then turn them into gold tokens for Rai.
+            </paragraph>
+        </chapter>
+        <chapter>
+          <paragraph> Maria Cristina Sparanide won 100.000 €, the payout is welded with four gold coin of the unit value
+            of 20,000 € eachabout.</paragraph>
+            <paragraph> the winner is subtracted 20% of the winnings to pay taxes, so the sum of the win is reduced to 80,000 €.
+            </paragraph>
+            <paragraph> When the winner is changing the amount, it is reduced by another 20,000 €. The winner is aimed at 'Italpreziosi'
+               Arezzo to check the winning gold
+            </paragraph>
+            <paragraph> When the winner is changing the amount, it is reduced by another 20,000 €. The winner is aimed at 'Italpreziosi'
+               Arezzo to check the winning gold
+            </paragraph>
+              <paragraph>The gold value of the win is of 995 not of 999, it means that for every pound there are five grams of another
+             non-precious material.Ingots are provided by Banca Etruria. Only 20 percent was tested for input, and the result is gold 999.
+             So will start the procedures, but the fact remains that 80 per cent has not been checked.</paragraph>
+      </chapter>
+        <keywords>
+            <keyword name="Western Europe" /><keyword name="Currencies" /><keyword name="Gold" />
+        </keywords>
+        <sources>
+          <source>report.rai.it</source>
+          </sources>
+      </section>
+      <section>
+          <title>Italy is among the countries with the most gold in the coffers</title>
+          <chapter>
+            <paragraph>
+            Importantly, the Italian gold is not owned by the government, but the Bank of Italy. In the "vestry"
+            of the Koch Palace in Rome it is guarded about half of Italian gold reserves. It has been specified that it is impossible for the Bank
+            itself freely dispose of as reserve which is a fundamental defense guarantee for confidence in the country's system.</paragraph>
+              <paragraph> . However, considering that the National Bank is part of the 'Eurosystem, the reservations are part and simultaneously
+                guarantee along with those of other European countries the system itself.
+              </paragraph>
+              <paragraph> Currently the reserve is untouchable and unusable, so the possibility of selling
+                or the use of a guarantee of public loans are simple impracticable speculation.
+              </paragraph>
+          </chapter>
+          <table>                                                         <!--[0-N]-->
+         <row type="head">                                             <!--[ 1 ]-->
+           <cell>Position</cell>                                            <!--[1-N]-->
+           <cell>Country or istitutions</cell>
+           <cell>Tons</cell>
+           <cell>% total gold reserves</cell>
+         </row>
+         <row type="cell">                                             <!--[1-N]-->
+           <cell>1</cell>                                          <!--[1-N]-->
+           <cell>United States</cell>
+           <cell>8,133.5</cell>
+           <cell>72.7</cell>
+          </row>
+          <row type="cell">                                             <!--[1-N]-->
+            <cell>2</cell>                                          <!--[1-N]-->
+            <cell>Germany</cell>
+            <cell>3,381.0</cell>
+            <cell>67.1</cell>
+           </row>
+           <row type="cell">                                             <!--[1-N]-->
+             <cell>3</cell>                                          <!--[1-N]-->
+             <cell>International Monetary Fund</cell>
+             <cell>2,814.0</cell>
+             <cell>0</cell>
+            </row>
+            <row type="cell">                                             <!--[1-N]-->
+              <cell>4</cell>                                          <!--[1-N]-->
+              <cell>Italy</cell>
+              <cell>2,451.8</cell>
+              <cell>65.0</cell>
+             </row>
+       </table>
+          <graph unit= "%" x="country" y="number">
+            <dataset label="Italy gold export">
+              <data x= "Portugal" y="1"/>
+              <data x= "Spain" y="1.4"/>
+              <data x= "Franch" y="11"/>
+              <data x= "Russia" y="0.052"/>
+              <data x= "Croatia" y="0.77"/>
+              <data x= "Switzetland" y="80"/>
+              <data x= "South Africa" y="10"/>
+          </dataset>
+        </graph>
+        <graph unit= "%" x="country" y="number">
+            <dataset label="Italy gold import">
+              <data x= "Portugal" y="1.5"/>
+              <data x= "Spain" y="11"/>
+              <data x= "Franch" y="9.4"/>
+              <data x= "Russia" y="4.4"/>
+              <data x= "Croatia" y="1.9"/>
+              <data x= "Switzetland" y="36"/>
+              <data x= "South Africa" y="20"/>
+            </dataset>
+        </graph>
+        <keywords>
+            <keyword name="Import/Export" /><keyword name="Western Europe" />
+            <keyword name="Southern Africa" /><keyword name="Eastern Europe" /><keyword name="Gold" />
+        </keywords>
+        <sources>
+          <source>/atlas.media.mit.edu</source>
+          <source>memmt.info</source>
+          </sources>
+      </section>
+      <section>
+            <title>Bank of Italy’s gold reserve</title>
+            <chapter>
+              <paragraph>In the Palazzo Koch sacristy is kept half of the gold reserves for a weight of 1,199.4 tons.
+                Of these, 4.1 tons are in the form of currency  and the remaining part in the form of ingots.
+                </paragraph>
+              <paragraph>The ingots are 95,493, for a total weight of about 1,195.3 tons.
+                Some of these are held on behalf of the ECB because they represent a component of foreign reserves.
+                  </paragraph>
+              <paragraph>The remaining gold is deposited for the most part at the Federal Reserve,
+                 but also at the Bank of England and the Central Bank of Switzerland.
+                </paragraph>
+                <paragraph>The gold content in the ingot has a extremely high content that ranges from a minimum of 996.2/1,000 to 999,99/1,000.
+                  </paragraph>
+            </chapter>
+            <keywords>
+                <keyword name="Western Europe" />
+                <keyword name="Gold" />
+            </keywords>
+            <sources>
+              <source>bancaditalia.it</source>
+              </sources>
+      </section>
+      <section>
+            <title>Establishment of the gold reserve of the Bank of Italy</title>
+            <chapter>
+              <paragraph>
+                In 1926, in relation to the allocation to the Bank of Italy of the exclusive privilege of issuing power,
+                it was ceded to the Institute reserves the Banco di Sicilia and Banco di Napoli, about 70 tons of gold.</paragraph>
+              <paragraph>In 1933, total reserves exceeded 561 tons, but the entrance into the war came down to 106 tons;
+                 During World War II, the reserves were "looted" from Germany, and returned only in part at the end of the conflict;
+                 growth to the current level is widely linked to the Second World War.</paragraph>
+              <paragraph>In 1943, the German ordered the transfer of gold reserves at Fort (South Tyrol) 92.3 tons of gold.
+                The diminished gold reserves of about 72 tons. In 1946, the "Tripartite Commission for monetary gold return" to countries that
+                 had undergone removal by the Nazis assigned to the Bank of Italy about 31.7 tons of the 69 request.</paragraph>
+              <paragraph>From 1951 and ultil 1960,the UIC bought large amounts of gold. In 1958 he worked an additional allocation of 12.7 tons.
+                The amount officially lost by the Bank, because of the war, was about 25 tons.</paragraph>
+              <paragraph>In 1960 and 1965 were implemented by the Office's reserves to those of the Bank of Italy for a total of 1,889 tons,
+                according to the principle that the Bank recognized the holding of gold reserves and the management of the UIC currency:
+                the gold of the Bank increased to 2,136 tons.</paragraph>
+                <paragraph>In 1976, as a result of credit operation performed with the Deutsche Bundesbank on behalf of the UIC,
+                  they were relegated to the Office 543 tons.</paragraph>
+                  <paragraph>In July of 1981 there was a very important event in the history of economics Italy,
+                     the so-called "Divorce" between the Bank of Italy and the Treasury. </paragraph>
+                  <paragraph>The latest quantitative change, which have led the reserves to the current amounts, took place in 1998 with the definitive transfer
+                    of gold held dall'UIC. On January 5, 1999, with the transfer to the ECB of 141 tons of metal.</paragraph>
+            </chapter>
+            <keywords>
+              <keyword name="Western Europe" />
+              <keyword name="Gold" />
+            </keywords>
+            <sources>
+              <source>bancaditalia.it</source>
+              </sources>
+      </section>
+      <section>
+            <title>An alternative currency, the Bitcoin</title>
+            <chapter>
+              <paragraph>
+                Bitcoin is an electronic money created in 2009 by an anonymous known by the pseudonym Satoshi Nakamoto.
+                 Bitcoin is one of the first implementations of a concept defined cryptocurrency, described for the first time in 1998 by Wei Dai.
+                 Encryption, allows you to make a message not understood by people not authorized to read it.
+                 This will guarantee the confidentiality of data is one of the essential requirements in the field of information security. </paragraph>
+               <paragraph>
+                    All this happens without the use of a central body which determines the value, as it happens for other currencies:
+                    the value depends on the trust that the investors are placing in it . </paragraph>
+            </chapter>
+            <graph unit= "$" x="date" y="number">
+                <title>The great Bitcoin performance of 2015</title>
+                <dataset label="Bitcoin value">
+                  <data x= "20150101" y="300"/>
+                  <data x= "20150201" y="240"/>
+                  <data x= "20150301" y="250"/>
+                  <data x= "20150401" y="250"/>
+                  <data x= "20150501" y="240"/>
+                  <data x= "20150601" y="230"/>
+                  <data x= "20150701" y="260"/>
+                  <data x= "20150801" y="290"/>
+                  <data x= "20150901" y="230"/>
+                  <data x= "20151001" y="250"/>
+                  <data x= "20151101" y="300"/>
+                  <data x= "20151201" y="375"/>
+                  <data x= "20160101" y="440"/>
+                </dataset>
+            </graph>
+            <graph unit= "$" x="date" y="number">
+                <title>Bitcoin performance 2014/2015</title>
+                <dataset label="Bitcoin value">
+                  <data x= "20140101" y="725"/>
+                  <data x= "20140601" y="480"/>
+                  <data x= "20141101" y="650"/>
+                  <data x= "20150401" y="280"/>
+                  <data x= "20150901" y="170"/>
+                </dataset>
+            </graph>
+            <graph unit= "$/oz" x="date" y="number">
+                <title>Gold price performance 2014/2015</title>
+                <dataset label="Gold price">
+                  <data x= "20140101" y="1,235"/>
+                  <data x= "20140601" y="1,300"/>
+                  <data x= "20141101" y="1,275"/>
+                  <data x= "20150401" y="1,160"/>
+                  <data x= "20150901" y="1,268"/>
+                </dataset>
+            </graph>
+            <graph unit= "%" x="string" y="number">
+                <title>Performance of currencies of 2015</title>
+                <dataset label="Gold price">
+                  <data x= "Bitcoin" y="35"/>
+                  <data x= "Israel" y="0.3"/>
+                  <data x= "Japan" y="0"/>
+                  <data x= "Switzerland" y="0"/>
+                  <data x= "China" y="-4.2"/>
+                  <data x= "India" y="-4.5"/>
+                  <data x= "Great Britain" y="-5.9"/>
+                  <data x= "Gold" y="-10"/>
+                  <data x= "Australia" y="-10.2"/>
+                  <data x= "European Union" y="-10.9"/>
+                  <data x= "Silver" y="-11"/>
+                  <data x= "New Zeland" y="-12.3"/>
+                  <data x= "Norwey" y="-14.7"/>
+                  <data x= "Canada" y="-15.9"/>
+                  <data x= "Mexico" y="-17.6"/>
+                  <data x= "Russia" y="-20.8"/>
+                  <data x= "South Africa" y="-26.7"/>
+                  <data x= "Argentina" y="-28.8"/>
+                  <data x= "Brazil" y="-30.5"/>
+                  <data x= "Ukraine" y="-33.8"/>
+                </dataset>
+            </graph>
+          <keywords>
+                <keyword name="gold" /><keyword name="Currencies" />
+            </keywords>
+            <sources>
+              <source>visualcapitalist.com</source>
+              </sources>
+        </section>
+      <section>
+            <chapter>
+              <title>The differencies with gold</title>
+              <paragraph>
+              Gold is a chemical element that has historically been highly sought-after for currency, juwlery and other uses.
+              Bitcoin is peer-to-peer virtual currency stored in a digital wallet (either in a cloud or on a user’s computer).</paragraph>
+              <paragraph>
+               Gold is known to humans throughout most of our history, many believe the first gold coins date to 600 BC and were used by the turk.
+               Bitcoin is used for the first time in Jenuary 2009 with the launch of the first open-source Bitcoin client and issuance of the
+                first bitcoins.</paragraph>
+              <paragraph>
+                 Hundreds of gold tons are mined every year through mines that include a lot of dangerous processes. New bitcoins are generating
+                 by a competitive and decentralized process called mining.</paragraph>
+               <paragraph>Are estimated 171,000 tons of gold in the world. The total number of Bitcoins that can ever been mined is 21,000,000.
+                  </paragraph>
+            </chapter>
+            <keywords>
+                <keyword name="Gold" /><keyword name="currencies" />
+            </keywords>
+            <sources>
+              <source>valuewolk.com</source>
+              </sources>
+      </section>
+      <section>
+            <chapter>
+              <title>What consumers think about Bitcoin</title>
+              <paragraph>
+                <list type="unordered">                                     <!--[0-N]-->
+                 <item>80% of people have never and would never consider using an alternative form of currency like Bitcoin.</item>                                    <!--[1-N]-->
+                 <item>80% of people would rather own gold insted of Bitcoin.</item>
+                 <item>75% are not familiar with Bitcoin.</item>                                    <!--[1-N]-->
+                 <item>40% believe that Bitcoin hurts the US dollar.</item>
+                 <item>30% of 18-24 years old believe that Bitcoin helps the US dollar versus only 10% of those over 65.</item>
+                 <item>15% of 18-24 years old would rather own Bitcoin insted of gold versus only 4% of those over 65.</item>
+               </list>
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>Which countries have weighed in?</title>
+          <paragraph>
+          There are some countries that have policies, low or regulations that allow the use of the Bitcoin</paragraph>
+          <paragraph>
+            <list type="unordered">                                     <!--[0-N]-->
+             <item>U.S.</item>                                    <!--[1-N]-->
+             <item>Switzerland</item>
+             <item>German</item>                                    <!--[1-N]-->
+             <item>Italy</item>
+           </list>
+      </paragraph>
+      <paragraph>
+      Some countries are some specific limitation in the use of Bitcoin</paragraph>
+      <paragraph>
+        <list type="unordered">                                     <!--[0-N]-->
+         <item>China</item>                                    <!--[1-N]-->
+         <item>India</item>
+         <item>Jordan</item>
+         <item>Kazakhstan</item>
+         <item>Mexico</item>
+       </list>
+  </paragraph>
+  <paragraph>
+  Some countries consider Bitcoin illegal or forbid the use of it</paragraph>
+  <paragraph>
+    <list type="unordered">                                     <!--[0-N]-->
+     <item>Norwey</item>                                    <!--[1-N]-->
+     <item>France</item>
+     <item>Thailand</item>
+     <item>Korea</item>
+     <item>Vietnam</item>
+     <item>Iceland</item>
+   </list>
+</paragraph>
+    </chapter>
+            <keywords>
+                <keyword name="currencies" /><keyword name="Gold" /><keyword name="Millennials (1980-2000)" />
+                <keyword name="Baby Bombers (1945-1964)" /><keyword name="North America" /><keyword name="Western Europe" />
+                <keyword name="Eastern Europe" /><keyword name="Southern Asia" /><keyword name="Central and Eastern Asia" />
+            </keywords>
+            <sources>
+              <source>visualcapitalist.com</source>
+              <source>valuewolk.com</source>
+              <source>bitcoin.com</source>
+              </sources>
+      </section>
+      <section>
+            <chapter>
+              <title>How work a Bitcoin</title>
+              <paragraph>Download softwere on a computer or smartphone to set up a Bitcoin wallet.
+                 This gives the basic facilities to send, recive and store Bitcoins.
+            </paragraph>
+              <paragraph>The software generate a string of letters and numbers: the Bitcoin address.
+                The address identifies a person in Bitcoin network.
+              </paragraph>
+              <paragraph>Buy Bitcoins with a standard offline currency, either for another user of through a dedicated Bitcoin exchange.
+                 The digial found are added to the wallet.
+                </paragraph>
+               <paragraph>The Bitcoin network authenticates transactions by recording them in the
+                 “block chain”- the underline code that preserves the integrity of the currency.
+                  </paragraph>
+               <paragraph>Use the softwere to send payments to other addresses.
+                 Divisions as small as 100,000,000th of a Bitcoin are possible - a unit colled “Satoshi”.
+                     </paragraph>
+            </chapter>
+            <keywords>
+                <keyword name="Currencies" /><keyword name="Tech" />
+            </keywords>
+            <sources>
+              <source>bitcoin.com</source>
+              </sources>
+      </section>
+      <section>
+          <title>Historical break</title>
+          <subtitle>The Bretton Woods agreements</subtitle>
+          <chapter>
+            <paragraph>
+              In 1944 July 1 to 22 it took place the the Bretton Woods Conference that led to the creation of
+              the World Bank and the International Monetary Fund (IMF).
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Gold" /><keyword name="North America" /><keyword name="Currencies" />
+          </keywords>
+          <sources>
+           <source>borsaitaliana.it</source>
+         </sources>
+      </section>
+      <section>
+        <title>Gold price</title>
+        <subtitle>Week 16</subtitle>
+        <graph unit="$/oz" x="date" y="number">
+          <dataset label= "Gold price">
+              <data x= "20160425" y="1,238.26"/>
+              <data x= "20160426" y="1,242.87"/>
+              <data x= "20160427" y="1,244.58"/>
+              <data x= "20160428" y="1,249.70"/>
+              <data x= "20160429" y="1,293.12"/>
+            </dataset>
+          </graph>
+        <keywords>
+            <keyword name="Gold" />
+        </keywords>
+        <sources>
+          <source>goldbroker.it</source>
+          </sources>
+        </section>
+    </sections>
+    </bullettin>
+  </bullettins>
