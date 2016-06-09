@@ -1,6 +1,6 @@
 <bulletin id="issue 5" date="20160402">
   <sections>
-      <section> <!--1-->
+      <section>                                                             <!--1-->
         <title>Asylum Application in EU</title>
         <graph unit="%" x="date" y="number">
           <dataset label="">
@@ -27,7 +27,7 @@
             <source>ec.europa.eu/eurostat</source>
           </sources>
       </section>
-      <section> <!--2-->
+      <section>                                                           <!--2-->
       <title>Exodus</title>
         <abstract>
           By allowing workers to move to where they are more productive, international migration results in an increase in aggregate output and income. Remittances generally reduce the level and severity of poverty and lead to higher human capital accumulation, greater health and education expenditures, reduced child labor and better preparedness for adverse shocks such as droughts, earthquakes, and cyclones. Diasporas can be an important source of trade, capital, technology, and knowledge for countries of origin and destination.
@@ -61,7 +61,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--3-->
+    <section>                                                                <!--3-->
       <title>Major World Migration Flows During the 20th Century</title>
       <chapter>
         <paragraph>
@@ -115,7 +115,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--4-->
+    <section>                                                               <!--4-->
       <title>Climate Change, Environments Change, Works Change</title>
       <chapter>
         <paragraph>One primary impact of climate change in high-risk countries will be rising volatility in agricultural production, which will disrupt traditional farming, fishing and pastoral communities. Ecological disruption will in turn upend related industries down the production chain, undermining logistics and retail markets.</paragraph>
@@ -124,17 +124,17 @@
       <chapter>
         <title>Global Climate Risk</title>
         <paragraph>Countries most affected by extreme weather events in the last 20 years.</paragraph>
-        <paragrph>
+        <paragraph>
         <list type="unordered">
-          <item>Guatemala_SA</item>
-          <item>Nicaragua_SA</item>
-          <item>Dominican Republic_SA</item>
-          <item>Pakistan_AS</item>
-          <item>Myanmar_AS</item>
-          <item>Vietnam_AS</item>
-          <item>Philippines_AS</item>
+          <item>Guatemala</item>
+          <item>Nicaragua</item>
+          <item>Dominican Republic</item>
+          <item>Pakistan</item>
+          <item>Myanmar</item>
+          <item>Vietnam</item>
+          <item>Philippines</item>
         </list>
-      </paragrph>
+      </paragraph>
       </chapter>
       <keywords>
         <keyword name="Southeastern Asia" />
@@ -167,7 +167,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--5-->
+    <section>                                                           <!--5-->
       <title>Sending Money Home</title>
       <chapter>
         <title>The Remittance</title>
@@ -330,27 +330,25 @@
               <source>Internazionale</source>
             </sources>
     </section>
-    <section> <!--6-->
+    <section>                                                           <!--6-->
     <title>Remittances Worldwide</title>
     <abstract>
-      Money sent from migrants to their home countries, which are called remittances, last year arrived to $601 billion, of which $441 billion went to developing countries — three times the size of official aid.
+      Money sent from migrants to their home countries, which are called remittances, last year arrived to $601 billion, of which $441 billion went to developing countries (three times the size of official aid).
     </abstract>
-    <graph unit="%" x="string" y="percentage">
-      <dataset label= "Total amount of remittances, 2015">
-        <data x="$601b" y="100"/>
+    <graph unit="b$" x="string" y="number">
+      <dataset label= "">
+        <data x="Total amount of remittances" y="601"/>
+        <data x="Remittances sent to developing countries" y="441"/>
       </dataset>
-      <dataset label= "Remittances sent to developing countries, 2015">
-          <data x="$441b" y="73.37"/>
-        </dataset>
     </graph>
-    <graph unit="b$" x="string" y="percentage">
+    <graph unit="%" x="string" y="percentage">
       <title>Average Remittance Price</title>
       <abstract>
         Globally, sending remittances costs an average of 7.37% ($44.3b) of the amount sent. Cutting prices by at least 5 percentage points can save up to $16 billion a year.
       </abstract>
       <dataset label= "">
-        <data x="Total amount of remittances" y="601"/>
-          <data x="Remittances sent to developing countries" y="44.3"/>
+        <data x="Total amount of remittances" y="92.7"/>
+          <data x="Remittances sent to developing countries" y="7.3"/>
         </dataset>
     </graph>
     <keywords>
@@ -382,11 +380,11 @@
       <source>Internazionale</source>
     </sources>
     </section>
-    <section> <!--7-->
+    <section>                                                       <!--7-->
       <title>Youth Displacement</title>
       <chapter>
         <title>In US Millennials Are About to Leave Cities</title>
-        <paragraph>As businesses and governments have struggled to understand the so-called millennials - born between roughly 1980 and 2000 - one frequent conclusion has been that they have a unique love of cities. But there’s mounting evidence that millennials’ love of cities was a passing fling that became a shotgun wedding thanks to the Great Recession. Millennials don’t love cities any more than previous generations, the counterargument goes—they’ve just been stuck there longer, pining for the suburbs all the while.</paragraph>
+        <paragraph>As businesses and governments have struggled to understand the so-called millennials (born between roughly 1980 and 2000) one frequent conclusion has been that they have a unique love of cities. But there’s mounting evidence that millennials’ love of cities was a passing fling that became a shotgun wedding thanks to the Great Recession. Millennials don’t love cities any more than previous generations, the counterargument goes - they’ve just been stuck there longer, pining for the suburbs all the while.</paragraph>
       </chapter>
       <chapter>
         <title>While in Europe...</title>
@@ -448,7 +446,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--8-->
+    <section>                                                <!--8-->
       <title>Worldwide Migratory Routes</title>
       <chapter>
         <paragraph>Conflict, persecution, generalized violence and violations of human rights continued to cause forced displacement around the world. Fighting across parts of the Middle East and Africa, Asia and South America, millions of individuals are forced to flee either within or outside their country.</paragraph>
@@ -456,7 +454,7 @@
       </chapter>
       <quote>
         <author>Antonio Guterres, the UN High Commissioner</author>
-        <text>We are witnessing a paradigm change, an unchecked slide into an era in which the scale of global forced displacement as well as the response required is now clearly dwarfing anything seen before</text>
+        <text>We are witnessing a paradigm change, an unchecked slide into an era in which the scale of global forced displacement as well as the response required is now clearly dwarfing anything seen before.</text>
       </quote>
       <graph unit="m" x="date" y="number">
         <title>People Displaced by War</title>
@@ -528,7 +526,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--9-->
+    <section>                                            <!--9-->
         <title>Toward Open Door Migration</title>
         <abstract>
           In the US, in deindustrialised cities that are being depopulated, political leaders have launched pioneering initiatives designed to attract migrants: repopulating Detroit with Syrian refugees is a perhaps utopian yet generous and pragmatic idea proposed by American researchers.
@@ -570,7 +568,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--10-->
+    <section>                                                     <!--10-->
     <title>Welcoming Refugees</title>
       <chapter>
       <paragraph>In the face of Europe’s economic crisis and demographic decline (especially in Germany and Italy), which threatens to bring about a fall in the active population by 2030, immigration could be a real asset, helping to stimulate economic activity and to pay the pensions of the baby boomers.</paragraph>
@@ -623,7 +621,7 @@
       <source>Internazionale</source>
     </sources>
     </section>
-    <section> <!--11-->
+    <section>                                                              <!--11-->
       <title>Immigrants Founded 51% of US Billion-Dollar Startups</title>
         <abstract>
           A study from the National Foundation for American Policy shows that immigrants started more than half of the current crop of US-based startups valued at $1 billion or more.
@@ -638,8 +636,8 @@
           </chapter>
       <graph unit="" x="string" y="percentage">
         <dataset label= "">
-          <data x="A" y="87"/>
-          <data x="B" y="44"/>
+          <data x="A" y="49"/>
+          <data x="B" y="51"/>
         </dataset>
       </graph>
         <chapter>
@@ -679,7 +677,7 @@
           <source>Internazionale</source>
         </sources>
     </section>
-    <section> <!--12-->
+    <section>                                                     <!--12-->
         <title>University of Bologna</title>
         <abstract>
           Asylum application students will be able to matriculate with total exemption of taxes for the academic year 2015/2016.
@@ -714,7 +712,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--13-->
+    <section>                                               <!--13-->
         <title>Refugee Camp in Calais</title>
         <abstract>
           At the end of 2015 the graffiti artist Banksy has created a new artwork in the so-called Jungle refugee camp in Calais depicting the late Steve Jobs, whose father was Syrian-born.
@@ -748,10 +746,10 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--14-->
+    <section>                                                               <!--14-->
         <title>Geneva, 30/03/16: Conference on Syrian Refugees</title>
         <abstract>
-          Only 6,000 places more for resettlement of Syrian refugees. The increase was modest bringing the total to about 185,000.
+          It was established only 6,000 places more will be used to receive Syrian refugees in Europe. The increase was modest bringing the total to about 185,000.
         </abstract>
       <keywords>
         <keyword name="Western Europe" />
@@ -782,10 +780,10 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--15-->
+    <section>                                                   <!--15-->
         <title>Bruxelles, 18/03/16: Turkey-EU Agreement</title>
         <abstract>
-          The refugees arrived in Greece after the 20th March have to be sent back on the Turkish coast.
+          The refugees arrived in Greece after the 20th March have to be sent back to the Turkish coast.
         </abstract>
       <keywords>
         <keyword name="Western Europe" />
@@ -816,7 +814,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--16-->
+    <section>                                                     <!--16-->
         <title>Job and Immigration in New Zealand</title>
         <abstract>
           The Minister of Immigration, Michael Woodhouse, has been warned by his officials that there's an increasing use of migrant labour in low paying jobs despite no strong evidence of skill shortages.
