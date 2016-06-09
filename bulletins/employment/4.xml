@@ -1,6 +1,6 @@
 <bulletin id="issue 4" date="20160326">
   <sections>
-    <section>
+    <section> <!--1-->
       <title>India and China GDP Growth</title>
       <graph unit="%" x="date" y="number">
         <dataset label="India">
@@ -27,7 +27,7 @@
         <source>tradingeconomics.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--2-->
       <title>The Elephant and the Dragon</title>
       <chapter>
         <paragraph>China's socialist market economy is the world's second largest economy by nominal GDP and the world's fastest-growing major economy, with growth rates averaging 10% over 30 years. China is a global hub for manufacturing, it's the largest exporter of goods in the world and the world's fastest growing consumer market.</paragraph>
@@ -730,7 +730,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--3-->
     <title>Made in China is Not that Cheap Anymore</title>
       <chapter>
         <paragraph>According to a research by Oxford Economics labor costs adjusted for productivity in China are only 4% cheaper than in the US.</paragraph>
@@ -852,7 +852,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--4-->
     <title>Hollywood on the Yellow Sea</title>
       <chapter>
       <paragraph>Wang Jianlin, one of China’s richest men, is creating a rival to the American dream factory, from scratch. The Dalian Wanda Group, China’s biggest commercial real-estate developer and the world’s largest owner of movie theaters, has committed $8.2 billion to the project.</paragraph>
@@ -905,7 +905,7 @@
     <source>Internazionale</source>
   </sources>
     </section>
-    <section>
+    <section> <!--5-->
       <title>Things are Changing</title>
       <chapter>
         <paragraph>Cheap labor, vast factories and a building spree without parallel powered China’s economic miracle.</paragraph>
@@ -1009,7 +1009,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--6-->
       <title>A Matter of Infrastructure</title>
       <subtitle>China vs India</subtitle>
       <chapter>
@@ -1047,7 +1047,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--7-->
       <title>The Indian Speed-Up</title>
       <chapter>
         <title>India’s 2016-17 Budget</title>
@@ -1111,7 +1111,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--8-->
       <title>Facebook and Google’s Expansion: a New Colonialism in India</title>
         <abstract>
           Silicon Valley companies, led by Google and Facebook, are arriving in India with the key to a vital resource of the 21st century: connectivity. Indian critics have dubbed the US companies “digital colonialists”. The heightened tone of the debate reflects how much is at stake: with a population of 1.2 billion, India has the potential to be the largest open internet market in the world.
