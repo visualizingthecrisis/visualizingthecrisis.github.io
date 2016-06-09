@@ -83,7 +83,7 @@
       </chapter>
       <graph unit="" x="string" y="number">
         <abstract>
-          The TOP 4 countries (Denmark, Sweden, Netherlands, Finland) are compared with the WORST 4 (Italy, Bulgaria, Greece, Romania) and the European Union average score.
+          The TOP 4 countries (Denmark, Sweden, Netherlands, Finland) are compared with the WORST 4 (Italy, Bulgaria, Greece, Romania) and with the European Union average score.
         </abstract>
         <dataset label= "">
           <data x="1. Denmark" y="0.68"/>
@@ -118,7 +118,7 @@
     <section>                                                               <!--4-->
       <title>Italian Jobs Are Getting Smarter</title>
       <chapter>
-        <paragraph>Even if Italy is one of the last countries in the DESI 2016 ranking (DESI: "Digital Economy and Society Index" - it summarises relevant indicators on Europe’s digital performance), the use of file sharing and instant messaging tools is gradually spreading between italian workers.</paragraph>
+        <paragraph>Even if Italy is one of the last countries in the DESI 2016 ranking (DESI ("Digital Economy and Society Index"): it summarises relevant indicators on Europe’s digital performance), the use of file sharing and instant messaging tools is gradually spreading between italian workers.</paragraph>
         <paragraph>The most used communication tools are those of instant messaging and VoIP: they represent the real revolution, reducing time, allowing the connection of people and the sharing of interests and knowledges.</paragraph>
       </chapter>
       <graph unit="%" x="string" y="number">
@@ -239,6 +239,10 @@
           <data x="2020" y="0"/>
         </dataset>
       </graph>
+      <quote>
+          <author>Alessandra Stasi, Organization and People Development of Barilla</author>
+          <text>Work anywhere, anyway, anytime.</text>
+        </quote>
       <keywords>
         <keyword name="Western Europe" />
         <keyword name="Employment" />
@@ -308,7 +312,7 @@
         <source>weforum.org</source>
       </sources>
     </section>
-    <section> <!--7-->
+    <section>                                                                  <!--7-->
         <title>Silent Circle</title>
         <chapter>
         <paragraph>Silent Circle is a secure communications company. After Wikileaks (2013) the number of users got four time bigger.</paragraph>
