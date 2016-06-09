@@ -16,16 +16,16 @@
           <chapter>
             <paragraph>
               <list type="ordered">
-                <item>=_Uber_$ 51B</item>
-                <item>=_Xiaomi_$ 46B</item>
-                <item>=_Airbnb_$ 25.5B</item>
-                <item>=_Palantir_$ 20B</item>
-                <item>▲_Dianping_$ 18B</item>
-                <item>▼_Snapchat_$ 16B</item>
-                <item>▲_Wework_$ 16B</item>
-                <item>=_Didi Kuaidi_$ 15B</item>
-                <item>▼_Flipkart_$ 15B</item>
-                <item>▼_SpaceX_$ 12B</item>
+                <item>(=) Uber, $ 51B</item>
+                <item>(=) Xiaomi, $ 46B</item>
+                <item>(=) Airbnb, $ 25.5B</item>
+                <item>(=) Palantir, $ 20B</item>
+                <item>(▲) Dianping, $ 18B</item>
+                <item>(▼) Snapchat, $ 16B</item>
+                <item>(▲) Wework, $ 16B</item>
+                <item>(=) Didi Kuaidi, $ 15B</item>
+                <item>(▼) Flipkart, $ 15B</item>
+                <item>(▼) SpaceX, $ 12B</item>
               </list>
             </paragraph>
           </chapter>
@@ -75,49 +75,49 @@
                 <row type="cell">
                   <cell>Uber</cell>
                   <cell>Yes</cell>
-                  <cell>No</cell>
+                  <cell></cell>
                   <cell>Yes</cell>
                 </row>
                 <row type="cell">
                   <cell>Munchery</cell>
                   <cell>Yes</cell>
-                  <cell>No</cell>
-                  <cell>No</cell>
+                  <cell></cell>
+                  <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Instacart</cell>
-                  <cell>No</cell>
+                  <cell></cell>
                   <cell>Yes</cell>
-                  <cell>No</cell>
+                  <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Sprig</cell>
                   <cell>Yes</cell>
-                  <cell>No</cell>
-                  <cell>No</cell>
+                  <cell></cell>
+                  <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Door Dash</cell>
                   <cell>Yes</cell>
-                  <cell>No</cell>
-                  <cell>No</cell>
+                  <cell></cell>
+                  <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Google Express</cell>
-                  <cell>No</cell>
+                  <cell></cell>
                   <cell>Yes</cell>
-                  <cell>No</cell>
+                  <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Blue Apron</cell>
                   <cell>Yes</cell>
-                  <cell>No</cell>
-                  <cell>No</cell>
+                  <cell></cell>
+                  <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Sidecar</cell>
                   <cell>Yes</cell>
-                  <cell>No</cell>
+                  <cell></cell>
                   <cell>Yes</cell>
                 </row>
                 <row type="cell">
@@ -130,37 +130,37 @@
                   <cell>Grubhub</cell>
                   <cell>Yes</cell>
                   <cell>Yes</cell>
-                  <cell>No</cell>
+                  <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Amazon Fresh</cell>
-                  <cell>No</cell>
+                  <cell></cell>
                   <cell>Yes</cell>
-                  <cell>No</cell>
+                  <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Spoon Rocket</cell>
                   <cell>Yes </cell>
-                  <cell>No</cell>
-                  <cell>No</cell>
+                  <cell></cell>
+                  <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Caviar</cell>
                   <cell>Yes</cell>
-                  <cell>No</cell>
-                  <cell>No</cell>
+                  <cell></cell>
+                  <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Postmates</cell>
                   <cell>Yes</cell>
-                  <cell>No</cell>
-                  <cell>No</cell>
+                  <cell></cell>
+                  <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Just Eat</cell>
                   <cell>Yes</cell>
-                  <cell>No</cell>
-                  <cell>No</cell>
+                  <cell></cell>
+                  <cell></cell>
                 </row>
               </table>
               <keywords>
@@ -349,29 +349,20 @@
                         <data x="201603" y="10"/>
                       </dataset>
                     </graph>
-                    <graph unit="M$" x="date" y="number">
-                      <dataset label= "Box's IPO">
-                        <data x="201501" y="175"/>
-                      </dataset>
-                      <dataset label= "Godaddy's IPO">
-                        <data x="201503" y="460"/>
-                      </dataset>
-                      <dataset label= "Etsy's IPO">
-                        <data x="201504" y="266"/>
-                      </dataset>
-                      <dataset label= "Shopify's IPO">
-                        <data x="201505" y="131"/>
-                      </dataset>
-                      <dataset label= "Fitbit's IPO">
-                        <data x="201506" y="731"/>
-                      </dataset>
-                      <dataset label= "Rapid7's IPO">
-                        <data x="201507" y="100"/>
-                      </dataset>
-                      <dataset label= "Square's IPO">
-                        <data x="201511" y="245"/>
-                      </dataset>
-                    </graph>
+                    <chapter>
+                      <title>Start-ups' IPOs</title>
+                      <paragraph>
+                      <list type="unordered">                                   
+                        <item>Box: 175 M$</item>                                    
+                         <item>Godaddy: 460 M$</item>
+                         <item>Etsy: 266 M$</item>                                    
+                         <item>Shopify: 131 M$</item>
+                         <item>Fitbit: 731 M$</item>                                    
+                         <item>Rapid7: 100 M$</item>
+                         <item>Square: 245 M$</item>                                    
+                       </list>
+                    </paragraph>
+                    </chapter>
                     <keywords>
                       <keyword name="Investments" />
                       <keyword name="Start-ups" />
