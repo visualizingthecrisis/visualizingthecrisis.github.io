@@ -1,6 +1,6 @@
 <bulletin id="issue 6" date="20160416">
   <sections>
-    <section>
+    <section> <!--1-->
       <title>US Tax Revenue</title>
       <graph unit="t$" x="date" y="number">
         <dataset label="">
@@ -43,7 +43,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--2-->
       <title>In Haven Everything is Fine</title>
       <abstract>
         Borders are becoming less relevant to many of us, in a world of rapidly developing networked communication. But some recent events remind us how much borders still matter: Panama Papers, the history's biggest data leak from the database of the offshore law firm Mossack Fonseca, that contains evidence that some of the world’s richest people have used national borders to shield chunks of their massive wealth from other countries’ taxing authority.
@@ -148,7 +148,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--3-->
       <title>Bloody Money</title>
       <abstract>
         Some companies who have used offshore tax havens were accused of supplying fuel to the Syrian Air Force. The investigation reveals that the Panamanian firm helped these companies operate as attacks in Syria continued.
@@ -182,7 +182,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--4-->
       <quote>
         <author>Suzanne McGee, The Guardian</author>
         <text>It’s a sad world where the wealthy go shopping for passports while refugees drown in the Mediterranean.</text>
@@ -217,7 +217,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--5-->
       <title>Offshore companies created since 1977</title>
       <abstract>
         The number of companies created by Mossack Fonseca  had a relevant decline in the last decade - Mossack Fonseca and Co. is a Panamanian law firm and corporate service provider founded in 1986 that has grown to have more than 40 offices worldwide; the firm received worldwide media attention when informations about its clients' financial dealings were published in the Panama Papers articles, following the release of an enormous cache of its documents from between 1970 and 2015 leaked to the news media.
@@ -262,7 +262,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--6-->
       <title>Global Offshore Wealth</title>
       <abstract>
         The total amount of global offshore wealth corresponds to $7,600 billion. This means that, according to "The Hidden Wealth of Nations" - a recent book by Gabriel Zucman, economist at the University of California, Berkeley -, tax evasion costs governments approximately $190 billion per year. Let's make this simple and clear: tax evasion means less money for schools and roads, more money for drug barons and worse.
@@ -336,7 +336,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--7-->
       <quote>
         <author>Matt Phillips, Quartz</author>
         <text>Unlike the secrets exposed by the Panama Papers, big US tax dodging is done in full public view.</text>
@@ -370,7 +370,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--8-->
       <title>Financial Transparency</title>
       <abstract>
         There is still a complete lack of financial transparency in several tax havens around the world - and recently this has become a hot topic after the Panama Papers case. We need to create a unified global register of financial securities. This involves putting Central Depositories under public control.
@@ -410,7 +410,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--9-->
       <title>British Housing Market</title>
       <abstract>
         In England and Wales, where most young people can't afford to buy a home, more than 90,000 properties are listed in the Land Registry to overseas owners, at least 75,000 of which are owned by companies or individuals registered in tax havens.
@@ -445,7 +445,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--10-->
       <title>The Future of Journalism</title>
       <subtitle>A New Direction for Investigative Reporting</subtitle>
       <abstract>
@@ -494,7 +494,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--11-->
       <title>Printed Press is Withering</title>
       <subtitle>The Dark Side of the Digital Journalism</subtitle>
       <abstract>
@@ -562,7 +562,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--12-->
       <title>Panama Papers: the Making Of</title>
       <subtitle>The History's Biggest Leak</subtitle>
       <abstract>
@@ -634,7 +634,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--13-->
       <title>A Brief History of Leaks</title>
       <chapter>
         <paragraph>
@@ -697,7 +697,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--14-->
       <title>Philippines</title>
       <subtitle>Flash News on News</subtitle>
       <abstract>
@@ -731,7 +731,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--15-->
       <title>China- 29 Mar 2016</title>
       <subtitle>Flash News on News</subtitle>
       <abstract>
@@ -765,7 +765,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--16-->
       <title>Maldive - 3 April 2016</title>
       <subtitle>Flash News on News</subtitle>
       <abstract>
@@ -799,7 +799,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>
+    <section> <!--17-->
       <title>Reactions of Countries Implicated in Panama Papers</title>
       <abstract>
         This is only a small part of the list of the reactions to Panama Papers - related to offshore tax havens -, and response's of many countries and other official bodies relating to the mass leak of legal documents.
