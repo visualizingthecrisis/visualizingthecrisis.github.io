@@ -1,518 +1,516 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <bulletins>
-   <title>Bursting Unicorns</title>
-   <authors>
-      <author>Elisa Bianchi</author>
-      <author>Francesca Luzi</author>
-      <author>Federico Rita</author>
-   </authors>
-   <bulletin id="6" date="20160407">
-      <sections>
-         <section>
-            <title>The Unicorn list</title>
-            <subtitle>Week14</subtitle>
-            <abstract>The first ten private companies valued at $1 billion or more
+  <title>Bursting Unicorns</title>
+  <subtitle>#visualizingthecrisis</subtitle>
+  <authors>
+    <author>Elisa Bianchi</author>
+    <author>Francesca Luzi</author>
+    <author>Federico Rita</author>
+  </authors>
+  <bulletin id="6" date="20160407">
+    <sections>
+      <section>
+        <title>The Unicorn list</title>
+        <subtitle>Week14</subtitle>
+        <abstract>The first ten private companies valued at $1 billion or more
           is unchanged and there is a new Chinese unicorn: Xiaohngshu.</abstract>
-            <chapter>
-               <paragraph>
-                  <list type="ordered">
-                     <item>=_Uber_$ 51B</item>
-                     <item>=_Xiaomi_$ 46B</item>
-                     <item>=_Airbnb_$ 25.5B</item>
-                     <item>=_Palantir_$ 20B</item>
-                     <item>=_Dianping_$ 18B</item>
-                     <item>=_Snapchat_$ 16B</item>
-                     <item>=_Wework_$ 12B</item>
-                     <item>=_Didi Kuaidi_$ 15B</item>
-                     <item>=_Flipkart_$ 15B</item>
-                     <item>=_SpaceX_$ 12B</item>
-                  </list>
-               </paragraph>
-            </chapter>
-            <keywords>
-               <keyword name="Start-ups" />
-               <keyword area="North America" />
-               <keyword name="Central and Eastern Asia" />
-               <keyword name="Transportation" />
-               <keyword name="Tech" />
-               <keyword name="Commerce" />
-               <keyword name="Tourism" />
-               <keyword name="Investments" />
-               <keyword name="Employment" />
-            </keywords>
-            <sources>
-               <source>bloomberg.com</source>
-               <source>businessinsider.com</source>
-               <source>cantechletter.com</source>
-               <source>fortune.com</source>
-               <source>huffingtonpost.ca</source>
-               <source>mashable.com</source>
-               <source>qz.com</source>
-            </sources>
-         </section>
-         <section>
-            <title>Driverless car wars: what we can expect?</title>
-            <chapter>
-               <paragraph>April 1th, 2016: Tesla revealed its $35,000 new Model 3
+          <chapter>
+            <paragraph>
+              <list type="ordered">
+                <item>=_Uber_$ 51B</item>
+                <item>=_Xiaomi_$ 46B</item>
+                <item>=_Airbnb_$ 25.5B</item>
+                <item>=_Palantir_$ 20B</item>
+                <item>=_Dianping_$ 18B</item>
+                <item>=_Snapchat_$ 16B</item>
+                <item>=_Wework_$ 12B</item>
+                <item>=_Didi Kuaidi_$ 15B</item>
+                <item>=_Flipkart_$ 15B</item>
+                <item>=_SpaceX_$ 12B</item>
+              </list>
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Start-ups"/>
+            <keyword area="North America"/>
+            <keyword name="Central and Eastern Asia"/>
+            <keyword name="Transportation"/>
+            <keyword name="Tech"/>
+            <keyword name="Commerce"/>
+            <keyword name="Tourism"/>
+            <keyword name="Investments"/>
+            <keyword name="Employment"/>
+          </keywords>
+          <sources>
+            <source>bloomberg.com</source>
+            <source>businessinsider.com</source>
+            <source>cantechletter.com</source>
+            <source>fortune.com</source>
+            <source>huffingtonpost.ca</source>
+            <source>mashable.com</source>
+            <source>qz.com</source>
+          </sources>
+        </section>
+        <section>
+          <title>Driverless car wars: what we can expect?</title>
+          <chapter>
+            <paragraph>April 1th, 2016: Tesla revealed its $35,000 new Model 3
               for the masses. The Tesla Model 3 will be self driving at least
               at Level 3 autonomy, equipped with batteries for 215-mile range,
               and powered by a network of chargers.</paragraph>
-               <paragraph>The number of tech startups in transportation has doubled
-              since five years ago. General Motors Co. and Fontanilis Capital
-              have been investing in transportation startups for at least seven
-              years, backing companies including Lyft Inc., Wheelz and Zendrive.
-              Uber, Tesla and Lyft have formed during this time and existing
-              tech titans Google and Apple have expanded their reach with the
-              goal of creating autonomous, electric transportation on demand.</paragraph>
-            </chapter>
-            <graph unit="%" x="date" y="number">
-               <title>Autonomous cars sales</title>
-               <dataset label="percentage of growth of partially autonomous cars">
-                  <data x="2016" y="1" />
-                  <data x="2017" y="2" />
-                  <data x="2018" y="3" />
-                  <data x="2019" y="4" />
-                  <data x="2020" y="4.4" />
-                  <data x="2021" y="5.1" />
-                  <data x="2022" y="6.5" />
-                  <data x="2024" y="9" />
-                  <data x="2025" y="13" />
-                  <data x="2026" y="16" />
-                  <data x="2027" y="17" />
-                  <data x="2028" y="18" />
-                  <data x="2029" y="17" />
-                  <data x="2030" y="16.5" />
-                  <data x="2031" y="17" />
-                  <data x="2032" y="17" />
-                  <data x="2033" y="17" />
-                  <data x="2034" y="16.5" />
-                  <data x="2035" y="15" />
-               </dataset>
-               <dataset label="percentage of growth of fully autonomous cars">
-                  <data x="2025" y="0.5" />
-                  <data x="2026" y="0.5" />
-                  <data x="2027" y="1" />
-                  <data x="2028" y="1" />
-                  <data x="2029" y="2" />
-                  <data x="2030" y="3" />
-                  <data x="2031" y="4" />
-                  <data x="2032" y="5" />
-                  <data x="2033" y="5" />
-                  <data x="2034" y="7" />
-                  <data x="2035" y="9.5" />
-               </dataset>
-            </graph>
-            <table>
-               <row type="head">
+              <paragraph>The number of tech startups in transportation has doubled
+                since five years ago. General Motors Co. and Fontanilis Capital
+                have been investing in transportation startups for at least seven
+                years, backing companies including Lyft Inc., Wheelz and Zendrive.
+                Uber, Tesla and Lyft have formed during this time and existing
+                tech titans Google and Apple have expanded their reach with the
+                goal of creating autonomous, electric transportation on demand.</paragraph>
+              </chapter>
+              <graph unit="%" x="date" y="number">
+                <title>Autonomous cars sales</title>
+                <dataset label= "percentage of growth of partially autonomous cars">
+                  <data x="2016" y="1"/>
+                  <data x="2017" y="2"/>
+                  <data x="2018" y="3"/>
+                  <data x="2019" y="4"/>
+                  <data x="2020" y="4.4"/>
+                  <data x="2021" y="5.1"/>
+                  <data x="2022" y="6.5"/>
+                  <data x="2024" y="9"/>
+                  <data x="2025" y="13"/>
+                  <data x="2026" y="16"/>
+                  <data x="2027" y="17"/>
+                  <data x="2028" y="18"/>
+                  <data x="2029" y="17"/>
+                  <data x="2030" y="16.5"/>
+                  <data x="2031" y="17"/>
+                  <data x="2032" y="17"/>
+                  <data x="2033" y="17"/>
+                  <data x="2034" y="16.5"/>
+                  <data x="2035" y="15"/>
+                </dataset>
+                <dataset label= "percentage of growth of fully autonomous cars">
+                  <data x="2025" y="0.5"/>
+                  <data x="2026" y="0.5"/>
+                  <data x="2027" y="1"/>
+                  <data x="2028" y="1"/>
+                  <data x="2029" y="2"/>
+                  <data x="2030" y="3"/>
+                  <data x="2031" y="4"/>
+                  <data x="2032" y="5"/>
+                  <data x="2033" y="5"/>
+                  <data x="2034" y="7"/>
+                  <data x="2035" y="9.5"/>
+                </dataset>
+              </graph>
+              <table>
+                <row type="head">
                   <cell>date</cell>
                   <cell>event</cell>
-               </row>
-               <row type="cell">
+                </row>
+                <row type="cell">
                   <cell>2015</cell>
                   <cell>Number of tech startups in trasportation doubled
-                since 5 years ago</cell>
-               </row>
-               <row type="cell">
-                  <cell>2016</cell>
-                  <cell>Tesla reveales his Model 3 for the masses</cell>
-               </row>
-               <row type="cell">
-                  <cell>2018</cell>
-                  <cell>Projected launch of Tesla Model 3</cell>
-               </row>
-               <row type="cell">
-                  <cell>2020</cell>
-                  <cell>Tesla projected 45K sales of his Model 3, in the
-                  same time Google and Apple will release their own autonomous cars</cell>
-               </row>
-               <row type="cell">
-                  <cell>2022</cell>
-                  <cell>Only 9% of cars on the road will be Level 2</cell>
-               </row>
-               <row type="cell">
-                  <cell>2025</cell>
-                  <cell>Autonomous vehicle hardware cost will be $ 25K</cell>
-               </row>
-               <row type="cell">
-                  <cell>2030</cell>
-                  <cell>Autonomous cars will be an $ 87B industry,
-                    in fact 25% of the traffic will be autonomous vehicles</cell>
-               </row>
-               <row type="cell">
-                  <cell>2035</cell>
-                  <cell>75% of all passenger vehicles bought will be self-driving</cell>
-               </row>
-            </table>
-            <table>
-               <row type="head">
-                  <cell>level of automation</cell>
-                  <cell>features</cell>
-               </row>
-               <row type="cell">
-                  <cell>Level 0</cell>
-                  <cell>No vehicle autonomy. Driver has control</cell>
-               </row>
-               <row type="cell">
-                  <cell>Level 1</cell>
-                  <cell>Vehicle provides driver info. Driver has informed control</cell>
-               </row>
-               <row type="cell">
-                  <cell>Level 2</cell>
-                  <cell>Vehicle integrates response. Driver ready to take control</cell>
-               </row>
-               <row type="cell">
-                  <cell>Level 3</cell>
-                  <cell>Vehicle fully autonomous. Driver takes control in emergency</cell>
-               </row>
-               <row type="cell">
-                  <cell>Level 4</cell>
-                  <cell>Vehicle fully autonomous. Occupants don't need ability to drive</cell>
-               </row>
-            </table>
-            <keywords>
-               <keyword name="Start-ups" />
-               <keyword area="North America" />
-               <keyword name="Global Corporations" />
-               <keyword name="Transportation" />
-               <keyword name="Tech" />
-               <keyword name="Automation" />
-            </keywords>
-            <sources>
-               <source>bloomberg.com</source>
-               <source>businessinsider.com</source>
-               <source>cantechletter.com</source>
-               <source>fortune.com</source>
-               <source>huffingtonpost.ca</source>
-               <source>mashable.com</source>
-               <source>qz.com</source>
-            </sources>
-         </section>
-         <section>
-            <title>Autonomous cars: is the world ready to change?</title>
-            <chapter>
-               <paragraph>The autonomous cars will represent 25% of the global market.
-                    But the politics corresponds with the consumer’s will?
-                    Which Countries are implementing measures to make this change?
-                    The graph shows the Countries’ investment in renewable energy
-                    in comparison to charging points for electric cars.</paragraph>
-            </chapter>
-            <graph unit="%" x="string" y="number">
-               <title>Consumers' disposition to buy cars from tech companies</title>
-               <dataset label="percentage of consumers">
-                  <data x="US" y="29" />
-                  <data x="Germany" y="32" />
-                  <data x="France" y="38" />
-                  <data x="Brazil" y="63" />
-                  <data x="China" y="74" />
-                  <data x="India" y="81" />
-               </dataset>
-            </graph>
-            <table>
-               <row type="head">
-                  <cell>country</cell>
-                  <cell>investments in renewable energy</cell>
-                  <cell>number of charge points</cell>
-               </row>
-               <row type="cell">
-                  <cell>China</cell>
-                  <cell>103 B$</cell>
-                  <cell>Hong Kong, 11</cell>
-               </row>
-               <row type="cell">
-                  <cell>US</cell>
-                  <cell>44 B$</cell>
-                  <cell>San Francisco, 44</cell>
-               </row>
-               <row type="cell">
-                  <cell>India</cell>
-                  <cell>10 B$</cell>
-                  <cell>Bengaluru, 1</cell>
-               </row>
-               <row type="cell">
-                  <cell>Germany</cell>
-                  <cell>8.5 B$</cell>
-                  <cell>Berlin, 226</cell>
-               </row>
-               <row type="cell">
-                  <cell>Brazil</cell>
-                  <cell>7 B$</cell>
-                  <cell>Rio de Janeiro, 1</cell>
-               </row>
-               <row type="cell">
-                  <cell>France</cell>
-                  <cell>3 B$</cell>
-                  <cell>Paris, 719</cell>
-               </row>
-            </table>
-            <keywords>
-               <keyword name="Renewables" />
-               <keyword area="North America" />
-               <keyword name="Automation" />
-               <keyword name="Transportation" />
-               <keyword name="Governance" />
-               <keyword name="Central and Eastern Asia" />
-               <keyword name="South America" />
-               <keyword name="Western Europe" />
-               <keyword name="Tech" />
-            </keywords>
-            <sources>
-               <source>bloomberg.com</source>
-               <source>businessinsider.com</source>
-               <source>cantechletter.com</source>
-               <source>fortune.com</source>
-               <source>huffingtonpost.ca</source>
-               <source>mashable.com</source>
-               <source>qz.com</source>
-            </sources>
-         </section>
-         <section>
-            <title>Trump effects</title>
-            <chapter>
-               <paragraph>Canada’s technology industry has chosen a
-                      mascot for its latest campaign to poach Silicon Valley talent.
-                      His name is Donald Trump. The ad-tech firm Sortable,
-                      based in Waterloo, Ontario, Canada, also leveraged Trump
-                      fears to appeal to expatriates who are considering returning
-                      to Canada from the US. The firm made a broader appeal
-                      in another digital ad that appeared on Facebook and Instagram.</paragraph>
-            </chapter>
-            <quote>
-               <author />
-               <text>Canada’s technology industry has chosen a mascot
-                        for its latest campaign to poach Silicon Valley talent.
-                        His name is Donald Trump.</text>
-            </quote>
-            <chapter>
-               <title>Anyone but Trump</title>
-               <paragraph>Republicans: Trump has personally criticized
-                          Amazon and its CEO Jeff Bezos, he slammed Facebook CEO
-                          Mark Zuckerberg for his immigration stance and he has
-                          threatened to boycott Apple over its fight with the FBI.</paragraph>
-               <paragraph>Democrats: Sanders, who is vying for the
-                            Democratic candidacy for the 2016 election, was even
-                            a favorite among some of the technology industry’s biggest companies.</paragraph>
-            </chapter>
-            <graph unit="%" x="string" y="percentage">
-               <title>Donations to 2016 presidential campaigns</title>
-               <abstract>Silicon Valley employees have donated over 2.4 M$
-                              to 2016 presidential campaigns</abstract>
-               <dataset label="Percentage of donations">
-                  <data x="Republicans" y="39" />
-                  <data x="Democrats" y="61" />
-               </dataset>
-            </graph>
-            <table>
-               <row type="head">
-                  <cell>name</cell>
-                  <cell>party</cell>
-                  <cell>dollar donated to</cell>
-               </row>
-               <row type="cell">
-                  <cell>Jeb Bush</cell>
-                  <cell>republican</cell>
-                  <cell>23,8420 $</cell>
-               </row>
-               <row type="cell">
-                  <cell>Marco Rubio</cell>
-                  <cell>republican</cell>
-                  <cell>71,705 $</cell>
-               </row>
-               <row type="cell">
-                  <cell>Ted Cruz</cell>
-                  <cell>republican</cell>
-                  <cell>48,042 $</cell>
-               </row>
-               <row type="cell">
-                  <cell>Hillary Clinton</cell>
-                  <cell>democrat</cell>
-                  <cell>791,514 $</cell>
-               </row>
-               <row type="cell">
-                  <cell>Bernie Sanders</cell>
-                  <cell>democrat</cell>
-                  <cell>496,611 $</cell>
-               </row>
-            </table>
-            <chapter>
-               <title>After Super Tuesday</title>
-               <paragraph>Super Tuesday refers to the date in
-                                the U.S. presidential primary process when the
-                                greatest number of states hold their contests.
-                                Google searches for “How to move to Canada” surged
-                                in the hours after Donald Trump won primaries
-                                in seven states.</paragraph>
-            </chapter>
-            <table>
-               <row type="head">
-                  <cell>Google Queries</cell>
-                  <cell>Super Tuesday increase</cell>
-               </row>
-               <row type="cell">
-                  <cell>how can I move to Canada?</cell>
-                  <cell>+1,150 %</cell>
-               </row>
-               <row type="cell">
-                  <cell>moving to Canada?</cell>
-                  <cell>+110 %</cell>
-               </row>
-               <row type="cell">
-                  <cell>can I move to Canada?</cell>
-                  <cell>+90 %</cell>
-               </row>
-               <row type="cell">
-                  <cell>how do I move to Canada?</cell>
-                  <cell>+80 %</cell>
-               </row>
-               <row type="cell">
-                  <cell>how to move to Canada from us?</cell>
-                  <cell>+50 %</cell>
-               </row>
-            </table>
-            <chapter>
-               <title>The “Trump Dump” App has been downloaded
-                                  more than 1 Million times</title>
-               <paragraph>Launched January 25, it quickly went viral,
-                                    climbing as high as the No. 2 free app in the
-                                    Apple app store. Its growth has eclipsed that
-                                    of more mainstream apps like Starbucks or Venmo.</paragraph>
-            </chapter>
-            <graph x="date" y="number">
-               <title>Track of app download from January 2016</title>
-               <dataset label="Trump Dump">
-                  <data x="20160131" y="800" />
-                  <data x="20160214" y="400" />
-                  <data x="20160229" y="800" />
-                  <data x="20160315" y="600" />
-                  <data x="20160401" y="700" />
-               </dataset>
-               <dataset label="Starbucks">
-                  <data x="20160131" y="200" />
-                  <data x="20160214" y="150" />
-                  <data x="20160229" y="170" />
-                  <data x="20160315" y="210" />
-                  <data x="20160401" y="180" />
-               </dataset>
-               <dataset label="Venmo">
-                  <data x="20160131" y="150" />
-                  <data x="20160214" y="130" />
-                  <data x="20160229" y="160" />
-                  <data x="20160315" y="150" />
-                  <data x="20160401" y="170" />
-               </dataset>
-            </graph>
-            <graph unit="%" x="string" y="percentage">
-               <title>If Donald Trump is elected President
-                                      would you consider moving to Canada?</title>
-               <dataset label="US citisen opinion">
-                  <data x="No" y="55" />
-                  <data x="Yes" y="30" />
-                  <data x="Insure" y="15" />
-               </dataset>
-            </graph>
-            <chapter>
-               <paragraph>Spotify’s ad, which breaks on March 31
-                                        on TV touts the soundtrack for the move up
-                                        north: Flo Rida’s “My House.” As part of a
-                                        new ad campaign, Spotify mined its data (paywall)
-                                        in search of unusual insights about its users.</paragraph>
-            </chapter>
-            <keywords>
-               <keyword name="Employment" />
-               <keyword area="North America" />
-               <keyword name="Migration" />
-               <keyword name="Start-ups" />
-               <keyword name="US Elections" />
-               <keyword name="Tech" />
-            </keywords>
-            <sources>
-               <source>bloomberg.com</source>
-               <source>businessinsider.com</source>
-               <source>cantechletter.com</source>
-               <source>fortune.com</source>
-               <source>huffingtonpost.ca</source>
-               <source>mashable.com</source>
-               <source>qz.com</source>
-            </sources>
-         </section>
-         <section>
-            <title>North Silicon Valley</title>
-            <chapter>
-               <paragraph>That’s the vision that
-                                          some in the growing cluster of tech
-                                          companies between Toronto and
-                                          Kitchener-Waterloo, Ont. otherwise known as Canada’s
-                                          “Tech Triangle”.</paragraph>
-               <paragraph>The corridor was the brainchild of several
-                                            executives and academics in the Waterloo area
-                                            came out of reading a report that said the highest
-                                            performing technological hubs are about 100 kilometres long.</paragraph>
-               <paragraph>To take advantage of the increasing pool of Canadian
-                                              tech talent, some U.S. companies are opening satellite
-                                              offices above the border. Amazon.com and Microsoft are adding
-                                              research hubs and staff in Vancouver and Toronto. Google says
-                                              by yearend it will have tripled the size of its 300-person
-                                              office in Waterloo, Ont., BlackBerry’s hometown.
-                                              Labor and real estate costs are much lower in Canada,
-                                              especially given the 16 percent drop in the Canadian dollar
-                                              relative to the greenback over the past year.</paragraph>
-            </chapter>
-            <chapter>
-               <title>North America technological hubs</title>
-               <paragraph>
-                  <list type="unordered">
-                     <item>Vancouver</item>
-                     <item>Waterloo-Kitchener</item>
-                     <item>Toronto</item>
-                     <item>Seattle</item>
-                     <item>Silicon Valley</item>
-                     <item>Los Angeles</item>
-                     <item>Chicago</item>
-                     <item>New York</item>
-                     <item>Boston</item>
-                  </list>
-               </paragraph>
-            </chapter>
-            <table>
-               <row type="head">
-                  <cell>Place</cell>
-                  <cell>Start-ups</cell>
-                  <cell>Youngest population in Canada</cell>
-                  <cell>Deals</cell>
-                  <cell>Employments</cell>
-                  <cell>Local companies</cell>
-                  <cell>International companies</cell>
-               </row>
-               <row type="cell">
-                  <!--[1-N]-->
-                  <cell>North Silicon Valley</cell>
-                  <!--[1-N]-->
-                  <cell>1,100</cell>
-                  <cell>3rd</cell>
-                  <cell>3.1 B$</cell>
-                  <cell>200,000</cell>
-                  <cell>Kik, BlackBerry, Sortable</cell>
-                  <cell>Google, Amazon, Microsoft</cell>
-               </row>
-            </table>
-            <keywords>
-               <keyword name="Employment" />
-               <keyword area="North America" />
-               <keyword name="Start-ups" />
-               <keyword name="Global Corporations" />
-               <keyword name="Tech" />
-               <keyword name="Investments" />
-               <keyword name="Millennials" />
-            </keywords>
-            <sources>
-               <source>bloomberg.com</source>
-               <source>businessinsider.com</source>
-               <source>cantechletter.com</source>
-               <source>fortune.com</source>
-               <source>huffingtonpost.ca</source>
-               <source>mashable.com</source>
-               <source>qz.com</source>
-            </sources>
-         </section>
-      </sections>
-   </bulletin>
-</bulletins>
+                    since 5 years ago</cell>
+                  </row>
+                  <row type="cell">
+                    <cell>2016</cell>
+                    <cell>Tesla reveales his Model 3 for the masses</cell>
+                  </row>
+                  <row type="cell">
+                    <cell>2018</cell>
+                    <cell>Projected launch of Tesla Model 3</cell>
+                  </row>
+                  <row type="cell">
+                    <cell>2020</cell>
+                    <cell>Tesla projected 45K sales of his Model 3, in the
+                      same time Google and Apple will release their own autonomous cars</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>2022</cell>
+                      <cell>Only 9% of cars on the road will be Level 2</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>2025</cell>
+                      <cell>Autonomous vehicle hardware cost will be $ 25K</cell>
+                    </row>
+                    <row type="cell">
+                      <cell>2030</cell>
+                      <cell>Autonomous cars will be an $ 87B industry,
+                        in fact 25% of the traffic will be autonomous vehicles</cell>
+                      </row>
+                      <row type="cell">
+                        <cell>2035</cell>
+                        <cell>75% of all passenger vehicles bought will be self-driving</cell>
+                      </row>
+                    </table>
+                    <table>
+                      <row type="head">
+                        <cell>level of automation</cell>
+                        <cell>features</cell>
+                      </row>
+                      <row type="cell">
+                        <cell>Level 0</cell>
+                        <cell>No vehicle autonomy. Driver has control</cell>
+                      </row>
+                      <row type="cell">
+                        <cell>Level 1</cell>
+                        <cell>Vehicle provides driver info. Driver has informed control</cell>
+                      </row>
+                      <row type="cell">
+                        <cell>Level 2</cell>
+                        <cell>Vehicle integrates response. Driver ready to take control</cell>
+                      </row>
+                      <row type="cell">
+                        <cell>Level 3</cell>
+                        <cell>Vehicle fully autonomous. Driver takes control in emergency</cell>
+                      </row>
+                      <row type="cell">
+                        <cell>Level 4</cell>
+                        <cell>Vehicle fully autonomous. Occupants don't need ability to drive</cell>
+                      </row>
+                    </table>
+                    <keywords>
+                      <keyword name="Start-ups"/>
+                      <keyword area="North America"/>
+                      <keyword name="Global Corporations"/>
+                      <keyword name="Transportation"/>
+                      <keyword name="Tech"/>
+                      <keyword name="Automation"/>
+                    </keywords>
+                    <sources>
+                      <source>bloomberg.com</source>
+                      <source>businessinsider.com</source>
+                      <source>cantechletter.com</source>
+                      <source>fortune.com</source>
+                      <source>huffingtonpost.ca</source>
+                      <source>mashable.com</source>
+                      <source>qz.com</source>
+                    </sources>
+                  </section>
+                  <section>
+                    <title>Autonomous cars: is the world ready to change?</title>
+                    <chapter>
+                      <paragraph>The autonomous cars will represent 25% of the global market.
+                        But the politics corresponds with the consumer’s will?
+                        Which Countries are implementing measures to make this change?
+                        The graph shows the Countries’ investment in renewable energy
+                        in comparison to charging points for electric cars.</paragraph>
+                      </chapter>
+                      <graph unit="%" x="string" y="number">
+                        <title>Consumers' disposition to buy cars from tech companies</title>
+                        <dataset label= "percentage of consumers">
+                          <data x="US" y="29"/>
+                          <data x="Germany" y="32"/>
+                          <data x="France" y="38"/>
+                          <data x="Brazil" y="63"/>
+                          <data x="China" y="74"/>
+                          <data x="India" y="81"/>
+                        </dataset>
+                        </graph>
+                        <table>
+                          <row type="head">
+                            <cell>country</cell>
+                            <cell>investments in renewable energy</cell>
+                            <cell>number of charge points</cell>
+                          </row>
+                          <row type="cell">
+                            <cell>China</cell>
+                            <cell>103 B$</cell>
+                            <cell>Hong Kong, 11</cell>
+                          </row>
+                          <row type="cell">
+                            <cell>US</cell>
+                            <cell>44 B$</cell>
+                            <cell>San Francisco, 44</cell>
+                          </row>
+                          <row type="cell">
+                            <cell>India</cell>
+                            <cell>10 B$</cell>
+                            <cell>Bengaluru, 1</cell>
+                          </row>
+                          <row type="cell">
+                            <cell>Germany</cell>
+                            <cell>8.5 B$</cell>
+                            <cell>Berlin, 226</cell>
+                          </row>
+                          <row type="cell">
+                            <cell>Brazil</cell>
+                            <cell>7 B$</cell>
+                            <cell>Rio de Janeiro, 1</cell>
+                          </row>
+                          <row type="cell">
+                            <cell>France</cell>
+                            <cell>3 B$</cell>
+                            <cell>Paris, 719</cell>
+                          </row>
+                        </table>
+                        <keywords>
+                          <keyword name="Renewables"/>
+                          <keyword area="North America"/>
+                          <keyword name="Automation"/>
+                          <keyword name="Transportation"/>
+                          <keyword name="Governance"/>
+                          <keyword name="Central and Eastern Asia"/>
+                          <keyword name="South America"/>
+                          <keyword name="Western Europe"/>
+                          <keyword name="Tech"/>
+                        </keywords>
+                        <sources>
+                          <source>bloomberg.com</source>
+                          <source>businessinsider.com</source>
+                          <source>cantechletter.com</source>
+                          <source>fortune.com</source>
+                          <source>huffingtonpost.ca</source>
+                          <source>mashable.com</source>
+                          <source>qz.com</source>
+                        </sources>
+                      </section>
+                      <section>
+                        <title>Trump effects</title>
+                        <chapter>
+                          <paragraph>Canada’s technology industry has chosen a
+                            mascot for its latest campaign to poach Silicon Valley talent.
+                            His name is Donald Trump. The ad-tech firm Sortable,
+                            based in Waterloo, Ontario, Canada, also leveraged Trump
+                            fears to appeal to expatriates who are considering returning
+                            to Canada from the US. The firm made a broader appeal
+                            in another digital ad that appeared on Facebook and Instagram.</paragraph>
+                          </chapter>
+                          <quote>
+                            <author>bloomberg.com</author>
+                            <text>Canada’s technology industry has chosen a mascot
+                              for its latest campaign to poach Silicon Valley talent.
+                              His name is Donald Trump.</text>
+                          </quote>
+                          <chapter>
+                            <title>Anyone but Trump</title>
+                            <paragraph>Republicans: Trump has personally criticized
+                              Amazon and its CEO Jeff Bezos, he slammed Facebook CEO
+                              Mark Zuckerberg for his immigration stance and he has
+                              threatened to boycott Apple over its fight with the FBI.</paragraph>
+                              <paragraph>Democrats: Sanders, who is vying for the
+                                Democratic candidacy for the 2016 election, was even
+                                a favorite among some of the technology industry’s biggest companies.</paragraph>
+                              </chapter>
+                              <graph unit="%" x="string" y="percentage">
+                                <title>Donations to 2016 presidential campaigns</title>
+                                <abstract>Silicon Valley employees have donated over 2.4 M$
+                                  to 2016 presidential campaigns</abstract>
+                                  <dataset label= "Percentage of donations">
+                                    <data x="Republicans" y="39"/>
+                                    <data x="Democrats" y="61"/>
+                                  </dataset>
+                                </graph>
+                                <table>
+                                  <row type="head">
+                                    <cell>name</cell>
+                                    <cell>party</cell>
+                                    <cell>dollar donated to</cell>
+                                  </row>
+                                  <row type="cell">
+                                    <cell>Jeb Bush</cell>
+                                    <cell>republican</cell>
+                                    <cell>23,8420 $</cell>
+                                  </row>
+                                  <row type="cell">
+                                    <cell>Marco Rubio</cell>
+                                    <cell>republican</cell>
+                                    <cell>71,705 $</cell>
+                                  </row>
+                                  <row type="cell">
+                                    <cell>Ted Cruz</cell>
+                                    <cell>republican</cell>
+                                    <cell>48,042 $</cell>
+                                  </row>
+                                  <row type="cell">
+                                    <cell>Hillary Clinton</cell>
+                                    <cell>democrat</cell>
+                                    <cell>791,514 $</cell>
+                                  </row>
+                                  <row type="cell">
+                                    <cell>Bernie Sanders</cell>
+                                    <cell>democrat</cell>
+                                    <cell>496,611 $</cell>
+                                  </row>
+                                </table>
+                                <chapter>
+                                  <title>After Super Tuesday</title>
+                                  <paragraph>Super Tuesday refers to the date in
+                                    the U.S. presidential primary process when the
+                                    greatest number of states hold their contests.
+                                    Google searches for “How to move to Canada” surged
+                                    in the hours after Donald Trump won primaries
+                                    in seven states.</paragraph>
+                                  </chapter>
+                                  <table>
+                                    <row type="head">
+                                      <cell>Google Queries</cell>
+                                      <cell>Super Tuesday increase</cell>
+                                    </row>
+                                    <row type="cell">
+                                      <cell>how can I move to Canada?</cell>
+                                      <cell>+1,150 %</cell>
+                                    </row>
+                                    <row type="cell">
+                                      <cell>moving to Canada?</cell>
+                                      <cell>+110 %</cell>
+                                    </row>
+                                    <row type="cell">
+                                      <cell>can I move to Canada?</cell>
+                                      <cell>+90 %</cell>
+                                    </row>
+                                    <row type="cell">
+                                      <cell>how do I move to Canada?</cell>
+                                      <cell>+80 %</cell>
+                                    </row>
+                                    <row type="cell">
+                                      <cell>how to move to Canada from us?</cell>
+                                      <cell>+50 %</cell>
+                                    </row>
+                                  </table>
+                                  <chapter>
+                                    <title>The “Trump Dump” app has been downloaded
+                                      more than 1 Million times</title>
+                                      <paragraph>Launched January 25, it quickly went viral,
+                                        climbing as high as the No. 2 free app in the
+                                        Apple app store. Its growth has eclipsed that
+                                        of more mainstream apps like Starbucks or Venmo.</paragraph>
+                                      </chapter>
+                                      <graph x="date" y="number">
+                                        <title>Track of app download from January 2016</title>
+                                        <dataset label= "Trump Dump">
+                                          <data x="20160131" y="800"/>
+                                          <data x="20160214" y="400"/>
+                                          <data x="20160229" y="800"/>
+                                          <data x="20160315" y="600"/>
+                                          <data x="20160401" y="700"/>
+                                        </dataset>
+                                        <dataset label= "Starbucks">
+                                          <data x="20160131" y="200"/>
+                                          <data x="20160214" y="150"/>
+                                          <data x="20160229" y="170"/>
+                                          <data x="20160315" y="210"/>
+                                          <data x="20160401" y="180"/>
+                                        </dataset>
+                                        <dataset label= "Venmo">
+                                          <data x="20160131" y="150"/>
+                                          <data x="20160214" y="130"/>
+                                          <data x="20160229" y="160"/>
+                                          <data x="20160315" y="150"/>
+                                          <data x="20160401" y="170"/>
+                                        </dataset>
+                                      </graph>
+                                      <graph unit="%" x="string" y="percentage">
+                                        <title>If Donald Trump is elected President
+                                          would you consider moving to Canada?</title>
+                                          <dataset label= "US citisen opinion">
+                                            <data x="No" y="55"/>
+                                            <data x="Yes" y="30"/>
+                                            <data x="Insure" y="15"/>
+                                          </dataset>
+                                        </graph>
+                                        <chapter>
+                                          <paragraph>Spotify’s ad, which breaks on March 31
+                                            on TV touts the soundtrack for the move up
+                                            north: Flo Rida’s “My House.” As part of a
+                                            new ad campaign, Spotify mined its data (paywall)
+                                            in search of unusual insights about its users.</paragraph>
+                                          </chapter>
+                                          <keywords>
+                                            <keyword name="Employment"/>
+                                            <keyword area="North America"/>
+                                            <keyword name="Migration"/>
+                                            <keyword name="Start-ups"/>
+                                            <keyword name="US Elections"/>
+                                            <keyword name="Tech"/>
+                                          </keywords>
+                                          <sources>
+                                            <source>bloomberg.com</source>
+                                            <source>businessinsider.com</source>
+                                            <source>cantechletter.com</source>
+                                            <source>fortune.com</source>
+                                            <source>huffingtonpost.ca</source>
+                                            <source>mashable.com</source>
+                                            <source>qz.com</source>
+                                          </sources>
+                                        </section>
+                                        <section>
+                                          <title>North Silicon Valley</title>
+                                          <chapter>
+                                            <paragraph>That’s the vision that
+                                              some in the growing cluster of tech
+                                              companies between Toronto and
+                                              Kitchener-Waterloo, Ont. otherwise known as Canada’s
+                                              “Tech Triangle”.</paragraph>
+                                              <paragraph>The corridor was the brainchild of several
+                                                executives and academics in the Waterloo area
+                                                came out of reading a report that said the highest
+                                                performing technological hubs are about 100 kilometres long.</paragraph>
+                                                <paragraph>To take advantage of the increasing pool of Canadian
+                                                  tech talent, some U.S. companies are opening satellite
+                                                  offices above the border. Amazon.com and Microsoft are adding
+                                                  research hubs and staff in Vancouver and Toronto. Google says
+                                                  by yearend it will have tripled the size of its 300-person
+                                                  office in Waterloo, Ont., BlackBerry’s hometown.
+                                                  Labor and real estate costs are much lower in Canada,
+                                                  especially given the 16 percent drop in the Canadian dollar
+                                                  relative to the greenback over the past year.</paragraph>
+                                                </chapter>
+                                                <chapter>
+                                                  <title>North America technological hubs</title>
+                                                  <paragraph>
+                                                    <list type="unordered">
+                                                      <item>Vancouver</item>
+                                                      <item>Waterloo-Kitchener</item>
+                                                      <item>Toronto</item>
+                                                      <item>Seattle</item>
+                                                      <item>Silicon Valley</item>
+                                                      <item>Los Angeles</item>
+                                                      <item>Chicago</item>
+                                                      <item>New York</item>
+                                                      <item>Boston</item>
+                                                    </list>
+                                                  </paragraph>
+                                                </chapter>
+                                                <table>
+                                                  <row type="head">
+                                                    <cell>Place</cell>
+                                                    <cell>Start-ups</cell>
+                                                    <cell>Youngest population in Canada</cell>
+                                                    <cell>Deals</cell>
+                                                    <cell>Employments</cell>
+                                                    <cell>Local companies</cell>
+                                                    <cell>International companies</cell>
+                                                  </row>
+                                                  <row type="cell">                                             <!--[1-N]-->
+                                                    <cell>North Silicon Valley</cell>                                            <!--[1-N]-->
+                                                    <cell>1,100</cell>
+                                                    <cell>3rd</cell>
+                                                    <cell>3.1 B$</cell>
+                                                    <cell>200,000</cell>
+                                                    <cell>Kik, BlackBerry, Sortable</cell>
+                                                    <cell>Google, Amazon, Microsoft</cell>
+                                                  </row>
+                                                </table>
+                                                <keywords>
+                                                  <keyword name="Employment"/>
+                                                  <keyword area="North America"/>
+                                                  <keyword name="Start-ups"/>
+                                                  <keyword name="Global Corporations"/>
+                                                  <keyword name="Tech"/>
+                                                  <keyword name="Investments"/>
+                                                  <keyword name="Millennials"/>
+                                                </keywords>
+                                                <sources>
+                                                  <source>bloomberg.com</source>
+                                                  <source>businessinsider.com</source>
+                                                  <source>cantechletter.com</source>
+                                                  <source>fortune.com</source>
+                                                  <source>huffingtonpost.ca</source>
+                                                  <source>mashable.com</source>
+                                                  <source>qz.com</source>
+                                                </sources>
+                                              </section>
+                                            </sections>
+                                          </bulletin>
+                                        </bulletins>

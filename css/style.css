@@ -19,10 +19,12 @@ body{
   overflow: hidden;
   font-family: 'SF-UI',monaco, Consolas, 'Lucida Console', monospace;
 }
+
 .c3 svg{
   overflow: visible !important;
   font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace;
 }
+
 #bulletin-container{
   background-color: white;
   padding-top: 77px;
@@ -35,9 +37,9 @@ body{
   font-family: 'SF-UI',monaco, Consolas, 'Lucida Console', monospace;
 }
 
-span{display: inline-block;
+span{
+  display: inline-block;
 }
-
 
 .main-title{
   font-size: 81px;
@@ -47,7 +49,6 @@ span{display: inline-block;
   margin-bottom: 38px;
   display: block;
 }
-
 
 .main-report{
   font-family:  'MaisonNeue', monaco, Consolas, 'Lucida Console', monospace;
@@ -68,22 +69,95 @@ span{display: inline-block;
   font-family:  'MaisonNeue', monaco, Consolas, 'Lucida Console', monospace;
   display: block;
 }
+
 .main-info{
   font-size: 30px;
   margin-bottom: 46px;
   display: block;
 }
-/***********SECTION*************/
+
+
+/*MARGINS*/
+p, ul{
+  -webkit-margin-before: 10px;
+-webkit-margin-after: 10px;
+}
+
 .section{
   padding-top:40px;
-  padding-bottom: 46px;
+  padding-bottom: 40px;
+}
+
+.section-quote{
+  width: 90%;
+  margin-top:40px;
+  margin-bottom: 20px;
+}
+
+.quote-author{
+  margin-top: 20px;
+}
+
+.quote-text{
+}
+
+.section-title{
+}
+
+.section-subtitle{
+//  margin-bottom: 10px;
+}
+
+.section-chapter{
+    margin-top:40px;
+    display: block;
+}
+
+.section-abstract{
+    margin-top:40px;
+}
+
+.section-treemap{
+  margin-top: 20px;
+}
+
+.section-graph{
+  margin-top: 20px;
+}
+
+.section-graph-title{
+  margin-top: 40px;
+}
+
+.section-graph-subtitle{
+  margin-top: 0px;
+}
+
+.section-graph-abstract{
+  margin-top: 20px;
+}
+
+.graph-legend svg{
+  margin-right: 5px;
+}
+
+.graph-legends{
+  margin-top:20px;
+}
+
+.graph-legend{
+  margin-right: 10px;
+}
+
+
+/***********SECTION*************/
+
+.section{
   border-top: 3px solid black;
   font-size: 22px;
 }
 
 .section-sources{
-  padding-top:10px;
-  padding-bottom: 10px;
   display: block;
 }
 .source{
@@ -92,125 +166,113 @@ span{display: inline-block;
 
 .section-quote{
   width: 90%;
-  padding-top:20px;
-  padding-bottom: 20px;
 }
 
 .quote-author{
   font-size:22px;
   width: 100%;
   text-align: right;
-  //display: block;
 }
+
 .quote-text{
   line-height: 1.1;
   font-size:48px;
   font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
   display: block;
 }
+
 .section-title{
   font-size: 40px;
   font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
-
   font-weight: bold;
   display: block;
 }
 
 .section-subtitle{
   font-size: 40px;
-  margin-bottom: 10px;
 }
 
 .section-body{
-  margin-bottom: 20px;
 }
-
-
 
 .section-keywords{
   font-size: 20px;
   font-family: Courier, Helvetica, serif !important;
 }
-.section-quote{
-  //margin-bottom: 40px;
-  //margin-top: 40px;
-}
-/*********GRAPH**************/
-.section-treemap {
-  width: 100%;
-  display: block;
-  margin-bottom: 20px;
-}
-.section-treemap{
-  display: inline;
 
+/*********GRAPH**************/
+
+.section-treemap{
+  display: block;
   font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace !important;
   font-size: 20px;
-    width:512px;
-    margin-left:0;
-    display: table;
+  width:100%;
+  display: table;
 }
+
 .section-treemap div{
   display: inline;
 }
+
 .section-graph{
-//  margin-top: 40px;
-font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace !important;
-font-size: 20px;
-  margin-bottom: 20px;
+  font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace !important;
+  font-size: 20px;
   width:100%;
-  margin-left:0;
   display: table;
   overflow: visible !important;
 }
+
 .section-graph g{
   overflow: hidden !important;
 }
+
 text{
   fill:#000000;
 }
+
 .section-treemap rect{
   stroke:rgb(0,0,0)!important;
 }
 
 .section-graph-title{
-
   font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
-  margin-bottom: 10px;
-  margin-top: 40px;
-  font-weight: bold;
   display: block;
 }
 
 .section-graph-subtitle{
   display: block;
   font-style: italic;
-  margin-bottom: 10px;
 }
 
 .section-graph-abstract{
   display: block;
-  margin-bottom: 20px;
 }
-
 
 .rotated{
   -ms-transform: rotate(90deg); /* IE 9 */
   -webkit-transform: rotate(90deg); /* Safari */
   transform: rotate(90deg);
 }
+
 #xml-select {
     position: absolute;
     top: 10px;
-    right: 0;
+    width: 300px;
+    font-size: 15px;
+    height:30px;
+    right: 120px;
     bottom: 0;
-    left: 512px;
+  //  left: 512px;
+  z-index: 100;
+  background-color: white;
+  color: black;
+   border-radius: 0 !important;
+   border:1px solid white;
 }
-
 
 #editor {
     position: absolute;
-    top: 40px;
+    top: 0px;
     right: 0;
     bottom: 0;
     left: 512px;
@@ -230,6 +292,7 @@ button{
   border:2px solid #000000;
   z-index: 100;
 }
+
 .tick{
       font-size: 15px;
       font-weight:bold;
@@ -272,7 +335,10 @@ button{
 line.c3-legend-item-tile{
    stroke-width: 20;
 }
+.c3-axis-y-label{
 
+    font-size: 14px;
+}
 .c3-legend-item {
   font-size: 20px;
   display: inline-block;
@@ -299,27 +365,24 @@ td, th {
 }
 th{
   font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
-
   font-weight:bold;
   background-color:black;
   color:white;
 }
-.graph-legend svg{
-  margin-right: 5px;
 
+.graph-legend svg{
 }
+
 .graph-legends{
-  margin-top:20px;
   width: 100%;
   text-align: center;
   display: block !important;
-
-    clear: both;
+  clear: both;
 }
+
 .graph-legend{
   display: inline-block;
   font-size: 17px;
-  margin-right: 10px;
 }
 
 .legend-line{
@@ -331,7 +394,6 @@ th{
 }
 .treemap-label{
     z-index: 100;
-
     background-color: #fff;
     font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace;
     display: inline-block !important;
@@ -340,16 +402,17 @@ th{
 .section-treemap{
   height:500px;
   display:block;
+  border: 2px solid black;
+  width:100%;
+  box-sizing :border-box;
 }
 
 .chapter-title{
   font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
-
 }
 .section-chapter{
-    margin-top:40px;
+    display: block;
 }
 
 .section-abstract{
-    margin-top:40px;
 }

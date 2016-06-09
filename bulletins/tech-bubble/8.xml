@@ -1,5 +1,6 @@
 <bulletins>
   <title>Bursting Unicorns</title>
+  <subtitle>#visualizingthecrisis</subtitle>
   <authors>
     <author>Elisa Bianchi</author>
     <author>Francesca Luzi</author>
@@ -93,7 +94,7 @@
                 </sources>
               </section>
               <section>
-                <title>Deals and investments in Fintech</title>
+                <title>Deals and investments in fintech</title>
                 <chapter>
                   <paragraph>Fintech is a term used to describe the companies operating
                     in the financial technology sector. It relates mainly to small startup

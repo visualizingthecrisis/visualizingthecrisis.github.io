@@ -1,8 +1,8 @@
 <bulletin id="issue 8" date="20160430">
   <sections>
     <section>
+      <title>Global Youth Unemployment</title>
       <graph unit="%" x="date" y="number">
-        <title>Global Youth Unemployment</title>
         <dataset label="">
           <data x="1995" y="12.2" />
           <data x="1996" y="12.1" />
@@ -32,7 +32,7 @@
         <keyword name="Millennials (1981–2000)" />
       </keywords>
       <sources>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
     <section>
@@ -408,7 +408,7 @@
         <source>wsj.com</source>
         <source>washingtonpost.com</source>
         <source>zillow.com</source>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
     <section>
@@ -466,12 +466,12 @@
         <source>wsj.com</source>
         <source>washingtonpost.com</source>
         <source>zillow.com</source>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
     <section>
       <title>Job Hopping</title>
-      <graph unit="" x="date" y="number">
+      <graph unit="" x="string" y="number">
         <abstract>
           Number of jobs switched in the first five years after graduation.
         </abstract>
@@ -506,7 +506,7 @@
         <source>wsj.com</source>
         <source>washingtonpost.com</source>
         <source>zillow.com</source>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
     <section>
@@ -542,7 +542,7 @@
         <source>wsj.com</source>
         <source>washingtonpost.com</source>
         <source>zillow.com</source>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
     <section>
@@ -568,7 +568,7 @@
         <source>wsj.com</source>
         <source>washingtonpost.com</source>
         <source>zillow.com</source>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
     <section>
@@ -608,7 +608,7 @@
         <source>wsj.com</source>
         <source>washingtonpost.com</source>
         <source>zillow.com</source>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
     <section>
@@ -710,7 +710,7 @@
         <source>wsj.com</source>
         <source>washingtonpost.com</source>
         <source>zillow.com</source>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
     <section>
@@ -780,7 +780,7 @@
         <source>wsj.com</source>
         <source>washingtonpost.com</source>
         <source>zillow.com</source>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
     <section>
@@ -805,7 +805,7 @@
         <source>wsj.com</source>
         <source>washingtonpost.com</source>
         <source>zillow.com</source>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
     <section>
@@ -923,7 +923,7 @@
         <source>wsj.com</source>
         <source>washingtonpost.com</source>
         <source>zillow.com</source>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
     <section>
@@ -979,27 +979,18 @@
         <source>wsj.com</source>
         <source>washingtonpost.com</source>
         <source>zillow.com</source>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
     <section>
-      <title>Holidays are Better than Pensions</title>
       <quote>
         <author>A reasonably-paid Millennial</author>
         <text>It’s almost impossible to save for a house in London so I might as well just spend my money travelling the world.</text>
       </quote>
-      <chapter>
-        <paragraph>This is a common reaction ‒ and it is holidays in particular that Millennials will splurge on. A survey from Eventbrite found that 78% of Millennials would prefer to spend their money on an “experience” - such as a holiday - over something tangible that they could own.</paragraph>
-      </chapter>
-      <graph unit="%" x="string" y="percentage">
-        <dataset label="">
-          <data x="Millennials who prefer to spend their money on an “experience”" y="78" />
-          <data x="Millennials who don't" y="22" />
-        </dataset>
-      </graph>
       <keywords>
         <keyword name="Millennials (1981–2000)" />
         <keyword name="Income and Pensions" />
+        <keyword name="Housing and Real Estate" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -1015,7 +1006,40 @@
         <source>wsj.com</source>
         <source>washingtonpost.com</source>
         <source>zillow.com</source>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+    </section>
+    <section>
+      <title>Holidays are Better than Pensions</title>
+        <abstract>
+          A survey from Eventbrite found that 78% of Millennials would prefer to spend their money on an “experience” - such as a holiday - over something tangible that they could own.
+        </abstract>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label="">
+          <data x="Millennials who prefer to spend their money on an “experience”" y="78" />
+          <data x="Millennials who don't" y="22" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Income and Pensions" />
+        <keyword name="Housing and Real Estate" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
     <section>
@@ -1060,7 +1084,7 @@
         <source>wsj.com</source>
         <source>washingtonpost.com</source>
         <source>zillow.com</source>
-        <source>Report: " Global Employment Trends for Youth 2015", International Labour Organization</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
   </sections>

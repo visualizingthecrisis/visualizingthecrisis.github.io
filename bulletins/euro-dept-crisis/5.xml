@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <bulletins>
+    <title>EU Debt Crisis Odysssey</title>
+  	<subtitle>About the european crisis</subtitle>
+  	<authors>
+      <author>Valeria Mento</author>
+      <author>Jacopo Faggian</author>
+    </authors>
+    <bulletin id="5" date="20160331">
+      <sections>
+
+  <section>
+    <title>European terrorism</title>
+      <chapter>
+        <title>Terrorism in Belgium: for US Europe is no more safe for tourist</title>
+        <paragraph>
+          Europe is becoming a dangerous place, says the US Department of State. After terrorist attack in Brussels
+          the agency declared it is better to avoid travels in the Old Country: what could be the economic impact?
+        </paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="number">
+        <title>Impact of terrorism on plane booking</title>
+        <dataset label="Paris Oct-Dic 2015">
+          <data x="fall of booking" y="-101"/>
+        </dataset>
+        <dataset label="Bruxelles Jan-Mar 2016">
+          <data x="fall of booking" y="-136"/>
+        </dataset>
+      </graph>
+      <chapter>
+        <title>How many USA tourists?</title>
+        <paragraph>
+          This chart shows how important are US visitors for tourism industriy of the european countries threatend by ISIS
+        </paragraph>
+      </chapter>
+        <graph unit="%" x="string" y="number">
+          <title>US visitor percentage of total visitors in some EU countries</title>
+          <dataset label="US visitors">
+            <data x="FR" y="2.7"/>
+            <data x="GB" y="3.6"/>
+            <data x="ES" y="2.2"/>
+            <data x="IT" y="3.1"/>
+            <data x="DE" y="1.7"/>
+            <data x="SE" y="2.0"/>
+            <data x="BE" y="4.7"/>
+            <data x="AT" y="4.4"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Terrorism" />
+          <keyword name="Eastern Europe" />
+          <keyword name="Western Europe" />
+          <keyword name="Tourism" />
+        </keywords>
+        <sources>
+          <source>Unwto.com</source>
+          <source>Tradingeconomics.com</source>
+          <source>Eurostat.eu</source>
+          <source>Businessinsider.co.uk</source>
+          <source>Wttc.org</source>
+          <source>Understandingwar.org/</source>
+          <source>Euromonitor.com</source>
+          <source>Travel.trade.gov</source>
+          <source>Reuters.com</source>
+        </sources>
+      </section>
+
+      <section>
+        <title>Us tourists money spent</title>
+        <chapter>
+            <title>How much does US spend in Europe?</title>
+            <paragraph>
+              This graphic shows how much money US people directly spent in 2014 in different european countries.
+              Undirect spendings are diffcult to calculate, but they are a huge income for the tourism linked activities.
+            </paragraph>
+          </chapter>
+          <graph unit="number" x="country" y="number">
+            <title>Overnight in Europe - Billion nights spent | 2014</title>
+            <dataset label="Nights spent by country">
+              <data x="US" y="60"/>
+              <data x="RU" y="52"/>
+              <data x="CN" y="30"/>
+              <data x="BR" y="24"/>
+            </dataset>
+          </graph>
+          <graph unit="USD" x="country" y="number">
+            <title>US visitation to Europe | Volume in $ million</title>
+            <dataset label="Visitaion value">
+              <data x="AT" y="702"/>
+              <data x="DE" y="1,869"/>
+              <data x="ES" y="475"/>
+              <data x="IE" y="1,156"/>
+              <data x="FR" y="2,107"/>
+              <data x="GB" y="2,820"/>
+              <data x="GR" y="421"/>
+              <data x="IT" y="1,912"/>
+              <data x="NL" y="691"/>
+              <data x="RU" y="205"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="North America" />
+            <keyword name="Eastern Europe" />
+            <keyword name="Western Europe" />
+            <keyword name="Tourism" />
+            <keyword name="South America" />
+            <keyword name="Central and Eastern Asia" />
+          </keywords>
+          <sources>
+            <source>Unwto.com</source>
+            <source>Tradingeconomics.com</source>
+            <source>Eurostat.eu</source>
+            <source>Businessinsider.co.uk</source>
+            <source>Wttc.org</source>
+            <source>Understandingwar.org/</source>
+            <source>Euromonitor.com</source>
+            <source>Travel.trade.gov</source>
+            <source>Reuters.com</source>
+          </sources>
+        </section>
+
+        <section>
+        <title>Terrorism forecasts</title>
+          <chapter>
+              <title>How much counter terrorism costs?</title>
+              <paragraph>
+                EU spending for counter terrorist is becoming more and more expansive. Since 2002 they had a huge increase.
+                However, after Brussels attack, EU launched new expansive anti-terrorism mesures, focusing on new and old risky places.
+              </paragraph>
+            </chapter>
+            <graph unit="EUR" x="date" y="number">
+              <title>EU spending for CT in € million</title>
+              <dataset label="Spending value">
+                <data x="2002" y="5,700,000"/>
+                <data x="2009" y="93,500,000"/>
+                <data x="2015" y="2,146,000,000"/>
+              </dataset>
+            </graph>
+            <chapter>
+              <title>Maybe we should correct 2025 previsions</title>
+              <paragraph>
+                  The Authority on World Travel and Tourism (WTTC) in 2015 made projection for 2025 about the future impact
+                  of tourism on European countries’ GDP. Due to the actual situation maybe they should re-write them.
+              </paragraph>
+            </chapter>
+              <graph unit="%" x="country" y="number">
+                <title>Impact of tourism on GDP | 2025</title>
+                <dataset label="Impact in 2015">
+                  <data x="AT" y="4.8"/>
+                  <data x="BE" y="2.3"/>
+                  <data x="DE" y="3"/>
+                  <data x="ES" y="5.6"/>
+                  <data x="FI" y="2.1"/>
+                  <data x="FR" y="4"/>
+                  <data x="GB" y="3.5"/>
+                  <data x="IT" y="4.1"/>
+                  <data x="SE" y="2.4"/>
+                </dataset>
+              <dataset label="Impact in 2025">
+                  <data x="AT" y="5.8"/>
+                  <data x="BE" y="2.7"/>
+                  <data x="DE" y="4.1"/>
+                  <data x="ES" y="5.7"/>
+                  <data x="FI" y="2.4"/>
+                  <data x="FR" y="3.6"/>
+                  <data x="GB" y="3.7"/>
+                  <data x="IT" y="4.6"/>
+                  <data x="SE" y="3"/>
+                </dataset>
+              </graph>
+              <keywords>
+                <keyword name="Terrorism" />
+                <keyword name="Eastern Europe" />
+                <keyword name="Western Europe" />
+                <keyword name="Tourism" />
+                <keyword name="GDP" />
+              </keywords>
+              <sources>
+                <source>Unwto.com</source>
+                <source>Tradingeconomics.com</source>
+                <source>Eurostat.eu</source>
+                <source>Businessinsider.co.uk</source>
+                <source>Wttc.org</source>
+                <source>Understandingwar.org/</source>
+                <source>Euromonitor.com</source>
+                <source>Travel.trade.gov</source>
+                <source>Reuters.com</source>
+              </sources>
+            </section>
+
+    <section>
+      <title>French public deficit better than expected</title>
+        <chapter>
+          <paragraph>
+            France posted its smallest public deficit since the global crisis of 2008. Public deficit fell last to 3.5%,
+            according to national accounts published by the statistics agency INSEE (that was slightly better than the
+            government’s target of 3.8% for the year, but EU rules set the limit on public deficits at 3% of an economy’s
+            total annual output). The deficit also benefited from local governments running a budget surplus of 700 millions.
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>GDP grows, but also government spending</title>
+          <paragraph>
+            Although Public Spending to GDP rate fall in 2015, the effective value
+            is anyway grew. At the same time GDP is growing after the 2013’s fall.
+          </paragraph>
+          </chapter>
+          <graph unit="EUR" x="date" y="number">
+            <title>GDP value in € billions</title>
+            <dataset label="GDP">
+              <data x="2012" y="2,556,000,000,000"/>
+              <data x="2013" y="2,395,000,000,000"/>
+              <data x="2014" y="2,508,000,000,000"/>
+              <data x="2015" y="2,525,000,000,000"/>
+            </dataset>
+          </graph>
+          <graph unit="EUR" x="date" y="number">
+            <title>Government spending value in € millions</title>
+            <dataset label="Spending">
+              <data x="2012" y="123,000,000,000"/>
+              <data x="2013" y="125,000,000,000"/>
+              <data x="2014" y="127,000,000,000"/>
+              <data x="2015" y="129,000,000,000"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Governance" />
+            <keyword name="National Debt" />
+            <keyword name="Western Europe" />
+            <keyword name="Credit rating" />
+            <keyword name="GDP" />
+          </keywords>
+          <sources>
+            <source>Unwto.com</source>
+            <source>Tradingeconomics.com</source>
+            <source>Eurostat.eu</source>
+            <source>Businessinsider.co.uk</source>
+            <source>Wttc.org</source>
+            <source>Understandingwar.org/</source>
+            <source>Euromonitor.com</source>
+            <source>Travel.trade.gov</source>
+            <source>Reuters.com</source>
+          </sources>
+      </section>
+
+      <section>
+        <quote>
+          <author>Francois Hollande</author>
+          <text>
+            President Francois Hollande has made jobs his government's top priority,
+            and has said he will not seek reelection in 2017 if he fails to bring
+            down the unemployment rate.
+          </text>
+        </quote>
+        <keywords>
+          <keyword name="Governance" />
+          <keyword name="National Debt" />
+          <keyword name="Western Europe" />
+          <keyword name="Credit rating" />
+          <keyword name="GDP" />
+          <keyword name="Employment" />
+        </keywords>
+        <sources>
+          <source>Unwto.com</source>
+          <source>Tradingeconomics.com</source>
+          <source>Eurostat.eu</source>
+          <source>Businessinsider.co.uk</source>
+          <source>Wttc.org</source>
+          <source>Understandingwar.org/</source>
+          <source>Euromonitor.com</source>
+          <source>Travel.trade.gov</source>
+          <source>Reuters.com</source>
+        </sources>
+      </section>
+
+      <section>
+        <title>France’s situation</title>
+          <chapter>
+            <paragraph>
+              Unlike in the early years Hollande’s presidency, the deficit reduction last year was achieved while
+              cutting taxes, with the tax burden falling for the first time since 2009. Growth in the eurozone’s
+              second biggest economy was slightly better in 2015 than originally thought. INSEE revised its growth
+              figure for France up to 1.2 percent from a previously announced 1.1. “It means we’re cutting the deficit
+              while supporting growth at the same time,” said French Finance Minister Michel Sapin.
+            </paragraph>
+          </chapter>
+          <graph unit="%" x="date" y="number">
+            <title>Public Deficit to GDP</title>
+            <dataset label="Decreasing trend">
+              <data x="2014" y="4.0"/>
+              <data x="2015" y="3.5"/>
+            </dataset>
+          </graph>
+        <graph unit="%" x="date" y="number">
+          <title>GDP Growth</title>
+          <dataset label="Increasing trend">
+            <data x="2014" y="0.2"/>
+            <data x="2015" y="0.3"/>
+          </dataset>
+        </graph>
+        <graph unit="%" x="date" y="number">
+          <title>Unemployment Rate</title>
+          <dataset label="Decreasing trend">
+            <data x="2014" y="10.5"/>
+            <data x="2015" y="10.3"/>
+          </dataset>
+        </graph>
+        <graph unit="%" x="date" y="number">
+          <title>Public Spending to GDP</title>
+          <dataset label="Decreasing trend">
+            <data x="2014" y="57.3"/>
+            <data x="2015" y="56.8"/>
+          </dataset>
+        </graph>
+        <graph unit="%" x="date" y="number">
+          <title>Public Debt to GDP</title>
+          <dataset label="Increasing trend">
+            <data x="2014" y="95.3"/>
+            <data x="2015" y="95.7"/>
+          </dataset>
+        </graph>
+      <graph unit="%" x="date" y="number">
+        <title>Fiscal Pressure</title>
+        <dataset label="Decreasing trend">
+          <data x="2014" y="44.8"/>
+          <data x="2015" y="44.5"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Governance" />
+        <keyword name="National Debt" />
+        <keyword name="Western Europe" />
+        <keyword name="Credit rating" />
+        <keyword name="GDP" />
+        <keyword name="Employment" />
+      </keywords>
+      <sources>
+        <source>Unwto.com</source>
+        <source>Tradingeconomics.com</source>
+        <source>Eurostat.eu</source>
+        <source>Businessinsider.co.uk</source>
+        <source>Wttc.org</source>
+        <source>Understandingwar.org/</source>
+        <source>Euromonitor.com</source>
+        <source>Travel.trade.gov</source>
+        <source>Reuters.com</source>
+      </sources>
+  </section>
+
+  <section>
+    <quote>
+      <author>Michel Sapin</author>
+      <text>
+        It means we're cutting the deficit while supporting growth at the same time,
+        People very often say that's contradictory. But we're proving that's not true.
+        You can be serious on the budget front and allow growth to pick up.
+      </text>
+    </quote>
+    <keywords>
+      <keyword name="Governance" />
+      <keyword name="National Debt" />
+      <keyword name="Western Europe" />
+      <keyword name="Credit rating" />
+      <keyword name="GDP" />
+      <keyword name="Employment" />
+    </keywords>
+    <sources>
+      <source>Unwto.com</source>
+      <source>Tradingeconomics.com</source>
+      <source>Eurostat.eu</source>
+      <source>Businessinsider.co.uk</source>
+      <source>Wttc.org</source>
+      <source>Understandingwar.org/</source>
+      <source>Euromonitor.com</source>
+      <source>Travel.trade.gov</source>
+      <source>Reuters.com</source>
+    </sources>
+  </section>
+
+  <section>
+    <title>Gorvernment revenues are like the waves</title>
+      <chapter>
+        <paragraph>
+          Are these waves? Unfortunately no, it’s only a diagram
+          which illustrates french government revenues (refer to all
+           receipts the government gets, including taxes, custom duties,
+           revenue from state-owned enterprises, capital revenues and
+           foreign aid) from 2011 to early 2016. Usually in December
+           revenues are higher instead in January revenues are lower:
+           that is due to yearly articulation of government revenues
+           (which are composed by taxes, custom duties, revenue from
+           state-owned enterprises)
+        </paragraph>
+      </chapter>
+      <graph unit="EUR" x="date" y="number">
+        <title>French Government Revenues in € billions</title>
+        <dataset label="Revenues value">
+          <data x="20110101" y="25,000,000,000"/>
+          <data x="20111201" y="275,000,000,000"/>
+          <data x="20120101" y="25,000,000,000"/>
+          <data x="20121201" y="280,000,000,000"/>
+          <data x="20130101" y="25,000,000,000"/>
+          <data x="20131201" y="300,000,000,000"/>
+          <data x="20140101" y="25,000,000,000"/>
+          <data x="20141201" y="285,000,000,000"/>
+          <data x="20150101" y="25,000,000,000"/>
+          <data x="20151201" y="298,000,000,000"/>
+          <data x="20160101" y="25,000,000,000"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Governance" />
+        <keyword name="National Debt" />
+        <keyword name="Western Europe" />
+        <keyword name="Credit rating" />
+        <keyword name="GDP" />
+        <keyword name="Taxes" />
+      </keywords>
+      <sources>
+        <source>Unwto.com</source>
+        <source>Tradingeconomics.com</source>
+        <source>Eurostat.eu</source>
+        <source>Businessinsider.co.uk</source>
+        <source>Wttc.org</source>
+        <source>Understandingwar.org/</source>
+        <source>Euromonitor.com</source>
+        <source>Travel.trade.gov</source>
+        <source>Reuters.com</source>
+      </sources>
+  </section>
+
+  </sections>
+</bulletin>
+</bulletins>

@@ -100,11 +100,9 @@
             var $content = $("<div>" + node.label + "</div>");
             $content.addClass('treemap-label');
             $content.css({
-              'margin-top':'1px',
-              'margin-left':'1px',
-
-                'display': 'relative',
-                'position': 'relative',
+              'margin-top':'0px',
+              'margin-left':'0px',
+              'position': 'absolute',
                 'text-align': 'left',
                 'font-size': this.startingFontSize + 'px'
             });
@@ -124,7 +122,7 @@
     //    console.log($content);
         $content.css('max-width',nodeBounds.width- TreeMap.TOP_MARGIN);
       //  $content.css('word-wrap','break-word');
-        while ($content.height() + 3 > nodeBounds.height){// || $content.innerWidth() + 10 > nodeBounds.width){
+        while ($content.height() + 4 > nodeBounds.height){// || $content.innerWidth() + 10 > nodeBounds.width){
             var fontSize = parseFloat($content.css('font-size')) - 1;
             if (fontSize <= this.smallestFontSize) {
               //  $content.remove();

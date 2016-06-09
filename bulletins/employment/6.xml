@@ -1,8 +1,8 @@
 <bulletin id="issue 6" date="20160416">
   <sections>
     <section>
+      <title>US Tax Revenue</title>
       <graph unit="t$" x="date" y="number">
-        <title>US Tax Revenue</title>
         <dataset label="">
           <data x="2004" y="1.18" />
           <data x="2005" y="1.41" />
@@ -218,11 +218,11 @@
       </sources>
     </section>
     <section>
+      <title>Offshore companies created since 1977</title>
+      <abstract>
+        The number of companies created by Mossack Fonseca  had a relevant decline in the last decade - Mossack Fonseca and Co. is a Panamanian law firm and corporate service provider founded in 1986 that has grown to have more than 40 offices worldwide; the firm received worldwide media attention when informations about its clients' financial dealings were published in the Panama Papers articles, following the release of an enormous cache of its documents from between 1970 and 2015 leaked to the news media.
+      </abstract>
       <graph unit="" x="date" y="number">
-        <title>Offshore companies created since 1977</title>
-        <abstract>
-          The number of companies created by Mossack Fonseca  had a relevant decline in the last decade - Mossack Fonseca and Co. is a Panamanian law firm and corporate service provider founded in 1986 that has grown to have more than 40 offices worldwide; the firm received worldwide media attention when informations about its clients' financial dealings were published in the Panama Papers articles, following the release of an enormous cache of its documents from between 1970 and 2015 leaked to the news media.
-        </abstract>
         <dataset label="">
           <data x="1980" y="416" />
           <data x="1985" y="975" />
@@ -699,6 +699,7 @@
     </section>
     <section>
       <title>Philippines</title>
+      <subtitle>Flash News on News</subtitle>
       <abstract>
         The Philippines is one of the most dangerous places in the world to be a journalist, especially if you’re in talk radio. According to the Philippine Center for Media Freedom and Responsibility, at least 168 journalists have been killed since 1986, when the Marcos dictatorship fell and democracy was restored.
       </abstract>
@@ -732,6 +733,7 @@
     </section>
     <section>
       <title>China- 29 Mar 2016</title>
+      <subtitle>Flash News on News</subtitle>
       <abstract>
         You Shaolei, the director of the Southern Metropolis Daily, a chinese daily Tabloid newspaper published in Guangzhou, resigned denouncing the increasing control of the media under the current President Xi Jinping.
       </abstract>
@@ -765,6 +767,7 @@
     </section>
     <section>
       <title>Maldive - 3 April 2016</title>
+      <subtitle>Flash News on News</subtitle>
       <abstract>
         The police intervened violently against a group of journalists who had staged a sit-in outside the office of President Abdulla Yameen; the reasons were different and linked to restrictions on press freedom in the archipelago.
       </abstract>
@@ -820,10 +823,11 @@
       </chapter>
       <chapter>
         <title>But.. Where Are the Americans at?</title>
+        <paragraph>Unfortunately the leaker has made the dreadful mistake of turning to the western corporate media to publicise the results. In consequence the first major story, published by the Guardian is all about Vladimir Putin. But why focus on Russia?</paragraph>
       </chapter>
       <quote>
         <author>Craig Murray, author and human rights activist</author>
-        <text>Unfortunately the leaker has made the dreadful mistake of turning to the western corporate media to publicise the results. In consequence the first major story, published by the Guardian is all about Vladimir Putin. But why focus on Russia? Russian wealth is only a tiny minority of the money hidden away with the aid of Mossack Fonseca. In fact, it soon becomes obvious that the selective reporting is going to stink.</text>
+        <text>Russian wealth is only a tiny minority of the money hidden away with the aid of Mossack Fonseca. In fact, it soon becomes obvious that the selective reporting is going to stink.</text>
       </quote>
       <keywords>
         <keyword name="North America" />

@@ -1,0 +1,89 @@
+<keywords>
+  <area name="geography">
+  <keyword area="geography">North America</keyword>
+  <keyword area="geography">South America</keyword>
+  <keyword area="geography">Eastern Europe</keyword>
+  <keyword area="geography">Western Europe</keyword>
+  <keyword area="geography">Northern Africa</keyword>
+  <keyword area="geography">Central Africa</keyword>
+  <keyword area="geography">Southern Africa</keyword>
+  <keyword area="geography">Middle East and Western Asia</keyword>
+  <keyword area="geography">Central and Eastern Asia</keyword>
+  <keyword area="geography">Southern Asia</keyword>
+  <keyword area="geography">Southeastern Asia</keyword>
+  <keyword area="geography">Oceania</keyword>
+</area>
+<area name="topics">
+
+  <keyword area="topics">Employment</keyword>
+  <keyword area="topics">Governance</keyword>
+  <keyword area="topics">Citizenship</keyword>
+  <keyword area="topics">Education</keyword>
+  <keyword area="topics">Global Warming</keyword>
+  <keyword area="topics">Automation</keyword>
+</area>
+<area name="current">
+
+  <keyword area="current">US Elections</keyword>
+  <keyword area="current">Terrorism</keyword>
+  <keyword area="current">Brexit/Grexit</keyword>
+  <keyword area="current">Migration</keyword>
+  <keyword area="current">Unconventional Monetary Policies</keyword>
+  <keyword area="current">Privacy and Surveillance</keyword>
+</area>
+<area name="finance">
+
+  <keyword area="finance">GDP</keyword>
+  <keyword area="finance">Inflation/Deflation</keyword>
+  <keyword area="finance">Import/Export</keyword>
+  <keyword area="finance">Investments</keyword>
+  <keyword area="finance">Income and Pensions</keyword>
+  <keyword area="finance">Credit rating</keyword>
+  <keyword area="finance">Taxes</keyword>
+  <keyword area="finance">Interest Rates</keyword>
+  <keyword area="finance">Start-ups</keyword>
+  <keyword area="finance">Global Corporations</keyword>
+  <keyword area="finance">Sharing Economy</keyword>
+  <keyword area="finance">National Debt</keyword>
+  <keyword area="finance">Black Market</keyword>
+  <keyword area="finance">Loans</keyword>
+  <keyword area="finance">Housing and Real Estate</keyword>
+  <keyword area="finance">Currencies</keyword>
+</area>
+<area name="resources">
+
+  <keyword area="resources">Gold</keyword>
+  <keyword area="resources">Oil</keyword>
+  <keyword area="resources">Natural Gas</keyword>
+  <keyword area="resources">Wood/Forests</keyword>
+  <keyword area="resources">Water</keyword>
+  <keyword area="resources">Renewables</keyword>
+</area>
+<area name="age">
+
+  <keyword area="age">Millennials (1981–2000)</keyword>
+  <keyword area="age">Generation X (1965–1980)</keyword>
+  <keyword area="age">Baby Boomers (1945–1964)</keyword>
+  <keyword area="age">Silent Generation (1920–1944)</keyword>
+</area>
+<area name="wealth">
+
+  <keyword area="wealth">1%</keyword>
+  <keyword area="wealth">Middle class</keyword>
+  <keyword area="wealth">Working class</keyword>
+  <keyword area="wealth">In poverty</keyword>
+</area>
+<area name="industries">
+  <keyword area="industries">Tourism</keyword>
+  <keyword area="industries">Agriculture</keyword>
+  <keyword area="industries">Manufacturing</keyword>
+  <keyword area="industries">Tech</keyword>
+  <keyword area="industries">Construction</keyword>
+  <keyword area="industries">Mining</keyword>
+  <keyword area="industries">Military</keyword>
+  <keyword area="industries">Transportation</keyword>
+  <keyword area="industries">Healthcare</keyword>
+  <keyword area="industries">Commerce</keyword>
+</area>
+
+</keywords>

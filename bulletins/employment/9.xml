@@ -1,8 +1,8 @@
 <bulletin id="issue 9" date="20160507">
   <sections>
     <section>
+      <title>'Basic Income' Searches in Google</title>
       <graph unit="%" x="date" y="number">
-        <title>'Basic Income' Searches in Google</title>
         <dataset label="">
           <data x="20110430" y="26" />
           <data x="20111031" y="20" />
@@ -586,7 +586,7 @@
       </graph>
       <quote>
         <author>Chirathep Senivongs Na Ayudhya, Bank of Thailand spokesman</author>
-        <text>Our unemployment rate has been low not because of a different definition from other countries, but because of structural problems. The agricultural sector absorbs laborers and those who can't find work can always look for jobs in the informal sector or do something on their own.</text>
+        <text>Our unemployment rate has been low not because of a different definition from other countries, but because of structural problems. The agricultural sector absorbs laborers and those who can't find work can always look for jobs in the informal sector.</text>
       </quote>
       <keywords>
         <keyword name="North America" />
@@ -804,8 +804,8 @@
       </sources>
     </section>
     <section>
+      <title>US Federal Minimum Wage History</title>
       <graph unit="$" x="date" y="number">
-        <title>US Federal Minimum Wage History</title>
         <dataset label="Statutory Minimum Wage">
           <data x="1940" y="0.30" />
           <data x="1945" y="0.40" />
@@ -991,26 +991,42 @@
             <item>C16th</item>
             <item>Thomas More</item>
             <item>Johannes Ludovicus Vives</item>
+          </list>
+          <list type="unordered">
             <item>1776</item>
             <item>Thomas Jefferson</item>
+          </list>
+          <list type="unordered">
             <item>1795</item>
             <item>Antoine Caritat</item>
             <item>Thomas Paine</item>
+          </list>
+          <list type="unordered">
             <item>1862</item>
             <item>Abraham Lincoln</item>
+          </list>
+          <list type="unordered">
             <item>1880s</item>
             <item>Henry George</item>
             <item>Edward Bellamy</item>
+          </list>
+          <list type="unordered">
             <item>1918</item>
             <item>Bertrand Russell</item>
+          </list>
+          <list type="unordered">
             <item>1930s</item>
             <item>Francis Townsend</item>
             <item>Huey Long</item>
             <item>Clifford Hugh Douglas</item>
+          </list>
+          <list type="unordered">
             <item>1940s</item>
             <item>Franklin Roosevelt</item>
             <item>Friedrich von Hayek</item>
             <item>Peter Drucker</item>
+          </list>
+          <list type="unordered">
             <item>1960s</item>
             <item>Milton Friedman</item>
             <item>Robert Theobald</item>
@@ -1025,16 +1041,22 @@
             <item>Buckminster Fuller</item>
             <item>Richard Nixon</item>
             <item>Daniel Moynihan</item>
+          </list>
+          <list type="unordered">
             <item>1970s</item>
             <item>George McGovern</item>
             <item>James Tobin</item>
             <item>Gerald Ford</item>
             <item>Jimmy Carter</item>
+          </list>
+          <list type="unordered">
             <item>1980s</item>
             <item>Leonard Michael Greene</item>
             <item>Alfred Andersen</item>
             <item>Philippe Van Parijs</item>
             <item>Guy Standing</item>
+          </list>
+          <list type="unordered">
             <item>1990s</item>
             <item>Jeffrey Smith and Gary Flo</item>
             <item>Theresa Funiciello</item>
@@ -1045,6 +1067,8 @@
             <item>Michael Murray</item>
             <item>Steven Shafarman</item>
             <item>Bruce Ackerman and Anne Alstott</item>
+          </list>
+          <list type="unordered">
             <item>2000-</item>
             <item>U.S. Basic Income Guarantee Network</item>
             <item>Citizen Policies Institute</item>

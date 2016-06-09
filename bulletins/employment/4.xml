@@ -1,8 +1,8 @@
 <bulletin id="issue 4" date="20160326">
   <sections>
     <section>
+      <title>India and China GDP Growth</title>
       <graph unit="%" x="date" y="number">
-        <title>India and China GDP Growth</title>
         <dataset label="India">
           <data x="20150131" y="7.5" />
           <data x="20150430" y="7.5" />
@@ -34,8 +34,11 @@
         <paragraph>As of 2015 there was talk of a "slowing" Chinese economy, referred to a slowing of the rate of economic growth and of indstrial sector like manufactory.</paragraph>
       </chapter>
       <graph unit="b$" x="location" y="number">
-        <title>Main Countries Where China and India Exported Before China's Slowdown</title>
-        <dataset label="India gross trade flow in 2014: $311b">
+        <title>Main Countries Where China and India Exported Before China's Slowdown (2014)</title>
+        <abstract>
+          India gross trade flow in 2014 was $311b, while China one was $2.34t.
+        </abstract>
+        <dataset label="India">
           <data x="US" y="43" />
           <data x="AE" y="33" />
           <data x="CN" y="16" />
@@ -53,7 +56,7 @@
           <data x="KR" y="5" />
           <data x="ZA" y="4.9" />
         </dataset>
-        <dataset label="China gross trade flow in 2014: $2.34t">
+        <dataset label="China">
           <data x="US" y="440" />
           <data x="JP" y="170" />
           <data x="DE" y="100" />
@@ -577,57 +580,57 @@
           <cell>Iran</cell>
           <cell>1.96</cell>
         </row>
-        <row type="cell">
-          <cell>100</cell>
-          <cell>Kuwait</cell>
-          <cell>1.95</cell>
-        </row>
-        <row type="cell">
-          <cell>101</cell>
-          <cell>Macedonia</cell>
-          <cell>1.94</cell>
-        </row>
-        <row type="cell">
-          <cell>102</cell>
-          <cell>Jamaica</cell>
-          <cell>1.92</cell>
-        </row>
-        <row type="cell">
-          <cell>103</cell>
-          <cell>Ecuador</cell>
-          <cell>1.91</cell>
-        </row>
-        <row type="cell">
-          <cell>104</cell>
-          <cell>Chile</cell>
-          <cell>1.89</cell>
-        </row>
-        <row type="cell">
-          <cell>105</cell>
-          <cell>Gabon</cell>
-          <cell>1.85</cell>
-        </row>
-        <row type="cell">
-          <cell>106</cell>
-          <cell>Turkmenistan</cell>
-          <cell>1.84</cell>
-        </row>
-        <row type="cell">
-          <cell>107</cell>
-          <cell>Italy</cell>
-          <cell>1.83</cell>
-        </row>
-        <row type="cell">
-          <cell>108</cell>
-          <cell>Albania</cell>
-          <cell>1.83</cell>
-        </row>
-        <row type="cell">
-          <cell>109</cell>
-          <cell>Georgia</cell>
-          <cell>1.83</cell>
-        </row>
-        <row>
+          <row type="cell">
+            <cell>100</cell>
+            <cell>Kuwait</cell>
+            <cell>1.95</cell>
+          </row>
+          <row type="cell">
+            <cell>101</cell>
+            <cell>Macedonia</cell>
+            <cell>1.94</cell>
+          </row>
+          <row type="cell">
+            <cell>102</cell>
+            <cell>Jamaica</cell>
+            <cell>1.92</cell>
+          </row>
+          <row type="cell">
+            <cell>103</cell>
+            <cell>Ecuador</cell>
+            <cell>1.91</cell>
+          </row>
+          <row type="cell">
+            <cell>104</cell>
+            <cell>Chile</cell>
+            <cell>1.89</cell>
+          </row>
+          <row type="cell">
+            <cell>105</cell>
+            <cell>Gabon</cell>
+            <cell>1.85</cell>
+          </row>
+          <row type="cell">
+            <cell>106</cell>
+            <cell>Turkmenistan</cell>
+            <cell>1.84</cell>
+          </row>
+          <row type="cell">
+            <cell>107</cell>
+            <cell>Italy</cell>
+            <cell>1.83</cell>
+          </row>
+          <row type="cell">
+            <cell>108</cell>
+            <cell>Albania</cell>
+            <cell>1.83</cell>
+          </row>
+          <row type="cell">
+            <cell>109</cell>
+            <cell>Georgia</cell>
+            <cell>1.83</cell>
+          </row>
+          <row>
           <cell>110</cell>
           <cell>Norway</cell>
           <cell>1.73</cell>
@@ -728,8 +731,8 @@
       </sources>
     </section>
     <section>
+    <title>Made in China is Not that Cheap Anymore</title>
       <chapter>
-        <title>Made in China is Not that Cheap Anymore</title>
         <paragraph>According to a research by Oxford Economics labor costs adjusted for productivity in China are only 4% cheaper than in the US.</paragraph>
         <paragraph>China’s GDP is almost 5 times larger than India's and its manufacturing sector is 10 times bigger. However the slowdown in China could make a big difference. With the rising cost of labour, it is no longer cheap to manufacture there and it will soon cease to be an export powerhouse if this continues. Minimum wages have increase by double-digits and companies have started looking for alternatives. For example, companies like Godrej, Micromax and Bosch have started expanding or shifting manufacturing operations to India.</paragraph>
       </chapter>
@@ -783,7 +786,7 @@
         <paragraph>India aims to increase the share of manufacturing sector in GDP from the current 16% to 25% by 2022.</paragraph>
       </chapter>
       <chapter>
-        <title>Manufacturing Jobs Are Never Coming Back</title>
+      <title>Manufacturing Jobs Are Never Coming Back</title>
         <paragraph>Because of rising wages in China, the need for shorter supply chains and other factors, a small but growing group of companies are shifting production back to the US. But the factories they build here are heavily automated, employing a small fraction of the workers they would have a generation ago.</paragraph>
       </chapter>
       <graph unit="%" x="date" y="number">
@@ -808,11 +811,11 @@
         </dataset>
       </graph>
       <chapter>
-        <title>Just Another Trumpsh*t</title>
-        <quote>
-          <author>Donald John Trump, presumptive nominee of the Republican Party for President of the United States in the 2016 election</author>
-          <text>Let's take our jobs back from China and all these other countries!</text>
-        </quote>
+      <title>Just Another Trumpsh*t</title>
+      <quote>
+        <author>Donald John Trump, presumptive nominee of the Republican Party for President of the United States in the 2016 election</author>
+        <text>Let's take our jobs back from China and all these other countries!</text>
+      </quote>
         <paragraph>Nothing, no real informations will stop Donald Trump from making this sort of promises at every debate and campaign.</paragraph>
       </chapter>
       <keywords>
@@ -828,6 +831,7 @@
         <keyword name="Manufacturing" />
         <keyword name="Commerce" />
         <keyword name="Employment" />
+        <keyword name="US Elections" />
       </keywords>
       <sources>
         <source>bloomberg.com/</source>
@@ -849,57 +853,57 @@
       </sources>
     </section>
     <section>
+    <title>Hollywood on the Yellow Sea</title>
       <chapter>
-        <title>Hollywood on the Yellow Sea</title>
-        <paragraph>Wang Jianlin, one of China’s richest men, is creating a rival to the American dream factory, from scratch. The Dalian Wanda Group, China’s biggest commercial real-estate developer and the world’s largest owner of movie theaters, has committed $8.2 billion to the project.</paragraph>
-        <paragraph>China is becoming a nation of moviegoers. With North American box-office receipts essentially flat in recent years, some analysts expect that within five years, China will be the world’s box-office king (it is now No. 2). In 2012 alone, the country added 10 theater screens a day; it now has more than 28,000. Only the U.S., with close to 40,000 screens, has more, and Wanda owns more than 5,000 of those.</paragraph>
-      </chapter>
-      <chapter>
-        <title>Chinese Cinemas 东方影都</title>
-      </chapter>
-      <graph unit="million" x="date" y="number">
-        <title>Tickets sold(</title>
-        <dataset label="">
-          <data x="2010" y="0,15" />
-          <data x="2011" y="0,2" />
-          <data x="2012" y="0,25" />
-          <data x="2013" y="0,35" />
-          <data x="2014" y="0,6" />
-          <data x="2015" y="1,25" />
-        </dataset>
-      </graph>
-      <graph unit="thousand" x="date" y="number">
-        <title>Theater screens(</title>
-        <dataset label="">
-          <data x="2010" y="4" />
-          <data x="2011" y="5.9" />
-          <data x="2012" y="6.1" />
-          <data x="2013" y="9.5" />
-          <data x="2014" y="18.5" />
-          <data x="2015" y="32" />
-        </dataset>
-      </graph>
-      <keywords>
-        <keyword name="Central and Eastern Asia" />
-      </keywords>
-      <sources>
-        <source>bloomberg.com/</source>
-        <source>businessworld.in</source>
-        <source>clb.org.hk</source>
-        <source>economictimes.indiatimes.com</source>
-        <source>fivethirtyeight.com</source>
-        <source>ft.com</source>
-        <source>huffingtonpost.com</source>
-        <source>ibef.org</source>
-        <source>indianexpress.com</source>
-        <source>newyorker.com</source>
-        <source>nytimes.com</source>
-        <source>theatlantic.com</source>
-        <source>wsj.com</source>
-        <source>washingtonpost.com</source>
-        <source>tradingeconomics.com</source>
-        <source>Internazionale</source>
-      </sources>
+      <paragraph>Wang Jianlin, one of China’s richest men, is creating a rival to the American dream factory, from scratch. The Dalian Wanda Group, China’s biggest commercial real-estate developer and the world’s largest owner of movie theaters, has committed $8.2 billion to the project.</paragraph>
+      <paragraph>China is becoming a nation of moviegoers. With North American box-office receipts essentially flat in recent years, some analysts expect that within five years, China will be the world’s box-office king (it is now No. 2). In 2012 alone, the country added 10 theater screens a day; it now has more than 28,000. Only the U.S., with close to 40,000 screens, has more, and Wanda owns more than 5,000 of those.</paragraph>
+    </chapter>
+    <chapter>
+    <title>Chinese Cinemas 东方影都</title>
+  </chapter>
+  <graph unit="million" x="date" y="number">
+    <title>Tickets sold(</title>
+    <dataset label="">
+      <data x="2010" y="0,15" />
+      <data x="2011" y="0,2" />
+      <data x="2012" y="0,25" />
+      <data x="2013" y="0,35" />
+      <data x="2014" y="0,6" />
+      <data x="2015" y="1,25" />
+    </dataset>
+  </graph>
+  <graph unit="thousand" x="date" y="number">
+    <title>Theater screens(</title>
+    <dataset label="">
+      <data x="2010" y="4" />
+      <data x="2011" y="5.9" />
+      <data x="2012" y="6.1" />
+      <data x="2013" y="9.5" />
+      <data x="2014" y="18.5" />
+      <data x="2015" y="32" />
+    </dataset>
+  </graph>
+  <keywords>
+    <keyword name="Central and Eastern Asia" />
+  </keywords>
+  <sources>
+    <source>bloomberg.com/</source>
+    <source>businessworld.in</source>
+    <source>clb.org.hk</source>
+    <source>economictimes.indiatimes.com</source>
+    <source>fivethirtyeight.com</source>
+    <source>ft.com</source>
+    <source>huffingtonpost.com</source>
+    <source>ibef.org</source>
+    <source>indianexpress.com</source>
+    <source>newyorker.com</source>
+    <source>nytimes.com</source>
+    <source>theatlantic.com</source>
+    <source>wsj.com</source>
+    <source>washingtonpost.com</source>
+    <source>tradingeconomics.com</source>
+    <source>Internazionale</source>
+  </sources>
     </section>
     <section>
       <title>Things are Changing</title>
@@ -964,19 +968,19 @@
           <cell>Workers at a machine manufacturer in Shanghai strike over wage reductions.</cell>
           <cell>100-1000 people</cell>
           <cell>Strike</cell>
-        </row>
-        <row type="cell">
-          <cell>22 Mar 2016</cell>
-          <cell>Workers at a flame retardant materials factory protest wage arrears in Yangquan.</cell>
-          <cell>1-100 people</cell>
-          <cell>Protest /Demonstration</cell>
-        </row>
-        <row type="cell">
-          <cell>22 Mar 2016</cell>
-          <cell>Retired workers demand retirement benefits at government building in Hinggan.</cell>
-          <cell>100-1000 people</cell>
-          <cell>Sit-in / Protest / Demonstration</cell>
-        </row>
+         </row>
+         <row type="cell">
+           <cell>22 Mar 2016</cell>
+           <cell>Workers at a flame retardant materials factory protest wage arrears in Yangquan.</cell>
+           <cell>1-100 people</cell>
+           <cell>Protest /Demonstration</cell>
+          </row>
+          <row type="cell">
+            <cell>22 Mar 2016</cell>
+            <cell>Retired workers demand retirement benefits at government building in Hinggan.</cell>
+            <cell>100-1000 people</cell>
+            <cell>Sit-in / Protest / Demonstration</cell>
+           </row>
       </table>
       <keywords>
         <keyword name="Central and Eastern Asia" />
@@ -1062,19 +1066,19 @@
           <cell>The budget wants to place special emphasis on manufacturing sector nurturing India’s ecosystem for start-ups.</cell>
           <cell>-</cell>
           <cell>-</cell>
-        </row>
-        <row type="cell">
-          <cell>Helping companies pay for pensions</cell>
-          <cell>₹ 10 billion ($ 150 million) will use to pay 8.33% for new employees’ basic salary towards pension and provident fund contributions.</cell>
-          <cell>-</cell>
-          <cell>-</cell>
-        </row>
-        <row type="cell">
-          <cell>Betting on the long-term dividends of infrastructure</cell>
-          <cell>₹ 2.21 trillion ($ 32.5 billion) is the amount that India will spend for its infrastructure.</cell>
-          <cell>₹ 0,40 trillon ($ 6 billion) is the initial corpus for launching the National Infrastructure Investment Fund (NIFF)</cell>
-          <cell>10,000 km are the roads that will be built, beside the upgrading of state highways.</cell>
-        </row>
+         </row>
+         <row type="cell">
+           <cell>Helping companies pay for pensions</cell>
+           <cell>₹ 10 billion ($ 150 million) will use to pay 8.33% for new employees’ basic salary towards pension and provident fund contributions.</cell>
+           <cell>-</cell>
+           <cell>-</cell>
+          </row>
+          <row type="cell">
+            <cell>Betting on the long-term dividends of infrastructure</cell>
+            <cell>₹ 2.21 trillion ($ 32.5 billion) is the amount that India will spend for its infrastructure.</cell>
+            <cell>₹ 0,40 trillon ($ 6 billion) is the initial corpus for launching the National Infrastructure Investment Fund (NIFF)</cell>
+            <cell>10,000 km are the roads that will be built, beside the upgrading of state highways.</cell>
+           </row>
       </table>
       <keywords>
         <keyword name="Southern Asia" />
@@ -1108,10 +1112,10 @@
       </sources>
     </section>
     <section>
-      <chapter>
-        <title>Facebook and Google’s Expansion: a New Colonialism in India</title>
-        <paragraph>Silicon Valley companies, led by Google and Facebook, are arriving in India with the key to a vital resource of the 21st century: connectivity. Indian critics have dubbed the US companies “digital colonialists”. The heightened tone of the debate reflects how much is at stake: with a population of 1.2 billion, India has the potential to be the largest open internet market in the world.</paragraph>
-      </chapter>
+      <title>Facebook and Google’s Expansion: a New Colonialism in India</title>
+        <abstract>
+          Silicon Valley companies, led by Google and Facebook, are arriving in India with the key to a vital resource of the 21st century: connectivity. Indian critics have dubbed the US companies “digital colonialists”. The heightened tone of the debate reflects how much is at stake: with a population of 1.2 billion, India has the potential to be the largest open internet market in the world.
+        </abstract>
       <graph unit="m" x="date" y="number">
         <title>Internet Users in India from 2014 to 2019</title>
         <dataset label="">
@@ -1123,30 +1127,30 @@
           <data x="2019" y="459" />
         </dataset>
       </graph>
-      <keywords>
-        <keyword name="Southern Asia" />
-        <keyword name="Start-ups" />
-        <keyword name="Global Corporations" />
-        <keyword name="Tech" />
-      </keywords>
-      <sources>
-        <source>bloomberg.com/</source>
-        <source>businessworld.in</source>
-        <source>clb.org.hk</source>
-        <source>economictimes.indiatimes.com</source>
-        <source>fivethirtyeight.com</source>
-        <source>ft.com</source>
-        <source>huffingtonpost.com</source>
-        <source>ibef.org</source>
-        <source>indianexpress.com</source>
-        <source>newyorker.com</source>
-        <source>nytimes.com</source>
-        <source>theatlantic.com</source>
-        <source>wsj.com</source>
-        <source>washingtonpost.com</source>
-        <source>tradingeconomics.com</source>
-        <source>Internazionale</source>
-      </sources>
+        <keywords>
+          <keyword name="Southern Asia" />
+          <keyword name="Start-ups" />
+          <keyword name="Global Corporations" />
+          <keyword name="Tech" />
+        </keywords>
+        <sources>
+          <source>bloomberg.com/</source>
+          <source>businessworld.in</source>
+          <source>clb.org.hk</source>
+          <source>economictimes.indiatimes.com</source>
+          <source>fivethirtyeight.com</source>
+          <source>ft.com</source>
+          <source>huffingtonpost.com</source>
+          <source>ibef.org</source>
+          <source>indianexpress.com</source>
+          <source>newyorker.com</source>
+          <source>nytimes.com</source>
+          <source>theatlantic.com</source>
+          <source>wsj.com</source>
+          <source>washingtonpost.com</source>
+          <source>tradingeconomics.com</source>
+          <source>Internazionale</source>
+        </sources>
     </section>
   </sections>
 </bulletin>

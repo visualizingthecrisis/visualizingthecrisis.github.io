@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+  <bulletins>
+    <title>EU Debt Crisis Odysssey</title>
+  	<subtitle>About the european crisis</subtitle>
+  	<authors>
+      <author>Valeria Mento</author>
+      <author>Jacopo Faggian</author>
+    </authors>
+    <bulletin id="4" date="20160324">
+      <sections>
+
+      <section>
+    <title>Expected only a small fall in EU debt to 2020</title>
+      <chapter>
+        <paragraph>
+          Rating agency Moody’s said the eurozone sovereign's ratings will likely remain stable in 2016 but fading fiscal
+          consolidation, limited progress on structural reforms, and rising political risks limit upside potential and create
+          longer-term risks. Even as debt loads remain stubbornly high, the deleveraging process has been hampered by a combination
+          of low growth and low inflation with progress on structural reforms limited at both a national and a eurozone level.
+        </paragraph>
+      </chapter>
+      <chapter>
+      <title>Europe 2020, 10 years bond profit</title>
+        <paragraph>
+          This data wants to illustrate situation of government bond 10 years profit in 2020; high profits of this bonds are surely
+          good for investors, but isn’t good for governments, because they have to pay more interests; so high profits = more risk.
+        </paragraph>
+      </chapter>
+      <graph unit="%" x="country" y="number">
+        <title>EU countries 10 years bond profit</title>
+        <dataset label="Bond rate">
+          <data x="IT" y="2.2"/>
+          <data x="ES" y="2.5"/>
+          <data x="PT" y="3.8"/>
+          <data x="FR" y="1.3"/>
+          <data x="CH" y="-0.1"/>
+          <data x="IS" y="8.6"/>
+          <data x="IE" y="1.5"/>
+          <data x="GB" y="2.7"/>
+          <data x="BE" y="1.4"/>
+          <data x="NL" y="1"/>
+          <data x="DE" y="0.7"/>
+          <data x="DK" y="1.3"/>
+          <data x="AT" y="1.2"/>
+          <data x="SI" y="2.4"/>
+          <data x="HR" y="6"/>
+          <data x="CZ" y="0.9"/>
+          <data x="SK" y="0.6"/>
+          <data x="PL" y="4.5"/>
+          <data x="HU" y="5.1"/>
+          <data x="RO" y="5.7"/>
+          <data x="BG" y="3.9"/>
+          <data x="GR" y="12.8"/>
+          <data x="RU" y="14.6"/>
+          <data x="TR" y="16.1"/>
+          <data x="LT" y="2.1"/>
+          <data x="LV" y="1.5"/>
+          <data x="FI" y="1.1"/>
+          <data x="SE" y="1.3"/>
+          <data x="NO" y="2.1"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Credit rating" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
+        <keyword name="GDP" />
+        <keyword area="National Debt" />
+      </keywords>
+      <sources>
+        <source>Dhnet.be</source>
+        <source>Tradingeconomics.com</source>
+        <source>Independent.ie</source>
+        <source>Thenews.com</source>
+        <source>Marketoracle.com</source>
+        <source>TheGuardian.com</source>
+        <source>Bloomberg.com</source>
+        <source>Marketwatch.com</source>
+        <source>Openeurope.com</source>
+      </sources>
+    </section>
+
+    <section>
+      <title>European inner circle of triple A, according to Standars and Poor’s</title>
+        <chapter>
+          <paragraph>
+            Rating agency’s Standard and Poor’s confirmed its AAA rating awarded in Denmark and Luxembourg and Sweden.
+            “The Danish economy is rich, competitive and diversified with a debt level remained “modest“. “The economy
+            of Luxembourg is based on institutions and governance”. Furthermore, Sweden have a low debt.
+          </paragraph>
+          <paragraph>
+            Here are compared some considerable data (unemployment rate, Government debt to GDP, GDP
+            growth rate and government spending to GDP) to provide an accurate economic forecast for 2020.
+            Countries taken into consideration are Luxembourg, Sweden and Denmark.
+          </paragraph>
+        </chapter>
+          <graph unit="%" x="date" y="number">
+            <title>Industrial production 2016/2020</title>
+            <dataset label="Denmark">
+              <data x="2016" y="1.3"/>
+              <data x="2020" y="0.5"/>
+            </dataset>
+            <dataset label="Luxembourg">
+              <data x="2016" y="4.8"/>
+              <data x="2020" y="5.5"/>
+            </dataset>
+            <dataset label="Sweden">
+              <data x="2016" y="4.7"/>
+              <data x="2020" y="1.8"/>
+            </dataset>
+          </graph>
+          <graph unit="%" x="date" y="number">
+            <title>Manufacturing production 2016/2020</title>
+            <dataset label="Denmark">
+              <data x="2016" y="3.3"/>
+              <data x="2020" y="5.7"/>
+            </dataset>
+            <dataset label="Luxembourg">
+              <data x="2016" y="2.7"/>
+              <data x="2020" y="1.2"/>
+            </dataset>
+            <dataset label="Sweden">
+              <data x="2016" y="6.2"/>
+              <data x="2020" y="5"/>
+            </dataset>
+          </graph>
+          <graph unit="%" x="date" y="number">
+            <title>Unemployment rate 2016/2020</title>
+            <dataset label="Denmark">
+              <data x="2016" y="4.2"/>
+              <data x="2020" y="4"/>
+            </dataset>
+            <dataset label="Luxembourg">
+              <data x="2016" y="6.3"/>
+              <data x="2020" y="5.2"/>
+            </dataset>
+            <dataset label="Sweden">
+              <data x="2016" y="7.6"/>
+              <data x="2020" y="5.1"/>
+            </dataset>
+          </graph>
+          <graph unit="%" x="date" y="number">
+            <title>Government debt to GDP 2016/2020</title>
+            <dataset label="Denmark">
+              <data x="2016" y="40"/>
+              <data x="2020" y="38"/>
+            </dataset>
+            <dataset label="Luxembourg">
+              <data x="2016" y="21"/>
+              <data x="2020" y="20"/>
+            </dataset>
+            <dataset label="Sweden">
+              <data x="2016" y="44"/>
+              <data x="2020" y="45"/>
+            </dataset>
+          </graph>
+          <graph unit="%" x="date" y="number">
+            <title>GDP growth rate 2016/2020</title>
+            <dataset label="Denmark">
+              <data x="2016" y="0.2"/>
+              <data x="2020" y="1.1"/>
+            </dataset>
+            <dataset label="Luxembourg">
+              <data x="2016" y="0.9"/>
+              <data x="2020" y="0.9"/>
+            </dataset>
+            <dataset label="Sweden">
+              <data x="2016" y="1.3"/>
+              <data x="2020" y="0.6"/>
+            </dataset>
+          </graph>
+          <graph unit="%" x="date" y="number">
+            <title>Government spending to GDP 2016/2020</title>
+            <dataset label="Denmark">
+              <data x="2016" y="56"/>
+              <data x="2020" y="57"/>
+            </dataset>
+            <dataset label="Luxembourg">
+              <data x="2016" y="21"/>
+              <data x="2020" y="20"/>
+            </dataset>
+            <dataset label="Sweden">
+              <data x="2016" y="53"/>
+              <data x="2020" y="54"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Credit rating" />
+            <keyword name="Eastern Europe" />
+            <keyword name="Western Europe" />
+            <keyword name="GDP" />
+            <keyword area="National Debt" />
+            <keyword name="Credit rating" />
+            <keyword name="Manufacturing" />
+            <keyword area="Employment" />
+          </keywords>
+          <sources>
+            <source>Dhnet.be</source>
+            <source>Tradingeconomics.com</source>
+            <source>Independent.ie</source>
+            <source>Thenews.com</source>
+            <source>Marketoracle.com</source>
+            <source>TheGuardian.com</source>
+            <source>Bloomberg.com</source>
+            <source>Marketwatch.com</source>
+            <source>Openeurope.com</source>
+          </sources>
+    </section>
+
+    <section>
+      <title>Again and again, Brexit</title>
+        <chapter>
+          <paragraph>
+            Iain Duncan Smith, who resigned as U.K. work and pensions secretary last week, denied accusations
+            his move was aimed at undermining Prime Minister and Chancellor of the Exchequer amid Conservative
+            Party divisions over the European Union ahead of June’s referendum. Population is now worried about
+            the future also because of the puond weakness this week and new CBI warnings and economic projections for 2020.
+          </paragraph>
+          </chapter>
+          <chapter>
+        <title>Warning! What about the impact?</title>
+            <paragraph>
+              Brexit from the EU could cost a billion pounds and almost a million jobs by 2020, warned CBI, it would
+              cause a “serious shock,” triggering “significant economic and political uncertainty” in the short term.
+              The CBI report looks at the economic impacts of a Brexit under two possible trade scenarios: the U.K.
+              reaches a Free Trade Agreement (FTA) with the union and can sell goods to the region without paying extra
+              tariffs, or the negotiations prove more difficult, leaving the U.K. bound to trade with the EU under the
+              World Trade Organization’s (WTO) rules. This would mean Britain could no longer enjoy tariff-free trade.
+            </paragraph>
+          </chapter>
+          <graph unit="%" x="date" y="number">
+            <title>FTA scenario</title>
+            <dataset label="Total impact on GDP">
+              <data x="2020" y="-3.2"/>
+              <data x="2025" y="-1"/>
+              <data x="2030" y="-1.2"/>
+            </dataset>
+            <dataset label="Impact on GDP per capita">
+              <data x="2020" y="-3"/>
+              <data x="2025" y="-1"/>
+              <data x="2030" y="-1"/>
+            </dataset>
+            <dataset label="Change in population">
+              <data x="2020" y="0"/>
+              <data x="2025" y="0"/>
+              <data x="2030" y="0"/>
+            </dataset>
+            <dataset label="Trade">
+              <data x="2020" y="-0.6"/>
+              <data x="2025" y="-0.5"/>
+              <data x="2030" y="-0.5"/>
+            </dataset>
+            <dataset label="Migration">
+              <data x="2020" y="-1"/>
+              <data x="2025" y="-0.9"/>
+              <data x="2030" y="-1"/>
+            </dataset>
+          </graph>
+          <graph unit="%" x="date" y="number">
+            <title>WTO scenario</title>
+            <dataset label="Total impact on GDP">
+              <data x="2020" y="-5.5"/>
+              <data x="2025" y="-4"/>
+              <data x="2030" y="-3.5"/>
+            </dataset>
+            <dataset label="Impact on GDP per capita">
+              <data x="2020" y="-5.5"/>
+              <data x="2025" y="-3.5"/>
+              <data x="2030" y="-2.8"/>
+            </dataset>
+            <dataset label="Change in population">
+              <data x="2020" y="0"/>
+              <data x="2025" y="-0.5"/>
+              <data x="2030" y="1"/>
+            </dataset>
+            <dataset label="Trade">
+              <data x="2020" y="-1.5"/>
+              <data x="2025" y="-2"/>
+              <data x="2030" y="-2.3"/>
+            </dataset>
+            <dataset label="Migration">
+              <data x="2020" y="-1.5"/>
+              <data x="2025" y="-1.5"/>
+              <data x="2030" y="-1.6"/>
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Migration" />
+            <keyword name="Import/Export" />
+            <keyword name="Western Europe" />
+            <keyword name="GDP" />
+            <keyword area="Brexit/Grexit" />
+          </keywords>
+          <sources>
+            <source>Dhnet.be</source>
+            <source>Tradingeconomics.com</source>
+            <source>Independent.ie</source>
+            <source>Thenews.com</source>
+            <source>Marketoracle.com</source>
+            <source>TheGuardian.com</source>
+            <source>Bloomberg.com</source>
+            <source>Marketwatch.com</source>
+            <source>Openeurope.com</source>
+          </sources>
+        </section>
+
+        <section>
+          <title>The pound weakens</title>
+            <chapter>
+              <paragraph>
+                The pound sunk on renewed worries about the threat of Brexit after the Confederation of British Industry
+                issued a warning about the potential fallout. Separately, investors were considering the potential fallout
+                from the resignation of British work and pensions secretary Iain Duncan Smith over the weekend.
+              </paragraph>
+            </chapter>
+            <graph unit="USD" x="date" y="number">
+              <title>GBP | USD Change 21st Mar | 25th Mar</title>
+              <dataset label="Dollar value">
+                <data x="20160321" y="1.448"/>
+                <data x="20160322" y="1,438"/>
+                <data x="20160323" y="1,4227"/>
+                <data x="20160324" y="1,409"/>
+                <data x="20160325" y="1.415"/>
+              </dataset>
+            </graph>
+            <keywords>
+              <keyword name="Currencies" />
+              <keyword name="Investments" />
+              <keyword name="Western Europe" />
+              <keyword area="Brexit/Grexit" />
+            </keywords>
+            <sources>
+              <source>Dhnet.be</source>
+              <source>Tradingeconomics.com</source>
+              <source>Independent.ie</source>
+              <source>Thenews.com</source>
+              <source>Marketoracle.com</source>
+              <source>TheGuardian.com</source>
+              <source>Bloomberg.com</source>
+              <source>Marketwatch.com</source>
+              <source>Openeurope.com</source>
+            </sources>
+            </section>
+
+      <section>
+        <title>Warning! Million jobs lost</title>
+          <chapter>
+            <paragraph>
+              Employment would also take a hit in the years after a Brexit, the report forecast. In the first three
+              to four years following a departure, the unemployment rate could jump to 8%, compared with 5% under
+              the stay-in scenario, it said. Talking about real numbers by 2020, the overall cost to the economy
+              could be as much as £100 billion and 950,000 jobs: situation maybe will be a little better in 2030.
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Employment" />
+            <keyword name="Millennials (1981–2000)" />
+            <keyword name="Western Europe" />
+            <keyword area="Generation X (1965–1980)" />
+            <keyword name="Working class" />
+            <keyword area="Brexit/Grexit" />
+          </keywords>
+          <sources>
+            <source>Dhnet.be</source>
+            <source>Tradingeconomics.com</source>
+            <source>Independent.ie</source>
+            <source>Thenews.com</source>
+            <source>Marketoracle.com</source>
+            <source>TheGuardian.com</source>
+            <source>Bloomberg.com</source>
+            <source>Marketwatch.com</source>
+            <source>Openeurope.com</source>
+          </sources>
+        </section>
+
+        <section>
+          <quote>
+            <author>Matthew Elliott</author>
+            <text>
+              Vote
+              Leave chief executive Matthew Elliott criticized the CBI for using “deeply pessimistic” assumptions in
+              its report and said the U.K. economy would continue to expand after an exit.
+            </text>
+          </quote>
+          <keywords>
+            <keyword name="Import/Export" />
+            <keyword name="GDP" />
+            <keyword name="Western Europe" />
+            <keyword area="Taxes" />
+            <keyword area="Brexit/Grexit" />
+          </keywords>
+          <sources>
+            <source>Dhnet.be</source>
+            <source>Tradingeconomics.com</source>
+            <source>Independent.ie</source>
+            <source>Thenews.com</source>
+            <source>Marketoracle.com</source>
+            <source>TheGuardian.com</source>
+            <source>Bloomberg.com</source>
+            <source>Marketwatch.com</source>
+            <source>Openeurope.com</source>
+          </sources>
+        </section>
+
+        <section>
+          <title>The opposition says that CBI is too pessimistic</title>
+          <chapter>
+            <paragraph>
+            The main Brexit campaign group, “Vote Leave,” argues the U.K. has lost control over vital policies and
+            would be better off not sending £350 million every week in financial contributions to the union. Vote
+            Leave chief executive Matthew Elliott criticized the CBI for using “deeply pessimistic” assumptions in
+            its report and said the U.K. economy would continue to expand after an exit. Opposition says that there
+            are not only negative perspectives but also positive consequences on GDP in 2030, according to Cuirack
+            Consulting. However, they are maybe a little bit to optimistic if we see the projections.
+          </paragraph>
+        </chapter>
+        <graph unit="string" x="string" y="number">
+          <title>Impact of Brexit on UK GDP | 2030</title>
+          <dataset label="Brexit worst case">
+            <data x="min" y="-2,2"/>
+            <data x="max" y="-0,8"/>
+          </dataset>
+          <dataset label="Politically realistic range">
+            <data x="min" y="-0.8"/>
+            <data x="max" y="0.6"/>
+          </dataset>
+          <dataset label="Brexit best case">
+            <data x="min" y="0.6"/>
+            <data x="max" y="1.5"/>
+          </dataset>
+        </graph>
+        <keywords>
+          <keyword name="Import/Export" />
+          <keyword name="GDP" />
+          <keyword name="Western Europe" />
+          <keyword area="Taxes" />
+          <keyword area="Brexit/Grexit" />
+        </keywords>
+        <sources>
+          <source>Dhnet.be</source>
+          <source>Tradingeconomics.com</source>
+          <source>Independent.ie</source>
+          <source>Thenews.com</source>
+          <source>Marketoracle.com</source>
+          <source>TheGuardian.com</source>
+          <source>Bloomberg.com</source>
+          <source>Marketwatch.com</source>
+          <source>Openeurope.com</source>
+        </sources>
+    </section>
+
+    <section>
+      <title>Well, that didn’t work</title>
+        <chapter>
+          <paragraph>
+            The BoJ and ECB recently launched some measures for currency devaluation in the sense
+            that money printing and lower interest rates generally cause the offending country currency,
+            sending its exchange rate down versus those of its trading partners. Well, that didn’t work.
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>Expectation vs Reality</title>
+            <paragraph>
+              This was what they were hoping for: weaker currencies to boost their export and make their
+              insanely-large debt more manageable. Instead, they both have popped versus the dollar, which
+              means exports have gotten more expensive and both systems debt loads are now harder to manage.
+            </paragraph>
+          </chapter>
+          <graph unit="USD" x="date" y="number">
+            <title>EUR | USD exchange 14th Mar | 20th Mar</title>
+            <dataset label="Dollar value">
+              <data x="20160314" y="1.117"/>
+              <data x="20160315" y="1.117"/>
+              <data x="20160316" y="1.118"/>
+              <data x="20160317" y="1.113"/>
+              <data x="20160318" y="1.113"/>
+              <data x="20160319" y="1.125"/>
+              <data x="20160320" y="1.135"/>
+            </dataset>
+          </graph>
+          <graph unit="USD" x="date" y="number">
+            <title>JPY | USD exchange 14th Mar | 20th Mar</title>
+            <dataset label="Dollar value">
+              <data x="20160314" y="0.00881"/>
+              <data x="20160315" y="0.00881"/>
+              <data x="20160316" y="0.00881"/>
+              <data x="20160317" y="0.00882"/>
+              <data x="20160318" y="0.00884"/>
+              <data x="20160319" y="0.00892"/>
+              <data x="20160320" y="0.00902"/>
+            </dataset>
+          </graph>
+          <chapter>
+          <title>Japan yields are too bad</title>
+            <paragraph>
+              And it gets worse for Japan: Japan’s yield curve has inverted,after the central bank’s operation to buy
+              long-term debt met the lowest investor participation on record. This is, typically, a harbinger of recession.
+            </paragraph>
+          </chapter>
+            <graph unit="%" x="date" y="number">
+                <title>Japan 10-year yield</title>
+                  <dataset label="Yield value">
+                    <data x="20150430" y="0.37"/>
+                    <data x="20150531" y="0.4"/>
+                    <data x="20150630" y="0.5"/>
+                    <data x="20150731" y="0.52"/>
+                    <data x="20150831" y="0.41"/>
+                    <data x="20150930" y="0.39"/>
+                    <data x="20151031" y="0.36"/>
+                    <data x="20151130" y="0.29"/>
+                    <data x="20151231" y="0.3"/>
+                    <data x="20160131" y="0.27"/>
+                    <data x="20160229" y="0.22"/>
+                    <data x="20160331" y="-0.18"/>
+                  </dataset>
+                </graph>
+                <keywords>
+                  <keyword name="Eastern Europe" />
+                  <keyword name="Western Europe" />
+                  <keyword name="Central and Eastern Asia" />
+                  <keyword area="Unconventional Monetary Policies" />
+                  <keyword area="Currencies" />
+                </keywords>
+                <sources>
+                  <source>Dhnet.be</source>
+                  <source>Tradingeconomics.com</source>
+                  <source>Independent.ie</source>
+                  <source>Thenews.com</source>
+                  <source>Marketoracle.com</source>
+                  <source>TheGuardian.com</source>
+                  <source>Bloomberg.com</source>
+                  <source>Marketwatch.com</source>
+                  <source>Openeurope.com</source>
+                </sources>
+              </section>
+
+            </sections>
+          </bulletin>
+        </bulletins>

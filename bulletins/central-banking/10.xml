@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins group="centralbanking">
+  <title>OH! G.O.D.</title>
+  <subtitle>Governors Of Demand</subtitle>
+  <authors>
+    <author>Giulia Fracas</author>
+    <author>Francesca Polini</author>
+  </authors>
+  <bulletin id="10" date="20160514">
+    <title>Global Debt and Gold Reserves</title>
+    <sections>
+      <section>
+        <title>Apocalypse Now</title>
+        <chapter>
+          <title>Countries with higher debt</title>
+          <paragraph>Although, central banks monetary policy decisions, the global economy is going very bad. The situation is uncontrollable: world public debt weight a lot on the economy, the same is inflation and money volatility. Central banks is worried about it, but what could they do for making better this gravity state? Maybe, their control is limited and they can’t predict everything.</paragraph>
+          <paragraph>
+            <list type="unordered">
+              <item>CA</item>
+              <item>US</item>
+              <item>MX</item>
+              <item>BR</item>
+              <item>ES</item>
+              <item>FR</item>
+              <item>GB</item>
+              <item>IT</item>
+              <item>DE</item>
+              <item>DK</item>
+              <item>NL</item>
+              <item>AT</item>
+              <item>CH</item>
+              <item>GR</item>
+              <item>JP</item>
+              <item>AU</item>
+              <item>IN</item>
+              <item>CN</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <keywords>
+        <keyword name="National Debt" />
+        <keyword name="In poverty" />
+      </keywords>
+      <sources>
+        <source>economist.com</source>
+      </sources>
+      </section>
+      <section>
+        <title>Europe economic situation in red</title>
+        <chapter>
+          <title>The debt in Europe</title>
+          <paragraph>Private and public sector debt is high in a substantial amount of European countries. The majority of eurozone countries, have breached the EU criterion that public debt should not exceed 60% of GDP. Most countries have also triggered an alert in the Union’s macroeconomic imbalances procedure with private debt ratios above 130% of GDP.</paragraph>
+          <paragraph>High levels of gross debt tend to harm economic growth and may generate financial crisis. High debt level often precedes financial crises, with sometimes long-term negative effects on economic growth and employment.</paragraph>
+        </chapter>
+        <keywords>
+        <keyword name="National Debt" />
+        <keyword name="In poverty" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
+      </keywords>
+      <sources>
+        <source>economics.rabobank.com</source>
+      </sources>
+      </section>
+      <section>
+        <title>The worst country is..</title>
+        <graph unit="%" x="string" y="number">
+          <title>Greece Debt</title>
+          <dataset label= "Debt">
+            <data x="Greek" y="147.1"/>
+          </dataset>
+        </graph>
+        <chapter>
+          <title>Greek the worst country in debt</title>
+          <paragraph>In 2009 when the global financial crisis struck, the rickety structure of Greece economy collapsed. Greece’s GDP shrank by 4.7% and the deficit ballooned to over 12% of GDP. After ECB helps programmes the situation is practically the same with serious problems for families and companies.</paragraph>
+        </chapter>
+        <table>
+          <row type="head">
+            <cell>Year</cell>
+            <cell>Event</cell>
+          </row>
+          <row type="cell">
+            <cell>2009</cell>
+            <cell>Global financial crisis</cell>
+          </row>
+          <row type="cell">
+            <cell>2010</cell>
+            <cell>First bailout in April of €110 billions</cell>
+          </row>
+          <row type="cell">
+            <cell>2012</cell>
+            <cell>Second bailout in February of €130 billions</cell>
+          </row>
+          <row type="cell">
+            <cell>2016</cell>
+            <cell>May 24th another bailout request?</cell>
+          </row>
+        </table>
+        <graph unit="EUR" x="string" y="number">
+          <title>Where did money go?</title>
+          <abstract>The distribution of bailouts money</abstract>
+          <dataset label= "Distribution of bailouts billion money">
+            <data x="For the State" y="9.7"/>
+            <data x="For banks" y="37"/>
+            <data x="For paying interest" y="52"/>
+            <data x="For loans" y="86"/>
+            </dataset>
+        </graph>
+        <keywords>
+        <keyword name="National Debt" />
+        <keyword name="In poverty" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Grexit" />
+      </keywords>
+      <sources>
+        <source>investopedia.com</source>
+        <source>sputniknews.com</source>
+        <source>economist.com</source>
+      </sources>
+      </section>
+      <section>
+        <title>ECB Haircut</title>
+        <chapter>
+          <title>ECB measures for Greek</title>
+          <paragraph>ECB measures , called “haircut” impose to Greece governor cause a lot of negative effects to Greece population and also to the investors.</paragraph>
+        </chapter>
+        <graph unit="%" x="string" y="number">
+          <title>The consequences of ECB measures</title>
+          <dataset label= "Capitals lost">
+            <data x="Investors and private" y="70"/>
+          </dataset>
+        </graph>
+        <chapter>
+          <title>Greek needs less debt</title>
+          <paragraph>In the first bailout International Monetary Fund cut Greece debt of 100 billion euros. But this is not so much for the Greece financial crisis, in fact they will ask another debt cut in the next meeting, because the situation is difficult.</paragraph>
+        </chapter>
+        <keywords>
+        <keyword name="National Debt" />
+        <keyword name="In poverty" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Grexit" />
+        <keyword name="Governance" />
+        <keyword name="Global Corporation" />
+      </keywords>
+      <sources>
+        <source>investopedia.com</source>
+        <source>sputniknews.com</source>
+        <source>ilsole24ore.com</source>
+        <source>ecb.europa.eu</source>
+      </sources>
+      </section>
+      <section>
+        <title>WEEKLY NEWS</title>
+        <chapter>
+          <title>Judgment Day</title>
+          <paragraph>On 24th May, Greece governor has to give first tranche of money back to Europe for helping during the financial crisis.</paragraph>
+        </chapter>
+        <chapter>
+          <title>ELA is a real help?</title>
+          <paragraph>Emergency liquidity assistance means institutions can receive central bank credit through emergency liquidity assistance. Greece central bank receives 59.5 billion euros, but this is not for free, in fact the interst is 1.55% instead of 0.05%.</paragraph>
+        </chapter>
+        <graph unit="%" x="date" y="number">
+          <title>Greece Unemployment Rate</title>
+          <abstract>Thanks to the financial crisis and the debt, also the unemployment is growing up</abstract>
+          <dataset label= "Unemployment Rate">
+            <data x="201603" y="24.75"/>
+            <data x="201604" y="25"/>
+            <data x="201605" y="2.5"/>
+          </dataset>
+        </graph>
+        <chapter>
+          <title>Current Greece situation</title>
+          <paragraph>
+            <list type="unordered">
+              <item>On April GDP was negative, around -0.8%.</item>
+              <item>Governor cut the retirement benefits that passed €384.</item>
+              <item>They increased VAT, and now it is 24%.</item>
+              <item>Also they incresed taxes salaries for theese passed €745.</item>
+            </list>
+          </paragraph>
+        </chapter>
+        <keywords>
+        <keyword name="Unemployment" />
+        <keyword name="In poverty" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Grexit" />
+        <keyword name="GDP" />
+        <keyword name="Governance" />
+      </keywords>
+      <sources>
+        <source>contropiano.org</source>
+        <source>sputniknews.com</source>
+        <source>investopedia.com</source>
+        <source>ycharts.com</source>
+        <source>euronews.com</source>
+      </sources>
+      </section>
+      <section>
+        <title>Who is the next in crisis?</title>
+        <graph unit="%" x="string" y="number">
+          <title>Italy Debt</title>
+          <dataset label= "Debt">
+            <data x="Italy" y="122.6"/>
+          </dataset>
+        </graph>
+        <chapter>
+          <title>Italian situation</title>
+          <paragraph>Also, in Italy the debt continues to grow up, and this should be an alert for the population that is ina grave economic situation. In fact, the debt amount around 2,171.671 billions. The debt causes a lot of other problems like the poverty and the cut of retirement benefits and welfare benefits.</paragraph>
+        </chapter>
+        <graph unit="%" x="string" y="number">
+          <title>The debt distribution in Italy</title>
+          <dataset label= "Debt">
+            <data x="North" y="4.2"/>
+            <data x="Center" y="4.8"/>
+            <data x="South" y="8.6"/>
+          </dataset>
+        </graph>
+        <keywords>
+        <keyword name="National Debt" />
+        <keyword name="In poverty" />
+        <keyword name="Western Europe" />
+      </keywords>
+      <sources>
+        <source>sputniknews.com</source>
+      </sources>
+      </section>
+    </sections>
+  </bulletin>
+</bulletins>

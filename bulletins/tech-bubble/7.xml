@@ -1,5 +1,6 @@
 <bulletins>
   <title>Bursting Unicorns</title>
+  <subtitle>#visualizingthecrisis</subtitle>
   <authors>
     <author>Elisa Bianchi</author>
     <author>Francesca Luzi</author>
@@ -68,7 +69,7 @@
                 3th trend is an increasingly favorable regulatory environment.</paragraph>
               </chapter>
               <quote>
-                <author></author>
+                <author>cbinsights.com</author>
                 <text>April 14th, 2016: iCarbonX becomes China’s first biotech unicorn.</text>
               </quote>
               <graph unit="B$" x="date" y="number">
@@ -129,7 +130,7 @@
                     While 22% of that funding was directed to the insurance upstarts,
                     the remaining funding was distributed in increasingly mature rounds.</paragraph>
                   </chapter>
-                  <graph unit="B$" x="date" y="number">
+                  <graph unit="B$" x="string" y="number">
                     <title>Digital health funding</title>
                     <dataset label= "2013">
                       <data x="Jan" y="0.33"/>
@@ -254,7 +255,7 @@
                       of 2016. The last time that happened was in the first quarter of 2009,
                       during the depths of the Great Recession.</paragraph>
                     </chapter>
-                    <graph unit="B$" x="date" y="number">
+                    <graph unit="B$" x="string" y="number">
                       <dataset label= "Deal value">
                         <data x="Q1_2007" y="2"/>
                         <data x="Q2_2007" y="3"/>
@@ -321,44 +322,44 @@
                         </chapter>
                         <graph x="date" y="number">
                           <dataset label= "VIX">
-                            <data x="Jan '09" y="79"/>
-                            <data x="Jun '09" y="24"/>
-                            <data x="Jan '10" y="18"/>
-                            <data x="Jun '10" y="40"/>
-                            <data x="Jan '11" y="15"/>
-                            <data x="Jun '11" y="16"/>
-                            <data x="Jan '12" y="18"/>
-                            <data x="Jun '12" y="16"/>
-                            <data x="Jan '13" y="12"/>
-                            <data x="Jun '13" y="12"/>
-                            <data x="Jan '14" y="13"/>
-                            <data x="Jun '14" y="11"/>
-                            <data x="Jan '15" y="20"/>
-                            <data x="Jun '15" y="16"/>
-                            <data x="Jan '16" y="28"/>
+                            <data x="200901" y="79"/>
+                            <data x="200906" y="24"/>
+                            <data x="201001" y="18"/>
+                            <data x="201006" y="40"/>
+                            <data x="201101" y="15"/>
+                            <data x="201106" y="16"/>
+                            <data x="201201" y="18"/>
+                            <data x="201206" y="16"/>
+                            <data x="201301" y="12"/>
+                            <data x="201306" y="12"/>
+                            <data x="201401" y="13"/>
+                            <data x="201406" y="11"/>
+                            <data x="201501" y="20"/>
+                            <data x="201506" y="16"/>
+                            <data x="201601" y="28"/>
                           </dataset>
                         </graph>
                         <graph x="date" y="number">
                           <dataset label= "SeP 500">
-                            <data x="Jan '09" y="1,200"/>
-                            <data x="Jun '09" y="1,300"/>
-                            <data x="Jan '10" y="1,350"/>
-                            <data x="Jun '10" y="1,200"/>
-                            <data x="Jan '11" y="1,450"/>
-                            <data x="Jun '11" y="1,300"/>
-                            <data x="Jan '12" y="1,500"/>
-                            <data x="Jun '12" y="1,600"/>
-                            <data x="Jan '13" y="1,650"/>
-                            <data x="Jun '13" y="1,700"/>
-                            <data x="Jan '14" y="1,800"/>
-                            <data x="Jun '14" y="1,900"/>
-                            <data x="Jan '15" y="1,950"/>
-                            <data x="Jun '15" y="1,850"/>
-                            <data x="Jan '16" y="1,800"/>
+                            <data x="200901" y="1,200"/>
+                            <data x="200906" y="1,300"/>
+                            <data x="201001" y="1,350"/>
+                            <data x="201006" y="1,200"/>
+                            <data x="201101" y="1,450"/>
+                            <data x="201106" y="1,300"/>
+                            <data x="201201" y="1,500"/>
+                            <data x="201206" y="1,600"/>
+                            <data x="201301" y="1,650"/>
+                            <data x="201306" y="1,700"/>
+                            <data x="201401" y="1,800"/>
+                            <data x="201406" y="1,900"/>
+                            <data x="201501" y="1,950"/>
+                            <data x="201506" y="1,850"/>
+                            <data x="201601" y="1,800"/>
                           </dataset>
                         </graph>
                         <quote>
-                          <author></author>
+                          <author>ilsole24ore.com</author>
                           <text>The VIX Index also predicts terrorist attacks(?)</text>
                         </quote>
                         <keywords>
@@ -383,7 +384,7 @@
                       <section>
                         <title>Start-ups funding is slowing</title>
                         <chapter>
-                          <title>Strart-ups funding in USA</title>
+                          <title>Start-ups funding in USA</title>
                           <paragraph>For a long time, it felt like Silicon Valley
                             was the only place to build a successful startup. Now, dozens of other cities
                             are getting in on the game. Yes, the Bay Area, New York, and Boston remain
@@ -450,40 +451,40 @@
                             <title>Investors are slashing start-up valuations</title>
                             <abstract>The mutual fund T.Rowemarksdown(and up)
                               for private tech companies (changing in share price valuation)</abstract>
-                              <dataset label= "valuation">
-                                <data x="Uber" y="-6" />
-                                <data x="Airbnb" y="-6" />
-                                <data x="Domo" y="-9.1" />
-                                <data x="Flipkart" y="-15.1" />
-                                <data x="Dropbox" y="-15.9" />
-                                <data x="MongoDB" y="-23.4" />
-                                <data x="Cloudera" y="-36.7" />
-                                <data x="Evernote" y="-75.7" />
-                                <data x="Wework" y="+14.5" />
-                              </dataset>
-                            </graph>
-                            <keywords>
-                              <keyword name="Start-ups"/>
-                              <keyword name="Central and Eastern Asia"/>
-                              <keyword name="Tech"/>
-                              <keyword name="North America"/>
-                              <keyword name="Investments"/>
-                              <keyword name="Tourism"/>
-                              <keyword name="Transportation"/>
-                              <keyword name="Commerce"/>
-                              <keyword name="Commerce"/>
-                              <keyword name="Commerce"/>
-                            </keywords>
-                            <sources>
-                              <source>bloomberg.com</source>
-                              <source>cbinsights.com</source>
-                              <source>ilsole24ore.com</source>
-                              <source>money.cnn.com</source>
-                              <source>startuphealth.ca</source>
-                              <source>techcrunch.com</source>
-                              <source>wsj.com</source>
-                            </sources>
-                          </section>
-                        </sections>
-                      </bulletin>
-                    </bulletins>
+                                <dataset label= "valuation">
+                                  <data x="Uber" y="-6" />
+                                  <data x="Airbnb" y="-6" />
+                                  <data x="Domo" y="-9.1" />
+                                  <data x="Flipkart" y="-15.1" />
+                                  <data x="Dropbox" y="-15.9" />
+                                  <data x="MongoDB" y="-23.4" />
+                                  <data x="Cloudera" y="-36.7" />
+                                  <data x="Evernote" y="-75.7" />
+                                  <data x="Wework" y="+14.5" />
+                                </dataset>
+                              </graph>
+                              <keywords>
+                                <keyword name="Start-ups"/>
+                                <keyword name="Central and Eastern Asia"/>
+                                <keyword name="Tech"/>
+                                <keyword name="North America"/>
+                                <keyword name="Investments"/>
+                                <keyword name="Tourism"/>
+                                <keyword name="Transportation"/>
+                                <keyword name="Commerce"/>
+                                <keyword name="Commerce"/>
+                                <keyword name="Commerce"/>
+                              </keywords>
+                              <sources>
+                                <source>bloomberg.com</source>
+                                <source>cbinsights.com</source>
+                                <source>ilsole24ore.com</source>
+                                <source>money.cnn.com</source>
+                                <source>startuphealth.ca</source>
+                                <source>techcrunch.com</source>
+                                <source>wsj.com</source>
+                              </sources>
+                            </section>
+                          </sections>
+                        </bulletin>
+                      </bulletins>

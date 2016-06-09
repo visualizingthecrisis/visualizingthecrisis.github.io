@@ -1,5 +1,6 @@
 <bulletins>
   <title>Bursting Unicorns</title>
+  <subtitle>#visualizingthecrisis</subtitle>
   <authors>
     <author>Elisa Bianchi</author>
     <author>Francesca Luzi</author>
@@ -74,7 +75,7 @@
                     <data x="2014" y="12"/>
                     <data x="2015" y="8"/>
                     <data x="2016" y="2"/>
-                    <data x="Mar2016" y="3.9"/>
+                    <data x="201603" y="3.9"/>
                   </dataset>
                 </graph>
                 <graph unit="%" x="string" y="percentage">
@@ -165,7 +166,7 @@
                           <source>bloomberg.com</source>
                           <source>qz.com</source>
                           <source>wsj.com</source>
-                          <source>cbinsights</source>
+                          <source>cbinsights.com</source>
                         </sources>
                       </section>
                       <section>
@@ -183,7 +184,7 @@
                               and Silicon Valley is tagging along for the ride.</paragraph>
                             </chapter>
                             <quote>
-                              <author></author>
+                              <author>bloomberg.com</author>
                               <text>March 22th 2016, President Obama is in Cuba, and Silicon Valley
                                 is tagging along for the ride.</text>
                               </quote>
@@ -271,7 +272,7 @@
                                 <source>bloomberg.com</source>
                                 <source>qz.com</source>
                                 <source>wsj.com</source>
-                                <source>cbinsights</source>
+                                <source>cbinsights.com</source>
                               </sources>
                             </section>
                             <section>
@@ -316,7 +317,7 @@
                                       <source>bloomberg.com</source>
                                       <source>qz.com</source>
                                       <source>wsj.com</source>
-                                      <source>cbinsights</source>
+                                      <source>cbinsights.com</source>
                                     </sources>
                                   </section>
                                   <section>
@@ -351,7 +352,7 @@
                                           <source>bloomberg.com</source>
                                           <source>qz.com</source>
                                           <source>wsj.com</source>
-                                          <source>cbinsights</source>
+                                          <source>cbinsights.com</source>
                                         </sources>
                                       </section>
                                       <section>
@@ -376,11 +377,11 @@
                                                 is the roaming offered by the US company Verizon.</paragraph>
                                               </chapter>
                                               <graph unit="%" x="string" y="percentage">
-                                                <dataset label= "internet access">
-                                                  <data x="Cubans have the web access" y="30"/>
-                                                  <data x="Cubans online" y="4"/>
-                                                  <data x="Cubans have boardrand connections" y="0.05"/>
-                                                  <data x="Cubans haven't the web access" y="65.95"/>
+                                                <dataset label= "Internet access in Cuba">
+                                                  <data x="Have the web access" y="30"/>
+                                                  <data x="Are online" y="4"/>
+                                                  <data x="Have boardrand connections" y="0.05"/>
+                                                  <data x="Haven't the web access" y="65.95"/>
                                                 </dataset>
                                               </graph>
                                               <keywords>
@@ -395,7 +396,7 @@
                                                 <source>bloomberg.com</source>
                                                 <source>qz.com</source>
                                                 <source>wsj.com</source>
-                                                <source>cbinsights</source>
+                                                <source>cbinsights.com</source>
                                               </sources>
                                             </section>
                                           </sections>

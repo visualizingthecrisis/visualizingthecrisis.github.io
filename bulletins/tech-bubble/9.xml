@@ -1,5 +1,6 @@
 <bulletins>
   <title>Bursting Unicorns</title>
+  <subtitle>#visualizingthecrisis</subtitle>
   <authors>
     <author>Elisa Bianchi</author>
     <author>Francesca Luzi</author>
@@ -52,7 +53,7 @@
           </sources>
         </section>
         <section>
-          <title>Elon Musk: the "Godfather" of Silicon Valley</title>
+          <title>Elon Musk: the "godfather" of Silicon Valley</title>
           <chapter>
             <paragraph>Why Apple should buy Tesla and appoint Elon Musk as CEO?
               Apple needs another Steve Jobs to reinvent itself and a combination of
@@ -469,7 +470,7 @@
                   In the first quarter of 2016, sales of ping-pong tables dropped.
                   In the same period, venture capital funding of startups dropped by a quarter.</paragraph>
                 </chapter>
-                <graph x="date" y="number">
+                <graph x="string" y="number">
                   <dataset label= "Ping Pong table sold">
                     <data x="Q3_2014" y="120"/>
                     <data x="Q4_2014" y="240"/>
@@ -523,7 +524,7 @@
                         for free via the networks of local operators that have partnered with Facebook.</paragraph>
                       </chapter>
                       <quote>
-                        <author></author>
+                        <author>bloomberg.com</author>
                         <text>TRA India: Prohibition of Discriminatory Tariffs for Data Services Regulations 2016</text>
                       </quote>
                       <graph unit="%" x="string" y="percentage">
@@ -565,7 +566,7 @@
                                       <text>"Tonight, a Brazilian judge blocked WhatsApp for more than 100 million people who rely
                                         on it in her country.(...) This is a sad day for Brazil."</text>
                                       </quote>
-                                      <graph x="date" y="number">
+                                      <graph x="string" y="number">
                                         <title>Telegram boost</title>
                                         <dataset label= "Messages daily in Brazil in 2016">
                                           <data x="Jul" y="50"/>

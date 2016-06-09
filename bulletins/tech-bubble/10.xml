@@ -1,5 +1,6 @@
 <bulletins>
   <title>Bursting Unicorns</title>
+  <subtitle>#visualizingthecrisis</subtitle>
   <authors>
     <author>Elisa Bianchi</author>
     <author>Francesca Luzi</author>
@@ -49,6 +50,7 @@
             <source>techcrunch.com</source>
             <source>tech.eu</source>
             <source>uk.businessinside.com</source>
+            <source>ilsole24ore.com</source>
           </sources>
         </section>
         <section>
@@ -57,7 +59,7 @@
             <paragraph>As challenges mount, unicorn births have given way to a rash
               of downrounds and down exits. First quarter of 2016 saw several downrounds as well as down exits.</paragraph>
             </chapter>
-            <graph x="date" y="number">
+            <graph x="string" y="number">
               <dataset label= "DownRounds and Down Exits">
                 <data x="Q1_2015" y="9"/>
                 <data x="Q2_2015" y="6"/>
@@ -73,7 +75,7 @@
                 <data x="Q1_2016" y="5"/>
               </dataset>
             </graph>
-            <graph x="date" y="number">
+            <graph x="string" y="number">
               <title>DownRounds by industry</title>
               <dataset label="Software">
                 <data x="Q3_2014" y="5"/>
@@ -126,6 +128,7 @@
               <source>techcrunch.com</source>
               <source>tech.eu</source>
               <source>uk.businessinside.com</source>
+              <source>ilsole24ore.com</source>
             </sources>
           </section>
           <section>
@@ -164,6 +167,7 @@
                   <source>techcrunch.com</source>
                   <source>tech.eu</source>
                   <source>uk.businessinside.com</source>
+                  <source>ilsole24ore.com</source>
                 </sources>
               </section>
               <section>
@@ -203,8 +207,8 @@
                         </dataset>
                       </graph>
                       <quote>
-                        <author></author>
-                        <text>the innovation isn’t uniform between the various European countries.</text>
+                        <author>ilsole24ore.com</author>
+                        <text>The innovation isn’t uniform between the various European countries.</text>
                       </quote>
                       <graph x="date" y="number">
                         <title>Innovation's european gaps</title>
@@ -280,6 +284,7 @@
                             <source>techcrunch.com</source>
                             <source>tech.eu</source>
                             <source>uk.businessinside.com</source>
+                            <source>ilsole24ore.com</source>
                           </sources>
                         </section>
                         <section>
@@ -318,6 +323,7 @@
                                 <source>techcrunch.com</source>
                                 <source>tech.eu</source>
                                 <source>uk.businessinside.com</source>
+                                <source>ilsole24ore.com</source>
                               </sources>
                             </section>
                           </sections>

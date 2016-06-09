@@ -1,8 +1,8 @@
 <bulletin id="issue 3" date="20160319">
   <sections>
     <section>
+      <title>UK Unemployment Rate</title>
       <graph unit="%" x="date" y="number">
-        <title>UK Unemployment Rate</title>
         <dataset label="">
           <data x="20150131" y="5.7" />
           <data x="20150228" y="5.6" />
@@ -38,7 +38,7 @@
           <data x="2025" y="335"/>
         </dataset>
       </graph>
-      <graph unit="" x="location" y="number">
+      <graph unit="" x="string" y="number">
         <title>Ranking of the Top 20 Cities for Number of Sharing Economy Companies</title>
         <dataset label= "">
           <data x="S. Francisco_US" y="131"/>
@@ -116,11 +116,13 @@
       </quote>
       <chapter>
         <title>Airbnb In London</title>
+        <paragraph>
         <list type="unordered">
           <item>Hosts: 25361</item>
           <item>Average price per night: £101</item>
           <item>Average income per month: £746</item>
         </list>
+      </paragraph>
       </chapter>
       <graph unit="%" x="string" y="percentage">
         <title>Types of Airbnb Properties</title>
@@ -170,10 +172,10 @@
       </sources>
     </section>
     <section>
-      <chapter>
         <title>Dogvacacy</title>
-        <paragraph>It connects petowners withover 20,000 petsitters.</paragraph>
-      </chapter>
+        <abstract>
+          It connects petowners withover 20,000 petsitters.
+        </abstract>
       <keywords>
         <keyword name="Start-ups" />
         <keyword name="Sharing Economy" />
@@ -195,10 +197,10 @@
       </sources>
     </section>
     <section>
-      <chapter>
         <title>Property Partner</title>
-        <paragraph>It reinvents the proprety market. It's a property crowdfunding platform launched just a year ago with more than 7,000 customers who have collectively invested around £30 million across 184 properties.</paragraph>
-      </chapter>
+        <abstract>
+          It reinvents the proprety market. It's a property crowdfunding platform launched just a year ago with more than 7,000 customers who have collectively invested around £30 million across 184 properties.
+        </abstract>
       <keywords>
         <keyword name="Investments" />
         <keyword name="Start-ups" />
@@ -222,10 +224,10 @@
       </sources>
     </section>
     <section>
-      <chapter>
         <title>Take a Ride in Bangkok</title>
-        <paragraph>Uber has just launch UberMOTO in Thailand, where 87% of households own a motorcycle or a scooter.</paragraph>
-      </chapter>
+        <abstract>
+          Uber has just launch UberMOTO in Thailand, where 87% of households own a motorcycle or a scooter.
+        </abstract>
       <keywords>
         <keyword name="Middle East and Western Asia" />
         <keyword name="Start-ups" />
@@ -344,6 +346,8 @@
         <keyword name="Loans" />
         <keyword name="Housing and Real Estate" />
         <keyword name="Transportation" />
+        <keyword name="Education" />
+        <keyword name="Healthcare" />
       </keywords>
       <sources>
         <source>ag.ny.gov</source>
@@ -363,9 +367,12 @@
     </section>
     <section>
       <title>"Share-the-Scraps Economy": the Dark Side of Collaborative Consumption</title>
+      <abstract>
+        This is the economy we’re now barreling toward. They’re Uber drivers, Instacart shoppers, and Airbnb hosts. They include Taskrabbit jobbers, Upcounsel’s on-demand attorneys, and Healthtap’s on-line doctors. The euphemism is the “share” economy. A more accurate term would be the “share-the-scraps” economy. New software technologies are allowing almost any job to be divided up into discrete tasks that can be parceled out to workers when they’re needed, with pay determined by demand for that particular job at that particular moment. Customers and workers are matched online. Workers are rated on quality and reliability.
+      </abstract>
       <quote>
-        <author>Robert Reich, one of the nation’s leading experts on work and the economy</author>
-        <text>Brace yourself. This is the economy we’re now barreling toward. They’re Uber drivers, Instacart shoppers, and Airbnb hosts. They include Taskrabbit jobbers, Upcounsel’s on-demand attorneys, and Healthtap’s on-line doctors. (...) The euphemism is the “share” economy. A more accurate term would be the “share-the-scraps” economy. New software technologies are allowing almost any job to be divided up into discrete tasks that can be parceled out to workers when they’re needed, with pay determined by demand for that particular job at that particular moment. Customers and workers are matched online. Workers are rated on quality and reliability. The big money goes to the corporations that own the software. The scraps go to the on-demand workers.</text>
+        <author>Robert Reich, one of the nation’s leading experts on work and economy</author>
+        <text>The big money goes to the corporations that own the software. The scraps go to the on-demand workers.</text>
       </quote>
       <graph unit="b$" x="string" y="number">
         <title>Where the Big Money Goes</title>
@@ -422,14 +429,14 @@
           <data x="Rest of the hosts" y="60"/>
         </dataset>
       </graph>
-      <graph unit="" x="date" y="number">
+      <graph unit="" x="string" y="number">
         <title>The Impact of Airbnb on Hotel and Hospitality Industry</title>
         <dataset label="Hotel room nights reserved">
-          <data x="20140930-20160831" y="480000" />
+          <data x="Sep 2014 - Aug 2015" y="480000" />
         </dataset>
         <dataset label="Room nights booked on Airbnb">
-          <data x="20140930-20160831" y="2.8m" />
-          <data x="20180131-20181231" y="5m" />
+          <data x="Sep 2014 - Aug 2015" y="2.8m" />
+          <data x="2018" y="5m" />
         </dataset>
       </graph>
       <chapter>
@@ -472,7 +479,7 @@
           <data x="2014" y="-5" />
         </dataset>
       </graph>
-      <graph unit="%" x="location" y="number">
+      <graph unit="%" x="string" y="number">
         <title>Work Hours with Passengers in New York, Boston and San Francisco.</title>
         <dataset label="Taxis">
           <data x="New York_US" y="49.5" />
@@ -484,34 +491,33 @@
           <data x="Boston_US" y="46.1" />
           <data x="San Francisco_US" y="54.3" />
         </dataset>
+        <chapter>
+          <title>Taxis vs. Uber: the European Strikes</title>
+          <paragraph>In June 2014 thousands of cab drivers took to the streets for large-scale protests over the famous ride sharing company, Uber. Protests in London, Madrid, and Berlin over the use of a mobile app to handle payments had forced a gridlocked stop. With all the commotion, however, Uber was seeing substantial gains in the App Store: the Uber app for iPhone had been climbing the App Store charts in major European countries immediately after the protests were announced.</paragraph>
+          <paragraph>The App Store’s fast reaction to the protests meant even more new users for Uber. These events worked in their favor: remarks from Uber executives showed they embraced the protests as a way to display the convenience and functionality of the service.</paragraph>
+        </chapter>
       </graph>
-      <chapter>
-        <title>Taxis vs. Uber: the European Strikes</title>
-        <paragraph>In June 2014 thousands of cab drivers took to the streets for large-scale protests over the famous ride sharing company, Uber. Protests in London, Madrid, and Berlin over the use of a mobile app to handle payments had forced a gridlocked stop. With all the commotion, however, Uber was seeing substantial gains in the App Store: the Uber app for iPhone had been climbing the App Store charts in major European countries immediately after the protests were announced.</paragraph>
-        <paragraph>The App Store’s fast reaction to the protests meant even more new users for Uber. These events worked in their favor: remarks from Uber executives showed they embraced the protests as a way to display the convenience and functionality of the service.</paragraph>
-      </chapter>
+      <keywords>
+        <keyword name="Employment" />
+        <keyword name="Start-ups" />
+        <keyword name="Sharing Economy" />
+        <keyword name="Transportation" />
+      </keywords>
+      <sources>
+        <source>ag.ny.gov</source>
+        <source>bloomberg.com</source>
+        <source>cnbc.com</source>
+        <source>economist.com</source>
+        <source>hospitalitynet.org</source>
+        <source>independent.co.uk</source>
+        <source>insideairbnb.com</source>
+        <source>nytimes.com</source>
+        <source>psu.edu</source>
+        <source>salon.com</source>
+        <source>telegraph.co.uk</source>
+        <source>tradingeconomics.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
     </section>
-    <keywords>
-      <keyword name="Employment" />
-      <keyword name="Start-ups" />
-      <keyword name="Sharing Economy" />
-      <keyword name="Transportation" />
-    </keywords>
-    <sources>
-      <source>ag.ny.gov</source>
-      <source>bloomberg.com</source>
-      <source>cnbc.com</source>
-      <source>economist.com</source>
-      <source>hospitalitynet.org</source>
-      <source>independent.co.uk</source>
-      <source>insideairbnb.com</source>
-      <source>nytimes.com</source>
-      <source>psu.edu</source>
-      <source>salon.com</source>
-      <source>telegraph.co.uk</source>
-      <source>tradingeconomics.com</source>
-      <source>uk.businessinsider.com</source>
-    </sources>
-  </section>
-</sections>
+  </sections>
 </bulletin>

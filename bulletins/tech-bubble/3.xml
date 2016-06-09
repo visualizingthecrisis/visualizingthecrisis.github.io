@@ -1,5 +1,6 @@
 <bulletins>
   <title>Bursting Unicorns</title>
+  <subtitle>#visualizingthecrisis</subtitle>
   <authors>
     <author>Elisa Bianchi</author>
     <author>Francesca Luzi</author>
@@ -44,7 +45,7 @@
             <source>investing.com</source>
             <source>fortune.com</source>
             <source>wsj.com</source>
-            <source>cbinsights</source>
+            <source>cbinsights.com</source>
           </sources>
         </section>
         <section>
@@ -61,7 +62,7 @@
                 taxi business so they can then hop over into something else like logistics or delivery.</paragraph>
               </chapter>
               <quote>
-                <author></author>
+                <author>cbinsights.com</author>
                 <text>The market of Tech startups specializing in food and grocery delivery is overcrowded.</text>
               </quote>
               <table>
@@ -175,11 +176,11 @@
                 <source>investing.com</source>
                 <source>fortune.com</source>
                 <source>wsj.com</source>
-                <source>cbinsights</source>
+                <source>cbinsights.com</source>
               </sources>
             </section>
             <section>
-              <title>E-Commerce: Food and Grocery's role</title>
+              <title>E-Commerce: food and grocery's role</title>
               <chapter>
                 <paragraph>What is Food and Grocery sector’s relevance among other
                   eCommerce sectors, in 2015? The graph shows private investments in various
@@ -240,7 +241,7 @@
                   <source>investing.com</source>
                   <source>fortune.com</source>
                   <source>wsj.com</source>
-                  <source>cbinsights</source>
+                  <source>cbinsights.com</source>
                 </sources>
               </section>
               <section>
@@ -259,116 +260,116 @@
                     </chapter>
                     <graph unit="$" x="date" y="number">
                       <dataset label= "Box">
-                        <data x="Jan'15" y="19"/>
-                        <data x="Feb'15" y="18"/>
-                        <data x="Mar'15" y="20"/>
-                        <data x="Apr'15" y="17"/>
-                        <data x="May'15" y="17.5"/>
-                        <data x="Jun'15" y="18"/>
-                        <data x="Jul'15" y="16"/>
-                        <data x="Aug'15" y="13"/>
-                        <data x="Set'15" y="12"/>
-                        <data x="Oct'15" y="12"/>
-                        <data x="Nov'15" y="13"/>
-                        <data x="Dic'15" y="13"/>
-                        <data x="Jan'16" y="11"/>
-                        <data x="Feb'16" y="11"/>
-                        <data x="Mar'16" y="11.5"/>
+                        <data x="201501" y="19"/>
+                        <data x="201502" y="18"/>
+                        <data x="201503" y="20"/>
+                        <data x="201504" y="17"/>
+                        <data x="201505" y="17.5"/>
+                        <data x="201506" y="18"/>
+                        <data x="201507" y="16"/>
+                        <data x="201508" y="13"/>
+                        <data x="201509" y="12"/>
+                        <data x="201510" y="12"/>
+                        <data x="201511" y="13"/>
+                        <data x="201512" y="13"/>
+                        <data x="201601" y="11"/>
+                        <data x="201602" y="11"/>
+                        <data x="201603" y="11.5"/>
                       </dataset>
                       <dataset label= "Godaddy">
-                        <data x="Mar'15" y="25"/>
-                        <data x="Apr'15" y="27"/>
-                        <data x="May'15" y="28"/>
-                        <data x="Jun'15" y="29"/>
-                        <data x="Jul'15" y="26"/>
-                        <data x="Aug'15" y="25"/>
-                        <data x="Set'15" y="25.5"/>
-                        <data x="Oct'15" y="29"/>
-                        <data x="Nov'15" y="32"/>
-                        <data x="Dic'15" y="33"/>
-                        <data x="Jan'16" y="31"/>
-                        <data x="Feb'16" y="32"/>
-                        <data x="Mar'16" y="32.5"/>
+                        <data x="201503" y="25"/>
+                        <data x="201504" y="27"/>
+                        <data x="201505" y="28"/>
+                        <data x="201506" y="29"/>
+                        <data x="201507" y="26"/>
+                        <data x="201508" y="25"/>
+                        <data x="201509" y="25.5"/>
+                        <data x="201510" y="29"/>
+                        <data x="201511" y="32"/>
+                        <data x="201512" y="33"/>
+                        <data x="201601" y="31"/>
+                        <data x="201602" y="32"/>
+                        <data x="201603" y="32.5"/>
                       </dataset>
                       <dataset label= "Etsy">
-                        <data x="Apr'15" y="23"/>
-                        <data x="May'15" y="17"/>
-                        <data x="Jun'15" y="15"/>
-                        <data x="Jul'15" y="21"/>
-                        <data x="Aug'15" y="15"/>
-                        <data x="Set'15" y="14.5"/>
-                        <data x="Oct'15" y="12"/>
-                        <data x="Nov'15" y="10"/>
-                        <data x="Dic'15" y="9"/>
-                        <data x="Jan'16" y="8.5"/>
-                        <data x="Feb'16" y="8.5"/>
-                        <data x="Mar'16" y="9"/>
+                        <data x="201504" y="23"/>
+                        <data x="201505" y="17"/>
+                        <data x="201506" y="15"/>
+                        <data x="201507" y="21"/>
+                        <data x="201508" y="15"/>
+                        <data x="201509" y="14.5"/>
+                        <data x="201510" y="12"/>
+                        <data x="201511" y="10"/>
+                        <data x="201512" y="9"/>
+                        <data x="201601" y="8.5"/>
+                        <data x="201602" y="8.5"/>
+                        <data x="201603" y="9"/>
                       </dataset>
                       <dataset label= "Shopify">
-                        <data x="May'15" y="27"/>
-                        <data x="Jun'15" y="33"/>
-                        <data x="Jul'15" y="37"/>
-                        <data x="Aug'15" y="28"/>
-                        <data x="Set'15" y="34"/>
-                        <data x="Oct'15" y="32.5"/>
-                        <data x="Nov'15" y="28"/>
-                        <data x="Dic'15" y="26.5"/>
-                        <data x="Jan'16" y="24.5"/>
-                        <data x="Feb'16" y="22"/>
-                        <data x="Mar'16" y="25.5"/>
+                        <data x="201505" y="27"/>
+                        <data x="201506" y="33"/>
+                        <data x="201507" y="37"/>
+                        <data x="201508" y="28"/>
+                        <data x="201509" y="34"/>
+                        <data x="201510" y="32.5"/>
+                        <data x="201511" y="28"/>
+                        <data x="201512" y="26.5"/>
+                        <data x="201601" y="24.5"/>
+                        <data x="201602" y="22"/>
+                        <data x="201603" y="25.5"/>
                       </dataset>
                       <dataset label= "Fitbit">
-                        <data x="Jun'15" y="38.5"/>
-                        <data x="Jul'15" y="48"/>
-                        <data x="Aug'15" y="36"/>
-                        <data x="Set'15" y="38"/>
-                        <data x="Oct'15" y="40"/>
-                        <data x="Nov'15" y="31"/>
-                        <data x="Dic'15" y="30"/>
-                        <data x="Jan'16" y="20"/>
-                        <data x="Feb'16" y="13"/>
-                        <data x="Mar'16" y="13.5"/>
+                        <data x="201506" y="38.5"/>
+                        <data x="201507" y="48"/>
+                        <data x="201508" y="36"/>
+                        <data x="201509" y="38"/>
+                        <data x="201510" y="40"/>
+                        <data x="201511" y="31"/>
+                        <data x="201512" y="30"/>
+                        <data x="201601" y="20"/>
+                        <data x="201602" y="13"/>
+                        <data x="201603" y="13.5"/>
                       </dataset>
                       <dataset label= "Rapid7">
-                        <data x="Jul'15" y="24.5"/>
-                        <data x="Aug'15" y="22.5"/>
-                        <data x="Set'15" y="23"/>
-                        <data x="Oct'15" y="22"/>
-                        <data x="Nov'15" y="18"/>
-                        <data x="Dic'15" y="15.5"/>
-                        <data x="Jan'16" y="13.5"/>
-                        <data x="Feb'16" y="13"/>
-                        <data x="Mar'16" y="12.5"/>
+                        <data x="201507" y="24.5"/>
+                        <data x="201508" y="22.5"/>
+                        <data x="201509" y="23"/>
+                        <data x="201510" y="22"/>
+                        <data x="201511" y="18"/>
+                        <data x="201512" y="15.5"/>
+                        <data x="201601" y="13.5"/>
+                        <data x="201602" y="13"/>
+                        <data x="201603" y="12.5"/>
                       </dataset>
                       <dataset label= "Square">
-                        <data x="Nov'15" y="12.5"/>
-                        <data x="Dic'15" y="12"/>
-                        <data x="Jan'16" y="11"/>
-                        <data x="Feb'16" y="9"/>
-                        <data x="Mar'16" y="10"/>
+                        <data x="201511" y="12.5"/>
+                        <data x="201512" y="12"/>
+                        <data x="201601" y="11"/>
+                        <data x="201602" y="9"/>
+                        <data x="201603" y="10"/>
                       </dataset>
                     </graph>
                     <graph unit="M$" x="date" y="number">
                       <dataset label= "Box's IPO">
-                        <data x="Jan'15" y="175"/>
+                        <data x="201501" y="175"/>
                       </dataset>
                       <dataset label= "Godaddy's IPO">
-                        <data x="Mar'15" y="460"/>
+                        <data x="201503" y="460"/>
                       </dataset>
                       <dataset label= "Etsy's IPO">
-                        <data x="Apr'15" y="266"/>
+                        <data x="201504" y="266"/>
                       </dataset>
                       <dataset label= "Shopify's IPO">
-                        <data x="May'15" y="131"/>
+                        <data x="201505" y="131"/>
                       </dataset>
                       <dataset label= "Fitbit's IPO">
-                        <data x="Jun'15" y="731"/>
+                        <data x="201506" y="731"/>
                       </dataset>
                       <dataset label= "Rapid7's IPO">
-                        <data x="Jul'15" y="100"/>
+                        <data x="201507" y="100"/>
                       </dataset>
                       <dataset label= "Square's IPO">
-                        <data x="Nov'15" y="245"/>
+                        <data x="201511" y="245"/>
                       </dataset>
                     </graph>
                     <keywords>
@@ -381,7 +382,7 @@
                       <source>investing.com</source>
                       <source>fortune.com</source>
                       <source>wsj.com</source>
-                      <source>cbinsights</source>
+                      <source>cbinsights.com</source>
                     </sources>
                   </section>
                   <section>
@@ -398,22 +399,22 @@
                       <graph unit="M$" x="date" y="number">
                         <title>Box: the path to IPO</title>
                         <dataset label= "Valuation">
-                          <data x="Nov'09" y="35"/>
-                          <data x="Mar'11" y="224"/>
-                          <data x="Oct'11" y="600"/>
-                          <data x="Sep'12" y="1,300"/>
-                          <data x="Jan'14" y="2,100"/>
-                          <data x="Aug'14" y="2,290"/>
-                          <data x="Jan'15" y="1,670"/>
+                          <data x="200911" y="35"/>
+                          <data x="201103" y="224"/>
+                          <data x="201110" y="600"/>
+                          <data x="201209" y="1,300"/>
+                          <data x="201401" y="2,100"/>
+                          <data x="201408" y="2,290"/>
+                          <data x="201501" y="1,670"/>
                         </dataset>
                       </graph>
                       <graph unit="M$" x="date" y="number">
                         <title>Square: the path to IPO</title>
                         <dataset label= "Valuation">
-                          <data x="May'11" y="1,600"/>
-                          <data x="Jun'12" y="3,250"/>
-                          <data x="Mar'14" y="6,000"/>
-                          <data x="Mar'15" y="2,900"/>
+                          <data x="201105" y="1,600"/>
+                          <data x="201206" y="3,250"/>
+                          <data x="201403" y="6,000"/>
+                          <data x="201503" y="2,900"/>
                         </dataset>
                       </graph>
                       <table>
@@ -501,6 +502,7 @@
                         <source>investing.com</source>
                         <source>fortune.com</source>
                         <source>wsj.com</source>
+                        <source>cbinsights.com</source>
                       </sources>
                     </section>
                   </sections>

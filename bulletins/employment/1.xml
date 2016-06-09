@@ -9,342 +9,344 @@
   </authors>
   <bulletin id="issue 01" date="20160305">
     <sections>
-      <section>
-        <graph unit="%" x="date" y="number">
-          <title>Italy Unemployment Rate</title>
-          <dataset label="">
-            <data x="20150131" y="12.3" />
-            <data x="20150228" y="12.2" />
-            <data x="20150331" y="12.4" />
-            <data x="20150430" y="12.1" />
-            <data x="20150531" y="12.2" />
-            <data x="20150630" y="12.2" />
-            <data x="20150731" y="11.7" />
-            <data x="20150831" y="11.5" />
-            <data x="20150930" y="11.5" />
-            <data x="20151031" y="11.6" />
-            <data x="20151130" y="11.5" />
-            <data x="20151231" y="11.6" />
-            <data x="20160131" y="11.6" />
-          </dataset>
-        </graph>
-        <keywords>
-          <keyword name="Western Europe" />
-          <keyword name="Employment" />
-        </keywords>
-        <sources>
-          <source>tradingeconomics.com</source>
-        </sources>
-      </section>
-      <section>
-        <title>Changing Work Habit</title>
-        <chapter>
-          <title>Digital Revolution</title>
-          <paragraph>For several decades there has been a clear distinction between the time for labour and the time of leisure. The technological development increases the productivity but also the time people spend doing work stuff.</paragraph>
-          <paragraph>Today, thanks to the advances in computing power, thanks to the "Internet of Things" which allows the connection of devices, items and humans, the new paradigm of work called "Smartworking" enables people to handle many jobs at home and in public spaces.</paragraph>
-        </chapter>
-        <chapter>
-          <title>The Gig Economy</title>
-          <paragraph>These new condictions led people to build another level of job in which the arrival of electronics and computer science have assumed a crucial role.</paragraph>
-          <paragraph>The advanced robotics and autonomous transport, the "Artificial Intelligence" and "Machine Learning" have changed the world of work in terms of features and numbers. An example: despite the creation of millions of new jobs over the next 4 years, there will likely be a net loss of $ 5 million.</paragraph>
-          <paragraph>In the near future everything we will do will be generating data and lots of data is exactly what machines will need in order to learn to learn.</paragraph>
-        </chapter>
-        <chapter>
-          <title>Post-Work Economy</title>
-          <paragraph>Yet in 2013 An Oxford University study estimated the potential automation of about half of all existing jobs by 2033.</paragraph>
-          <paragraph>The future of employment will be robots. What’s more, humans are entirely unprepared. These exponential advances will prove daunting for as long as we continue to insist upon employment as our primary source of income. But robots are never going to take all the jobs. The problem with trying to envision "a world without work" is that it asks us to envision an unrealistically large change. The more likely outcome is a world with less work. And that's a world we should welcome rather than fear. It's a world in which we can make some policy decisions we want to make, rather than decisions we really don't want to make. It's a world in which the shorter day work is a necessity in productivity and well-being.</paragraph>
-          <paragraph>it's a world not so far in which we must seriously start talking about decoupling income from work, adopting a universal basic income.</paragraph>
-        </chapter>
-        <keywords>
-          <keyword name="Employment" />
-          <keyword name="Automation" />
-          <keyword name="Sharing Economy" />
-          <keyword name="Tech" />
-        </keywords>
-        <sources>
-          <source>arubanetworks.com/it</source>
-          <source>bostonglobe.com</source>
-          <source>corriere.it</source>
-          <source>europa.eu</source>
-          <source>ilsole24ore.com</source>
-          <source>Regus Global Business Survey</source>
-          <source>theguardian.com</source>
-          <source>tradingeconomics.com</source>
-          <source>washingtonpost.com</source>
-          <source>weforum.org</source>
-        </sources>
-      </section>
-      <section>
-        <title>The Digital Economy and Society Index (DESI) 2016</title>
-        <chapter>
-          <paragraph>The DESI is a composite index that summarises relevant indicators on Europe’s digital performance and tracks the evolution of EU member states in digital competitiveness.</paragraph>
-          <paragraph>Each score in the DESI is between 0 and 1, with higher values representing better performance.</paragraph>
-        </chapter>
-        <graph unit="" x="string" y="number">
-          <abstract>
-            The TOP 4 countries (Denmark, Sweden, Netherlands, Finland) are compared with the WORST 4 (Italy, Bulgaria, Greece, Romania) and the European Union average score.
-          </abstract>
-          <dataset label= "">
-            <data x="1. Denmark" y="0.68"/>
-            <data x="2. Sweden" y="0.67"/>
-            <data x="3. Netherlands" y="0.67"/>
-            <data x="4. Finland" y="0.67"/>
-            <data x="European Union" y="0.52"/>
-            <data x="25. Italy" y="0.40"/>
-            <data x="26. Bulgaria" y="0.37"/>
-            <data x="27. Greece" y="0.37"/>
-            <data x="28. Romania" y="0.35"/>
-          </dataset>
-        </graph>
-        <keywords>
-          <keyword name="Eastern Europe" />
-          <keyword name="Western Europe" />
-          <keyword name="Tech" />
-        </keywords>
-        <sources>
-          <source>arubanetworks.com/it</source>
-          <source>bostonglobe.com</source>
-          <source>corriere.it</source>
-          <source>europa.eu</source>
-          <source>ilsole24ore.com</source>
-          <source>Regus Global Business Survey</source>
-          <source>theguardian.com</source>
-          <source>tradingeconomics.com</source>
-          <source>washingtonpost.com</source>
-          <source>weforum.org</source>
-        </sources>
-      </section>
-      <section>
-        <title>Italian Jobs Are Getting Smarter</title>
-        <chapter>
-          <paragraph>Even if Italy is one of the last countries in the DESI 2016 ranking (DESI: "Digital Economy and Society Index" - it summarises relevant indicators on Europe’s digital performance), the use of file sharing and instant messaging tools is gradually spreading between italian workers.</paragraph>
-          <paragraph>The most used communication tools are those of instant messaging and VoIP: they represent the real revolution, reducing time, allowing the connection of people and the sharing of interests and knowledges.</paragraph>
-        </chapter>
-        <graph unit="%" x="string" y="number">
-          <title>Instant Messaging Tools</title>
-          <dataset label= "Italy">
-            <data x="Whatsapp" y="84.4"/>
-            <data x="Skype" y="73.5"/>
-            <data x="Facebook Messenger" y="48.9"/>
-            <data x="Viber" y="18.4"/>
-            <data x="We Chat" y="5.9"/>
-            <data x="None" y="4.4"/>
-          </dataset>
-          <dataset label= "Other Countries">
-            <data x="Whatsapp" y="54"/>
-            <data x="Skype" y="60"/>
-            <data x="Facebook Messenger" y="48"/>
-            <data x="Viber" y="13"/>
-            <data x="We Chat" y="11"/>
-            <data x="None" y="10"/>
-          </dataset>
-        </graph>
-        <graph unit="%" x="string" y="number">
-          <title>File Sharing Tools</title>
-          <dataset label= "Italy">
-            <data x="Dropbox" y="64.1"/>
-            <data x="Google Drive" y="48.2"/>
-            <data x="Teamviewer" y="31.5"/>
-            <data x="Google Hangouts" y="21.4"/>
-            <data x="Remote Desktop" y="14.9"/>
-            <data x="We Transfer" y="35.3"/>
-            <data x="None" y="10.7"/>
-          </dataset>
-          <dataset label= "Other Countries">
-            <data x="Dropbox" y="56"/>
-            <data x="Google Drive" y="43"/>
-            <data x="Teamviewer" y="25"/>
-            <data x="Google Hangouts" y="22"/>
-            <data x="Remote Desktop" y="19"/>
-            <data x="We Transfer" y="18"/>
-            <data x="None" y="14"/>
-          </dataset>
-        </graph>
-        <keywords>
-          <keyword name="Eastern Europe" />
-          <keyword name="Tech" />
-        </keywords>
-        <sources>
-          <source>arubanetworks.com/it</source>
-          <source>bostonglobe.com</source>
-          <source>corriere.it</source>
-          <source>europa.eu</source>
-          <source>ilsole24ore.com</source>
-          <source>Regus Global Business Survey</source>
-          <source>theguardian.com</source>
-          <source>tradingeconomics.com</source>
-          <source>washingtonpost.com</source>
-          <source>weforum.org</source>
-        </sources>
-      </section>
-      <section>
-        <title>Smartworking in Italy</title>
-        <chapter>
-          <title>Interest of Big Companies</title>
-          <paragraph>
-            <list type="unordered">
-              <item>A. don't know</item>
-              <item>B. alredy applied</item>
-              <item>C. focused initiatives</item>
-              <item>D. expected introduction</item>
-              <item>E. in the future</item>
-            </list>
-          </paragraph>
-        </chapter>
-        <graph unit="%" x="string" y="percentage">
-          <dataset label= "">
-            <data x="A" y="3"/>
-            <data x="B" y="17"/>
-            <data x="C" y="17"/>
-            <data x="D" y="14"/>
-            <data x="E" y="37"/>
-          </dataset>
-        </graph>
-        <chapter>
-          <title>Interest of Small and Medium Enterprises</title>
-          <paragraph>
-            <list type="unordered">
-              <item>F. don't know</item>
-              <item>G. structuring initiative</item>
-              <item>H. non structuring initiative</item>
-              <item>I. in the future</item>
-              <item>J. not interested</item>
-            </list>
-          </paragraph>
-        </chapter>
-        <graph unit="%" x="string" y="percentage">
-          <dataset label= "">
-            <data x="F" y="9"/>
-            <data x="G" y="5"/>
-            <data x="H" y="9"/>
-            <data x="I" y="29"/>
-            <data x="J" y="48"/>
-          </dataset>
-        </graph>
-        <chapter>
-          <title>The Turning Point of Barilla</title>
-          <paragraph>Barilla began its smartworking program in 2013, allowing some of its employees to work at home the 13% of their total hours per month. Currently the program has been extended to 1200 employees, that can work 40% of their hours per month outside the workplace. Barilla aim to include all its employees to the program by 2020, letting them work any time they want outside the workplace.</paragraph>
-        </chapter>
-        <graph unit="%" x="date" y="number">
-          <title>Hours per Month Outside the Workplace</title>
-          <dataset label= "Working Hours">
-            <data x="2013" y="13"/>
-            <data x="2016" y="40"/>
-            <data x="2020" y="100"/>
-          </dataset>
-          <dataset label= "Smartworking Hours">
-            <data x="2013" y="87"/>
-            <data x="2016" y="60"/>
-            <data x="2020" y="0"/>
-          </dataset>
-        </graph>
-        <keywords>
-          <keyword name="Eastern Europe" />
-          <keyword name="Employment" />
-          <keyword name="Global Corporations" />
-          <keyword name="Tech" />
-        </keywords>
-        <sources>
-          <source>arubanetworks.com/it</source>
-          <source>bostonglobe.com</source>
-          <source>corriere.it</source>
-          <source>europa.eu</source>
-          <source>ilsole24ore.com</source>
-          <source>Regus Global Business Survey</source>
-          <source>theguardian.com</source>
-          <source>tradingeconomics.com</source>
-          <source>washingtonpost.com</source>
-          <source>weforum.org</source>
-        </sources>
-      </section>
-      <section>
-        <title>Security</title>
-        <chapter>
-          <paragraph>Italy is the third most-at-risk country in Europe in terms of security measures for mobile devices.</paragraph>
-          <paragraph>A study conducted on 11.500 professionals from 23 countries reveals that:</paragraph>
-          <paragraph>
-            <list type="unordered">
-              <item>A. They’re autonomous in solving problems</item>
-              <item>B. Technologies have increased productivity</item>
-              <item>C. Technologies disobeys to their inputs</item>
-              <item>D. They've lost data due to uncorrect handling</item>
-              <item>E. IT department in charge of their own security</item>
-            </list>
-          </paragraph>
-        </chapter>
-        <graph unit="%" x="string" y="number">
-          <dataset label= "Italy">
-            <data x="A" y="77"/>
-            <data x="B" y="51"/>
-            <data x="C" y="56"/>
-            <data x="D" y="31"/>
-            <data x="E" y="87"/>
-          </dataset>
-          <dataset label= "Other Countries">
-            <data x="A" y="71"/>
-            <data x="B" y="54"/>
-            <data x="C" y="47"/>
-            <data x="D" y="35"/>
-            <data x="E" y="91"/>
-          </dataset>
-        </graph>
-        <keywords>
-          <keyword name="Eastern Europe" />
-          <keyword name="Privacy and Surveillance" />
-          <keyword name="Tech" />
-        </keywords>
-        <sources>
-          <source>arubanetworks.com/it</source>
-          <source>bostonglobe.com</source>
-          <source>corriere.it</source>
-          <source>europa.eu</source>
-          <source>ilsole24ore.com</source>
-          <source>Regus Global Business Survey</source>
-          <source>theguardian.com</source>
-          <source>tradingeconomics.com</source>
-          <source>washingtonpost.com</source>
-          <source>weforum.org</source>
-        </sources>
-      </section>
-      <section>
+    <section>
+      <title>Italy Unemployment Rate</title>
+      <graph unit="%" x="date" y="number">
+        <dataset label="">
+          <data x="20150131" y="12.3" />
+          <data x="20150228" y="12.2" />
+          <data x="20150331" y="12.4" />
+          <data x="20150430" y="12.1" />
+          <data x="20150531" y="12.2" />
+          <data x="20150630" y="12.2" />
+          <data x="20150731" y="11.7" />
+          <data x="20150831" y="11.5" />
+          <data x="20150930" y="11.5" />
+          <data x="20151031" y="11.6" />
+          <data x="20151130" y="11.5" />
+          <data x="20151231" y="11.6" />
+          <data x="20160131" y="11.6" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="Employment" />
+      </keywords>
+      <sources>
+        <source>tradingeconomics.com</source>
+      </sources>
+    </section>
+    <section>
+      <title>Changing Work Habit</title>
+      <chapter>
+        <title>Digital Revolution</title>
+        <paragraph>For several decades there has been a clear distinction between the time for labour and the time of leisure. The technological development increases the productivity but also the time people spend doing work stuff.</paragraph>
+        <paragraph>Today, thanks to the advances in computing power, thanks to the "Internet of Things" which allows the connection of devices, items and humans, the new paradigm of work called "Smartworking" enables people to handle many jobs at home and in public spaces.</paragraph>
+      </chapter>
+      <chapter>
+        <title>The Gig Economy</title>
+        <paragraph>These new condictions led people to build another level of job in which the arrival of electronics and computer science have assumed a crucial role.</paragraph>
+        <paragraph>The advanced robotics and autonomous transport, the "Artificial Intelligence" and "Machine Learning" have changed the world of work in terms of features and numbers. An example: despite the creation of millions of new jobs over the next 4 years, there will likely be a net loss of $ 5 million.</paragraph>
+        <paragraph>In the near future everything we will do will be generating data and lots of data is exactly what machines will need in order to learn to learn.</paragraph>
+      </chapter>
+      <chapter>
+        <title>Post-Work Economy</title>
+        <paragraph>Yet in 2013 An Oxford University study estimated the potential automation of about half of all existing jobs by 2033.</paragraph>
+        <paragraph>The future of employment will be robots. What’s more, humans are entirely unprepared. These exponential advances will prove daunting for as long as we continue to insist upon employment as our primary source of income. But robots are never going to take all the jobs. The problem with trying to envision "a world without work" is that it asks us to envision an unrealistically large change. The more likely outcome is a world with less work. And that's a world we should welcome rather than fear. It's a world in which we can make some policy decisions we want to make, rather than decisions we really don't want to make. It's a world in which the shorter day work is a necessity in productivity and well-being.</paragraph>
+        <paragraph>it's a world not so far in which we must seriously start talking about decoupling income from work, adopting a universal basic income.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="Employment" />
+        <keyword name="Automation" />
+        <keyword name="Sharing Economy" />
+        <keyword name="Tech" />
+        <keyword name="Working class" />
+      </keywords>
+      <sources>
+        <source>arubanetworks.com/it</source>
+        <source>bostonglobe.com</source>
+        <source>corriere.it</source>
+        <source>europa.eu</source>
+        <source>ilsole24ore.com</source>
+        <source>Regus Global Business Survey</source>
+        <source>theguardian.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>weforum.org</source>
+      </sources>
+    </section>
+    <section>
+      <title>The Digital Economy and Society Index (DESI) 2016</title>
+      <chapter>
+        <paragraph>The DESI is a composite index that summarises relevant indicators on Europe’s digital performance and tracks the evolution of EU member states in digital competitiveness.</paragraph>
+        <paragraph>Each score in the DESI is between 0 and 1, with higher values representing better performance.</paragraph>
+      </chapter>
+      <graph unit="" x="string" y="number">
+        <abstract>
+          The TOP 4 countries (Denmark, Sweden, Netherlands, Finland) are compared with the WORST 4 (Italy, Bulgaria, Greece, Romania) and the European Union average score.
+        </abstract>
+        <dataset label= "">
+          <data x="1. Denmark" y="0.68"/>
+          <data x="2. Sweden" y="0.67"/>
+          <data x="3. Netherlands" y="0.67"/>
+          <data x="4. Finland" y="0.67"/>
+          <data x="European Union" y="0.52"/>
+          <data x="25. Italy" y="0.40"/>
+          <data x="26. Bulgaria" y="0.37"/>
+          <data x="27. Greece" y="0.37"/>
+          <data x="28. Romania" y="0.35"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
+        <keyword name="Tech" />
+      </keywords>
+      <sources>
+        <source>arubanetworks.com/it</source>
+        <source>bostonglobe.com</source>
+        <source>corriere.it</source>
+        <source>europa.eu</source>
+        <source>ilsole24ore.com</source>
+        <source>Regus Global Business Survey</source>
+        <source>theguardian.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>weforum.org</source>
+      </sources>
+    </section>
+    <section>
+      <title>Italian Jobs Are Getting Smarter</title>
+      <chapter>
+        <paragraph>Even if Italy is one of the last countries in the DESI 2016 ranking (DESI: "Digital Economy and Society Index" - it summarises relevant indicators on Europe’s digital performance), the use of file sharing and instant messaging tools is gradually spreading between italian workers.</paragraph>
+        <paragraph>The most used communication tools are those of instant messaging and VoIP: they represent the real revolution, reducing time, allowing the connection of people and the sharing of interests and knowledges.</paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="number">
+        <title>Instant Messaging Tools</title>
+        <dataset label= "Italy">
+          <data x="Whatsapp" y="84.4"/>
+          <data x="Skype" y="73.5"/>
+          <data x="Facebook Messenger" y="48.9"/>
+          <data x="Viber" y="18.4"/>
+          <data x="We Chat" y="5.9"/>
+          <data x="None" y="4.4"/>
+        </dataset>
+        <dataset label= "Other Countries">
+          <data x="Whatsapp" y="54"/>
+          <data x="Skype" y="60"/>
+          <data x="Facebook Messenger" y="48"/>
+          <data x="Viber" y="13"/>
+          <data x="We Chat" y="11"/>
+          <data x="None" y="10"/>
+        </dataset>
+      </graph>
+      <graph unit="%" x="string" y="number">
+        <title>File Sharing Tools</title>
+        <dataset label= "Italy">
+          <data x="Dropbox" y="64.1"/>
+          <data x="Google Drive" y="48.2"/>
+          <data x="Teamviewer" y="31.5"/>
+          <data x="Google Hangouts" y="21.4"/>
+          <data x="Remote Desktop" y="14.9"/>
+          <data x="We Transfer" y="35.3"/>
+          <data x="None" y="10.7"/>
+        </dataset>
+        <dataset label= "Other Countries">
+          <data x="Dropbox" y="56"/>
+          <data x="Google Drive" y="43"/>
+          <data x="Teamviewer" y="25"/>
+          <data x="Google Hangouts" y="22"/>
+          <data x="Remote Desktop" y="19"/>
+          <data x="We Transfer" y="18"/>
+          <data x="None" y="14"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="Tech" />
+      </keywords>
+      <sources>
+        <source>arubanetworks.com/it</source>
+        <source>bostonglobe.com</source>
+        <source>corriere.it</source>
+        <source>europa.eu</source>
+        <source>ilsole24ore.com</source>
+        <source>Regus Global Business Survey</source>
+        <source>theguardian.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>weforum.org</source>
+      </sources>
+    </section>
+    <section>
+      <title>Smartworking in Italy</title>
+      <chapter>
+        <title>Interest of Big Companies</title>
+        <paragraph>
+      <list type="unordered">
+          <item>A. don't know</item>
+          <item>B. alredy applied</item>
+          <item>C. focused initiatives</item>
+          <item>D. expected introduction</item>
+          <item>E. in the future</item>
+        </list>
+      </paragraph>
+    </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label= "">
+          <data x="A" y="3"/>
+          <data x="B" y="17"/>
+          <data x="C" y="17"/>
+          <data x="D" y="14"/>
+          <data x="E" y="37"/>
+        </dataset>
+      </graph>
+      <chapter>
+        <title>Interest of Small and Medium Enterprises</title>
+        <paragraph>
+      <list type="unordered">
+          <item>F. don't know</item>
+          <item>G. structuring initiative</item>
+          <item>H. non structuring initiative</item>
+          <item>I. in the future</item>
+          <item>J. not interested</item>
+        </list>
+      </paragraph>
+    </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <dataset label= "">
+          <data x="F" y="9"/>
+          <data x="G" y="5"/>
+          <data x="H" y="9"/>
+          <data x="I" y="29"/>
+          <data x="J" y="48"/>
+        </dataset>
+      </graph>
+      <chapter>
+        <title>The Turning Point of Barilla</title>
+        <paragraph>Barilla began its smartworking program in 2013, allowing some of its employees to work at home the 13% of their total hours per month. Currently the program has been extended to 1200 employees, that can work 40% of their hours per month outside the workplace. Barilla aim to include all its employees to the program by 2020, letting them work any time they want outside the workplace.</paragraph>
+      </chapter>
+      <graph unit="%" x="date" y="number">
+        <title>Hours per Month Outside the Workplace</title>
+        <dataset label= "Working Hours">
+          <data x="2013" y="13"/>
+          <data x="2016" y="40"/>
+          <data x="2020" y="100"/>
+        </dataset>
+        <dataset label= "Smartworking Hours">
+          <data x="2013" y="87"/>
+          <data x="2016" y="60"/>
+          <data x="2020" y="0"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="Employment" />
+        <keyword name="Global Corporations" />
+        <keyword name="Tech" />
+        <keyword name="Working class" />
+      </keywords>
+      <sources>
+        <source>arubanetworks.com/it</source>
+        <source>bostonglobe.com</source>
+        <source>corriere.it</source>
+        <source>europa.eu</source>
+        <source>ilsole24ore.com</source>
+        <source>Regus Global Business Survey</source>
+        <source>theguardian.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>weforum.org</source>
+      </sources>
+    </section>
+    <section>
+      <title>Security</title>
+      <chapter>
+        <paragraph>Italy is the third most-at-risk country in Europe in terms of security measures for mobile devices.</paragraph>
+        <paragraph>A study conducted on 11.500 professionals from 23 countries reveals that:</paragraph>
+        <paragraph>
+      <list type="unordered">
+          <item>A. They’re autonomous in solving problems</item>
+          <item>B. Technologies have increased productivity</item>
+          <item>C. Technologies disobeys to their inputs</item>
+          <item>D. They've lost data due to uncorrect handling</item>
+          <item>E. IT department in charge of their own security</item>
+        </list>
+      </paragraph>
+      </chapter>
+      <graph unit="%" x="string" y="number">
+        <dataset label= "Italy">
+          <data x="A" y="77"/>
+          <data x="B" y="51"/>
+          <data x="C" y="56"/>
+          <data x="D" y="31"/>
+          <data x="E" y="87"/>
+        </dataset>
+        <dataset label= "Other Countries">
+          <data x="A" y="71"/>
+          <data x="B" y="54"/>
+          <data x="C" y="47"/>
+          <data x="D" y="35"/>
+          <data x="E" y="91"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Eastern Europe" />
+        <keyword name="Privacy and Surveillance" />
+        <keyword name="Tech" />
+      </keywords>
+      <sources>
+        <source>arubanetworks.com/it</source>
+        <source>bostonglobe.com</source>
+        <source>corriere.it</source>
+        <source>europa.eu</source>
+        <source>ilsole24ore.com</source>
+        <source>Regus Global Business Survey</source>
+        <source>theguardian.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>weforum.org</source>
+      </sources>
+    </section>
+    <section>
         <title>Silent Circle</title>
         <chapter>
-          <paragraph>Silent Circle is a secure communications company. After Wikileaks (2013) the number of users got four time bigger.</paragraph>
-          <paragraph>95% of subscriptions comes from business or government customers with negotiated contracts.</paragraph>
-        </chapter>
-        <graph unit="" x="string" y="number">
-          <title>The Number of Users' Growth</title>
-          <dataset label= "">
-            <data x="Users before Wikileaks" y="1"/>
-            <data x="Users after Wikileaks" y="4"/>
-          </dataset>
-        </graph>
-        <graph unit="%" x="string" y="percentage">
-          <title>Users after Wikileaks</title>
-          <dataset label= "">
-            <data x="Business and governament customers" y="95"/>
-            <data x="Other customers" y="5"/>
-          </dataset>
-        </graph>
-        <keywords>
-          <keyword name="Eastern Europe" />
-          <keyword name="Privacy and SurveillanceD" />
-          <keyword name="Global Corporations" />
-          <keyword name="Tech" />
-        </keywords>
-        <sources>
-          <source>arubanetworks.com/it</source>
-          <source>bostonglobe.com</source>
-          <source>corriere.it</source>
-          <source>europa.eu</source>
-          <source>ilsole24ore.com</source>
-          <source>Regus Global Business Survey</source>
-          <source>theguardian.com</source>
-          <source>tradingeconomics.com</source>
-          <source>washingtonpost.com</source>
-          <source>weforum.org</source>
-        </sources>
-      </section>
-    </sections>
+        <paragraph>Silent Circle is a secure communications company. After Wikileaks (2013) the number of users got four time bigger.</paragraph>
+        <paragraph>95% of subscriptions comes from business or government customers with negotiated contracts.</paragraph>
+      </chapter>
+      <graph unit="" x="string" y="number">
+        <title>The Number of Users' Growth</title>
+        <dataset label= "">
+          <data x="Users before Wikileaks" y="1"/>
+          <data x="Users after Wikileaks" y="4"/>
+        </dataset>
+      </graph>
+      <graph unit="%" x="string" y="percentage">
+        <title>Users after Wikileaks</title>
+        <dataset label= "">
+          <data x="Business and governament customers" y="95"/>
+          <data x="Other customers" y="5"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="Privacy and Surveillance" />
+        <keyword name="Global Corporations" />
+        <keyword name="Tech" />
+      </keywords>
+      <sources>
+        <source>arubanetworks.com/it</source>
+        <source>bostonglobe.com</source>
+        <source>corriere.it</source>
+        <source>europa.eu</source>
+        <source>ilsole24ore.com</source>
+        <source>Regus Global Business Survey</source>
+        <source>theguardian.com</source>
+        <source>tradingeconomics.com</source>
+        <source>washingtonpost.com</source>
+        <source>weforum.org</source>
+      </sources>
+    </section>
+  </sections>
   </bulletin>
 </bulletins>

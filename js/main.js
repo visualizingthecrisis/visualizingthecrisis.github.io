@@ -5,27 +5,118 @@
 2 Pie numbers
 3
 %*/
+
+// Change D3's SI prefix to more business friendly units
+//      K = thousands
+//      M = millions
+//      B = billions
+//      T = trillion
+//      P = quadrillion
+//      E = quintillion
+// small decimals are handled with e-n formatting.
+/*
+y - yocto, 10⁻²⁴
+z - zepto, 10⁻²¹
+a - atto, 10⁻¹⁸
+f - femto, 10⁻¹⁵
+p - pico, 10⁻¹²
+n - nano, 10⁻⁹
+µ - micro, 10⁻⁶
+*/
+var d3_formatPrefixes = ["y","z","a","f","p","n","µ","m","","K","M","B","T","P","E","Z","Y"].map(d3_formatPrefix);
+
+// Override d3's formatPrefix function
+d3.formatPrefix = function(value, precision) {
+    var i = 0;
+    if (value) {
+        if (value < 0) {
+            value *= -1;
+        }
+        if (precision) {
+            value = d3.round(value, d3_format_precision(value, precision));
+        }
+        i = 1 + Math.floor(1e-12 + Math.log(value) / Math.LN10);
+        i = Math.max(-24, Math.min(24, Math.floor((i - 1) / 3) * 3));
+    }
+    return d3_formatPrefixes[8 + i / 3];
+};
+
+function d3_formatPrefix(d, i) {
+    var k = Math.pow(10, Math.abs(8 - i) * 3);
+    return {
+        scale: i > 8 ? function(d) { return d / k; } : function(d) { return d * k; },
+        symbol: d
+    };
+}
+
+function d3_format_precision(x, p) {
+    return p - (x ? Math.ceil(Math.log(x) / Math.LN10) : 1);
+}
+
+
+
+
+
 var barHeight=30;
 var patterns= ['url(#crosshatch1) #fff', 'url(#crosshatch2) #fff','url(#crosshatch3) #fff','url(#crosshatch4) #fff','url(#crosshatch5) #fff','url(#dots-4) #fff','url(#circles-2) #fff','url(#circles-3) #fff','url(#circles-4) #fff','url(#circles-5) #fff'];
 var graph_number=0;
-$(document).ready(function(){
-  $.get(path, function(d){
-    //  $('body').append('<h1> Recommended Web Development Books </h1>');
-    //  $('body').append('<dl />');
-    processXML(d);
-  });
-});
 
-function processXML(d){
+
+function processXML(d,filters){
   $("#bulletin-container").children().remove();
-  $("#bulletin-container").append("<div class='main-title'>Visualizing</br>the Crisis</div><div class='main-report'>REPORT N.23</div><div class='main-subtitle'>TRACKING THE UNFOLDING<br/>GLOBAL FINANCIAL CRISIS</div>"+
-  "<div class='main-info'>This information was gathered between February and June 2016 during the MA Information Design lab at IUAV, Venice. Below are the most relevant results relating to <span style='display:inline;font-family: SF-UI-Heavy, Helvetica;'>​Oceania, Agriculture​, ​Sharing Economy.</span>​</div>");
-
+  filtersUnwrap="all the topics";
   var sections=$(d).find('section');
+
+  if(filters && filters.length>0){
+    filtersUnwrap="";
+    for(var k=0;k<filters.length;k++){
+      if(k>0)filtersUnwrap+=", ";
+      filtersUnwrap+=filters[k];
+    }
+
+    for (var s = 0; s < sections.length; ++s) {
+      var count=0;
+      var $sec=$(sections[s]);
+      var keywords=$sec.find('keyword');
+      for (var i = 0; i < keywords.length; i++) {
+        if(filters.indexOf($(keywords[i]).attr('name'))>=0)
+          count++;
+      }
+      $sec.attr('order',count);
+    //  console.log("+++"+count);
+    //  console.log($sec.parent().html());
+    }
+  }
+  $("#bulletin-container").append("<div class='main-title'>Visualizing</br>the Crisis</div><div class='main-report'>REPORT N.23</div><div class='main-subtitle'>TRACKING THE UNFOLDING<br/>GLOBAL FINANCIAL CRISIS</div>"+
+  "<div class='main-info'>This information was gathered between February and June 2016 during the MA Information Design lab at IUAV, Venice. Below are the most relevant results relating to <span style='display:inline;font-family: SF-UI-Heavy, Helvetica;'>"+filtersUnwrap+".</span>​</div>");
+  var sections=$(d).find('section');
+  if(filters){
+    var sections=$(d).find('section')
+    .sort(function() {
+    return Math.round( Math.random() ) - 0.5;
+    }).sort(function(a, b){
+        var aVal = parseInt(a.getAttribute('order')),
+            bVal = parseInt(b.getAttribute('order'));
+        return bVal - aVal;
+    });
+}
+
   for (var s = 0; s < sections.length; ++s) {
-    var $section_div=$("<div class='section'></div>");
-    $("#bulletin-container").append($section_div);
+    var count=0;
+    if(filters){
+      var $sec=$(sections[s]);
+    //  console.log("----");
+
+      console.log($sec.attr('order'));
+      if(parseInt($sec.attr('order'))<1)continue;
+    }
     var $section= $(sections[s]);
+    var kkk="";
+    if(filters){
+      kkk=" Keywords: "+$section.attr('order');
+    }
+    var $section_div=$("<div class='section'><div style='width:100%'>Section:"+(s+1)+kkk+"</div></div>");
+    $("#bulletin-container").append($section_div);
     var elements=$section.children();
     for (var i = 0; i < elements.length; ++i) {
       var $element= $(elements[i]);
@@ -44,6 +135,7 @@ function processXML(d){
     }
   }
 }
+
 function tableToHTML($element, $parent){
   var html="<p><table>";
   var rows=$element.find('row');
@@ -80,7 +172,8 @@ function chapterToHTML($element, $parent){
     for (var l = 0; l < lists.length; ++l) {
       var $element= $(lists[l]);
     //  console.log($element);
-      if(lists[l].nodeType==3)html+="<p>"+$element.text()+"</p>";
+      if(lists[l].nodeType==3 && $element.text().replace(/\s/g, '').length>0)
+        html+="<p>"+$element.text()+"</p>";//+" "+$element.text().length
       if($element.is('list')){
         var isOrdered=$element.attr('type')=='ordered';
         if(isOrdered)
@@ -92,9 +185,9 @@ function chapterToHTML($element, $parent){
           html+="<li>"+$(lis[li]).text()+"</li>";
         }
         if(isOrdered)
-        html+="</ol>";
+          html+="</ol>";
         else
-        html+="</ul>";
+          html+="</ul>";
       }
     }
   }
@@ -121,7 +214,9 @@ function sourcesToHTML($element, $parent){
   html+="</div>";
   $parent.append(html);
 }
-
+function replaceAll(str, search, replacement) {
+  return str.split(search).join(replacement);
+}
 function graphToHTML($element, $parent){
   var titles=$element.find('title');
   if(titles.length>0)$parent.append("<span class='section-graph-title'>"+$element.find('title').first().text()+"</span>");
@@ -130,8 +225,8 @@ function graphToHTML($element, $parent){
   var abstracts=$element.find('abstract');
   if(abstracts.length>0)$parent.append("<span class='section-graph-abstract'>"+$element.find('abstract').first().text()+"</span>");
   var datasets=$element.find('dataset');
-  var xData=[],yData=[];
-  var legends="<div class='graph-legends'>";
+  var xData=[],yData=[],unit=$element.attr('unit');
+  var $legends=$("<div class='graph-legends'></div>");
   for (var i = 0; i < datasets.length; ++i) {
     var $dataset=$(datasets[i]);
     var arrayX=['x'];
@@ -140,21 +235,19 @@ function graphToHTML($element, $parent){
     for (var j = 0; j < datas.length; ++j) {
       $data=$(datas[j]);
       arrayX.push($data.attr('x'));
-      arrayY.push(parseFloat($data.attr('y').replace(",", "")));
+      arrayY.push(parseFloat(replaceAll($data.attr('y'),",", "")));
+    //  console.log($data.attr('y')+" -> "+replaceAll($data.attr('y'),",", "")+" -> "+arrayY[arrayY.length-1]);
     }
     xData.push(arrayX);
     yData.push(arrayY);
-    if($dataset.attr('label') && $dataset.attr('label').length>0)
-    legends+="<div class='graph-legend'> <svg width='40' height='20' xmlns='http://www.w3.org/2000/svg' version='1.1'><rect fill='"+patterns[i]+"' stroke='black' x='0' y='0' width='40' height='20'/></svg>"
-    +$dataset.attr('label')+"</div>";
   }
 
   if ($element.attr('y')=='number') {
     if ($element.attr('x')=='date') {
-      dateToNumberGraph($element, $parent, xData, yData);
+      dateToNumberGraph($element, $parent, $legends, xData, yData, unit);
     }
     else{
-      stringToNumberGraph($element, $parent, xData, yData);
+      stringToNumberGraph($element, $parent, $legends, xData, yData,unit);
 
       /*      if($element.attr('x')=='continent' || $element.attr('x')=='subcontinent' || $element.attr('x')=='country')
       locationToNumberGraph($element, $parent, xData, yData);
@@ -165,26 +258,24 @@ function graphToHTML($element, $parent){
   }
   else if ($element.attr('y')=='percentage') {
     if ($element.attr('x')=='date')
-      dateToNumberGraph($element, $parent, xData, yData);
+      dateToNumberGraph($element, $parent,$legends, xData, yData,unit);
     else
-      stringToPercentageGraph($element, $parent, xData, yData);
+      stringToPercentageGraph($element, $parent,$legends, xData, yData,unit);
   }
   else if ($element.attr('y')=='string') {
-    stringToStringGraph($element, $parent, xData, yData);
+    stringToStringGraph($element, $parent,$legends, xData, yData,unit);
   }
-  legends+="</div>";
-  $('#graph'+graph_number).append(legends);
+//  legends+="</div>";
+  //$('#graph'+graph_number)
+  $('#graph'+graph_number).append($legends);
 }
 
-function dateToNumberGraph($element, $parent, xData, yData){
+function dateToNumberGraph($element, $parent,$legends, xData, yData,unit){
   if(xData.length>0 && xData.length>0){
     var equal=xArrayCheck(xData);
     var settings=getDefaultGraphSettings();
     var dateFormat=getDateFormat(xData[0][1]);
-    graph_number++;
-    $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
-    settings.bindto='#graph'+graph_number;
-    settings.axis.y.tick.format=d3.format(".3s");
+    settings.axis.y.tick.format=getFormatFunction(unit);//;
     settings.data.xFormat=dateFormat[0];
     settings.axis.x.tick.format= dateFormat[1];
     settings.axis.x.type= 'timeseries';
@@ -205,10 +296,24 @@ function dateToNumberGraph($element, $parent, xData, yData){
     //  settings.axis.y.tick.rotate=90;
     //  settings.axis.rotated= true;
     if(xData.length>1 && equal){
+      graph_number++;
+      $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
+      for(var d=0;d<yData.length;d++){
+        var label=yData[d][0];
+        if(label.length>0)
+          $legends.append("<div class='graph-legend'> <svg width='40' height='20' xmlns='http://www.w3.org/2000/svg' version='1.1'><rect fill='"+patterns[d]+"' stroke='black' x='0' y='0' width='40' height='20'/></svg>"+label+"</div>");
+      }
+
+
+      settings.bindto='#graph'+graph_number;
+      /*for(var l=0;l<xData.length;l++){
+        $legends.append();
+      }*/
       yData.unshift(xData[0]);
       settings.data.columns=yData;
       settings.data.type='bar';
-      settings.axis.y.tick.count=6;
+      settings.axis.y.tick.count=4;
+      //settings.axis.x.type= 'category';
       if(xData.length*xData[0].length>8){
         settings.axis.rotated= true;
         settings.axis.x.tick.width=200;
@@ -217,16 +322,22 @@ function dateToNumberGraph($element, $parent, xData, yData){
         settings.axis.x.tick.culling={'max':4};
       }
       var chart = c3.generate(settings);
+
     }
     else{
       for(var i=0;i<xData.length;i++){
         graph_number++;
         $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
+        var label=yData[i][0];
+        if(label.length>0)
+          $legends.append("<div class='graph-legend'> <svg width='40' height='20' xmlns='http://www.w3.org/2000/svg' version='1.1'><rect fill='"+patterns[i]+"' stroke='black' x='0' y='0' width='40' height='20'/></svg>"+label+"</div>");
+
+
         settings.bindto='#graph'+graph_number;
 
         settings.data.columns=[xData[i],yData[i]];
         settings.data.type='line';
-        settings.axis.x.tick.count=3;
+        settings.axis.x.tick.count=4;
         settings.size.width=512;
         var chart = c3.generate(settings);
       }
@@ -236,13 +347,19 @@ function dateToNumberGraph($element, $parent, xData, yData){
 
 
 
-function locationToNumberGraph($element, $parent, xData, yData){
+function locationToNumberGraph($element, $parent,$legends, xData, yData,unit){
   if(xData.length>0 && xData.length>0){
     var dateFormat=getDateFormat(xData[0][1]);
     var equal=xArrayCheck(xData);
     if(xData.length>1 && equal){
       graph_number++;
       $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
+      for(var d=0;d<yData.length;d++){
+        var label=yData[d][0];
+        if(label.length>0)
+          $legends.append("<div class='graph-legend'> <svg width='40' height='20' xmlns='http://www.w3.org/2000/svg' version='1.1'><rect fill='"+patterns[d]+"' stroke='black' x='0' y='0' width='40' height='20'/></svg>"+label+"</div>");
+      }
+
       yData.unshift(xData[0]);
       var settings=getDefaultGraphSettings();
       settings.bindto='#graph'+graph_number;
@@ -262,15 +379,12 @@ function locationToNumberGraph($element, $parent, xData, yData){
         settings.data.columns=[xData[i],yData[i]];
         settings.data.type='bar';
         settings.axis.x.type= 'category';
-        //  settings.axis.x.tick.culling={'max':4};
-
-        //  settings.axis.rotated= true;
         var chart = c3.generate(settings);
       }
     }
   }
 }
-function stringToNumberGraph($element, $parent, xData, yData, format){
+function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
   var settings=getDefaultGraphSettings();
   if(xData.length>0 && xData.length>0){
     var equal=xArrayCheck(xData);
@@ -278,7 +392,6 @@ function stringToNumberGraph($element, $parent, xData, yData, format){
       graph_number++;
       $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
       /*yData.unshift(xData[0]);
-
       settings.bindto='#graph'+graph_number;
       settings.data.columns=yData;
       settings.axis.x.type= 'category';
@@ -290,22 +403,20 @@ function stringToNumberGraph($element, $parent, xData, yData, format){
       settings.axis.x.tick.rotate=90;
       settings.axis.y.tick.count=5;
       var chart = c3.generate(settings);
-
       */
+
       settings.bindto='#graph'+graph_number;
 
       yData.unshift(xData[0]);
       settings.data.columns=yData;
       settings.data.type='bar';
       settings.axis.x.type= 'category';
-      if(format)
-        settings.axis.y.tick.format=d3.format(".3s "+format);
-      else
-        settings.axis.y.tick.format=d3.format(".3s");
-      settings.axis.y.tick.count=6;
+      //settings.axis.y.label.text= 'category';
+      settings.axis.y.tick.format=getFormatFunction(unit);
+      settings.axis.y.tick.count=4;
       //  settings.axis.x.tick.width=200;
 
-      settings.axis.x.tick.width=180;
+      settings.axis.x.tick.width=200;
       settings.size.height=xData.length*xData[0].length*barHeight;
 
       if(xData.length*xData[0].length>8){
@@ -320,18 +431,24 @@ function stringToNumberGraph($element, $parent, xData, yData, format){
       for(var i=0;i<xData.length;i++){
         graph_number++;
         $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
+
+        var label=yData[i][0];
+        if(label.length>0)
+          $legends.append("<div class='graph-legend'> <svg width='40' height='20' xmlns='http://www.w3.org/2000/svg' version='1.1'><rect fill='"+patterns[i]+"' stroke='black' x='0' y='0' width='40' height='20'/></svg>"+label+"</div>");
+
+
         var settings=getDefaultGraphSettings();
         settings.bindto='#graph'+graph_number;
         settings.data.columns=[xData[i],yData[i]];
         settings.data.type='bar';
         settings.axis.x.type= 'category';
-        settings.axis.y.tick.format=d3.format(".3s");
-        settings.axis.y.tick.count=5;
+        settings.axis.y.tick.format=getFormatFunction(unit);
+        settings.axis.y.tick.count=4;
         //  settings.axis.x.tick.culling={'max':4};
 
         //  settings.axis.y.tick.rotate=90;
         //settings.axis.x.tick.rotate=90;
-        settings.axis.x.tick.width=180;
+        settings.axis.x.tick.width=200;
         settings.size.height=xData[i].length*50;
 
         settings.axis.rotated= true;
@@ -341,25 +458,18 @@ function stringToNumberGraph($element, $parent, xData, yData, format){
   }
 }
 
-function getTextWidth(text, font) {
-  // re-use canvas object for better performance
-  var canvas = getTextWidth.canvas || (getTextWidth.canvas = document.createElement("canvas"));
-  var context = canvas.getContext("2d");
-  context.font = font;
-  var metrics = context.measureText(text);
-  return metrics.width;
-}
 
-function stringToPercentageGraph($element, $parent, xData, yData){
+
+function stringToPercentageGraph($element, $parent,$legends, xData, yData,unit){
   for(var i=0;i<xData.length;i++){
     graph_number++;
 
-    $parent.append("<div class='section-treemap' id='my-treemap"+graph_number+"' style=''></div>");
+    $parent.append("<div class='section-treemap' id='graph"+graph_number+"' style=''></div>");
     var data=[];
     for(var j=1;j<xData[i].length;j++){
       data.push({  data:'a'+j,label:yData[i][j]+"% "+xData[i][j],value:yData[i][j],fill:patterns[j%patterns.length]});
     }
-    var t=$("div#my-treemap"+graph_number).treemap(data, {
+    var t=$("div#graph"+graph_number).treemap(data, {
       nodeClass: function(node, box){
         if(node.value <= 50){
           return 'minor';
@@ -370,9 +480,9 @@ function stringToPercentageGraph($element, $parent, xData, yData){
     });
     if (!t.isValid) {
 
-      $("#my-treemap"+graph_number).remove();//css('opacity',0.1);
+      $("#graph"+graph_number).remove();//css('opacity',0.1);
 
-      return stringToNumberGraph($element, $parent, xData, yData, '%');
+      return stringToNumberGraph($element, $parent,$legends, xData, yData, '%');
       //$parent.append("<div>WRONG</div>");
     }
   }
@@ -525,7 +635,7 @@ for(var i=0;i<xData.length;i++){
 
 */
 }
-function stringToStringGraph($element, $parent, xData, yData){}
+function stringToStringGraph($element, $parent,$legends, xData, yData){}
 
 function getDefaultGraphSettings(){
   var settings={
@@ -553,7 +663,7 @@ function getDefaultGraphSettings(){
   },
   bar: {
 
-    zerobased: false,
+    zerobased: true,
     width: {
       ratio: 0.7 // this makes bar width 50% of length between ticks
     }
@@ -587,6 +697,10 @@ function getDefaultGraphSettings(){
     */
   },
   y: {
+    label: {
+       text: 'value in CHF',
+       position: 'outer-top',
+    },
     tick: {
       //  width:60,
       //  height:100,
@@ -629,15 +743,27 @@ function getDateFormat(s){
 //  console.log(s+" "+s.length);
   if (s.length>4) {
     if (s.length<7) {
-      return ['%Y%m','%Y/%m'];
+      return ['%Y%m','%m/%Y'];
     }
     if (s.length<9) {
-      return ['%Y%m%d','%Y/%m/%d'];
+      return ['%Y%m%d','%d/%m/%Y'];
     }
     if (s.length==15) {
   //    console.log('%Y/%m/%d %H:%M:%S');
-      return ['%Y%m%d:%H%M%S','%Y/%m/%d %H:%M:%S'];
+      return ['%Y%m%d:%H%M%S','%d/%m/%Y %H:%M:%S'];
     }
   }
   return format;
+}
+
+function getTextWidth(text, font) {
+  // re-use canvas object for better performance
+  var canvas = getTextWidth.canvas || (getTextWidth.canvas = document.createElement("canvas"));
+  var context = canvas.getContext("2d");
+  context.font = font;
+  var metrics = context.measureText(text);
+  return metrics.width;
+}
+function getFormatFunction(unit){
+  return function (d) { var format=d3.format(".3s"); return format(d)+" "+unit; };//;
 }

@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <bulletins>
+    <title>EU Debt Crisis Odysssey</title>
+  	<subtitle>About the european crisis</subtitle>
+  	<authors>
+      <author>Valeria Mento</author>
+      <author>Jacopo Faggian</author>
+      <author>Francesca Alaimo</author>
+    </authors>
+    <bulletin id="10" date="20160513">
+      <sections>
+
+  <section>
+    <title>Boom! Ireland is back!</title>
+    <chapter>
+      <paragraph>
+        Ireland’s economic success wasn’t a given at all. The country was hit
+        very hard by  he financial crisis and Great Recession: Irish banks were
+        onthe verge of collapse, government debt skyrocketed, and unemployment
+        topped 15%. Only a few years ago, experts warned that Ireland could be
+        the “next Greece.” Ireland received international bailout loans in 2013,
+        after its property market collapsed and banks started failing down.
+      </paragraph>
+    </chapter>
+    <chapter>
+      <paragraph>
+        Unemployment went from 15% circa in 2011 to the actual 8.6%.
+        In the same periode GDP growth from -5% in 2008, during Great
+        Recession, to the 7% in 2015. For this year forecast is about 9%.
+      </paragraph>
+    </chapter>
+    <graph unit="%" x="date" y="number">
+      <title>Ireland's return</title>
+      <dataset label= "GDP growth">
+        <data x="2006" y="4.9"/>
+        <data x="2008" y="-5.0"/>
+        <data x="2010" y="2.1"/>
+        <data x="2012" y="2"/>
+        <data x="2014" y="5.2"/>
+        <data x="2016" y="9.2"/>
+      </dataset>
+      <dataset label= "Unemployment">
+        <data x="2006" y="4.2"/>
+        <data x="2008" y="5.1"/>
+        <data x="2010" y="13.3"/>
+        <data x="2012" y="15.2"/>
+        <data x="2014" y="12.3"/>
+        <data x="2016" y="8.4"/>
+      </dataset>
+    </graph>
+    <keywords>
+      <keyword name="Western Europe" />
+      <keyword name="Employment" />
+      <keyword name="GDP" />
+      <keyword name="National Debt" />
+    </keywords>
+    <sources>
+      <source>Cnn.com</source>
+      <source>Tradingeconomics.com</source>
+      <source>Pwc.com</source>
+      <source>Eurostat.eu</source>
+      <source>Nakedcapitalism.com</source>
+      <source>Bloomberg.com</source>
+      <source>Eunews.com</source>
+      <source>Wikipedia.org</source>
+      <source>Marketwatch.com</source>
+      <source>Ilsole24ore.com</source>
+    </sources>
+  </section>
+
+  <section>
+    <title>Ireland’s economy is growing as fast as China GDP</title>
+    <graph unit="%" x="country" y="number">
+      <title>GDP growth by countries</title>
+      <dataset label= "GDP growth">
+        <data x="US" y="2"/>
+        <data x="IE" y="7"/>
+        <data x="CN" y="7"/>
+      </dataset>
+    </graph>
+    <keywords>
+      <keyword name="Western Europe" />
+      <keyword name="North America" />
+      <keyword name="GDP" />
+      <keyword name="Central and Eastern Asia" />
+    </keywords>
+    <sources>
+      <source>Cnn.com</source>
+      <source>Tradingeconomics.com</source>
+      <source>Pwc.com</source>
+      <source>Eurostat.eu</source>
+      <source>Nakedcapitalism.com</source>
+      <source>Bloomberg.com</source>
+      <source>Eunews.com</source>
+      <source>Wikipedia.org</source>
+      <source>Marketwatch.com</source>
+      <source>Ilsole24ore.com</source>
+    </sources>
+  </section>
+
+  <section>
+    <title>Is China hiding something?</title>
+    <chapter>
+      <paragraph>
+        The growth rate is a far cry from China’s spectacular expansion in recent
+        decades, but it broadly matches the government’s 7% target. After years of
+        torrid expansion, the world’s second-largest economy is now decelerating.
+      </paragraph>
+    </chapter>
+    <graph unit="%" x="date" y="number">
+      <title>Is growth slowing?</title>
+      <dataset label= "GDP growth">
+        <data x="2006" y="12.5"/>
+        <data x="2008" y="14"/>
+        <data x="2010" y="12.1"/>
+        <data x="2012" y="8.3"/>
+        <data x="2014" y="7.6"/>
+        <data x="2016" y="6.7"/>
+      </dataset>
+    </graph>
+    <chapter>
+      <paragraph>
+        Some observers doubt the accuracy of China’s GDP numbers, arguing they are
+        massaged by government officials, so they are not reflecting the reality.
+      </paragraph>
+      </chapter>
+      <quote>
+        <author>Julian Evans-Pritchard</author>
+        <text>
+        China’s ability to continue to post such rapid and relatively stable growth,
+        even as it has increasingly become a source of volatility in global equity and
+        commodity markets, will undoubtedly attract a great deal of skepticism.
+      </text>
+    </quote>
+    <graph unit="%" x="country" y="number">
+      <title>Two different estimations</title>
+      <dataset label= "Estimations_by">
+        <data x="Julian Evans-Pritchard" y="4.5"/>
+        <data x="Official sources" y="6.8"/>
+      </dataset>
+    </graph>
+    <keywords>
+      <keyword name="Central and Eastern Asia" />
+      <keyword name="Employment" />
+      <keyword name="GDP" />
+      <keyword name="Governance" />
+    </keywords>
+    <sources>
+      <source>Cnn.com</source>
+      <source>Tradingeconomics.com</source>
+      <source>Pwc.com</source>
+      <source>Eurostat.eu</source>
+      <source>Nakedcapitalism.com</source>
+      <source>Bloomberg.com</source>
+      <source>Eunews.com</source>
+      <source>Wikipedia.org</source>
+      <source>Marketwatch.com</source>
+      <source>Ilsole24ore.com</source>
+    </sources>
+  </section>
+
+  <section>
+    <title>How the “Celtic Tiger” did it? Tech-economy is the way!</title>
+    <chapter>
+      <paragraph>
+        One of the main reason is that Ireland is widely known as a tax haven.
+        Several prominent U.S. technological corporations have headquarters there,
+        to save money on taxes. How they did it? Which company moved to Ireland?
+        <list type="unordered">
+          <item>Lots of companies are located in Dublin but they are supervised in
+            US in this way they are considered “stateless corporations”.
+            They don’t pay between 30% taxes in US but 12% in Ireland
+          </item>
+          <item>In order to be an Irish corporation you have to be registrated
+            in Dublin and supervised in Ireland.
+          </item>
+            <item>On the other hand In order to be an United State corporation
+              you have to be supervised in US
+            </item>
+        </list>
+      </paragraph>
+    </chapter>
+  <graph unit="%" x="country" y="number">
+    <title>Corporate tax rate</title>
+    <abstract>Corporate taxes in USA are one of the highest
+      in the world, Ireland has low taxation, so many companiers
+      decided to move to Dublin.</abstract>
+    <dataset label= "GDP growth">
+      <data x="BL" y="10"/>
+      <data x="EI" y="12"/>
+      <data x="LV" y="15"/>
+      <data x="SG" y="17"/>
+      <data x="CZ" y="19"/>
+      <data x="HU" y="19"/>
+      <data x="PL" y="19"/>
+      <data x="GB" y="21"/>
+      <data x="PT" y="12"/>
+      <data x="SE" y="22"/>
+      <data x="AT" y="25"/>
+      <data x="CH" y="25"/>
+      <data x="ND" y="25"/>
+      <data x="JY" y="25"/>
+      <data x="ES" y="28"/>
+      <data x="LX" y="29"/>
+      <data x="DE" y="30"/>
+      <data x="BE" y="33"/>
+      <data x="FR" y="33"/>
+      <data x="US" y="35"/>
+    </dataset>
+  </graph>
+  <keywords>
+    <keyword name=">Western Europe"/>
+    <keyword name="North America"/>
+    <keyword name="Taxes"/>
+    <keyword name="Global Corporations"/>
+    <keyword name="Commerce"/>
+    <keyword name="Tech"/>
+    <keyword name="South America"/>
+    <keyword name="Eastern Europe"/>
+    <keyword name="Southern Africa"/>
+    <keyword name="Middle East and Western Asia"/>
+    <keyword name="Central and Eastern Asia"/>
+    <keyword name="Southern Asia"/>
+    <keyword name="Southeastern Asia"/>
+  </keywords>
+  <sources>
+    <source>Cnn.com</source>
+    <source>Tradingeconomics.com</source>
+    <source>Pwc.com</source>
+    <source>Eurostat.eu</source>
+    <source>Nakedcapitalism.com</source>
+    <source>Bloomberg.com</source>
+    <source>Eunews.com</source>
+    <source>Wikipedia.org</source>
+    <source>Marketwatch.com</source>
+    <source>Ilsole24ore.com</source>
+  </sources>
+  </section>
+
+  <section>
+    <title>Ireland says no to Brexit</title>
+    <chapter>
+      <paragraph>
+        The UK and Irish economies have always had a close relationship.
+        The possibility of Britain leaving the EU would have consequences
+        for Irish trade, GDP and migrant arrivals. Edna Kenny, Irish Prime
+        Minister, openly declared to be against Brexit.
+      </paragraph>
+    </chapter>
+    <chapter>
+      <title>Main reasons of Dublin</title>
+      <paragraph>
+        <list type="ordered">
+          <item>
+            Economic reasons:
+            Ireland excange products with Great Britain for more than €50 billion each year.
+            Economic and Social Research Institute said that the loss would be €10 billion
+            each year for the Celtic Tiger. They also estime that Ireland’s GDP will fall
+            down between 2 and 12% in case of Brexit.
+          </item>
+          <item>
+            Migration reasons:
+            About 380.000 Irish people live nowadays in Great Britain. With Brexit they would
+            probably be blocked in UK and have problems with burocracy. In case of Brexit,
+            migrants coming from other countries will be redirect in Ireland instead of UK.
+          </item>
+          <item>
+            Historical reasons:
+            Flanagan, Irish Foreign Minister, adfirmed recently that European Union had good
+            influence on Northen Ireland, it became a sort of “glue” that helped a lot this
+            two regions to solve their historical conflicts in a peaceful way. Brexit, he
+            says, could cause new conflicts and problems.
+          </item>
+        </list>
+      </paragraph>
+    </chapter>
+    <chapter>
+      <paragraph>
+      Martin McGuinness, Northen Ireland’s vicepresident and member of Sinn Féin, indipendentist
+      movement, declaired “The place of Ireland, south and nord, is in EU”. Brexit would be a
+      decision against population will, so he propose the riunification of the entire Island in
+      case of UK decides to go out from Europe.
+    </paragraph>
+    </chapter>
+    <keywords>
+      <keyword name="Western Europe" />
+      <keyword name="Brexit/Grexit" />
+      <keyword name="Migration" />
+      <keyword name="Import/Export" />
+      <keyword name="Citizenship" />
+      <keyword name="GDP" />
+      <keyword name="Commerce" />
+      <keyword name="Investments" />
+    </keywords>
+    <sources>
+      <source>Cnn.com</source>
+      <source>Tradingeconomics.com</source>
+      <source>Pwc.com</source>
+      <source>Eurostat.eu</source>
+      <source>Nakedcapitalism.com</source>
+      <source>Bloomberg.com</source>
+      <source>Eunews.com</source>
+      <source>Wikipedia.org</source>
+      <source>Marketwatch.com</source>
+      <source>Ilsole24ore.com</source>
+    </sources>
+  </section>
+
+  <section>
+    <title>France and Italy, too big to fail?</title>
+    <chapter>
+      <paragraph>
+        The European debt crisis is merely slumbering. Greek, Portuguese
+        and Spanish problems are likely to surface in the coming months.
+        But Italy and France are vulnerable...
+      </paragraph>
+    </chapter>
+    <graph unit="USD" x="country" y="number">
+      <title>World’s Top Ten in IMF’s list</title>
+      <dataset label= "GDP growth">
+        <data x="US" y="17,418,925"/>
+        <data x="CN" y="10,380,380"/>
+        <data x="JY" y="4,616,335"/>
+        <data x="DE" y="3,859,574"/>
+        <data x="FR" y="3,859,574"/>
+        <data x="GB" y="2,846,889"/>
+        <data x="BR" y="2,353,025"/>
+        <data x="IT" y="2,147,952"/>
+        <data x="RU" y="2,097,000"/>
+        <data x="IN" y="1,841,717"/>
+      </dataset>
+    </graph>
+    <keywords>
+      <keyword name="North America" />
+      <keyword name="South America" />
+      <keyword name="Eastern Europe" />
+      <keyword name="Western Europe" />
+      <keyword name="Southern Africa" />
+      <keyword name="Middle East and Western Asia" />
+      <keyword name="Central and Eastern Asia" />
+      <keyword name="Southern Asia" />
+      <keyword name="Southeastern Asia" />
+      <keyword name="GDP" />
+      <keyword name="Credit rating" />
+    </keywords>
+    <sources>
+      <source>Cnn.com</source>
+      <source>Tradingeconomics.com</source>
+      <source>Pwc.com</source>
+      <source>Eurostat.eu</source>
+      <source>Nakedcapitalism.com</source>
+      <source>Bloomberg.com</source>
+      <source>Eunews.com</source>
+      <source>Wikipedia.org</source>
+      <source>Marketwatch.com</source>
+      <source>Ilsole24ore.com</source>
+    </sources>
+  </section>
+
+  <section>
+    <quote>
+      <author>Bloomberg.com</author>
+      <text>
+        Italy and France are large modern nations, with enviable economic pedigree.
+        So they appear too big to fail...but it’s true? Reform has been difficult,
+        and without corrective action, their debt will increase critically and quickly.
+      </text>
+    </quote>
+    <keywords>
+      <keyword name="Western Europe" />
+      <keyword name="Employment" />
+      <keyword name="GDP" />
+      <keyword name="Agriculture" />
+      <keyword name="Manufacturing" />
+      <keyword name="Tech" />
+    </keywords>
+    <sources>
+      <source>Cnn.com</source>
+      <source>Tradingeconomics.com</source>
+      <source>Pwc.com</source>
+      <source>Eurostat.eu</source>
+      <source>Nakedcapitalism.com</source>
+      <source>Bloomberg.com</source>
+      <source>Eunews.com</source>
+      <source>Wikipedia.org</source>
+      <source>Marketwatch.com</source>
+      <source>Ilsole24ore.com</source>
+    </sources>
+  </section>
+
+  <section>
+    <title>Two good countries with lot of problems</title>
+    <chapter>
+      <paragraph>
+        Italy and France are large modern nations, with enviable economic pedigree.
+        These two countries have a well-developed infrastructure and considerable
+        economic and social capital. In addition they are major agricultural and
+        industrial powers, strong in advanced technical products and many others
+        sectors. So they appear too big to fail...but it’s true? Italy and France
+        share problems of slow growth, unemployment and poor public finances.
+        Reform has been difficult, and without corrective action, their debt
+        will increase critically and quickly. combination of weak economy and
+        low inflation is causing Italy’s debt trajectory to spiral upwards.
+        In France, there is no sign that the budget is likely to be in surplus
+        in the near future.
+      </paragraph>
+    </chapter>
+    <keywords>
+      <keyword name="Western Europe" />
+      <keyword name="Employment" />
+      <keyword name="GDP" />
+      <keyword name="Agriculture" />
+      <keyword name="Manufacturing" />
+      <keyword name="Tech" />
+    </keywords>
+    <sources>
+      <source>Cnn.com</source>
+      <source>Tradingeconomics.com</source>
+      <source>Pwc.com</source>
+      <source>Eurostat.eu</source>
+      <source>Nakedcapitalism.com</source>
+      <source>Bloomberg.com</source>
+      <source>Eunews.com</source>
+      <source>Wikipedia.org</source>
+      <source>Marketwatch.com</source>
+      <source>Ilsole24ore.com</source>
+    </sources>
+    </section>
+
+    <section>
+      <title>Government budget</title>
+      <chapter>
+        <paragraph>
+          Government Budget is an itemized accounting of the payments received by
+          government (taxes and other fees) and the payments made by government
+          (purchases and transfer payments). A budget deficit occurs when a country
+          spends more money than it takes in.
+        </paragraph>
+      </chapter>
+      <graph unit="EUR" x="date" y="number">
+        <title>Government budget 2006 | 2015</title>
+        <dataset label= "Italy">
+          <data x="2006" y="-3.8"/>
+          <data x="2007" y="-1.7"/>
+          <data x="2008" y="-3"/>
+          <data x="2009" y="-5.5"/>
+          <data x="2010" y="-4,3"/>
+          <data x="2011" y="-3.4"/>
+          <data x="2012" y="-3"/>
+          <data x="2013" y="-3"/>
+          <data x="2014" y="-3.1"/>
+          <data x="2015" y="-2.6"/>
+        </dataset>
+        <dataset label= "France">
+          <data x="2006" y="-2.4"/>
+          <data x="2007" y="-2.8"/>
+          <data x="2008" y="-3.3"/>
+          <data x="2009" y="-7.3"/>
+          <data x="2010" y="-7.0"/>
+          <data x="2011" y="-5.2"/>
+          <data x="2012" y="-5.0"/>
+          <data x="2013" y="-4.0"/>
+          <data x="2014" y="-4.0"/>
+          <data x="2015" y="-2.8"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="Taxes" />
+      </keywords>
+      <sources>
+        <source>Cnn.com</source>
+        <source>Tradingeconomics.com</source>
+        <source>Pwc.com</source>
+        <source>Eurostat.eu</source>
+        <source>Nakedcapitalism.com</source>
+        <source>Bloomberg.com</source>
+        <source>Eunews.com</source>
+        <source>Wikipedia.org</source>
+        <source>Marketwatch.com</source>
+        <source>Ilsole24ore.com</source>
+      </sources>
+    </section>
+
+    <section>
+      <title>Government debt to GDP</title>
+      <chapter>
+        <paragraph>
+          Generally, Government debt as a percent of Gross Domestic Product is used
+          by investors to measure a country ability to make future payments on its
+          debt, thus affecting the country borrowing costs and government bond yields.
+        </paragraph>
+      </chapter>
+      <graph unit="EUR" x="date" y="number">
+        <title>Government debt to GDP 2006 | 2015</title>
+        <dataset label= "Italy">
+          <data x="2006" y="104"/>
+          <data x="2007" y="102"/>
+          <data x="2008" y="103"/>
+          <data x="2009" y="114"/>
+          <data x="2010" y="116"/>
+          <data x="2011" y="117"/>
+          <data x="2012" y="125"/>
+          <data x="2013" y="131"/>
+          <data x="2014" y="135"/>
+          <data x="2015" y="135"/>
+        </dataset>
+        <dataset label= "France">
+          <data x="2006" y="65"/>
+          <data x="2007" y="65"/>
+          <data x="2008" y="70"/>
+          <data x="2009" y="80"/>
+          <data x="2010" y="82"/>
+          <data x="2011" y="85"/>
+          <data x="2012" y="89"/>
+          <data x="2013" y="95"/>
+          <data x="2014" y="97"/>
+          <data x="2015" y="97"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="Credit rating" />
+        <keyword name="GDP" />
+        <keyword name="National Debt" />
+      </keywords>
+      <sources>
+        <source>Cnn.com</source>
+        <source>Tradingeconomics.com</source>
+        <source>Pwc.com</source>
+        <source>Eurostat.eu</source>
+        <source>Nakedcapitalism.com</source>
+        <source>Bloomberg.com</source>
+        <source>Eunews.com</source>
+        <source>Wikipedia.org</source>
+        <source>Marketwatch.com</source>
+        <source>Ilsole24ore.com</source>
+      </sources>
+    </section>
+
+    <section>
+      <title>Unemployment rate</title>
+      <chapter>
+        <paragraph>
+          Percentage of total workforce who are unemployed and are looking for
+          a paid job. Unemployment rate is one of the most closely watched statistics
+          because a rising rate is seen as a sign of weakening economy that may call
+          for cut in interest rate. A falling rate indicates a growing economy.
+        </paragraph>
+      </chapter>
+      <graph unit="EUR" x="date" y="number">
+        <title> Unemployment rate 2013/3015 | 2016</title>
+        <dataset label= "Italy">
+          <data x="20150430" y="12.1"/>
+          <data x="20150531" y="12.2"/>
+          <data x="20150630" y="12.2"/>
+          <data x="20150731" y="11.7"/>
+          <data x="20150831" y="11.5"/>
+          <data x="20150930" y="11.5"/>
+          <data x="20151031" y="11.6"/>
+          <data x="20151130" y="11.5"/>
+          <data x="20151231" y="11.6"/>
+          <data x="20160131" y="11.6"/>
+          <data x="20160229" y="11.6"/>
+          <data x="20160330" y="11.4"/>
+        </dataset>
+        <dataset label= "France">
+          <data x="20130331" y="10.3"/>
+          <data x="20130531" y="10.3"/>
+          <data x="20130930" y="10.3"/>
+          <data x="20131130" y="10.1"/>
+          <data x="20140331" y="10.2"/>
+          <data x="20140531" y="10.1"/>
+          <data x="20140930" y="10.3"/>
+          <data x="20141130" y="10.5"/>
+          <data x="20150331" y="10.3"/>
+          <data x="20150531" y="10.3"/>
+          <data x="20150930" y="10.4"/>
+          <data x="20151130" y="10.3"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="Employment" />
+      </keywords>
+      <sources>
+        <source>Cnn.com</source>
+        <source>Tradingeconomics.com</source>
+        <source>Pwc.com</source>
+        <source>Eurostat.eu</source>
+        <source>Nakedcapitalism.com</source>
+        <source>Bloomberg.com</source>
+        <source>Eunews.com</source>
+        <source>Wikipedia.org</source>
+        <source>Marketwatch.com</source>
+        <source>Ilsole24ore.com</source>
+      </sources>
+    </section>
+
+    <section>
+      <title>GDP growth rate</title>
+      <chapter>
+        <paragraph>
+          GDP is the sum of gross value added by all resident producers in the economy
+          plus any product taxes and minus any subsidies not included in the value of
+          the products. It is calculated without making deductions for depreciation of
+          fabricated assets or for depletion and degradation of natural resources.
+        </paragraph>
+      </chapter>
+      <graph unit="EUR" x="date" y="number">
+        <title>GDP growth rate 2013 | 2016</title>
+        <dataset label= "Italy">
+          <data x="20130131" y="-0.8"/>
+          <data x="20130331" y="-0.1"/>
+          <data x="20130630" y="0.4"/>
+          <data x="20130930" y="-0.1"/>
+          <data x="20140131" y="-0.1"/>
+          <data x="20140331" y="-0.1"/>
+          <data x="20140630" y="0"/>
+          <data x="20140930" y="-0.1"/>
+          <data x="20150131" y="0.4"/>
+          <data x="20150331" y="0.3"/>
+          <data x="20150630" y="0.2"/>
+          <data x="20150930" y="0.1"/>
+        </dataset>
+        <dataset label= "France">
+          <data x="20130131" y="0.8"/>
+          <data x="20130331" y="-0.1"/>
+          <data x="20130630" y="0.2"/>
+          <data x="20130930" y="-0.2"/>
+          <data x="20140131" y="-0.1"/>
+          <data x="20140331" y="0.3"/>
+          <data x="20140630" y="0.1"/>
+          <data x="20140930" y="0.6"/>
+          <data x="20150131" y="0"/>
+          <data x="20150331" y="0.4"/>
+          <data x="20150630" y="0.3"/>
+          <data x="20150930" y="0.5"/>
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="GDP" />
+        <keyword name="National Debt" />
+      </keywords>
+      <sources>
+        <source>Cnn.com</source>
+        <source>Tradingeconomics.com</source>
+        <source>Pwc.com</source>
+        <source>Eurostat.eu</source>
+        <source>Nakedcapitalism.com</source>
+        <source>Bloomberg.com</source>
+        <source>Eunews.com</source>
+        <source>Wikipedia.org</source>
+        <source>Marketwatch.com</source>
+        <source>Ilsole24ore.com</source>
+      </sources>
+    </section>
+
+</sections>
+</bulletin>
+</bulletins>
