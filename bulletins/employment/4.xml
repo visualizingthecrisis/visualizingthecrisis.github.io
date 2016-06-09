@@ -1,6 +1,6 @@
 <bulletin id="issue 4" date="20160326">
   <sections>
-    <section> <!--1-->
+    <section>                                                          <!--1-->
       <title>India and China GDP Growth</title>
       <graph unit="%" x="date" y="number">
         <dataset label="India">
@@ -36,7 +36,7 @@
       <graph unit="b$" x="location" y="number">
         <title>Main Countries Where China and India Exported Before China's Slowdown (2014)</title>
         <abstract>
-          India gross trade flow in 2014 was $311b, while China one was $2.34t.
+          India gross trade flow in 2014 was $311 billion, while China one was $2.34 trillion.
         </abstract>
         <dataset label="India">
           <data x="US" y="43" />
@@ -78,6 +78,9 @@
       <chapter>
         <title>Global Growth Rate Projections Annually to 2024</title>
         <paragraph>The researchers at the Center for International Development at Harvard University use their newly updated measure of economic complexity, which captures the diversity and sophistication of productive capabilities embedded in a country’s exports, to generate the global growth projections.</paragraph>
+      </chapter>
+      <chapter>
+        <paragraph>The World Bank estimates that India’s economy is currently growing at a fast pace and forecasts it is likely to remain the world’s fastest growing large economy for the foreseeable future.</paragraph>
       </chapter>
       <table>
         <row type="head">
@@ -691,9 +694,6 @@
           <cell>0.27</cell>
         </row>
       </table>
-      <chapter>
-        <paragraph>The World Bank estimates that India’s economy is currently growing at a fast pace and forecasts it is likely to remain the world’s fastest growing large economy for the foreseeable future.</paragraph>
-      </chapter>
       <keywords>
         <keyword name="North America" />
         <keyword name="South America" />
@@ -737,7 +737,7 @@
         <paragraph>China’s GDP is almost 5 times larger than India's and its manufacturing sector is 10 times bigger. However the slowdown in China could make a big difference. With the rising cost of labour, it is no longer cheap to manufacture there and it will soon cease to be an export powerhouse if this continues. Minimum wages have increase by double-digits and companies have started looking for alternatives. For example, companies like Godrej, Micromax and Bosch have started expanding or shifting manufacturing operations to India.</paragraph>
       </chapter>
       <graph unit="" x="location" y="number">
-        <title>Manufactory Unit Labor Cost, Compared with the US (US=100)</title>
+        <title>Manufactory Unit Labor Cost Compared with the United States (US=100)</title>
         <dataset label="2003">
           <data x="US" y="100" />
           <data x="AU" y="150" />
@@ -790,7 +790,6 @@
         <paragraph>Because of rising wages in China, the need for shorter supply chains and other factors, a small but growing group of companies are shifting production back to the US. But the factories they build here are heavily automated, employing a small fraction of the workers they would have a generation ago.</paragraph>
       </chapter>
       <graph unit="%" x="date" y="number">
-        <title>Manufactory Unit Labor Cost, Compared with the US (US=100)</title>
         <dataset label="Manufacturing output">
           <data x="2010" y="3,5" />
           <data x="2011" y="9,5" />
@@ -812,10 +811,12 @@
       </graph>
       <chapter>
       <title>Just Another Trumpsh*t</title>
+      </chapter>
       <quote>
         <author>Donald John Trump, presumptive nominee of the Republican Party for President of the United States in the 2016 election</author>
         <text>Let's take our jobs back from China and all these other countries!</text>
       </quote>
+      <chapter>
         <paragraph>Nothing, no real informations will stop Donald Trump from making this sort of promises at every debate and campaign.</paragraph>
       </chapter>
       <keywords>
@@ -852,7 +853,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--4-->
+    <section>                                                          <!--4-->
     <title>Hollywood on the Yellow Sea</title>
       <chapter>
       <paragraph>Wang Jianlin, one of China’s richest men, is creating a rival to the American dream factory, from scratch. The Dalian Wanda Group, China’s biggest commercial real-estate developer and the world’s largest owner of movie theaters, has committed $8.2 billion to the project.</paragraph>
@@ -862,7 +863,7 @@
     <title>Chinese Cinemas 东方影都</title>
   </chapter>
   <graph unit="million" x="date" y="number">
-    <title>Tickets sold(</title>
+    <title>Tickets sold</title>
     <dataset label="">
       <data x="2010" y="0,15" />
       <data x="2011" y="0,2" />
@@ -873,7 +874,7 @@
     </dataset>
   </graph>
   <graph unit="thousand" x="date" y="number">
-    <title>Theater screens(</title>
+    <title>Theater screens</title>
     <dataset label="">
       <data x="2010" y="4" />
       <data x="2011" y="5.9" />
@@ -905,7 +906,7 @@
     <source>Internazionale</source>
   </sources>
     </section>
-    <section> <!--5-->
+    <section>                                                                       <!--5-->
       <title>Things are Changing</title>
       <chapter>
         <paragraph>Cheap labor, vast factories and a building spree without parallel powered China’s economic miracle.</paragraph>
@@ -966,20 +967,20 @@
         <row type="cell">
           <cell>21 Mar 2016</cell>
           <cell>Workers at a machine manufacturer in Shanghai strike over wage reductions.</cell>
-          <cell>100-1000 people</cell>
+          <cell>100-1,000 people</cell>
           <cell>Strike</cell>
          </row>
          <row type="cell">
            <cell>22 Mar 2016</cell>
            <cell>Workers at a flame retardant materials factory protest wage arrears in Yangquan.</cell>
            <cell>1-100 people</cell>
-           <cell>Protest /Demonstration</cell>
+           <cell>Protest, Demonstration</cell>
           </row>
           <row type="cell">
             <cell>22 Mar 2016</cell>
             <cell>Retired workers demand retirement benefits at government building in Hinggan.</cell>
-            <cell>100-1000 people</cell>
-            <cell>Sit-in / Protest / Demonstration</cell>
+            <cell>100-1,000 people</cell>
+            <cell>Sit-in, Protest, Demonstration</cell>
            </row>
       </table>
       <keywords>
@@ -1009,7 +1010,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--6-->
+    <section>                                                        <!--6-->
       <title>A Matter of Infrastructure</title>
       <subtitle>China vs India</subtitle>
       <chapter>
@@ -1047,7 +1048,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--7-->
+    <section>                                                            <!--7-->
       <title>The Indian Speed-Up</title>
       <chapter>
         <title>India’s 2016-17 Budget</title>
@@ -1069,14 +1070,14 @@
          </row>
          <row type="cell">
            <cell>Helping companies pay for pensions</cell>
-           <cell>₹ 10 billion ($ 150 million) will use to pay 8.33% for new employees’ basic salary towards pension and provident fund contributions.</cell>
+           <cell>₹10 billion ($150 million) will use to pay 8.33% for new employees’ basic salary towards pension and provident fund contributions.</cell>
            <cell>-</cell>
            <cell>-</cell>
           </row>
           <row type="cell">
             <cell>Betting on the long-term dividends of infrastructure</cell>
-            <cell>₹ 2.21 trillion ($ 32.5 billion) is the amount that India will spend for its infrastructure.</cell>
-            <cell>₹ 0,40 trillon ($ 6 billion) is the initial corpus for launching the National Infrastructure Investment Fund (NIFF)</cell>
+            <cell>₹2.21 trillion ($32.5 billion) is the amount that India will spend for its infrastructure.</cell>
+            <cell>₹0,40 trillon ($6 billion) is the initial corpus for launching the National Infrastructure Investment Fund (NIFF)</cell>
             <cell>10,000 km are the roads that will be built, beside the upgrading of state highways.</cell>
            </row>
       </table>
@@ -1111,7 +1112,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--8-->
+    <section>                                                             <!--8-->
       <title>Facebook and Google’s Expansion: a New Colonialism in India</title>
         <abstract>
           Silicon Valley companies, led by Google and Facebook, are arriving in India with the key to a vital resource of the 21st century: connectivity. Indian critics have dubbed the US companies “digital colonialists”. The heightened tone of the debate reflects how much is at stake: with a population of 1.2 billion, India has the potential to be the largest open internet market in the world.
