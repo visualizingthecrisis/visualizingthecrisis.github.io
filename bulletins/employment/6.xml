@@ -1,6 +1,6 @@
 <bulletin id="issue 6" date="20160416">
   <sections>
-    <section> <!--1-->
+    <section>                                                          <!--1-->
       <title>US Tax Revenue</title>
       <graph unit="t$" x="date" y="number">
         <dataset label="">
@@ -43,7 +43,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--2-->
+    <section>                                                                  <!--2-->
       <title>In Haven Everything is Fine</title>
       <abstract>
         Borders are becoming less relevant to many of us, in a world of rapidly developing networked communication. But some recent events remind us how much borders still matter: Panama Papers, the history's biggest data leak from the database of the offshore law firm Mossack Fonseca, that contains evidence that some of the world’s richest people have used national borders to shield chunks of their massive wealth from other countries’ taxing authority.
@@ -59,7 +59,7 @@
         </row>
       </table>
       <graph unit="" x="location" y="number">
-        <title>Financial Secrecy Idex 2015 Results</title>
+        <title>Financial Secrecy Index 2015 Results</title>
         <abstract>
           The Financial Secrecy Index ranks jurisdictions according to their secrecy and the scale of their offshore financial activities. Panama ranks just as 13th in the Financial Secrecy Index, while Switzerland, Hong Kong and U.S. appear on top of the list.
         </abstract>
@@ -148,7 +148,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--3-->
+    <section>                                                                 <!--3-->
       <title>Bloody Money</title>
       <abstract>
         Some companies who have used offshore tax havens were accused of supplying fuel to the Syrian Air Force. The investigation reveals that the Panamanian firm helped these companies operate as attacks in Syria continued.
@@ -182,7 +182,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--4-->
+    <section>                                                         <!--4-->
       <quote>
         <author>Suzanne McGee, The Guardian</author>
         <text>It’s a sad world where the wealthy go shopping for passports while refugees drown in the Mediterranean.</text>
@@ -217,7 +217,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--5-->
+    <section>                                                                    <!--5-->
       <title>Offshore companies created since 1977</title>
       <abstract>
         The number of companies created by Mossack Fonseca  had a relevant decline in the last decade - Mossack Fonseca and Co. is a Panamanian law firm and corporate service provider founded in 1986 that has grown to have more than 40 offices worldwide; the firm received worldwide media attention when informations about its clients' financial dealings were published in the Panama Papers articles, following the release of an enormous cache of its documents from between 1970 and 2015 leaked to the news media.
@@ -262,7 +262,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--6-->
+    <section>                                                                        <!--6-->
       <title>Global Offshore Wealth</title>
       <abstract>
         The total amount of global offshore wealth corresponds to $7,600 billion. This means that, according to "The Hidden Wealth of Nations" - a recent book by Gabriel Zucman, economist at the University of California, Berkeley -, tax evasion costs governments approximately $190 billion per year. Let's make this simple and clear: tax evasion means less money for schools and roads, more money for drug barons and worse.
@@ -297,7 +297,7 @@
         <paragraph>Just 4% of US wealth is held offshore. By resisting new global disclosure standards, the US - with Delaware, Nevada, South Dakota and Wyoming - is creating a hot new market, becoming the go-to place to stash foreign wealth.</paragraph>
       </chapter>
       <chapter>
-        <title>Switzerland is so Last Century</title>
+        <title>Switzerland Instead is so Last Century</title>
         <paragraph>Everyone from London lawyers to Swiss trust companies is getting in on the act, helping the world’s rich move accounts from places like the Bahamas and the British Virgin Islands to US of course.</paragraph>
       </chapter>
       <keywords>
@@ -336,7 +336,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--7-->
+    <section>                                                           <!--7-->
       <quote>
         <author>Matt Phillips, Quartz</author>
         <text>Unlike the secrets exposed by the Panama Papers, big US tax dodging is done in full public view.</text>
@@ -370,7 +370,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--8-->
+    <section>                                                                      <!--8-->
       <title>Financial Transparency</title>
       <abstract>
         There is still a complete lack of financial transparency in several tax havens around the world - and recently this has become a hot topic after the Panama Papers case. We need to create a unified global register of financial securities. This involves putting Central Depositories under public control.
@@ -410,7 +410,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--9-->
+    <section>                                                         <!--9-->
       <title>British Housing Market</title>
       <abstract>
         In England and Wales, where most young people can't afford to buy a home, more than 90,000 properties are listed in the Land Registry to overseas owners, at least 75,000 of which are owned by companies or individuals registered in tax havens.
@@ -445,7 +445,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--10-->
+    <section>                                                        <!--10-->
       <title>The Future of Journalism</title>
       <subtitle>A New Direction for Investigative Reporting</subtitle>
       <abstract>
@@ -455,16 +455,16 @@
         <subtitle>The Outcomes</subtitle>
         <paragraph>
           <list type="ordered">
-            <item>Digital Cross-Bording: new web platforms allow to connect journalists and reportes working in the same field and helping each other to get information from local registries and databases.</item>
-            <item>Data Journalism: this ambit of journalism has made on the basis of the analysis of digitized data of different nature, making possible to tell stories that otherwise would be really difficult.</item>
-            <item>Encryption and Anonymity: there are new foundamental tools, that have become more widespread and easy to use, making it safer in some ways than ever before for sources to reach out to journalists across the globe.</item>
+            <item>CROSS BORDER COOPERATION: new web platforms allow to connect journalists and reportes working in the same field and helping each other to get information from local registries and databases.</item>
+            <item>DATA JOURNALISM: this ambit of journalism has made on the basis of the analysis of digitized data of different nature, making possible to tell stories that otherwise would be really difficult.</item>
+            <item>ENCRYPTION AND ANONYMITY: there are new foundamental tools, that have become more widespread and easy to use, making it safer in some ways than ever before for sources to reach out to journalists across the globe.</item>
           </list>
         </paragraph>
         <paragraph>
           <list type="unordered">
-            <item>John Doe: "Hello. This is John Doe. Interested in data?"</item>
-            <item>Süeddeutsche Zeitung: "We're very interested."</item>
-            <item>John Doe: "There are a couple of conditions. My life is in danger. We will only chat over encrypted files. No meeting, ever. The choice of stories is obviously up to you."</item>
+            <item>JOHN DOE: "Hello. This is John Doe. Interested in data?"</item>
+            <item>SÜEDDEUTSCHE ZEITUNG: "We're very interested."</item>
+            <item>JOHN DOE: "There are a couple of conditions. My life is in danger. We will only chat over encrypted files. No meeting, ever. The choice of stories is obviously up to you."</item>
           </list>
         </paragraph>
       </chapter>
@@ -494,7 +494,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--11-->
+    <section>                                                            <!--11-->
       <title>Printed Press is Withering</title>
       <subtitle>The Dark Side of the Digital Journalism</subtitle>
       <abstract>
@@ -502,7 +502,7 @@
       </abstract>
       <chapter>
         <title>Advertising Market Covered by the Press</title>
-        <paragraph>In the last years the coverage of printed press in the advertising market has dropped to 11.4%, while Google had a €44.5 million income with ads in 2015. For publishers the only solution is to charge for web content through paywall. Meanwhile the Guardian, which has a great free web-site, has seen its sales fall, losing €72,2 million.</paragraph>
+        <paragraph>In the last years the coverage of printed press in the advertising market has dropped to 11.4%, while Google had a €44.5 million income with ads in 2015. For publishers the only solution is to charge for web content through paywall. Meanwhile the Guardian, which has a great free web-site, has seen its sales fall losing €72,2 million.</paragraph>
       </chapter>
       <graph unit="%" x="string" y="percentage">
         <title>2008</title>
@@ -562,7 +562,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--12-->
+    <section>                                                          <!--12-->
       <title>Panama Papers: the Making Of</title>
       <subtitle>The History's Biggest Leak</subtitle>
       <abstract>
@@ -634,7 +634,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--13-->
+    <section>                                                                 <!--13-->
       <title>A Brief History of Leaks</title>
       <chapter>
         <paragraph>
@@ -697,7 +697,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--14-->
+    <section>                                                             <!--14-->
       <title>Philippines</title>
       <subtitle>Flash News on News</subtitle>
       <abstract>
@@ -731,7 +731,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--15-->
+    <section>                                                          <!--15-->
       <title>China- 29 Mar 2016</title>
       <subtitle>Flash News on News</subtitle>
       <abstract>
@@ -765,8 +765,8 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--16-->
-      <title>Maldive - 3 April 2016</title>
+    <section>                                                                           <!--16-->
+      <title>Maldives - 3 April 2016</title>
       <subtitle>Flash News on News</subtitle>
       <abstract>
         The police intervened violently against a group of journalists who had staged a sit-in outside the office of President Abdulla Yameen; the reasons were different and linked to restrictions on press freedom in the archipelago.
@@ -799,7 +799,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--17-->
+    <section>                                                                  <!--17-->
       <title>Reactions of Countries Implicated in Panama Papers</title>
       <abstract>
         This is only a small part of the list of the reactions to Panama Papers - related to offshore tax havens -, and response's of many countries and other official bodies relating to the mass leak of legal documents.
@@ -822,7 +822,7 @@
         </paragraph>
       </chapter>
       <chapter>
-        <title>But.. Where Are the Americans at?</title>
+        <title>But... Where Are the Americans at?</title>
         <paragraph>Unfortunately the leaker has made the dreadful mistake of turning to the western corporate media to publicise the results. In consequence the first major story, published by the Guardian is all about Vladimir Putin. But why focus on Russia?</paragraph>
       </chapter>
       <quote>
