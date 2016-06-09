@@ -1,6 +1,6 @@
 <bulletin id="issue 8" date="20160430">
   <sections>
-    <section> <!--1-->
+    <section>                                                        <!--1-->
       <title>Global Youth Unemployment</title>
       <graph unit="%" x="date" y="number">
         <dataset label="">
@@ -35,7 +35,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--2-->
+    <section>                                                          <!--2-->
       <title>Born To Be Broke</title>
       <abstract>
         Being young was never easy… Especially when it comes to find a job.
@@ -71,11 +71,43 @@
         <paragraph>Historically, unemployment rate of young workers tends to be a little more than twice the overall rate. This seem to be still true nowadays: in February 2016, the overall unemployment rate in the US was 4.9% and the unemployment rate of workers under age 25, at 10.5%, was 2.1 times as high.</paragraph>
         <paragraph>What makes it even harder for Millennials is that they tend to be poorer than people of their age in the past. Entering the workforce in the greatest economic downturn in living memory, millennials earn much less than Generation X and might never close the gap.</paragraph>
       </chapter>
-      <chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Employment" />
+        <keyword name="Millennials (1981–2000)" />
+        <keyword name="Generation X (1965–1980)" />
+        <keyword name="Baby Boomers (1945–1964)" />
+        <keyword name="Silent Generation (1920–1944)" />
+        <keyword name="Working class" />
+        <keyword name="In poverty" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>chicagotribune.com</source>
+        <source>epi.orgv</source>
+        <source>ft.com</source>
+        <source>fortune.com</source>
+        <source>ifs.org.uk</source>
+        <source>nber.org</source>
+        <source>pewresearch.org</source>
+        <source>qz.com</source>
+        <source>theguardian.com</source>
+        <source>wsj.com</source>
+        <source>washingtonpost.com</source>
+        <source>zillow.com</source>
+        <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
+      </sources>
+      </section>
+      <section>                                                                        <!--3-->
         <title>Comparing Generations: Income Distance from National Average</title>
-      </chapter>
+        <abstract>
+          National Average= 0%
+        </abstract>
       <graph unit="%" x="date" y="number">
         <title>US Generations (from 1979 to 2010)</title>
+        <abstract>
+          The Big Apple’s Millennials make about 20% less than the generation before them, according to a report released by New York City comptroller Scott Stringer.
+        </abstract>
         <dataset label="age 20-24">
           <data x="1979" y="-10.13" />
           <data x="1986" y="-23.30" />
@@ -177,11 +209,11 @@
           <data x="2010" y="16.91" />
         </dataset>
       </graph>
-      <chapter>
-        <paragraph>The Big Apple’s Millennials make about 20% less than the generation before them, according to a report released by New York City comptroller Scott Stringer.</paragraph>
-      </chapter>
       <graph unit="%" x="date" y="number">
         <title>UK Generations (from 1979 to 2010)</title>
+        <abstract>
+          The income of the average 22- to 30-year-old remains stubbornly 8 per cent lower than it was in 2008, says the UK’s Institute for Fiscal Studies.
+        </abstract>
         <dataset label="age 20-24">
           <data x="1979" y="0.29" />
           <data x="1986" y="3.99" />
@@ -293,11 +325,11 @@
           <data x="2010" y="-1.87" />
         </dataset>
       </graph>
-      <chapter>
-        <paragraph>The income of the average 22- to 30-year-old remains stubbornly 8 per cent lower than it was in 2008, says the UK’s Institute for Fiscal Studies.</paragraph>
-      </chapter>
       <graph unit="%" x="date" y="number">
         <title>Australia Generations (from 1985 to 2010)</title>
+        <abstract>
+          Australia seems to be the place to be for Millennials, but the national youth unemployment rate, at 12.2% remains well above the levels before the global financial crisis of 2008.
+        </abstract>
         <dataset label="age 20-24">
           <data x="1985" y="3.89" />
           <data x="1989" y="23.14" />
@@ -379,9 +411,6 @@
           <data x="2010" y="-27.11" />
         </dataset>
       </graph>
-      <chapter>
-        <paragraph>Australia seems to be the place to be for Millennials, but the national youth unemployment rate, at 12.2% remains well above the levels before the global financial crisis of 2008.</paragraph>
-      </chapter>
       <keywords>
         <keyword name="North America" />
         <keyword name="Western Europe" />
@@ -411,8 +440,11 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--3-->
+    <section>                                                           <!--4-->
       <title>US Labor Force by Generation</title>
+      <abstract>
+        In the first quarter of 2015 Millennials (53.5 million) surpassed Generation X (52.7 million) to become the largest share of the American workforce, after they surpassed Baby Boomers (44.6 million) in 2013.
+      </abstract>
       <graph unit="m" x="date" y="number">
         <dataset label="Millennials: born 1981 to 2000">
           <data x="1995" y="0" />
@@ -469,11 +501,11 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--4-->
+    <section>                                                          <!--5-->
       <title>Job Hopping</title>
       <graph unit="" x="string" y="number">
         <abstract>
-          Number of jobs switched in the first five years after graduation.
+          Number of jobs switched in the first five years after graduation. Analyzing 3 million US profiles, LinkedIn found that workers who graduated between 2006 and 2010 have switched jobs 2.85 times on average in the first five years they’ve been out of school. In contrast, the Gen Xers who graduated between 1986 and 1990 changed jobs 1.6 times over the same period in their lives.
         </abstract>
         <dataset label="">
           <data x="1986-1990" y="1.6" />
@@ -483,9 +515,6 @@
           <data x="2006-2010" y="2.85" />
         </dataset>
       </graph>
-      <chapter>
-        <paragraph>Analyzing 3 million US profiles, LinkedIn found that workers who graduated between 2006 and 2010 have switched jobs 2.85 times on average in the first five years they’ve been out of school. In contrast, the Gen Xers who graduated between 1986 and 1990 changed jobs 1.6 times over the same period in their lives.</paragraph>
-      </chapter>
       <keywords>
         <keyword name="North America" />
         <keyword name="Employment" />
@@ -509,7 +538,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--5-->
+    <section>                                                            <!--6-->
       <title>Worse Off Than Parents</title>
       <abstract>
         The vast majority of American workers expect to have less money at the end of their careers than their parents did ‒ and that fear is highest among 20-something Millennials. Some pundits have had the same fears, declaring that the generation may even be the first to wind up worse than their parents, with lower incomes, more debt and higher poverty rates.
@@ -545,7 +574,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--6-->
+    <section>                                                        <!--7-->
       <title>Who are Millennials?</title>
       <abstract>
         Millennials are currently aged 20-35, or born between 1980 and the end of 1994 (with some more generous definitions taking in those born up to 2000). They are the first generation of adults (or almost adults) that has familiarity with technology, thanks to a deep knowledge of internet world and digital communication's codes.
@@ -571,7 +600,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--7-->
+    <section>                                                   <!--8-->
       <title>Your Tech Allies</title>
       <abstract>
         The Millennial Generation has a different relationship with money. We’ve lost the ability to open up our wallets and see how much money we have left. The financial environment has changed. The tools that we use to manage money personally have changed. Here is some useful apps and resources that can help you orientate in this financial jungle!
@@ -611,7 +640,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--8-->
+    <section>                                                            <!--9-->
       <title>The Struggle is Real</title>
       <abstract>
         In “The Role of Time Preferences and Exponential-Growth Bias in Retirement Savings” researchers explored two psychological tendencies that may lead people to save insufficiently for retirement. To estimate the prevalence of these two biases, the authors use data from two online surveys, the RAND American Life Panel and the Understanding America Study. These were the results.
@@ -713,7 +742,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--9-->
+    <section>                                                  <!--10-->
       <title>Access, Not Ownership</title>
       <abstract>
         It’s not just homes: Millennials have been reluctant to buy items such as cars, music and luxury goods. Instead, they’re turning to a new set of services that provide access to products without the burdens of ownership, giving rise to the so-called sharing economy.
@@ -783,7 +812,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--10-->
+    <section>                                                        <!--11-->
       <quote>
         <author>Jeremy Rifkin, author and economist</author>
         <text>25 years from now, car sharing will be the norm, and car ownership an anomaly.</text>
@@ -808,7 +837,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--11-->
+    <section>                                                      <!--12-->
       <title>Young Spenders: the YOLO Lifestyle</title>
       <abstract>
         Millennials are prioritizing short-term spending over long-term saving. In US younger consumers punched above their weight class in the final months of 2015 fueling a 2.35% increase in year-over-year spending in December, according to data released by the J.P. Morgan Chase and Co. Institute.
@@ -926,7 +955,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--12-->
+    <section>                                                          <!--13-->
       <title>Rent Is Too Damn High</title>
       <abstract>
         The cost of living is climbing, led by rental costs, which hit records in many American cities last year. On average, millennials who rent nationwide would have had to spend 30% of their monthly income to their landlords, according to a Zillow survey, with figures going as high as 47% in San Francisco, 45% in Miami and 41% in New York.
@@ -946,7 +975,7 @@
           <data x="Seattle" y="31.6" />
           <data x="Chicago" y="30.8" />
           <data x="Philadelphia" y="30.8" />
-          <data x="US average" y="30.2" />
+          <data x="US AVERAGE" y="30.2" />
           <data x="Baltimore" y="29.3" />
           <data x="Phoenix" y="28.1" />
           <data x="Cleveland" y="27.1" />
@@ -982,7 +1011,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--13-->
+    <section>                                                         <!--14-->
       <quote>
         <author>A reasonably-paid Millennial</author>
         <text>It’s almost impossible to save for a house in London so I might as well just spend my money travelling the world.</text>
@@ -1009,7 +1038,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--14-->
+    <section>                                                      <!--15-->
       <title>Holidays are Better than Pensions</title>
         <abstract>
           A survey from Eventbrite found that 78% of Millennials would prefer to spend their money on an “experience” - such as a holiday - over something tangible that they could own.
@@ -1042,7 +1071,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section> <!--15-->
+    <section>                                                         <!--16-->
       <title>Owning a Dream Home Is Just a Dream</title>
       <chapter>
         <paragraph>In many countries, unlike their parents did at this age, more than a quarter of Millennials live at home with mum and dad.</paragraph>
