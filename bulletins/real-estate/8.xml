@@ -10,7 +10,8 @@
     <title>UAE's real estate market</title>
     <sections>
       <section>
-        <title>Most important investments area</title>
+        <title>UAE's real estate market</title>
+        <subtitle>Most important investments area</subtitle>
         <chapter>
           <title>Most popular investments destination</title>
           <paragraph>
@@ -24,9 +25,9 @@
           </paragraph>
         </chapter>
         <chapter>
-          <title>GCC HIGH NET WORTH’s investments</title>
+          <title>GCC high net worth’s investments</title>
           <paragraph>
-            <list type="ordered">
+            <list type="unordered">
               <item>Dubai 27%</item>
               <item>Abu Dhabi 21%</item>
               <item>Sadiyaat 8%</item>
@@ -40,9 +41,9 @@
       <chapter>
         <title>Low prices in Sadiyaat’s real estate market compared to Dubai</title>
         <paragraph>
-          <list type="ordered">
-            <item>Dubai: Avarage values of villas $780 psf</item>
-            <item>Sadiyaat: Avarage values of villas $616 psf </item>
+          <list type="unordered">
+            <item>Dubai: Average values of villas $780 psf</item>
+            <item>Sadiyaat: Average values of villas $616 psf </item>
           </list>
         </paragraph>
       </chapter>
@@ -65,20 +66,20 @@
       </sources>
     </section>
     <section>
-      <title> Yas Island - Land bank</title>
+      <title>Yas Island, UAE - Land bank</title>
       <chapter>
-        <paragraph>is steadily evolving from being a pure entertainment and leisure destination into a destination for living as well as tourism. Yas Island is a central part of destination development strategy, and already boasts a number of residential projects currently under development.
+        <paragraph>Yas Island is steadily evolving from being a pure entertainment and leisure destination into a destination for living as well as tourism. Yas Island is a central part of destination development strategy, and already boasts a number of residential projects currently under development.
         </paragraph>
       </chapter>
       <chapter>
         <title>Vision 2030</title>
-        <paragraph>he aims is to raise the standard of living for all people living and visiting the Emirate through the creation of vibrant, mixed-use communities and the provision of a diverse range of housing choices.</paragraph>
+        <paragraph>The aims is to raise the standard of living for all people living and visiting the Emirate through the creation of vibrant, mixed-use communities and the provision of a diverse range of housing choices.</paragraph>
       </chapter>
       <chapter>
-        <title>Propertie's project</title>
+        <title>Properties' project</title>
         <paragraph>which will enabler to successfully develop well into the future.</paragraph>
         <paragraph>
-          <list type="ordered">
+          <list type="unordered">
             <item>seven hotels</item>
             <item>Yas Mall </item>
             <item>theme parks</item>
@@ -106,11 +107,12 @@
         <paragraph>The apartment rental category remained robust, with lucrative yields in both Dubai and Abu Dhabi keeping investors interested in the real estate markets of both emirates.Dubai's real estate market sailed stably through the first quarter. there is a real estate developers carefully considering demand before supplying market with new units and also a distribution and movement of residents from the city center to suburbs.</paragraph>
       </chapter>
       <chapter>
-        <title>Real estate transictions in dubai</title>
+        <title>Real estate transitions in Dubai</title>
         <paragraph>During the first three months amounted to: AED 54.78 billion through 12,568 deals The market's price adjustment, coupled with flexible payment plans offered by numerous developers is encouraging many tenants to become homeowners.</paragraph>
       </chapter>
       <chapter>
-        <title>Dubai’s avarage studio apartment rents</title>
+        <title>Dubai’s average studio apartment rents</title>
+      </chapter>
         <table>
           <row type="head">
             <cell></cell>
@@ -139,37 +141,6 @@
             <cell>321.000</cell>
           </row>
         </table>
-        <table>
-          <row type="head">
-            <cell></cell>
-            <cell>Population</cell>
-            <cell>Average Monthly Disposable Salary</cell>
-            <cell>City Centre (AED per square feet)</cell>
-            <cell>Outside Centre (€ per square feet)</cell>
-          </row>
-          <row type="cell">
-            <cell>Abu Dhabi</cell>
-            <cell>613.368</cell>
-            <cell>AED 13,058.55</cell>
-            <cell>AED 1,407.41</cell>
-            <cell>AED 1,001.95</cell>
-          </row>
-          <row type="cell">
-            <cell>Dubai</cell>
-            <cell>2,459 milions</cell>
-            <cell>AED 12,202.27</cell>
-            <cell>AED 1,580.07</cell>
-            <cell>AED 967.33</cell>
-          </row>
-          <row type="cell">
-            <cell>difference</cell>
-            <cell>1845632</cell>
-            <cell>-6.56 %</cell>
-            <cell>+12.27 %</cell>
-            <cell> -3.46 %</cell>
-          </row>
-        </table>
-      </chapter>
       <keywords>
         <keyword name="Middle East and Western Asia"/>
         <keyword name="Investments"/>
@@ -184,7 +155,7 @@
       </sources>
     </section>
     <section>
-        <title>Top renting apartments</title>
+        <title>UAE: top renting apartments</title>
         <chapter>
           <title>Abu Dhabi</title>
           <paragraph>
@@ -223,7 +194,7 @@
         </sources>
       </section>
       <section>
-          <title>Top buying apartments</title>
+          <title>UAE: top buying apartments</title>
           <chapter>
             <title>Abu Dhabi</title>
             <paragraph>
@@ -270,7 +241,7 @@
           <title>US housing bidding wars</title>
           <subtitle>According to the Redfin* company, more and more Americans are forced into a bidding war while buying a home.</subtitle>
           <chapter>
-            <paragraph>* Redfin is a US residential realty  company that provies web-based database and brokerage services.</paragraph>
+            <paragraph>* Redfin is a US residential realty  company that provides web-based database and brokerage services.</paragraph>
           </chapter>
           <chapter>
             <title>Competition is fierce, especially for first-time buyers or those looking for affordable houses.</title>
@@ -284,20 +255,20 @@
           </chapter>
           <chapter>
             <title>Cities on the top</title>
-            <paragraph>These are the six cities (among the 83 markets the company serves) in wichnthere is the highest level of biddng wars.
+            <paragraph>These are the six cities (among the 83 markets the company serves) in which there is the highest level of bidding wars.
             </paragraph>
             <paragraph>
               <list type="ordered">
-                <item>OAKLAND (CA) 84%</item>
-                <item>SEATTLE (WA), SAN FRANCISCO (CA) 77%</item>
-                <item>LOS ANGELES (CA) 74%</item>
-                <item>DENVER (CO) 69%</item>
-                <item>AUSTIN (TX) 59%</item>
+                <item>Oakland (CA) 84%</item>
+                <item>Seattle (WA), San Francisco (CA) 77%</item>
+                <item>Los Angeles (CA) 74%</item>
+                <item>Denver (CO) 69%</item>
+                <item>Austin (TX) 59%</item>
               </list>
             </paragraph>
           </chapter>
           <chapter>
-            <title>NEW HOUSES: New listings are at the high end</title>
+            <title>New houses: New listings are at the high end</title>
             <paragraph>So the high proportion of bidding wars doesn’t look likely to let up even as more homes come onto the market for the spring selling season. In the bottom and middle tiers there is a clear decrease.
             </paragraph>
           </chapter>
@@ -314,18 +285,18 @@
           </sources>
         </section>
         <section>
-          <title>The hottest season</title>
+          <title>The hottest season for US real estate market</title>
           <chapter>
-            <paragraph>Statistically, Sping has been the busiest season to purchase a property. But is it the really best time to buy?</paragraph>
+            <paragraph>Statistically, Spring has been the busiest season to purchase a property. But is it the really best time to buy?</paragraph>
           </chapter>
           <chapter>
             <title>Pros</title>
             <paragraph>
               <list type="unordered">
-                <item>MORE INVENTORY</item>
-                <item>PERFECT TIME TO SHOP</item>
-                <item>GOOD WEATHER</item>
-                <item>EXTRA EQUITY IN YOUR POCKET</item>
+                <item>More inventory</item>
+                <item>Perfect time to shop</item>
+                <item>Good weather</item>
+                <item>Extra equity in your pocket</item>
               </list>
             </paragraph>
           </chapter>
@@ -333,10 +304,10 @@
             <title>Cons</title>
             <paragraph>
               <list type="unordered">
-                <item>MORE COMPETITION</item>
-                <item>STRESS OF RELOCATING</item>
-                <item>TO MOVE QUICKLY</item>
-                <item>TERRIBLE TIME TO NEGOTIATE</item>
+                <item>More competition</item>
+                <item>Stress of relocating</item>
+                <item>To move quickly</item>
+                <item>Terrible time to negotiate</item>
               </list>
             </paragraph>
           </chapter>
@@ -356,16 +327,16 @@
           <title>They can’t buy your vote but maybe your town</title>
           <subtitle>US presidential candidates have already spent a lot of money for their campaigns, but what could have they bought instead?</subtitle>
           <chapter>
-            <paragraph>$ 1.1 Bilion: How much collectively candidates and their allies have already spent.A great part of this sum is coming from a tiny fraction of Americans.</paragraph>
+            <paragraph>$ 1.1 Billion: How much collectively candidates and their allies have already spent.A great part of this sum is coming from a tiny fraction of Americans.</paragraph>
           </chapter>
-          <graph unit="$" x="candidate name" y="number">
-            <title>How much cadidates have spent for their campaign</title>
+          <graph unit="$" x="string" y="number">
+            <title>How much candidates have spent for their campaign</title>
             <dataset label="candidates campaigns costs">
-              <data x="HILLARY CLINTON" y="$256.4 million"/>
-              <data x="BERNIE SANDERS" y="$182.8 million"/>
-              <data x="TED CRUZ" y="$141.9 million"/>
-              <data x="DONALD TRUMP" y="51.2 million"/>
-              <data x="JOHN KASICH" y="$29.2 million"/>
+              <data x="Hillary Clinton" y="256.4"/>
+              <data x="Bernie Sanders" y="182.8"/>
+              <data x="Ted Cruz" y="141.9"/>
+              <data x="Donald Trump" y="51.2"/>
+              <data x="John Kasich" y="29.2"/>
             </dataset>
           </graph>
           <keywords>

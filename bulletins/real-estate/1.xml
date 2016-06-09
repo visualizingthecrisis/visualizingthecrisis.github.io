@@ -7,17 +7,17 @@
     <author>Giulia Serafin</author>
   </authors>
   <bulletin id="1" date="20160303">
-    <title>Weekly hot spots</title>
+    <title>Weekly hot-spots</title>
     <sections>
       <section>
-        <title>1.NEW YORK - USA</title>
+        <title>New York - USA</title>
         <subtitle>Missed opportunity</subtitle>
         <chapter>
-          <title>03.01.2016-SUPER TUESDAY
+          <title>03.01.2016-Super Tuesday
           </title>
-          <paragraph>One of the most important days of the American primaries. People will vote in 13 countries and it could be a decisive moment. “The problem is that candidates have any ideas what to do about fixing housing market.”
+          <paragraph>One of the most important day of the American primaries. People will vote in 13 countries and it could be a decisive moment. “The problem is that candidates have any ideas what to do about fixing housing market.”
           </paragraph>
-          <paragraph>*WHY BOTHER ABOUT MR.TRUMP? D.Trump, known as "The Brick magnate", is the richest man in America and one of the most controversal personality in the world of politics. He colonized Manhattan and beyond, owning apartments, hotels and casinos. Thanks to this position he could have a big impact on the realty sector if americans will make him their new president.
+          <paragraph>*Why bother about mr.Trump? D.Trump, known as "The Brick magnate", is the richest man in America and one of the most controversial personality in the world of politics. He colonized Manhattan and beyond, owning apartments, hotels and casinos. Thanks to this position he could have a big impact on the realty sector if americans will make him their new president.
           </paragraph>
         </chapter>
         <keywords>
@@ -30,11 +30,11 @@
         </sources>
       </section>
       <section>
-        <title>2.ENGLAND - UK</title>
+        <title>England - UK</title>
         <subtitle>Open eyes over mortgages</subtitle>
         <chapter>
-          <paragraph>BANK OF ENGLAND</paragraph>
-          <paragraph>England is collecting information about recent mortgages in order to  avoid housing boom and bust. “How to tame one area without toppling the whole structure of the real estate sistem?”
+          <paragraph>Bank of England</paragraph>
+          <paragraph>England is collecting information about recent mortgages in order to  avoid housing boom and bust. “How to tame one area without toppling the whole structure of the real estate system?”
           </paragraph>
         </chapter>
         <graph unit="K" x="date" y="number">
@@ -54,15 +54,15 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>Bloomberg ”the bank of england has its eye on every new mortgage”</source>
-        </sources>
+          <source>Bloomberg ”the bank of England has its eye on every new mortgage”</source>
+          </sources>
       </section>
       <section>
-        <title>3.ITALY</title>
+        <title>Italy</title>
         <subtitle>New mortgage reform</subtitle>
         <chapter>
-          <title>ITALIAN CHALLENGE</title>
-          <paragraph>The new request by Europe create controversy in Italy, clashing with the italian civil code. After 18 unpaid rates, banks are allowed to distrain the property.
+          <title>Italian challenge</title>
+          <paragraph>The new request made by Europe create controversy in Italy, clashing with the Italian civil code. After 18 unpaid rates, banks are allowed to distrain the property.
           </paragraph>
         </chapter>
         <keywords>
@@ -74,10 +74,10 @@
         </sources>
       </section>
       <section>
-        <title>4.SAUDI ARABIA</title>
+        <title>Saudi Arabia</title>
         <subtitle>A bad example</subtitle>
         <chapter>
-          <title>THE BIG MISTAKE OF BANKS</title>
+          <title>The big mistake of banks</title>
           <paragraph>Central banks have slashed by half the down payment needed for house buyers to get a mortgage. Mortgage loan book is growing at about 40% per year.
           </paragraph>
         </chapter>
@@ -90,11 +90,11 @@
         </sources>
       </section>
       <section>
-        <title>5.SHANGAI - CHINA</title>
+        <title>Shanghai - China</title>
         <subtitle>Good news</subtitle>
         <chapter>
-          <title>4% BEST DAY IN 4 MONTHS</title>
-          <paragraph>Real estate and resources share signs of recovery into proprety market. Real estate assets: 74.7% of total cinese household assets.
+          <title>4% Best day in 4 months</title>
+          <paragraph>Real estate and resources share signs of recovery into property market. Real estate assets: 74.7% of total Chinese household assets.
           </paragraph>
         </chapter>
         <keywords>
@@ -116,7 +116,7 @@
         <chapter>
           <paragraph>boom median value of homes</paragraph>
           <paragraph>
-            <list type="ordered">
+            <list type="unordered">
               <item>$ 670,000 (2012)</item>
               <item>$ 1,12 million (2016)</item>
             </list>
@@ -140,8 +140,8 @@
         <sources>
           <source>Zerohedge “Presenting America's own ghost cities"</source>
           <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
-          <source>Nytimes “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
-          <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
+            <source>NY Times “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
+              <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
         </sources>
       </section>
       <section>
@@ -159,13 +159,13 @@
         <sources>
           <source>Zerohedge “Presenting America's own ghost cities"</source>
           <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
-          <source>Nytimes “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
-          <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
+            <source>Nytimes “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
+              <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
         </sources>
       </section>
       <section>
         <title>Where to go</title>
-        <subtitle>Sceening cities</subtitle>
+        <subtitle>Screening cities</subtitle>
         <chapter>
           <paragraph>Five places that could grow if people move there. Comparing grow and prosperity report, 100 biggest metro areas, 2015 affordability index and jobs quality. As a result you get five cities: Cincinnati, Pittsburgh, Columbus, Omaha, Minneapolis.
           </paragraph>
@@ -178,17 +178,17 @@
         <sources>
           <source>Zerohedge “Presenting America's own ghost cities"</source>
           <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
-          <source>Nytimes “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
-          <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
+            <source>NY Times “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
+              <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
         </sources>
       </section>
       <section>
         <title>Where a few can live</title>
         <subtitle>Manhattan luxury reality market</subtitle>
         <chapter>
-          <paragraph>There is a slowdown: house contract dropped from 214 (in 2015) to 150 (in 2016). The new trend is to break penthouses into smaller accomodations.
+          <paragraph>There is a slowdown: house contract dropped from 214 (in 2015) to 150 (in 2016). The new trend is to break penthouses into smaller accommodations.
           </paragraph>
-          <paragraph>Cuomo (Governor) and De Blasio (Mayor) have different solutions for affordable housing. Cuomo suggests fiscal cuts for $1,5 bilion in five years. De Blasio proposes to increase taxes only for whom earn more than $50 millions a year.
+          <paragraph>Cuomo (Governor) and De Blasio (Mayor) have different solutions for affordable housing. Cuomo suggests fiscal cuts for $1,5 billion in five years. De Blasio proposes to increase taxes only for whom earn more than $50 millions a year.
           </paragraph>
         </chapter>
         <graph unit="Person/sq m" x="city" y="number">
@@ -201,19 +201,6 @@
             <data x="New York City" y="28"/>
           </dataset>
         </graph>
-        <keywords>
-          <keyword name="North America"/>
-          <keyword name="Housing and real estate"/>
-          <keyword name="Middle class"/>
-        </keywords>
-        <sources>
-          <source>Zerohedge “Presenting America's own ghost cities"</source>
-          <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
-          <source>Nytimes “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
-          <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
-        </sources>
-      </section>
-      <section>
         <graph unit="K$" x="city" y="number">
           <title>Comparing household median income</title>
           <abstract>In the coastal areas the household median income is higher.</abstract>
@@ -232,8 +219,8 @@
         <sources>
           <source>Zerohedge “Presenting America's own ghost cities"</source>
           <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
-          <source>Nytimes “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
-          <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
+            <source>NY Times “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
+              <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
         </sources>
       </section>
     </sections>

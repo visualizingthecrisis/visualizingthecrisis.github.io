@@ -10,10 +10,11 @@
     <title>Italian Scenario</title>
     <sections>
       <section>
+        <title>Italian Scenario</title>
           <graph unit="K" x="region" y="number">
-            <title>New daily Mortgages per region (22/04/2016)</title>
-            <abstract>Lombardy region has the highest number of daily mortgages throughout Italy</abstract>
-            <dataset label="morgages">
+            <title>New daily mortgages per region (22/04/2016)</title>
+            <abstract>Lombardia region has the highest number of daily mortgages throughout Italy</abstract>
+            <dataset label="mortgages">
               <data x="Valle D'Aosta" y="10.00"/>
               <data x="Piemonte" y="445.00"/>
               <data x="Liguria" y="156.00"/>
@@ -49,7 +50,7 @@
           </sources>
         </section>
       <section>
-        <title>Some data about cities</title>
+        <title>Some data about Italian cities</title>
         <table>
           <row type="head">
             <cell></cell>
@@ -60,7 +61,7 @@
           </row>
           <row type="cell">
             <cell>Milan</cell>
-            <cell>1,251 milions</cell>
+            <cell>1,251 millions</cell>
             <cell>€ 1,722.56</cell>
             <cell>€ 763.89</cell>
             <cell>€ 292.28 </cell>
@@ -76,7 +77,7 @@
           </row>
           <row type="cell">
             <cell>Rome</cell>
-            <cell>2,627 milions</cell>
+            <cell>2,627 millions</cell>
             <cell>€ 1,576.40 </cell>
             <cell>€ 836.91</cell>
             <cell>€ 378.47</cell>
@@ -102,12 +103,12 @@
         </sources>
       </section>
       <section>
-        <title>Mortgage vs Leasing: a comparison</title>
+        <title>Italian: Mortgage vs Leasing</title>
         <chapter>
           <title>Mortgage - How does it work</title>
           <subtitle>In the last year mortgages increased + 97% in Italy.</subtitle>
           <paragraph>
-            <list type="ordered">
+            <list type="unordered">
               <item>The bank accept to give a mortgage</item>
               <item>The customer receives the full amount of money from the bank to buy a property</item>
               <item>The customer buys the property and becomes immediately its owner</item>
@@ -130,7 +131,7 @@
           <title>Leasing - How does it work</title>
           <subtitle>From January 2016 the lease was extended not only to industry but also to individuals for the purchase of properties, so leasingbecame an alternative to mortgages</subtitle>
           <paragraph>
-            <list type="ordered">
+            <list type="unordered">
               <item>The bank accept to give a leasing</item>
               <item>The bank buys a property on real estate market,(so the bank has the ownership)</item>
               <item>The customer pays the full amount of the property to the bank with rates for a maximum of 20 years</item>
@@ -167,6 +168,7 @@
           <paragraph>+10% Growth of  deed  in 2016 than 2013.Bank loans for family properties 49.8 Billion, -3.5% than 2006.
           </paragraph>
         </chapter>
+        <chapter>
           <title>New Italian borrowers</title>
           <paragraph>
             <list type="ordered">
@@ -175,10 +177,11 @@
               <item>Foreigners 9%</item>
             </list>
           </paragraph>
+        </chapter>
           <table>
             <row type="head">
-              <cell></cell>
               <cell>Age group</cell>
+              <cell>Percentage</cell>
             </row>
             <row type="cell">
               <cell>18-24</cell>
@@ -227,9 +230,9 @@
         <title>US builders world</title>
         <sections>
           <section>
-            <title>Construction sector</title>
+            <title>US builders world</title>
             <subtitle>Some data to understand housing market and homebuilders situation in US:</subtitle>
-            <graph unit="M" x="date" y="number">
+            <graph unit="" x="string" y="number">
               <title>U.S. housing starts</title>
               <abstract>New residential housing units authorized by building permits and started in the last year (from March ‘15 to March’16).</abstract>
               <dataset label="New residential housing units">
@@ -245,7 +248,6 @@
                 <data x="January" y="1,128"/>
                 <data x="February" y="1,213"/>
                 <data x="March" y="1,099"/>
-                <data x="April" y="1,172"/>
               </dataset>
             </graph>
             <graph unit="K" x="date" y="number">
@@ -260,18 +262,18 @@
                 <data x="2016" y="1000"/>
               </dataset>
             </graph>
-            <graph unit="DA" x="date" y="number">
+            <graph unit="" x="string" y="number">
               <title>Homebuilders sentiments</title>
               <abstract>From these data NAHB (national association of home builders) make a seasonally index in which all values over 50 mean good conditions for builders. </abstract>
               <dataset label="Homebuilders sentiments index">
-                <data x="2007'" y="37"/>
-                <data x="2008'" y="19"/>
-                <data x="'2009'" y="12"/>
-                <data x="'2010'" y="17"/>
-                <data x="'2011'" y="18"/>
-                <data x="'2012'" y="21"/>
-                <data x="'2013'" y="45"/>
-                <data x="'2014'" y="56"/>
+                <data x="2007" y="37"/>
+                <data x="2008" y="19"/>
+                <data x="2009" y="12"/>
+                <data x="2010" y="17"/>
+                <data x="2011" y="18"/>
+                <data x="2012" y="21"/>
+                <data x="2013" y="45"/>
+                <data x="2014" y="56"/>
                 <data x="2015" y="57"/>
                 <data x="2016" y="58"/>
               </dataset>
@@ -287,11 +289,11 @@
               <source>World Property Journal “US builder confidence holds firm in April says NAHB index”</source>
               <source>Eye on Housing “ Housing starts fall back to trend”</source>
               <source>“Builder confidence unchanged in April”</source>
-              <source>CNBC “Homebuilder blues: Don’t blame labor shartage”</source>
+              <source>CNBC “Homebuilder blues: Don’t blame labor shortage”</source>
             </sources>
           </section>
             <section>
-              <title>What’s going on?</title>
+              <title>US housing starts</title>
               <subtitle>There is a monthly drop in housing starts that masks the long-run growing trend which remains in place.</subtitle>
               <chapter>
                 <paragraph>There has been a 9.2% decline in single-family house starts in March 2016. Home construction weakened in March but homebuilder sentiment hasn’t changed. Builders confidence in the market for new single-family house remained unchanged in the last 3 months: 58.</paragraph>
@@ -307,16 +309,16 @@
                 <source>World Property Journal “US builder confidence holds firm in April says NAHB index”</source>
                 <source>Eye on Housing “ Housing starts fall back to trend”</source>
                 <source>“Builder confidence unchanged in April”</source>
-                <source>CNBC “Homebuilder blues: Don’t blame labor shartage”</source>
+                <source>CNBC “Homebuilder blues: Don’t blame labor shortage”</source>
               </sources>
             </section>
             <section>
               <title>US is in the heart of an historically strong spring housing market.</title>
               <chapter>
-                <title>Strenght</title>
-                <subtitle>the factors that make builders optimistics</subtitle>
+                <title>Strength</title>
+                <subtitle>the factors that make builders optimistic</subtitle>
                 <paragraph>
-                  <list type="ordered">
+                  <list type="unordered">
                     <item>New job creation</item>
                     <item>Low mortgages interest rates</item>
                     <item>Lack of home inventory</item>
@@ -325,12 +327,12 @@
                 </paragraph>
               </chapter>
               <chapter>
-                <title>Weakeness</title>
+                <title>Weakness</title>
                 <subtitle>new construction costs that didn’t exist 10 years ago</subtitle>
                 <paragraph>
-                  <list type="ordered">
+                  <list type="unordered">
                     <item>Environment-protection regulations</item>
-                    <item>Shortage of buildable lots:</item>
+                    <item>Shortage of building lots:</item>
                     <item>Labor crunch</item>
                     <item>High average age of workers</item>
                     <item>Understaffed planning</item>
@@ -349,7 +351,7 @@
                 <source>World Property Journal “US builder confidence holds firm in April says NAHB index”</source>
                 <source>Eye on Housing “ Housing starts fall back to trend”</source>
                 <source>“Builder confidence unchanged in April”</source>
-                <source>CNBC “Homebuilder blues: Don’t blame labor shartage”</source>
+                <source>CNBC “Homebuilder blues: Don’t blame labor shortage”</source>
               </sources>
             </section>
           </sections>

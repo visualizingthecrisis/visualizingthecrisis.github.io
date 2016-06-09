@@ -7,10 +7,10 @@
     <author>Giulia Serafin</author>
   </authors>
   <bulletin id="2" date="20160310">
-    <title>"India slowdown"</title>
+    <title>India slowdown</title>
     <sections>
       <section>
-        <title>"Unsold inventories piling up"</title>
+        <title>Unsold inventories piling up</title>
         <chapter>
           <paragraph>3 to 5 years: the time required to clear residential inventory pile. Unsold inventories are piling up in the National Capital Region, Mumbai, Bengaluru, and several other cities.
           </paragraph>
@@ -25,7 +25,7 @@
         </sources>
       </section>
       <section>
-        <title>"Ready-to-move-in vs under-construction"</title>
+        <title>Ready-to-move-in vs under-construction</title>
         <chapter>
           <paragraph>In 64% of the major cities over the last two years, the demand for ready-to- move-in properties has been more than for under-construction properties.
           </paragraph>
@@ -40,8 +40,8 @@
         </sources>
       </section>
           <section>
-            <title>"Rising Price"</title>
-            <subtitle>"A comparison:"</subtitle>
+            <title>Rising Price</title>
+            <subtitle>A comparison:</subtitle>
             <chapter>
               <list type="ordered">
                 <item>Premium on ready-to move-in properties over under-construction</item>
@@ -50,10 +50,10 @@
               </list>
             </chapter>
             <graph unit="%" x="city" y="number">
-              <title>"Different prices"</title>
+              <title>Different prices</title>
               <abstract>Premium on ready-to-move-in properties over under-construction.</abstract>
               <dataset label="premium">
-                <data x="Greater noida" y="21"/>
+                <data x="Greater Noida" y="21"/>
                 <data x="Mumbai" y="18"/>
                 <data x="Gurgaon" y="13"/>
                 <data x="Noida" y="12"/>
@@ -68,21 +68,11 @@
                 <data x="Chennai" y="-12"/>
               </dataset>
             </graph>
-            <keywords>
-              <keyword name="Southeastern Asia"/>
-              <keyword name="Housing and Real Estate"/>
-            </keywords>
-            <sources>
-              <source>Quartz “As empty homes pile up indians willing to pay more for ready to move in apartments”</source>
-                <source>The financial express “Real estate slowdown: residential inventory piles up in Delhi, Mumbai”</source>
-            </sources>
-          </section>
-          <section>
             <graph unit="%" x="city" y="number">
-              <title>"Rising prices"</title>
+              <title>Rising prices</title>
               <abstract>Price rise in properties in 14 cities from Sep.2013 to Dec.2015.</abstract>
               <dataset label="Under-construction">
-                <data x="Greater noida" y="-5"/>
+                <data x="Greater Noida" y="-5"/>
                 <data x="Mumbai" y="6"/>
                 <data x="Gurgaon" y="-10"/>
                 <data x="Noida" y="1"/>
@@ -124,7 +114,7 @@
         </sections>
       </bulletin>
       <bulletin id="2" date="20160310">
-        <title>"Canada's forecast"</title>
+        <title>Canada's forecast</title>
         <sections>
           <section>
             <title>US vs Canada</title>
@@ -138,7 +128,7 @@
               </paragraph>
             </chapter>
             <chapter>
-             <title>2016 Previus</title>
+             <title>2016 Previous</title>
               <paragraph>Canada will see a small decline in the value of real estate.
               </paragraph>
             </chapter>
@@ -153,30 +143,31 @@
             </sources>
           </section>
           <section>
+            <title>Canadian data</title>
             <graph unit="$" x="city" y="number">
-              <title>"Household median income"</title>
-              <abstract>In the west coast areas of Canada the household median income is higher.</abstract>
-              <dataset label="median income">
+              <title>Household average income</title>
+              <abstract>In the west coast areas of Canada the household average income is higher.</abstract>
+              <dataset label="average income">
                 <data x="Vancouver" y="24,100"/>
                 <data x="Calgary" y="31,700"/>
                 <data x="Toronto" y="22,900"/>
-                <data x="Montréal" y="21.200"/>
+                <data x="Montréal" y="21,200"/>
               </dataset>
             </graph>
             <graph unit="$" x="city" y="number">
-              <title>"Household median income"</title>
-              <abstract>In the west coast areas of Canada the household median income is higher.</abstract>
-              <dataset label="median income">
-                <data x="Vancouver" y="1,2 M"/>
+              <title>House average price</title>
+              <abstract>Vancouver house prices are the most expensive, while Montréal ones are the most affordable.</abstract>
+              <dataset label="average price">
+                <data x="Vancouver" y="1,200,000"/>
                 <data x="Calgary" y="496,800"/>
                 <data x="Toronto" y="669,400"/>
                 <data x="Montréal" y="316,500"/>
               </dataset>
             </graph>
-            <graph unit="K" x="string" y="number">
-              <title>"Household medium price"</title>
-              <abstract>Vancouver has the highest house prices while Montreal has the prices of less expensive homes</abstract>
-              <dataset label="medium price">
+            <graph unit="" x="string" y="number">
+              <title>Inhabitants</title>
+              <abstract>Toronto and Montréal are the most populated cities</abstract>
+              <dataset label="inhabitants">
                 <data x="Vancouver" y="615,473"/>
                 <data x="Calgary" y="1,195,194"/>
                 <data x="Toronto" y="2,503,281"/>
@@ -194,13 +185,13 @@
             </sources>
           </section>
           <section>
-            <title>"Vancouver'houses typology"</title>
-            <abstract>"Prices annual growth"</abstract>
+            <title>Vancouver houses typology</title>
+            <abstract>Prices annual growth</abstract>
             <chapter>
               <paragraph>
                 <list type="unordered">
                   <item>detached home: 11%</item>
-                  <item>condominius: 10%</item>
+                  <item>condominiums: 10%</item>
                   <item>attached home: 11%</item>
                   <item>townhouse: 4%</item>
                 </list>
@@ -217,9 +208,9 @@
             </sources>
           </section>
           <section>
-            <title>"Housing starts"</title>
+            <title>Housing starts</title>
             <chapter>
-              <paragraph>Strong rental demand from immigrants has pushed condo construction in Canada yo its highest level into two decads. On annual basisis annual starts are expected to rise from 153,000 to 203,000 units in 2016 and from 149,000 to 199,000 units.
+              <paragraph>Strong rental demand from immigrants has pushed condo construction in Canada yo its highest level into two decades. On annual basis annual starts are expected to rise from 153,000 to 203,000 units in 2016 and from 149,000 to 199,000 units.
               </paragraph>
               </chapter>
               <keywords>

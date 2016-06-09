@@ -31,7 +31,7 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>The Telegraph ”Hope over fear: how sadiq khan won the mayoral election race”</source>
+            <source>The Telegraph ”Hope over fear: how Sadiq Khan won the mayoral election race”</source>
             <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
             <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
             <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
@@ -39,9 +39,7 @@
         </section>
         <section>
           <title>The bank of mum and dad</title>
-          <chapter>
-            <paragraph>Family and friends will spend 5 billion pounds this year helping people buy property in the U.K.</paragraph>
-          </chapter>
+            <subtitle>Family and friends will spend 5 billion pounds this year helping people buy property in the U.K.</subtitle>
           <chapter>
             <title>How much parents help</title>
             <paragraph>Parents in London are giving half of their net wealth to their children as a deposit for properties.</paragraph>
@@ -80,14 +78,14 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>The Telegraph ”Hope over fear: how sadiq khan won the mayoral election race”</source>
+            <source>The Telegraph ”Hope over fear: how Sadiq Khan won the mayoral election race”</source>
             <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
             <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
             <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
           </sources>
         </section>
         <section>
-          <title>New faces: who will solve the problem?</title>
+          <title>London new faces: who will solve the problem?</title>
           <chapter>
             <paragraph>Hope over fear: Sadiq Khan won London mayoral election race. He described the bill as “the most extreme in terms of housing in a generation”.</paragraph>
           </chapter>
@@ -132,15 +130,15 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>The Telegraph ”Hope over fear: how sadiq khan won the mayoral election race”</source>
+            <source>The Telegraph ”Hope over fear: how Sadiq Khan won the mayoral election race”</source>
             <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
             <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
             <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
           </sources>
         </section>
         <section>
-          <title>Housing crisis: how big is the problem</title>
-          <subtitle>Costs, crisis and sqatting</subtitle>
+          <title>UK housing crisis: how big is the problem</title>
+          <subtitle>Costs, crisis and squatting</subtitle>
           <chapter>
             <title>Rising costs</title>
             <paragraph>People are unable to pay extortionate private sector rents.</paragraph>
@@ -157,7 +155,7 @@
             <title>A brief comparison</title>
             <paragraph>
               <list type="unordered">
-                <item>£34,320 The median gross salary for a full-time workerin London</item>
+                <item>£34,320 The median gross salary for a full-time worker in London</item>
                 <item>£395,000 How much first-time buyers spent on average in the 4th quarter on a London home</item>
                 <item>£281,000 A typical mortgage (and the equivalent of median home price in 2005)</item>
               </list>
@@ -172,7 +170,7 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>The Telegraph ”Hope over fear: how sadiq khan won the mayoral election race”</source>
+            <source>The Telegraph ”Hope over fear: how Sadiq Khan won the mayoral election race”</source>
             <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
             <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
             <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
@@ -201,15 +199,15 @@
               <keyword name="Housing Real estate"/>
             </keywords>
             <sources>
-              <source>The Telegraph ”Hope over fear: how sadiq khan won the mayoral election race”</source>
+              <source>The Telegraph ”Hope over fear: how Sadiq Khan won the mayoral election race”</source>
               <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
               <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
               <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
             </sources>
           </section>
           <section>
-            <title>Special report housing crisis</title>
-            <subtitle>Opinium Research interviewed 1,004 UK adults aged 18+</subtitle>
+            <title>Special report UK housing crisis</title>
+            <subtitle>Opinion Research interviewed 1,004 UK adults aged 18+</subtitle>
             <chapter>
               <title>Housing crisis</title>
               <paragraph>Some people say that Britain is “in the throes of a housing crisis”. Would you say that this is something you agree with or disagree with?</paragraph>
@@ -262,18 +260,18 @@
               <paragraph>
                 <list type="unordered">
                   <item>48% Right-to-buy scheme and selling off of social housing</item>
-                  <item>38% shorthold tenancies and no rent controls</item>
+                  <item>38% short hold tenancies and no rent controls</item>
                   <item>12% aid first time buyers</item>
                   <item>15% restriction on planning permission</item>
                   <item>54% immigration</item>
-                  <item>51% foreign investors buyng up property</item>
+                  <item>51% foreign investors buying up property</item>
                   <item>25% NIMBY's</item>
                   <item>32% developers holding  land after planning</item>
                 </list>
               </paragraph>
             </chapter>
             <chapter>
-              <title>Soltions</title>
+              <title>Solutions</title>
               <paragraph>Which, if any, of the following options do you think would help tackle Britain’s housing crisis?</paragraph>
               <paragraph>
                 <list type="unordered">
@@ -291,7 +289,7 @@
               </paragraph>
             </chapter>
             <chapter>
-              <title>Prefered soltions</title>
+              <title>Preferred solutions</title>
               <paragraph>Some would argue that Britain’s cities are under particular strain. Which, if any, of the following options would be your preferred solution to improving the housing situation in cities in Britain?</paragraph>
               <paragraph>
                 <list type="unordered">
@@ -314,7 +312,7 @@
               <keyword name="Housing Real estate"/>
             </keywords>
             <sources>
-              <source>The Telegraph ”Hope over fear: how sadiq khan won the mayoral election race”</source>
+              <source>The Telegraph ”Hope over fear: how Sadiq Khan won the mayoral election race”</source>
               <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
               <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
               <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>

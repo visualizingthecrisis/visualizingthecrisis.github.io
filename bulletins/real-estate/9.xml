@@ -7,10 +7,10 @@
     <author>Giulia Serafin</author>
   </authors>
   <bulletin id="9" date="20160505">
-    <title>U.S. military homebuyers</title>
+    <title>US military homebuyers</title>
     <sections>
       <section>
-        <title>Who are home buyers</title>
+        <title>US military homebuyers</title>
         <chapter>
           <paragraph>34 years old is the median age of  typical active-service buyer was a lot younger than non-military buyers, 40 years old, and was more likely to be married and have multiple children living in their household. As a result, they typically bought a larger home that cost more than those purchased by both non-military buyers and veterans.
           </paragraph>
@@ -23,7 +23,7 @@
         </chapter>
         <graph unit="%" x="name" y="number">
           <title>Home Buyers</title>
-          <abstract>the main part of buyer are civilian.</abstract>
+          <abstract>The main part of buyer are civilian</abstract>
           <dataset label="home buyers">
             <data x="Veteran military" y="3"/>
             <data x="Active military" y="18"/>
@@ -31,8 +31,8 @@
           </dataset>
         </graph>
         <graph unit="%" x="name" y="number">
-          <title>Home Sellers</title>
-          <abstract>the main part of sellers are civilian.</abstract>
+          <title>Home sellers</title>
+          <abstract>The main part of sellers are civilian</abstract>
           <dataset label="home sellers">
             <data x="Veteran military" y="1"/>
             <data x="Active military" y="21"/>
@@ -55,9 +55,9 @@
         </sources>
       </section>
       <section>
-        <title>Veteran affairs loans</title>
+        <title>US'Veteran affairs loans</title>
         <chapter>
-          <paragraph>Most popular loan type. Safe and affordable choise:100% financing Active and veteran military.
+          <paragraph>Most popular loan type. Safe and affordable choice:100% financing Active and veteran military.
           </paragraph>
           <paragraph>
             <list type="unordered">
@@ -67,14 +67,14 @@
           </paragraph>
           <paragraph>
             <list type="unordered">
-              <item>Active military: leading the mayority financing , the entire home purchase</item>
+              <item>Active military: leading the majority financing , the entire home purchase</item>
               <item>Veteran military: putting down a median down payment of 5%</item>
               <item>Civilian: putting down a median down payment of 11%</item>
             </list>
           </paragraph>
         </chapter>
         <chapter>
-          <title>With the ability to obtain a VA LOAN</title>
+          <title>With the ability to obtain a VA Loan</title>
           <paragraph>buyers said saving for a down payment was the most difficult step:
             <list type="unordered">
               <item>Active military: 3%</item>
@@ -111,6 +111,7 @@
       </section>
       <section>
         <title>Price of home purchased</title>
+        <subtitle>US veterans, soldiers and civilians: a comparison</subtitle>
         <table>
           <row type="head">
             <cell></cell>
@@ -161,7 +162,8 @@
         </sources>
       </section>
       <section>
-        <title>Charatteristics of home on which buyer compromised</title>
+        <title>Sources of money for their down payments</title>
+        <subtitle>US veterans, soldiers and civilians: a comparison</subtitle>
         <table>
           <row type="head">
             <cell></cell>
@@ -216,7 +218,8 @@
         </sources>
       </section>
       <section>
-        <title>Charatteristics of home on which buyer compromised</title>
+        <title>Characteristics of home on which buyer compromised</title>
+        <subtitle>US veterans, soldiers and civilians: a comparison</subtitle>
           <table>
             <row type="head">
               <cell></cell>
@@ -275,7 +278,8 @@
           </sources>
         </section>
         <section>
-          <title>Etnicity of home buyers</title>
+          <title>Ethnicity of home buyers</title>
+          <subtitle>US veterans, soldiers and civilians: a comparison</subtitle>
           <table>
             <row type="head">
               <cell></cell>
@@ -327,6 +331,7 @@
         </section>
         <section>
           <title>Age of home buyers</title>
+          <subtitle>US veterans, soldiers and civilians: a comparison</subtitle>
           <table>
             <row type="head">
               <cell></cell>
@@ -378,6 +383,7 @@
         </section>
         <section>
           <title>Status of home buyers</title>
+          <subtitle>US veterans, soldiers and civilians: a comparison</subtitle>
           <table>
             <row type="head">
               <cell></cell>
@@ -429,6 +435,7 @@
         </section>
         <section>
           <title>Prior living arrangement</title>
+          <subtitle>US veterans, soldiers and civilians: a comparison</subtitle>
           <table>
             <row type="head">
               <cell></cell>
@@ -476,6 +483,7 @@
         </section>
         <section>
           <title>Expenses that delayed home purchase</title>
+          <subtitle>US veterans, soldiers and civilians: a comparison</subtitle>
           <table>
             <row type="head">
               <cell></cell>
@@ -531,6 +539,7 @@
         </section>
         <section>
           <title>Location of home purchased</title>
+          <subtitle>US veterans, soldiers and civilians: a comparison</subtitle>
           <table>
             <row type="head">
               <cell></cell>
@@ -582,6 +591,7 @@
         </section>
         <section>
           <title>Typology of home purchased</title>
+          <subtitle>US veterans, soldiers and civilians: a comparison</subtitle>
           <table>
             <row type="head">
               <cell></cell>
@@ -633,12 +643,13 @@
         </section>
         <section>
           <title>Factors to move</title>
+          <subtitle>US veterans, soldiers and civilians: a comparison</subtitle>
           <table>
             <row type="head">
               <cell></cell>
               <cell>Life changes</cell>
               <cell>Never moving</cell>
-              <cell>For carreer/job</cell>
+              <cell>For career/job</cell>
               <cell>For a better area</cell>
               <cell>Outgrow home</cell>
               <cell>Outgrow home</cell>

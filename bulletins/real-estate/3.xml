@@ -7,18 +7,18 @@
     <author>Giulia Serafin</author>
   </authors>
   <bulletin id="3" date="20160317">
-    <title>"Weekly hot spots"</title>
+    <title>Weekly hot-spots</title>
     <sections>
       <section>
-        <title>Canada-Avarage home prices are climbing annually</title>
+        <title>Canada-Average home prices are climbing annually</title>
         <chapter>
           <paragraph>A soaring real estate market in Vancouver helped push the national average home price in Canada above the half-million dollar mark for first time in February.
           </paragraph>
         </chapter>
         <graph unit="$" x="city" y="number">
-          <title>"Canada avarage home prices"</title>
-          <abstract>Victoria city has the highest average price of homes in all canadian cities</abstract>
-          <dataset label="avarage house prices">
+          <title>Canada average home prices</title>
+          <abstract>Victoria city has the highest average price of homes in all Canadian cities</abstract>
+          <dataset label="average house prices">
             <data x="Victoria" y="545.911"/>
             <data x="Calgary" y="453.175"/>
             <data x="Edmonton" y="357.718"/>
@@ -41,9 +41,9 @@
           </dataset>
         </graph>
         <graph unit="%" x="city" y="number">
-          <title>"Canada avarage home prices change from 2015 to 2016"</title>
+          <title>Canada average home prices change from 2015 to 2016</title>
           <abstract>Montréal has the highest percentage change of average price of homes in all canadian cities</abstract>
-          <dataset label="avarage house prices">
+          <dataset label="average house prices">
             <data x="Victoria" y="11"/>
             <data x="Calgary" y="2"/>
             <data x="Edmonton" y="-0,5"/>
@@ -70,7 +70,7 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>Bloomerg “Canada Average Home Price ”</source>
+          <source>Bloomberg “Canada Average Home Price ”</source>
           </sources>
       </section>
       <section>
@@ -80,7 +80,7 @@
           </paragraph>
         </chapter>
         <graph unit="%" x="date" y="number">
-          <title>"Raise rate in the next years"</title>
+          <title>Raise rate in the next years</title>
           <abstract>The Bank of England isn't expected to raise rates until at least next year.</abstract>
           <dataset label="raise rate">
             <data x="2015" y="15,000,000,000"/>
@@ -114,7 +114,7 @@
         </sources>
       </section>
       <section>
-        <title>UNICREDIT</title>
+        <title>UniCredit</title>
         <chapter>
           <paragraph>UniCredit SpA, Italy’s biggest bank, raised about 1.5 billion euros ($1.7 billion) selling real estate in Austria, Italy and Germany last year, completing more than half of the company’s four-year disposal target.
           </paragraph>
@@ -134,9 +134,9 @@
           <paragraph>A construction boom in places such as Manhattan in the past several years has led to a glut of high-end residential condos and hotels. In New York City, the value of construction projects initiated last year reached $40.9 billion, up from $26.7 billion in 2014, according to the New York Building Congress. The surge is being driven by a wave of ground-up development, which accounted for 76 percent of the total in 2015.
           </paragraph>
           <graph unit="$" x="date" y="number">
-            <title>"Value of new construction projects initiated"</title>
+            <title>Value of new construction projects initiated</title>
             <abstract>Growth in ground-up development is driving a surge in construction spending</abstract>
-            <dataset label="avarage house prices">
+            <dataset label="average house prices">
               <data x="2009" y="16,000,000,000"/>
               <data x="2010" y="20,000,000,000"/>
               <data x="2011" y="15,000,000,000"/>
@@ -173,7 +173,7 @@
           </sources>
         </section>
         <section>
-          <title>CAMPARI anda MARNIER</title>
+          <title>Campari and Grand Marnier</title>
           <chapter>
             <paragraph>Campari is getting more than a popular liqueur with its acquisition of Grand Marnier Group. It also takes the ownership of Villa Les Cedres, Saint Jean Cap Ferrat, one of the most expensive properties in the world, owned since the 1920s by the Marnier-Lapostolle family. The property is evaluated around 200.000 euro per square meter, so the villa might fetch between 200 and 350 million euros in a sale.
             </paragraph>
@@ -190,9 +190,9 @@
       </sections>
     </bulletin>
     <bulletin id="3" date="20160317">
-      <title>"Anbang, BANG"</title>
       <sections>
         <section>
+          <title>Anbang, bang!</title>
           <chapter>
             <title>Strategic Hotels</title>
             <paragraph>is a portfolio company, including US most famous luxury properties.Considered as a grioup of throphy properties, they are located across the country: from urban hotels to mountains resorts, including desert and oceanview hotels.
@@ -215,11 +215,11 @@
             <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
             <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
             <source>Wall Street Journal “What is Anbang Insurance?”</source>
-            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meetingf of the US elite”</source>
+            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meeting of the US elite”</source>
           </sources>
         </section>
         <section>
-          <title>Who is ANBANG?</title>
+          <title>Who is Anbang?</title>
           <chapter>
             <paragraph>Anbang is a Beijing-based insurer which  has only been around for about a decade, but it counts:
               <list type="unordered">
@@ -236,12 +236,12 @@
             </paragraph>
           </chapter>
           <chapter>
-            <title>STARWOOD HOTELS and RESORT</title>
+            <title>Starwood hotels and resort</title>
             <paragraph>Anbang  has challenged Marriott International Inc's merger with Starwood with a huge offer: $ 12.9 billion.
             </paragraph>
           </chapter>
           <chapter>
-            <title>WALDORF ASTORIA</title>
+            <title>Waldorf Astoria</title>
             <paragraph>Last September Anbang bought the most iconic luxury hotel in the US $ 1.95 billion.
             </paragraph>
           </chapter>
@@ -253,17 +253,17 @@
             <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
             <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
             <source>Wall Street Journal “What is Anbang Insurance?”</source>
-            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meetingf of the US elite”</source>
+            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meeting of the US elite”</source>
           </sources>
         </section>
         <section>
-          <title>Other chinese purchase</title>
+          <title>Chinese purchase</title>
           <chapter>
-            <paragraph>SHANGAY JING JANG INTERNATIONAL HOTELS GROUP CO. buy GROUP DU LOUVRE (Hotels in 46 countries) for $ 1,45 billion.
+            <paragraph>Shanghai Jing Jang International Hotels Group co. buy Group du Louvre (Hotels in 46 countries) for $ 1,45 billion.
             </paragraph>
           </chapter>
           <chapter>
-            <paragraph>CHINA’S SUNSHINE INSURANCE GROUP buy BACCARAT HOTEL, NY for $ 230 million
+            <paragraph>China’s Sunshine Insurance group buy Baccarat Hotel, NY for $ 230 million
             </paragraph>
           </chapter>
           <keywords>
@@ -274,24 +274,25 @@
             <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
             <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
             <source>Wall Street Journal “What is Anbang Insurance?”</source>
-            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meetingf of the US elite”</source>
+            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meeting of the US elite”</source>
           </sources>
         </section>
         <section>
-          <title>Some little details</title>
+          <title>China is buying US hotels</title>
+          <subtitle>Some little details</subtitle>
           <chapter>
-            <title>WHERE THE PRESIDENT WILL SLEEP?</title>
+            <title>Where the president will sleep?</title>
             <paragraph>After Waldorf Astoria sell, Barack Obama refused to stay in the hotel, breaking an eight decades-long presidential tradition.
             </paragraph>
           </chapter>
           <chapter>
-            <title>IS US SCARED?</title>
+            <title>Is US scared?</title>
             <paragraph>Chinese acquisitions of U.S. assets have drawn scrutiny from regulators. The Committee on Foreign Investment in the U.S. is looking at these new assets.
             </paragraph>
           </chapter>
           <chapter>
-            <title>EXPECTED SLOWDOWN</title>
-            <paragraph>hotel revenue per avaible room is projected to slow to the percentual growth.</paragraph>
+            <title>Expected slowdown</title>
+            <paragraph>hotel revenue per available room is projected to slow to the percent growth.</paragraph>
             <paragraph>
                 <list type="unordered">
                 <item>2014=8,1%</item>
@@ -308,14 +309,14 @@
             <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
             <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
             <source>Wall Street Journal “What is Anbang Insurance?”</source>
-            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meetingf of the US elite”</source>
+            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meeting of the US elite”</source>
           </sources>
         </section>
         <section>
-          <title>Recent China’s Acquisitions price amount (from January 2016) $25 bilion</title>
+          <title>Recent China’s acquisitions price amount (from January 2016) $25 billion</title>
           <graph unit="$" x="date" y="number">
-            <title>"Chinese investors speed up property deals"</title>
-            <abstract>2016 deals already total almost half of 2015 level</abstract>
+            <title>Chinese investors speed up property deals</title>
+            <abstract>2016 Deals already total almost half of 2015 level</abstract>
             <dataset label="price amount">
               <data x="2011" y="7,000,000,000"/>
               <data x="2012" y="6,000,000,000"/>
@@ -333,11 +334,11 @@
             <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
             <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
             <source>Wall Street Journal “What is Anbang Insurance?”</source>
-            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meetingf of the US elite”</source>
+            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meeting of the US elite”</source>
           </sources>
         </section>
         <section>
-          <title>CHINESE PROPERTY DEALS</title>
+          <title>Chinese property deals</title>
           <chapter>
             <paragraph>This year’s deals already cover almost half of 2015 level. This result has been achieved thanks also to the recent purchases of Anbang  on the US real estate market.
             </paragraph>
@@ -350,7 +351,7 @@
             <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
             <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
             <source>Wall Street Journal “What is Anbang Insurance?”</source>
-            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meetingf of the US elite”</source>
+            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meeting of the US elite”</source>
           </sources>
         </section>
       </sections>
