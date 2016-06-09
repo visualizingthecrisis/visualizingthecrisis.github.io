@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <bulletins>
     <title>EU Debt Crisis Odysssey</title>
-  	<subtitle>About the european crisis</subtitle>
+  	<subtitle>About the European crisis</subtitle>
   	<authors>
       <author>Valeria Mento</author>
       <author>Jacopo Faggian</author>
@@ -12,9 +12,9 @@
   <section>
     <title>European terrorism</title>
       <chapter>
-        <title>Terrorism in Belgium: for US Europe is no more safe for tourist</title>
+        <title>Terrorism in Belgium: for US Europe is no more safe for tourists</title>
         <paragraph>
-          Europe is becoming a dangerous place, says the US Department of State. After terrorist attack in Brussels
+          Europe is becoming a dangerous place, says the US Department of State. After terrorist attack in Bruxelles
           the agency declared it is better to avoid travels in the Old Country: what could be the economic impact?
         </paragraph>
       </chapter>
@@ -30,12 +30,12 @@
       <chapter>
         <title>How many USA tourists?</title>
         <paragraph>
-          This chart shows how important are US visitors for tourism industriy of the european countries threatend by ISIS
+          This chart shows how important are US visitors for tourism industriy of the European countries threatend by ISIS
         </paragraph>
       </chapter>
         <graph unit="%" x="string" y="number">
-          <title>US visitor percentage of total visitors in some EU countries</title>
-          <dataset label="US visitors">
+          <title>US visitor in EU countries</title>
+          <dataset label="US visitors percentage">
             <data x="FR" y="2.7"/>
             <data x="GB" y="3.6"/>
             <data x="ES" y="2.2"/>
@@ -66,16 +66,16 @@
       </section>
 
       <section>
-        <title>Us tourists money spent</title>
+        <title>US tourists money spent</title>
         <chapter>
             <title>How much does US spend in Europe?</title>
             <paragraph>
-              This graphic shows how much money US people directly spent in 2014 in different european countries.
+              This graphic shows how much money US people directly spent in 2014 in different European countries.
               Undirect spendings are diffcult to calculate, but they are a huge income for the tourism linked activities.
             </paragraph>
           </chapter>
           <graph unit="number" x="country" y="number">
-            <title>Overnight in Europe - Billion nights spent | 2014</title>
+            <title>Overnight in Europe - Billion nights spent, 2014</title>
             <dataset label="Nights spent by country">
               <data x="US" y="60"/>
               <data x="RU" y="52"/>
@@ -84,8 +84,8 @@
             </dataset>
           </graph>
           <graph unit="USD" x="country" y="number">
-            <title>US visitation to Europe | Volume in $ million</title>
-            <dataset label="Visitaion value">
+            <title>US visits to Europe</title>
+            <dataset label="Visits value in million people">
               <data x="AT" y="702"/>
               <data x="DE" y="1,869"/>
               <data x="ES" y="475"/>
@@ -122,10 +122,10 @@
         <section>
         <title>Terrorism forecasts</title>
           <chapter>
-              <title>How much counter terrorism costs?</title>
+              <title>How much does counter terrorism costs?</title>
               <paragraph>
-                EU spending for counter terrorist is becoming more and more expansive. Since 2002 they had a huge increase.
-                However, after Brussels attack, EU launched new expansive anti-terrorism mesures, focusing on new and old risky places.
+                EU spending for counter terrorism is becoming more and more expansive. Since 2002 they had a huge increase.
+                However, after Bruxelles attack, EU launched new expansive anti-terrorism mesures, focusing on new and old risky places.
               </paragraph>
             </chapter>
             <graph unit="EUR" x="date" y="number">
@@ -144,7 +144,7 @@
               </paragraph>
             </chapter>
               <graph unit="%" x="country" y="number">
-                <title>Impact of tourism on GDP | 2025</title>
+                <title>Impact of tourism on GDP, 2025</title>
                 <dataset label="Impact in 2015">
                   <data x="AT" y="4.8"/>
                   <data x="BE" y="2.3"/>
@@ -246,6 +246,7 @@
       <section>
         <quote>
           <author>Francois Hollande</author>
+          <role>French president</role>
           <text>
             President Francois Hollande has made jobs his government's top priority,
             and has said he will not seek reelection in 2017 if he fails to bring
@@ -278,7 +279,7 @@
           <chapter>
             <paragraph>
               Unlike in the early years Hollande’s presidency, the deficit reduction last year was achieved while
-              cutting taxes, with the tax burden falling for the first time since 2009. Growth in the eurozone’s
+              cutting taxes, with the tax burden falling for the first time since 2009. Growth in the Eurozone’s
               second biggest economy was slightly better in 2015 than originally thought. INSEE revised its growth
               figure for France up to 1.2 percent from a previously announced 1.1. “It means we’re cutting the deficit
               while supporting growth at the same time,” said French Finance Minister Michel Sapin.
@@ -350,6 +351,7 @@
   <section>
     <quote>
       <author>Michel Sapin</author>
+      <role>French politician</role>
       <text>
         It means we're cutting the deficit while supporting growth at the same time,
         People very often say that's contradictory. But we're proving that's not true.
@@ -382,7 +384,7 @@
       <chapter>
         <paragraph>
           Are these waves? Unfortunately no, it’s only a diagram
-          which illustrates french government revenues (refer to all
+          which illustrates French government revenues (refer to all
            receipts the government gets, including taxes, custom duties,
            revenue from state-owned enterprises, capital revenues and
            foreign aid) from 2011 to early 2016. Usually in December
