@@ -32,11 +32,11 @@
           <abstract>
             53.7 million Americans count themselves among the independent workforce – contractors, part-timers, solo business owners, full-time employees with a side gig and so on. That number is projected to grow over 4% per year through 2020, to reach about 66 million Americans.
           </abstract>
-        <graph unit="%" x="string" y="percentage">
+        <graph unit="m" x="string" y="number">
           <title>Comparison between US Labor Force (159 million) and US Freelancer (53.7 million) in 2016</title>
           <dataset label="">
-            <data x="US Labor Force" y="66" />
-            <data x="US Freelancer" y="34" />
+            <data x="US Labor Force" y="159" />
+            <data x="US Freelancer" y="53.7" />
           </dataset>
         </graph>
         <graph unit="m" x="date" y="number">
