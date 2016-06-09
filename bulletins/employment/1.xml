@@ -9,7 +9,7 @@
   </authors>
   <bulletin id="issue 01" date="20160305">
     <sections>
-    <section>
+    <section> <!--1-->
       <title>Italy Unemployment Rate</title>
       <graph unit="%" x="date" y="number">
         <dataset label="">
@@ -36,7 +36,7 @@
         <source>tradingeconomics.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--2-->
       <title>Changing Work Habit</title>
       <chapter>
         <title>Digital Revolution</title>
@@ -75,7 +75,7 @@
         <source>weforum.org</source>
       </sources>
     </section>
-    <section>
+    <section> <!--3-->
       <title>The Digital Economy and Society Index (DESI) 2016</title>
       <chapter>
         <paragraph>The DESI is a composite index that summarises relevant indicators on Europe’s digital performance and tracks the evolution of EU member states in digital competitiveness.</paragraph>
@@ -115,7 +115,7 @@
         <source>weforum.org</source>
       </sources>
     </section>
-    <section>
+    <section> <!--4-->
       <title>Italian Jobs Are Getting Smarter</title>
       <chapter>
         <paragraph>Even if Italy is one of the last countries in the DESI 2016 ranking (DESI: "Digital Economy and Society Index" - it summarises relevant indicators on Europe’s digital performance), the use of file sharing and instant messaging tools is gradually spreading between italian workers.</paragraph>
@@ -178,7 +178,7 @@
         <source>weforum.org</source>
       </sources>
     </section>
-    <section>
+    <section> <!--5-->
       <title>Smartworking in Italy</title>
       <chapter>
         <title>Interest of Big Companies</title>
@@ -259,7 +259,7 @@
         <source>weforum.org</source>
       </sources>
     </section>
-    <section>
+    <section> <!--6-->
       <title>Security</title>
       <chapter>
         <paragraph>Italy is the third most-at-risk country in Europe in terms of security measures for mobile devices.</paragraph>
@@ -308,7 +308,7 @@
         <source>weforum.org</source>
       </sources>
     </section>
-    <section>
+    <section> <!--7-->
         <title>Silent Circle</title>
         <chapter>
         <paragraph>Silent Circle is a secure communications company. After Wikileaks (2013) the number of users got four time bigger.</paragraph>
