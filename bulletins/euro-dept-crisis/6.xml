@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <bulletins>
     <title>EU Debt Crisis Odysssey</title>
-  	<subtitle>About the european crisis</subtitle>
+  	<subtitle>About the European crisis</subtitle>
   	<authors>
       <author>Valeria Mento</author>
       <author>Jacopo Faggian</author>
@@ -11,11 +11,11 @@
       <sections>
 
   <section>
-    <title>Euro zone is flying on one engine, says Standard and Poor's</title>
+    <title>Eurozone is flying on one engine, says Standard &amp; Poor's</title>
       <chapter>
         <paragraph>
-          The euro zone economy is “flying on one engine” according to the ratings agency Standard and Poor’s,
-          which trimmed its growth and inflation forecasts for the euro zone. In his latest report the rating angency
+          The Euro zone economy is “flying on one engine” according to the ratings agency Standard &amp; Poor’s,
+          which trimmed its growth and inflation forecasts for the Euro zone. In his latest report the rating angency
           decided to cut GDP growth projection for Europe, against the forecasts they did in November, but they says
           also there are some reasons to hope that the economy will pick up altitude, a “pre-crisis flight path” of
           robust growth is not likely.
@@ -23,11 +23,12 @@
       </chapter>
       <quote>
         <author>Jean-Michel Six</author>
-        <text>Standard and Poor's Chief European Economist Jean-Michel Six says that europe must balance out export trade
-        slowdown with domestic consumption growth. The risk is zero growth for european economy in 2017.</text>
+        <role>Standard&amp;Poor's Chief</role>
+        <text>Standard &amp; Poor's Chief European Economist Jean-Michel Six says that Europe must balance out export trade
+        slowdown with domestic consumption growth. The risk is zero growth for European economy in 2017.</text>
       </quote>
       <graph unit="%" x="country" y="number">
-        <title>Standard and Poor’s forecasts</title>
+        <title>Standard &amp; Poor’s forecasts</title>
         <dataset label="November 2015">
           <data x="GB" y="2.2"/>
           <data x="NL" y="1.9"/>
@@ -55,7 +56,7 @@
         <keyword name="Credit rating" />
       </keywords>
       <sources>
-        <source>Ec.europa.eu</source>
+        <source>Ec.Europa.eu</source>
         <source>CBCN.com</source>
         <source>Coface.com</source>
         <source>Standardandpoors.com</source>
@@ -77,7 +78,7 @@
           </paragraph>
         </chapter>
         <graph unit="%" x="country" y="number">
-          <title>Top european trade partners - Export 2014 | 2016</title>
+          <title>Top European trade partners - Export 2014 | 2016</title>
           <dataset label="Export rate">
             <data x="US" y="+2.5"/>
             <data x="KR" y="+0.1"/>
@@ -111,7 +112,7 @@
           <keyword name="Central and Eastern Asia" />
         </keywords>
         <sources>
-          <source>Ec.europa.eu</source>
+          <source>Ec.Europa.eu</source>
           <source>CBCN.com</source>
           <source>Coface.com</source>
           <source>Standardandpoors.com</source>
@@ -148,7 +149,7 @@
               <keyword name="Working class" />
             </keywords>
             <sources>
-              <source>Ec.europa.eu</source>
+              <source>Ec.Europa.eu</source>
               <source>CBCN.com</source>
               <source>Coface.com</source>
               <source>Standardandpoors.com</source>
@@ -238,7 +239,7 @@
             <keyword name="Investments" />
           </keywords>
           <sources>
-            <source>Ec.europa.eu</source>
+            <source>Ec.Europa.eu</source>
             <source>CBCN.com</source>
             <source>Coface.com</source>
             <source>Standardandpoors.com</source>
@@ -295,7 +296,7 @@
               <keyword name="National Debt" />
             </keywords>
             <sources>
-              <source>Ec.europa.eu</source>
+              <source>Ec.Europa.eu</source>
               <source>CBCN.com</source>
               <source>Coface.com</source>
               <source>Standardandpoors.com</source>
@@ -457,7 +458,7 @@
               <keyword name="Commerce" />
             </keywords>
             <sources>
-              <source>Ec.europa.eu</source>
+              <source>Ec.Europa.eu</source>
               <source>CBCN.com</source>
               <source>Coface.com</source>
               <source>Standardandpoors.com</source>
@@ -475,7 +476,7 @@
                 <chapter>
                   <paragraph>
                     The U.S. dollar continued to be the world’s favorite reserve currency in 2015,
-                    while the euro’s share of reserves fell to its lowest level since 2002. The
+                    while the Euro’s share of reserves fell to its lowest level since 2002. The
                     data, known as Cofer for Currency Composition of Official Foreign Exchange Reserves,
                     is released on the last business day of every quarter with a three-month lag.
                   </paragraph>
@@ -523,7 +524,7 @@
                   <keyword name="Currencies" />
                 </keywords>
                 <sources>
-                  <source>Ec.europa.eu</source>
+                  <source>Ec.Europa.eu</source>
                   <source>CBCN.com</source>
                   <source>Coface.com</source>
                   <source>Standardandpoors.com</source>
