@@ -1,7 +1,7 @@
 <bulletin id="issue 9" date="20160507">
   <sections>
-    <section> <!--1-->
-      <title>'Basic Income' Searches in Google</title>
+    <section>                                                      <!--1-->
+      <title>"Basic Income" Searches in Google</title>
       <graph unit="%" x="date" y="number">
         <dataset label="">
           <data x="20110430" y="26" />
@@ -24,14 +24,14 @@
         <source>google.it/trends</source>
       </sources>
     </section>
-    <section> <!--2-->
+    <section>                                                      <!--2-->
       <title>The World's Most Miserable Economies</title>
       <abstract>
         The misery index is an economic indicator - created by economist Arthur Okun - that helps determine how the average citizen is doing economically and it is calculated by adding the seasonally adjusted unemployment rate to the annual inflation rate.
       </abstract>
       <graph unit="" x="location" y="number">
         <title>Venezuela Has an Unhappy First Place</title>
-        <dataset label="">
+        <dataset label="Misery Index Rank">
           <data x="VE" y="159.5" />
           <data x="AR" y="40" />
           <data x="ZA" y="32" />
@@ -94,7 +94,7 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section> <!--3-->
+    <section>                                                   <!--3-->
       <title>Misery Index</title>
       <chapter>
         <paragraph>Misery index estimates - calculated by adding the seasonally adjusted unemployment rate to the annual inflation rate - were compiled using the median estimates in Bloomberg economic surveys from the past three months. Figures for 2015 and 2016 inflation and unemployment data reflect the average over the year and use the most current data available for each country.</paragraph>
@@ -626,14 +626,13 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section> <!--4-->
+    <section>                                                                          <!--4-->
       <title>Revolutions In Progress</title>
       <abstract>
         Labour Day is an annual holiday to celebrate the achievements of workers. Labour Day has its origins in the labour union movement, specifically the eight-hour day movement, which advocated eight hours for work, eight hours for recreation, and eight hours for rest. For many countries, Labour Day is synonymous with, or linked with, International Workers' Day, which occurs on 1 May.
       </abstract>
       <chapter>
-        <title>May Day</title>
-        <paragraph>Main peaceful demonstrations</paragraph>
+        <title>May Day (Main peaceful demonstrations)</title>
         <paragraph>
           <list type="unordered">
             <item>LOS ANGELES. Hundreds of people marched in a rally that took aim at Republican presidential front-runner Donald Trump for his anti-illegal immigration platform that includes building a wall along the U.S. border with Mexico.</item>
@@ -648,8 +647,7 @@
         </paragraph>
       </chapter>
       <chapter>
-        <title>Mayday</title>
-        <paragraph>Main violent protests</paragraph>
+        <title>Mayday (Main violent protests)</title>
         <paragraph>
           <list type="unordered">
             <item>PARIS. The celebrations coincided with nationwide escalating protests against labor law reforms. The CGT labor union said there were more than 70,000 protesters in Paris alone. Clashes with police were reported. Since March 31, hundreds of thousands of predominantly young protesters all over France have struggled against the reform; here are some points: new provisions regarding working hours, social dialogue, layoffs and working conditions</item>
@@ -698,11 +696,11 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section> <!--5-->
+    <section>                                                                 <!--5-->
       <title>Minimum-Wage Madness</title>
       <subtitle>Fight for $15!</subtitle>
       <chapter>
-        <paragraph>On November 29, 2012, New York City’s fast food workers took to the streets to demand fair pay. It was the beginning of a movement dubbed “Fight for $15”. The employees earned anywhere from $7.50 to $8.50, which put them below the poverty line. Though the protests received national coverage, many thought such a drastic wage increase to be a pipe dream.</paragraph>
+        <paragraph>On November 29 2012, New York City’s fast food workers took to the streets to demand fair pay. It was the beginning of a movement dubbed “Fight for $15”. The employees earned anywhere from $7.50 to $8.50, which put them below the poverty line. Though the protests received national coverage, many thought such a drastic wage increase to be a pipe dream.</paragraph>
         <paragraph>Now things are changing. Last month New York State’s legislature passed a plan that would raise New York City’s minimum wage to $15 an hour by 2018, and have the rest of the state’s minimum hourly wage rise to at least $12.50.</paragraph>
       </chapter>
       <keywords>
@@ -734,9 +732,16 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section> <!--6-->
+    <section>                                                           <!--6-->
+    <title>Minimum Wage</title>
+    <abstract>
+      A minimum wage is the lowest remuneration that employers may legally pay to workers. Equivalently, it is the price floor below which workers may not sell their labor. Although minimum wage laws are in effect in many jurisdictions, differences of opinion exist about the benefits and drawbacks of a minimum wage. Supporters of the minimum wage say it increases the standard of living of workers, reduces poverty, reduces inequality, boosts morale and forces businesses to be more efficient. In contrast, opponents of the minimum wage say it increases poverty, increases unemployment (particularly among unskilled or inexperienced workers) and is damaging to businesses, because excessively high minimum wages require businesses to raise the prices of their product or service to accomodate the extra expense of paying a higher wage.
+    </abstract>
       <graph unit="" x="location" y="number">
         <title>Ratio of the Minimum Wage to Median Wage in OECD Countries</title>
+        <abstract>
+          Within the OECD, minimum-wage workers in Turkey are closest to the median, while USA ranks just as 28th, with a ratio of 0.367.
+        </abstract>
         <dataset label="">
           <data x="TR" y="0.677" />
           <data x="CL" y="0.676" />
@@ -768,9 +773,6 @@
           <data x="US" y="0.367" />
         </dataset>
       </graph>
-      <chapter>
-        <paragraph>Within the OECD, minimum-wage workers in Turkey are closest to the median, while USA ranks just as 28th, with a ratio of 0.367.</paragraph>
-      </chapter>
       <keywords>
         <keyword name="North America" />
         <keyword name="South America" />
@@ -803,9 +805,12 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section> <!--7-->
+    <section>                                                                     <!--7-->
       <title>US Federal Minimum Wage History</title>
       <graph unit="$" x="date" y="number">
+        <abstract>
+          Peak value minimun wage in real terms was reached in 1970. Its $1.45 an hour would have the purchasing power of $10 today.
+        </abstract>
         <dataset label="Statutory Minimum Wage">
           <data x="1940" y="0.30" />
           <data x="1945" y="0.40" />
@@ -844,9 +849,6 @@
         </dataset>
       </graph>
       <chapter>
-        <paragraph>Peak value minimun wage in real terms was reached in 1970. Its $1.45 an hour would have the purchasing power of $10 today.</paragraph>
-      </chapter>
-      <chapter>
         <title>But Higher Minimum Wage Would Cost Jobs</title>
         <paragraph>The American Action Forum, a right-leaning think tank, has calculated the number of jobs that would be lost due to higher minimum wage.</paragraph>
       </chapter>
@@ -857,11 +859,11 @@
         </row>
         <row type="cell">
           <cell>$12</cell>
-          <cell>1.3m</cell>
+          <cell>1.3 million</cell>
         </row>
         <row type="cell">
           <cell>$15</cell>
-          <cell>3.3m</cell>
+          <cell>3.3 million</cell>
         </row>
       </table>
       <keywords>
@@ -891,7 +893,7 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section> <!--8-->
+    <section>                                                        <!--8-->
       <title>A Basic Income Is Smarter Than a Minimum Wage</title>
       <graph unit="$ per month" x="location" y="number">
         <title>Per Capita Public Spending on Social Programs in OECD Countries</title>
@@ -972,7 +974,7 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section> <!--9-->
+    <section>                                                                  <!--9-->
       <title>Basic Income</title>
       <subtitle>What Would Happen If We Just Gave People Money?</subtitle>
       <chapter>
@@ -984,50 +986,65 @@
             <item>It could help eradicate poverty.</item>
           </list>
         </paragraph>
-        <paragraph>Basic income is not a single idea but a family of closely related ideas, which go by an assortment of names: universal basic income, unconditional basic income, guaranteed annual income, citizen’s income, negative income tax etc.</paragraph>
-        <paragraph>But the core motivation - to address social ills by just giving people money - has a long history:</paragraph>
+        <paragraph>Basic income is not a single idea but a family of closely related ideas, which go by an assortment of names: universal basic income, unconditional basic income, guaranteed annual income, citizen’s income, negative income tax etc. But the core motivation - to address social ills by just giving people money - has a long history:</paragraph>
+        <paragraph>C16th</paragraph>
         <paragraph>
           <list type="unordered">
-            <item>C16th</item>
             <item>Thomas More</item>
             <item>Johannes Ludovicus Vives</item>
           </list>
+          </paragraph>
+          <paragraph>1776</paragraph>
+          <paragraph>
           <list type="unordered">
-            <item>1776</item>
             <item>Thomas Jefferson</item>
           </list>
+          </paragraph>
+          <paragraph>1795</paragraph>
+          <paragraph>
           <list type="unordered">
-            <item>1795</item>
             <item>Antoine Caritat</item>
             <item>Thomas Paine</item>
           </list>
+          </paragraph>
+          <paragraph>1862</paragraph>
+          <paragraph>
           <list type="unordered">
-            <item>1862</item>
             <item>Abraham Lincoln</item>
           </list>
+          </paragraph>
+          <paragraph>1880s</paragraph>
+          <paragraph>
           <list type="unordered">
-            <item>1880s</item>
             <item>Henry George</item>
             <item>Edward Bellamy</item>
           </list>
+          </paragraph>
+          <paragraph>1918</paragraph>
+          <paragraph>
           <list type="unordered">
-            <item>1918</item>
             <item>Bertrand Russell</item>
           </list>
+          </paragraph>
+          <paragraph>1930s</paragraph>
+          <paragraph>
           <list type="unordered">
-            <item>1930s</item>
             <item>Francis Townsend</item>
             <item>Huey Long</item>
             <item>Clifford Hugh Douglas</item>
           </list>
+          </paragraph>
+          <paragraph>1940s</paragraph>
+          <paragraph>
           <list type="unordered">
-            <item>1940s</item>
             <item>Franklin Roosevelt</item>
             <item>Friedrich von Hayek</item>
             <item>Peter Drucker</item>
           </list>
+          </paragraph>
+          <paragraph>1960s</paragraph>
+          <paragraph>
           <list type="unordered">
-            <item>1960s</item>
             <item>Milton Friedman</item>
             <item>Robert Theobald</item>
             <item>John Kenneth Galbraith</item>
@@ -1042,22 +1059,28 @@
             <item>Richard Nixon</item>
             <item>Daniel Moynihan</item>
           </list>
+          </paragraph>
+          <paragraph>1970s</paragraph>
+          <paragraph>
           <list type="unordered">
-            <item>1970s</item>
             <item>George McGovern</item>
             <item>James Tobin</item>
             <item>Gerald Ford</item>
             <item>Jimmy Carter</item>
           </list>
+          </paragraph>
+          <paragraph>1980s</paragraph>
+          <paragraph>
           <list type="unordered">
-            <item>1980s</item>
             <item>Leonard Michael Greene</item>
             <item>Alfred Andersen</item>
             <item>Philippe Van Parijs</item>
             <item>Guy Standing</item>
           </list>
+          </paragraph>
+          <paragraph>1990s</paragraph>
+          <paragraph>
           <list type="unordered">
-            <item>1990s</item>
             <item>Jeffrey Smith and Gary Flo</item>
             <item>Theresa Funiciello</item>
             <item>Jeremy Rifkin</item>
@@ -1068,8 +1091,10 @@
             <item>Steven Shafarman</item>
             <item>Bruce Ackerman and Anne Alstott</item>
           </list>
+          </paragraph>
+          <paragraph>2000-</paragraph>
+          <paragraph>
           <list type="unordered">
-            <item>2000-</item>
             <item>U.S. Basic Income Guarantee Network</item>
             <item>Citizen Policies Institute</item>
             <item>Robley E. George</item>
@@ -1111,15 +1136,15 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section> <!--10-->
+    <section>                                                                    <!--10-->
       <title>Reach Higher</title>
       <subtitle>Basic Income, A New Way of Living</subtitle>
       <chapter>
         <paragraph>An "unconditional basic income" (also called "basic income", "basic income guarantee", "universal basic income", "universal demogrant", or "citizen’s income") is a form of social security system in which all citizens or residents of a country regularly receive an unconditional sum of money, either from a government or some other public institution, in addition to any income received from elsewhere.</paragraph>
         <paragraph>Here are some examples and pilot projects.</paragraph>
+        <paragraph>LEGEND</paragraph>
         <paragraph>
           <list type="unordered">
-            <item>LEGEND</item>
             <item>U= universal</item>
             <item>B= basic</item>
             <item>L= long-term</item>
@@ -1207,14 +1232,14 @@
           <cell>✓</cell>
         </row>
         <row type="cell">
-          <cell>Rural Iowa/North Carolina, USA 1970–1972, Sample size: 809</cell>
+          <cell>Rural Iowa / North Carolina, USA 1970–1972, Sample size: 809</cell>
           <cell>✗</cell>
           <cell>✓</cell>
           <cell>✗</cell>
           <cell>✓</cell>
         </row>
         <row type="cell">
-          <cell>Seattle/Denver, USA 1970–1976, Sample size: 4,800</cell>
+          <cell>Seattle / Denver, USA 1970–1976, Sample size: 4,800</cell>
           <cell>✗</cell>
           <cell>✓</cell>
           <cell>✗</cell>
