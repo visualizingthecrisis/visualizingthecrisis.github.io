@@ -134,7 +134,7 @@
           <section>
             <title>Start-ups layoff and cut perks</title>
             <chapter>
-              <paragraph>Amid the layoffs and cuts in startup perks , there’s been
+              <paragraph>Amid the layoffs and cuts in startup perks, there’s been
                 much chatter about a slowdown in tech. As evidence, people have pointed
                 to “down rounds”: new rounds of financing that value a company at less
                 than what investors previously deemed it was worth.</paragraph>
@@ -171,7 +171,64 @@
                 </sources>
               </section>
               <section>
-                <title>Is early to talk about a "European ecosystem of start-ups?"</title>
+            <title>Founders' opinions</title>
+            <chapter>
+              <paragraph>Outside of the sweeping generalizations of ping pong tables in offices, a top VC firm, First Round
+              Capital, decided to poll more than 500 founders what it's like and, release data on the state of the 
+              startup industry.</paragraph>
+                </chapter>
+                <graph unit="%" x="string" y="percentage">
+                  <title>Are we in a bubble?</title>
+                  <dataset label= "Opinion">
+                    <data x="Yes" y="73" />
+                    <data x="No" y="27" />
+                  </dataset>
+                </graph>
+                <graph unit="%" x="string" y="number">
+                  <title>Which is the most overhyped technology?</title>
+                  <dataset label= "Underhyped tech">
+                    <data x="Mobile" y="60" />
+                    <data x="A.I. Vehicles" y="35" />
+                  </dataset>
+                  <dataset label= "Overhyped tech">
+                    <data x="On Demand" y="32" />
+                    <data x="Drones" y="32" />
+                    <data x="Sharing" y="32" />
+                    <data x="Bitcoin" y="70" />
+                    <data x="Wearables" y="95" />
+                  </dataset>
+                </graph>
+                <graph unit="%" x="string" y="percentage">
+                  <title>Is it going to get easier or harder to raise capital in the next 12 months?</title>
+                  <dataset label= "Opinion">
+                    <data x="Harder" y="95" />
+                    <data x="Easier" y="5" />
+                  </dataset>
+                </graph>
+                <keywords>
+                  <keyword name="North America"/>
+                  <keyword name="Start-ups"/>
+                  <keyword name="Tech"/>
+                  <keyword name="Employment"/>
+                  <keyword name="Investments"/>
+                  <keyword name="Sharing Economy"/>
+                  <keyword name="Transportation"/>
+                  <keyword name="Automation"/>
+                  <keyword name="Currency"/>
+                </keywords>
+                <sources>
+                  <source>cbinsights.com</source>
+                  <source>qz.com</source>
+                  <source>startupitalia.eu</source>
+                  <source>statista.com</source>
+                  <source>techcrunch.com</source>
+                  <source>tech.eu</source>
+                  <source>uk.businessinside.com</source>
+                  <source>ilsole24ore.com</source>
+                </sources>
+              </section>
+              <section>
+                <title>Is early to talk about a European ecosystem of start-ups?</title>
                 <chapter>
                   <paragraph>European exits in the last two years increased by 314%.
                     In tech market there were a total of 594 exits.</paragraph>
