@@ -40,6 +40,8 @@ function processXML(d,filters){
   }
 
   for (var s = 0; s < sections.length; ++s) {
+  //  console.log('processing section '+(s+1)+"/"+sections.length);
+    if(s>10)break;
     var count=0;
     if(filters){
       var $sec=$(sections[s]);
