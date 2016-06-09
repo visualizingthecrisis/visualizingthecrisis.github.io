@@ -1,6 +1,6 @@
 <bulletin id="issue 3" date="20160319">
   <sections>
-    <section> <!--1-->
+    <section>                                                   <!--1-->
       <title>UK Unemployment Rate</title>
       <graph unit="%" x="date" y="number">
         <dataset label="">
@@ -27,10 +27,10 @@
         <source>tradingeconomics.com</source>
       </sources>
     </section>
-    <section> <!--2-->
+    <section>                                                            <!--2-->
       <title>Welcome to the Sharing Economy</title>
       <chapter>
-        <paragraph>It’s hard to find more exuberant sharing-economy enthusiasts than investors. Venture capitalists have invested heavily in sharing-economy companies: in 2015 they were evalueted $ 15 billion worldwide and this number is supposed to get more than 20 times bigger in the next decade.</paragraph>
+        <paragraph>It’s hard to find more exuberant sharing-economy enthusiasts than investors. Venture capitalists have invested heavily in sharing-economy companies: in 2015 they were evalueted $15 billion worldwide and this number is supposed to get more than 20 times bigger in the next decade.</paragraph>
       </chapter>
       <graph unit="b$" x="date" y="number">
         <dataset label= "">
@@ -41,26 +41,26 @@
       <graph unit="" x="string" y="number">
         <title>Ranking of the Top 20 Cities for Number of Sharing Economy Companies</title>
         <dataset label= "">
-          <data x="S. Francisco_US" y="131"/>
-          <data x="New York_US" y="89"/>
-          <data x="London_UK" y="72"/>
-          <data x="Paris_FR" y="24"/>
-          <data x="Boston_US" y="20"/>
-          <data x="Los Angeles_US" y="18"/>
-          <data x="Sydney_AU" y="14"/>
-          <data x="Madrid_ES" y="13"/>
-          <data x="Toronto_CA" y="13"/>
-          <data x="Austin_US" y="11"/>
-          <data x="Chicago_US" y="11"/>
-          <data x="Seattle_US" y="11"/>
-          <data x="Berlin_DE" y="10"/>
-          <data x="Amsterdam_NL" y="9"/>
-          <data x="S. Monica_US" y="9"/>
-          <data x="Washington_US" y="9"/>
-          <data x="Bangalore_IN" y="8"/>
-          <data x="Mountain View_US" y="7"/>
-          <data x="Mumbai_IN" y="7"/>
-          <data x="Tel Aviv_IL" y="7"/>
+          <data x="S. Francisco" y="131"/>
+          <data x="New York" y="89"/>
+          <data x="London" y="72"/>
+          <data x="Paris" y="24"/>
+          <data x="Boston" y="20"/>
+          <data x="Los Angeles" y="18"/>
+          <data x="Sydney" y="14"/>
+          <data x="Madrid" y="13"/>
+          <data x="Toronto" y="13"/>
+          <data x="Austin" y="11"/>
+          <data x="Chicago" y="11"/>
+          <data x="Seattle" y="11"/>
+          <data x="Berlin" y="10"/>
+          <data x="Amsterdam" y="9"/>
+          <data x="S. Monica" y="9"/>
+          <data x="Washington DC" y="9"/>
+          <data x="Bangalore" y="8"/>
+          <data x="Mountain View" y="7"/>
+          <data x="Mumbai" y="7"/>
+          <data x="Tel Aviv" y="7"/>
         </dataset>
       </graph>
       <quote>
@@ -93,8 +93,36 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--3-->
+    <section>                                                          <!--3-->
       <title>They Call it Uberization</title>
+      <abstract>
+        Today Uber has turned the smart phone into a tool for dynamically pricing and allocating car rides in real time, throwing the traditional taxi business into turmoil. It’s also given rise to a buzzword — Uberization — that is driving venture-capital investment and pundits to look for the next big business ripe for Uber-style disruption. Only in London Uber has more than 42,000 drivers.
+      </abstract>
+      <keywords>
+        <keyword name="Eastern Europe" />
+        <keyword name="Employment" />
+        <keyword name="Start-ups" />
+        <keyword name="Sharing Economy" />
+        <keyword name="Transportation" />
+      </keywords>
+      <sources>
+        <source>ag.ny.gov</source>
+        <source>bloomberg.com</source>
+        <source>cnbc.com</source>
+        <source>economist.com</source>
+        <source>hospitalitynet.org</source>
+        <source>independent.co.uk</source>
+        <source>insideairbnb.com</source>
+        <source>nytimes.com</source>
+        <source>psu.edu</source>
+        <source>salon.com</source>
+        <source>telegraph.co.uk</source>
+        <source>tradingeconomics.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+      </section>
+      <section>                                                            <!--4-->
+        <title>Airbnb in London</title>
       <graph unit="%" x="string" y="percentage">
         <title>Age of UK Crowd Workers</title>
         <abstract>
@@ -106,19 +134,16 @@
           <data x="16-34 years" y="50"/>
         </dataset>
       </graph>
-      <chapter>
-        <title>Airbnb</title>
-        <paragraph>In 2013 it had £502m impact in UK economy.</paragraph>
-      </chapter>
       <quote>
         <author>James McClure, Airbnb general manager UK and Ireland</author>
         <text>Airbnb is a force for good in the UK economy. It promotes the UK as a destination and spreads tourist spend to local business.</text>
       </quote>
       <chapter>
-        <title>Airbnb In London</title>
+        <title>Some Data</title>
+        <paragraph>In 2013 it had £502m impact in UK economy.</paragraph>
         <paragraph>
         <list type="unordered">
-          <item>Hosts: 25361</item>
+          <item>Hosts: 25,361</item>
           <item>Average price per night: £101</item>
           <item>Average income per month: £746</item>
         </list>
@@ -139,10 +164,6 @@
           <data x="non-central propertie" y="72"/>
         </dataset>
       </graph>
-      <chapter>
-        <title>Uber</title>
-        <paragraph>It has more than 42000 London drivers.</paragraph>
-      </chapter>
       <keywords>
         <keyword name="Eastern Europe" />
         <keyword name="Employment" />
@@ -171,10 +192,10 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--4-->
+    <section>                                                       <!--5-->
         <title>Dogvacacy</title>
         <abstract>
-          It connects petowners withover 20,000 petsitters.
+          It DogVacay is a Santa Monica based company known for home dog boarding and other pet services.[4] They serve clients in both the United States and Canada and place dogs with host families in lieu of the dogs being boarded in a kennel. It connects petowners withover 20,000 petsitters.
         </abstract>
       <keywords>
         <keyword name="Start-ups" />
@@ -196,7 +217,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--5-->
+    <section>                                                                 <!--6-->
         <title>Property Partner</title>
         <abstract>
           It reinvents the proprety market. It's a property crowdfunding platform launched just a year ago with more than 7,000 customers who have collectively invested around £30 million across 184 properties.
@@ -223,7 +244,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--6-->
+    <section>                                                               <!--7-->
         <title>Take a Ride in Bangkok</title>
         <abstract>
           Uber has just launch UberMOTO in Thailand, where 87% of households own a motorcycle or a scooter.
@@ -250,8 +271,8 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--7-->
-      <title>Uberization in the US..</title>
+    <section>                                                          <!--8-->
+      <title>Uberization in the US</title>
       <graph unit="$" x="string" y="number">
         <title>Average Incomes per Month</title>
         <abstract>
@@ -365,7 +386,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--8-->
+    <section>                                                                <!--9-->
       <title>"Share-the-Scraps Economy": the Dark Side of Collaborative Consumption</title>
       <abstract>
         This is the economy we’re now barreling toward. They’re Uber drivers, Instacart shoppers, and Airbnb hosts. They include Taskrabbit jobbers, Upcounsel’s on-demand attorneys, and Healthtap’s on-line doctors. The euphemism is the “share” economy. A more accurate term would be the “share-the-scraps” economy. New software technologies are allowing almost any job to be divided up into discrete tasks that can be parceled out to workers when they’re needed, with pay determined by demand for that particular job at that particular moment. Customers and workers are matched online. Workers are rated on quality and reliability.
@@ -413,7 +434,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--9-->
+    <section>                                                                    <!--10-->
       <title>"Share-the-Scraps Economy": Airbnb</title>
       <graph unit="%" x="string" y="percentage">
         <title>1. Hosts operating an unregulated full-time business account for 30% of the total revenue on Airbnb</title>
@@ -431,11 +452,14 @@
       </graph>
       <graph unit="" x="string" y="number">
         <title>The Impact of Airbnb on Hotel and Hospitality Industry</title>
+        <abstract>
+          From September 2014 to August 2015, 480,000 hotel rooms have been reserved, while 2.8 million rooms have been booked on Airbnb. In 2018 it's estimated that the number of room nights booked on Airbnb will arrive to 5 million.
+        </abstract>
         <dataset label="Hotel room nights reserved">
           <data x="Sep 2014 - Aug 2015" y="480000" />
         </dataset>
         <dataset label="Room nights booked on Airbnb">
-          <data x="Sep 2014 - Aug 2015" y="2.8m" />
+          <data x="2015" y="2.8m" />
           <data x="2018" y="5m" />
         </dataset>
       </graph>
@@ -464,7 +488,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--10-->
+    <section>                                                                      <!--11-->
       <title>"Share-the-Scraps Economy": Uber</title>
       <quote>
         <author>Robert Reich, one of the nation’s leading experts on work and the economy</author>
@@ -482,14 +506,14 @@
       <graph unit="%" x="string" y="number">
         <title>Work Hours with Passengers in New York, Boston and San Francisco.</title>
         <dataset label="Taxis">
-          <data x="New York_US" y="49.5" />
-          <data x="Boston_US" y="32" />
-          <data x="San Francisco_US" y="38.5" />
+          <data x="New York" y="49.5" />
+          <data x="Boston" y="32" />
+          <data x="San Francisco" y="38.5" />
         </dataset>
         <dataset label="UberX">
-          <data x="New York_US" y="51.3" />
-          <data x="Boston_US" y="46.1" />
-          <data x="San Francisco_US" y="54.3" />
+          <data x="New York" y="51.3" />
+          <data x="Boston" y="46.1" />
+          <data x="San Francisco" y="54.3" />
         </dataset>
         <chapter>
           <title>Taxis vs. Uber: the European Strikes</title>
