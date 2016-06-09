@@ -11,8 +11,8 @@
     <sections>
       <section>
         <title>China's ghost cities</title>
-        <subtitle>In the past 20 years China has constructed hundreds of new cities and districts.
-        </subtitle>
+        <abstract>In the past 20 years China has constructed hundreds of new cities and districts.
+        </abstract>
         <chapter>
           <title>New ones</title>
             <paragraph>
@@ -133,7 +133,8 @@
           </sources>
         </section>
         <section>
-          <title>Some data about houses in China</title>
+          <title>Houses in China</title>
+          <subtitle>Some data</subtitle>
           <chapter>
             <paragraph>
               <list type="unordered">
@@ -166,10 +167,10 @@
             </paragraph>
             <paragraph>
               <list type="unordered">
-                <item>1990 - Series of reforms: Let people buy their government-owned houses at favorable rates.</item>
-                <item>2000 - More home owners: Real estate market was set to boom.</item>
-                <item>2010 - China on the top: China is the largest realty market in the world.</item>
-                <item>2016 - Bubble risk: China shows a risky situation similar to the US 2008 bubble.</item>
+                <item>1990 - SERIES OF REFORMS: Let people buy their government-owned houses at favorable rates.</item>
+                <item>2000 - MORE HOME OWNERS: Real estate market was set to boom.</item>
+                <item>2010 - CHINA ON THE TOP: China is the largest realty market in the world.</item>
+                <item>2016 - BUBBLE RISK: China shows a risky situation similar to the US 2008 bubble.</item>
               </list>
             </paragraph>
           </chapter>
@@ -262,9 +263,9 @@
           </paragraph>
           <paragraph>
             <list type="unordered">
-              <item>Shopping Center: 52%</item>
-              <item>New Offices: 38%</item>
-              <item>Logistics, Hotels and others: 10%</item>
+              <item>SHOPPING CENTER: 52%</item>
+              <item>NEW OFFICES: 38%</item>
+              <item>LOGISTICS, HOTELS AND OTHERS: 10%</item>
             </list>
           </paragraph>
         </chapter>

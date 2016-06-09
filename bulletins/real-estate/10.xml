@@ -39,7 +39,7 @@
         </section>
         <section>
           <title>The bank of mum and dad</title>
-            <subtitle>Family and friends will spend 5 billion pounds this year helping people buy property in the U.K.</subtitle>
+            <subtitle>Family and friends will spend 5 billion pounds this year helping people buy property in the UK</subtitle>
           <chapter>
             <title>How much parents help</title>
             <paragraph>Parents in London are giving half of their net wealth to their children as a deposit for properties.</paragraph>
@@ -213,96 +213,170 @@
               <paragraph>Some people say that Britain is “in the throes of a housing crisis”. Would you say that this is something you agree with or disagree with?</paragraph>
               <paragraph>
                 <list type="unordered">
-                  <item>33% strongly agree</item>
-                  <item>36% slightly agree</item>
-                  <item>13% slightly disagree</item>
-                  <item>4% strongly disagree</item>
-                  <item>14% don’t know</item>
+                  <item>A. strongly agree</item>
+                  <item>B. slightly agree</item>
+                  <item>C. slightly disagree</item>
+                  <item>D. strongly disagree</item>
+                  <item>E. don’t know</item>
                 </list>
               </paragraph>
             </chapter>
+            <graph unit="%" x="string" y="percentage">
+              <title>Average family contribution to home purchase</title>
+              <dataset label="">
+                <data x="A" y="33"/>
+                <data x="B" y="36"/>
+                <data x="C" y="13"/>
+                <data x="D" y="4"/>
+                <data x="E" y="14"/>
+              </dataset>
+            </graph>
             <chapter>
               <title>Ownership</title>
               <paragraph>To what extent do you agree or disagree with the following statement? “One day, I would like to own my own home?”</paragraph>
               <paragraph>
                 <list type="unordered">
-                  <item>46% strongly agree</item>
-                  <item>36% slightly agree</item>
-                  <item>6% slightly disagree</item>
-                  <item>14% strongly disagree</item>
-                  <item>13% don’t know</item>
+                  <item>A. strongly agree</item>
+                  <item>B. slightly agree</item>
+                  <item>C. slightly disagree</item>
+                  <item>D. strongly disagree</item>
+                  <item>E. don’t know</item>
                 </list>
               </paragraph>
             </chapter>
+            <graph unit="%" x="string" y="percentage">
+              <title>Average family contribution to home purchase</title>
+              <dataset label="">
+                <data x="A" y="46"/>
+                <data x="B" y="36"/>
+                <data x="C" y="6"/>
+                <data x="D" y="14"/>
+                <data x="E" y="13"/>
+              </dataset>
+            </graph>
             <chapter>
               <title>Urban</title>
               <paragraph>Some people say that Britain is “in the throes of a housing crisis”. Would you say that this is something you agree with or disagree with? Urban net: excluding don’t knows</paragraph>
               <paragraph>
                 <list type="unordered">
-                  <item>88% agree</item>
-                  <item>12% disagree</item>
+                  <item>A. agree</item>
+                  <item>B. disagree</item>
                 </list>
               </paragraph>
             </chapter>
+            <graph unit="%" x="string" y="percentage">
+              <title>Average family contribution to home purchase</title>
+              <dataset label="">
+                <data x="A" y="88"/>
+                <data x="B" y="12"/>
+              </dataset>
+            </graph>
             <chapter>
               <title>Rural</title>
               <paragraph>Some people say that Britain is “in the throes of a housing crisis”. Would you say that this is something you agree with or disagree with? Rural net: excluding don’t knows</paragraph>
               <paragraph>
                 <list type="unordered">
-                  <item>73% agree</item>
-                  <item>27% disagree</item>
+                  <item>A. agree</item>
+                  <item>B. disagree</item>
                 </list>
               </paragraph>
             </chapter>
+            <graph unit="%" x="string" y="percentage">
+              <title>Average family contribution to home purchase</title>
+              <dataset label="">
+                <data x="A" y="73"/>
+                <data x="B" y="27"/>
+              </dataset>
+            </graph>
             <chapter>
               <title>Impacts</title>
               <paragraph>Which, if any, of the following do you think has had a significant impact on Britain’s housing crisis?</paragraph>
               <paragraph>
                 <list type="unordered">
-                  <item>48% Right-to-buy scheme and selling off of social housing</item>
-                  <item>38% short hold tenancies and no rent controls</item>
-                  <item>12% aid first time buyers</item>
-                  <item>15% restriction on planning permission</item>
-                  <item>54% immigration</item>
-                  <item>51% foreign investors buying up property</item>
-                  <item>25% NIMBY's</item>
-                  <item>32% developers holding  land after planning</item>
+                  <item>A. right-to-buy scheme and selling off of social housing</item>
+                  <item>B. short hold tenancies and no rent controls</item>
+                  <item>C. aid first time buyers</item>
+                  <item>D. restriction on planning permission</item>
+                  <item>E. immigration</item>
+                  <item>F. foreign investors buying up property</item>
+                  <item>G. NIMBY's</item>
+                  <item>H. developers holding  land after planning</item>
                 </list>
               </paragraph>
             </chapter>
+            <graph unit="%" x="string" y="number">
+              <title>Average family contribution to home purchase</title>
+              <dataset label="">
+                <data x="A" y="48"/>
+                <data x="B" y="38"/>
+                <data x="C" y="12"/>
+                <data x="D" y="15"/>
+                <data x="E" y="54"/>
+                <data x="F" y="51"/>
+                <data x="G" y="25"/>
+                <data x="H" y="32"/>
+              </dataset>
+            </graph>
             <chapter>
               <title>Solutions</title>
               <paragraph>Which, if any, of the following options do you think would help tackle Britain’s housing crisis?</paragraph>
               <paragraph>
                 <list type="unordered">
-                  <item>58% more social housing</item>
-                  <item>48% restrictions on the rights to purchase for foreign buyers / investors</item>
-                  <item>46% restrictions on the number of properties</item>
-                  <item>30% a cap on rent for tenants</item>
-                  <item>37% a cap on rent for tenants</item>
-                  <item>13% relax planning laws on property </item>
-                  <item>18% use taxation to deflate housing prices</item>
-                  <item>22% end discounts on right to buy</item>
-                  <item>22% more private housing</item>
-                  <item>46% more restrictions on immigration to Britain</item>
+                  <item>A. more social housing</item>
+                  <item>B. restrictions on the rights to purchase for foreign buyers / investors</item>
+                  <item>C. restrictions on the number of properties</item>
+                  <item>D. a cap on rent for tenants</item>
+                  <item>E. a cap on rent for tenants</item>
+                  <item>F. relax planning laws on property </item>
+                  <item>G. use taxation to deflate housing prices</item>
+                  <item>H. end discounts on right to buy</item>
+                  <item>I. more private housing</item>
+                  <item>L. more restrictions on immigration to Britain</item>
                 </list>
               </paragraph>
             </chapter>
+            <graph unit="%" x="string" y="number">
+              <title>Average family contribution to home purchase</title>
+              <dataset label="">
+                <data x="A" y="58"/>
+                <data x="B" y="48"/>
+                <data x="C" y="46"/>
+                <data x="D" y="30"/>
+                <data x="E" y="37"/>
+                <data x="F" y="13"/>
+                <data x="G" y="18"/>
+                <data x="H" y="22"/>
+                <data x="I" y="22"/>
+                <data x="L" y="46"/>
+              </dataset>
+            </graph>
             <chapter>
               <title>Preferred solutions</title>
               <paragraph>Some would argue that Britain’s cities are under particular strain. Which, if any, of the following options would be your preferred solution to improving the housing situation in cities in Britain?</paragraph>
               <paragraph>
                 <list type="unordered">
-                  <item>60% build on brownfield land</item>
-                  <item>48% restrict foreign immigration to Britain’s cities</item>
-                  <item>15% build more floors on existing housing</item>
-                  <item>12% increase housing in the suburbs</item>
-                  <item>12% reduce planning on  city skyline</item>
-                  <item>10% build on green belt land</item>
-                  <item>51% restrict foreign ownership of properties for investment</item>
+                  <item>A. build on brownfield land</item>
+                  <item>B. restrict foreign immigration to Britain’s cities</item>
+                  <item>C. build more floors on existing housing</item>
+                  <item>D. increase housing in the suburbs</item>
+                  <item>E. reduce planning on  city skyline</item>
+                  <item>F. build on green belt land</item>
+                  <item>G. restrict foreign ownership of properties for investment</item>
                 </list>
               </paragraph>
             </chapter>
+            <graph unit="%" x="string" y="number">
+              <title>Average family contribution to home purchase</title>
+              <dataset label="">
+                <data x="A" y="60"/>
+                <data x="B" y="48"/>
+                <data x="C" y="15"/>
+                <data x="D" y="12"/>
+                <data x="E" y="12"/>
+                <data x="F" y="10"/>
+                <data x="G" y="51"/>
+              </dataset>
+            </graph>
             <keywords>
               <keyword name="Western Europe"/>
               <keyword name="Investments"/>

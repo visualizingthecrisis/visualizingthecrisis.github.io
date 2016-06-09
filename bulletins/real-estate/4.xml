@@ -30,8 +30,6 @@
               <cell>$ 10,484</cell>
               <cell>2.5 %</cell>
             </row>
-          </table>
-          <table>
             <row type="cell">
               <cell>Chile</cell>
               <cell>18,000,000</cell>
@@ -46,8 +44,6 @@
               <cell>$ 6,410</cell>
               <cell>3.4%</cell>
             </row>
-          </table>
-          <table>
             <row type="cell">
               <cell>Colombia</cell>
               <cell>49,000,000</cell>
@@ -103,7 +99,7 @@
             <data x="Buenos Aires" y="2,660"/>
             <data x="Montevideo" y="2,679"/>
             <data x="Punta de Este" y="3,350"/>
-            <data x="Fortezza" y="1,386"/>
+            <data x="Fortaleza" y="1,386"/>
           </dataset>
         </graph>
         <keywords>
@@ -168,7 +164,7 @@
       <section>
         <title>Japanese houses rental cost</title>
         <graph unit="¥" x="city" y="number">
-          <title>"Average monthly cost/sq m"</title>
+          <title>Average monthly cost/sq m</title>
           <abstract>Tokyo has the most expensive rental costs in China while Nagoya is more affordable.</abstract>
           <dataset label="rent cost">
             <data x="Tokyo" y="3,280"/>

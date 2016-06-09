@@ -55,21 +55,21 @@
         </sources>
       </section>
       <section>
-        <title>US'Veteran affairs loans</title>
+        <title>US' Veteran affairs loans</title>
         <chapter>
           <paragraph>Most popular loan type. Safe and affordable choice:100% financing Active and veteran military.
           </paragraph>
           <paragraph>
             <list type="unordered">
-              <item>Active military: 74%</item>
-              <item>Veteran military: 54%</item>
+              <item>ACTIVE MILITARY: 74%</item>
+              <item>VETERAN MILITARY: 54%</item>
             </list>
           </paragraph>
           <paragraph>
             <list type="unordered">
-              <item>Active military: leading the majority financing , the entire home purchase</item>
-              <item>Veteran military: putting down a median down payment of 5%</item>
-              <item>Civilian: putting down a median down payment of 11%</item>
+              <item>ACTIVE MILITARY: leading the majority financing , the entire home purchase</item>
+              <item>VETERAN MILITARY: putting down a median down payment of 5%</item>
+              <item>CIVILIAN: putting down a median down payment of 11%</item>
             </list>
           </paragraph>
         </chapter>
@@ -77,20 +77,20 @@
           <title>With the ability to obtain a VA Loan</title>
           <paragraph>buyers said saving for a down payment was the most difficult step:
             <list type="unordered">
-              <item>Active military: 3%</item>
-              <item>Veteran military: 5%</item>
+              <item>ACTIVE MILITARY: 3%</item>
+              <item>VETERAN MILITARY: 5%</item>
             </list>
           </paragraph>
           <paragraph>buyers said student loan debt delayed saving:
             <list type="unordered">
-              <item>Active military: 13%</item>
-              <item>Veteran military: 4%</item>
+              <item>ACTIVE MILITARY: 13%</item>
+              <item>VETERAN MILITARY: 4%</item>
             </list>
           </paragraph>
           <paragraph>
             <list type="unordered">
-              <item>Active military: 43% have credit card debts</item>
-              <item>Veteran military: 62% other debts</item>
+              <item>ACTIVE MILITARY: 43% have credit card debts</item>
+              <item>VETERAN MILITARY: 62% other debts</item>
             </list>
           </paragraph>
         </chapter>
@@ -162,7 +162,7 @@
         </sources>
       </section>
       <section>
-        <title>Sources of money for their down payments</title>
+        <title>Sources of money for down payments</title>
         <subtitle>US veterans, soldiers and civilians: a comparison</subtitle>
         <table>
           <row type="head">
@@ -226,7 +226,7 @@
               <cell>Price home</cell>
               <cell>Size home</cell>
               <cell>Distance job</cell>
-              <cell>Other compromised</cell>
+              <cell>Other</cell>
               <cell>Style home</cell>
               <cell>Distance family</cell>
               <cell>Distance school</cell>
@@ -491,7 +491,7 @@
               <cell>Credit card debt</cell>
               <cell>Car loan</cell>
               <cell>Child care costs</cell>
-              <cell>Health care costs</cell>
+              <cell>Healthcare costs</cell>
               <cell>Other</cell>
             </row>
             <row type="cell">
@@ -596,7 +596,7 @@
             <row type="head">
               <cell></cell>
               <cell>Detached single-family</cell>
-              <cell>Townhouse</cell>
+              <cell>Town house</cell>
               <cell>Apartment</cell>
               <cell>Duplex</cell>
               <cell>Other</cell>

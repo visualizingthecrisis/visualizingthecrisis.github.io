@@ -10,7 +10,7 @@
     <title>Weekly hot-spots</title>
     <sections>
       <section>
-        <title>Canada-Average home prices are climbing annually</title>
+        <title>Canada: average home prices are climbing annually</title>
         <chapter>
           <paragraph>A soaring real estate market in Vancouver helped push the national average home price in Canada above the half-million dollar mark for first time in February.
           </paragraph>
@@ -74,7 +74,7 @@
           </sources>
       </section>
       <section>
-        <title>UK-Hungry for homes</title>
+        <title>UK: hungry for homes</title>
         <chapter>
           <paragraph>The Bank of England isn't expected to raise rates until at least next year. Meanwhile, buy-to-let investors can get rental yields of 3 percent to 4 percent for residential property in London and more outside the capital.
           </paragraph>
@@ -158,7 +158,7 @@
           </sources>
         </section>
         <section>
-          <title>Rio De Janeiro - 1 in 10 middle class slipped in downtown</title>
+          <title>Rio De Janeiro: 1 in 10 middle class slipped in downtown</title>
           <chapter>
             <paragraph>Of the 40 million people who climbed into Brazil’s middle class during the boom years of the previous decade, almost one in 10 has already slid back down.
             </paragraph>
@@ -192,7 +192,8 @@
     <bulletin id="3" date="20160317">
       <sections>
         <section>
-          <title>Anbang, bang!</title>
+          <title>Anbang*, bang!</title>
+          <subtitle>*Anbang is a Beijing-based insurer</subtitle>
           <chapter>
             <title>Strategic Hotels</title>
             <paragraph>is a portfolio company, including US most famous luxury properties.Considered as a grioup of throphy properties, they are located across the country: from urban hotels to mountains resorts, including desert and oceanview hotels.
@@ -204,7 +205,7 @@
           </chapter>
           <chapter>
             <title>Now></title>
-            <paragraph>Anbang  Insurance (China) is buying it for $ 450 million more. EXPENSIVE ROOMS: it own now, more than 7500 of the US’ most expensive hotel rooms. STABILITY: the idea is that high profile poperties are a stable investments
+            <paragraph>Anbang  Insurance (China) is buying it for $ 450 million more. Expensive rooms: it own now, more than 7500 of the US’ most expensive hotel rooms. STABILITY: the idea is that high profile poperties are a stable investments
             </paragraph>
           </chapter>
           <keywords>
@@ -232,7 +233,7 @@
             </paragraph>
           </chapter>
           <chapter>
-            <paragraph> Anbang has a deep connection with China’s communist Party, the families are joined by marriage ties.
+            <paragraph>Anbang has a deep connection with China’s communist Party, the families are joined by marriage ties.
             </paragraph>
           </chapter>
           <chapter>
@@ -279,7 +280,7 @@
         </section>
         <section>
           <title>China is buying US hotels</title>
-          <subtitle>Some little details</subtitle>
+          <subtitle>Some small details</subtitle>
           <chapter>
             <title>Where the president will sleep?</title>
             <paragraph>After Waldorf Astoria sell, Barack Obama refused to stay in the hotel, breaking an eight decades-long presidential tradition.
@@ -313,7 +314,8 @@
           </sources>
         </section>
         <section>
-          <title>Recent China’s acquisitions price amount (from January 2016) $25 billion</title>
+          <title>China's acquisition</title>
+          <subtitle>Price raised $25 billion since January 2016</subtitle>
           <graph unit="$" x="date" y="number">
             <title>Chinese investors speed up property deals</title>
             <abstract>2016 Deals already total almost half of 2015 level</abstract>

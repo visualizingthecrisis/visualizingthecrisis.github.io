@@ -10,7 +10,7 @@
     <title>Italian Scenario</title>
     <sections>
       <section>
-        <title>Italian Scenario</title>
+        <title>Italian housing scenario</title>
           <graph unit="K" x="region" y="number">
             <title>New daily mortgages per region (22/04/2016)</title>
             <abstract>Lombardia region has the highest number of daily mortgages throughout Italy</abstract>
@@ -103,7 +103,7 @@
         </sources>
       </section>
       <section>
-        <title>Italian: Mortgage vs Leasing</title>
+        <title>Italy: Mortgage vs Leasing</title>
         <chapter>
           <title>Mortgage - How does it work</title>
           <subtitle>In the last year mortgages increased + 97% in Italy.</subtitle>
@@ -231,7 +231,7 @@
         <sections>
           <section>
             <title>US builders world</title>
-            <subtitle>Some data to understand housing market and homebuilders situation in US:</subtitle>
+            <subtitle>Some data to understand housing market and homebuilders situation in US</subtitle>
             <graph unit="" x="string" y="number">
               <title>U.S. housing starts</title>
               <abstract>New residential housing units authorized by building permits and started in the last year (from March ‘15 to March’16).</abstract>
@@ -313,7 +313,7 @@
               </sources>
             </section>
             <section>
-              <title>US is in the heart of an historically strong spring housing market.</title>
+              <title>US is in the heart of an historically strong spring housing market</title>
               <chapter>
                 <title>Strength</title>
                 <subtitle>the factors that make builders optimistic</subtitle>
