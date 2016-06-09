@@ -16,16 +16,16 @@
           <chapter>
             <paragraph>
               <list type="ordered">
-                <item>=_Uber_$ 51B</item>
-                <item>=_Xiaomi_$ 46B</item>
-                <item>=_Airbnb_$ 25.5B</item>
-                <item>=_Palantir_$ 20B</item>
-                <item>=_Dianping_$ 18B</item>
-                <item>=_Snapchat_$ 16B</item>
-                <item>=_Wework_$ 16B</item>
-                <item>=_Didi Kuaidi_$ 15B</item>
-                <item>=_Flipkart_$ 15B</item>
-                <item>=_SpaceX_$ 12B</item>
+                <item>(=) Uber, $ 51B</item>
+                <item>(=) Xiaomi, $ 46B</item>
+                <item>(=) Airbnb, $ 25.5B</item>
+                <item>(=) Palantir, $ 20B</item>
+                <item>(=) Dianping, $ 18B</item>
+                <item>(=) Snapchat, $ 16B</item>
+                <item>(=) WeWork, $ 16B</item>
+                <item>(=) Didi Kuaidi, $ 15B</item>
+                <item>(=) Flipkart, $ 15B</item>
+                <item>(=) SpaceX, $ 12B</item>
               </list>
             </paragraph>
           </chapter>
@@ -121,8 +121,8 @@
                         expansion will cover China, South Korea and India.</paragraph>
                       </chapter>
                       <graph x="string" y="number">
-                        <title>Wework's number and location of offices</title>
-                        <abstract>Wework has expanded worldwide. Sydney and New Dehli
+                        <title>WeWork's number and location of offices</title>
+                        <abstract>WeWork has expanded worldwide. Sydney and New Dehli
                           are coming soon locations.</abstract>
                           <dataset label= "offices">
                             <data x="New York City" y="30"/>
@@ -180,12 +180,10 @@
                             to embassies. In this week, executives from several technology companies
                             are traveling with the U.S. president on his goodwill tour
                             or introducing new business initiatives focused on the island, or both.</paragraph>
-                            <paragraph>March 22th 2016, President Obama is in Cuba,
-                              and Silicon Valley is tagging along for the ride.</paragraph>
                             </chapter>
                             <quote>
                               <author>bloomberg.com</author>
-                              <text>March 22th 2016, President Obama is in Cuba, and Silicon Valley
+                              <text>March 22th, 2016: President Obama is in Cuba, and Silicon Valley
                                 is tagging along for the ride.</text>
                               </quote>
                               <graph unit="B$" x="date" y="number">
@@ -332,7 +330,7 @@
                                       <graph x="string" y="number">
                                         <title>Most popular cities in Cuba, by number
                                           of Airbnb "casas".</title>
-                                          <dataset label= "number of Airbnb casas">
+                                          <dataset label= "number of "casas">
                                             <data x="Vinales" y="200"/>
                                             <data x="Havana" y="2,500"/>
                                             <data x="Santa Clara" y="95"/>
@@ -357,6 +355,7 @@
                                       </section>
                                       <section>
                                         <title>Cuba: internet access</title>
+                                        <subtitle>Netflix and Google</subtitle>
                                         <chapter>
                                           <title>Netflix</title>
                                           <paragraph>Netflix Inc, said it will offer
