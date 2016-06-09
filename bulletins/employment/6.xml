@@ -1,6 +1,6 @@
 <bulletin id="issue 6" date="20160416">
   <sections>
-    <section>                                                          <!--1-->
+    <section>                                                           <!--1-->
       <title>US Tax Revenue</title>
       <graph unit="t$" x="date" y="number">
         <dataset label="">
