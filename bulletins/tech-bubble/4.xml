@@ -326,12 +326,12 @@
                                     <chapter>
                                       <paragraph>Cuba has been one of Airbnb’s fastest-growing
                                         market in 2015. 13000 guests from the US booked a Cuban
-                                        Airbnb in casas particulares, and 250$ spent
+                                        Airbnb in "casas" particulares, and 250$ spent
                                         per booking.</paragraph>
                                       </chapter>
                                       <graph x="string" y="number">
                                         <title>Most popular cities in Cuba, by number
-                                          of Airbnb casas.</title>
+                                          of Airbnb "casas".</title>
                                           <dataset label= "number of Airbnb casas">
                                             <data x="Vinales" y="200"/>
                                             <data x="Havana" y="2,500"/>
