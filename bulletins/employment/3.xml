@@ -515,12 +515,12 @@
           <data x="Boston" y="46.1" />
           <data x="San Francisco" y="54.3" />
         </dataset>
+        </graph>
         <chapter>
           <title>Taxis vs. Uber: the European Strikes</title>
           <paragraph>In June 2014 thousands of cab drivers took to the streets for large-scale protests over the famous ride sharing company, Uber. Protests in London, Madrid, and Berlin over the use of a mobile app to handle payments had forced a gridlocked stop. With all the commotion, however, Uber was seeing substantial gains in the App Store: the Uber app for iPhone had been climbing the App Store charts in major European countries immediately after the protests were announced.</paragraph>
           <paragraph>The App Store’s fast reaction to the protests meant even more new users for Uber. These events worked in their favor: remarks from Uber executives showed they embraced the protests as a way to display the convenience and functionality of the service.</paragraph>
         </chapter>
-      </graph>
       <keywords>
         <keyword name="Employment" />
         <keyword name="Start-ups" />
