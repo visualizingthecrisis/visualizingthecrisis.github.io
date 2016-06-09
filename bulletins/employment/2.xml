@@ -299,7 +299,7 @@
             <data x="Remaining freelancer respondents" y="38" />
           </dataset>
         </graph>
-        <graph unit="%" x="string" y="number">
+        <graph unit="%" x="string" y="percentage">
           <title>3. Diversify Your Income Stream</title>
           <abstract>92% of freelancers had other sources of income, whether in the form of part-time or full-time work. With support from online platforms and services that are helping workers organize and manage themselves.</abstract>
           <dataset label="">
