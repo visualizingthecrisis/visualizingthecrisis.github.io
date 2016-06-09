@@ -1,6 +1,6 @@
 <bulletin id="issue 9" date="20160507">
   <sections>
-    <section>
+    <section> <!--1-->
       <title>'Basic Income' Searches in Google</title>
       <graph unit="%" x="date" y="number">
         <dataset label="">
@@ -24,7 +24,7 @@
         <source>google.it/trends</source>
       </sources>
     </section>
-    <section>
+    <section> <!--2-->
       <title>The World's Most Miserable Economies</title>
       <abstract>
         The misery index is an economic indicator - created by economist Arthur Okun - that helps determine how the average citizen is doing economically and it is calculated by adding the seasonally adjusted unemployment rate to the annual inflation rate.
@@ -94,7 +94,7 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section>
+    <section> <!--3-->
       <title>Misery Index</title>
       <chapter>
         <paragraph>Misery index estimates - calculated by adding the seasonally adjusted unemployment rate to the annual inflation rate - were compiled using the median estimates in Bloomberg economic surveys from the past three months. Figures for 2015 and 2016 inflation and unemployment data reflect the average over the year and use the most current data available for each country.</paragraph>
@@ -626,7 +626,7 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section>
+    <section> <!--4-->
       <title>Revolutions In Progress</title>
       <abstract>
         Labour Day is an annual holiday to celebrate the achievements of workers. Labour Day has its origins in the labour union movement, specifically the eight-hour day movement, which advocated eight hours for work, eight hours for recreation, and eight hours for rest. For many countries, Labour Day is synonymous with, or linked with, International Workers' Day, which occurs on 1 May.
@@ -698,7 +698,7 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section>
+    <section> <!--5-->
       <title>Minimum-Wage Madness</title>
       <subtitle>Fight for $15!</subtitle>
       <chapter>
@@ -734,7 +734,7 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section>
+    <section> <!--6-->
       <graph unit="" x="location" y="number">
         <title>Ratio of the Minimum Wage to Median Wage in OECD Countries</title>
         <dataset label="">
@@ -803,7 +803,7 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section>
+    <section> <!--7-->
       <title>US Federal Minimum Wage History</title>
       <graph unit="$" x="date" y="number">
         <dataset label="Statutory Minimum Wage">
@@ -891,7 +891,7 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section>
+    <section> <!--8-->
       <title>A Basic Income Is Smarter Than a Minimum Wage</title>
       <graph unit="$ per month" x="location" y="number">
         <title>Per Capita Public Spending on Social Programs in OECD Countries</title>
@@ -972,7 +972,7 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section>
+    <section> <!--9-->
       <title>Basic Income</title>
       <subtitle>What Would Happen If We Just Gave People Money?</subtitle>
       <chapter>
@@ -1111,7 +1111,7 @@
         <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
       </sources>
     </section>
-    <section>
+    <section> <!--10-->
       <title>Reach Higher</title>
       <subtitle>Basic Income, A New Way of Living</subtitle>
       <chapter>
