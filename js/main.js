@@ -411,7 +411,7 @@ function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
       settings.data.columns=yData;
       settings.data.type='bar';
       settings.axis.x.type= 'category';
-      //settings.axis.y.label.text= 'category';
+      settings.axis.y.label.text= 'value in '+unit;
       settings.axis.y.tick.format=getFormatFunction(unit);
       settings.axis.y.tick.count=4;
       //  settings.axis.x.tick.width=200;
@@ -698,7 +698,7 @@ function getDefaultGraphSettings(){
   },
   y: {
     label: {
-       text: 'value in CHF',
+       text: '',
        position: 'outer-top',
     },
     tick: {
@@ -765,5 +765,7 @@ function getTextWidth(text, font) {
   return metrics.width;
 }
 function getFormatFunction(unit){
-  return function (d) { var format=d3.format(".3s"); return format(d)+" "+unit; };//;
+  return function (d) {
+    var format=d3.format(".3s"); return format(d);//+" "+unit;
+  };//;
 }
