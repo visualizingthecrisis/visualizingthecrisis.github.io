@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bulletins>
   <title>EU Debt Crisis Odysssey</title>
-	<subtitle>About the european crisis</subtitle>
+	<subtitle>About the European crisis</subtitle>
 	<authors>
     <author>Valeria Mento</author>
     <author>Jacopo Faggian</author>
@@ -16,6 +16,7 @@
       So, now we see which are this proposals from germany e euro survival.</abstract>
     <quote>
         <author>Yves Smith</author>
+        <role>Journalist</role>
         <text>It’s astonishing to see Germany take active steps to wreck the Eurozone.
         </text>
     </quote>
@@ -25,30 +26,30 @@
       </paragraph>
     </chapter>
     <chapter>
-      <title>Proposal 1 - promoters</title>
+      <title>Proposal 1 - Promoters</title>
       <paragraph>
         Schäuble, members of the CDU party and governors of the German and French central banks,
         Jens Weidmann and François Villeroy de Galhau.
       </paragraph>
     </chapter>
     <chapter>
-      <title>Proposal 1 - actions</title>
+      <title>Proposal 1 - Actions</title>
       <paragraph>
         <list type="ordered">
-          <item>Creation of a “eurozone finance ministry”;</item>
+          <item>Creation of a “Eurozone finance ministry”;</item>
           <item>Creation of an “independent fiscal council”.</item>
         </list>
       </paragraph>
     </chapter>
     <chapter>
-      <title>Proposal 2 - promoters</title>
+      <title>Proposal 2 - Promoters</title>
       <paragraph>
         German Council of Economic Experts (GCEE), with backing of the Bundesbank,
         the German finance minister Wolfgang Schäuble and Draghi.
       </paragraph>
     </chapter>
     <chapter>
-      <title>Proposal 2 - actions</title>
+      <title>Proposal 2 - Actions</title>
       <paragraph>
         <list type="ordered">
           <item>Government bond value would be “weighted” according to the “sovereign default risk”
@@ -73,7 +74,7 @@
       </paragraph>
     </chapter>
     <chapter>
-      <title>Conseguences</title>
+      <title>Consequences</title>
       <paragraph>
         <list type="ordered">
           <item>Risk of a new crisis, because debt value of riskier countries becomes high, and at the same time value
@@ -107,7 +108,7 @@
     <title>A little overview on italian's debt</title>
     <graph unit="EUR" x="​string" y="number">
       <title>Debt/banking situation in Italy</title>
-      <abstract>Total amount of italian debt is 2169 billions €</abstract>
+      <abstract>Total amount of italian debt is 2,169 billions €</abstract>
       <dataset label="Italian debt quota">
         <data x="italian banks" y="400,000,000,000"/>
         <data x="other investors" y="1,769,000,000,000"/>
@@ -131,10 +132,10 @@
 <section>
   <quote>
       <author>Yves Smith</author>
+      <role>Journalist</role>
       <text>
         Boris Johnson, Mayor of London, dropped an EU referendum bombshell by announcing he will campaign
-        for Britain’s exit, where UK will vote to decide if stay or leave Europe. Johnson’s declaration,
-        because of his great influence is now having a big impact on britannic population.
+        for Britain’s exit, where UK will vote to decide if stay or leave Europe.
       </text>
   </quote>
   <keywords>
@@ -155,6 +156,7 @@
 <section>
   <title>What about “Brexit”?</title>
   <chapter>
+  <title>Why is UK asking for a referendum?</title>
     <paragraph>
     Boris Johnson, Mayor of London, dropped an EU referendum bombshell by announcing he will campaign
     for Britain’s exit, where UK will vote to decide if stay or leave Europe. Johnson’s declaration,
@@ -167,12 +169,12 @@
       save themsalves without taxpayer money.</item>
     <item>Uk banks were the first to fall after US financial crisis,
       so banks don’t want to apply this new ECB decisions.</item>
-    <item>EU decided to add more taxes on billion capital excanges,
+    <item>EU decided to add more taxes on billion capital exchanges,
       they will use this money for important comunitarian projects.</item>
     <item>UK disagrees saying that could cause escape of big capitals
       in other countries with less taxes on money.</item>
     <item>EU wants to reduce Britannic rebate, money that London
-      recinves every year from the EU itselfs</item>
+      receives every year from the EU itselfs</item>
     <item>UK was upset by this request from european countries, also Italy that has
       economic so they threaten to stop found for Emilia Romagna earthquake.</item>
     </list>
@@ -203,11 +205,11 @@
       </paragraph>
       <paragraph>
         <list type="ordered">
-          <item>Soft exit: UK can continue to trade with other european countries;</item>
-          <item>Deep cut: UK can continue to trade with other european countries, but customs would be restored;</item>
-          <item>Isolation; UK cannot continue to trade with other european countries;</item>
-          <item>No more taxes to pay to EU: with Brexit UK would not pay more taxes to EU;</item>
-          <item>Possible new free trade: UK probably begins new trade with other world countries, as India and Australia.</item>
+          <item>SOFT EXIT: UK can continue to trade with other european countries;</item>
+          <item>DEEP CUT: UK can continue to trade with other european countries, but customs would be restored;</item>
+          <item>ISOLATION; UK cannot continue to trade with other european countries;</item>
+          <item>NO MORE TAXES TO PAY TO EU: with Brexit UK would not pay more taxes to EU;</item>
+          <item>POSSIBLE NEW FREE TRADE: UK probably begins new trade with other world countries, as India and Australia.</item>
         </list>
       </paragraph>
     </chapter>
@@ -278,7 +280,7 @@
     </paragraph>
   </chapter>
   <graph unit="%" x="date" y="number">
-  <title>Pound overview 1st Dic | 3rd Mar</title>
+  <title>Pound overview 1 Dec, 3 Mar</title>
   <dataset label="Pound value">
     <data x="20151231" y="1.53"/>
     <data x="20160229" y="1.38"/>
@@ -286,8 +288,8 @@
    </dataset>
 </graph>
 <graph unit="%" x="date" y="number">
-<title>Pound overview 28th Feb | 3rd Mar</title>
-<dataset label="Pound valueP">
+<title>Pound overview 28 Feb, 3 Mar</title>
+<dataset label="Pound value">
   <data x="20160229" y="1.383"/>
   <data x="20160302" y="1.411"/>
   <data x="20160303" y="1.409"/>
@@ -310,8 +312,8 @@
 
 <section>
 <title>What UK thinks</title>
-<graph unit="%" x="​string" y="percentage">
-<title>3th march 2016</title>
+<graph unit="%" x="string" y="percentage">
+<title>3 Mar 2016</title>
 <abstract>Should the United Kingdom remain a member of the European Union or leave the European Union?</abstract>
 <dataset label="Vote survey">
   <data x="stay" y="47"/>
@@ -319,7 +321,7 @@
  </dataset>
 </graph>
 <graph unit="%" x="​string" y="percentage">
-<title>29th Feb 2016</title>
+<title>29 Feb 2016</title>
 <abstract>How much of a risk to the UK do you think leaving the EU would pose?</abstract>
 <dataset label="Risk percentage">
   <data x="low" y="60"/>
