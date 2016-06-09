@@ -16,16 +16,16 @@
           <chapter>
             <paragraph>
               <list type="ordered">
-                <item>=_Uber_$ 51B</item>
-                <item>=_Xiaomi_$ 46B</item>
-                <item>=_Airbnb_$ 25.5B</item>
-                <item>=_Palantir_$ 20B</item>
-                <item>=_Dianping_$ 18B</item>
-                <item>=_Snapchat_$ 16B</item>
-                <item>=_Wework_$ 12B</item>
-                <item>=_Didi Kuaidi_$ 15B</item>
-                <item>=_Flipkart_$ 15B</item>
-                <item>=_SpaceX_$ 12B</item>
+                <item>(=) Uber, $ 51B</item>
+                <item>(=) Xiaomi, $ 46B</item>
+                <item>(=) Airbnb, $ 25.5B</item>
+                <item>(=) Palantir, $ 20B</item>
+                <item>(=) Dianping, $ 18B</item>
+                <item>(=) Snapchat, $ 16B</item>
+                <item>(=) WeWork, $ 12B</item>
+                <item>(=) Didi Kuaidi, $ 15B</item>
+                <item>(=) Flipkart, $ 15B</item>
+                <item>(=) SpaceX, $ 12B</item>
               </list>
             </paragraph>
           </chapter>
@@ -56,7 +56,7 @@
               and in investment communities world-wide. Space ventures now appeal
               to investors because they say that large valuations and exits are
               demonstrating the potential for high returns.</paragraph>
-              <paragraph>March 30th 2016: SpaceX launched an inflatable space
+              <paragraph>March 30th, 2016: SpaceX launched an inflatable space
                 habitat. SpaceX is a startup that designs and launches advanced
                 rockets, spacecrafts and satellites. The new inflatable module,
                 when deflated, is more compact and potentially much lighter than
@@ -188,7 +188,7 @@
                               </graph>
                               <graph unit="%" x="string" y="number">
                                 <title>E-commerce sales growth by country</title>
-                                <dataset label= "E-commerce sales growth in 2015">
+                                <dataset label= "2015">
                                   <data x="Canada" y="20" />
                                   <data x="USA" y="10" />
                                   <data x="Mexico" y="20" />
@@ -219,8 +219,8 @@
                                   could in turn quicken the failure rate among smaller, ill-prepared startups.</paragraph>
                                 </chapter>
                                 <graph unit="B$" x="string" y="number">
-                                  <title>India investment activity of VC-backed companies in 2015</title>
-                                  <dataset label= "India's VC investments">
+                                  <title>India VC-backed companies</title>
+                                  <dataset label= "Investments">
                                     <data x="Q1_2015" y="0.8"/>
                                     <data x="Q2_2015" y="2.5"/>
                                     <data x="Q3_2015" y="2.9"/>
@@ -228,7 +228,7 @@
                                   </dataset>
                                 </graph>
                                 <graph x="string" y="number">
-                                  <dataset label= "India's VC deals">
+                                  <dataset label= "Deals">
                                     <data x="Q1_2015" y="105"/>
                                     <data x="Q2_2015" y="127"/>
                                     <data x="Q3_2015" y="138"/>
@@ -295,7 +295,7 @@
                                       </dataset>
                                     </graph>
                                     <graph unit="B$" x="date" y="number">
-                                      <title>Flipkart timeline of valuation</title>
+                                      <title>Flipkart timeline</title>
                                       <dataset label= "valuation">
                                         <data x="2012" y="1"/>
                                         <data x="2013" y="1.5"/>
