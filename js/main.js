@@ -313,6 +313,7 @@ function dateToNumberGraph($element, $parent,$legends, xData, yData,unit){
       settings.data.columns=yData;
       settings.data.type='bar';
       settings.axis.y.tick.count=4;
+      settings.axis.y.label.text= 'value in '+unit;
       //settings.axis.x.type= 'category';
       if(xData.length*xData[0].length>8){
         settings.axis.rotated= true;
@@ -332,7 +333,7 @@ function dateToNumberGraph($element, $parent,$legends, xData, yData,unit){
         if(label.length>0)
           $legends.append("<div class='graph-legend'> <svg width='40' height='20' xmlns='http://www.w3.org/2000/svg' version='1.1'><rect fill='"+patterns[i]+"' stroke='black' x='0' y='0' width='40' height='20'/></svg>"+label+"</div>");
 
-
+        settings.axis.y.label.text= 'value in '+unit;
         settings.bindto='#graph'+graph_number;
 
         settings.data.columns=[xData[i],yData[i]];
@@ -362,6 +363,7 @@ function locationToNumberGraph($element, $parent,$legends, xData, yData,unit){
 
       yData.unshift(xData[0]);
       var settings=getDefaultGraphSettings();
+      settings.axis.y.label.text= 'value in '+unit;
       settings.bindto='#graph'+graph_number;
       settings.data.columns=yData;
       settings.axis.x.type= 'category';
@@ -375,6 +377,7 @@ function locationToNumberGraph($element, $parent,$legends, xData, yData,unit){
         graph_number++;
         $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
         var settings=getDefaultGraphSettings();
+        settings.axis.y.label.text= 'value in '+unit;
         settings.bindto='#graph'+graph_number;
         settings.data.columns=[xData[i],yData[i]];
         settings.data.type='bar';
@@ -443,6 +446,7 @@ function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
         settings.data.type='bar';
         settings.axis.x.type= 'category';
         settings.axis.y.tick.format=getFormatFunction(unit);
+        settings.axis.y.label.text= 'value in '+unit;
         settings.axis.y.tick.count=4;
         //  settings.axis.x.tick.culling={'max':4};
 
