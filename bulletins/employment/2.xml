@@ -1,6 +1,6 @@
   <bulletin id="issue 2" date="20160312">
     <sections>
-      <section>
+      <section><!--1-->
         <title>US Unemployment Rate</title>
         <graph unit="%" x="date" y="number">
           <dataset label="">
@@ -27,7 +27,7 @@
             <source>tradingeconomics.com</source>
           </sources>
       </section>
-      <section>
+      <section><!--2-->
         <title>The Rise of the Freelance Economy</title>
           <abstract>
             53.7 million Americans count themselves among the independent workforce – contractors, part-timers, solo business owners, full-time employees with a side gig and so on. That number is projected to grow over 4% per year through 2020, to reach about 66 million Americans.
@@ -64,7 +64,7 @@
           <source>The Financial Times</source>
         </sources>
       </section>
-      <section>
+      <section> <!--3-->
         <title>Alumni Networks</title>
           <abstract>
             Corporate alumni networks are growing in importance as employees spend less and less time at a single company.
@@ -90,7 +90,7 @@
           <source>The Financial Times</source>
         </sources>
       </section>
-      <section>
+      <section> <!--4-->
         <title>Percent of Indipendent Workforce</title>
         <graph unit="%" x="string" y="percentage">
           <title>Segments</title>
@@ -139,7 +139,7 @@
           <source>The Financial Times</source>
         </sources>
       </section>
-      <section>
+      <section> <!--5-->
         <title>Share of Worker Compensation</title>
         <chapter>
           <paragraph>W-2s and 1099s are two separate tax forms for two different types of workers: if you’re an independent contractor, you get a 1099 form, if you’re an employee, you receive a W-2. By classifying workers as 1099s rather than W2s, employers are able to cut their expenses and reduce payroll costs as much as 32%.</paragraph>
@@ -201,7 +201,7 @@
           <source>The Financial Times</source>
         </sources>
       </section>
-      <section>
+      <section> <!--6-->
         <title>Freelance Journalism</title>
         <chapter>
           <paragraph>The shuttering of foreign bureaus has given freelancers a bigger role in covering international news, but at the same time they are largely left on their own. </paragraph>
@@ -237,7 +237,7 @@
           <source>The Financial Times</source>
         </sources>
       </section>
-      <section>
+      <section> <!--7-->
         <title>Economic Impact Of US Freelancers</title>
           <abstract>
             The economic impact of the 53.7 million Americans who are freelancing is significant:collectively, they contribute more than $715 billion in freelance earnings to the national economy.
@@ -279,7 +279,7 @@
           <source>The Financial Times</source>
         </sources>
       </section>
-      <section>
+      <section> <!--8-->
         <title>3 Best Practices for Freelancing</title>
         <graph unit="%" x="string" y="percentage">
           <title>1. Know Your Community</title>
@@ -324,7 +324,7 @@
         <source>The Financial Times</source>
       </sources>
     </section>
-    <section>
+    <section> <!--9-->
       <title>Around the World</title>
       <chapter>
         <title>History of Coworking Spaces</title>
@@ -458,7 +458,7 @@
         <source>The Financial Times</source>
       </sources>
     </section>
-    <section>
+    <section> <!--10-->
       <title>The Rising Interest for Coworking Spaces</title>
       <graph unit="%" x="date" y="number">
         <title>Google Searches of the Term Coworking in the Last 10 Yerars</title>
@@ -501,7 +501,7 @@
         <source>The Financial Times</source>
       </sources>
     </section>
-    <section>
+    <section> <!--11-->
       <title>Coworking Spaces Comparison</title>
       <abstrct>
         WeWork and Regus are the most famous examples of companies which provide shared workspace, community and services for entrepreneurs, freelancers, startups and small businesses.
