@@ -1,6 +1,6 @@
 <bulletin id="issue 3" date="20160319">
   <sections>
-    <section>
+    <section> <!--1-->
       <title>UK Unemployment Rate</title>
       <graph unit="%" x="date" y="number">
         <dataset label="">
@@ -27,7 +27,7 @@
         <source>tradingeconomics.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--2-->
       <title>Welcome to the Sharing Economy</title>
       <chapter>
         <paragraph>It’s hard to find more exuberant sharing-economy enthusiasts than investors. Venture capitalists have invested heavily in sharing-economy companies: in 2015 they were evalueted $ 15 billion worldwide and this number is supposed to get more than 20 times bigger in the next decade.</paragraph>
@@ -93,7 +93,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--3-->
       <title>They Call it Uberization</title>
       <graph unit="%" x="string" y="percentage">
         <title>Age of UK Crowd Workers</title>
@@ -171,7 +171,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--4-->
         <title>Dogvacacy</title>
         <abstract>
           It connects petowners withover 20,000 petsitters.
@@ -196,7 +196,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--5-->
         <title>Property Partner</title>
         <abstract>
           It reinvents the proprety market. It's a property crowdfunding platform launched just a year ago with more than 7,000 customers who have collectively invested around £30 million across 184 properties.
@@ -223,7 +223,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--6-->
         <title>Take a Ride in Bangkok</title>
         <abstract>
           Uber has just launch UberMOTO in Thailand, where 87% of households own a motorcycle or a scooter.
@@ -250,7 +250,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--7-->
       <title>Uberization in the US..</title>
       <graph unit="$" x="string" y="number">
         <title>Average Incomes per Month</title>
@@ -365,7 +365,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--8-->
       <title>"Share-the-Scraps Economy": the Dark Side of Collaborative Consumption</title>
       <abstract>
         This is the economy we’re now barreling toward. They’re Uber drivers, Instacart shoppers, and Airbnb hosts. They include Taskrabbit jobbers, Upcounsel’s on-demand attorneys, and Healthtap’s on-line doctors. The euphemism is the “share” economy. A more accurate term would be the “share-the-scraps” economy. New software technologies are allowing almost any job to be divided up into discrete tasks that can be parceled out to workers when they’re needed, with pay determined by demand for that particular job at that particular moment. Customers and workers are matched online. Workers are rated on quality and reliability.
@@ -413,7 +413,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--9-->
       <title>"Share-the-Scraps Economy": Airbnb</title>
       <graph unit="%" x="string" y="percentage">
         <title>1. Hosts operating an unregulated full-time business account for 30% of the total revenue on Airbnb</title>
@@ -464,7 +464,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--10-->
       <title>"Share-the-Scraps Economy": Uber</title>
       <quote>
         <author>Robert Reich, one of the nation’s leading experts on work and the economy</author>
