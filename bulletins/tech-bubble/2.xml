@@ -16,16 +16,16 @@
           <chapter>
             <paragraph>
               <list type="ordered">
-                <item>=_Uber_$ 51B</item>
-                <item>=_Xiaomi_$ 46B</item>
-                <item>=_Airbnb_$ 25.5B</item>
-                <item>=_Palantir_$ 20B</item>
-                <item>=_Snapchat_$ 16B</item>
-                <item>=_Didi Kuaidi_$ 15B</item>
-                <item>=_Dianping_$ 15B</item>
-                <item>=_Flipkart_$ 15B</item>
-                <item>=_SpaceX_$ 12B</item>
-                <item>=_Pinterest_$ 12B</item>
+                <item>(=) Uber, $ 51B</item>
+                <item>(=) Xiaomi, $ 46B</item>
+                <item>(=) Airbnb, $ 25.5B</item>
+                <item>(=) Palantir, $ 20B</item>
+                <item>(=) Snapchat, $ 16B</item>
+                <item>(=) Didi Kuaidi, $ 15B</item>
+                <item>(=) Dianping, $ 15B</item>
+                <item>(=) Flipkart, $ 15B</item>
+                <item>(=) SpaceX, $ 12B</item>
+                <item>(=) Pinterest, $ 12B</item>
               </list>
             </paragraph>
           </chapter>
@@ -113,31 +113,39 @@
                 </quote>
                 <table>
                   <row type="head">
-                    <cell>name</cell>
-                    <cell>total equity funding</cell>
-                    <cell>headquarters</cell>
-                    <cell>founders</cell>
-                    <cell>categories</cell>
-                    <cell>foundation</cell>
-                    <cell>employments</cell>
-                  </row>
-                  <row type="cell">
+                    <cell>features</cell>
                     <cell>Uber</cell>
-                    <cell>8.81 B$</cell>
-                    <cell>San Francisco</cell>
-                    <cell>G. Camp, T. Kalanick</cell>
-                    <cell>transportation</cell>
-                    <cell>20090301</cell>
-                    <cell>1k/5k</cell>
+                    <cell>Didi Kuaidi</cell>
                   </row>
                   <row type="cell">
-                    <cell>Didi Kuaidi</cell>
-                    <cell>4.42 B$</cell>
+                    <cell>total equity funding</cell>
+                    <cell>$ 8.81B</cell>
+                    <cell>$ 4.42B</cell>
+                  </row>
+                  <row type="cell">
+                    <cell>headquarters</cell>
+                    <cell>San Francisco</cell>
                     <cell>Beijing</cell>
+                  </row>
+                  <row type="cell">
+                    <cell>founders</cell>
+                    <cell>G. Camp, T. Kalanick</cell>
                     <cell>Cheng Wei</cell>
+                  </row>
+                  <row type="cell">
+                    <cell>categories</cell>
                     <cell>transportation</cell>
-                    <cell>20120901</cell>
-                    <cell>1k/5k</cell>
+                    <cell>transportation</cell>
+                  </row>
+                  <row type="cell">
+                    <cell>foundation</cell>
+                    <cell>March 2009</cell>
+                    <cell>September 2012</cell>
+                  </row>
+                  <row type="cell">
+                    <cell>employments</cell>
+                    <cell>1K-5K</cell>
+                    <cell>1K-5K</cell>
                   </row>
                 </table>
                 <keywords>
@@ -161,7 +169,7 @@
               </section>
               <section>
                 <title>Tech in Asia</title>
-                <subtitle>Concentration of tech startups and unicorns of asiatic cities</subtitle>
+                <subtitle>Concentration of unicorns in Asiatic cities</subtitle>
                 <table>
                   <row type="head">
                     <cell>city</cell>
@@ -227,6 +235,7 @@
               </section>
               <section>
                 <title>China investors-backed tech financing</title>
+                <subtitle>Tech in Asia</subtitle>
                 <chapter>
                   <paragraph>China’s rich and wealthy are pouring money into start-up
                     tech ventures in the absence of many other profitable investiment opportunities.
@@ -270,6 +279,7 @@
                 </section>
                 <section>
                   <title>Japan's lonely child</title>
+                  <subtitle>Tech in Asia</subtitle>
                   <chapter>
                     <paragraph>In March 4th 2016, Mercari, a peer-to-peer marketplace app,
                       has claimed the title of Japan’s first pre-IPO startup
@@ -297,6 +307,7 @@
                   </section>
                   <section>
                     <title>South Korea: Line Corp</title>
+                    <subtitle>Tech in Asia</subtitle>
                     <chapter>
                       <paragraph>Messagging app operator Line Corp, owned by South Korea’s
                         largest web portal operator, plans $ 3 billion initial public
@@ -320,6 +331,7 @@
                     </section>
                     <section>
                       <title>Indonesia and its two unicorns</title>
+                      <subtitle>Tech in Asia</subtitle>
                       <chapter>
                         <paragraph>The country plans to create startup IPO Market to Draw investors.
                           It may see 2 unicorns within the year. Tokopedia is Indonesia’s top
@@ -346,6 +358,7 @@
                       </section>
                       <section>
                         <title>Singapore's investments</title>
+                        <subtitle>Tech in Asia</subtitle>
                         <chapter>
                           <paragraph>Singapore-based United Overseas Bank’s will invest
                             $ 10 million in an Israel based equity crowdfunding platform OurCrowd.</paragraph>
@@ -368,6 +381,7 @@
                         </section>
                         <section>
                           <title>Indian Uber's competitor</title>
+                          <subtitle>Tech in Asia</subtitle>
                           <chapter>
                             <paragraph>Uber’s main competitor in India, ANI Tecnologies Pvt. Ltd’s Ola
                               launched a similar service in Bangalore Thursday with 2 rupees per km,
@@ -393,6 +407,7 @@
                           </section>
                           <section>
                             <title>Uber in Pakistan</title>
+                            <subtitle>Tech in Asia</subtitle>
                             <chapter>
                               <paragraph>$ 250 million is the investment of Uber Technologies Inc.
                                 to launch its ride-hailing app in Pakistan and to expand
