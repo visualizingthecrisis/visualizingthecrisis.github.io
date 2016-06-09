@@ -1,6 +1,6 @@
 <bulletin id="issue 8" date="20160430">
   <sections>
-    <section>
+    <section> <!--1-->
       <title>Global Youth Unemployment</title>
       <graph unit="%" x="date" y="number">
         <dataset label="">
@@ -35,7 +35,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--2-->
       <title>Born To Be Broke</title>
       <abstract>
         Being young was never easy… Especially when it comes to find a job.
@@ -411,7 +411,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--3-->
       <title>US Labor Force by Generation</title>
       <graph unit="m" x="date" y="number">
         <dataset label="Millennials: born 1981 to 2000">
@@ -469,7 +469,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--4-->
       <title>Job Hopping</title>
       <graph unit="" x="string" y="number">
         <abstract>
@@ -509,7 +509,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--5-->
       <title>Worse Off Than Parents</title>
       <abstract>
         The vast majority of American workers expect to have less money at the end of their careers than their parents did ‒ and that fear is highest among 20-something Millennials. Some pundits have had the same fears, declaring that the generation may even be the first to wind up worse than their parents, with lower incomes, more debt and higher poverty rates.
@@ -545,7 +545,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--6-->
       <title>Who are Millennials?</title>
       <abstract>
         Millennials are currently aged 20-35, or born between 1980 and the end of 1994 (with some more generous definitions taking in those born up to 2000). They are the first generation of adults (or almost adults) that has familiarity with technology, thanks to a deep knowledge of internet world and digital communication's codes.
@@ -571,7 +571,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--7-->
       <title>Your Tech Allies</title>
       <abstract>
         The Millennial Generation has a different relationship with money. We’ve lost the ability to open up our wallets and see how much money we have left. The financial environment has changed. The tools that we use to manage money personally have changed. Here is some useful apps and resources that can help you orientate in this financial jungle!
@@ -611,7 +611,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--8-->
       <title>The Struggle is Real</title>
       <abstract>
         In “The Role of Time Preferences and Exponential-Growth Bias in Retirement Savings” researchers explored two psychological tendencies that may lead people to save insufficiently for retirement. To estimate the prevalence of these two biases, the authors use data from two online surveys, the RAND American Life Panel and the Understanding America Study. These were the results.
@@ -713,7 +713,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--9-->
       <title>Access, Not Ownership</title>
       <abstract>
         It’s not just homes: Millennials have been reluctant to buy items such as cars, music and luxury goods. Instead, they’re turning to a new set of services that provide access to products without the burdens of ownership, giving rise to the so-called sharing economy.
@@ -783,7 +783,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--10-->
       <quote>
         <author>Jeremy Rifkin, author and economist</author>
         <text>25 years from now, car sharing will be the norm, and car ownership an anomaly.</text>
@@ -808,7 +808,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--11-->
       <title>Young Spenders: the YOLO Lifestyle</title>
       <abstract>
         Millennials are prioritizing short-term spending over long-term saving. In US younger consumers punched above their weight class in the final months of 2015 fueling a 2.35% increase in year-over-year spending in December, according to data released by the J.P. Morgan Chase and Co. Institute.
@@ -926,7 +926,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--12-->
       <title>Rent Is Too Damn High</title>
       <abstract>
         The cost of living is climbing, led by rental costs, which hit records in many American cities last year. On average, millennials who rent nationwide would have had to spend 30% of their monthly income to their landlords, according to a Zillow survey, with figures going as high as 47% in San Francisco, 45% in Miami and 41% in New York.
@@ -982,7 +982,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--13-->
       <quote>
         <author>A reasonably-paid Millennial</author>
         <text>It’s almost impossible to save for a house in London so I might as well just spend my money travelling the world.</text>
@@ -1009,7 +1009,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--14-->
       <title>Holidays are Better than Pensions</title>
         <abstract>
           A survey from Eventbrite found that 78% of Millennials would prefer to spend their money on an “experience” - such as a holiday - over something tangible that they could own.
@@ -1042,7 +1042,7 @@
         <source>Report: "Global Employment Trends for Youth 2015", International Labour Organization</source>
       </sources>
     </section>
-    <section>
+    <section> <!--15-->
       <title>Owning a Dream Home Is Just a Dream</title>
       <chapter>
         <paragraph>In many countries, unlike their parents did at this age, more than a quarter of Millennials live at home with mum and dad.</paragraph>
