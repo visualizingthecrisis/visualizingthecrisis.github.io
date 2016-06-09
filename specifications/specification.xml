@@ -18,6 +18,7 @@
         </abstract>
         <quote>                                                       <!--[0-N]-->
           <author>QUOTE_AUTHOR</author>                               <!--[ 1 ]-->
+          <role>QUOTE_ROLE</role>                                     <!--[ 1 ]-->
           <text>QUOTE_TEXT</text>                                     <!--[ 1 ]-->
         </quote>
         <chapter>                                                     <!--[0-N]-->
