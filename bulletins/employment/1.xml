@@ -9,7 +9,7 @@
   </authors>
   <bulletin id="issue 01" date="20160305">
     <sections>
-    <section> <!--1-->
+    <section>                                                           <!--1-->
       <title>Italy Unemployment Rate</title>
       <graph unit="%" x="date" y="number">
         <dataset label="">
@@ -36,7 +36,7 @@
         <source>tradingeconomics.com</source>
       </sources>
     </section>
-    <section> <!--2-->
+    <section>                                                                        <!--2-->
       <title>Changing Work Habit</title>
       <chapter>
         <title>Digital Revolution</title>
@@ -75,7 +75,7 @@
         <source>weforum.org</source>
       </sources>
     </section>
-    <section> <!--3-->
+    <section>                                                                     <!--3-->
       <title>The Digital Economy and Society Index (DESI) 2016</title>
       <chapter>
         <paragraph>The DESI is a composite index that summarises relevant indicators on Europe’s digital performance and tracks the evolution of EU member states in digital competitiveness.</paragraph>
@@ -115,7 +115,7 @@
         <source>weforum.org</source>
       </sources>
     </section>
-    <section> <!--4-->
+    <section>                                                               <!--4-->
       <title>Italian Jobs Are Getting Smarter</title>
       <chapter>
         <paragraph>Even if Italy is one of the last countries in the DESI 2016 ranking (DESI: "Digital Economy and Society Index" - it summarises relevant indicators on Europe’s digital performance), the use of file sharing and instant messaging tools is gradually spreading between italian workers.</paragraph>
@@ -178,10 +178,10 @@
         <source>weforum.org</source>
       </sources>
     </section>
-    <section> <!--5-->
-      <title>Smartworking in Italy</title>
+    <section>                                                              <!--5-->
+      <title>Interest in Smartworking, Italy</title>
       <chapter>
-        <title>Interest of Big Companies</title>
+        <title>Big Corporations</title>
         <paragraph>
       <list type="unordered">
           <item>A. don't know</item>
@@ -202,7 +202,7 @@
         </dataset>
       </graph>
       <chapter>
-        <title>Interest of Small and Medium Enterprises</title>
+        <title>Small and Medium Enterprises</title>
         <paragraph>
       <list type="unordered">
           <item>F. don't know</item>
@@ -259,11 +259,11 @@
         <source>weforum.org</source>
       </sources>
     </section>
-    <section> <!--6-->
+    <section>                                          <!--6-->
       <title>Security</title>
       <chapter>
         <paragraph>Italy is the third most-at-risk country in Europe in terms of security measures for mobile devices.</paragraph>
-        <paragraph>A study conducted on 11.500 professionals from 23 countries reveals that:</paragraph>
+        <paragraph>A study conducted on 11,500 professionals from 23 countries reveals that:</paragraph>
         <paragraph>
       <list type="unordered">
           <item>A. They’re autonomous in solving problems</item>
