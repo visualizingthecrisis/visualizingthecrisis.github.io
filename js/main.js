@@ -1,62 +1,3 @@
-//https://github.com/iros/patternfills
-
-/*&TODO
-1 Number optimisation
-2 Pie numbers
-3
-%*/
-
-// Change D3's SI prefix to more business friendly units
-//      K = thousands
-//      M = millions
-//      B = billions
-//      T = trillion
-//      P = quadrillion
-//      E = quintillion
-// small decimals are handled with e-n formatting.
-/*
-y - yocto, 10⁻²⁴
-z - zepto, 10⁻²¹
-a - atto, 10⁻¹⁸
-f - femto, 10⁻¹⁵
-p - pico, 10⁻¹²
-n - nano, 10⁻⁹
-µ - micro, 10⁻⁶
-*/
-var d3_formatPrefixes = ["y","z","a","f","p","n","µ","m","","K","M","B","T","P","E","Z","Y"].map(d3_formatPrefix);
-
-// Override d3's formatPrefix function
-d3.formatPrefix = function(value, precision) {
-    var i = 0;
-    if (value) {
-        if (value < 0) {
-            value *= -1;
-        }
-        if (precision) {
-            value = d3.round(value, d3_format_precision(value, precision));
-        }
-        i = 1 + Math.floor(1e-12 + Math.log(value) / Math.LN10);
-        i = Math.max(-24, Math.min(24, Math.floor((i - 1) / 3) * 3));
-    }
-    return d3_formatPrefixes[8 + i / 3];
-};
-
-function d3_formatPrefix(d, i) {
-    var k = Math.pow(10, Math.abs(8 - i) * 3);
-    return {
-        scale: i > 8 ? function(d) { return d / k; } : function(d) { return d * k; },
-        symbol: d
-    };
-}
-
-function d3_format_precision(x, p) {
-    return p - (x ? Math.ceil(Math.log(x) / Math.LN10) : 1);
-}
-
-
-
-
-
 var barHeight=30;
 var patterns= ['url(#crosshatch1) #fff', 'url(#crosshatch2) #fff','url(#crosshatch3) #fff','url(#crosshatch4) #fff','url(#crosshatch5) #fff','url(#dots-4) #fff','url(#circles-2) #fff','url(#circles-3) #fff','url(#circles-4) #fff','url(#circles-5) #fff'];
 var graph_number=0;
@@ -83,8 +24,6 @@ function processXML(d,filters){
           count++;
       }
       $sec.attr('order',count);
-    //  console.log("+++"+count);
-    //  console.log($sec.parent().html());
     }
   }
   $("#bulletin-container").append("<div class='main-title'>Visualizing</br>the Crisis</div><div class='main-report'>REPORT N.23</div><div class='main-subtitle'>TRACKING THE UNFOLDING<br/>GLOBAL FINANCIAL CRISIS</div>"+
@@ -99,15 +38,13 @@ function processXML(d,filters){
             bVal = parseInt(b.getAttribute('order'));
         return bVal - aVal;
     });
-}
+  }
 
   for (var s = 0; s < sections.length; ++s) {
     var count=0;
     if(filters){
       var $sec=$(sections[s]);
-    //  console.log("----");
-
-      console.log($sec.attr('order'));
+    //  console.log($sec.attr('order'));
       if(parseInt($sec.attr('order'))<1)continue;
     }
     var $section= $(sections[s]);
@@ -123,14 +60,14 @@ function processXML(d,filters){
       if($element.is('title'))$section_div.append("<span class='section-title'>"+$section.find('title').first().text()+"</span>");
       if($element.is('subtitle'))$section_div.append("<span class='section-subtitle'>"+$section.find('subtitle').first().text()+"</span>");
       if($element.is('quote')){
-        $section_div.append("<div class='section-quote'><span class='quote-text'>"+$section.find('text').first().text()+"</span>"+"<span class='quote-author'> - "+$section.find('author').first().text()+"</span></div>");
+        $section_div.append("<div class='section-quote'><span class='quote-text'>"+$element.find('text').first().text()+"</span>"+"<span class='quote-author'>  "+$element.find('author').first().text()+"</span></div>");
       }
       if($element.is('abstract'))$section_div.append("<span class='section-abstract'>"+$element.text()+"</span>");
 
       if($element.is('graph'))graphToHTML($element,$section_div);
       if($element.is('chapter'))chapterToHTML($element,$section_div);
       if($element.is('table'))tableToHTML($element,$section_div);
-      //  if($element.is('keywords'))keywordsToHTML($element,$section_div);
+      if($element.is('keywords'))keywordsToHTML($element,$section_div,filters);
       //  if($element.is('sources'))sourcesToHTML($element,$section_div);
     }
   }
@@ -195,14 +132,19 @@ function chapterToHTML($element, $parent){
   $parent.append(html);
 }
 
-function keywordsToHTML($element, $parent){
+function keywordsToHTML($element, $parent,filters){
   var keywords=$element.find('keyword');
   var html="<div class='section-keywords'>";
+  var count=0;
   for (var i = 0; i < keywords.length; ++i) {
-    html+="#"+$(keywords[i]).attr('name')+" ";
+    if(!filters || filters.indexOf(keywords[i])){
+      count++;
+      html+="#"+$(keywords[i]).attr('name')+" ";
+    }
   }
   html+="</div>";
-  $parent.append(html);
+  if(count>0)
+    $parent.append(html);
 }
 
 function sourcesToHTML($element, $parent){
@@ -214,9 +156,7 @@ function sourcesToHTML($element, $parent){
   html+="</div>";
   $parent.append(html);
 }
-function replaceAll(str, search, replacement) {
-  return str.split(search).join(replacement);
-}
+
 function graphToHTML($element, $parent){
   var titles=$element.find('title');
   if(titles.length>0)$parent.append("<span class='section-graph-title'>"+$element.find('title').first().text()+"</span>");
@@ -236,7 +176,6 @@ function graphToHTML($element, $parent){
       $data=$(datas[j]);
       arrayX.push($data.attr('x'));
       arrayY.push(parseFloat(replaceAll($data.attr('y'),",", "")));
-    //  console.log($data.attr('y')+" -> "+replaceAll($data.attr('y'),",", "")+" -> "+arrayY[arrayY.length-1]);
     }
     xData.push(arrayX);
     yData.push(arrayY);
@@ -248,12 +187,6 @@ function graphToHTML($element, $parent){
     }
     else{
       stringToNumberGraph($element, $parent, $legends, xData, yData,unit);
-
-      /*      if($element.attr('x')=='continent' || $element.attr('x')=='subcontinent' || $element.attr('x')=='country')
-      locationToNumberGraph($element, $parent, xData, yData);
-      else
-      stringToNumberGraph($element, $parent, xData, yData);
-      */
     }
   }
   else if ($element.attr('y')=='percentage') {
@@ -265,8 +198,6 @@ function graphToHTML($element, $parent){
   else if ($element.attr('y')=='string') {
     stringToStringGraph($element, $parent,$legends, xData, yData,unit);
   }
-//  legends+="</div>";
-  //$('#graph'+graph_number)
   $('#graph'+graph_number).append($legends);
 }
 
@@ -279,22 +210,6 @@ function dateToNumberGraph($element, $parent,$legends, xData, yData,unit){
     settings.data.xFormat=dateFormat[0];
     settings.axis.x.tick.format= dateFormat[1];
     settings.axis.x.type= 'timeseries';
-
-    //settings.axis.x.tick.width=100;
-
-    //settings.axis.y.tick.width=100;
-    //settings.axis.x.tick.width=180;
-    //settings.axis.x.tick.count=3;
-    //settings.padding.bottom=50;
-    //settings.size.height=xData[0].length*100;
-
-    //settings.axis.y.tick.rotate=90;
-    //settings.axis.rotated= true;
-    ////70+xData.length*xData[0].length*30;
-
-    //settings.padding.bottom=50;
-    //  settings.axis.y.tick.rotate=90;
-    //  settings.axis.rotated= true;
     if(xData.length>1 && equal){
       graph_number++;
       $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
@@ -303,12 +218,7 @@ function dateToNumberGraph($element, $parent,$legends, xData, yData,unit){
         if(label.length>0)
           $legends.append("<div class='graph-legend'> <svg width='40' height='20' xmlns='http://www.w3.org/2000/svg' version='1.1'><rect fill='"+patterns[d]+"' stroke='black' x='0' y='0' width='40' height='20'/></svg>"+label+"</div>");
       }
-
-
       settings.bindto='#graph'+graph_number;
-      /*for(var l=0;l<xData.length;l++){
-        $legends.append();
-      }*/
       yData.unshift(xData[0]);
       settings.data.columns=yData;
       settings.data.type='bar';
@@ -317,25 +227,24 @@ function dateToNumberGraph($element, $parent,$legends, xData, yData,unit){
       //settings.axis.x.type= 'category';
       if(xData.length*xData[0].length>8){
         settings.axis.rotated= true;
-        settings.axis.x.tick.width=200;
+        settings.axis.x.tick.width=240;
         settings.size.height=xData.length*xData[0].length*barHeight;
       }else{
         settings.axis.x.tick.culling={'max':4};
       }
       var chart = c3.generate(settings);
-
     }
     else{
       for(var i=0;i<xData.length;i++){
         graph_number++;
+        var label=yData[i][0];
+        if(label.length>0){
+          $parent.append("<span class='section-graph-subtitle'>"+label+"</span>");
+        }
         $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
         var label=yData[i][0];
-        if(label.length>0)
-          $legends.append("<div class='graph-legend'> <svg width='40' height='20' xmlns='http://www.w3.org/2000/svg' version='1.1'><rect fill='"+patterns[i]+"' stroke='black' x='0' y='0' width='40' height='20'/></svg>"+label+"</div>");
-
-          if(unit && unit.length>0)settings.axis.y.label.text= 'value in '+unit;
+        if(unit && unit.length>0)settings.axis.y.label.text= 'value in '+unit;
           settings.bindto='#graph'+graph_number;
-
         settings.data.columns=[xData[i],yData[i]];
         settings.data.type='line';
         settings.axis.x.tick.count=4;
@@ -346,11 +255,9 @@ function dateToNumberGraph($element, $parent,$legends, xData, yData,unit){
   }
 }
 
-
-
-function locationToNumberGraph($element, $parent,$legends, xData, yData,unit){
+function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
   if(xData.length>0 && xData.length>0){
-    var dateFormat=getDateFormat(xData[0][1]);
+    var settings=getDefaultGraphSettings();
     var equal=xArrayCheck(xData);
     if(xData.length>1 && equal){
       graph_number++;
@@ -360,56 +267,7 @@ function locationToNumberGraph($element, $parent,$legends, xData, yData,unit){
         if(label.length>0)
           $legends.append("<div class='graph-legend'> <svg width='40' height='20' xmlns='http://www.w3.org/2000/svg' version='1.1'><rect fill='"+patterns[d]+"' stroke='black' x='0' y='0' width='40' height='20'/></svg>"+label+"</div>");
       }
-
-      yData.unshift(xData[0]);
-      var settings=getDefaultGraphSettings();
-      if(unit && unit.length>0)settings.axis.y.label.text= 'value in '+unit;
       settings.bindto='#graph'+graph_number;
-      settings.data.columns=yData;
-      settings.axis.x.type= 'category';
-      settings.data.type='bar';
-      //settings.axis.rotated= true;
-
-      var chart = c3.generate(settings);
-    }
-    else{
-      for(var i=0;i<xData.length;i++){
-        graph_number++;
-        $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
-        var settings=getDefaultGraphSettings();
-        if(unit && unit.length>0)settings.axis.y.label.text= 'value in '+unit;
-        settings.bindto='#graph'+graph_number;
-        settings.data.columns=[xData[i],yData[i]];
-        settings.data.type='bar';
-        settings.axis.x.type= 'category';
-        var chart = c3.generate(settings);
-      }
-    }
-  }
-}
-function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
-  var settings=getDefaultGraphSettings();
-  if(xData.length>0 && xData.length>0){
-    var equal=xArrayCheck(xData);
-    if(xData.length>1 && equal){
-      graph_number++;
-      $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
-      /*yData.unshift(xData[0]);
-      settings.bindto='#graph'+graph_number;
-      settings.data.columns=yData;
-      settings.axis.x.type= 'category';
-      settings.data.type='bar';
-      //  settings.axis.rotated= true;
-      settings.size.height=yData.length*barHeight;
-      settings.data.width=150;
-      settings.axis.y.tick.rotate=90;
-      settings.axis.x.tick.rotate=90;
-      settings.axis.y.tick.count=5;
-      var chart = c3.generate(settings);
-      */
-
-      settings.bindto='#graph'+graph_number;
-
       yData.unshift(xData[0]);
       settings.data.columns=yData;
       settings.data.type='bar';
@@ -417,30 +275,25 @@ function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
       if(unit && unit.length>0)settings.axis.y.label.text= 'value in '+unit;
       settings.axis.y.tick.format=getFormatFunction(unit);
       settings.axis.y.tick.count=4;
-      //  settings.axis.x.tick.width=200;
-
       settings.axis.x.tick.width=200;
       settings.size.height=xData.length*xData[0].length*barHeight;
 
-      if(xData.length*xData[0].length>8){
+      if(xData.length*xData[0].length>8)
         settings.axis.rotated= true;
-
-      }else{
+      else
         settings.axis.x.tick.culling={'max':4};
-      }
+
       var chart = c3.generate(settings);
     }
     else{
       for(var i=0;i<xData.length;i++){
-        graph_number++;
-        $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
-
-        var label=yData[i][0];
-        if(label.length>0)
-          $legends.append("<div class='graph-legend'> <svg width='40' height='20' xmlns='http://www.w3.org/2000/svg' version='1.1'><rect fill='"+patterns[i]+"' stroke='black' x='0' y='0' width='40' height='20'/></svg>"+label+"</div>");
-
-
         var settings=getDefaultGraphSettings();
+        graph_number++;
+        var label=yData[i][0];
+        if(label.length>0){
+          $parent.append("<span class='section-graph-subtitle'>"+label+"</span>");
+        }
+        $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
         settings.bindto='#graph'+graph_number;
         settings.data.columns=[xData[i],yData[i]];
         settings.data.type='bar';
@@ -449,20 +302,14 @@ function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
         if(unit && unit.length>0)settings.axis.y.label.text= 'value in '+unit;
         settings.axis.y.tick.count=4;
         //  settings.axis.x.tick.culling={'max':4};
-
-        //  settings.axis.y.tick.rotate=90;
-        //settings.axis.x.tick.rotate=90;
         settings.axis.x.tick.width=200;
         settings.size.height=xData[i].length*50;
-
         settings.axis.rotated= true;
         var chart = c3.generate(settings);
       }
     }
   }
 }
-
-
 
 function stringToPercentageGraph($element, $parent,$legends, xData, yData,unit){
   for(var i=0;i<xData.length;i++){
@@ -483,163 +330,12 @@ function stringToPercentageGraph($element, $parent,$legends, xData, yData,unit){
       itemMargin: 2
     });
     if (!t.isValid) {
-
       $("#graph"+graph_number).remove();//css('opacity',0.1);
-
       return stringToNumberGraph($element, $parent,$legends, xData, yData, '%');
-      //$parent.append("<div>WRONG</div>");
     }
   }
   return;
-
-  /*
-    var h=512;
-
-  for(var i=0;i<xData.length;i++){
-    graph_number++;
-    var html="<div class='section-treemap' id='graph"+graph_number+"' style='height:"+(h+20)+"px; width:512px'>"+
-    "<svg style='height:"+(h+20)+"px; width:512px ;font-size:18px;'   xmlns='http://www.w3.org/2000/svg' version='1.1'>";
-    var hh=h/100.0;
-    var top=0;
-    var others=0;
-    var count=0;
-    for(var j=1;j<xData[i].length;j++){
-      if(yData[i][j]<5)
-      others+=yData[i][j];
-      else{
-        count++;
-        var text=yData[i][j]+"% "+xData[i][j];
-        var tw=getTextWidth(text,'18pt MaisonNeue');
-        var rh=Math.round(hh*yData[i][j]);
-        html+=  "<rect fill='"+patterns[count%patterns.length]+"' stroke='black' stroke-width='4' x='4' y='"+top+"'  width='508' height='"+rh+"'/>";
-        //    html+=  "<rect fill='#ffffff'  stroke-width='0' x='10' y='"+(top+2)+"'  width='"+tw+"' height='22'/>";
-        html+=  "<foreignObject x='10' y="+(top+15)+" width='512'><span style='z-index:100;background-color:white;display:inline-block;top:0px;' font-size='12x' fill='red'>"+text+"</span></foreignObject>";
-        top+=rh;
-      }
-    }
-    if(others>0){
-      count++;
-      var text=others+"% Others";
-      var tw=getTextWidth(text,'18pt MaisonNeue')+2;
-      var rh=Math.round(hh*others);
-      html+=  "<rect fill='"+patterns[count%patterns.length]+"' stroke='black' stroke-width='4' x='4' y='"+top+"'  width='508' height='"+rh+"'/>";
-      if(others>0){
-        //  html+=  "<rect fill='#ffffff'  stroke-width='0' x='10' y='"+(top+2)+"'  width='"+tw+"' height='22'/>";
-        html+=  "<foreignObject x='10' y="+(top+15)+" width='512'><p style='z-index:100;background-color:white;display:inline-block;top:0px;' font-size='12x' fill='red'>"+text+"</p></foreignObject>";
-      }
-    }
-    html+="</svg></div>";
-  }
-  console.log(html);
-  $parent.append(html);
-  return;
-
-
-  for(var i=0;i<xData.length;i++){
-  graph_number++;
-  $parent.append("<div class='section-treemap' id='graph"+graph_number+"'></div>");
-  var sample_data = [];
-
-  for(var j=0;j<xData[i].length;j++){
-  sample_data.push({'value':yData[i][j],'name':xData[i][j]});
 }
-var color_index=0;
-var visualization = d3plus.viz()
-.container('#graph'+graph_number)
-.data(sample_data)
-.data({'stroke': {'focus':'#000000','primary':'#000000', "width": 2 }})
-.axes( {'stroke':{'color':'#000000', 'width':1}})
-.edges({'color':'#000000'})
-.height({'max':2000})
-.labels({'resize':false,'padding':15,'segments':1})
-.type("tree_map")
-.type({'mode':'dice'})//"squarify", "slice", "dice", "slice-dice"
-.coords({'fit':'height'})
-.id("name")
-.font({ "family": 'MaisonNeue','size':18 })
-.color({'focus':'#100000','primary':'#010000', 'secondary':'#001000','missing':patterns[0],'value':patterns[i] })
-.color(function(d){
-console.log(d);
-color_index=(color_index+1)%patterns.length;
-return patterns[color_index];
-})
-.size("value")
-.mouse({
-"move": false,                        // key will also take custom function
-"click": function(){alert("Click!")}
-})
-.draw();
-
-
-
-
-
-
-
-
-
-for(var i=0;i<xData.length;i++){
-  graph_number++;
-  $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
-  //var data = [60000, 60000, 40000, 30000, 20000, 10000];
-  //var labels = ["Paris", "London", "New York", "Moscow", "Berlin", "Tokyo"];
-
-  yData[i].shift();
-  xData[i].shift();
-  var boxFormatter = function (coordinates, index) {
-    return{ "fill" : patterns[0] };
-  };
-
-
-
-  Treemap.draw('graph'+graph_number, 420, 500, yData[i],xData[i], {'label' : {'fill' : 'black'},
-  'box'   : boxFormatter});
-  console.log("YYY");
-
-  console.log(yData[i]);
-  console.log("XXX");
-  console.log(xData[i]);
-
-}
-
-
-return;
-for(var i=0;i<xData.length;i++){
-  graph_number++;
-  $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
-  var settings=getDefaultGraphSettings();
-  settings.bindto='#graph'+graph_number;
-  var data=[];
-  for(var j=1;j<xData[i].length;j++){
-    data.push([xData[i][j],yData[i][j]]);
-  }
-  settings.axis.y.tick.format=d3.format(".3s");
-  settings.data.columns=data;
-  settings.data.type='pie';
-  //settings.size.width= 320;
-  //
-  //settings.padding.bottom=0;
-  $('#graph'+graph_number).css('width','452px');
-  $('#graph'+graph_number).css('text-align','center');
-  settings.size.height= 400;
-  settings.size.width= 452;
-  //  $('#graph'+graph_number).css('zoom','0.7');
-  //$('#graph'+graph_number).css('margin-left','70px');
-  //settings.axis.x.type= 'category';
-  //  settings.size.width= 352;
-  delete settings.axis;
-  delete settings.data.x;
-  console.log(settings);
-  //  settings.axis.x.tick.culling={'max':4};
-  var chart = c3.generate(settings);
-  //  c3.updateRadius();
-  //$('#graph'+graph_number).find('svg').first().attr('width','452');
-
-}
-
-*/
-}
-function stringToStringGraph($element, $parent,$legends, xData, yData){}
 
 function getDefaultGraphSettings(){
   var settings={
@@ -744,7 +440,6 @@ function xArrayCheck(xData){
 
 function getDateFormat(s){
   var format=['%Y','%Y'];
-//  console.log(s+" "+s.length);
   if (s.length>4) {
     if (s.length<7) {
       return ['%Y%m','%m/%Y'];
@@ -753,7 +448,6 @@ function getDateFormat(s){
       return ['%Y%m%d','%d/%m/%Y'];
     }
     if (s.length==15) {
-  //    console.log('%Y/%m/%d %H:%M:%S');
       return ['%Y%m%d:%H%M%S','%d/%m/%Y %H:%M:%S'];
     }
   }
@@ -768,6 +462,7 @@ function getTextWidth(text, font) {
   var metrics = context.measureText(text);
   return metrics.width;
 }
+
 function getFormatFunction(unit){
   return function (d) {
     if(Math.abs(d)<1 && Math.abs(d)>0.01){
@@ -778,4 +473,55 @@ function getFormatFunction(unit){
       return format(d);//+" "+unit;
     }
   };//;
+}
+
+// Change D3's SI prefix to more business friendly units
+//      K = thousands
+//      M = millions
+//      B = billions
+//      T = trillion
+//      P = quadrillion
+//      E = quintillion
+// small decimals are handled with e-n formatting.
+/*
+y - yocto, 10⁻²⁴
+z - zepto, 10⁻²¹
+a - atto, 10⁻¹⁸
+f - femto, 10⁻¹⁵
+p - pico, 10⁻¹²
+n - nano, 10⁻⁹
+µ - micro, 10⁻⁶
+*/
+var d3_formatPrefixes = ["y","z","a","f","p","n","µ","m","","K","M","B","T","P","E","Z","Y"].map(d3_formatPrefix);
+
+// Override d3's formatPrefix function
+d3.formatPrefix = function(value, precision) {
+    var i = 0;
+    if (value) {
+        if (value < 0) {
+            value *= -1;
+        }
+        if (precision) {
+            value = d3.round(value, d3_format_precision(value, precision));
+        }
+        i = 1 + Math.floor(1e-12 + Math.log(value) / Math.LN10);
+        i = Math.max(-24, Math.min(24, Math.floor((i - 1) / 3) * 3));
+    }
+    return d3_formatPrefixes[8 + i / 3];
+};
+
+function d3_formatPrefix(d, i) {
+    var k = Math.pow(10, Math.abs(8 - i) * 3);
+    return {
+        scale: i > 8 ? function(d) { return d / k; } : function(d) { return d * k; },
+        symbol: d
+    };
+}
+
+function d3_format_precision(x, p) {
+    return p - (x ? Math.ceil(Math.log(x) / Math.LN10) : 1);
+}
+
+function replaceAll(str, search, replacement) {
+  return str.split(search).join(replacement);
 }

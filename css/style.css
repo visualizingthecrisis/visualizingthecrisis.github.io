@@ -128,7 +128,9 @@ p, ul{
 .section-graph-title{
   margin-top: 40px;
 }
-
+.section-graph-subtitle{
+  margin-top: 20px;
+}
 .section-graph-subtitle{
   margin-top: 0px;
 }
@@ -149,7 +151,12 @@ p, ul{
   margin-right: 10px;
 }
 
-
+table{
+  margin-top: 20px;
+}
+.section-keywords{
+  margin-top: 40px;
+}
 /***********SECTION*************/
 
 .section{
@@ -160,6 +167,7 @@ p, ul{
 .section-sources{
   display: block;
 }
+
 .source{
   display: block;
 }
@@ -217,7 +225,8 @@ p, ul{
 .section-graph{
   font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace !important;
   font-size: 20px;
-  width:100%;
+  //width:95%;
+  //margin-left:5%;
   display: table;
   overflow: visible !important;
 }
@@ -241,7 +250,7 @@ text{
 
 .section-graph-subtitle{
   display: block;
-  font-style: italic;
+//  font-style: italic;
 }
 
 .section-graph-abstract{
@@ -402,9 +411,9 @@ th{
 .section-treemap{
   height:500px;
   display:block;
-  border: 2px solid black;
+//  border: 2px solid black;
   width:100%;
-  box-sizing :border-box;
+//  box-sizing :border-box;
 }
 
 .chapter-title{

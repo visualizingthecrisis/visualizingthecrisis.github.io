@@ -7068,7 +7068,7 @@
             }
             var size = {
                 h: 15.5,
-                w: 3.5
+                w: 5.5
             };
             tick.select('text').text(textFormatted).each(function (d) {
                 var box = this.getBoundingClientRect(),
@@ -7119,7 +7119,8 @@
                     tickOffset = tickX = 0;
                 }
 
-                var text, tspan, sizeFor1Char = getSizeFor1Char(g.select('.tick')), counts = [];
+                var text, tspan, sizeFor1Char=getSizeFor1Char(g.select('.tick'))
+                , counts = [];
                 var tickLength = Math.max(innerTickSize, 0) + tickPadding,
                     isVertical = orient === 'left' || orient === 'right';
 

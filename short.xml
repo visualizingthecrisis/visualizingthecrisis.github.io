@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bullettins group="group0">
+  <bullettin id="0" date="20160508">
+    <title>My bullettin title</title>
+    <sections>
+      <section>
+        <quote>                                                       <!--[0-N]-->
+          <author>Cicero</author>                               <!--[ 1 ]-->
+          <text>Lorem ipsum dolor sit amet</text> 
+        </quote>
+      </section>
+    </sections>
+  </bullettin>
+</bullettins>
