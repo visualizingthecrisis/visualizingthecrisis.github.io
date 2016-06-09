@@ -13,7 +13,8 @@
         <subtitle>Week09</subtitle>
         <graph unit="B$" x="date" y="number">
           <abstract>A rank of private companies with the growth of their valuation
-            from 1B$ to current valuation, from 2011 to March 2016.</abstract>
+            from 1B$ to current valuation, from 2011 to March 2016.
+            This week there is a new e-commerce unicorn:Souq.</abstract>
           <dataset label="Uber">
             <data x="20130801" y="1" />
             <data x="20140101" y="9" />
@@ -102,9 +103,6 @@
             <data x="20151101" y="4" />
             <data x="20160303" y="4" />
           </dataset>
-          <dataset label="Souq">
-            <data x="20160303" y="1" />
-          </dataset>
         </graph>
         <chapter>
           <title>Zenefits layoffs</title>
@@ -156,9 +154,10 @@
             </graph>
             <quote>
               <author>Bill Gates</author>
-              <text>"It never should be a case of closing your eyes and saying
+              <role>Microsoft founder</role>
+              <text>It never should be a case of closing your eyes and saying
                 ‘Oh, it’s a tech company, just throw money at it.’I guess the
-                unicorns value will go down in the next two years."</text>
+                unicorns value will go down in the next two years.</text>
               </quote>
               <chapter>
                 <title>The bet of the future: energy startups</title>
