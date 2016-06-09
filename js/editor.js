@@ -17,7 +17,7 @@ $(document).ready(function(){
   }
   addSelect(0);
 */
-  for(var t=0;t<paths.length;t++){
+  for(var i=0;i<paths.length;i++){
     $('#xml-select').append("<option value="+paths[i]+">"+paths[i]+"</option>");
   }
   editor= ace.edit("editor");
