@@ -1,6 +1,6 @@
 var editor;
 $(document).ready(function(){
-  function addSelect(i){
+/*  function addSelect(i){
     if(i<paths.length){
       $.ajax({
         url:paths[i],
@@ -16,7 +16,10 @@ $(document).ready(function(){
     }
   }
   addSelect(0);
-
+*/
+  for(var t=0;t<paths.length;t++){
+    $('#xml-select').append("<option value="+paths[i]+">"+paths[i]+"</option>");
+  }
   editor= ace.edit("editor");
   editor.setTheme("ace/theme/monokai");
   editor.getSession().setMode("ace/mode/xml");
@@ -45,5 +48,7 @@ function updateEditor(){
 }
 function update(){
   xmlDoc = $.parseXML( editor.getValue() );
+
+  $("#bulletin-container").children().remove();
   processXML(xmlDoc);
 }

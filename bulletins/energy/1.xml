@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>					                        <!--[ 1 ]-->
+<bulletins>                                                            <!--[ 1 ]-->
+  <title>Non renewable  e renewable energy</title>                                     <!--[ 1 ]-->
+  <subtitle>A look to the Future</subtitle>                             <!--[ 1 ]-->
+  <authors>                                                             <!--[ 1 ]-->
+    <author>Eleonora Di Bartolo</author>                                           <!--[1-N]-->
+    <author>Maria Tollot</author>
+    <author>Serena Montefiori</author>
+  </authors>
+  <bulletin id="1 RN" date="20160303">                   <!--[1-N]-->
+  <title>Fossil fuel energy news</title>
+                                        <!--[0-1]-->
+    <sections>                                                          <!--[ 1 ]-->
+      <section>                                                         <!--[1-N]-->
+        <title>Weekly Fossil Fuel Trend</title>                                    <!--[0-1]-->
+        <abstract>							                                        <!--[0-1]-->
+          Although the recent months price of oil has dropped dramatically around $ 30 a barrel this week the price trend has been steady.
+        </abstract>
+        <chapter>
+          <title>Coal and natural gas</title>
+          <paragraph>As for natural gas and coal, the prices remain stable on $1.8 and $0.5, respectively.</paragraph>
+          <paragraph>This week the price of oil remains fixed on $ 30 per barrel, the lowest price in the last year, causing the crisis of global giants such as Petroleos Mexicanos, which loses 32 billion this year.</paragraph>
+        </chapter>
+        <graph unit="$B" x="date" y="number">
+        <title>Non renewable energy weekly trend</title>
+        <abstract>This week the price of oil is steady.</abstract>
+        <dataset label= "Brent Cruel (ICE)">
+           <data x="20160222" y="34.69" />
+           <data x="20160223" y="33.37" />
+           <data x="20160224" y="34.41" />
+           <data x="20160225" y="35.29" />
+           <data x="20160226" y="35.10" />
+           <data x="20160229" y="35.97" />
+        </dataset>
+          <dataset label= "Natural Gas (NYMEX)">
+          <data x="20160222" y="1.81" />
+          <data x="20160223" y="1.78" />
+          <data x="20160224" y="1.77" />
+          <data x="20160225" y="1.71" />
+          <data x="20160226" y="1.79" />
+          <data x="20160229" y="1.71" />
+        </dataset>
+          <dataset label= "Arch Coal ICE">
+           <data x="20160222" y="0.45" />
+           <data x="20160223" y="0.46" />
+           <data x="20160224" y="0.47" />
+           <data x="20160225" y="0.40" />
+           <data x="20160226" y="0.45" />
+           <data x="20160229" y="0.40" />
+        </dataset>
+      </graph>
+      <keywords>
+        <keyword name="Oil" />
+        <keyword name="Natural Gas" />
+        <keyword name="Investments" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+      </sources>
+  </section>
+
+
+  <section>
+    <chapter>
+     <title>Nigeria deploys troops to protect oil facilities</title>
+     <paragraph>Nigeria is deploying more troops to protect oil installations to curb sabotage after a leak forced crude loadings to be suspended last month at a major export terminal.</paragraph>
+     <paragraph>Nigeria, Africa’s biggest oil producer, loses an estimated 300,000 barrels a day to criminal gangs that tap crude from pipelines that criss-cross the oil-rich southern delta, using it in local refineries or selling it to tankers waiting offshore, according to state-owned Nigerian National Petroleum Corp.</paragraph>
+     <paragraph>The country pumped 1.9 million barrels a day last year on average, according to data compiled by Bloomberg.</paragraph>
+    </chapter>
+    <keywords>
+      <keyword name="Oil" />
+      <keyword name="Central Africa" />
+    </keywords>
+    <sources>
+      <source>bloomberg.com</source>
+    </sources>
+  </section>
+
+
+  <section>
+    <chapter>
+      <title>The oil crash looks a lot like a subprime</title>
+      <paragraph>The pattern of the decline in the price of oil that began in mid-2014 is remarkably similar to the 2007-2009 pattern of the price decline of ABX, the credit derivative index that referenced subprime mortgages and, ultimately, the U.S. housing market.</paragraph>
+      <paragraph>Key reasons to coal consumption drop again beacuse tries to wean itself off fuel that causes local air pollution problems and global warming.</paragraph>
+      <paragraph>Markit’s ABX Index, a basket of credit default swaps (CDS) tied to the welfare of subprime mortgages. </paragraph>
+    </chapter>
+    <graph unit="$B" x="date" y="number">
+      <title>Crude oil prices vs. ABX 07-1 AAA price</title>
+      <abstract>In this period the decline in the price of oil coincide with the bubble bursting of mortage subprime.</abstract>
+      <dataset label= "Crude oil">
+        <data x="200701" y="91" />
+        <data x="200707" y="109" />
+        <data x="200801" y="50" />
+        <data x="200807" y="60" />
+        <data x="200901" y="40" />
+      </dataset>
+    <dataset label= "07-1AAA index">
+     <data x="200701" y="100" />
+     <data x="200707" y="90" />
+     <data x="200801" y="75" />
+     <data x="200807" y="43" />
+     <data x="200901" y="34" />
+     <data x="200907" y="30" />
+     <data x="201001" y="38" />
+     <data x="201007" y="45" />
+     <data x="201101" y="45" />
+     <data x="201107" y="42" />
+     <data x="201201" y="40" />
+     <data x="201207" y="43" />
+     <data x="201301" y="53" />
+     <data x="201307" y="54" />
+     <data x="201401" y="60" />
+     <data x="201407" y="70" />
+     <data x="201501" y="74" />
+     <data x="201507" y="79" />
+   </dataset>
+  </graph>
+  <keywords>
+    <keyword name="Oil" />
+    <keyword name="Investments" />
+    <keyword name="Housing and Real Estate" />
+    <keyword name="Global Warming" />
+  </keywords>
+  <sources>
+    <source>bloomberg.com</source>
+  </sources>
+  </section>
+
+  <section>
+   <chapter>
+     <title>Mexico oil giant posts record $32B loss</title>
+     <paragraph>Petroleos Mexicanos also known as Pemex, announced not only its 13th consecutive quarterly loss amounting to $9.3 billion, 44% bigger than the previous year, as revenue tumbled by 28% to $15.8 billion, but also a gargantuan $32 billion annual loss and at the same time announced it would slash capex spending to preserve cash and optionality for a future which suddenly looks very bleak.</paragraph>
+     <paragraph>The report follows an announcement by the state of Mexico to cut back on its lifeline to the troubled oil giant when on February 17 it said it plans to cut 100 billion pesos ($5.5 billion) from the oil giant’s budget in a move aimed at stemming the depreciation of the peso and limiting inflation in Latin America’s second-largest economy amid the slump in international crude prices.</paragraph>
+   </chapter>
+   <graph unit="$B" x="date" y="number">
+     <title>Three lines of action to implement the budget adjustment</title>
+     <abstract>Generate efficiencies and reduce costs and increase productivuty of operations and promote a rational use  of resources.</abstract>
+     <dataset label= "Total Proposal adjustment">
+       <data x="2016" y="100" />
+     </dataset>
+     <dataset label= "Increase productivity of operations and promote a rational use of resources">
+       <data x="2016" y="28.9" />
+     </dataset>
+     <dataset label= "Defer reconsider investment minimising the impact on future production">
+       <data x="2016" y="64.9" />
+     </dataset>
+     <dataset label= "Adjust capex and opex from an average of USD50 to USD25 per barrel">
+       <data x="2016" y="6.2" />
+     </dataset>
+    </graph>
+    <keywords>
+      <keyword name="Oil" />
+      <keyword name="North America" />
+      <keyword name="Investments" />
+      <keyword name="Global Warming" />
+    </keywords>
+    <sources>
+      <source>zerohedgecom</source>
+    </sources>
+  </section>
+
+
+  <section>
+    <chapter>
+      <title>Coal recoverable reserves by region</title>
+      <paragraph>Coal is the most abundant of fossil fuels.</paragraph>
+      <paragraph>It is available from a wide variety of mines distributed globally.</paragraph>
+      <paragraph>It is used for electricity generation, but also in steel and aluminium production as well as in cement manufacture and as a liquid fuel.</paragraph>
+      <paragraph>The introduction of various carbon management schemes, particularly carbon capture and storage (CCS), is vital to mitigate the impact of future coal use on the environment.</paragraph>
+    </chapter>
+    <graph unit="%" x="Countinents" y="percentage">
+      <title>Coal recoverable reserves by region</title>
+      <abstract>Coal is available from a wide variety of mines distributed globally and it is used for electricity generation.</abstract>
+      <dataset label= "Reserves by region per percentage">
+        <data x="AS" y="36.4" />
+        <data x="EU" y="30.8" />
+        <data x="NA" y="27.5" />
+        <data x="AF" y="3.5" />
+        <data x="SA" y="1.6" />
+       </dataset>
+      </graph>
+    <graph unit="MToe" x="Countinents" y="number">
+      <title>Reserves by region</title>
+      <abstract>Global consumption of coal is growing and is expected to increase even more as developing countries expand their energy needs.</abstract>
+      <dataset label= "Mtoe">
+        <data x="AS" y="150,000" />
+        <data x="EU" y="130,000" />
+        <data x="NA" y="116,000" />
+        <data x="AF" y="15,000" />
+        <data x="SA" y="6.95" />
+      </dataset>
+    </graph>
+    <keywords>
+      <keyword name="Middle East and Weester Asia" />
+      <keyword name="Central and Eastern Asia" />
+      <keyword name="Southern Asia" />
+      <keyword name="Southeastern Asia" />
+      <keyword name="Eastern Europe" />
+      <keyword name="Western Europe" />
+      <keyword name="North America" />
+      <keyword name="Central Africa" />
+      <keyword name="Southern Africa" />
+      <keyword name="Northern Africa" />
+    </keywords>
+    <sources>
+      <source>worldenergy.org</source>
+    </sources>
+  </section>
+</sections>
+</bulletin>
+
+<bulletin id="1 R" date="20160303">                   <!--[1-N]-->
+<title>Green energy in the world</title>
+
+<sections>                                                          <!--[ 1 ]-->
+  <section>
+    <title>World investments in green energy</title>
+    <abstract>							                                        <!--[0-1]-->
+      Renewables just finished another record-breaking year, with more money invested, $329 billion, and more capacity added, 121 gigawatts, than ever before.
+    </abstract>
+    <chapter>
+      <title>Increase of renewable resources</title>
+      <paragraph>The sun and the wind continue to defy gravity.</paragraph>
+      <paragraph>Oil, coal and natural gas bottomed out over the last 18 months, with bargain prices not seen in a decade.</paragraph>
+      <paragraph>That's just one of a handful of reasons 2015 should have been a rough year for clean energy.</paragraph>
+      <paragraph>We can observe that the smaller countries that often don't register on charts like the one above.</paragraph>
+      <paragraph>For the first time, half of the world's annual investment in clean energy came from emerging markets.</paragraph>
+      <paragraph>Renewables just finished another record-breaking year, with more money invested, from emerging markets.</paragraph>
+    </chapter>
+    <graph unit="$B" x="String" y="number">
+      <title>World investments in green energy by sector</title>
+      <abstract>Solar energy is the sector in which the countries invest more and more.</abstract>
+      <dataset label= "Investments">
+        <data x="Solar" y="161.5" />
+        <data x="Wind" y="109.6" />
+        <data x="Biofuels" y="3.04" />
+        <data x="Others" y="53.1" />
+      </dataset>
+    </graph>
+
+    <graph unit="%" x="Countries" y="percentage">
+      <title>World investments in green energy by country</title>
+      <abstract>China and USA are the biggest investitors in green energy.</abstract>
+      <dataset label= "Investments in percentage">
+        <data x="CN" y="43" />
+        <data x="US" y="21.8" />
+        <data x="IN" y="4.1" />
+        <data x="BR" y="2.9" />
+        <data x="MX" y="1.6" />
+        <data x="CL" y="1.4" />
+        <data x="ZA" y="1.8" />
+        <data x="MA" y="0.8" />
+      </dataset>
+    </graph>
+
+        <graph unit="$B" x="Countries" y="number">
+          <title>World investments in green energy by country</title>
+          <abstract>China and USA are the biggest investitors in green energy.</abstract>
+          <dataset label= "Investments in dollars by country">
+           <data x="CN" y="110.52" />
+           <data x="EU" y="58.51" />
+           <data x="US" y="56" />
+           <data x="IN" y="10.49" />
+           <data x="BR" y="7.47" />
+           <data x="MX" y="4.16" />
+           <data x="CL" y="3.5" />
+           <data x="ZA" y="4.52" />
+           <data x="MA" y="2.02" />
+          </dataset>
+        </graph>
+
+    <keywords>
+      <keyword name="Eastern Asia" />
+      <keyword name="Eastern Europe" />
+      <keyword name="Western Europe" />
+      <keyword name="Southern Asia" />
+      <keyword name="North America" />
+      <keyword name="Southern Asia" />
+      <keyword name="Southern America" />
+      <keyword name="North America" />
+      <keyword name="Northern Africa" />
+    </keywords>
+
+    <sources>
+      <source>bloomberg.com</source>
+    </sources>
+</section>
+
+
+<section>
+    <chapter>
+      <title>Wind top new power generation source in Europe</title>
+      <paragraph>In 2015 12,800 MW of new wind power capacity was installed in the EU, an increase of 6.3% over 2014, and more than any other form of power generation, according to recent new figures from the European Wind Energy Association (EWEA).</paragraph>
+      <paragraph>Wind power accounted for over 44% of total power capacity installations in the EU last year.</paragraph>
+      <paragraph>€26.4 billion was invested in Europe in 2015 to finance wind energy development.</paragraph>
+      <paragraph>This was 40% more than the total investment in 2014. The total wind power capacity installed at the end of 2015 could produce 315 TWh and cover 11.4% of the EU electricity consumption in a normal wind year.</paragraph>
+    </chapter>
+
+    <graph unit="$B" x="date" y="number">
+      <title>Wind energy</title>
+      <abstract>Despite the last year wind energy is increased.</abstract>
+      <dataset label= "Investments">
+        <data x="2014" y="10.6" />
+        <data x="2015" y="26.4" />
+      </dataset>
+    </graph>
+
+    <graph unit="Mw" x="date" y="number">
+      <title>Production capacity in wind energy</title>
+      <abstract>From 2014-2015 the capacity of wind power production fell slightly.</abstract>
+      <dataset label= "Production capacity">
+        <data x="2014" y="12,800" />
+        <data x="2015" y="11,994" />
+      </dataset>
+    </graph>
+    <keywords>
+      <keyword name="Global Warming" />
+      <keyword name="Renewables" />
+      <keyword name="Investments" />
+      <keyword name="Southern Asia" />
+      <keyword name="Inflation/Deflation" />
+    </keywords>
+    <sources>
+      <source>energypost.eu</source>
+    </sources>
+  </section>
+
+
+  <section>
+        <chapter>
+          <title>Solar power generation capacity crosses 5,5000Mw in India</title>
+          <paragraph>The country's grid-connected solar power generation capacity has crossed the 5,000 MW mark today.</paragraph>
+          <paragraph>It is envisaged to generate 60 GW ground mounted grid-connected solar power and 40 GW roof-top grid interactive solar power to meet the target.</paragraph>
+          <paragraph>The ministry has also fixed year-wise targets to monitor the solar power generation in the country.</paragraph>
+          <paragraph>The target for the current year is 2,000 MW and 12,000 MW for the next year.</paragraph>
+        </chapter>
+        <graph unit="Mw" x="date" y="number">
+          <title>Prevision of solar power</title>
+          <abstract>India's grid-connected solar power generation capacity has crossed the 5.000 Mw mark today.</abstract>
+          <dataset label= "Production capacity from 2016 to 2017">
+            <data x="2016" y="2,000" />
+            <data x="2017" y="12,000" />
+          </dataset>
+        </graph>
+
+        <graph unit="Gw" x="string" y="number">
+          <title>Target of generation 100Gw of solar power by 2022</title>
+          <abstract>The government has set an ambitious target of generating 100 GW of solar power by 2021-22 under the National Solar Mission.</abstract>
+          <dataset label= "Prevision by 2022">
+            <data x="ground mounted grid-connected solar power" y="60" />
+            <data x="roof-top grid interactive solar power to meet the target" y="40" />
+          </dataset>
+        </graph>
+
+        <keywords>
+          <keyword name="Global Warming" />
+        </keywords>
+        <sources>
+          <source>articles.economictimes.indiatimes.com</source>
+        </sources>
+      </section>
+
+
+      <section>
+          <chapter>
+            <title>Renewables take top share of German power supply in first</title>
+            <paragraph>Germany for the first time got more electricity from renewables than any other source of energy.</paragraph>
+            <paragraph>Clean-energy sources met 27.7 percent of Germany’s demand in the nine months through September, for the first time exceeding the 26.3 percent share held by lignite coal, according to calculations by Agora, an influential researcher owned by the Mercator Foundation and European Climate Foundation.</paragraph>
+            <paragraph>Merkel intends to get as much as 60 percent of the country’s power from renewables by 2035 under her “Energiewende” plan that will see all nuclear reactors closed by 2022.</paragraph>
+          </chapter>
+
+          <graph unit="%" x="date" y="percentage">
+            <title>Prevision of green energy</title>
+            <abstract>Germany for the first time got blackberries electricity from renewables than any other source of energy.</abstract>
+            <dataset label= "Production capacity in Germany">
+              <data x="2015" y="27.7" />
+              <data x="2035" y="60" />
+            </dataset>
+          </graph>
+          <keywords>
+            <keyword name="Western Europe" />
+            <keyword name="Renewables" />
+            <keyword name="Global Warming" />
+          </keywords>
+          <sources>
+            <source>bloomberg.com</source>
+          </sources>
+    </section>
+  </sections>
+ </bulletin>
+</bulletins>

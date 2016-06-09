@@ -4,7 +4,6 @@ var graph_number=0;
 
 
 function processXML(d,filters){
-  $("#bulletin-container").children().remove();
   filtersUnwrap="all the topics";
   var sections=$(d).find('section');
 
@@ -254,6 +253,8 @@ function dateToNumberGraph($element, $parent,$legends, xData, yData,unit){
     }
   }
 }
+
+function stringToStringGraph($element, $parent,$legends, xData, yData,unit){}
 
 function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
   if(xData.length>0 && xData.length>0){
