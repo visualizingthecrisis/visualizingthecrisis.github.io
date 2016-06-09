@@ -1,6 +1,6 @@
 <bulletin id="issue 10" date="20260514">
   <sections>
-    <section>
+    <section> <!--1-->
       <title>Toward the Extinction of Human Jobs</title>
       <abstract>
         In the last decade the Fourth Industrial Revolution has caused a widespread disruption to labour markets, with enormous change in the skill sets needed to thrive this new landscape. Many sectors have seen a complete replacement of human labor by machines, robots and automation, with a parallel increase in productivity. Despite this, humans have been able to create and train for new jobs, adapting to this new world they did: jobs which concern intellectual charge and management or control positions; jobs which are performed ‒ after many battles ‒ in shorter work days, proving that it has been an impact on performances and on the well-being of workers. Thanks to the achievement of important milestones, such as the Universal Basic Income, now adopted by an increasingly number of countries worldwide, people have finally started to cultivate their passions and interests, dedicating themselves to the development of cognitive and creative abilities, without fearing that robots will cause their financial collapse ‒ like many did just about10 years ago.
@@ -34,7 +34,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--2-->
       <title>Big and Fast</title>
       <abstract>
         Data production is expanding at an astonishing pace, arriving nowadays to almost 200 zettabyte. The huge amount of data combined with the increasing development of Machine Learning, have bring to a new paradigm of work, where efficiency and security are now ensured by AI.
@@ -78,7 +78,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--3-->
       <title>Trucks Need No Drivers</title>
       <abstract>
         In US truck driving is just a memory now.
@@ -124,7 +124,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--4-->
       <title>Worldwide Spending on Robotics</title>
       <graph unit="b$" x="date" y="number">
         <dataset label="Total spending">
@@ -201,7 +201,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--5-->
       <title>Once Upon a Time in US...</title>
       <abstract>
         In 2015 there were almost 3.5 million professional truck drivers in the US and an additional 5.2 million people employed on the truck-driving industry: 8.7 million trucking-related jobs. As opposed to now, it was one of the most-common occupations in that time, along with retail salesperson, cashier, food and beverage server, and office clerk. Together, these jobs employed 18.9 million people: nearly 13.7% percent of the labor force.
@@ -248,7 +248,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--6-->
       <title>The Future of Employment According to Oxford University</title>
       <abstract>
         In 2013, Oxford University researchers forecast that machines might be able to perform 47% of all US jobs in the following two decades. The authors examine how susceptible jobs are to computerisation, by implementing a novel methodology to estimate the probability of computerisation for 702 detailed occupations, using a Gaussian process classifier.
@@ -286,7 +286,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--7-->
       <title>Taking Big Steps</title>
       <chapter>
         <title>Ireland Has Joined the Six-Hours Club</title>
@@ -377,7 +377,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--8-->
       <title>Standard Working Hours per Day in EU</title>
       <abstract>
         It's not just the working hours: the number of people employed full-time jobs is by now gradually decreasing, causing a relentless rise of the unemployment rate.
@@ -434,7 +434,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--9-->
       <title>How We Got Here</title>
       <subtitle>3 Steps Towards the Post-Work Era</subtitle>
       <chapter>
@@ -474,7 +474,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>
+    <section> <!--10-->
       <title>Tech Gives, Tech Takes</title>
       <abstract>
         There will always be jobs in tech and science, but the skills needed to enter these industries are so specialized and difficult to attain that they won’t save the masses from unemployment. Moreover, the biggest tech and science companies tend to employ a very small number of employees in relation to the revenues they generate. In 1964 the most valuable US company, ATandT, was worth $267 billion and employed 758,611 people. Google, in 2016, was worth $560 billion, but had only about 55,000 employees. Today Tesla, which employed just 10,000 people, worth $692 billion.
