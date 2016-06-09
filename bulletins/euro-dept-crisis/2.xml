@@ -22,7 +22,7 @@
       </paragraph>
     </chapter>
     <graph unit="%" x="country" y="number">
-      <title>Inflation sitation in EU countries, Feb2016</title>
+      <title>Inflation sitation in EU countries, Feb 2016</title>
       <dataset label="Inflation value">
         <data x="AT" y="1.4"/>
         <data x="BE" y="1.8"/>
