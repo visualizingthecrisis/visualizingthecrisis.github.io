@@ -272,7 +272,7 @@
                                       Flipkart share by 27% to about $ 11 Billion.</paragraph>
                                     </chapter>
                                     <graph unit="%" x="string" y="number">
-                                      <title>Internet penetration around world</title>
+                                      <title>Internet penetration around the world</title>
                                       <dataset label= "Internet users">
                                         <data x="UK" y="90"/>
                                         <data x="Germany" y="85"/>
