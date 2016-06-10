@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <bulletins>
     <title>EU Debt Crisis Odysssey</title>
-  	<subtitle>About the european crisis</subtitle>
+  	<subtitle>About the European crisis</subtitle>
   	<authors>
       <author>Valeria Mento</author>
       <author>Jacopo Faggian</author>
@@ -89,7 +89,7 @@
         </dataset>
       </graph>
       <graph unit="%" x="country" y="number">
-        <title>European growth outlook forecast 2008 | 2018</title>
+        <title>Economic recovery in Europe 2008, 2018</title>
         <dataset label="Public debt">
           <data x="DE" y="-12.7"/>
           <data x="IE" y="-215.4"/>
@@ -192,7 +192,7 @@
         <keyword name="Manufacturing" />
       </keywords>
       <sources>
-        <source>Ec.europa.eu</source>
+        <source>Ec.Europa.eu</source>
         <source>Brookings.com</source>
         <source>Coface.com</source>
         <source>Fincancialtimes.com</source>
@@ -220,8 +220,8 @@
           </paragraph>
         </chapter>
         <graph unit="%" x="string" y="number">
-          <title>Unemployment forecast | April 2016</title>
-          <dataset label="Unemployment">
+          <title>Unemployment forecast from different sources, April 2016</title>
+          <dataset label="Unemployed people rate">
             <data x="IMF" y="11.4"/>
             <data x="DEF" y="11.4"/>
           </dataset>
@@ -248,7 +248,7 @@
           <keyword name="GDP" />
         </keywords>
         <sources>
-          <source>Ec.europa.eu</source>
+          <source>Ec.Europa.eu</source>
           <source>Brookings.com</source>
           <source>Coface.com</source>
           <source>Fincancialtimes.com</source>
@@ -266,25 +266,25 @@
       </section>
 
       <section>
-        <title>Is this the end of Schengen agreement?</title>
+        <title>Is this the end of Schengen Agreement?</title>
           <chapter>
             <paragraph>
               The free movement of persons is a fundamental right guaranteed by the EU to its citizens,
-              thanks to Schengen agreement, signed in 1990. But in the past 18 months, mainly because
+              thanks to Schengen Agreement, signed in 1990. But in the past 18 months, mainly because
               of migrants crisis, perspectives have darkened: some countries want to close their border
-              destoying what Schengen agreement built many years ago.
+              destoying what Schengen Agreement built many years ago.
             </paragraph>
           </chapter>
-          <graph unit="%" x="country" y="number">
+          <graph unit="number" x="country" y="number">
             <title>Arrivals in Europe</title>
-            <dataset label="Migrants">
+            <dataset label="Migrants by country">
               <data x="ES" y="3592"/>
               <data x="IT" y="153600"/>
               <data x="MT" y="105"/>
               <data x="GR" y="851369"/>
             </dataset>
           </graph>
-          <graph unit="%" x="string" y="number">
+          <graph unit="number" x="string" y="number">
             <title>Dead or alive</title>
             <dataset label="Migrant data">
               <data x="total migrants" y="1008616"/>
@@ -302,7 +302,7 @@
               <keyword name="Migration" />
             </keywords>
             <sources>
-              <source>Ec.europa.eu</source>
+              <source>Ec.Europa.eu</source>
               <source>Brookings.com</source>
               <source>Coface.com</source>
               <source>Fincancialtimes.com</source>
@@ -331,7 +331,7 @@
               </paragraph>
             </chapter>
             <graph unit="%" x="string" y="number">
-              <title>Greece’s fiscal surplus goals and forecasts 2015 | 2015</title>
+              <title>Greece’s fiscal surplus goals and forecasts 2015, 2015</title>
               <dataset label="goal">
                 <data x="2015" y="2"/>
                 <data x="2016" y="3"/>
@@ -346,7 +346,7 @@
               </dataset>
             </graph>
             <graph unit="%" x="string" y="number">
-              <title>Spain’s fiscal deficit goals and forecasts 2015 | 2015</title>
+              <title>Spain’s fiscal deficit goals and forecasts 2015, 2015</title>
             <dataset label="goal">
               <data x="2015" y="4.2"/>
               <data x="2016" y="2.9"/>
@@ -366,7 +366,7 @@
               <keyword name="GDP" />
             </keywords>
             <sources>
-              <source>Ec.europa.eu</source>
+              <source>Ec.Europa.eu</source>
               <source>Brookings.com</source>
               <source>Coface.com</source>
               <source>Fincancialtimes.com</source>
@@ -387,13 +387,13 @@
             <title>Debt situation</title>
             <chapter>
               <paragraph>
-                Spain, the euro area’s fourth largest economy, has been under the commission’s
+                Spain, the Euro area’s fourth largest economy, has been under the commission’s
                 excessive-deficit procedure since 2009 (Greece too). Actually deficit value is
                 high, but never as Greece’s debt.
               </paragraph>
             </chapter>
               <graph unit="%" x="date" y="number">
-                <title>Spain and Greece Debt to GDP 2006 | 2015 comparison</title>
+                <title>Spain and Greece Debt to GDP 2006, 2015 comparison</title>
                 <dataset label="Greece debt">
                   <data x="2006" y="108"/>
                   <data x="2007" y="108"/>
@@ -426,7 +426,7 @@
                 <keyword name="National Debt" />
               </keywords>
               <sources>
-                <source>Ec.europa.eu</source>
+                <source>Ec.Europa.eu</source>
                 <source>Brookings.com</source>
                 <source>Coface.com</source>
                 <source>Fincancialtimes.com</source>
@@ -454,7 +454,7 @@
         </paragraph>
       </chapter>
           <graph unit="%" x="date" y="number">
-            <title>Greece Government Bond 10 years 2006 | 2016</title>
+            <title>Greece Government Bond 10 years 2006, 2016</title>
             <dataset label="Interest rate">
               <data x="2006" y="4"/>
               <data x="2007" y="4.5"/>
@@ -470,7 +470,7 @@
             </dataset>
           </graph>
           <graph unit="EUR" x="date" y="number">
-            <title>Greece Revenue/Spending Forecasts 2010 | 2020</title>
+            <title>Greece Revenue/Spending Forecasts 2010, 2020</title>
             <abstract>Data in € billion</abstract>
             <dataset label="Revenue">
               <data x="2010" y="93,000,000,000"/>
@@ -500,7 +500,7 @@
             </dataset>
           </graph>
           <graph unit="%" x="date" y="number">
-            <title>Spain Government Bond 10 years 2006 | 2016</title>
+            <title>Spain Government Bond 10 years 2006, 2016</title>
             <dataset label="Interest rate">
               <data x="2006" y="3.5"/>
               <data x="2007" y="4.2"/>
@@ -553,7 +553,7 @@
             <keyword name="Governance" />
           </keywords>
           <sources>
-            <source>Ec.europa.eu</source>
+            <source>Ec.Europa.eu</source>
             <source>Brookings.com</source>
             <source>Coface.com</source>
             <source>Fincancialtimes.com</source>
@@ -582,8 +582,8 @@
           <graph unit="EUR" x="country" y="number">
             <title>Foreign investments in Spain and Greece</title>
             <dataset label="Investment value">
-              <data x="ES" y="-9813000000"/>
-              <data x="GR" y="241330000"/>
+              <data x="ES" y="-9,813,000,000"/>
+              <data x="GR" y="241,330,000"/>
             </dataset>
           </graph>
           <keywords>
@@ -592,7 +592,7 @@
             <keyword name="Investments" />
           </keywords>
           <sources>
-            <source>Ec.europa.eu</source>
+            <source>Ec.Europa.eu</source>
             <source>Brookings.com</source>
             <source>Coface.com</source>
             <source>Fincancialtimes.com</source>
@@ -613,16 +613,17 @@
           <title>About Greece's question</title>
           <quote>
             <author>
-              Christine Lagarde, International Monetary Fund Managing Director
-            </author>
+              Christine Lagarde</author>
+            <role>International Monetary Fund Managing Director</role>
             <text>
-              “Currently the debt is not sustainable and what is required is a debt operation.”
+              Currently the debt is not sustainable and what is required is a debt operation.
             </text>
           </quote>
            <quote>
-           <author>Jeroen Dijsselbloem, president of the Eurogroup</author>
+           <author>Jeroen Dijsselbloem</author>
+           <role>President of the Eurogroup</role>
            <text>
-             “We did already a lot to make it more sustainable”
+             We did already a lot to make it more sustainable
            </text>
           </quote>
           <keywords>
@@ -634,7 +635,7 @@
             <keyword name="Credit rating" />
           </keywords>
           <sources>
-            <source>Ec.europa.eu</source>
+            <source>Ec.Europa.eu</source>
             <source>Brookings.com</source>
             <source>Coface.com</source>
             <source>Fincancialtimes.com</source>
@@ -654,12 +655,14 @@
         <section>
           <title>About Spain's question</title>
           <quote>
-          <author>Pierre Moscovici, Economic Affairs Commissioner</author>
+          <author>Pierre Moscovici</author>
+          <role>Economic Affairs Commissioner</role>
           <text>He realizes Spain may need more time
              to cut its budget deficit (objectives are too hard to reach/achieve).</text>
          </quote>
          <quote>
-         <author>Mariano Rajoy, Spain’s Prime Minister</author>
+         <author>Mariano Rajoy</author>
+         <role>Spain’s Prime Minister</role>
          <text>He want the commission to give Spain two extra years to bring its
            deficit below the European Union’s 3 percent limit.</text>
         </quote>
@@ -672,7 +675,7 @@
               <keyword name="Credit rating" />
             </keywords>
             <sources>
-              <source>Ec.europa.eu</source>
+              <source>Ec.Europa.eu</source>
               <source>Brookings.com</source>
               <source>Coface.com</source>
               <source>Fincancialtimes.com</source>
