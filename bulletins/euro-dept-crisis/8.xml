@@ -42,20 +42,20 @@
         <title>A century of Brenner history</title>
         <paragraph>
           <list type="unordered">
-              <item>1915-First World War</item>
-              <item>1915-The Brenner border is born</item>
-              <item>1920-The Brenner emigrants</item>
-              <item>1935-Italian migration during nazism</item>
-              <item>1935-Second World War</item>
-              <item>1945-The return of WWII refugees</item>
-              <list>1950-The boom years</list>
-              <list>1955-The italian Gastarbeiter</list>
-              <list>1955-The new German workforce</list>
-              <list>1965-The one million Gastarbeiter</list>
-              <list>1990-Refuges from the former Jugoslavia</list>
-              <list>1990-Italians in Germany</list>
-              <list>1995-The Schengen agreement</list>
-              <list>2015-The restore of boundaries?</list>
+              <item>1915: First World War</item>
+              <item>1915: The Brenner border is born</item>
+              <item>1920: The Brenner emigrants</item>
+              <item>1935: Italian migration during nazism</item>
+              <item>1935: Second World War</item>
+              <item>1945: The return of WWII refugees</item>
+              <list>1950: The boom years</list>
+              <list>1955: The italian Gastarbeiter</list>
+              <list>1955: The new German workforce</list>
+              <list>1965: The one million Gastarbeiter</list>
+              <list>1990: Refuges from the former Jugoslavia</list>
+              <list>1990: Italians in Germany</list>
+              <list>1995: The Schengen agreement</list>
+              <list>2015: The restore of boundaries?</list>
           </list>
         </paragraph>
       </chapter>
@@ -102,7 +102,7 @@
             <data x="SE" y="1,740,000"/>
           </dataset>
         </graph>
-        <graph unit="string" x="country" y="string">
+        <graph unit="" x="country" y="string">
           <title>First time asylum applicants in 2015</title>
           <dataset label="Time by country">
             <data x="EU" y="6 months"/>
@@ -164,12 +164,13 @@
           </chapter>
           <quote>
           <author>Alexander Langer</author>
+          <role>Politician</role>
           <text>
-            The fall of internal borders was complemented by the strengthening of the external borders
+            The fall of internal borders was complemented by the strengthening of the external borders.
           </text>
          </quote>
-          <graph unit="number" x="string" y="number">
-            <title>Lenght of European walls, data in km by year</title>
+          <graph unit="km" x="string" y="number">
+            <title>Length of European walls, data in km by year</title>
           <dataset label="EU walls">
             <data x="Cyprus, 1974" y="180"/>
             <data x="Melilla, 1995" y="11"/>
@@ -217,19 +218,21 @@
           </paragraph>
         </chapter>
           <quote>
-            <author>Opinion by Wolfgang Schaeuble, German finance minister</author>
+            <author>Wolfgang Schaeuble</author>
+            <role>German finance minister</role>
           <text>
             We have to start to reduce the risks that occur from the connection between
             banks and public budgets, and that of course means that we have to address
-            government bonds and balance sheets of banks”
+            government bonds and balance sheets of banks
           </text>
           </quote>
           <quote>
-          <author>Opinion by Pier Carlo Padoan, Italian finance minister</author>
+          <author>Pier Carlo Padoan</author>
+          <role>Italian finance minister</role>
             <text>
-            “The most preferable option is the status quo”, he said, because this wouldn’t force banks
+            The most preferable option is the status quo”, he said, because this wouldn’t force banks
             to reshuffle their debt holdings, “creating the problem of where this debt
-            will end up. This would provoke a readjustment shock in the market.”
+            will end up. This would provoke a readjustment shock in the market.
           </text>
           </quote>
         <keywords>
@@ -267,7 +270,7 @@
             banking union. Here’s focal points of the question:
           </paragraph>
           <paragraph>
-            <list type="unordered">                                         <!--[0-N]-->
+            <list type="unordered">
               <item>Finance ministers battled over the possibility of imposing limits on bank’s
               holdings of sovereign debt, with several member states opposing German.</item>
               <item>EU sovereign bonds are currently treated as risk-free and are exempt from exposure
@@ -318,8 +321,8 @@
           </paragraph>
         </chapter>
         <graph unit="%" x="country" y="number">
-          <title>Bank's average exposure to Home Sovereign</title>
-          <abstract>Values at 30/06/2015, a % of total bank's assets</abstract>
+          <title>Bank's average exposure to home sovereign bonds</title>
+          <abstract>Values at 30/06/2015, % of total bank's assets</abstract>
         <dataset label="Exposure value">
           <data x="PT" y="7.5"/>
           <data x="ES" y="7.5"/>
@@ -343,16 +346,16 @@
         </dataset>
       </graph>
       <graph unit="EUR" x="string" y="number">
-        <title>European Banks sovereing exposures in 2015 specific composition of total value</title>
-      <dataset label="Sovereign exposure value">
+        <title>EU Banks sovereing bond exposures in 2015 specific composition of total value</title>
+      <dataset label="Exposure value">
         <data x="Total" y="3,341,000,000,000"/>
         <data x="Main Banks" y="1,835,000,000,000"/>
         <data x="Other Banks" y="1,505,000,000,000"/>
       </dataset>
     </graph>
     <graph unit="EUR" x="date" y="number">
-      <title>European Banks sovereing exposures 2013 | 2015</title>
-    <dataset label="Sovereign exposure value">
+      <title>EU Banks sovereing bond exposures 2013, 2015</title>
+    <dataset label="Exposure value">
       <data x="2013" y="290,000,000,000,000"/>
       <data x="2014" y="3,100,000,000,000"/>
       <data x="2015" y="3,200,000,000,000"/>
@@ -360,7 +363,7 @@
   </graph>
   <graph unit="EUR" x="string" y="number">
     <title>Main European Banks sovereing exposures</title>
-  <dataset label="Sovereign exposure value">
+  <dataset label="Exposure value">
     <data x="HSBC" y="290,000,000,000"/>
     <data x="Barclays" y="150,000,000,000"/>
     <data x="UniCredit" y="140,000,000,000"/>
