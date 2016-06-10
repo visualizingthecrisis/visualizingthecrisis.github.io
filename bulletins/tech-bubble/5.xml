@@ -299,6 +299,7 @@
                                       <dataset label= "valuation">
                                         <data x="2012" y="1"/>
                                         <data x="2013" y="1.5"/>
+                                        <data x="2014" y="8"/>
                                         <data x="2015" y="15"/>
                                       </dataset>
                                     </graph>
