@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <bulletins>
     <title>EU Debt Crisis Odysssey</title>
-  	<subtitle>About the european crisis</subtitle>
+  	<subtitle>About the European crisis</subtitle>
   	<authors>
       <author>Valeria Mento</author>
       <author>Jacopo Faggian</author>
@@ -71,8 +71,8 @@
   <section>
     <title>Ireland’s economy is growing as fast as China GDP</title>
     <graph unit="%" x="country" y="number">
-      <title>GDP growth by countries</title>
-      <dataset label= "GDP growth">
+      <title>GDP growth</title>
+      <dataset label= "Rate by country">
         <data x="US" y="2"/>
         <data x="IE" y="7"/>
         <data x="CN" y="7"/>
@@ -108,8 +108,8 @@
       </paragraph>
     </chapter>
     <graph unit="%" x="date" y="number">
-      <title>Is growth slowing?</title>
-      <dataset label= "GDP growth">
+      <title>Is GDP growth slowing?</title>
+      <dataset label= "Rate by year">
         <data x="2006" y="12.5"/>
         <data x="2008" y="14"/>
         <data x="2010" y="12.1"/>
@@ -126,6 +126,7 @@
       </chapter>
       <quote>
         <author>Julian Evans-Pritchard</author>
+        <role>Analyst</role>
         <text>
         China’s ability to continue to post such rapid and relatively stable growth,
         even as it has increasingly become a source of volatility in global equity and
@@ -134,7 +135,7 @@
     </quote>
     <graph unit="%" x="country" y="number">
       <title>Two different estimations</title>
-      <dataset label= "Estimations_by">
+      <dataset label= "Estimations by...">
         <data x="Julian Evans-Pritchard" y="4.5"/>
         <data x="Official sources" y="6.8"/>
       </dataset>
@@ -181,11 +182,11 @@
       </paragraph>
     </chapter>
   <graph unit="%" x="country" y="number">
-    <title>Corporate tax rate</title>
+    <title>Low rates in Ireland</title>
     <abstract>Corporate taxes in USA are one of the highest
       in the world, Ireland has low taxation, so many companiers
       decided to move to Dublin.</abstract>
-    <dataset label= "GDP growth">
+    <dataset label= "Corporate tax rate">
       <data x="BL" y="10"/>
       <data x="EI" y="12"/>
       <data x="LV" y="15"/>
@@ -252,20 +253,20 @@
       <paragraph>
         <list type="ordered">
           <item>
-            Economic reasons:
+            ECONOMIC REASONS:
             Ireland excange products with Great Britain for more than €50 billion each year.
             Economic and Social Research Institute said that the loss would be €10 billion
             each year for the Celtic Tiger. They also estime that Ireland’s GDP will fall
             down between 2 and 12% in case of Brexit.
           </item>
           <item>
-            Migration reasons:
+            MIGRATION REASONS:
             About 380.000 Irish people live nowadays in Great Britain. With Brexit they would
             probably be blocked in UK and have problems with burocracy. In case of Brexit,
             migrants coming from other countries will be redirect in Ireland instead of UK.
           </item>
           <item>
-            Historical reasons:
+            HISTORICAL REASONS:
             Flanagan, Irish Foreign Minister, adfirmed recently that European Union had good
             influence on Northen Ireland, it became a sort of “glue” that helped a lot this
             two regions to solve their historical conflicts in a peaceful way. Brexit, he
@@ -307,7 +308,7 @@
   </section>
 
   <section>
-    <title>France and Italy, too big to fail?</title>
+    <title>France and Italy: too big to fail?</title>
     <chapter>
       <paragraph>
         The European debt crisis is merely slumbering. Greek, Portuguese
@@ -317,7 +318,7 @@
     </chapter>
     <graph unit="USD" x="country" y="number">
       <title>World’s Top Ten in IMF’s list</title>
-      <dataset label= "GDP growth">
+      <dataset label= "GDP value">
         <data x="US" y="17,418,925"/>
         <data x="CN" y="10,380,380"/>
         <data x="JY" y="4,616,335"/>
@@ -360,6 +361,7 @@
   <section>
     <quote>
       <author>Bloomberg.com</author>
+      <role>Economic website</role>
       <text>
         Italy and France are large modern nations, with enviable economic pedigree.
         So they appear too big to fail...but it’s true? Reform has been difficult,
@@ -438,7 +440,7 @@
         </paragraph>
       </chapter>
       <graph unit="EUR" x="date" y="number">
-        <title>Government budget 2006 | 2015</title>
+        <title>Government budget 2006, 2015</title>
         <dataset label= "Italy">
           <data x="2006" y="-3.8"/>
           <data x="2007" y="-1.7"/>
@@ -492,7 +494,7 @@
         </paragraph>
       </chapter>
       <graph unit="EUR" x="date" y="number">
-        <title>Government debt to GDP 2006 | 2015</title>
+        <title>Government debt to GDP 2006, 2015</title>
         <dataset label= "Italy">
           <data x="2006" y="104"/>
           <data x="2007" y="102"/>
@@ -549,7 +551,7 @@
         </paragraph>
       </chapter>
       <graph unit="EUR" x="date" y="number">
-        <title> Unemployment rate 2013/3015 | 2016</title>
+        <title> Unemployment rate 2013, 2016</title>
         <dataset label= "Italy">
           <data x="20150430" y="12.1"/>
           <data x="20150531" y="12.2"/>
@@ -608,7 +610,7 @@
         </paragraph>
       </chapter>
       <graph unit="EUR" x="date" y="number">
-        <title>GDP growth rate 2013 | 2016</title>
+        <title>GDP growth rate 2013, 2016</title>
         <dataset label= "Italy">
           <data x="20130131" y="-0.8"/>
           <data x="20130331" y="-0.1"/>
