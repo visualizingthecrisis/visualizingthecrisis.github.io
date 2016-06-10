@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>					                        <!--[ 1 ]-->
+<bulletins>                                                            <!--[ 1 ]-->
+  <title>Non renewable and renewable energy</title>                                     <!--[ 1 ]-->
+  <subtitle>A look to the Future</subtitle>                             <!--[ 1 ]-->
+  <authors>                                                             <!--[ 1 ]-->
+    <author>Eleonora Di Bartolo</author>                                           <!--[1-N]-->
+    <author>Maria Tollot</author>
+    <author>Serena Montefiori</author>
+  </authors>
+
+  <bulletin id="5 RN" date="20163103">                   <!--[1-N]-->
+  <title>Water World Day</title>
+                                        <!--[0-1]-->
+    <sections>                                                          <!--[ 1 ]-->
+      <section>                                                         <!--[1-N]-->
+        <title>Coal plants use as much water as 1 billion people and consumption set to double:report</title>                                    <!--[0-1]-->
+        <abstract>Non renewables were important investments for long times but now studies on renewables are increasing to save human primary need as water.</abstract>
+        <chapter>
+          <title>Global Water Stress Map</title>
+          <paragraph>Coal power plants use enough water to supply needs of 1 billion of people that will almost double if all the world’s planned power plants come online.</paragraph>
+          <paragraph>Almost half the new power plants will be built in areas that are already in high water stress.</paragraph>
+          <paragraph>The water usage of each of the world’s 8,359 existing coal power plants and electric plants.</paragraph>
+          <paragraph>The research found 44% of current plants, and 45% of planned coal power plants, were in areas that were in a state of water stress, where water use is already considered to be having significant ecosystem impacts.</paragraph>
+          <paragraph>That figure was largely driven by China, where most of the world’s coal is used and almost half of the proposed coal fleet was in red-list areas.</paragraph>
+          <paragraph>India and Turkey were next, each with 13% of planned coal power stations set to be in red-list areas.</paragraph>
+        </chapter>
+
+        <chapter>
+          <title>Global water stress areas</title>
+          <paragraph>The agency noted that much of the increase in water use in future would, ironically, be driven by a move towards plants that produced less carbon dioxide.</paragraph>
+          <paragraph>The new report found that although coal mining used a significant amount of water, the vast majority from the sector came from energy production, which used 84% of the water.</paragraph>
+        </chapter>
+
+        <table>
+          <row type="head">
+            <cell>Low stress (&lt; 10%)</cell>
+            <cell>Low to medium stress (10%-20%)</cell>
+            <cell>Medium high stress (20%-40%)</cell>
+            <cell>High stress (40%-80%)</cell>
+            <cell>Exstremely high stress (&gt; 80%)</cell>
+          </row>
+          <row type="cell">
+            <cell>Brazil; Honduras; Panama; Colombia; Suriname; Bolivia; Paraguay; Uruguay; Norway; Iceland; Belarus; Latvia; Austria; Slovenia; Slovakia; Croatia; Hungary; Romania; Serbia; Bosnia and Herzegovina; Montenegro; Mali; Senegal; Somalia; Malawi; Mauritania; Guinea-Bissau; Sierra Leone; Liberia; Ghana; Ivory Coast; Togo; Benin; Nigeria; Cameroon; Republic of the Congo; Equatorial Guinea; Democratic Republic of the Congo; Central African Republic; Sudan; Ethiopia; Zambia; Uganda; Rwanda; Burundi; Zimbabwe; Mozambique; Bangladesh; Bhutan; Myanmar; Laos; Taiwan; Papua New Guinea</cell>
+            <cell>Canada; Belize; Guatemala; Nicaragua; Costa Rica; Ecuador; Guyana; France; Netherlands; Germany; Switzerland; Sweden; Finland; Lithuania; Russia; Poland; Czech Republic; Moldova; Albania; Bulgaria; Georgia; Egypt; Gabon; Angola; Namibia; Botswana; Tanzania; Madagascar; Thailand; New Zealand.</cell>
+            <cell>United States; Haiti; Venezuela; Argentina; United Kingdom; Estonia; Ukraine; Macedonia; China; South Korea; Nepal; Malaysia.</cell>
+            <cell>Mexico; Cuba; Dominican Republic; Peru; Chile; Portugal; Spain; Belgium; Italy; Greece; Turkey; Armenia; Azerbaijan; Syria; Iraq; Algeria; Tunisia; Eritrea; South Africa; Swaziland; Tajikistan; India; Sri Lanka; Indonesia; Philippines; Japan; North Korea; Australia.</cell>
+            <cell>Morocco; Western Sahara; Libya; Lesotho; Israel; Lebanon; Jordan; Yemen; Somalia; Oman; United Arab Emirates; Iran; Kazakhstan; Uzbekistan; Kyrgyzstan; Turkmenistan; Afghanistan; Pakistan; Mongolia.</cell>
+          </row>
+        </table>
+
+        <chapter>
+          <title>Number of electric coal power plants</title>
+          <paragraph>The research, released on World Water Day, states that coal electric power plants in the world are 8.359.</paragraph>
+          <paragraph>89% of these are located in areas of high water stress and, in particular, 44% are existing plants, while 45% are planned ones.</paragraph>
+        </chapter>
+
+        <chapter>
+          <title>Coal fired power plants water comsumption</title>
+          <paragraph>Coal-fired power plants water consumption to 19 billion cubic metres per year is set to double.</paragraph>
+          <paragraph>A coal plant produces 19B cubic metres of water.</paragraph>
+        </chapter>
+
+        <keywords>
+          <keyword name="Global Warming" />
+          <keyword name="Renewables" />
+          <keyword name="Healthcare" />
+          <keyword name="Manufacturing" />
+          <keyword name="Investments" />
+          <keyword name="Global Corporations" />
+          <keyword name="Water" />
+          <keyword name="Construction" />
+          <keyword name="Mining" />
+          <keyword name="Commerce" />
+        </keywords>
+
+        <sources>
+          <source>theguardian.com</source>
+        </sources>
+      </section>
+
+    <section>
+      <title>Investment falls</title>
+      <chapter>
+        <title>Global coal and gas</title>
+        <paragraph>Global investment on coal and gas-fired power generation plants fell to less than half that in renewable energy generation last year, in a record year for clean energy.</paragraph>
+        <paragraph>For the first time new electric generating capacity renewable energy consists of a majority of renewables sources under development all over the world.</paragraph>
+        <paragraph>Besides the financial investment on the part of developing countries in renewables it exceeded that of the developed world.</paragraph>
+        <paragraph>China alone accounted for 36 % of the global total , as the country it hopes on clean energy as a means of combating air pollution.</paragraph>
+        <paragraph>Chinese investment rose 17% from 2014 to 2015, totalling $103 billion.</paragraph>
+      </chapter>
+
+      <graph unit="$B" x="date" y="number">
+        <title>Record year for renewables</title>
+        <abstract>Financial investments on renewables by developing countries exceed that of the developed world in 2015.</abstract>
+        <dataset label= "Investments">
+          <data x="2004" y="30" />
+          <data x="2005" y="75" />
+          <data x="2006" y="85" />
+          <data x="2007" y="150" />
+          <data x="2008" y="180" />
+          <data x="2009" y="160" />
+          <data x="2010" y="230" />
+          <data x="2011" y="290" />
+          <data x="2012" y="240" />
+          <data x="2013" y="225" />
+          <data x="2014" y="250" />
+          <data x="2015" y="280" />
+        </dataset>
+      </graph>
+
+      <keywords>
+        <keyword name="Global Warming" />
+        <keyword name="Renewables" />
+        <keyword name="Healthcare" />
+        <keyword name="Manufacturing" />
+        <keyword name="Investments" />
+        <keyword name="Global Corporations" />
+        <keyword name="Commerce" />
+        <keyword name="Natural Gas" />
+      </keywords>
+
+      <sources>
+        <source>theguardian.com</source>
+      </sources>
+    </section>
+
+    <section>
+      <title>Trade oil market</title>
+      <chapter>
+        <title>Rosneft sells stake in oil fields to indian companies amid debt, low oil prices</title>
+        <paragraph>Russia’s state-owned oil giant Rosneft signed agreements Wednesday to sell 49.9 percent stakes in two of its Siberian oil fields to four Indian state-run oil companies.</paragraph>
+        <paragraph>The deals could give over $4 billion to Rosneft, which, amid Western sanctions, is struggling to pay off debts following its $55 billion acquisition of the Russian TNK-BP oil company in 2013.</paragraph>
+        <paragraph>A consortium of three Indian companies — Oil India, Indian Oil and Bharat PetroResources, a subsidiary of Bharat Petroleum — signed an agreement with Rosneft to buy 23.9 percent stake in the Vankor oilfield for just over $2 billion, Press Trust of India news agency reported.</paragraph>
+        <paragraph> Another Indian firm, Oil and Natural Gas Corporation, signed an agreement with Rosneft to increase its stake in Vankor to 26 percent from the current 15 percent. According to PTI, the deal was valued at $925 million.</paragraph>
+     </chapter>
+
+     <table>
+       <row type="head">
+         <cell>The biggest oil consumers</cell>
+         <cell>Relative oil consumption in percentage</cell>
+       </row>
+
+       <row type="cell">
+         <cell>China</cell>
+         <cell>47%</cell>
+       </row>
+
+       <row type="cell">
+         <cell>United states</cell>
+         <cell>12%</cell>
+       </row>
+
+       <row type="cell">
+         <cell>India</cell>
+         <cell>8%</cell>
+       </row>
+
+       <row type="cell">
+         <cell>Japan</cell>
+         <cell>3%</cell>
+       </row>
+     </table>
+
+      <keywords>
+        <keyword name="Global Warming" />
+        <keyword name="Renewables" />
+        <keyword name="Healthcare" />
+        <keyword name="Manufacturing" />
+        <keyword name="Investments" />
+        <keyword name="Global Corporations" />
+        <keyword name="Commerce" />
+        <keyword name="Natural Gas" />
+        <keyword name="North America" />
+        <keyword name="Southern Asia" />
+        <keyword name="Southeastern Asia" />
+      </keywords>
+
+      <sources>
+        <source>ibtimes.com</source>
+      </sources>
+    </section>
+
+    <section>
+      <title>Job addicted to water source</title>
+      <chapter>
+        <title>78% of the world labor depends on water</title>
+        <paragraph>42% of world job places are closely connected to the water economy, the 95% in agricolture sector, the 30% in industry sector and the 10% in service sector.</paragraph>
+        <paragraph>The jobs that require the presence of water, but does not require large quantities, are mostly related to the industrial sector (60% of the sector tasks) and services (30%, on the total of all jobs in the tertiary work).</paragraph>
+        <paragraph>For each billion dollars invested to improve infrastructure for water and sanitation water conditions, would be created 100 thousand new jobs.</paragraph>
+        <paragraph>1.3 B jobs in the world are closely connected with what we might call the water economy.</paragraph>
+
+        <paragraph>
+        <list type="unordered">
+          <item>A Agricolture</item>
+          <item>B Industry</item>
+          <item>C Service sector</item>
+        </list>
+       </paragraph>
+
+     </chapter>
+
+
+     <graph unit="%" x="string" y="Percentage">
+       <title>Type of labor</title>
+       <abstract>Labor addicted to Water</abstract>
+       <dataset label= "Percentage">
+         <data x="A" y="60%"/>
+         <data x="B" y="30%"/>
+         <data x="C" y="10%"/>
+         </dataset>
+         </graph>
+
+     <keywords>
+       <keyword name="Global Warming" />
+       <keyword name="Employment" />
+       <keyword name="Renewables" />
+       <keyword name="Healthcare" />
+       <keyword name="Manufacturing" />
+       <keyword name="Investments" />
+       <keyword name="Commerce" />
+       <keyword name="Tourism" />
+       <keyword name="Agricolture" />
+       <keyword name="Trasportation" />
+       <keyword name="Water" />
+       <keyword name="Working class" />
+     </keywords>
+
+     <sources>
+       <source>unesco.org</source>
+     </sources>
+   </section>
+
+   <section>
+     <title>India</title>
+     <chapter>
+       <title>The day rural Hotasar finally saw the light</title>
+       <paragraph>In India 18,452 villages had not the electricity.</paragraph>
+       <paragraph>The past few months number has fallen to 12,100 under a flagship programme launched by the Indian prime minister, Narendra Modi.</paragraph>
+       <paragraph>The ministry of power has pressed on with Modi’s ambitious plan in 2011, showing that 75 million households in India were still living by candlelight.</paragraph>
+    </chapter>
+
+    <table>
+      <row type="head">
+        <cell>Year</cell>
+        <cell>Indian villages without electricity</cell>
+      </row>
+      <row type="cell">
+        <cell>2015</cell>
+        <cell>18.452</cell>
+      </row>
+      <row type="cell">
+        <cell>2016</cell>
+        <cell>12.000</cell>
+      </row>
+    </table>
+
+    <keywords>
+      <keyword name="Global Warming" />
+      <keyword name="Southern Asia" />
+      <keyword name="Agricolture" />
+      <keyword name="Investments" />
+      <keyword name="Renewables" />
+      <keyword name="Construction" />
+      <keyword name="Healthcare" />
+    </keywords>
+
+      <sources>
+        <source>theguardian.com</source>
+      </sources>
+    </section>
+  </sections>
+</bulletin>
+
+<bulletin id="5" date="20163103">                   <!--[1-N]-->
+<title>Focus on geothermal energy</title>
+
+<sections>                                                          <!--[ 1 ]-->
+  <section>
+    <title>Hystorical trend of geothermal energy</title>
+    <abstract>From 1995 to 2015 energy production doubles and according to provision it's going to reach 80.000 GW.</abstract>
+    <chapter>
+      <title>Geothermal power industry</title>
+      <paragraph>Geothermal power industry global in 2014 sustained a 5% growth rate for the third year in a row.</paragraph>
+      <paragraph>The world market reached upwards of 12.8 GW (gigawatts) of geothermal power operational throughout 24 countries.</paragraph>
+      <paragraph>The majority of this new capacity became operational in Turkey, Kenya, Indonesia, and the Philippines with a total of about 610 MW of new power brought online in 2014.</paragraph>
+      <paragraph>As of the end of 2014, there are also 11.5-12.3 GW of capacity additions in 80 countries and 630 projects.</paragraph>
+      <paragraph>Fourteen of those 80 countries are expected to bring 2 GW of power online over the next 3-4 years based on current construction. </paragraph>
+      <paragraph>Looking at projects in the pipeline, it is expected that the geothermal industry will continue to grow at a steady pace globally.</paragraph>
+      <paragraph>The longer development time frames of geothermal projects make them somewhat more immune to the booms and busts of the global energy space.</paragraph>
+    </chapter>
+
+    <table>
+      <row type="head">
+        <cell>Year</cell>
+        <cell>Hystorical event</cell>
+        <cell>Energy production (Mw)</cell>
+        <cell>Energy production (GWh)</cell>
+      </row>
+      <row type="cell">
+        <cell>1960</cell>
+        <cell>The country's first large-scale geothermal electricity-generating plant begins operation. Pacific Gas and Electric operates the plant, located at The Geysers.</cell>
+        <cell>2.000</cell>
+        <cell>3.000</cell>
+      </row>
+      <row type="cell">
+        <cell>1970</cell>
+        <cell>The Geothermal Resources Council is formed to encourage development of geothermal resources worldwide.</cell>
+        <cell>2.500</cell>
+        <cell>5.000</cell>
+      </row>
+      <row type="cell">
+        <cell>1980</cell>
+        <cell>Companies of Nevada are pioneers in the use of geothermal energy for cooking , distillation , and drying processes associated with the production of alcohol fuels.</cell>
+        <cell>3.500</cell>
+        <cell>8.000</cell>
+      </row>
+      <row type="cell">
+        <cell>2000</cell>
+        <cell>Department of the Environment creates two industry/government collaborative efforts to promote the use of geothermal energy to reduce greenhouse gas emissions.</cell>
+        <cell>10.000</cell>
+        <cell>28.000</cell>
+      </row>
+
+    <row type="cell">
+      <cell>2020</cell>
+      <cell>Forecast according to the present projects and technological developments.</cell>
+      <cell>22.700</cell>
+      <cell>70.000</cell>
+    </row>
+  </table>
+
+  <keywords>
+    <keyword name="Global Warming" />
+    <keyword name="North America" />
+    <keyword name="Investments" />
+    <keyword name="Global Corporation" />
+    <keyword name="Renewables" />
+    <keyword name="Manufacturing" />
+    <keyword name="Healthcare" />
+    <keyword name="Mining" />
+    <keyword name="Commerce" />
+  </keywords>
+
+  <sources>
+    <source>2015 Annual U.S and Global Geothermal Power Production Report, Geothermal energy association</source>
+  </sources>
+</section>
+
+  <section>
+    <title>Trade market</title>
+    <chapter>
+      <title>Global markets by company</title>
+      <paragraph>In general, the geothermal turbine market has several companies who provide equipment for higher temperature projects.</paragraph>
+      <paragraph>
+      <list type="unordered">
+        <item>A Tas Energy</item>
+        <item>B Alstom</item>
+        <item>C General Electric</item>
+        <item>D Toshiba</item>
+        <item>E Ansaldo/Tosi</item>
+        <item>F Fuji</item>
+        <item>G Other</item>
+        <item>H Mitsubishi</item>
+        <item>I Ormat</item>
+      </list>
+     </paragraph>
+    </chapter>
+
+    <graph unit="%" x="string" y="percentage">
+      <title>Percentage of global markets by company</title>
+      <abstract>Mitsubishi , Ormat and Fuji are major companies close to the geothermal sector.</abstract>
+      <dataset label= "Companies">
+        <data x="A" y="2" />
+        <data x="B" y="3" />
+        <data x="C" y="5" />
+        <data x="D" y="9" />
+        <data x="E" y="10" />
+        <data x="F" y="14" />
+        <data x="G" y="14" />
+        <data x="H" y="18" />
+        <data x="I" y="25" />
+      </dataset>
+    </graph>
+
+    <chapter>
+      <title>Geothermal developed projects by country</title>
+      <paragraph>Geothermal power has continued to heat up in Latin America and several countries have set national geothermal goals.</paragraph>
+      <paragraph>For example, El Salvador plans 40% of energy to come from geothermal power by 2020.</paragraph>
+      <paragraph>Mexico wants to get 35% of its energy from renewables including geothermal power.</paragraph>
+      <paragraph>Nicaragua plans to build another 100 MW in the next 15 years. Others such as Costa Rica and Guatemala have not set a specific geothermal goal but already have several plants under construction.</paragraph>
+      <paragraph>East Africa is another regional hotbed for activity.</paragraph>
+      <paragraph>Kenya, Rwanda, Ethiopia and Tanzania all have set geothermal power goals.</paragraph>
+      <paragraph>While not making the chart below, Ethiopia plans to have an additional 1,000 MW built by the early 2020s; the country’s Corbetti geothermal field, one of the largest in the world, is currently under development. Meanwhile Tanzania plans to build 180 MW over the next few years.</paragraph>
+      <paragraph>Overall if all countries follow through on their geothermal power goals the global industry could reach 27-30 GW by the early 2030s.</paragraph>
+    </chapter>
+
+    <table>
+      <row type="head">
+        <cell>Country</cell>
+        <cell>Number of projects</cell>
+      </row>
+
+      <row type="cell">
+        <cell>Mexico</cell>
+        <cell>85</cell>
+      </row>
+
+    <row type="cell">
+      <cell>United States</cell>
+      <cell>83</cell>
+    </row>
+
+  <row type="cell">
+    <cell>Indonesia</cell>
+    <cell>62</cell>
+  </row>
+
+  <row type="cell">
+    <cell>Chile</cell>
+    <cell>59</cell>
+  </row>
+
+  <row type="cell">
+    <cell>Turkey</cell>
+    <cell>59</cell>
+  </row>
+
+  <row type="cell">
+    <cell>Philippines</cell>
+    <cell>29</cell>
+  </row>
+
+  <row type="cell">
+    <cell>Kenya</cell>
+    <cell>22</cell>
+  </row>
+
+  <row type="cell">
+    <cell>Iceland</cell>
+    <cell>16</cell>
+  </row>
+
+  <row type="cell">
+    <cell>Ethiopia</cell>
+    <cell>10</cell>
+  </row>
+
+  <row type="cell">
+    <cell>New Zealand</cell>
+    <cell>5</cell>
+  </row>
+
+</table>
+
+    <keywords>
+      <keyword name="Global Warming" />
+      <keyword name="Investments" />
+      <keyword name="Global Corporation" />
+      <keyword name="Renewables" />
+      <keyword name="Manufacturing" />
+      <keyword name="Healthcare" />
+      <keyword name="Mining" />
+      <keyword name="Commerce" />
+      <keyword name="North America" />
+      <keyword name="Southeastern Asia" />
+      <keyword name="Northern Africa" />
+      <keyword name="Central Africa" />
+    </keywords>
+
+    <sources>
+      <source>2015 Annual U.S and Global Geothermal Power Production Report, Geothermal energy association.</source>
+    </sources>
+
+   </section>
+  </sections>
+ </bulletin>
+</bulletins>

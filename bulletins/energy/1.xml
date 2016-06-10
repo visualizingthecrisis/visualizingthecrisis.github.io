@@ -61,6 +61,7 @@
 
 
   <section>
+    <title>Nigeria and criminal gangs</title>
     <chapter>
      <title>Nigeria deploys troops to protect oil facilities</title>
      <paragraph>Nigeria is deploying more troops to protect oil installations to curb sabotage after a leak forced crude loadings to be suspended last month at a major export terminal.</paragraph>
@@ -78,6 +79,7 @@
 
 
   <section>
+    <title>Parallels between the collapse of the oil price and mortgages</title>
     <chapter>
       <title>The oil crash looks a lot like a subprime</title>
       <paragraph>The pattern of the decline in the price of oil that began in mid-2014 is remarkably similar to the 2007-2009 pattern of the price decline of ABX, the credit derivative index that referenced subprime mortgages and, ultimately, the U.S. housing market.</paragraph>
@@ -127,6 +129,7 @@
   </section>
 
   <section>
+   <title>Petroleos Mexicanos</title>
    <chapter>
      <title>Mexico oil giant posts record $32B loss</title>
      <paragraph>Petroleos Mexicanos also known as Pemex, announced not only its 13th consecutive quarterly loss amounting to $9.3 billion, 44% bigger than the previous year, as revenue tumbled by 28% to $15.8 billion, but also a gargantuan $32 billion annual loss and at the same time announced it would slash capex spending to preserve cash and optionality for a future which suddenly looks very bleak.</paragraph>
@@ -161,33 +164,44 @@
 
 
   <section>
+    <title>Coal reserves</title>
     <chapter>
       <title>Coal recoverable reserves by region</title>
       <paragraph>Coal is the most abundant of fossil fuels.</paragraph>
       <paragraph>It is available from a wide variety of mines distributed globally.</paragraph>
       <paragraph>It is used for electricity generation, but also in steel and aluminium production as well as in cement manufacture and as a liquid fuel.</paragraph>
       <paragraph>The introduction of various carbon management schemes, particularly carbon capture and storage (CCS), is vital to mitigate the impact of future coal use on the environment.</paragraph>
+      <paragraph>
+      <list type="unordered">
+        <item>A American Samoa</item>
+        <item>B Europe</item>
+        <item>C Namibia</item>
+        <item>D Afghanistan</item>
+        <item>E Saudi Arabia</item>
+      </list>
+     </paragraph>
     </chapter>
+
     <graph unit="%" x="Countinents" y="percentage">
       <title>Coal recoverable reserves by region</title>
       <abstract>Coal is available from a wide variety of mines distributed globally and it is used for electricity generation.</abstract>
       <dataset label= "Reserves by region per percentage">
-        <data x="AS" y="36.4" />
-        <data x="EU" y="30.8" />
-        <data x="NA" y="27.5" />
-        <data x="AF" y="3.5" />
-        <data x="SA" y="1.6" />
+        <data x="A" y="36.4" />
+        <data x="B" y="30.8" />
+        <data x="C" y="27.5" />
+        <data x="D" y="3.5" />
+        <data x="E" y="1.6" />
        </dataset>
       </graph>
     <graph unit="MToe" x="Countinents" y="number">
       <title>Reserves by region</title>
       <abstract>Global consumption of coal is growing and is expected to increase even more as developing countries expand their energy needs.</abstract>
       <dataset label= "Mtoe">
-        <data x="AS" y="150,000" />
-        <data x="EU" y="130,000" />
-        <data x="NA" y="116,000" />
-        <data x="AF" y="15,000" />
-        <data x="SA" y="6.95" />
+        <data x="A" y="150,000" />
+        <data x="B" y="130,000" />
+        <data x="C" y="116,000" />
+        <data x="D" y="15,000" />
+        <data x="E" y="6.95" />
       </dataset>
     </graph>
     <keywords>
@@ -238,34 +252,48 @@
       </dataset>
     </graph>
 
+    <chapter>
+      <paragraph>
+        <list type="unordered">
+          <item>A China</item>
+          <item>B United States</item>
+          <item>C India</item>
+          <item>D Brazil</item>
+          <item>E Mexico</item>
+          <item>F Chile</item>
+          <item>G South Africa</item>
+          <item>H Morocco</item>
+        </list>
+      </paragraph>
+    </chapter>
+
     <graph unit="%" x="Countries" y="percentage">
       <title>World investments in green energy by country</title>
       <abstract>China and USA are the biggest investitors in green energy.</abstract>
       <dataset label= "Investments in percentage">
-        <data x="CN" y="43" />
-        <data x="US" y="21.8" />
-        <data x="IN" y="4.1" />
-        <data x="BR" y="2.9" />
-        <data x="MX" y="1.6" />
-        <data x="CL" y="1.4" />
-        <data x="ZA" y="1.8" />
-        <data x="MA" y="0.8" />
+        <data x="A" y="43" />
+        <data x="B" y="21.8" />
+        <data x="C" y="4.1" />
+        <data x="D" y="2.9" />
+        <data x="E" y="1.6" />
+        <data x="F" y="1.4" />
+        <data x="G" y="1.8" />
+        <data x="H" y="0.8" />
       </dataset>
     </graph>
 
         <graph unit="$B" x="Countries" y="number">
           <title>World investments in green energy by country</title>
           <abstract>China and USA are the biggest investitors in green energy.</abstract>
-          <dataset label= "Investments in dollars by country">
-           <data x="CN" y="110.52" />
-           <data x="EU" y="58.51" />
-           <data x="US" y="56" />
-           <data x="IN" y="10.49" />
-           <data x="BR" y="7.47" />
-           <data x="MX" y="4.16" />
-           <data x="CL" y="3.5" />
-           <data x="ZA" y="4.52" />
-           <data x="MA" y="2.02" />
+          <dataset label= "Investments by country">
+           <data x="A" y="110.52" />
+           <data x="B" y="56" />
+           <data x="C" y="10.49" />
+           <data x="D" y="7.47" />
+           <data x="E" y="4.16" />
+           <data x="F" y="3.5" />
+           <data x="G" y="4.52" />
+           <data x="H" y="2.02" />
           </dataset>
         </graph>
 
@@ -288,8 +316,9 @@
 
 
 <section>
+  <title>Europe</title>
     <chapter>
-      <title>Wind top new power generation source in Europe</title>
+      <title>Wind top new power generation source</title>
       <paragraph>In 2015 12,800 MW of new wind power capacity was installed in the EU, an increase of 6.3% over 2014, and more than any other form of power generation, according to recent new figures from the European Wind Energy Association (EWEA).</paragraph>
       <paragraph>Wind power accounted for over 44% of total power capacity installations in the EU last year.</paragraph>
       <paragraph>€26.4 billion was invested in Europe in 2015 to finance wind energy development.</paragraph>
@@ -327,8 +356,9 @@
 
 
   <section>
+      <title>India<title>
         <chapter>
-          <title>Solar power generation capacity crosses 5,5000Mw in India</title>
+          <title>Solar power generation capacity crosses 5,5000Mw</title>
           <paragraph>The country's grid-connected solar power generation capacity has crossed the 5,000 MW mark today.</paragraph>
           <paragraph>It is envisaged to generate 60 GW ground mounted grid-connected solar power and 40 GW roof-top grid interactive solar power to meet the target.</paragraph>
           <paragraph>The ministry has also fixed year-wise targets to monitor the solar power generation in the country.</paragraph>
@@ -360,8 +390,8 @@
         </sources>
       </section>
 
-
       <section>
+          <title>Germany</title>
           <chapter>
             <title>Renewables take top share of German power supply in first</title>
             <paragraph>Germany for the first time got more electricity from renewables than any other source of energy.</paragraph>
@@ -372,7 +402,7 @@
           <graph unit="%" x="date" y="percentage">
             <title>Prevision of green energy</title>
             <abstract>Germany for the first time got blackberries electricity from renewables than any other source of energy.</abstract>
-            <dataset label= "Production capacity in Germany">
+            <dataset label= "Production capacity in Germany.">
               <data x="2015" y="27.7" />
               <data x="2035" y="60" />
             </dataset>

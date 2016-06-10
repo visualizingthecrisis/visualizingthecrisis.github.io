@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>					                        <!--[ 1 ]-->
+<bulletins>                                                            <!--[ 1 ]-->
+  <title>Non renewable and renewable energy</title>                                     <!--[ 1 ]-->
+  <subtitle>A look to the Future</subtitle>                             <!--[ 1 ]-->
+  <authors>                                                             <!--[ 1 ]-->
+    <author>Eleonora Di Bartolo</author>                                           <!--[1-N]-->
+    <author>Maria Tollot</author>
+    <author>Serena Montefiori</author>
+  </authors>
+
+  <bulletin id="6 NR" date="20160704">                   <!--[1-N]-->
+  <title>Nuclear</title>
+
+  <sections>                                                          <!--[ 1 ]-->
+    <section>
+      <title>Nuclear Security Summit</title>
+      <abstract>Fallout from the Nuclear Security Summit involves over 50 countries.</abstract>
+      <chapter>
+        <title>China and Russia</title>
+        <paragraph>The Nuclear Security Summit that just ended Friday in Washington, D.C. wrangled over several thorny nuclear proliferation and terrorism issues.</paragraph>
+        <paragraph>But the two countries on everyone’s mind were China and Russia. </paragraph>
+        <paragraph>China, because they have started on the world’s largest nuclear build-up in 50 years.</paragraph>
+        <paragraph>And Russia, because they decided not to attend at all.</paragraph>
+        <paragraph>Russia has the most nuclear weapons and nuclear materials in the world and they are a key player in the success of the Iran nuclear deal.</paragraph>
+        <paragraph>But Russia’s economy continues to deteriorate, leading to crumbling nuclear infrastructure and a lack of funding for nuclear scientists and inspectors.</paragraph>
+        <paragraph>there is no doubt that China is committed to help thwart nuclear terrorism and rogue states, and is serious about nuclear safety and security.</paragraph>
+
+        <paragraph>Summit goals:</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>Reduction of Global Nuclear weapons.</item>
+            <item>Reduction of Nuclear Materials Stocks.</item>
+            <item>Increase of security Against The Nuclear plants.</item>
+            <item>Protection of radioactive sources used in the Civil Sector.</item>
+            <item>Fight against international smuggling of nuclear material.</item>
+          </list>
+       </paragraph>
+
+       <paragraph>Countries in accordance with the objectives:</paragraph>
+       <paragraph>
+         <list type="unordered">
+           <item>Algeria</item>
+           <item>Argentina</item>
+           <item>Armenia</item>
+           <item>Australia</item>
+           <item>Azerbaijan</item>
+           <item>Belgium</item>
+           <item>Brazil</item>
+           <item>Canada</item>
+           <item>Chile</item>
+           <item>China</item>
+           <item>Czech Republic</item>
+           <item>Denmark</item>
+           <item>Egypt</item>
+           <item>Finland</item>
+           <item>France</item>
+           <item>Georgia</item>
+           <item>Germany</item>
+           <item>Hungary</item>
+           <item>India</item>
+           <item>Indonesia</item>
+           <item>Israel</item>
+           <item>Italy</item>
+           <item>Japan</item>
+           <item>Kazakhstan</item>
+           <item>Jordan</item>
+           <item>South Korea</item>
+           <item>Lithuania</item>
+           <item>Malaysia</item>
+           <item>Mexico</item>
+           <item>Morocco</item>
+           <item>Netherlands</item>
+           <item>New Zealand</item>
+           <item>Niger</item>
+           <item>Norway</item>
+           <item>Pakistan</item>
+           <item>Philippines</item>
+           <item>Poland</item>
+           <item>Romania</item>
+           <item>Saudi Arabia</item>
+           <item>Seychelles</item>
+           <item>South Africa</item>
+           <item>Spain</item>
+           <item>Sweden</item>
+           <item>Switzerland</item>
+           <item>Thailand</item>
+           <item>Ukraine</item>
+           <item>United Arab Emirates</item>
+           <item>United Kingdom</item>
+           <item>United States</item>
+           <item>Vietnam</item>
+           <item>Russia</item>
+           <item>Turkey</item>
+           <item>Iran</item>
+           <item>Tajikistan</item>
+           <item>Democratic Republic of the Congo</item>
+           <item>Sudan</item>
+           <item>Mozambique</item>
+           <item>Ethiopia</item>
+           <item>Nigeria</item>
+           <item>Paraguay</item>
+           <item>Argentina</item>
+           <item>Chile</item>
+           <item>Colombia</item>
+           <item>Venezuela</item>
+           <item>Guatemala</item>
+           <item>Panama</item>
+           <item>Costa Rica</item>
+        </list>
+  </paragraph>
+    </chapter>
+
+    <keywords>
+      <keyword name="Terrorism" />
+      <keyword name="Global Warming" />
+      <keyword name="Investments" />
+      <keyword name="Manufacturing" />
+      <keyword name="Construction" />
+      <keyword name="Healthcare" />
+      <keyword name="Commerce" />
+      <keyword name="Global Corporations" />
+      <keyword name="South America" />
+      <keyword name="North America" />
+      <keyword name="Eastern Europe" />
+      <keyword name="Western Europe" />
+      <keyword name="Northern Africa" />
+      <keyword name="Central Africa" />
+      <keyword name="Southern Africa" />
+      <keyword name="Middle East and Western Asia" />
+      <keyword name="Central and Eastern Asia" />
+      <keyword name="Southern Asia" />
+      <keyword name="Southeastern Asia" />
+    </keywords>
+
+      <sources>
+        <source>www.forbes.com</source>
+      </sources>
+  </section>
+
+  <section>
+    <title>Weapons composed with nuclear materials</title>
+    <chapter>
+      <title>History of states eliminating weapons-usable nuclear materials</title>
+      <paragraph>Efforts to eliminate all weapons-usable nuclear material began in 1992 when the United Nations Special Commission removed all HEU from Iraq after the Gulf War.</paragraph>
+      <paragraph>This chart was updated in March 2016, when Switzerland removed its remaining weapons-usable nuclear materials.</paragraph>
+
+      <paragraph>
+      <list type="unordered">
+        <item>A 1991 Iraq</item>
+        <item>B 1992 Iraq</item>
+        <item>C 1996 Colombia</item>
+        <item>D 1997 Spain</item>
+        <item>E 1998 Denmark and Georgia</item>
+        <item>F 1999 Brazil/Philippins/Slovenia/Thailandia</item>
+        <item>G 2005 Greece</item>
+        <item>H 2007 South Corea</item>
+        <item>I 2008 Bulgaria/Latvia/Portugal</item>
+        <item>J 2009 Libya/Romania/Taiwan</item>
+        <item>K 2010 Chile/Serbia/Turkey</item>
+        <item>L 2012 Austria/Mexico/Turkey</item>
+        <item>M 2013 Czech Republic/Hungary/Vietnam</item>
+        <item>O 2015 Uzbekistan</item>
+      </list>
+     </paragraph>
+
+    </chapter>
+
+    <graph unit="%" x="String" y="Percentage">
+      <title>Trend elimination of weapons usable nuclear materials by country</title>
+      <abstract>From 1991 to 2015 more and more countries have eliminated nuclear weapons.</abstract>
+      <dataset label= "Elimination of nuclear weapons materials">
+      <data x="A" y="9.45"/>
+      <data x="B" y="9.27"/>
+      <data x="C" y="9.09"/>
+      <data x="D" y="8.73"/>
+      <data x="E" y="8.36"/>
+      <data x="F" y="7.64"/>
+      <data x="G" y="7.45"/>
+      <data x="H" y="7.27"/>
+      <data x="I" y="6.91"/>
+      <data x="J" y="6.36"/>
+      <data x="K" y="5.82"/>
+      <data x="L" y="4.73"/>
+      <data x="M" y="4.55"/>
+      <data x="O" y="4.36"/>
+      </dataset>
+    </graph>
+
+    <keywords>
+      <keyword name="Terrorism" />
+      <keyword name="Global Warming" />
+      <keyword name="Investments" />
+      <keyword name="Manufacturing" />
+      <keyword name="Construction" />
+      <keyword name="Healthcare" />
+      <keyword name="Commerce" />
+      <keyword name="Global Corporations" />
+      <keyword name="Middle East and Western Asia" />
+      <keyword name="South America" />
+      <keyword name="Southern Asia" />
+      <keyword name="Middle East and Western Asia" />
+      <keyword name="Western Europe" />
+      <keyword name="Western Europe" />
+      <keyword name="Eastern Europe" />
+      <keyword name="Central Africa" />
+      <keyword name="South Africa" />
+    </keywords>
+
+    <sources>
+      <source>ntiindex.org</source>
+    </sources>
+  </section>
+
+  <section>
+    <title>Nuclear weapons</title>
+    <chapter>
+      <title>World stockpiles</title>
+      <paragraph>Nine countries in the world possess a total of 15,695 nuclear weapons.</paragraph>
+      <paragraph>The United States and Russia account for 93 percent of them.</paragraph>
+      <paragraph>Since their peak in the mid-1980’s, global arsenals have shrunk by over two-thirds.</paragraph>
+    </chapter>
+
+    <table>
+      <row type="head">
+        <cell>Country</cell>
+        <cell>Number of nuclear weapons</cell>
+      </row>
+      <row type="cell">
+        <cell>Russia</cell>
+        <cell>7300</cell>
+      </row>
+      <row type="cell">
+        <cell>United States</cell>
+        <cell>6970</cell>
+      </row>
+      <row type="cell">
+        <cell>France</cell>
+        <cell>300</cell>
+      </row>
+      <row type="cell">
+        <cell>China</cell>
+        <cell>260</cell>
+      </row>
+      <row type="cell">
+        <cell>United Kingdom</cell>
+        <cell>215</cell>
+      </row>
+      <row type="cell">
+        <cell>Pakistan</cell>
+        <cell>130</cell>
+      </row>
+      <row type="cell">
+        <cell>India</cell>
+        <cell>120</cell>
+      </row>
+      <row type="cell">
+        <cell>Israel</cell>
+        <cell>80</cell>
+      </row>
+    </table>
+
+    <keywords>
+      <keyword name="Terrorism" />
+      <keyword name="Global Warming" />
+      <keyword name="Investments" />
+      <keyword name="Manufacturing" />
+      <keyword name="Construction" />
+      <keyword name="Healthcare" />
+      <keyword name="Commerce" />
+      <keyword name="Global Corporations" />
+      <keyword name="Eastern Europe" />
+      <keyword name="Western Europe" />
+      <keyword name="North America" />
+      <keyword name="Middle East and Western Asia" />
+      <keyword name="Central and Eastern Asia" />
+      <keyword name="Middle East and Western Asia" />
+   </keywords>
+
+   <sources>
+     <source>ploughshares.org</source>
+   </sources>
+  </section>
+
+  <section>
+    <title>Fissile materials</title>
+    <chapter>
+      <title>The stocks</title>
+      <paragraph>The global inventory of highly enriched uranium (HEU) is estimated to be about 1370 ± 125 tonnes as of the end of 2014.</paragraph>
+      <paragraph>The global stockpile of separated plutonium as of the end of 2014 is estimated as 506 ± 10 tonnes, of which about 272 tonnes is the material in civilian custod.</paragraph>
+
+      <paragraph>
+      <list type="unordered">
+        <item>A Russia</item>
+        <item>B United States</item>
+        <item>C France</item>
+        <item>D China</item>
+        <item>E United Kingdom</item>
+        <item>F India</item>
+        <item>G Israel</item>
+        <item>H Others</item>
+      </list>
+     </paragraph>
+
+    </chapter>
+
+    <graph unit="%" x="Country" y="Percentage">
+      <title>The global inventory of highly enriched uranium (HEU)</title>
+      <abstract>Fissile material stocks</abstract>
+      <dataset label= "Fissile material stocks">
+        <data x="A" y="49.73"/>
+        <data x="B" y="43.87"/>
+        <data x="C" y="2.20"/>
+        <data x="D" y="1.32"/>
+        <data x="E" y="1.54"/>
+        <data x="F" y="0.22"/>
+        <data x="G" y="0.02"/>
+        <data x="H" y="1.10"/>
+      </dataset>
+    </graph>
+
+  <keywords>
+    <keyword name="Global Warming" />
+    <keyword name="Investments" />
+    <keyword name="Manufacturing" />
+    <keyword name="Construction" />
+    <keyword name="Healthcare" />
+    <keyword name="Commerce" />
+    <keyword name="Global Corporations" />
+    <keyword name="Eastern Europe" />
+    <keyword name="Western Europe" />
+    <keyword name="North America" />
+    <keyword name="Middle East and Western Asia" />
+    <keyword name="Central and Eastern Asia" />
+  </keywords>
+
+    <sources>
+     <source>fissilematerials.org</source>
+    </sources>
+    </section>
+   </sections>
+  </bulletin>
+
+  <bulletin id="6 R" date="20160704">                   <!--[1-N]-->
+  <title>Hydropower energy</title>
+
+  <sections>                                                          <!--[ 1 ]-->
+    <section>
+      <title>2015 Hydropower world installation by continent and country</title>
+      <abstract>Hydropower is becoming an important resource for more and more countries.</abstract>
+      <chapter>
+        <title>Continents and countries</title>
+        <paragraph>Hydroelectricity is the term referring to electricity generated by hydropower; the production of electrical power through the use of the gravitational force of falling or flowing water.</paragraph>
+        <paragraph>It is the most widely used form of renewable energy, accounting for 16 percent of global electricity generation 3,427 terawatt-hours of electricity production in 2010 and is expected to increase about 3.1% each year for the next 25 years.</paragraph>
+      </chapter>
+
+      <table>
+        <row type="head">
+          <cell>Europe</cell>
+          <cell>Electricity generated by hydropower</cell>
+        </row>
+        <row type="cell">
+          <cell>Norway</cell>
+          <cell>28,718 Mw</cell>
+        </row>
+        <row type="cell">
+          <cell>France</cell>
+          <cell>18,382 Mw</cell>
+        </row>
+        <row type="cell">
+          <cell>Sweden</cell>
+          <cell>16,315 Mw</cell>
+        </row>
+        <row type="cell">
+          <cell>Italy</cell>
+          <cell>14,325 Mw</cell>
+        </row>
+        <row type="cell">
+          <cell>Switzerland</cell>
+          <cell>13,790 Mw</cell>
+        </row>
+        <row type="cell">
+          <cell>Spain</cell>
+          <cell>13,293 Mw</cell>
+        </row>
+        </table>
+
+        <table>
+          <row type="head">
+            <cell>East Asia and Pacific</cell>
+            <cell>Electricity generated by hydropower</cell>
+          </row>
+          <row type="cell">
+            <cell>China</cell>
+            <cell>299,250 Mw</cell>
+          </row>
+          <row type="cell">
+            <cell>Japan</cell>
+            <cell>22,262 Mw</cell>
+          </row>
+          <row type="cell">
+            <cell>Vietnam</cell>
+            <cell> 14,181 Mw</cell>
+          </row>
+          <row type="cell">
+            <cell>Australia</cell>
+            <cell>8,050 Mw</cell>
+          </row>
+          <row type="cell">
+            <cell>Indonesia</cell>
+            <cell>5,258Mw</cell>
+          </row>
+          <row type="cell">
+            <cell>New Zealand</cell>
+            <cell>5,254 Mw</cell>
+          </row>
+          </table>
+
+          <table>
+            <row type="head">
+              <cell>South and Central Asia</cell>
+              <cell>Electricity generated by hydropower</cell>
+            </row>
+            <row type="cell">
+              <cell>Russia</cell>
+              <cell>49,218 Mw</cell>
+            </row>
+            <row type="cell">
+              <cell>Indonesia</cell>
+              <cell>44,799 Mw</cell>
+            </row>
+            <row type="cell">
+              <cell>Turkey</cell>
+              <cell>23,661 Mw</cell>
+            </row>
+            <row type="cell">
+              <cell>Iran</cell>
+              <cell>10,156 Mw</cell>
+            </row>
+            <row type="cell">
+              <cell>Pakistan</cell>
+              <cell>17,264Mw</cell>
+            </row>
+            <row type="cell">
+              <cell>Tajikistan</cell>
+              <cell>4,843Mw</cell>
+            </row>
+            </table>
+
+            <table>
+              <row type="head">
+                <cell>North and Central America</cell>
+                <cell>Electricity generated by hydropower</cell>
+              </row>
+              <row type="cell">
+                <cell>United States</cell>
+                <cell>79,270 Mw</cell>
+              </row>
+              <row type="cell">
+                <cell>Canada</cell>
+                <cell>77,558 Mw</cell>
+              </row>
+              <row type="cell">
+                <cell>Mexico</cell>
+                <cell>12,410 Mw</cell>
+              </row>
+              <row type="cell">
+                <cell>Panama</cell>
+                <cell>1,622 Mw</cell>
+              </row>
+              <row type="cell">
+                <cell>Guatemala</cell>
+                <cell>991Mw</cell>
+              </row>
+              </table>
+
+              <table>
+                <row type="head">
+                  <cell>Africa</cell>
+                  <cell>Electricity generated by hydropower</cell>
+                </row>
+                <row type="cell">
+                  <cell>Democratic Republic of the Congo</cell>
+                  <cell>17,558 Mw</cell>
+                </row>
+                <row type="cell">
+                  <cell>Egypt</cell>
+                  <cell>2,800 Mw</cell>
+                </row>
+                <row type="cell">
+                  <cell>Sudan</cell>
+                  <cell>2,250 Mw</cell>
+                </row>
+                <row type="cell">
+                  <cell>Mozambique</cell>
+                  <cell>2,178 Mw</cell>
+                </row>
+                <row type="cell">
+                  <cell>Ethiopia</cell>
+                  <cell>2,178Mw</cell>
+                </row>
+                <row type="cell">
+                  <cell>Niger</cell>
+                  <cell>2,040Mw</cell>
+                </row>
+              </table>
+
+              <chapter>
+                <title>Estimated renewables energyshare of global electricity production</title>
+                <paragraph>In 2015 green energies represent 22.8% of total production of energy.</paragraph>
+                <paragraph>Hydropower produces the 16.6% of the world energy. It is the mayor source of green energy.</paragraph>
+                <paragraph>Other values are: Wind (3.1%), Biofossil (1.8%), Solar (0.9%), Geothermal (0,4%).</paragraph>
+              </chapter>
+
+              <keywords>
+                <keyword name="Global Warming" />
+                <keyword name="Investments" />
+                <keyword name="Global Corporation" />
+                <keyword name="Renewables" />
+                <keyword name="Water" />
+                <keyword name="Manufacturing" />
+                <keyword name="Healthcare" />
+                <keyword name="Mining" />
+                <keyword name="Commerce" />
+                <keyword name="Eastern Europe" />
+                <keyword name="Western Europe" />
+                <keyword name="Central and Eastern Asia" />
+                <keyword name="Middle East and Western Asia" />
+                <keyword name="North America" />
+                <keyword name="Southern Asia" />
+                <keyword name="Southeastern Asia" />
+                <keyword name="Northern Africa" />
+                <keyword name="Southern Africa" />
+                <keyword name="Central Africa" />
+              </keywords>
+
+              <sources>
+                <source>Renewableenergyworld.com</source>
+              </sources>
+            </section>
+         </sections>
+      </bulletin>
+    </bulletins>

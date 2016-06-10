@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>					                        <!--[ 1 ]-->
+<bulletins>                                                            <!--[ 1 ]-->
+  <title>Non renewable and renewable energy</title>                                     <!--[ 1 ]-->
+  <subtitle>A look to the Future</subtitle>                             <!--[ 1 ]-->
+  <authors>                                                             <!--[ 1 ]-->
+    <author>Eleonora Di Bartolo</author>                                           <!--[1-N]-->
+    <author>Maria Tollot</author>
+    <author>Serena Montefiori</author>
+  </authors>
+
+  <bulletin id="3 RN" date="20161703">                   <!--[1-N]-->
+  <title>The energy policy of Japan and other countries 5 years after Fukushima</title>
+
+  <sections>                                                          <!--[ 1 ]-->
+    <section>
+      <title>Divergence in  policy between USA and Japan</title>
+      <abstract>							                                        <!--[0-1]-->
+        Despite coal is a non renewable energy, countries as Japan invests on it because of its low cost.</abstract>
+      <chapter>
+        <title>Barack Obama and Japan</title>
+        <paragraph>A bigger concern is Japan’s growing role in keeping alive an energy source that President Barack Obama and Japan’s allies elsewhere have been fighting to bury: coal.</paragraph>
+        <paragraph>A recent trip to Tokyo, Nagoya and Yokohama by POLITICO found that Japanese utilities are in the midst of replacing many of their aging coal power units with more efficient new ones, a decision that locks in carbon dioxide emissions for decades.</paragraph>
+        <paragraph>The fact that encoureage some countries to invest on coal is its low cost.</paragraph>
+      </chapter>
+
+        <graph unit="$" x="number" y="date">
+            <title>Chinese market (Shangai)</title>
+            <abstract>Investment on coal, oil and nuclear.</abstract>
+            <dataset label= "Chinese coal stock market: 600188 CH">
+              <data x="0.00" y="20160703"/>
+              <data x="5.00" y="20160803"/>
+              <data x="9.80" y="20160903"/>
+              <data x="19.800" y="20161003"/>
+              <data x="30.000" y="20161103"/>
+              <data x="35.400" y="20161203"/>
+              <data x="32.625" y="20161303"/>
+            </dataset>
+            <dataset label= "Chinese oil stock market: 600028 CH">
+             <data x="0.00" y="20160703"/>
+             <data x="6.65" y="20160803"/>
+             <data x="9.68" y="20160903"/>
+             <data x="8.35" y="20161003"/>
+             <data x="0.57" y="20161103"/>
+             <data x="10.00" y="20161203"/>
+             <data x="10.23" y="20161303"/>
+            </dataset>
+            <dataset label= "Chinese nuclear stock market: 601985 CH">
+             <data x="0.00" y="20160703"/>
+             <data x="6.65" y="20160803"/>
+             <data x="9.68" y="20160903"/>
+             <data x="0.06" y="20161003"/>
+             <data x="-4.56" y="20161103"/>
+             <data x="4.89" y="20161203"/>
+             <data x="5.54" y="20161303"/>
+            </dataset>
+        </graph>
+
+      <graph unit="$" x="number" y="date">
+        <title>Japanese market (Tokio)</title>
+        <abstract>Investment on coal, oil and gas.</abstract>
+        <dataset label= "Japanese energy stock market: 1945 JP">
+          <data x="0.00" y="20160703"/>
+          <data x="0.00" y="20160803"/>
+          <data x="-10.00" y="20160903"/>
+          <data x="-6.55" y="20161003"/>
+          <data x="-2.25" y="20161103"/>
+          <data x="-1.62" y="20161203"/>
+          <data x="-8.65" y="20161303"/>
+       </dataset>
+
+       <dataset label= "Japanese oil stock market: 5008 JP">
+         <data x="2.51" y="20160703"/>
+         <data x="1.51" y="20160803"/>
+         <data x="-8.66" y="20160903"/>
+         <data x="-8.63" y="20161003"/>
+         <data x="-2.25" y="20161103"/>
+         <data x="-1.54" y="20161203"/>
+         <data x="-10.65" y="20161303"/>
+      </dataset>
+
+      <dataset label= "Japanese coal, oil, gas stock market: 8001 JP">
+        <data x="3.55" y="20160703"/>
+        <data x="3.65" y="20160803"/>
+        <data x="-2.47" y="20160903"/>
+        <data x="-8.68" y="20161003"/>
+        <data x="-12.83" y="20161103"/>
+        <data x="-9.66" y="20161203"/>
+        <data x="-10.00" y="20161303"/>
+      </dataset>
+    </graph>
+
+      <graph unit="$" x="number" y="date">
+        <title>American market</title>
+        <abstract>Investment on coal and crude oil.</abstract>
+        <dataset label= "American coal stock market: ACIIQ US">
+          <data x="-10.00" y="20160703"/>
+          <data x="-17.55" y="20160803"/>
+          <data x="-17.55" y="20160903"/>
+          <data x="-8.56" y="20161003"/>
+          <data x="-9.00" y="20161103"/>
+          <data x="-9.55" y="20161203"/>
+          <data x="-21.58" y="20161303"/>
+       </dataset>
+       <dataset label= "American crude oil stock market: ACIIQ US">
+         <data x="0.00" y="20160703"/>
+         <data x="3.95" y="20160803"/>
+         <data x="10.00" y="20160903"/>
+         <data x="12.70" y="20161003"/>
+         <data x="17.96" y="20161103"/>
+         <data x="25.63" y="20161203"/>
+         <data x="30.00" y="20161303"/>
+       </dataset>
+    </graph>
+
+    <quote>
+      <author>Nishimura</author>
+      <role>Former government climate negotiator and senior fellow at the Japan Institute of International Affairs.</role>
+      <text>"Today, we’re talking about decarbonization. We must phase out our emissions. So even with the best technology, which will emit the least amount of CO2."</text>
+      <sources>
+        <source>politico.com</source>
+      </sources>
+    </quote>
+
+    <keywords>
+      <keyword name="Healthcare" />
+      <keyword name="North America" />
+      <keyword name="Mining" />
+      <keyword name="Oil" />
+    </keywords>
+
+    <sources>
+      <source>serc.carleton.edu</source>
+    </sources>
+  </section>
+
+    <section>
+      <title>Fukushima’s nuclear disaster</title>
+      <chapter>
+        <title>The legacy</title>
+        <paragraph>On Friday 11 March 2011 Japan is hit by an earthquake of magnitude 9.0 at 2.46 pm and invested by a large tsunami.</paragraph>
+        <paragraph>Eleven reactors at four nuclear power plants in the region were operating at the time and all shut down automatically when the quake hit.</paragraph>
+        <paragraph>A hardened emergency response centre on site was unable to be used in grappling with the situation, due to radioactive contamination.</paragraph>
+        <paragraph>There have been no deaths or cases of radiation sickness from the nuclear accident, but over 100,000 people were evacuated from their homes to ensure this.</paragraph>
+        <paragraph>Government nervousness delays the return of many.</paragraph>
+        <paragraph>Official figures show that there have been well over 1000 deaths from maintaining the evacuation, in contrast to little risk from radiation if early return had been allowed.</paragraph>
+        <paragraph>After the Fukushima’s disaster Japan, and other country in all the world continue to invest in nuclear power.</paragraph>
+      </chapter>
+        <graph unit="%" x="date" y="percentage">
+          <title>Energy power in Japan</title>
+          <abstract>Percentual share of energy power in Japan.</abstract>
+          <dataset label= "Coal">
+            <data x="1990" y="14"/>
+            <data x="1991" y="14"/>
+            <data x="1992" y="15"/>
+            <data x="1993" y="16"/>
+            <data x="1994" y="17"/>
+            <data x="1995" y="18"/>
+            <data x="1996" y="18"/>
+            <data x="1997" y="18"/>
+            <data x="1998" y="18"/>
+            <data x="1999" y="20"/>
+            <data x="2000" y="21"/>
+            <data x="2001" y="23"/>
+            <data x="2002" y="25"/>
+            <data x="2003" y="27"/>
+            <data x="2004" y="27"/>
+            <data x="2005" y="29"/>
+            <data x="2006" y="27"/>
+            <data x="2007" y="29"/>
+            <data x="2008" y="28"/>
+            <data x="2009" y="27"/>
+            <data x="2010" y="27"/>
+            <data x="2011" y="27"/>
+            <data x="2012" y="30"/>
+            <data x="2013" y="32"/>
+          </dataset>
+
+          <dataset label= "Nuclear">
+            <data x="1990" y="28"/>
+            <data x="1991" y="28"/>
+            <data x="1992" y="30"/>
+            <data x="1993" y="31"/>
+            <data x="1994" y="32"/>
+            <data x="1995" y="33"/>
+            <data x="1996" y="34"/>
+            <data x="1997" y="36"/>
+            <data x="1998" y="36"/>
+            <data x="1999" y="31"/>
+            <data x="2000" y="31"/>
+            <data x="2001" y="31"/>
+            <data x="2002" y="28"/>
+            <data x="2003" y="23"/>
+            <data x="2004" y="27"/>
+            <data x="2005" y="28"/>
+            <data x="2006" y="29"/>
+            <data x="2007" y="25"/>
+            <data x="2008" y="25"/>
+            <data x="2009" y="27"/>
+            <data x="2010" y="26"/>
+            <data x="2011" y="10"/>
+            <data x="2012" y="3"/>
+            <data x="2013" y="2"/>
+          </dataset>
+
+          <dataset label= "Oil">
+            <data x="1990" y="18"/>
+            <data x="1991" y="17"/>
+            <data x="1992" y="18"/>
+            <data x="1993" y="17"/>
+            <data x="1994" y="17"/>
+            <data x="1995" y="16"/>
+            <data x="1996" y="12"/>
+            <data x="1997" y="12"/>
+            <data x="1998" y="10"/>
+            <data x="1999" y="10"/>
+            <data x="2000" y="9"/>
+            <data x="2001" y="8"/>
+            <data x="2002" y="9"/>
+            <data x="2003" y="10"/>
+            <data x="2004" y="8"/>
+            <data x="2005" y="9"/>
+            <data x="2006" y="7"/>
+            <data x="2007" y="8"/>
+            <data x="2008" y="8"/>
+            <data x="2009" y="6"/>
+            <data x="2010" y="6"/>
+            <data x="2011" y="9"/>
+            <data x="2012" y="12"/>
+            <data x="2013" y="10"/>
+          </dataset>
+
+          <dataset label= "Renewables">
+            <data x="1990" y="2"/>
+            <data x="1991" y="2"/>
+            <data x="1992" y="2"/>
+            <data x="1993" y="2"/>
+            <data x="1994" y="2"/>
+            <data x="1995" y="2"/>
+            <data x="1996" y="2"/>
+            <data x="1997" y="2"/>
+            <data x="1998" y="2"/>
+            <data x="1999" y="3"/>
+            <data x="2000" y="3"/>
+            <data x="2001" y="3"/>
+            <data x="2002" y="3"/>
+            <data x="2003" y="3"/>
+            <data x="2004" y="2"/>
+            <data x="2005" y="4"/>
+            <data x="2006" y="4"/>
+            <data x="2007" y="4"/>
+            <data x="2008" y="4"/>
+            <data x="2009" y="3"/>
+            <data x="2010" y="5"/>
+            <data x="2011" y="5"/>
+            <data x="2012" y="5"/>
+            <data x="2013" y="6"/>
+          </dataset>
+
+          <dataset label= "Hydropower">
+            <data x="1990" y="11"/>
+            <data x="1991" y="11"/>
+            <data x="1992" y="9"/>
+            <data x="1993" y="10"/>
+            <data x="1994" y="8"/>
+            <data x="1995" y="9"/>
+            <data x="1996" y="9"/>
+            <data x="1997" y="9"/>
+            <data x="1998" y="9"/>
+            <data x="1999" y="8"/>
+            <data x="2000" y="8"/>
+            <data x="2001" y="9"/>
+            <data x="2002" y="8"/>
+            <data x="2003" y="10"/>
+            <data x="2004" y="10"/>
+            <data x="2005" y="7"/>
+            <data x="2006" y="8"/>
+            <data x="2007" y="7"/>
+            <data x="2008" y="7"/>
+            <data x="2009" y="7"/>
+            <data x="2010" y="8"/>
+            <data x="2011" y="8"/>
+            <data x="2012" y="8"/>
+            <data x="2013" y="8"/>
+          </dataset>
+
+          <dataset label= "Natural gas">
+            <data x="1990" y="27"/>
+            <data x="1991" y="30"/>
+            <data x="1992" y="26"/>
+            <data x="1993" y="24"/>
+            <data x="1994" y="23"/>
+            <data x="1995" y="24"/>
+            <data x="1996" y="25"/>
+            <data x="1997" y="23"/>
+            <data x="1998" y="25"/>
+            <data x="1999" y="28"/>
+            <data x="2000" y="28"/>
+            <data x="2001" y="26"/>
+            <data x="2002" y="27"/>
+            <data x="2003" y="27"/>
+            <data x="2004" y="26"/>
+            <data x="2005" y="23"/>
+            <data x="2006" y="25"/>
+            <data x="2007" y="27"/>
+            <data x="2008" y="28"/>
+            <data x="2009" y="30"/>
+            <data x="2010" y="28"/>
+            <data x="2011" y="41"/>
+            <data x="2012" y="42"/>
+            <data x="2013" y="42"/>
+          </dataset>
+        </graph>
+
+        <chapter>
+          <paragraph>
+          <list type="unordered">
+            <item>A coal</item>
+            <item>B nuclear</item>
+            <item>C oil</item>
+            <item>D renewables</item>
+            <item>E natural gas</item>
+          </list>
+         </paragraph>
+        </chapter>
+
+        <graph unit="%" x="string" y="percentage">
+          <title>Japan’s proposed energetic power by 2030</title>
+          <abstract>Percentuage of energetic power by 2030.</abstract>
+          <dataset label= "Energy power">
+            <data x="A" y="26"/>
+            <data x="B" y="20"/>
+            <data x="C" y="3"/>
+            <data x="D" y="24"/>
+            <data x="E" y="27"/>
+          </dataset>
+        </graph>
+
+          <chapter>
+            <title>Nuclear reactors in the world</title>
+            <paragraph>Operative reactors:</paragraph>
+            <paragraph>
+                <list type="ordered">
+                  <item>North America 118</item>
+                  <item>Western Europe 115</item>
+                  <item>Eastern Asia 105</item>
+                  <item>Eastern Europe 70</item>
+                  <item>Southern Asia 25</item>
+                  <item>Latin America 7</item>
+                  <item>Africa 2</item>
+              </list>
+            </paragraph>
+
+            <paragraph>Under construction reactors:</paragraph>
+            <paragraph>
+                <list type="ordered">
+                  <item>North America 5</item>
+                  <item>Western Europe 2</item>
+                  <item>Eastern Asia 31</item>
+                  <item>Eastern Europe 14</item>
+                  <item>Southern Asia 12</item>
+                  <item>Latin America 2</item>
+                  <item>Africa 0</item>
+              </list>
+            </paragraph>
+          </chapter>
+
+      <keywords>
+        <keyword name="Healthcare" />
+        <keyword name="Construction" />
+        <keyword name="Manufacturing" />
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="North America" />
+        <keyword name="Western Europe" />
+        <keyword name="Eastern Asia" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Southern Asia" />
+        <keyword name="Latin America" />
+        <keyword name="Global Warming" />
+        <keyword name="Investments" />
+        <keyword name="Oil" />
+        <keyword name="Natural Gas" />
+      </keywords>
+
+      <sources>
+        <source>resilience.org</source>
+      </sources>
+
+    </section>
+   </sections>
+  </bulletin>
+
+  <bulletin id="3" date="20161703">                   <!--[1-N]-->
+  <title>Global greenhouse gas emissions</title>
+
+  <sections>                                                          <!--[ 1 ]-->
+    <section>
+      <title>Trend in global greenhouse gas emissions</title>
+      <abstract> A lot of greenhouse emissions come from human activities.</abstract>
+      <chapter>
+        <title>Greenhouse emissions by economic sector</title>
+        <paragraph>Global greenhouse gas emissions can also be broken down by the economic activities that lead to their production.</paragraph>
+      </chapter>
+      <table>
+          <row type="head">
+            <cell>Electricity</cell>
+            <cell>Industry</cell>
+            <cell>Land use</cell>
+            <cell>Trasportation</cell>
+            <cell>Buildings</cell>
+            <cell>Other energy</cell>
+          </row>
+          <row type="cell">
+            <cell>42%</cell>
+            <cell>40%</cell>
+            <cell>35%</cell>
+            <cell>20%</cell>
+            <cell>17%</cell>
+            <cell>10%</cell>
+          </row>
+        </table>
+      <chapter>
+        <title>Greenhouse emissions by gas</title>
+        <paragraph>At the global scale, the key greenhouse gases emitted by human activities are Carbon dioxide (CO2), Methane (CH4), Nitrous oxide (N2O), Fluorinated gases (F-gases).</paragraph>
+      </chapter>
+      <table>
+        <row type="head">
+          <cell>Carbon Dioxite (Industry)</cell>
+          <cell>Carbon Dioxite (Land use)</cell>
+          <cell>Methane</cell>
+          <cell>Nitrous Oxide</cell>
+        </row>
+        <row type="cell">
+          <cell>93%</cell>
+          <cell>25%</cell>
+          <cell>18%</cell>
+          <cell>10%</cell>
+        </row>
+      </table>
+
+      <chapter>
+        <title>Greenhouse emissions from the fossil fuel combustion and industrial process</title>
+        <paragraph>Increase of CO2 since 1970 with emissions from fossil fuel combustion and industrial processes are grown up throught agriculture activity, deforestation, and other land use.</paragraph>
+        <paragraph>The table below shows in percentage the Greenhouse emissions from the fossil fuel combustion and industrial process by country.</paragraph>
+      </chapter>
+      <table>
+        <row type="head">
+          <cell>Usa</cell>
+          <cell>China</cell>
+          <cell>Russia Federation</cell>
+          <cell>India</cell>
+          <cell>Other</cell>
+        </row>
+        <row type="cell">
+          <cell>49%</cell>
+          <cell>42%</cell>
+          <cell>27%</cell>
+          <cell>15%</cell>
+          <cell>52%</cell>
+        </row>
+      </table>
+        <keywords>
+          <keyword name="Middle East and Western Asia" />
+          <keyword name="Eastern Europe" />
+          <keyword name="North America" />
+          <keyword name="Global Warming" />
+          <keyword name="Oil" />
+          <keyword name="Agricolture" />
+          <keyword name="Construction" />
+          <keyword name="Trasportation" />
+          <keyword name="Healthcare" />
+         </keywords>
+         <sources>
+           <source>EPA United States Environmental protection Agency.</source>
+         </sources>
+      </section>
+
+      <section>
+        <title>Prevision</title>
+        <chapter>
+          <title>2020’s energy strategy</title>
+          <paragraph>Nowadays the European Union’s energy policies work to increase development and use of renewables and its topics.</paragraph>
+          <paragraph>In particular Europe invest on renewable energy to ensure the reliable provision of energy whenever and wherever needed and to encourage a competitive environment offering affordable prices for homes, businesses, and industries.</paragraph>
+          <paragraph>The energy consumption had to be sustainable, through the lowering of greenhouse gas emissions, pollution, and fossil fuel dependence.</paragraph>
+        </chapter>
+
+        <chapter>
+          <title>The EU's energy priorities between 2010 and 2020</title>
+          <paragraph>Increase of 20%  of the share of renewable energy in the EU's energy mix to at least 20% of consuption.</paragraph>
+          <paragraph>Greenhouse emission gases are reduced of 20%</paragraph>
+        </chapter>
+
+        <keywords>
+           <keyword name="Global Worming" />
+           <keyword name="Investments" />
+           <keyword name="Renewables" />
+           <keyword name="Healthcare" />
+         </keywords>
+         <sources>
+           <source>ec.europa.eu</source>
+         </sources>
+      </section>
+
+      <section>
+        <title>Coal and Renewables</title>
+        <chapter>
+          <title>Financial impact of coal to renewable energy transition (2015-2035)</title>
+          <paragraph>Low-carbon investment needs would translate into an actual financial impact on the economy.</paragraph>
+          <paragraph>By the end of 2035, an additional incremental US$4 trillion of low-carbon assets (not pictured) would have been invested and be on the books and available for continued production after 2035.</paragraph>
+          <paragraph>Governments bear he biggest risk of value loss due to an energy transition.</paragraph>
+          <paragraph>Beginning with producers, governments and government-owned companies own well over half of global fossil fuelassets by output and reserves.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Commerce" />
+          <keyword name="Construction" />
+          <keyword name="Manufacturing" />
+          <keyword name="Renewables" />
+          <keyword name="Investments" />
+          <keyword name="Global Warming" />
+         </keywords>
+         <sources>
+           <source>2014.newclimateeconomy.report</source>
+         </sources>
+      </section>
+
+      <section>
+        <title>Green car</title>
+        <chapter>
+          <title>2016’s green cars rating</title>
+          <paragraph>According to climate meeting in Paris in December is expected to increase pressure for cleaner cars and trucks, which produce about a sixth of global carbon emissions and a quarter of the U.S. total.</paragraph>
+          <paragraph>The breakthrough vehicle for lower emissions cars was the Toyota Prius, a gas-battery hybrid introduced in1997 in Japan and worldwide in 2000. </paragraph>
+          <paragraph>Nowadays even proponents acknowledge that cheaper oil and rising demand for cars in China, India and other developing nations  could swamp the benefit of lowering emissions from cars in the U.S. and  Europe.</paragraph>
+        </chapter>
+
+        <table>
+          <row type="head">
+            <cell>Chevrolet</cell>
+            <cell>Mitsubushi</cell>
+            <cell>Mercedez-Benz</cell>
+            <cell>Fiat</cell>
+            <cell>Toyota</cell>
+            <cell>Volkswagen</cell>
+            <cell>Nissan</cell>
+            <cell>Kia</cell>
+            <cell>Ford</cell>
+            <cell>Mazda</cell>
+          </row>
+          <row type="cell">
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+            <cell>2016</cell>
+          </row>
+          <row type="cell">
+            <cell>SPARK EV</cell>
+            <cell>I-MIEV</cell>
+            <cell>SMART FORTWO elec. drive convertible</cell>
+            <cell>500E</cell>
+            <cell>PRIUS ECO</cell>
+            <cell>E-GOLF</cell>
+            <cell>LEAF S</cell>
+            <cell>SOUL ELECTRIC</cell>
+            <cell>ELECTRIC</cell>
+            <cell>2</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>1.8L 4 auto</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>Electric (Li-ion bat.)</cell>
+            <cell>1.5L 4 auto stk</cell>
+          </row>
+
+          <row type="cell">
+            <cell>MPG City 3.81</cell>
+            <cell>MPG City 3.75</cell>
+            <cell>MPG City 3.61</cell>
+            <cell>MPG City 3.59</cell>
+            <cell>MPG City 58</cell>
+            <cell>MPG City 3.72</cell>
+            <cell>MPG City 3.75</cell>
+            <cell>MPG City 3.55</cell>
+            <cell>MPG City 3.27</cell>
+            <cell>MPG City 33</cell>
+          </row>
+
+          <row type="cell">
+            <cell>MPG Hwy 3.24</cell>
+            <cell>MPG Hwy 2.93</cell>
+            <cell>MPG Hwy 2.77</cell>
+            <cell>MPG Hwy 3.07</cell>
+            <cell>MPG Hwy 53</cell>
+            <cell>MPG Hwy 3.12</cell>
+            <cell>MPG Hwy 3.61</cell>
+            <cell>MPG Hwy 2.73</cell>
+            <cell>MPG Hwy 2.94</cell>
+            <cell>MPG Hwy 43</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Green Score 63</cell>
+            <cell>Green Score 63</cell>
+            <cell>Green Score 63</cell>
+            <cell>Green Score 62</cell>
+            <cell>Green Score 61</cell>
+            <cell>Green Score 61</cell>
+            <cell>Green Score 61</cell>
+            <cell>Green Score 59</cell>
+            <cell>Green Score 57</cell>
+            <cell>Green Score 54</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+            <cell>Ranking Superior</cell>
+          </row>
+      </table>
+
+<chapter>
+  <title>Legend</title>
+    <paragraph>MPG means for miles per gallons in city.</paragraph>
+    <paragraph>MPG Hwy means for miles per gallon in highway.</paragraph>
+    <paragraph>Green Score is environmental sustainability rating.</paragraph>
+</chapter>
+
+<keywords>
+  <keyword name="Global Warming" />
+  <keyword name="Global Corporations" />
+  <keyword name="Renewables" />
+  <keyword name="Tech" />
+  <keyword name="Trasportation" />
+  <keyword name="Healthcare" />
+  <keyword name="Industries" />
+ </keywords>
+ <sources>
+   <source>greenercars.org</source>
+ </sources>
+ </section>
+ </sections>
+ </bulletin>
+</bulletins>

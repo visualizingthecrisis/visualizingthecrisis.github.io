@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>					                        <!--[ 1 ]-->
+<bulletins>                                                            <!--[ 1 ]-->
+  <title>Renewable energy</title>                                     <!--[ 1 ]-->
+  <subtitle>A look to the Future</subtitle>                             <!--[ 1 ]-->
+  <authors>                                                             <!--[ 1 ]-->
+    <author>Eleonora Di Bartolo</author>                                           <!--[1-N]-->
+    <author>Maria Tollot</author>
+    <author>Serena Montefiori</author>
+  </authors>
+
+  <bulletin id="9 NR" date="20160505">
+  <title>Chernobyl</title>
+  <sections>                                                          <!--[ 1 ]-->
+    <section>
+      <title>Hansen has avoided the nuclear</title>
+      <abstract>Nuclear has caused 2 million deaths over the past 40 years.</abstract>
+      <chapter>
+       <title>Nuclear and deaths</title>
+       <paragraph>Nuclear power since 1971 at 2009 hectares avoided almost caused millions of deaths related to air pollution.</paragraph>
+       <paragraph>If all nuclear reactors and future were replaced coal would take place from 4 to 7 million additional deaths, in the scenario where in place of the reactors being built gas power plants the additional deaths prevented would be between 420,000 and 680,000.</paragraph>
+       <paragraph>Indeed China’s total number of deaths from coal mines to 2008 means well More than 4000 per year.</paragraph>
+       <paragraph>However, the picture is improving: in 1950 the global annual death toll of the coal mines were 70,000 , in 1980 it was 40,000 and in 1990 was 10.000.</paragraph>
+       <paragraph>This makes the transition to renewable energy.</paragraph>
+     </chapter>
+
+     <table>
+       <row type="head">
+         <cell>Date</cell>
+         <cell>Country</cell>
+         <cell>Number of deaths by coal</cell>
+       </row>
+       <row type="cell">
+         <cell>1984</cell>
+         <cell>Taiwan</cell>
+         <cell>134</cell>
+       </row>
+       <row type="cell">
+         <cell>1990</cell>
+         <cell>Dobrnja/Yugoslavia</cell>
+         <cell>170</cell>
+       </row>
+       <row type="cell">
+         <cell>1990</cell>
+         <cell>Hongton/Shanxi/China</cell>
+         <cell>147</cell>
+       </row>
+       <row type="cell">
+         <cell>1993</cell>
+         <cell>Cuenca/Equado</cell>
+         <cell>200</cell>
+       </row>
+       <row type="cell">
+         <cell>1995</cell>
+         <cell>Minanao/Philippines</cell>
+         <cell>90</cell>
+       </row>
+       <row type="cell">
+         <cell>1997</cell>
+         <cell>China</cell>
+         <cell>198</cell>
+       </row>
+       <row type="cell">
+         <cell>1998</cell>
+         <cell>Liaoning/China</cell>
+         <cell>71</cell>
+       </row>
+       <row type="cell">
+         <cell>2000</cell>
+         <cell>Muchonggou/Guizhou/China</cell>
+         <cell>162</cell>
+       </row>
+       <row type="cell">
+         <cell>2002</cell>
+         <cell>Jixy/China</cell>
+         <cell>115</cell>
+       </row>
+       <row type="cell">
+         <cell>2004</cell>
+         <cell>China</cell>
+         <cell>315</cell>
+       </row>
+       <row type="cell">
+         <cell>2005</cell>
+         <cell>China</cell>
+         <cell>592</cell>
+       </row>
+       <row type="cell">
+         <cell>2007</cell>
+         <cell>Ulyanoyskaya/Kuzbass/Russia</cell>
+         <cell>150</cell>
+       </row>
+       <row type="cell">
+         <cell>2011</cell>
+         <cell>Fukushima</cell>
+         <cell>31</cell>
+       </row>
+       <row type="cell">
+         <cell>2016</cell>
+         <cell>Soma/Turkey</cell>
+         <cell>301</cell>
+       </row>
+     </table>
+
+     <table>
+       <row type="head">
+         <cell>Date</cell>
+         <cell>Country</cell>
+         <cell>Number of deaths by nuclear</cell>
+       </row>
+       <row type="cell">
+         <cell>1986</cell>
+         <cell>Chernobyl</cell>
+         <cell>47</cell>
+       </row>
+       <row type="cell">
+         <cell>1999</cell>
+         <cell>Tokaimura</cell>
+         <cell>2</cell>
+       </row>
+       <row type="cell">
+         <cell>2003</cell>
+         <cell>Mihama</cell>
+         <cell>4</cell>
+       </row>
+     </table>
+     <keywords>
+       <keyword name="Global Warming" />
+       <keyword name="Investments" />
+       <keyword name="Manufacturing" />
+       <keyword name="Construction" />
+       <keyword name="Healthcare" />
+       <keyword name="Commerce" />
+       <keyword name="Mining" />
+       <keyword name="Employment" />
+       <keyword name="Governance" />
+       <keyword name="Global Corporations" />
+       <keyword name="Middle East and Western Asia" />
+       <keyword name="Central and Eastern Asia" />
+    </keywords>
+    <sources>
+      <source>assoelettrica.it</source>
+    </sources>
+   </section>
+
+   <section>
+     <title>Health risks</title>
+     <chapter>
+       <title>Thyroid gland cancer children deaths</title>
+       <paragraph>The thyroid gland naturally accumulates iodine from the blood stream, because large amounts of radioactive iodine were released as a result of the Chernobyl accident.</paragraph>
+       <paragraph>The thyroid glands of local residents received considerable doses through breathing and through consuming contaminated foods, especially milk.</paragraph>
+       <paragraph>Total cases are 6.000: 11% represents children between 10 and 14 years, 14% are children between 5 and 9 years, and 15% is related to babies between zero and 4 years.</paragraph>
+    </chapter>
+
+    <keywords>
+      <keyword name="Global Warming" />
+      <keyword name="Investments" />
+      <keyword name="Manufacturing" />
+      <keyword name="Construction" />
+      <keyword name="Healthcare" />
+      <keyword name="Commerce" />
+      <keyword name="Mining" />
+      <keyword name="Employment" />
+      <keyword name="Governance" />
+      <keyword name="Global Corporations" />
+      <keyword name="Middle East and Western Asia" />
+      <keyword name="Central and Eastern Asia" />
+   </keywords>
+   <sources>
+     <source>greenfacts.org</source>
+   </sources>
+  </section>
+
+  <section>
+    <title>Nuclear plants</title>
+    <chapter>
+      <title>Has the Chernobyl disaster affected the number of nuclear plants built and production of nuclear energy?</title>
+      <paragraph>This week marks 30 years since an accident at the Chernobyl nuclear power plant in Ukraine led to a huge leak of radiation across eastern Europe.</paragraph>
+      <paragraph>The disaster is thought to have caused thousands of cancer cases. It was the only event classed as a “major accident” by the International Atomic Energy Agency until the 2011 meltdowns in Fukushima, Japan.</paragraph>
+      <paragraph>The data demonstrates its impact: in the 32 years before Chernobyl, 409 reactors were opened, but only 194 have been connected in the three decades since.</paragraph>
+   </chapter>
+
+   <table>
+     <row type="head">
+       <cell>Country</cell>
+       <cell>WORKING before Chernobyl</cell>
+       <cell>WORKING after Chernobyl</cell>
+     </row>
+     <row type="cell">
+       <cell>United States</cell>
+       <cell>82</cell>
+       <cell>22</cell>
+     </row>
+     <row type="cell">
+       <cell>Japan</cell>
+       <cell>18</cell>
+       <cell>25</cell>
+     </row>
+     <row type="cell">
+       <cell>Europe</cell>
+       <cell>42</cell>
+       <cell>24</cell>
+     </row>
+     <row type="cell">
+       <cell>Ukraine</cell>
+       <cell>7</cell>
+       <cell>9</cell>
+     </row>
+     <row type="cell">
+       <cell>Russia</cell>
+       <cell>24</cell>
+       <cell>33</cell>
+     </row>
+   </table>
+
+   <table>
+     <row type="head">
+       <cell>Country</cell>
+       <cell>SHOT DOWN before Chernobyl</cell>
+       <cell>SHOT DOWN after Chernobyl</cell>
+     </row>
+     <row type="cell">
+       <cell>United States</cell>
+       <cell>8</cell>
+       <cell>1</cell>
+     </row>
+     <row type="cell">
+       <cell>Japan</cell>
+       <cell>16</cell>
+       <cell>1</cell>
+     </row>
+     <row type="cell">
+       <cell>Europe</cell>
+       <cell>38</cell>
+       <cell>1</cell>
+     </row>
+     <row type="cell">
+       <cell>Ukraine</cell>
+       <cell>4</cell>
+       <cell>4</cell>
+     </row>
+     <row type="cell">
+       <cell>Russia</cell>
+       <cell>5</cell>
+       <cell>0</cell>
+     </row>
+   </table>
+
+<chapter>
+   <paragraph>
+   <list type="unordered">
+     <item>A United States</item>
+     <item>B France/Germany/United Kingdom</item>
+     <item>C Ukraine</item>
+     <item>D China</item>
+     <item>E Japan</item>
+     <item>F Russia</item>
+   </list>
+  </paragraph>
+ </chapter>
+
+   <graph unit="%" x="Country" y="Percentage">
+     <title>World Nuclear Generation after Chernobyl</title>
+     <abstract>Usa has the biggest nuclear generator power.</abstract>
+     <dataset label= "Nuclear generator power">
+       <data x="A" y="44.5"/>
+       <data x="B" y="31.8"/>
+       <data x="C" y="4.6"/>
+       <data x="D" y="9.0"/>
+       <data x="E" y="0"/>
+       <data x="F" y="10.2"/>
+     </dataset>
+    </graph>
+
+    <graph unit="%" x="Country" y="Percentage">
+      <title>World Nuclear Capacity after Chernobyl</title>
+      <abstract>Usa has the biggest nuclear capacity.</abstract>
+      <dataset label= "Nuclear capacity">
+        <data x="A" y="34.2"/>
+        <data x="B" y="28.6"/>
+        <data x="C" y="4.5"/>
+        <data x="D" y="9.9"/>
+        <data x="E" y="13.9"/>
+        <data x="F" y="8.8"/>
+        </dataset>
+     </graph>
+
+    <keywords>
+      <keyword name="Global Warming" />
+      <keyword name="Investments" />
+      <keyword name="Manufacturing" />
+      <keyword name="Construction" />
+      <keyword name="Healthcare" />
+      <keyword name="Commerce" />
+      <keyword name="Mining" />
+      <keyword name="Employment" />
+      <keyword name="Governance" />
+      <keyword name="Global Corporations" />
+      <keyword name="Middle East and Western Asia" />
+      <keyword name="Central and Eastern Asia" />
+      <keyword name="North America" />
+      <keyword name="Eastern Europe" />
+      <keyword name="Western Europe" />
+   </keywords>
+   <sources>
+    <source>theguardian.com</source>
+   </sources>
+   </section>
+  </sections>
+ </bulletin>
+
+ <bulletin id="9 R" date="20160505">                   <!--[1-N]-->
+ <title>Global renewable employement assessment</title>
+
+ <sections>                                                          <!--[ 1 ]-->
+   <section>
+     <title>Renewable energy and jobs annual review 2015 (IRENA)</title>
+     <abstract>IRENA estimates that renewable energy employed 7.7 million people, directly or indirectly, around the world in 2014.</abstract>
+
+     <table>
+       <row type="head">
+         <cell>Number of workers per country</cell>
+         <cell>Biofossil source</cell>
+         <cell>Solar source</cell>
+         <cell>Wind source</cell>
+         <cell>Small hydropower</cell>
+         <cell>Geothermal source</cell>
+       </row>
+
+       <row type="cell">
+         <cell>United States</cell>
+         <cell>434.000</cell>
+         <cell>174.000</cell>
+         <cell>73.000</cell>
+         <cell>174.000</cell>
+         <cell>35.000</cell>
+       </row>
+
+       <row type="cell">
+         <cell>Brazil</cell>
+         <cell>845.000</cell>
+         <cell>41.000</cell>
+         <cell>36.000</cell>
+         <cell>41.000</cell>
+         <cell>0</cell>
+       </row>
+
+       <row type="cell">
+         <cell>France</cell>
+         <cell>86.000</cell>
+         <cell>33.000</cell>
+         <cell>20.000</cell>
+         <cell>20.000</cell>
+         <cell>33.000</cell>
+       </row>
+
+       <row type="cell">
+         <cell>Germany</cell>
+         <cell>127.000</cell>
+         <cell>68.000</cell>
+         <cell>138.000</cell>
+         <cell>138.000</cell>
+         <cell>17.000</cell>
+       </row>
+
+       <row type="cell">
+         <cell>Rest of EU</cell>
+         <cell>294.000</cell>
+         <cell>115.000</cell>
+         <cell>162.000</cell>
+         <cell>162.000</cell>
+         <cell>54.000</cell>
+       </row>
+
+       <row type="cell">
+         <cell>China</cell>
+         <cell>520.000</cell>
+         <cell>2.241.000</cell>
+         <cell>502.000</cell>
+         <cell>126.000</cell>
+         <cell>0</cell>
+       </row>
+
+       <row type="cell">
+         <cell>Indonesia</cell>
+         <cell>178.000</cell>
+         <cell>300.000</cell>
+         <cell>48.000</cell>
+         <cell>300.000</cell>
+         <cell>0</cell>
+       </row>
+
+       <row type="cell">
+         <cell>Japan</cell>
+         <cell>3.000</cell>
+         <cell>210.000</cell>
+         <cell>3.000</cell>
+         <cell>210.000</cell>
+         <cell>2.000</cell>
+       </row>
+     </table>
+
+     <table>
+       <row type="head">
+         <cell>Number of workers by source</cell>
+         <cell>2012</cell>
+         <cell>2013</cell>
+         <cell>2014</cell>
+         <cell>2015</cell>
+       </row>
+
+       <row type="cell">
+         <cell>Biofossil</cell>
+         <cell>2.400.000</cell>
+         <cell>2.500.000</cell>
+         <cell>2.500.000</cell>
+         <cell>3.000.000</cell>
+       </row>
+
+       <row type="cell">
+         <cell>Geothermal</cell>
+         <cell>100.000</cell>
+         <cell>150.000</cell>
+         <cell>150.000</cell>
+         <cell>150.000</cell>
+       </row>
+
+     <row type="cell">
+       <cell>Small hydropower</cell>
+       <cell>80000</cell>
+       <cell>150000</cell>
+       <cell>200000</cell>
+       <cell>200000</cell>
+     </row>
+
+     <row type="cell">
+       <cell>Solar</cell>
+       <cell>1.750.000</cell>
+       <cell>2.300.000</cell>
+       <cell>2.800.000</cell>
+       <cell>3.300.000</cell>
+     </row>
+
+     <row type="cell">
+       <cell>Wind</cell>
+       <cell>650.000</cell>
+       <cell>750.000</cell>
+       <cell>900.000</cell>
+       <cell>1.000.000</cell>
+     </row>
+   </table>
+
+   <keywords>
+     <keyword name="Global Warming" />
+     <keyword name="Investments" />
+     <keyword name="Renewables" />
+     <keyword name="Manufacturing" />
+     <keyword name="Healthcare" />
+     <keyword name="Eastern Europe" />
+     <keyword name="Western Europe" />
+     <keyword name="South America" />
+     <keyword name="North America" />
+     <keyword name="Southeastern Asia" />
+     <keyword name="Southern Asia" />
+     <keyword name="Central and Eastern Asia" />
+     <keyword name="Middle East and Western Asia" />
+     <keyword name="Employment" />
+   </keywords>
+
+   <sources>
+     <source>irena.org</source>
+   </sources>
+ </section>
+
+ <section>
+   <title>Protect earth health</title>
+   <chapter>
+     <title>Climate Brake Free from Fossil Fuels movement</title>
+     <paragraph>This new green movement is starterd the First of May and it will be unlike any project we’ve ever seen before: not a day of action, not a single march echoed around the globe, but coordinated, major actions of thousands of people taking on iconic fossil fuel projects and companies.</paragraph>
+     <paragraph>The plan is to grow the number of people participating in the movement, and organize actions that do more to disrupt the power of the fossil fuel industry, whether in the halls of power, or on the sites where they dig up carbon.</paragraph>
+     <paragraph>It will continue the work of the divestment movement in undermining the social license of the fossil fuel industry.</paragraph>
+     <paragraph>Actions happening during the first week of may.</paragraph>
+
+     <paragraph>
+       <list type="unordered">
+         <item>Canada</item>
+         <item>Brazil</item>
+         <item>United Kingdom</item>
+         <item>Germany</item>
+         <item>Turkey</item>
+         <item>Niger</item>
+         <item>South Africa</item>
+         <item>Philippines</item>
+         <item>Indonesia</item>
+         <item>Australia</item>
+         <item>New Zealand</item>
+       </list>
+     </paragraph>
+   </chapter>
+
+   <keywords>
+     <keyword name="Global Warming" />
+     <keyword name="Investments" />
+     <keyword name="Renewables" />
+     <keyword name="Manufacturing" />
+     <keyword name="Healthcare" />
+     <keyword name="Eastern Europe" />
+     <keyword name="Western Europe" />
+     <keyword name="South America" />
+     <keyword name="North America" />
+     <keyword name="Southeastern Asia" />
+     <keyword name="Southern Asia" />
+     <keyword name="Central and Eastern Asia" />
+     <keyword name="Middle East and Western Asia" />
+     <keyword name="Employment" />
+   </keywords>
+
+   <sources>
+     <source>resilience.org</source>
+     <source>breakfree2016.org</source>
+   </sources>
+ </section>
+
+ <section>
+   <title>USA</title>
+   <chapter>
+     <title>Fossil fuels employment crisis</title>
+     <paragraph>While the latest jobs report from the U.S. Bureau of Labor Statistics (BLS) showed the national unemployment rate falling again to reach 4.9% in January, the trend lines haven’t been nearly so encouraging for energy sector employment.</paragraph>
+     <paragraph>U.S. jobs in oil and gas extraction fell steadily throughout 2015, BLS data shows, reflecting a difficult year for many producers forced to lay off workers and cut costs to survive a depressed commodity price environment.</paragraph>
+     <paragraph>For January, BLS reported a seasonally adjusted 183,000 jobs in oil and gas extraction, compared with 198,700 in the year-ago period, a decrease of 7.9%.</paragraph>
+     <paragraph>In mining support activities, a category that includes drilling rig operators and other oil and gas-related fields, BLS reported 333,100 jobs in January, down from 432,600 jobs in January 2015, a decrease of 23%.</paragraph>
+   </chapter>
+
+   <table>
+     <row type="head">
+       <cell>Number of workers by market</cell>
+       <cell>May 2013</cell>
+       <cell>November 2013</cell>
+       <cell>May 2014</cell>
+       <cell>November 2014</cell>
+       <cell>May 2015</cell>
+       <cell>November 2015</cell>
+     </row>
+
+     <row type="cell">
+       <cell>Gas extraction</cell>
+       <cell>190.000</cell>
+       <cell>190.000</cell>
+       <cell>195.000</cell>
+       <cell>198.000</cell>
+       <cell>200.000</cell>
+       <cell>200.000</cell>
+     </row>
+
+     <row type="cell">
+       <cell>Oil extraction</cell>
+       <cell>193.000</cell>
+       <cell>193.000</cell>
+       <cell>197.000</cell>
+       <cell>210.000</cell>
+       <cell>194.000</cell>
+       <cell>186.000</cell>
+     </row>
+   </table>
+
+   <chapter>
+     <title>Number of 2015 US fossil fuel’s workers</title>
+     <paragraph>For oil and gas extraction workers are 195000.</paragraph>
+     <paragraph>For coal mining workers are 65000.</paragraph>
+     <paragraph>For support activities for oil and gas operations workers are 275000.</paragraph>
+     <paragraph>For support activities for coal mining workers are 7000.</paragraph>
+   </chapter>
+
+     <keywords>
+       <keyword name="Global Warming" />
+       <keyword name="Investments" />
+       <keyword name="Renewables" />
+       <keyword name="Manufacturing" />
+       <keyword name="Healthcare" />
+       <keyword name="Eastern Europe" />
+       <keyword name="Western Europe" />
+       <keyword name="South America" />
+       <keyword name="North America" />
+       <keyword name="Southeastern Asia" />
+       <keyword name="Southern Asia" />
+       <keyword name="Central and Eastern Asia" />
+       <keyword name="Middle East and Western Asia" />
+       <keyword name="Employment" />
+       <keyword name="Commerce" />
+       <keyword name="Mining" />
+       <keyword name="Oil" />
+     </keywords>
+
+     <sources>
+       <source>U.S. Energy and Employment Report</source>
+       <source>naturalgasintel.com</source>
+       <source>energy.gov</source>
+       <source>naturalgasintel.com</source>
+     </sources>
+   </section>
+  </sections>
+ </bulletin>
+</bulletins>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>					                        <!--[ 1 ]-->
+<bulletins>                                                            <!--[ 1 ]-->
+  <title>Non renewable and renewable energy</title>                                     <!--[ 1 ]-->
+  <subtitle>A look to the Future</subtitle>                             <!--[ 1 ]-->
+  <authors>                                                             <!--[ 1 ]-->
+    <author>Eleonora Di Bartolo</author>                                           <!--[1-N]-->
+    <author>Maria Tollot</author>
+    <author>Serena Montefiori</author>
+  </authors>
+
+  <bulletin id="2 RN" date="20161003">
+  <sections>                                                          <!--[ 1 ]-->
+  <section>
+  <title>USA, the shail oil-gas dream of richness is destroyed</title>
+  <abstract>							                                        <!--[0-1]-->
+  Last years a lot of oil markets had invested in hydraulic fracturing. Dropped the oil price fracking has became too expansive for USA.
+  </abstract>
+  <table>
+    <row type="head">
+      <cell>2010</cell>
+      <cell>2012</cell>
+      <cell>2014</cell>
+      <cell>2015</cell>
+      <cell>2016</cell>
+      <cell>2017</cell>
+    </row>
+    <row type="cell">
+      <cell>USA, Arabia,Russia invest in fracking.</cell>
+      <cell>New frack wells.</cell>
+      <cell>Over production.</cell>
+      <cell>The price of oil goes down.</cell>
+      <cell>The price of oil goes down.</cell>
+      <cell>US petrol-gas productors fail and fracking becomes too expensive.</cell>
+      <cell>100,000 lost jobs.</cell>
+    </row>
+  </table>
+      <keywords>
+        <keyword name="Investments" />
+        <keyword name="North America" />
+        <keyword name="Oil" />
+      </keywords>
+      <sources>
+        <source>lastampa.it</source>
+      </sources>
+    </section>
+
+    <section>
+      <title>Fracking</title>
+      <chapter>
+        <title>What Stanford scientist says about fracking</title>
+        <paragraph>A Stanford University scientist has found that people who live near shallowly drilled oil and natural gas wells risk drinking water contaminated with methane.</paragraph>
+        <paragraph>Regions of the USA with this risk include California, parts of Pennsylvania and Texas.</paragraph>
+      </chapter>
+      <keywords>
+        <keyword name="North America" />
+        <keyword name="Healthcare" />
+        <keyword name="Mining" />
+        <keyword name="Oil" />
+        <keyword name="Natural Gas" />
+      </keywords>
+      <sources>
+        <source>stanford.edu</source>
+      </sources>
+    </section>
+
+    <quote>                                                         <!--[0-N]-->
+      <author>Hylary clinton and Bernie Sanders</author>
+      <role>Politicians</role>                                  <!--[ 1 ]-->
+      <text>What Hilary Clinton and Bernie Sanders thinks about fracking? "We have to regulate what is  currently underway, and we have to have a system in place that prevents further fracking unless conditions like the ones that I just mentions are met.” Bernie Sanders’s answer:“My answer is a lot shorter. No. I do not support fracking.”</text>                                       <!--[ 1 ]-->
+    </quote>
+
+    <keywords>
+      <keyword name="Oil" />
+      <keyword name="Healthcare" />
+      <keyword name="Mining" />
+    </keywords>
+    <sources>
+      <source>forbes.com</source>
+    </sources>
+
+    <section>
+      <title>Fracking environmental and health risks</title>
+      <chapter>
+        <title>Fracking, the meaning and the risks for people</title>
+        <paragraph>Fracking is the process of drilling and injecting fluid into the ground at a high pressure in order to  fracture shale rocks to release natural gas inside.</paragraph>
+
+      </chapter>
+      <graph unit="%" x="number" y="percentage">
+        <title>Fracking chemical risks</title>
+        <abstract>The paper compiled a list of 632 chemicals  identified from drilling operations throughout the U.S.</abstract>
+        <dataset label= "Sensory organs, the respiratory and gastrointestinal systems">
+          <data x="475" y="75" />
+        </dataset>
+        <dataset label= "Nervous system, immune and cardiovascular systems and the kidneys">
+          <data x="316" y="50" />
+        </dataset>
+        <dataset label= "The endocrine system">
+          <data x="234" y="37" />
+        </dataset>
+        <dataset label= "Cancer and mutations">
+          <data x="158" y="25" />
+        </dataset>
+      </graph>
+
+    <chapter>
+      <paragraph>
+      <list type="unordered">
+        <item>A Water polluted chemicals</item>
+        <item>B Facturing fluid recovered</item>
+      </list>
+     </paragraph>
+    </chapter>
+
+      <graph unit="%" x="String" y="percentage">
+        <title>Pollution of water</title>
+        <abstract>64% of water is polluted by chemicals because of fracking.</abstract>
+        <dataset label= "Index data">
+          <data x="A" y="64" />
+          <data x="B" y="36" />
+        </dataset>
+     </graph>
+
+      <keywords>
+        <keyword name="Healthcare" />
+        <keyword name="North America" />
+        <keyword name="Mining" />
+        <keyword name="Oil" />
+      </keywords>
+      <sources>
+        <source>serc.carleton.edu</source>
+      </sources>
+    </section>
+  </sections>                                                          <!--[ 1 ]-->
+</bulletin>
+
+<bulletin id="2" date="20161003">                   <!--[Secondo bollettino]-->
+<title>Renewable energy in market in technology and project</title>
+<sections>                                                          <!--[ 1 ]-->
+  <section>
+    <title>Access to energy</title>
+    <abstract>
+      1.2 billion people are without access to energy and another billion are connected to a national grid (95% of this ones are in Asia and Africa).
+    </abstract>
+    <chapter>
+      <title>Prevision</title>
+      <paragraph>The off-grid solar market has grown to $700 million now from non existent less than a decade ago, according to a report Thursday from the London-based research company and the World Bank Group’s Lighting Global.</paragraph>
+      <paragraph>They expect that to swell to $3.1 billion by the end of the decade.</paragraph>
+      <paragraph>Almost 100 million households worldwide may be powered by solar panels by 2020, according to Bloomberg New Energy Finance.</paragraph>
+    </chapter>
+
+    <graph unit="$B" x="date" y="number">
+      <title>Green solar industry</title>
+      <abstract>By 2020 investments on solar market is going to grow.</abstract>
+      <dataset label= "Investments.">
+        <data x="2015" y="0.7" />
+        <data x="2020" y="3,1" />
+      </dataset>
+    </graph>
+
+  <keywords>
+    <keyword name="Renewables" />
+    <keyword name="Investments" />
+  </keywords>
+  <sources>
+    <source>about.bnef.com</source>
+  </sources>
+</section>
+
+<section>
+  <title>Projects on renewable sources</title>
+  <chapter>
+    <title>Solar, Wind and Hydro Projects Added to the North American Grid in February 2016</title>
+    <paragraph>350 MW of renewable energy capacity are currently in the testing phase of development, indicating they are close to being ready to operate.</paragraph>
+    <paragraph>Kentucky produces 29 Mw in Hydropower sector.</paragraph>
+    <paragraph>Virginia produces 22 Mw in Hydropower sector</paragraph>
+    <paragraph>Ontario produces 100 Mw in Wind power sector.</paragraph>
+    <paragraph>New Jersey produces 10 Mw for Solar power sector.</paragraph>
+</chapter>
+ <keywords>
+    <keyword name="Renewables" />
+    <keyword name="Water" />
+    <keyword name="North America" />
+  </keywords>
+  <sources>
+    <source>renewableenergyworld.com</source>
+  </sources>
+</section>
+
+<section>
+  <title>Andre Broessel</title>
+  <chapter>
+    <title>The spherical sun power generator</title>
+    <paragraph>German Architect Andre Broessel design the spherical sun power generator prototype called the beta.ray.</paragraph>
+    <paragraph>His technology will combine spherical geometry principles with a dual axis tracking system, allowing twice the yield of a conventional solar panel in a much smaller surface area.</paragraph>
+    <paragraph>The futuristic design is fully rotational and is suitable for inclined surfaces, walls of buildings, and anywhere with access to the sky.</paragraph>
+    <paragraph>It can even be used as an electric car charging station.</paragraph>
+    <paragraph>The beta.ray comes with a hybrid collector to convert daily electricity and thermal energy at the same time.</paragraph>
+    <paragraph>While reducing the silicon cell area to 25% with the equivalent power output by using our ultra transmission Ball Lens point focusing concentrator, it operates at efficiency levels of nearly 57% in hybrid mode.</paragraph>
+    <paragraph>At nighttime the Ball Lens can transform into a high-power lamp to illuminate your location, simply by using a few LED’s.</paragraph>
+    <paragraph>The station is designed for off grid conditions as well as to supplement buildings’ consumption of electricity and thermal circuits like hot water.”</paragraph>
+  </chapter>
+<keywords>
+  <keyword name="Renewables" />
+  <keyword name="Global Warming" />
+  <keyword name="Tech" />
+  <keyword name="Commerce" />
+  <keyword name="Start-ups" />
+  <keyword name="Investments" />
+</keywords>
+  <sources>
+    <source>alternative-energy-news.info</source>
+  </sources>
+ </section>
+ </sections>
+ </bulletin>
+</bulletins>

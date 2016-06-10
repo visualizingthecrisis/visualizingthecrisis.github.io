@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>					                        <!--[ 1 ]-->
+<bulletins>                                                            <!--[ 1 ]-->
+  <title>Renewable energy</title>                                     <!--[ 1 ]-->
+  <subtitle>A look to the Future</subtitle>                             <!--[ 1 ]-->
+  <authors>                                                             <!--[ 1 ]-->
+    <author>Eleonora Di Bartolo</author>                                           <!--[1-N]-->
+    <author>Maria Tollot</author>
+    <author>Serena Montefiori</author>
+  </authors>
+
+  <bulletin id="10 NR" date="20161205">                   <!--[1-N]-->
+  <title>Global oil trade</title>
+
+  <sections>                                                          <!--[ 1 ]-->
+    <section>
+      <title>Trade movements</title>
+      <abstract>In 2015 global oil trade has its major trade movements.</abstract>
+
+      <chapter>
+        <title>World crude oil production</title>
+        <paragraph>In 2015, world crude oil production averaged at 73.4 million barrels/day, increasing by 0.7 per cent, over 2014.</paragraph>
+        <paragraph>Noticeable increases originated in North America, particularly the US, as well as in Western Europe, more specifically Norway.</paragraph>
+        <paragraph>Crude oil production declined year-on-year in Africa and the Middle East, and remained relatively flat in other regions.</paragraph>
+        <paragraph>Crude oil production in OPEC Member Countries reached 30.7m b/d during 2015, down 2.9 per cent from 2014, year-on-year.</paragraph>
+        <paragraph>The overall OPEC share to the world crude production total in 2015 was at 41.8 per cent, lower than in 2014, when it was 43.3 per cent.</paragraph>
+        <paragraph>Non OPEC oil supply and OPEC NGL, as well as non conventional oil production inched to 62.3m b/d, increasing by 3.9 per cent as compared to the 2014 levels.</paragraph>
+        <paragraph>World oil demand averaged at 91.3m b/d in 2014, up by 1.1 per cent year-on-year, with the largest increases taking place in China, the Middle East, particularly in Saudi Arabia, Islamic Republic of Iran, Qatar and the United Arab Emirates, and in non-OECD Asia.</paragraph>
+        <paragraph>The 2015 oil demand in Africa and Latin America continued its upward trend, while oil demand declined for another year in Western Europe.</paragraph>
+      </chapter>
+
+      <table>
+        <row type="head">
+          <cell>Export</cell>
+          <cell>Import</cell>
+          <cell>Global oil trade</cell>
+        </row>
+        <row type="cell">
+          <cell>Canada</cell>
+          <cell>United States</cell>
+          <cell>154 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>United States</cell>
+          <cell>Mexico</cell>
+          <cell>25 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Mexico</cell>
+          <cell>United States</cell>
+          <cell>46 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>United States</cell>
+          <cell>Europe</cell>
+          <cell>32 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Europe</cell>
+          <cell>United States</cell>
+          <cell>24 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Venezuela</cell>
+          <cell>United States</cell>
+          <cell>84 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>United States</cell>
+          <cell>Brazil</cell>
+          <cell>53 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Russia</cell>
+          <cell>United States</cell>
+          <cell>25 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Niger</cell>
+          <cell>United States</cell>
+          <cell>31 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Brazil</cell>
+          <cell>Europe</cell>
+          <cell>18 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Brazil</cell>
+          <cell>China</cell>
+          <cell>31 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Algeria</cell>
+          <cell>Europe</cell>
+          <cell>74 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Europe</cell>
+          <cell>Libya</cell>
+          <cell>103 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Russia</cell>
+          <cell>Europe</cell>
+          <cell>295 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Niger</cell>
+          <cell>India</cell>
+          <cell>27 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Niger</cell>
+          <cell>China</cell>
+          <cell>53 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Russia</cell>
+          <cell>China</cell>
+          <cell>63 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Indonesia</cell>
+          <cell>China</cell>
+          <cell>29 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>China</cell>
+          <cell>Indonesia</cell>
+          <cell>19 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Indonesia</cell>
+          <cell>Japan</cell>
+          <cell>25 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Indonesia</cell>
+          <cell>Australia</cell>
+          <cell>20 Mton</cell>
+        </row>
+        <row type="cell">
+          <cell>Russia</cell>
+          <cell>Indonesia</cell>
+          <cell>19 Mton</cell>
+        </row>
+      </table>
+
+      <keywords>
+
+        <keyword name="Global Warming" />
+        <keyword name="Investments" />
+        <keyword name="Manufacturing" />
+        <keyword name="Construction" />
+        <keyword name="Healthcare" />
+        <keyword name="Commerce" />
+        <keyword name="Mining" />
+        <keyword name="Governance" />
+        <keyword name="Global Corporations" />
+        <keyword name="North America" />
+        <keyword name="South America" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
+        <keyword name="Northern Africa" />
+        <keyword name="Western Europe" />
+        <keyword name="Central Africa" />
+        <keyword name="Southern Africa" />
+        <keyword name="Middle East and Western Asia" />
+        <keyword name="Central and Eastern Asia" />
+        <keyword name="Southeastern Asia" />
+        <keyword name="Import/Export" />
+        <keyword name="Oil" />
+        <keyword name="Transportation" />
+     </keywords>
+
+     <sources>
+      <source>theguardian.com</source>
+     </sources>
+    </section>
+
+ <section>
+  <title>Top 10 oil producers reserves</title>
+  <abstract>Kuwait is the biggest oil producer reserve.</abstract>
+  <table>
+    <row type="head">
+      <cell>Country</cell>
+      <cell>Reserve</cell>
+      <cell>Endowment</cell>
+    </row>
+    <row type="cell">
+      <cell>Venezuela</cell>
+      <cell>298 GGBL</cell>
+      <cell>327 KBBL/KM2</cell>
+    </row>
+    <row type="cell">
+      <cell>Saudi Arabia</cell>
+      <cell>267 GGBL</cell>
+      <cell>124 KBBL/KM2</cell>
+    </row>
+    <row type="cell">
+      <cell>Canada</cell>
+      <cell>173 GGBL</cell>
+      <cell>17 KBBL/KM2</cell>
+    </row>
+    <row type="cell">
+      <cell>Iran</cell>
+      <cell>158 GGBL</cell>
+      <cell>96 KBBL/KM2</cell>
+    </row>
+    <row type="cell">
+      <cell>Iraq</cell>
+      <cell>150 GGBL</cell>
+      <cell>342 KBBL/KM2</cell>
+    </row>
+    <row type="cell">
+      <cell>Russia</cell>
+      <cell>103 GGBL</cell>
+      <cell>6 KBBL/KM2</cell>
+    </row>
+    <row type="cell">
+      <cell>Kuwait</cell>
+      <cell>102 GGBL</cell>
+      <cell>5.696 KBBL/KM2</cell>
+    </row>
+    <row type="cell">
+      <cell>United Arab Emirates</cell>
+      <cell>98 GGBL</cell>
+      <cell>1.170 KBBL/KM2</cell>
+    </row>
+    <row type="cell">
+      <cell>United States</cell>
+      <cell>48 GGBL</cell>
+      <cell>5 KBBL/KM2</cell>
+    </row>
+    <row type="cell">
+      <cell>Libya</cell>
+      <cell>48 GGBL</cell>
+      <cell>27 KBBL/KM2</cell>
+    </row>
+   </table>
+
+   <chapter>
+    <title>Previsions for non renewables consumptions from 2010 to 2040 by country</title>
+    <paragraph>Emerging countries as India, China and Japan are recording an increasing trade.</paragraph>
+   </chapter>
+
+   <table>
+    <row type="head">
+      <cell>Country</cell>
+      <cell>Nuclear</cell>
+      <cell>Coal</cell>
+      <cell>Oil</cell>
+      <cell>Natural Gas</cell>
+    </row>
+    <row type="cell">
+      <cell>China</cell>
+      <cell>Net growth</cell>
+      <cell>Slight increase until 2030 and decline by 2040</cell>
+      <cell>Progressive growth</cell>
+      <cell>Progressive growth</cell>
+    </row>
+    <row type="cell">
+      <cell>India</cell>
+      <cell>Progressive growth</cell>
+      <cell>Progressive growth</cell>
+      <cell>Progressive growth</cell>
+      <cell>Progressive growth</cell>
+    </row>
+    <row type="cell">
+      <cell>Europe</cell>
+      <cell>Progressive decrease</cell>
+      <cell>Progressive decrease</cell>
+      <cell>Progressive decrease</cell>
+      <cell>Mild progressive growth</cell>
+    </row>
+    <row type="cell">
+      <cell>Russia</cell>
+      <cell>Progressive growth</cell>
+      <cell>Slight decline and steady state level</cell>
+      <cell>Steady state level</cell>
+      <cell>Slight increase and steady state level</cell>
+    </row>
+    <row type="cell">
+      <cell>Japan</cell>
+      <cell>Net growth until 2020 and steady state up to 2040</cell>
+      <cell>Mild progressive decrease</cell>
+      <cell>Progressive decrease</cell>
+      <cell>Slight decline and steady state level</cell>
+    </row>
+   </table>
+
+   <keywords>
+     <keyword name="Global Warming" />
+     <keyword name="Investments" />
+     <keyword name="Manufacturing" />
+     <keyword name="Construction" />
+     <keyword name="Healthcare" />
+     <keyword name="Commerce" />
+     <keyword name="Mining" />
+     <keyword name="Governance" />
+     <keyword name="Global Corporations" />
+     <keyword name="North America" />
+     <keyword name="South America" />
+     <keyword name="Eastern Europe" />
+     <keyword name="Western Europe" />
+     <keyword name="Northern Africa" />
+     <keyword name="Central Africa" />
+     <keyword name="Southern Africa" />
+     <keyword name="Central and Eastern Asia" />
+     <keyword name="Southern Asia" />
+     <keyword name="Southeastern Asia" />
+     <keyword name="Oil" />
+     <keyword name="Natural Gas" />
+     <keyword name="Transportation" />
+    </keywords>
+
+    <sources>
+      <source>Geopolitica ed energia: situazione attuale e scenari futuri, Politecnico di Milano – RIDEF 2.0 30 Giugno (2015)</source>
+    </sources>
+
+     </section>
+    </sections>
+    </bulletin>
+
+    <bulletin id="10 R" date="20161205">                   <!--[1-N]-->
+    <title>London pollution: ULEZ project</title>
+
+    <sections>                                                          <!--[ 1 ]-->
+      <section>
+        <title>Healthy London</title>
+        <abstract>Many studies have shown that air pollution harms human health: dangers gases in particular are the gas nitrogen dioxide (NO2) and the PM 2.5.</abstract>
+
+        <table>
+          <row type="head">
+            <cell>Level of risk of PM 2.5</cell>
+            <cell>Female</cell>
+            <cell>Male</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Lower</cell>
+            <cell>2.58%</cell>
+            <cell>2.90%</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Central</cell>
+            <cell>15.13%</cell>
+            <cell>16.97%</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Upper</cell>
+            <cell>29.42%</cell>
+            <cell>33.01%</cell>
+          </row>
+        </table>
+
+        <table>
+          <row type="head">
+            <cell>Level of risk of NO2</cell>
+            <cell>Female</cell>
+            <cell>Male</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Lower</cell>
+            <cell>8.93%</cell>
+            <cell>10.04%</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Central</cell>
+            <cell>15.70%</cell>
+            <cell>17.62%</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Upper</cell>
+            <cell>22.48%</cell>
+            <cell>25.03%</cell>
+          </row>
+        </table>
+
+        <keywords>
+          <keyword name="Global Warming" />
+          <keyword name="Investments" />
+          <keyword name="Renewables" />
+          <keyword name="Manufacturing" />
+          <keyword name="Healthcare" />
+          <keyword name="Transportation" />
+          <keyword name="Construction" />
+        </keywords>
+
+        <sources>
+          <source>scribd.com</source>
+        </sources>
+      </section>
+
+      <section>
+        <title>Ultra Low Emission Zone (ULEZ)</title>
+        <chapter>
+          <title>Why introduce ULEZ)?</title>
+          <paragraph>The European Union has set legal limits for concentrations of pollutants in outdoor air, including particulate matter (PM10 and PM2.5) and nitrogen dioxide (NO2), which apply to London and the UK as whole.</paragraph>
+          <paragraph>The ULEZ proposal is the most efficient way to achieve further reductions of the most harmful road transport generated emissions in central London and across the Capital.</paragraph>
+
+          <paragraph>
+          <list type="unordered">
+            <item>A Tfl Bus</item>
+            <item>B Diesel Car</item>
+            <item>C Taxi</item>
+            <item>D Van and Minibus</item>
+            <item>E HGV</item>
+            <item>F Tfl and bus and Coach</item>
+            <item>G Private hire vehicle</item>
+            <item>H Motocycle</item>
+          </list>
+          </paragraph>
+        </chapter>
+
+        <graph unit="%" x="string" y="Percentage">
+          <title>N02 Emissions</title>
+          <abstract>Road trasport causes 40% of emissions by other trasports.</abstract>
+          <dataset label= "Road trasport">
+            <data x="A" y="23"/>
+            <data x="B" y="18"/>
+            <data x="C" y="18"/>
+            <data x="D" y="14"/>
+            <data x="E" y="11"/>
+            <data x="F" y="9"/>
+            <data x="G" y="5"/>
+            <data x="H" y="2"/>
+            </dataset>
+         </graph>
+
+       <chapter>
+         <paragraph>
+         <list type="unordered">
+           <item>A Taxi</item>
+           <item>B Diesel Car</item>
+           <item>C Van and Minibus</item>
+           <item>D Tfl Bus</item>
+           <item>E Petrol Car</item>
+           <item>F HGV</item>
+           <item>G Private hire vehicle</item>
+           <item>H Motocycle</item>
+         </list>
+         </paragraph>
+       </chapter>
+
+         <graph unit="%" x="string" y="Percentage">
+           <title>PM 2.5 Emissions</title>
+           <abstract>Road trasport causes 47% of emissions by other trasports.</abstract>
+           <dataset label= "Road trasport">
+             <data x="A" y="19"/>
+             <data x="B" y="17"/>
+             <data x="C" y="15"/>
+             <data x="D" y="14"/>
+             <data x="E" y="13"/>
+             <data x="F" y="12"/>
+             <data x="G" y="6"/>
+             <data x="H" y="4"/>
+             </dataset>
+          </graph>
+
+          <table>
+            <row type="head">
+              <cell>EU NOx emission standards for passenger cars according to fuel type</cell>
+              <cell>Diesel cars</cell>
+              <cell>Petrol cars</cell>
+            </row>
+
+            <row type="cell">
+              <cell>Euro 3</cell>
+              <cell>0.50 g/Km</cell>
+              <cell>0.15 g/Km</cell>
+            </row>
+
+            <row type="cell">
+              <cell>Euro 4</cell>
+              <cell>0.25 g/Km</cell>
+              <cell>0.08 g/Km</cell>
+            </row>
+
+            <row type="cell">
+              <cell>Euro 5</cell>
+              <cell>0.18 g/Km</cell>
+              <cell>0.06 g/Km</cell>
+            </row>
+
+            <row type="cell">
+              <cell>Euro 6</cell>
+              <cell>0.08 g/Km</cell>
+              <cell>0.06 g/Km</cell>
+            </row>
+          </table>
+
+        <keywords>
+          <keyword name="Global Warming" />
+          <keyword name="Investments" />
+          <keyword name="Renewables" />
+          <keyword name="Manufacturing" />
+          <keyword name="Healthcare" />
+          <keyword name="Transportation" />
+          <keyword name="Construction" />
+        </keywords>
+
+        <sources>
+          <source>consultations.tfl.gov</source>
+        </sources>
+      </section>
+
+      <section>
+        <title>Requirements</title>
+        <chapter>
+          <title>What are the proposed emission requirements?</title>
+          <paragraph>The ULEZ will require all vehicles driving in central London to meet new exhaust emissions standards (ULEZ standards).</paragraph>
+          <paragraph>The standards would take effect from 7 September 2020, and operate 24 hours a day, 7 days a week.</paragraph>
+          <paragraph>It is proposed the ULEZ standards would be based on ‘Euro standards’, these are also used in the Londonwide LEZ.</paragraph>
+          <paragraph>From specified dates onwards, vehicle manufacturers may only sell new vehicles that comply with these standards.</paragraph>
+          <paragraph>The age of a vehicle can be used as a way to determine its Euro standard according to the date of first registration.</paragraph>
+          <paragraph>Vehicles which did not comply with the relevant ULEZ standard would incur a daily charge for this non-compliance.</paragraph>
+          <paragraph>This has been set at a level to reflect the large contribution each vehicle makes on a per-vehicle basis to air pollution and is intended to deter older, more polluting vehicles.</paragraph>
+        </chapter>
+
+        <table>
+          <row type="head">
+            <cell>Type of vehicle</cell>
+            <cell>Proposed emissions standard</cell>
+            <cell>Charge Level if not compliant</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Motorcycle</cell>
+            <cell>Euro 3</cell>
+            <cell>£ 12.50</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Small val and Car</cell>
+            <cell>Euro 4 (Petrol) and EURO 6 (Diesel)</cell>
+            <cell>£ 12.50</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Large val and Minibus</cell>
+            <cell>Euro 4 (Petrol) and EURO 6 (Diesel)</cell>
+            <cell>£ 12.50</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Heavy Goods Vehicle</cell>
+            <cell>Euro VI</cell>
+            <cell>£ 100</cell>
+          </row>
+
+          <row type="cell">
+            <cell>Bus</cell>
+            <cell>Euro IV</cell>
+            <cell>£ 100</cell>
+          </row>
+        </table>
+
+        <keywords>
+          <keyword name="Global Warming" />
+          <keyword name="Investments" />
+          <keyword name="Renewables" />
+          <keyword name="Manufacturing" />
+          <keyword name="Healthcare" />
+          <keyword name="Transportation" />
+          <keyword name="Construction" />
+          <keyword name="KEYWORD" />
+        </keywords>
+
+        <sources>
+          <source>www.scribd.com</source>
+        </sources>
+      </section>
+    </sections>
+   </bulletin>
+  </bulletins>

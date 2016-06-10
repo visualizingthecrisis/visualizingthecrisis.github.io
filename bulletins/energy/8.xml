@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>					                        <!--[ 1 ]-->
+<bulletins>                                                            <!--[ 1 ]-->
+  <title>Renewable energy</title>                                     <!--[ 1 ]-->
+  <subtitle>A look to the Future</subtitle>                             <!--[ 1 ]-->
+  <authors>                                                             <!--[ 1 ]-->
+    <author>Eleonora Di Bartolo</author>                                           <!--[1-N]-->
+    <author>Maria Tollot</author>
+    <author>Serena Montefiori</author>
+  </authors>
+
+  <bulletin id="8 NR" date="20162804">                   <!--[1-N]-->
+  <title>Paris climate deal</title>
+
+  <sections>                                                          <!--[ 1 ]-->
+    <section>
+      <title>COP 21: UN climate change conference</title>
+      <abstract>It’s one of the largest international summits to deal with climate change.</abstract>
+
+      <chapter>
+        <title>When and where?</title>
+        <paragraph>Paris, 22 April 2016.</paragraph>
+        <paragraph>Paris welcomed all participants in the best possible conditions : work, exchanges.</paragraph>
+        <paragraph>It has facilitated the debates between the country and ensuring transparent operation and inclusive negotiation process to facilitate the adoption of an agreement.</paragraph>
+      </chapter>
+
+      <chapter>
+        <title>Who signs the agreement?</title>
+        <paragraph>A record number of more than 130 countries will sign the landmark agreement to tackle climate change.</paragraph>
+      </chapter>
+
+      <chapter>
+        <title>What are the goals?</title>
+        <paragraph>
+        <list type="unordered">
+          <item>Implement measures to reduce emissions.</item>
+          <item>Revise agreements every five years.</item>
+          <item>Accelerating the transition to renewable energy.</item>
+          <item>Keep temperature increase below 2°C per year.</item>
+          <item>Protecting the world’s vital ecosystems.</item>
+        </list>
+       </paragraph>
+      </chapter>
+
+      <chapter>
+        <title>When the agreement comes into force?</title>
+        <paragraph>The agreement reached in Paris by 196 countries still needs formal approval from 55 countries representing 55% of global greenhouse gas emissions to come into force.</paragraph>
+        <paragraph>In some cases, that means a vote in parliament.</paragraph>
+        <paragraph>The US, China and India - the three biggest climate polluters - have all committed to join the agreement, possibly as early as this year.</paragraph>
+      </chapter>
+
+      <chapter>
+        <title>Climate change effects world economy</title>
+        <paragraph>Climate change could cut the value of the world’s financial assets by $2.5tn (£1.7tn), according to the first estimate from economic modelling.</paragraph>
+        <paragraph>In the worst case scenarios, often used by regulators to check the financial health of companies and economies, the losses could soar to $24tn, or 17% of the world’s assets, and wreck the global economy.</paragraph>
+        <paragraph>The research also showed the financial sense in taking action to keep climate change under the 2C danger limit agreed by the world’s nations.</paragraph>
+        <paragraph>In this scenario, the value of financial assets would fall by $315bn less, even when the costs of cutting emissions are included.</paragraph>
+      </chapter>
+
+      <keywords>
+        <keyword name="Global Warming" />
+        <keyword name="Investments" />
+        <keyword name="Renewables" />
+        <keyword name="Manufacturing" />
+        <keyword name="Healthcare" />
+        <keyword name="Global Corporations" />
+        <keyword name="Education" />
+        <keyword name="Governance" />
+      </keywords>
+
+      <sources>
+        <source>theguardian.com</source>
+      </sources>
+    </section>
+  </sections>
+  </bulletin>
+
+  <bulletin id="8 R" date="20162804">                   <!--[1-N]-->
+  <title>Earth Day</title>
+
+  <sections>                                                          <!--[ 1 ]-->
+    <section>
+      <title>The Climate Change Conference: story and meaning</title>
+      <abstract>The United Nations Framework Convention on Climate Change (UNFCCC) is an international environmental treaty.</abstract>
+
+      <chapter>
+        <title>Convention on Climate Change</title>
+        <paragraph>COP21 is an agreement signed in December last year from 175 countries who participated in the World Climate Conference in which they have agreed to reduce polluting emissions.</paragraph>
+        <paragraph>It puts a ceiling increase of global temperature within two degrees to the pre -industrial average.</paragraph>
+        <paragraph>This objective could be achieved if you will help curb emissions by 2030 to 40 billion tons of greenhouse gas per year.</paragraph>
+        <paragraph>If the goals are achieved the oceans will be better protected.</paragraph>
+        <paragraph>Warmer waters prevent the development of marine fauna and flora and destroy coral reefs.</paragraph>
+        <paragraph>It also wants to prevent desertification.</paragraph>
+        <paragraph>The timetable of commitments provides that countries ratify the agreement with their parliaments.</paragraph>
+        <paragraph>The agreement will be operational at the moment is reached the threshold of 55 signers who also represent at least 55 % of global emissions.</paragraph>
+        <paragraph>They will have to prepare the commitments defined: stop increasing greenhouse gas emissions as soon as possible and reach the second half of the century the threshold beyond which the production of new emissions will be absorbed naturally.</paragraph>
+        <paragraph>In 2023 there will be the first application screen existing domestic commitments</paragraph>
+        <paragraph>Subsequent cycles will be clocked with revisions every five years.</paragraph>
+        <paragraph>The developed countries should provide financial resources to assist those developing.</paragraph>
+      </chapter>
+
+      <chapter>
+        <title>Most important steps fot the Climate Change Conference</title>
+        <paragraph>COP1 - Berlin 1995:</paragraph>
+        <paragraph>During the first COP the members expressed concerns on whether the actions of the states to comply with the obligations of the Convention and decided to start a phase of research and analysis.</paragraph>
+        <paragraph>COP3 - Kyoto 1997:</paragraph>
+        <paragraph>The Kyoto Protocol sets emissions targets for developed countries which are binding under international law; it has had two commitment periods (2005/2012 and 2012/2020).</paragraph>
+        <paragraph>COP13 - Bali 2007:</paragraph>
+        <paragraph>42 developed countries have submitted mitigation targets to the UNFCCC secretariat, as have 57 developing countries and the African Group (a group of countries within the UN).</paragraph>
+        <paragraph>COP15 - Copenhagen 2009:</paragraph>
+        <paragraph>Al the member states firm an accord that establishes that global warming had be limited to below 2.0 °C (3.6 °F,) strengthening it in 2015 with a target to limit warming to below 1.5 °C.</paragraph>
+        <paragraph>COP16 - Cancùn 2010:</paragraph>
+        <paragraph>As part of the Cancún agreements, developed and developing countries have submitted mitigation plans to the UNFCCC (compiled with those made as part of the Bali Action Plan).</paragraph>
+        <paragraph>COP17 - Durban 2011:</paragraph>
+        <paragraph>The Durban Platform reaffirms that social and economic development and poverty eradication are the first and overriding priorities of developing country Parties.</paragraph>
+        <paragraph>COP21 - Paris 2015:</paragraph>
+        <paragraph>It puts a ceiling increase of global temperature within two degrees to the pre -industrial average. This objective could be achieved if you will help curb emissions by 2030 to 40 billion tons of greenhouse gas per year.</paragraph>
+      </chapter>
+
+      <keywords>
+        <keyword name="Global Warming" />
+        <keyword name="Investments" />
+        <keyword name="Renewables" />
+        <keyword name="Manufacturing" />
+        <keyword name="Healthcare" />
+        <keyword name="Global Corporations" />
+        <keyword name="Education" />
+        <keyword name="Governance" />
+      </keywords>
+
+      <sources>
+        <source>cop21paris.org</source>
+      </sources>
+    </section>
+
+    <section>
+      <title>The Earth Day</title>
+      <chapter>
+        <title>Story and meaning</title>
+        <paragraph>Earth Day is an annual event, celebrated on April 22, on which day events worldwide are held to demonstrate support for environmental protection.</paragraph>
+        <paragraph>Earth Day Network’s mission is to broaden and diversify the environmental movement worldwide and to mobilize it as the most effective vehicle to build a healthy, sustainable environment, address climate change, and protect the Earth for future generations.</paragraph>
+        <paragraph>Growing out of the first Earth Day, Earth Day Network is the world’s largest recruiter to the environmental movement, working with more than 50,000 partners in 196 countries to build environmental democracy.</paragraph>
+        <paragraph>We work through a combination of education, public policy, and consumer campaigns.</paragraph>
+        <paragraph>The first Earth Day on April 22, 1970, activated 20 million Americans from all walks of life and is widely credited with launching the modern environmental movement.</paragraph>
+        <paragraph>The passage of the landmark Clean Air Act, Clean Water Act, Endangered Species Act and many other groundbreaking environmental laws soon followed.</paragraph>
+        <paragraph>Twenty years later, Earth Day went global, mobilizing 200 million people in 141 countries and lifting environmental issues onto the world stage.</paragraph>
+        <paragraph>More than 1 billion people now participate in Earth Day activities each year, making it the largest civic observance in the world.</paragraph>
+        <paragraph>At every turn, EDN works to broaden the definition of “environment” to include issues that affect our health and our communities, such as greening deteriorated schools, creating green jobs and investment, and promoting activism to stop air and water pollution.</paragraph>
+        <paragraph>With our partner organizations, EDN provides civic engagement opportunities at the local, state, national and global levels around the world. Recognizing that climate change impacts our most vulnerable citizens first and most severely, EDN often works with low income communities to bring their voices and issues into the movement.</paragraph>
+        <paragraph>For the past 45 years, EDN has created civically–oriented innovative programs with partners both inside and outside of the environmental movement to tackle new challenges.</paragraph>
+        <paragraph>Our successful environmental campaigns on issues ranging from voter registration to environmental education make Earth Day Network an environmental leader.</paragraph>
+      </chapter>
+
+      <chapter>
+        <title>Most important steps fot the Earth Day</title>
+        <paragraph>1962: Senator Gaylord Nelson encourage to focus on ambiental social problems and involves important political as Robert Kennedy.</paragraph>
+        <paragraph>1963: Robert Kennedy makes  conference in 11 states about climic and environmental topics.</paragraph>
+        <paragraph>1969: Environmental disaster: oil spill from the Union Oi well off the coast of Santa Barbara in California. Senator Nelson focuses pubblic opinion on environmenal theme.</paragraph>
+        <paragraph>1970: The birth of Earth Day: 20.000 million of american citizens demonstrate for the Earth. The environmental issue become common interests.</paragraph>
+        <paragraph>1990: A team of American, Soviets, Chinese mountaineer climb the Everest. Coming back, they transported downstream over 2 tons of waste left on Mount Everest from previous missions.</paragraph>
+        <paragraph>2000: With Internet the concept of the Earth Day develops all over the world.</paragraph>
+      </chapter>
+
+      <keywords>
+        <keyword name="Global Warming" />
+        <keyword name="Investments" />
+        <keyword name="Renewables" />
+        <keyword name="Manufacturing" />
+        <keyword name="Healthcare" />
+        <keyword name="Global Corporations" />
+        <keyword name="Education" />
+        <keyword name="Governance" />
+      </keywords>
+
+      <sources>
+        <source>earthday.org</source>
+      </sources>
+    </section>
+
+    <section>
+      <title>Projects</title>
+      <chapter>
+        <title>Solar Impulse 2</title>
+        <paragraph>Bertrand Piccard and André Borschberg, have set out to achieve something that still seems impossible today: the First Round-The-World Solar Flight, powered only by the sun, with no fuel or polluting emissions.</paragraph>
+        <paragraph>In line with the Piccard Family tradition of scientific exploration and protection of the environment, Solar Impulse wants to demonstrate that clean technologies can achieve impossible goals.</paragraph>
+        <paragraph>The record breaking solo flight of 5 days and 5 nights without fuel from Nagoya to Hawaii gives a clear message: everybody could use the plane’s technologies on the ground to halve our world’s energy consumption, save natural resources and improve our quality of life.</paragraph>
+        <paragraph>This message is being spread by the pilots to the general public, students, key decision-makers and entrepreneurs all over the world.</paragraph>
+        <paragraph>Solar Impulse 2 is a solar airplane consists of 17.000 solar cells and a battery system that allows him to fly even at night thanks to which covered the 3.760 km flight from Hawaii in 62 hours.</paragraph>
+      </chapter>
+
+      <keywords>
+        <keyword name="Global Warming" />
+        <keyword name="Investments" />
+        <keyword name="Renewables" />
+        <keyword name="Manufacturing" />
+        <keyword name="Healthcare" />
+        <keyword name="Global Corporations" />
+        <keyword name="Education" />
+        <keyword name="Governance" />
+        <keyword name="Start-ups" />
+      </keywords>
+
+      <sources>
+        <source>solarimpulse.com</source>
+        <source>repubblica.it</source>
+      </sources>
+    </section>
+
+    <section>
+      <title>Italy</title>
+      <chapter>
+        <title>Start-up growth</title>
+        <paragraph>The Italian Startup Executive Council announces the entry of 11 new members in its ecosystem: they are two startup consolidated, six incubators, an investor and two companies.</paragraph>
+        <paragraph>The Directors have also approved the membership of many individuals and many startup "seed "; that is, young innovative companies that have not reached 1 million euro of turnover and have obtained an investment in equity under the same threshold, which, according to association rules , belong to the Association free of charge, for a total of 1,638 members , up from 681 in June 2015.</paragraph>
+        <paragraph>€ 372.000 are invested from 2008 to 2015.</paragraph>
+        <paragraph>€ 120.000 are invested in 2015.</paragraph>
+        <paragraph>€ 40.000.000 are saved in raw materials for European industry.</paragraph>
+        <paragraph>€ 12.000.000 are saved in raw materials for Italian industry.</paragraph>
+
+      </chapter>
+
+      <keywords>
+        <keyword name="Global Warming" />
+        <keyword name="Investments" />
+        <keyword name="Renewables" />
+        <keyword name="Manufacturing" />
+        <keyword name="Healthcare" />
+        <keyword name="Global Corporations" />
+        <keyword name="Education" />
+        <keyword name="Governance" />
+        <keyword name="Start-ups" />
+      </keywords>
+
+      <sources>
+        <source>economyup.it</source>
+      </sources>
+    </section>
+  </sections>
+  </bulletin>
+</bulletins>

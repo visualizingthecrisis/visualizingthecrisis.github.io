@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>					                        <!--[ 1 ]-->
+<bulletins>                                                            <!--[ 1 ]-->
+  <title>Renewable energy</title>                                     <!--[ 1 ]-->
+  <subtitle>A look to the Future</subtitle>                             <!--[ 1 ]-->
+  <authors>                                                             <!--[ 1 ]-->
+    <author>Eleonora Di Bartolo</author>                                           <!--[1-N]-->
+    <author>Maria Tollot</author>
+    <author>Serena Montefiori</author>
+  </authors>
+
+  <bulletin id="7 NR" date="20162104">
+  <title>Sea drills referendum</title>
+  <sections>                                                          <!--[ 1 ]-->
+    <section>
+      <title>What is the “No-Drills” referendum</title>
+      <abstract>Referendum is a consultation to decide if stop the renewal of gas and mining
+        concessions oil for deposits within 12 miles of the Italian coast.</abstract>
+
+        <chapter>
+          <paragraph>
+            <list type="unordered">
+              <item>A Eni</item>
+              <item>B Shell Italia</item>
+              <item>C Ionica gas</item>
+              <item>D Edison</item>
+              <item>E Others</item>
+              <item>F Commons</item>
+              <item>G Enviorment fund</item>
+              <item>H State</item>
+              <item>I Development fund</item>
+              <item>L Regions</item>
+            </list>
+          </paragraph>
+        </chapter>
+
+      <graph unit="%" x="string" y="percentage">
+        <title>Royalties</title>
+        <abstract>Eni represents the biggest royalties.</abstract>
+        <dataset label= "Percentage">
+        <data x="A" y="32.34"/>
+        <data x="B" y="13.39"/>
+        <data x="C" y="2.42"/>
+        <data x="D" y="1.42"/>
+        <data x="E" y="0.43"/>
+        <data x="F" y="3.85"/>
+        <data x="G" y="4.42"/>
+        <data x="State" y="7.83"/>
+        <data x="I" y="10.68"/>
+        <data x="L" y="23.22"/>
+        </dataset>
+        </graph>
+
+      <table>
+        <row type="head">
+          <cell>Sea</cell>
+          <cell>Number of wells</cell>
+          <cell>Number of platforms</cell>
+        </row>
+        <row type="cell">
+          <cell>High Adriaco</cell>
+          <cell>319</cell>
+          <cell>47</cell>
+        </row>
+        <row type="cell">
+          <cell>Center Adriatico</cell>
+          <cell>70</cell>
+          <cell>22</cell>
+        </row>
+        <row type="cell">
+          <cell>Ionian</cell>
+          <cell>29</cell>
+          <cell>5</cell>
+        </row>
+        <row type="cell">
+          <cell>Sicily</cell>
+          <cell>45</cell>
+          <cell>5</cell>
+        </row>
+      </table>
+
+      <chapter>
+        <title>Total production by drills</title>
+        <paragraph>Total gas producted is 542.81 ton and represents 17,6%.</paragraph>
+        <paragraph>Total oil producted is 1.84 ton and represents 9%.</paragraph>
+      </chapter>
+
+      <keywords>
+        <keyword name="Global Warming" />
+        <keyword name="Investments" />
+        <keyword name="Manufacturing" />
+        <keyword name="Construction" />
+        <keyword name="Healthcare" />
+        <keyword name="Commerce" />
+        <keyword name="Mining" />
+        <keyword name="Global Corporations" />
+     </keywords>
+
+     <sources>
+       <source>espresso.repubblica.it</source>
+       <source>unmig.sviluppoeconomico.gov.it</source>
+     </sources>
+      </section>
+
+      <section>
+        <title>Political point of view</title>
+        <chapter>
+          <title>Debate</title>
+          <paragraph>The ruling Democratic party led by Matteo Renzi, prime minister, is actively campaigning for abstention.</paragraph>
+          <paragraph>It does not want to support the No campaign for fear of seeming too close to big energy groups and alienating the left wing of its party.</paragraph>
+          <paragraph>But Renzi has repeatedly said the referendum is unnecessary and called on voters to stay away from the polls.</paragraph>
+          <paragraph>Meanwhile, the populist Five Star Movement, Italy’s strongest opposition party, is supporting the Yes campaign,
+          pitting it once again against Renzi.</paragraph>
+        </chapter>
+
+        <quote>
+          <author>Five Star Movement</author>
+          <role>Italian politicians</role>
+          <text>"Yes: Enviroment safeguard; Investment in renewables; Maritime tourism safeguard."</text>
+          <text>"NO: Less tankers in Mediterranean sea; Job places safeguard."</text>
+        </quote>
+
+
+        <keywords>
+          <keyword name="Global Warming" />
+          <keyword name="Investments" />
+          <keyword name="Manufacturing" />
+          <keyword name="Construction" />
+          <keyword name="Healthcare" />
+          <keyword name="Commerce" />
+          <keyword name="Mining" />
+          <keyword name="Employment" />
+          <keyword name="Governance" />
+          <keyword name="Global Corporations" />
+       </keywords>
+
+       <sources>
+         <source>corrieredellasera.it</source>
+       </sources>
+      </section>
+
+      <section>
+        <title>Referendum of April 17 2016</title>
+        <chapter>
+          <title>Results</title>
+          <paragraph>31.19% represent people who voted the referendum.</paragraph>
+          <paragraph>85.84% are people who voted yes.</paragraph>
+          <paragraph>14.16% are people who voted no.</paragraph>
+       </chapter>
+
+       <keywords>
+         <keyword name="Global Warming" />
+         <keyword name="Investments" />
+         <keyword name="Manufacturing" />
+         <keyword name="Construction" />
+         <keyword name="Healthcare" />
+         <keyword name="Commerce" />
+         <keyword name="Mining" />
+         <keyword name="Employment" />
+         <keyword name="Governance" />
+         <keyword name="Citizenship" />
+         <keyword name="Global Corporations" />
+      </keywords>
+
+      <sources>
+        <source>ansa.it</source>
+      </sources>
+     </section>
+    </sections>
+   </bulletin>
+
+   <bulletin id="7" date="20162104">                   <!--[1-N]-->
+   <title>Green Investments</title>
+
+   <sections>                                                          <!--[ 1 ]-->
+     <section>
+       <title>Green economy by big international business</title>
+       <abstract>The health of the earth is getting worse. For this investment in renewable they are growing.</abstract>
+
+       <chapter>
+         <title>Apple</title>
+         <paragraph>Apple Renew​ is a global program that lets you bring used Apple devices to any Apple Store for reuse or responsible recycling.</paragraph>
+         <paragraph>Liam​, a line of robots that can quickly disassemble iPhone 6, sorting its high­quality components and reducing the need to mine more resources from the earth.</paragraph>
+         <paragraph>With two Liam lines up and running, it's possible to take apart up to 2.4 million phones a year.</paragraph>
+         <paragraph>Every molecule of water is used matters: through employee training, baseline assessments, performance evaluations, and technical support, it already helped ​73 facilities
+           increase their reuse and recycling of treated wastewater, and save ​3.8 billion gallons of water.</paragraph>
+         <paragraph>With a system for the data centers water can be reused up to 35 times.</paragraph>
+
+         <paragraph>
+           <list type="unordered">
+             <item>A recycled paper</item>
+             <item>B non recycled paper</item>
+           </list>
+         </paragraph>
+
+       </chapter>
+
+       <graph unit="%" x="string" y="percentage">
+         <title>Recycled wood fiber</title>
+         <abstract>Paper used in packaging made of recycled wood fiber</abstract>
+         <dataset label= "Percentage">
+         <data x="A" y="60"/>
+         <data x="B" y="40"/>
+         </dataset>
+         </graph>
+
+         <paragraph>
+           <list type="unordered">
+             <item>A vergin paper used</item>
+             <item>B vergin paper non used</item>
+           </list>
+         </paragraph>
+
+         <graph unit="%" x="string" y="percentage">
+           <title>Use of virgin paper</title>
+           <abstract>99% of the virgin paper used in packaging came from sustainably managed forest or controlled wood sources.</abstract>
+           <dataset label= "Percentage">
+           <data x="A" y="99"/>
+           <data x="B" y="1"/>
+           </dataset>
+           </graph>
+
+           <paragraph>
+             <list type="unordered">
+               <item>A Steel</item>
+               <item>B Plastic</item>
+               <item>C Glass</item>
+               <item>D Aluminum</item>
+               <item>E Copper</item>
+               <item>F Cobalt</item>
+               <item>G Zinc</item>
+               <item>H Lead</item>
+               <item>I Nickel</item>
+               <item>J Silver</item>
+               <item>K Tin</item>
+               <item>L Gold</item>
+             </list>
+           </paragraph>
+
+           <graph unit="%" x="string" y="percentage">
+             <title>Material recovered</title>
+             <abstract>Amount of material recovered for reuse through take-back initiatives in 2015.</abstract>
+             <dataset label= "libbre of material recovered">
+             <data x="A" y="46.000"/>
+             <data x="B" y="22.000"/>
+             <data x="C" y="19.000"/>
+             <data x="D" y="7.000"/>
+             <data x="E" y="5.000"/>
+             <data x="F" y="0.400"/>
+             <data x="G" y="0,350"/>
+             <data x="H" y="0,170"/>
+             <data x="I" y="0,060"/>
+             <data x="J" y="0,010"/>
+             <data x="K" y="0,007"/>
+             <data x="L" y="0,003"/>
+           </dataset>
+           </graph>
+
+           <chapter>
+             <title>Amazon</title>
+             <paragraph>Critics say Amazon has been slow on the clean energy pickup, but last month the company announced that it’s building Virginia’s largest solar project; an 80­ megawatt solar farm to power its nearby Amazon Services data centers.</paragraph>
+             <paragraph>The company will build an ​80­megawatt solar farm in Virginia​, the largest solar project in the state so far, to help power its Amazon Web Services data centers in the area.</paragraph>
+             <paragraph>The new solar farm in Accomack County could start feeding clean energy to the data centers as soon as October 2016 and will deliver about 170,000 megawatt­hours of electricity, or enough to power 15,000 homes.</paragraph>
+             <paragraph>Last January, Amazon announced that it was also ​building a 150­megawatt wind farm​in Benton County, Indiana.</paragraph>
+             <paragraph>It will be called the Amazon Web Services Wind Farm (Fowler Ridge) and should generate the equivalent energy of that used by approximately 46,000 US homes.</paragraph>
+           </chapter>
+
+           <chapter>
+             <title>Ikea</title>
+             <paragraph>With a plan to be energy independent in their stores by 2020, IKEA is investing​ $680 million into renewable energy over the next 5 years, adding additional solar and wind power systems to locations across the globe​.</paragraph>
+             <paragraph>700.000 are solar panels on its building worldwide.</paragraph>
+             <paragraph>314 are offsite wind turbines.</paragraph>
+           </chapter>
+
+           <keywords>
+             <keyword name="Global Warming" />
+             <keyword name="Investments" />
+             <keyword name="Global Corporation" />
+             <keyword name="Renewables" />
+             <keyword name="Water" />
+             <keyword name="Manufacturing" />
+             <keyword name="Healthcare" />
+             <keyword name="Wood/Forest" />
+             <keyword name="1%" />
+             <keyword name="Tech" />
+           </keywords>
+
+           <sources>
+             <source>apple.com</source>
+             <source>treehugger.com</source>
+           </sources>
+         </section>
+
+         <section>
+           <title>Global investments</title>
+
+           <graph unit="$B" x="Date" y="Number">
+             <title>Split by type of economy</title>
+             <abstract>From 2004 to 2014 China, India and Brazil have increased investments on renewables.</abstract>
+
+             <dataset label= "China/Indonesia/Brazil">
+               <data x="2004" y="7"/>
+               <data x="2005" y="14"/>
+               <data x="2006" y="21"/>
+               <data x="2007" y="35"/>
+               <data x="2008" y="43"/>
+               <data x="2009" y="51"/>
+               <data x="2010" y="56"/>
+               <data x="2011" y="70"/>
+               <data x="2012" y="77"/>
+               <data x="2013" y="73"/>
+               <data x="2014" y="104"/>
+               <data x="2015" y="120"/>
+
+             </dataset>
+
+             <dataset label= "Other developing">
+               <data x="2004" y="3"/>
+               <data x="2005" y="6"/>
+               <data x="2006" y="8"/>
+               <data x="2007" y="11"/>
+               <data x="2008" y="17"/>
+               <data x="2009" y="14"/>
+               <data x="2010" y="20"/>
+               <data x="2011" y="17"/>
+               <data x="2012" y="30"/>
+               <data x="2013" y="26"/>
+               <data x="2014" y="28"/>
+               <data x="2015" y="36"/>
+             </dataset>
+
+             <dataset label= "Developed">
+               <data x="2004" y="37"/>
+               <data x="2005" y="52"/>
+               <data x="2006" y="83"/>
+               <data x="2007" y="118"/>
+               <data x="2008" y="128"/>
+               <data x="2009" y="114"/>
+               <data x="2010" y="163"/>
+               <data x="2011" y="191"/>
+               <data x="2012" y="150"/>
+               <data x="2013" y="135"/>
+               <data x="2014" y="141"/>
+               <data x="2015" y="130"/>
+             </dataset>
+           </graph>
+
+           <graph unit="$B" x="Date" y="Number">
+             <title>Asset Finance</title>
+             <abstract>The biggest finance investments are focused on solar and wind sources.</abstract>
+             <dataset label= "Investments">
+               <data x="2004" y="32.0"/>
+               <data x="2005" y="52.6"/>
+               <data x="2006" y="84.5"/>
+               <data x="2007" y="109.8"/>
+               <data x="2008" y="135.8"/>
+               <data x="2009" y="120.2"/>
+               <data x="2010" y="152.9"/>
+               <data x="2011" y="181.4"/>
+               <data x="2012" y="163.3"/>
+               <data x="2013" y="157.2"/>
+               <data x="2014" y="188.4"/>
+               <data x="2015" y="199.0"/>
+             </dataset>
+           </graph>
+
+           <graph unit="$B" x="Date" y="Number">
+             <title>National companies</title>
+             <abstract>From 2007 to 2014 company nationality have increased investments.</abstract>
+             <dataset label= "Investments">
+               <data x="2007" y="36.4"/>
+               <data x="2008" y="45.5"/>
+               <data x="2009" y="67.2"/>
+               <data x="2010" y="78.0"/>
+               <data x="2011" y="91.0"/>
+               <data x="2012" y="91.9"/>
+               <data x="2013" y="83,5"/>
+               <data x="2014" y="83.9"/>
+             </dataset>
+           </graph>
+
+           <table>
+             <row type="head">
+               <cell>Investment of public markets by sector</cell>
+               <cell>Growth</cell>
+             </row>
+
+             <row type="cell">
+               <cell>Solar $10.100</cell>
+               <cell>21%</cell>
+             </row>
+
+             <row type="cell">
+               <cell>Wind $20.100</cell>
+               <cell>-69%</cell>
+             </row>
+
+             <row type="cell">
+               <cell>Biomass and wte $0.300</cell>
+               <cell>-10%</cell>
+             </row>
+
+             <row type="cell">
+               <cell>Biofuels $0.300</cell>
+               <cell>-48%</cell>
+             </row>
+
+             <row type="cell">
+               <cell>Geothermal $0.010</cell>
+               <cell>-46%</cell>
+             </row>
+
+             <row type="cell">
+               <cell>Marine $0.004</cell>
+               <cell>-91</cell>
+             </row>
+
+             <row type="cell">
+               <cell>Small Hydro $0.004</cell>
+               <cell>-100</cell>
+             </row>
+           </table>
+
+           <keywords>
+             <keyword name="Global Warming" />
+             <keyword name="Investments" />
+             <keyword name="Renewables" />
+             <keyword name="Manufacturing" />
+             <keyword name="Healthcare" />
+             <keyword name="South America" />
+             <keyword name="Southern Asia" />
+             <keyword name="Central and Eastern Asia" />
+           </keywords>
+
+           <sources>
+             <source>renewableenergyworld.com</source>
+           </sources>
+
+           </section>
+         </sections>
+       </bulletin>
+     </bulletins>
