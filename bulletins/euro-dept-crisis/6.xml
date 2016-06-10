@@ -24,11 +24,11 @@
       <quote>
         <author>Jean-Michel Six</author>
         <role>Standard&amp;Poor's Chief</role>
-        <text>Standard &amp; Poor's Chief European Economist Jean-Michel Six says that Europe must balance out export trade
+        <text>Standard&amp;Poor's Chief European Economist Jean-Michel Six says that Europe must balance out export trade
         slowdown with domestic consumption growth. The risk is zero growth for European economy in 2017.</text>
       </quote>
       <graph unit="%" x="country" y="number">
-        <title>Standard &amp; Poor’s forecasts</title>
+        <title>Standard&amp;Poor’s forecasts</title>
         <dataset label="November 2015">
           <data x="GB" y="2.2"/>
           <data x="NL" y="1.9"/>
@@ -78,7 +78,7 @@
           </paragraph>
         </chapter>
         <graph unit="%" x="country" y="number">
-          <title>Top European trade partners - Export 2014 | 2016</title>
+          <title>Top European trade partners - Export 2014, 2016</title>
           <dataset label="Export rate">
             <data x="US" y="+2.5"/>
             <data x="KR" y="+0.1"/>
@@ -90,7 +90,7 @@
           </dataset>
         </graph>
         <graph unit="USD" x="country" y="number">
-          <title>The countries hardest hitten by Russia’s trade ban, in $ million</title>
+          <title>The countries hardest hitten by Russia’s trade ban</title>
           <dataset label="Value of losses">
             <data x="PL" y="1,090,000,000"/>
             <data x="NO" y="1,080,000,000"/>
@@ -129,12 +129,12 @@
         <title>...But there is still hope</title>
           <chapter>
             <paragraph>
-              To balance trade loss EU has to increase domestic consumptions: that could be done only with
+              To balance trade loss with other countries, EU has to increase domestic consumptions: that could be done only with
               the decrease of unemployment.Nowadays the situation in Europe is getting better in this respect.
             </paragraph>
           </chapter>
           <graph unit="%" x="date" y="number">
-            <title>Employment in EU 2012 | 2016</title>
+            <title>Employment in EU 2012, 2016</title>
             <dataset label="Employment">
               <data x="2012" y="90"/>
               <data x="2014" y="90.4"/>
@@ -187,12 +187,9 @@
                 <data x="Net exportation" y="-0.5"/>
               </dataset>
             </graph>
-            <chapter>
-            <title>GDP is still going up...</title>
-            </chapter>
               <graph unit="%" x="date" y="number">
-                <title>German GDP | 2003-16</title>
-                <abstract>German GDP/Employment rate - 2008 | 2016</abstract>
+                <title>GDP is still going up...</title>
+                <abstract>German GDP/Employment rate 2008, 2016</abstract>
                 <dataset label="GDP">
                   <data x="2008" y="1"/>
                   <data x="2012" y="0.2"/>
@@ -204,11 +201,9 @@
                   <data x="2016" y="4.6"/>
                 </dataset>
               </graph>
-              <chapter>
-                <title>...even if export is going down</title>
-              </chapter>
           <graph unit="%" x="country" y="number">
-            <title>DEU trade partners, 2014 | 2015</title>
+            <title>...even if export is going down</title>
+            <abstract>DEU trade partners 2014, 2015</abstract>
             <dataset label="DE">
               <data x="US" y="18.7"/>
               <data x="RU" y="-25.5"/>
@@ -220,7 +215,7 @@
             </dataset>
           </graph>
           <graph unit="%" x="date" y="number">
-            <title>German exportation, 2003 | 2016</title>
+            <title>German exportation 2003, 2016</title>
             <dataset label="Emerging_economies">
               <data x="2003" y="100"/>
               <data x="2015" y="100"/>
@@ -263,7 +258,8 @@
             </paragraph>
           </chapter>
           <quote>
-          <author>Jean-Michel Six</author>
+          <author>Office of National Statistics</author>
+          <role>UK Statistics agency</role>
           <text>The ONS has just announced the highest Current Account deficit on record for the British economy,
           at 5.2% of annual GDP (7.0% in the last quarter of 2015).</text>
         </quote>
@@ -279,7 +275,7 @@
             </chapter>
             <graph unit="USD" x="string" y="number">
               <title>UK import/export value in £ billion</title>
-              <dataset label="Values">
+              <dataset label="Values by typology ">
                 <data x="Import" y="44,845,000,000,000"/>
                 <data x="Export" y="41,386,000,000,000"/>
                 <data x="Deficit" y="-2,105,000,000,000"/>
