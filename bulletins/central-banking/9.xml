@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins group="centralbanking">
+  <title>OH! G.O.D.</title>
+  <subtitle>Governors Of Demand</subtitle>
+  <authors>
+    <author>Giulia Fracas</author>
+    <author>Francesca Polini</author>
+  </authors>
+  <bulletin id="09" date="20160507">
+    <sections>
+      <section>
+        <title>The last Bin Laden</title>
+        <chapter>
+          <paragraph>The European Central Bank (ECB) approved on Wednesday the progressive disappearance of 500 euro notes as a method to fight crime, drug trafficking or terrorism. The council body, formed by its president, Mario Draghi, and the presidents of all the continental central banks agreed that member states can not print more paper currency units higher value of the entire eurozone. ECB decided to stop issuing the high-value note by the end of 2018. The 500 euro is rarely used in daily transactions, it has even been nicknamed “Bin Laden” for its elusiveness.</paragraph>
+        </chapter>
+        <graph unit="EUR" x="country" y="number">
+          <title>€500 emissed by central bank in 2015</title>
+          <dataset label= "mln €500 emissed">
+            <data x="ES" y="68"/>
+            <data x="IT" y="65"/>
+            </dataset>
+          </graph>
+          <keywords>
+          <keyword name="Western Europe" />
+          <keyword name="Currencies" />
+          <keyword name="Governance" />
+        </keywords>
+        <sources>
+          <source>insidetheworld.org</source>
+          <source>ibtimes.com</source>
+          <source>nwaonline.com</source>
+          <source>wallstreetitalia.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>Do you know that...</title>
+        <abstract>News about €500 banknotes</abstract>
+        <graph unit="%" x="string" y="percentage">
+          <title>The portion of €500 banknotes in circulation value</title>
+          <dataset label= "€500 in circulation">
+            <data x="€500 in circulation" y="30"/>
+          </dataset>
+        </graph>
+        <graph unit="%" x="string" y="percentage">
+          <title>Of EU citizens have never seen a 500 euro note</title>
+          <dataset label= "citizens never seen the banknote">
+            <data x="citizens never seen €500" y="56"/>
+          </dataset>
+        </graph>
+        <graph unit="%" x="string" y="percentage">
+          <title>Of 500 euro bills are outside of Europe</title>
+          <dataset label= "€500 outside Europe">
+            <data x="€500 outside Europe" y="80"/>
+          </dataset>
+        </graph>
+        <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Currencies" />
+      </keywords>
+      <sources>
+        <source>eunews.it</source>
+        <source>yahoo.com</source>
+        <source>ibtimes.com</source>
+      </sources>
+      </section>
+      <section>
+        <title>Pro death</title>
+        <abstract>The country that wants to abolish €500 banknote</abstract>
+        <chapter>
+          <paragraph>France is one of the countries that wanted to stop printing €500 banknotes. Indeed, a few weeks ago the Minister of Finance, Michel Sapin has thus settled the question: “500 euros’ banknotes are generally used to hide things instead of buying them”, highlighting the correlation between this banknote and the crime.</paragraph>
+        </chapter>
+        <graph unit="%" x="string" y="number">
+          <title>€500 bills situation</title>
+          <dataset label= "€500 in France">
+            <data x="total bills" y="3"/>
+            <data x="total value" y="28"/>
+          </dataset>
+        </graph>
+        <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="Currencies" />
+      </keywords>
+      <sources>
+        <source>ibtimes.com</source>
+        <source>lettera43.it</source>
+      </sources>
+      </section>
+      <section>
+        <title>Top Italian 500 bill deposit</title>
+        <chapter>
+          <paragraph>In 2015 Italian Central Bank emitted 65 millions of €500 but they have returned more than 8 times. During the last few years that bill is incresed in every banks like a deposit, especially in the north of country.</paragraph>
+        </chapter>
+        <graph unit="%" x="string" y="number">
+          <title>€500 deposit in the North of Italy</title>
+          <dataset label= "€500 in the North of Italy">
+            <data x="Trentino Alto Adige" y="3853"/>
+            <data x="Emilia Romagna" y="847"/>
+            <data x="Lombardy" y="393"/>
+          </dataset>
+        </graph>
+        <chapter>
+          <paragraph>Also, in the South of Italy bank deposits of .500 bill are high, especially in regions where racketeering works.</paragraph>
+        </chapter>
+        <graph unit="EUR" x="string" y="number">
+          <title>€500 deposit in the South of Italy</title>
+          <dataset label= "millions of €500 in South of Italy">
+            <data x="Campania" y="500"/>
+            <data x="Puglia, Sicily" y="350"/>
+            <data x="Calabria" y="150"/>
+          </dataset>
+        </graph>
+        <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="Currencies" />
+      </keywords>
+      <sources>
+        <source>lettera43.it</source>
+        <source>ibtimes.com</source>
+      </sources>
+      </section>
+      <section>
+        <title>Growth of Euro banknotes in circulation</title>
+        <chapter>
+          <paragraph>The circulation of €500 bill has increased dramatically from 2002, sparking fears the bill was being used to finance terrorism. The €500 bill now makes up just under a third of all cash in circulation in the EU. The other denominations, from €5 to €200,will remain in place.</paragraph>
+        </chapter>
+        <graph unit="EUR" x="date" y="number">
+          <title>Growth of Euro banknotes</title>
+          <dataset label= "Growth of €500 bill">
+            <data x="2003" y="37"/>
+            <data x="2004" y="85"/>
+            <data x="2005" y="118"/>
+            <data x="2006" y="148"/>
+            <data x="2007" y="180"/>
+            <data x="2008" y="210"/>
+            <data x="2009" y="212"/>
+            <data x="2010" y="225"/>
+            <data x="2011" y="270"/>
+            <data x="2012" y="330"/>
+            <data x="2013" y="340"/>
+            <data x="2014" y="352"/>
+            <data x="2015" y="348"/>
+            <data x="2016" y="349"/>
+          </dataset>
+          <dataset label= "Growth of €200 bill">
+            <data x="2003" y="20"/>
+            <data x="2004" y="26"/>
+            <data x="2005" y="28"/>
+            <data x="2006" y="30"/>
+            <data x="2007" y="35"/>
+            <data x="2008" y="37"/>
+            <data x="2009" y="40"/>
+            <data x="2010" y="43"/>
+            <data x="2011" y="45"/>
+            <data x="2012" y="47"/>
+            <data x="2013" y="46"/>
+            <data x="2014" y="47"/>
+            <data x="2015" y="48"/>
+            <data x="2016" y="50"/>
+          </dataset>
+          <dataset label= "Growth of €100 bill">
+            <data x="2003" y="27"/>
+            <data x="2004" y="65"/>
+            <data x="2005" y="85"/>
+            <data x="2006" y="90"/>
+            <data x="2007" y="105"/>
+            <data x="2008" y="120"/>
+            <data x="2009" y="125"/>
+            <data x="2010" y="150"/>
+            <data x="2011" y="152"/>
+            <data x="2012" y="160"/>
+            <data x="2013" y="175"/>
+            <data x="2014" y="170"/>
+            <data x="2015" y="185"/>
+            <data x="2016" y="180"/>
+          </dataset>
+          <dataset label= "Growth of €50 bill">
+            <data x="2003" y="65"/>
+            <data x="2004" y="120"/>
+            <data x="2005" y="150"/>
+            <data x="2006" y="160"/>
+            <data x="2007" y="175"/>
+            <data x="2008" y="205"/>
+            <data x="2009" y="220"/>
+            <data x="2010" y="250"/>
+            <data x="2011" y="265"/>
+            <data x="2012" y="270"/>
+            <data x="2013" y="310"/>
+            <data x="2014" y="320"/>
+            <data x="2015" y="330"/>
+            <data x="2016" y="325"/>
+          </dataset>
+        </graph>
+        <keywords>
+        <keyword name="Currencies" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+        <source>qz.com/</source>
+      </sources>
+      </section>
+      <section>
+        <title>Against death</title>
+        <chapter>
+          <paragraph>In Germany, at a time when trust in the ECB is at record lows, it will certainly be seen as a further step in the direction of the removal of cash.Reasons for the unease over changes to the composition of cash in Germany, Austria and Switzerland range from a simple preference for an anonymous payment method.</paragraph>
+        </chapter>
+        <graph unit="%" x="string" y="percentage">
+          <title>German transactions in cash</title>
+          <abstract>Germany is one of the countries that continue to use big size of cash and it is against the reform for this.</abstract>
+          <dataset label= "German transactions">
+            <data x="transactions in cash" y="80"/>
+            <data x="electronic transactions" y="20"/>
+          </dataset>
+        </graph>
+        <keywords>
+        <keyword name="Western Europe" />
+      </keywords>
+      <sources>
+        <source>ibtimes.com</source>
+        <source>lettera43.it</source>
+      </sources>
+      </section>
+      <section>
+        <title>Europe in cash</title>
+        <abstract>Volume and value of cash in Europe</abstract>
+        <chapter>
+          <paragraph>If you look at certain countries and certain sectors, digital payments have already taken off in Europe. But Europe also includes Italy, Portugal and Germany, where cash is still used very frequently.</paragraph>
+        </chapter>
+        <graph unit="%" x="string" y="number">
+          <title>Quantity of cash in Europe</title>
+          <dataset label= "Cash in Europe">
+            <data x="Volume" y="34"/>
+            <data x="Value" y="85"/>
+          </dataset>
+        </graph>
+        <keywords>
+        <keyword name="Currencies" />
+        <keyword name="Western Europe" />
+        <keyword name="Eastern Europe" />
+      </keywords>
+      <sources>
+        <source>bloomberg.com</source>
+      </sources>
+      </section>
+      <section>
+        <title>How much is it?</title>
+        <abstract>Cost to abolish €500 banknote</abstract>
+        <chapter>
+          <paragraph>This reform has a price for European Central Bank, indeed they have to print more 100 and 200 euro banknotes for substituting .500 bill. The operation costs about 500 millions euros, said Bundesbank. But, this is important for improving investments and reduce save money.</paragraph>
+        </chapter>
+        <keywords>
+        <keyword name="Currencies" />
+        <keyword name="Governance" />
+      </keywords>
+      <sources>
+        <source>lastampa.it</source>
+        <source>insidetheworld.org</source>
+      </sources>
+      </section>
+      <section>
+        <title>Cyberterrorism</title>
+        <chapter>
+          <paragraph>Cyberterrorism is any "premeditated, politically motivated attack against information, computer systems, computer programs, and data which results in violence against non-combatant targets by sub-national groups or clandestine agents. Unlike a nuisance virus or computer attack that results in a denial of service, a cyberterrorist attack is designed to cause physical violence or extreme financial harm. According to the U.S. Commission of Critical Infrastructure Protection, possible cyberterrorist targets include the banking industry, military installations, power plants, air traffic control centers, and water systems.</paragraph>
+          <paragraph>While DDoS attacks were once deemed primarily a nuisance, experts now say they're becoming
+a routine strategy cybercriminals use as part of a campaign to commit fraud or extortion. The second
+quarter of 2015 set a record for the number of distributed denial of service (DDoS) attacks recorded
+on Akamai’s Prolexic Routed netw ork— more than double what was reported in Q2 2014.
+The profile of the typical attack, however, has changed. In Q2 last year, high-bandwidth,
+short-duration attacks were the norm, driven by the use of server-based botnets. This quarter,
+less powerful but longer duration attacks were the norm.</paragraph>
+        </chapter>
+        <graph unit="%" x="string" y="percentage">
+          <title>Total attacks on Q2 of 2015</title>
+          <dataset label= "website attacks">
+            <data x="HTTPS attacks" y="56"/>
+            <data x="HTTP attacks" y="44"/>
+        </dataset>
+        </graph>
+        <keywords>
+        <keyword name="Terrorism" />
+        <keyword name="Tech" />
+      </keywords>
+      <sources>
+        <source>imperva.com</source>
+        <source>investopedia.com</source>
+      </sources>
+      </section>
+      <section>
+        <title>Shut down the banks</title>
+        <quote>
+          <author>Anonymous</author>
+          <role>Member of Anonymous group</role>
+          <text>Olympus will fall. A few days ago we declared the revival of Operation Icarus. We will not let the banks win, we will be attacking the banks with one of the most massive attacks ever seen in the history of Anonymous. Today we have continuously taken down the website of the Bank of Greece, this marks the start of a 30-day campaign against central bank sites across the world. We are anonymous. We are legion. We do not forgive. We do not forget. We are the voice, of the voiceless. Global banking cartel, you've probably expected us.</text>
+        </quote>
+        <chapter>
+          <title>The group anonymous</title>
+          <paragraph>The various people behind Anonymous worldwide are united in a belief that corporations and organizations they consider to be corrupt should be attacked. Not all of Anonymous’ activities involve attacking networks or websites. Anonymous has also been active in initiating public protests. But the web and IRC channels are the lifeblood of the group. If it weren’t for the Internet, Anonymous would’ve never existed.</paragraph>
+        </chapter>
+        <chapter>
+          <title>#OpIcarus</title>
+          <paragraph>Hacktivist collective Anonymous has begun launching cyberattacks on banks across the world. The Central Bank of the Dominican Republic, the Guernsey Financial Services Commission, the Central Bank of Maldives and the Dutch Central Bank were briefly offline on 6 May, while the National Bank of Panama and the Central Bank of Kenya were reportedly taken offline a day later. The Central Bank of Mexico and the Central Bank of Bosnia and Herzegovina were also brought down by a DDoS attack.</paragraph>
+        </chapter>
+        <table>
+          <row type="head">
+            <cell>Date</cell>
+            <cell>Bank</cell>
+          </row>
+          <row type="cell">
+            <cell>May 3rd</cell>
+            <cell>Greece central bank</cell>
+        </row>
+        <row type="cell">
+          <cell>May 6th</cell>
+          <cell>The Central Bank of the Dominican Republic, the Guernsey Financial Services Commission, the Central Bank of Maldives, Dutch Central Bank</cell>
+      </row>
+      <row type="cell">
+        <cell>May 7th</cell>
+        <cell>National Bank of Panama, Central Bank of Kenya, Central Bank of Mexico, Central Bank of Bosnia and Herzegovina</cell>
+    </row>
+    <row type="cell">
+      <cell>May 9th</cell>
+      <cell>Cyprus central bank</cell>
+  </row>
+        </table>
+        <chapter>
+          <title>8 most hacks conducted by Anonymous hackers</title>
+          <paragraph>Research proved that Anonymous hacktivists group is relatively much bigger than you anticipated and become quite popular among people all over the world. News about their existence first became public on social media.</paragraph>
+        </chapter>
+        <table>
+          <row type="head">
+            <cell>Year</cell>
+            <cell>Attack</cell>
+        </row>
+        <row type="cell">
+          <cell>2008</cell>
+          <cell>Project Chanology Attack</cell>
+      </row>
+        <row type="cell">
+          <cell>2011</cell>
+          <cell>Bart Attack, Dark Discovery, Cybergate</cell>
+      </row>
+    <row type="cell">
+      <cell>2012</cell>
+      <cell>Federal Attack</cell>
+  </row>
+  <row type="cell">
+    <cell>2015</cell>
+    <cell>Donald Trump's website hack, WTO Attack, ISIS website Attack</cell>
+</row>
+        </table>
+        <chapter>
+          <paragraph>Anonymous have been gaining international reputation ever since the Project Chanology attack of 2008. Their activities have been applauded by the common masses, for they act in public interest. The Guy Fawkes masks also work well with their popularity, for you can’t kill an idea.</paragraph>
+        </chapter>
+        <chapter>
+          <title>The cost of cyber crime</title>
+          <paragraph>Cybercrime costs worldwide business an estimated at £265bn a year, a study has revealed. Cyber crime damages trade, competitiveness, innovation and global economic growth, affecting about 150,000 jobs in the European Union.</paragraph>
+          <paragraph>In 2013, the total cost of cyber crime to the UK economy was £6.8bn or 0.47% of the GDP, placing the UK in fifth position in terms of the G20 countries most affected by cyber crime.</paragraph>
+        </chapter>
+        <chapter>
+          <title>National cyber security awareness month</title>
+          <paragraph>October is National Cyber Security Awareness Month which is an annual campaign to raise awareness about cybersecurity. We live in a world that is more connected than ever before. The Internet touches almost all aspects of everyone’s daily life, whether we realize it or not. National Cyber Security Awareness Month (NCSAM) is designed to engage and educate public and private sector partners through events and initiatives with the goal of raising awareness about cybersecurity and increasing the resiliency of the nation in the event of a cyber incident.</paragraph>
+        </chapter>
+        <table>
+          <row type="head">
+            <cell>Week Number</cell>
+            <cell>Date</cell>
+            <cell>Issue</cell>
+          </row>
+          <row type="cell">
+            <cell>1</cell>
+            <cell>October 3-7</cell>
+            <cell>General cybersecurity with th stop</cell>
+        </row>
+        <row type="cell">
+          <cell>2</cell>
+          <cell>October 10-14</cell>
+          <cell>Cyber in th workplace</cell>
+      </row>
+      <row type="cell">
+        <cell>3</cell>
+        <cell>October 17-21</cell>
+        <cell>Cybercrime</cell>
+    </row>
+    <row type="cell">
+      <cell>4</cell>
+      <cell>October 24-28</cell>
+      <cell>Cyber and cutting-edge technology</cell>
+  </row>
+  <row type="cell">
+    <cell>5</cell>
+    <cell>October 31</cell>
+    <cell>Cyber and critical infrastructure</cell>
+</row>
+        </table>
+        <keywords>
+        <keyword name="Terrorism" />
+        <keyword name="Tech" />
+        <keyword name="Global Corporations" />
+      </keywords>
+      <sources>
+        <source>hackread.com</source>
+        <source>dhs.gov</source>
+      </sources>
+      </section>
+      <section>
+        <title>DDoS attack frequency by industry</title>
+        <graph unit="%" x="string" y="number">
+          <dataset label= "2015 DDoS attack">
+            <data x="Education" y="2.5"/>
+            <data x="Financial Services" y="8.1"/>
+            <data x="Gaming" y="35.2"/>
+            <data x="Hotel &amp; Travel" y="0.4"/>
+            <data x="Software &amp; Technology" y="27.7"/>
+            <data x="Media &amp; Entertainment" y="9.4"/>
+            <data x="Public Sector" y="1.0"/>
+            <data x="Retail &amp; Consumer Goods" y="2.6"/>
+            <data x="Internet &amp; Telecom" y="12.9"/>
+        </dataset>
+        </graph>
+        <chapter>
+          <paragraph>The financial industry includes major financial institutions such as banks and trading platforms. While overall there was a slight reduction in attacks targeting this industry, it’s worth mentioning that they still saw some of the larger attacks of the quarter.</paragraph>
+        </chapter>
+        <keywords>
+        <keyword name="Terrorism" />
+        <keyword name="Commerce" />
+      </keywords>
+      <sources>
+        <source>statista.com</source>
+      </sources>
+      </section>
+      <section>
+      <title>Money loundering</title>
+      <chapter>
+        <title>What is it?</title>
+        <paragraph>Money laundering is the process of creating the appearance that large amounts of money obtained from serious crimes, such as drug trafficking or terrorist activity, originated from a legitimate source.</paragraph>
+        <paragraph>
+          <list type="ordered">
+            <item>Placement, refers to the act of introducing "dirty money" into the financial system in some way, that can be: smuggling currency, change money in another form, payment of loans.</item>
+            <item>Layering, this step is to obscure or remove the trail of money so that it can't be traced to its orignal source.</item>
+            <item>Integration, refers to the act of acquiring that money in purportedly legitimate means.</item>
+          </list>
+        </paragraph>
+      </chapter>
+      <chapter>
+        <title>Against money laundering</title>
+        <paragraph>The Financial Action Task Force (FATF) is an inter-governmental body established in 1989 by the Ministers of its Member jurisdictions. The objectives of the FATF are to set standards and promote effective implementation of legal, regulatory and operational measures for combating money laundering, terrorist financing and other related threats to the integrity of the international financial system. The FATF is therefore a “policy-making body” which works to generate the necessary political will to bring about national legislative and regulatory reforms in these areas.</paragraph>
+      </chapter>
+      <chapter>
+        <title>A Beginner's Guide To Laundering Money</title>
+        <paragraph>It must be said that the flow of illicit capital is distorting the global economy, draining wealth from emerging nations and inflating the cost of assets in the developed world. Neither of which seems to deter people from doing it every day. From corrupt politicians and drug cartels to tax cheats and alimony deadbeats, more or less everybody’s doing it.</paragraph>
+        <paragraph>In 2014, China leads the world in this ancient art. Between 2002 and 2011, some $1.08 trillion departed the country illegally, despite currency-control laws that require people to obtain a permit to exchange more than $50,000 a year worth of yuan into any foreign currency.</paragraph>
+        <paragraph>During that same period, some $880.96 billion was spirited out of Russia, $461.86 billion left Mexico, $370.38 billion left Malaysia, $343.93 billion left India, $266.43 billion left Saudi Arabia, and $192.69 billion left Brazil. The total outflow, among 20 emerging economies, was $5.9 trillion, equivalent to $49 billion a month.</paragraph>
+      </chapter>
+      <chapter>
+        <title>A favourite denomination for criminals</title>
+        <paragraph>When it comes to moving money nefariously, the €500 note has been especially handy. It is a large denomination in a widely circulated and easily convertible currency. The €500 note is also more compact and convenient for evading the gaze of authorities.</paragraph>
+      </chapter>
+      <chapter>
+        <paragraph>The equivalent of $1 million, in that high euro note, weighs about five pounds (equivalent to 2.2kg) and fits in a small bag, according to a Harvard University study this year.</paragraph>
+      </chapter>
+      <graph unit="Kg" x="string" y="number">
+        <title>Weight in KG and bulk of $1 million</title>
+        <dataset label= "weight of $1 million ">
+          <data x="€50" y="22.2"/>
+          <data x="€100" y="10.8"/>
+          <data x="€200" y="5.4"/>
+          <data x="€500" y="2.2"/>
+      </dataset>
+      </graph>
+      <keywords>
+      <keyword name="Black Market" />
+    </keywords>
+    <sources>
+      <source>Europol.europa.eu</source>
+      <source>businessinsider.com</source>
+      <source>fatf-gafi.org</source>
+      <source>investopedia.com</source>
+    </sources>
+      </section>
+      <section>
+        <title>A favourite denomination for criminals</title>
+        <chapter>
+          <paragraph>Predicate offences, as reported by Anti-Money Laundering Units of Member States most closely linked to the use of cash in money laundering schemes.</paragraph>
+        </chapter>
+        <graph unit="%" x="string" y="number">
+          <title>Activities most closely linked to the use of cash in money laundering schemes</title>
+          <dataset label= "illegal activities">
+            <data x="Drugs trafficking" y="21"/>
+            <data x="Corruption/Bribery" y="14"/>
+            <data x="Fraud &amp; swindling/Scams" y="11"/>
+            <data x="Human trafficking/Smuggling of migrants" y="10"/>
+            <data x="Racketeering/Extortion, Tax fraud/Crime" y="9"/>
+            <data x="VAT fraud" y="7"/>
+            <data x="Theft/Acquisitive crime, Murder/Violent crime, Terrorism" y="4"/>
+            <data x="Cybercrime" y="3"/>
+            <data x="Counterfeiting/Product Piracy" y="2"/>
+            <data x="Intellectual property crime, Environmental crime" y="1"/>
+        </dataset>
+        </graph>
+        <keywords>
+        <keyword name="Black Market" />
+      </keywords>
+      <sources>
+        <source>Europol.europa.eu</source>
+      </sources>
+      </section>
+    </sections>
+  </bulletin>
+</bulletins>
