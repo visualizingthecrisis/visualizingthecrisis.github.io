@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <bulletins>
     <title>EU Debt Crisis Odysssey</title>
-  	<subtitle>About the european crisis</subtitle>
+  	<subtitle>About the European crisis</subtitle>
   	<authors>
       <author>Valeria Mento</author>
       <author>Jacopo Faggian</author>
@@ -13,10 +13,11 @@
 <section>
   <quote>
   <author>Eurostat on twitter</author>
+  <role>Public account of Eurostat Agency</role>
   <text>
     During these days Eurostat is publishing, on its twitter page, information regarding
-    European GDP, unemployment and inflaction rates, saying that the situation is going
-    better, because EUis reaching pre-crisis level.
+    European GDP, unemployment and inflation rates, saying that the situation is going
+    better, because EU is reaching pre-crisis level.
   </text>
  </quote>
  <keywords>
@@ -41,11 +42,6 @@
 
   <section>
     <title>#Back to pre-crisis?</title>
-      <chapter>
-        <paragraph>
-
-        </paragraph>
-      </chapter>
       <chapter>
         <paragraph>
           #SomethingIsChanging: #EuroAreaGDP is slowly growing, reaching the pre-crisis level.
@@ -120,7 +116,7 @@
           <graph unit="%" x="country" y="number">
             <title>GDP growth rates Q1-2016</title>
             <abstract>% data compared with Q1-2015</abstract>
-            <dataset label="GDP Growth">
+            <dataset label="GDP rate">
               <data x="US" y="0.6"/>
               <data x="EU" y="1.6"/>
               <data x="CN" y="6.7"/>
@@ -158,7 +154,7 @@
             </paragraph>
           </chapter>
           <graph unit="%" x="string" y="number">
-            <title>Unemployment rate in Euro Area - Feb 2016</title>
+            <title>Unemployment rate in Euro Area, Feb 2016</title>
             <abstract>Employment is important to increase domestic consumption, necessary
               to the economic recovery</abstract>
             <dataset label="GDP Growth">
@@ -222,7 +218,7 @@
               of the financial crowd. It publishies statistics based on Twitter events.
             </paragraph>
           </chapter>
-          <graph unit="number" x="date" y="number">
+          <graph unit="" x="date" y="number">
             <title>Who is talking about Eur?</title>
             <abstract>Data from 1st to 30th April 2016</abstract>
             <dataset label="GDP Growth">
