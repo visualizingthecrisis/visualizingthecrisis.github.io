@@ -16,16 +16,16 @@
           <chapter>
             <paragraph>
               <list type="ordered">
-                <item>=_Uber_$ 51B</item>
-                <item>=_Xiaomi_$ 46B</item>
-                <item>=_Airbnb_$ 25.5B</item>
-                <item>=_Palantir_$ 20B</item>
-                <item>=_Dianping_$ 18B</item>
-                <item>=_Snapchat_$ 16B</item>
-                <item>=_Wework_$ 12B</item>
-                <item>=_Didi Kuaidi_$ 15B</item>
-                <item>=_Flipkart_$ 15B</item>
-                <item>=_SpaceX_$ 12B</item>
+                <item>(=) Uber, $ 51B</item>
+                <item>(=) Xiaomi, $ 46B</item>
+                <item>(=) Airbnb, $ 25.5B</item>
+                <item>(=) Palantir, $ 20B</item>
+                <item>(=) Dianping, $ 18B</item>
+                <item>(=) Snapchat, $ 16B</item>
+                <item>(=) Wework, $ 12B</item>
+                <item>(=) Didi Kuaidi, $ 15B</item>
+                <item>(=) Flipkart, $ 15B</item>
+                <item>(=) SpaceX, $ 12B</item>
               </list>
             </paragraph>
           </chapter>
@@ -94,7 +94,7 @@
                 </sources>
               </section>
               <section>
-                <title>Deals and investments in fintech</title>
+                <title>Deals and investments in Fintech</title>
                 <chapter>
                   <paragraph>Fintech is a term used to describe the companies operating
                     in the financial technology sector. It relates mainly to small startup
@@ -104,14 +104,14 @@
                       amounted to approximately $ 3B in 2013 and was projected to grow to around $ 8B in 2018.</paragraph>
                     </chapter>
                     <graph unit="B$" x="date" y="number">
-                      <dataset label= "Overall fintech deals">
+                      <dataset label= "Overall Fintech deals">
                         <data x="2011" y="2.4"/>
                         <data x="2012" y="2.8"/>
                         <data x="2013" y="3.9"/>
                         <data x="2014" y="12.2"/>
                         <data x="2015" y="19.1"/>
                       </dataset>
-                      <dataset label= "VC backed fintech deals">
+                      <dataset label= "VC backed Fintech deals">
                         <data x="2011" y="2.1"/>
                         <data x="2012" y="2.4"/>
                         <data x="2013" y="2.8"/>
@@ -120,14 +120,14 @@
                       </dataset>
                     </graph>
                     <graph unit="B$" x="date" y="number">
-                      <dataset label= "Overall fintech investments">
+                      <dataset label= "Overall Fintech investments">
                         <data x="2011" y="457"/>
                         <data x="2012" y="607"/>
                         <data x="2013" y="759"/>
                         <data x="2014" y="933"/>
                         <data x="2015" y="1,162"/>
                       </dataset>
-                      <dataset label= "VC backed fintech investments">
+                      <dataset label= "VC backed Fintech investments">
                         <data x="2011" y="298"/>
                         <data x="2012" y="397"/>
                         <data x="2013" y="484"/>
@@ -187,7 +187,7 @@
                   <section>
                     <title>Has the Apple bubble burst?</title>
                     <chapter>
-                      <paragraph>On 26 April afternoon, Apple reported that its sales
+                      <paragraph>On 26th April afternoon, Apple reported that its sales
                         and profit both fell last quarter, a rarity for a company that
                         has been growing at a rapid race, even as it has become
                         the largest technology company on the planet. More than two-thirds
@@ -229,9 +229,9 @@
                         <title>Apple's troubles around the world</title>
                         <paragraph>
                           <list type="unordered">
-                            <item>Brazil: The prize of iPhone is $ 1,016.74.</item>
-                            <item>Russia: government will demand greater access to data.</item>
-                            <item>China: the growth stumbles.</item>
+                            <item>BRAZIL: The prize of iPhone is $ 1,016.74.</item>
+                            <item>RUSSIA: government will demand greater access to data.</item>
+                            <item>CHINA: the growth stumbles.</item>
                           </list>
                         </paragraph>
                       </chapter>
@@ -285,17 +285,17 @@
                               <data x="20160426" y="96"/>
                             </dataset>
                           </graph>
-                          <graph unit="$" x="date" y="number">
-                            <title>"The Fatal Hour" of Apple share price</title>
-                            <dataset label= "Apple share price">
-                              <data x="20160426:10" y="105"/>
-                              <data x="20160426:11" y="104.2"/>
-                              <data x="20160426:12" y="104.5"/>
-                              <data x="20160426:13" y="104.1"/>
-                              <data x="20160426:14" y="104.2"/>
-                              <data x="20160426:15" y="104.3"/>
-                              <data x="20160426:16" y="104"/>
-                              <data x="20160426:17" y="96.5"/>
+                          <graph unit="$" x="string" y="number">
+                            <title>"The Fatal Hour" of Apple share price.</title>
+                            <dataset label= "Apple share price on April 26th">
+                              <data x="10 am" y="105"/>
+                              <data x="11 am" y="104.2"/>
+                              <data x="12 pm" y="104.5"/>
+                              <data x="1 pm" y="104.1"/>
+                              <data x="2 pm" y="104.2"/>
+                              <data x="3 pm" y="104.3"/>
+                              <data x="4 pm" y="104"/>
+                              <data x="5 pm" y="96.5"/>
                             </dataset>
                           </graph>
                           <graph unit="B$" x="string" y="number">
@@ -320,9 +320,10 @@
                             </chapter>
                             <quote>
                               <author>Carl Icahn</author>
-                              <text>“China's government could come in and make it very
-                                difficult for Apple to sell there ... you can do pretty much
-                                what you want there."</text>
+                              <role>Billionaire investor</role>
+                              <text>China's government could come in and make it very
+                                difficult for Apple to sell there...you can do pretty much
+                                what you want there.</text>
                               </quote>
                               <keywords>
                                 <keyword name="1%"/>
