@@ -16,16 +16,16 @@
           <chapter>
             <paragraph>
               <list type="ordered">
-                <item>=_Uber_$ 51B</item>
-                <item>=_Xiaomi_$ 46B</item>
-                <item>=_Airbnb_$ 25.5B</item>
-                <item>=_Palantir_$ 20B</item>
-                <item>=_Dianping_$ 18B</item>
-                <item>=_Snapchat_$ 16B</item>
-                <item>=_Wework_$ 12B</item>
-                <item>=_Didi Kuaidi_$ 15B</item>
-                <item>=_Flipkart_$ 15B</item>
-                <item>=_SpaceX_$ 12B</item>
+                <item>(=) Uber, $ 51B</item>
+                <item>(=) Xiaomi, $ 46B</item>
+                <item>(=) Airbnb, $ 25.5B</item>
+                <item>(=) Palantir, $ 20B</item>
+                <item>(=) Dianping, $ 18B</item>
+                <item>(=) Snapchat, $ 16B</item>
+                <item>(=) Wework, $ 12B</item>
+                <item>(=) Didi Kuaidi, $ 15B</item>
+                <item>(=) Flipkart, $ 15B</item>
+                <item>(=) SpaceX, $ 12B</item>
               </list>
             </paragraph>
           </chapter>
@@ -53,7 +53,7 @@
           </sources>
         </section>
         <section>
-          <title>Elon Musk: the "godfather" of Silicon Valley</title>
+          <title>Elon Musk: the "Godfather" of Silicon Valley</title>
           <chapter>
             <paragraph>Why Apple should buy Tesla and appoint Elon Musk as CEO?
               Apple needs another Steve Jobs to reinvent itself and a combination of
@@ -69,377 +69,139 @@
               <table>
                 <row type="head">
                   <cell>Members name</cell>
-                  <cell>Paypal</cell>
-                  <cell>Linkedin</cell>
-                  <cell>Solarcity</cell>
-                  <cell>Tesla</cell>
-                  <cell>Yelp</cell>
-                  <cell>Youtube</cell>
-                  <cell>Palantir</cell>
-                  <cell>SpaceX</cell>
-                  <cell>Founders Fund</cell>
-                  <cell>500Startups</cell>
-                  <cell>Caplinked</cell>
-                  <cell>Yammer</cell>
-                  <cell>Geni.com</cell>
-                  <cell>Ironport</cell>
-                  <cell>Clarium Capital</cell>
-                  <cell>Slide</cell>
-                  <cell>Affirm</cell>
-                  <cell>Avos System</cell>
-                  <cell>Mixbit</cell>
+                  <cell>Founder</cell>
+                  <cell>Investor</cell>
+                  <cell>COO</cell>
+                  <cell>CEO</cell>
+                  <cell>Other</cell>
                 </row>
                 <row type="cell">
                   <cell>Eric M.Jacson</cell>
-                  <cell>other employee</cell>
+                  <cell>Caplinked</cell>
                   <cell></cell>
                   <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Founder, CEO</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>Caplinked</cell>
+                  <cell>Paypal</cell>
                 </row>
                 <row type="cell">
                   <cell>David O.Sacks</cell>
-                  <cell>COO</cell>
+                  <cell>Yammer, Geni.com</cell>
                   <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Founder</cell>
-                  <cell>Founder</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>Paypal</cell>
                   <cell></cell>
                   <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Reid Hoffman</cell>
-                  <cell>COO</cell>
-                  <cell>Founder, CEO, Chairman</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Investor</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>Linkedin</cell>
+                  <cell>Ironport</cell>
+                  <cell>Paypal</cell>
+                  <cell>Linkedin</cell>
                   <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Scott Banister</cell>
-                  <cell>Other employee</cell>
+                  <cell>Ironport</cell>
+                  <cell>Slide</cell>
                   <cell></cell>
                   <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Founder</cell>
-                  <cell></cell>
-                  <cell>Investor</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>Paypal</cell>
                 </row>
                 <row type="cell">
                   <cell>Peter Thiel</cell>
-                  <cell>Founder</cell>
-                  <cell>Investor</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Founder, Chairman</cell>
-                  <cell></cell>
-                  <cell>Founder</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Investor</cell>
-                  <cell>Investor</cell>
-                  <cell>Ironport</cell>
-                  <cell>Founder, Chairman</cell>
-                  <cell>Investor</cell>
+                  <cell>Paypal, Clarium Cap., Founders Fund, Palantir</cell>
+                  <cell>Yammer, Geni.com, Linkedin, Slide</cell>
                   <cell></cell>
                   <cell></cell>
                   <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Keith Rabois</cell>
-                  <cell>Other employee</cell>
-                  <cell>Investor</cell>
+                  <cell></cell>
+                  <cell>Slide, Linkedin</cell>
                   <cell></cell>
                   <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Investor</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>Paypal</cell>
                 </row>
                 <row type="cell">
                   <cell>Dave McClure</cell>
-                  <cell>Other employee</cell>
+                  <cell>500Startups</cell>
                   <cell></cell>
                   <cell></cell>
                   <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Founder</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>Paypal</cell>
                 </row>
                 <row type="cell">
                   <cell>Max Levchin</cell>
-                  <cell>Founder</cell>
+                  <cell>Paypal, Slide, Affirm</cell>
+                  <cell>Yelp</cell>
                   <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Investor</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Founder</cell>
-                  <cell>Founder, Chairman</cell>
                   <cell></cell>
                   <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Jason Portnoy</cell>
-                  <cell>Other employee</cell>
                   <cell></cell>
                   <cell></cell>
                   <cell></cell>
                   <cell></cell>
-                  <cell></cell>
-                  <cell>Other employee</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>Paypal, Palantir</cell>
                 </row>
                 <row type="cell">
                   <cell>Elon Musk</cell>
-                  <cell>Founder</cell>
+                  <cell>Paypal, SpaceX, Solarcity, Tesla</cell>
+                  <cell>Solacity</cell>
                   <cell></cell>
-                  <cell>Founder, Chairman, Investor</cell>
-                  <cell>Founder, Chairman, CEO</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Founder, CEO, CTO</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>SpaceX, Tesla</cell>
                   <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Luke Nosek</cell>
-                  <cell>Founder</cell>
+                  <cell>Paypal</cell>
                   <cell></cell>
                   <cell></cell>
                   <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Other employee</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>SpaceX</cell>
                 </row>
                 <row type="cell">
                   <cell>Russel Simons</cell>
-                  <cell>Founder</cell>
+                  <cell>Paypal, Yelp</cell>
                   <cell></cell>
                   <cell></cell>
-                  <cell></cell>
-                  <cell>Founder, CEO</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>Yelp</cell>
                   <cell></cell>
                 </row>
                 <row type="cell">
                   <cell>Jeremy Stoppelman</cell>
-                  <cell>Other employee</cell>
+                  <cell>Yelp</cell>
                   <cell></cell>
                   <cell></cell>
                   <cell></cell>
-                  <cell>Founder, CTO</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>Paypal</cell>
                 </row>
                 <row type="cell">
                   <cell>Steven Chen Shih</cell>
-                  <cell>Other employee</cell>
+                  <cell>YouTube, Avos System</cell>
                   <cell></cell>
                   <cell></cell>
                   <cell></cell>
-                  <cell></cell>
-                  <cell>Founder</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Founder</cell>
-                  <cell></cell>
+                  <cell>Paypal</cell>
                 </row>
                 <row type="cell">
                   <cell>Jawed Karim</cell>
-                  <cell>Other employee</cell>
+                  <cell>YouTube</cell>
                   <cell></cell>
                   <cell></cell>
                   <cell></cell>
-                  <cell></cell>
-                  <cell>Founder</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>Paypal</cell>
                 </row>
                 <row type="cell">
                   <cell>Chad Hurley</cell>
-                  <cell>Other employee</cell>
+                  <cell>YouTube, Mixbit</cell>
                   <cell></cell>
                   <cell></cell>
                   <cell></cell>
-                  <cell></cell>
-                  <cell>Founder</cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell></cell>
-                  <cell>Founder</cell>
+                  <cell>Paypal</cell>
                 </row>
               </table>
               <keywords>
@@ -523,10 +285,6 @@
                         an internet -poor. Not for the poor. Free Basics is a program whose contents are available
                         for free via the networks of local operators that have partnered with Facebook.</paragraph>
                       </chapter>
-                      <quote>
-                        <author>bloomberg.com</author>
-                        <text>TRA India: Prohibition of Discriminatory Tariffs for Data Services Regulations 2016</text>
-                      </quote>
                       <graph unit="%" x="string" y="percentage">
                         <dataset label= "Facebook users">
                           <data x="Asia" y="28.8"/>
@@ -563,6 +321,7 @@
                                     </chapter>
                                     <quote>
                                       <author>Mark Zuckerberg</author>
+                                      <role>Facebook founder and CEO</role>
                                       <text>"Tonight, a Brazilian judge blocked WhatsApp for more than 100 million people who rely
                                         on it in her country.(...) This is a sad day for Brazil."</text>
                                       </quote>
