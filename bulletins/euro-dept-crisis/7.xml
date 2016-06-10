@@ -275,7 +275,7 @@
               destoying what Schengen Agreement built many years ago.
             </paragraph>
           </chapter>
-          <graph unit="number" x="country" y="number">
+          <graph unit="" x="country" y="number">
             <title>Arrivals in Europe</title>
             <dataset label="Migrants by country">
               <data x="ES" y="3592"/>
@@ -284,7 +284,7 @@
               <data x="GR" y="851369"/>
             </dataset>
           </graph>
-          <graph unit="number" x="string" y="number">
+          <graph unit="" x="string" y="number">
             <title>Dead or alive</title>
             <dataset label="Migrant data">
               <data x="total migrants" y="1008616"/>
