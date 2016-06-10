@@ -138,7 +138,7 @@ function keywordsToHTML($element, $parent,filters){
   var html="<div class='section-keywords'>";
   var count=0;
   for (var i = 0; i < keywords.length; ++i) {
-    if(!filters || filters.indexOf(keywords[i])){
+    if(!filters || filters.indexOf($(keywords[i]).attr('name'))>=0){
       count++;
       html+="#"+$(keywords[i]).attr('name')+" ";
     }
