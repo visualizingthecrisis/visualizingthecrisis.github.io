@@ -16,16 +16,16 @@
           <chapter>
             <paragraph>
               <list type="ordered">
-                <item>=_Uber_$ 51B</item>
-                <item>=_Xiaomi_$ 46B</item>
-                <item>=_Airbnb_$ 25.5B</item>
-                <item>=_Palantir_$ 20B</item>
-                <item>=_Dianping_$ 18B</item>
-                <item>=_Snapchat_$ 16B</item>
-                <item>=_Wework_$ 12B</item>
-                <item>=_Didi Kuaidi_$ 15B</item>
-                <item>=_Flipkart_$ 15B</item>
-                <item>=_SpaceX_$ 12B</item>
+                <item>(=) Uber, $ 51B</item>
+                <item>(=) Xiaomi, $ 46B</item>
+                <item>(=) Airbnb, $ 25.5B</item>
+                <item>(=) Palantir, $ 20B</item>
+                <item>(=) Dianping, $ 18B</item>
+                <item>(=) Snapchat, $ 16B</item>
+                <item>(=) Wework, $ 12B</item>
+                <item>(=) Didi Kuaidi, $ 15B</item>
+                <item>(=) Flipkart, $ 15B</item>
+                <item>(=) SpaceX, $ 12B</item>
               </list>
             </paragraph>
           </chapter>
@@ -73,7 +73,7 @@
                 <text>April 14th, 2016: iCarbonX becomes China’s first biotech unicorn.</text>
               </quote>
               <graph unit="B$" x="date" y="number">
-                <title>China’ spending on digital health care service and eCommerce</title>
+                <title>China's spending on digital health care services</title>
                 <dataset label= "E-commerce">
                   <data x="2014" y="1"/>
                   <data x="2017" y="5"/>
@@ -359,8 +359,10 @@
                           </dataset>
                         </graph>
                         <quote>
-                          <author>ilsole24ore.com</author>
-                          <text>The VIX Index also predicts terrorist attacks(?)</text>
+                          <author>Nik Crepaldi</author>
+                          <role>Financial consultant</role>
+                          <text>The VIX Index rose in the week preceding the Paris Attacks.
+                          In last terrorist attacks the Index increased in the 5 trading days prior to the event.</text>
                         </quote>
                         <keywords>
                           <keyword name="Terrorism"/>
