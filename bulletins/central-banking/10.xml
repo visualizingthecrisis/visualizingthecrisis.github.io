@@ -7,7 +7,6 @@
     <author>Francesca Polini</author>
   </authors>
   <bulletin id="10" date="20160514">
-    <title>Global Debt and Gold Reserves</title>
     <sections>
       <section>
         <title>Apocalypse Now</title>
@@ -222,6 +221,151 @@
       </keywords>
       <sources>
         <source>sputniknews.com</source>
+      </sources>
+      </section>
+      <section>
+        <title>Gold saves banks</title>
+        <chapter>
+          <paragraph>Public debt is growing again and States and Central banks don’t believe to buy State debt, because the volatility of money. The only way for having appeal and make sure their economy is gold. In the last period many central banks and insitutions bought a lot of gold tonnes for increasing their reserves.</paragraph>
+        </chapter>
+        <graph unit="t" x="country" y="number">
+          <title>Countries gold reserves</title>
+          <dataset label= "gold holdings">
+            <data x="US" y="8,133.5"/>
+            <data x="DE" y="3,381.0"/>
+            <data x="IT" y="2,451.8"/>
+            <data x="FR" y="2,435.7"/>
+            <data x="CN" y="1,797.5"/>
+            <data x="RU" y="1,460.4"/>
+            <data x="CH" y="1,040.0"/>
+            <data x="JP" y="765.2"/>
+            <data x="NL" y="612.5"/>
+            <data x="IN" y="557.7"/>
+            <data x="TR" y="479.3"/>
+            <data x="TW" y="422.7"/>
+            <data x="PT" y="382.5"/>
+            <data x="SA" y="322.9"/>
+            <data x="GB" y="310.3"/>
+            <data x="LB" y="286.8"/>
+            <data x="ES" y="281.6"/>
+            <data x="AT" y="280.0"/>
+            <data x="VE" y="272.9"/>
+            <data x="KZ" y="228.3"/>
+        </dataset>
+        </graph>
+        <chapter>
+          <title>Who owns gold?</title>
+          <paragraph>Also, other institutions buy gold for increasing their reserves and making sure their administrations. They are in the top 40 official gold holdings during the last month. In particular, International Monetary Fund is the third on the list.</paragraph>
+        </chapter>
+        <graph unit="t" x="string" y="number">
+          <title>Gold holding intitutions</title>
+          <dataset label= "average of gold">
+            <data x="IMF" y="2,814.0"/>
+            <data x="ECB" y="504.8"/>
+            <data x="BIS" y="108.0"/>
+        </dataset>
+        </graph>
+        <keywords>
+        <keyword name="Gold" />
+        <keyword name="Governance" />
+        <keyword name="Global Corporations" />
+      </keywords>
+      <sources>
+        <source>gold.org</source>
+        <source>tradingeconomics.com</source>
+        <source>infooggi.it</source>
+      </sources>
+      </section>
+      <section>
+        <title>Shoot up the prices</title>
+        <chapter>
+          <paragraph>In the first three months of the year, the biggest quarterly surge since 1986, as the Federal Reserve refrained from tightening and central banks in Europe and Japan pressed on with negative interest rates. Last week gold is his largest currency allocation and the bull market in stocks was exhausted.</paragraph>
+        </chapter>
+        <quote>
+          <author>Paul Singer</author>
+          <role>Hedge fund manager</role>
+          <text>My clients, that gold’s best quarter in 30 years is probably just the beginning of a rebound as global investors ,weigh the ramifications of unprecedented monetary easing on inflation.</text>
+        </quote>
+        <graph unit="%" x="string" y="number">
+          <dataset label= "gold increases">
+            <data x="prices in the last 3 months" y="16"/>
+            <data x="gold demand" y="21"/>
+        </dataset>
+        </graph>
+        <graph unit="USD/Kg" x="date" y="number">
+          <title>Gold Prices</title>
+          <dataset label= "prices in Kg">
+            <data x="20160418" y="39,796.84"/>
+            <data x="20160420" y="40,136.15"/>
+            <data x="20160422" y="40,057.50"/>
+            <data x="20160424" y="39,625.31"/>
+            <data x="20160426" y="39,622.30"/>
+            <data x="20160428" y="40,693.28"/>
+            <data x="20160430" y="41,570.43"/>
+            <data x="20160502" y="41,808.19"/>
+            <data x="20160504" y="41,242.33"/>
+            <data x="20160506" y="41,415.79"/>
+            <data x="20160508" y="41,339.75"/>
+            <data x="201605010" y="40,678.97"/>
+            <data x="20160512" y="40,729.45"/>
+            <data x="20160514" y="40,934.81"/>
+        </dataset>
+        </graph>
+        <graph unit="USD/oz" x="date" y="number">
+          <title>Gold Prices</title>
+          <dataset label= "prices in oz">
+            <data x="20160418" y="1,237.82"/>
+            <data x="20160420" y="1,248.37"/>
+            <data x="20160422" y="1,245.93"/>
+            <data x="20160424" y="1,232.48"/>
+            <data x="20160426" y="1,232.39"/>
+            <data x="20160428" y="1,265.70"/>
+            <data x="20160430" y="1,292.98"/>
+            <data x="20160502" y="1,300.38"/>
+            <data x="20160504" y="1,282.78"/>
+            <data x="20160506" y="1,288.18"/>
+            <data x="20160508" y="1,285.81"/>
+            <data x="201605010" y="1,265.26"/>
+            <data x="20160512" y="1,266.83"/>
+            <data x="20160514" y="1,243.21"/>
+        </dataset>
+        </graph>
+        <keywords>
+        <keyword name="Gold" />
+        <keyword name="Investments" />
+      </keywords>
+      <sources>
+        <source>ilsole24ore.com</source>
+        <source>proactiveinvestors.com</source>
+        <source>bloomberg.com</source>
+        <source>bulliovault.it</source>
+      </sources>
+      </section>
+      <section>
+        <title>What you don’t know about</title>
+        <chapter>
+          <paragraph>If investors’ confidence in central bankers’ “judgment continues to weaken, the effect on gold could be very powerful.</paragraph>
+          <paragraph>
+        <list type="unordered">
+          <item>Central banks bought 109 tonnes during the last 3 months.</item>
+          <item>ETF inflow are 363,7 tonnes.</item>
+          <item>The Goldman Sachs Forecast is central banks will buy 600 tonnes this year.</item>
+          <item>Central banks bought gold 1.300 USD/oz at the beginning of May.</item>
+          <item>The Forecast about price during the next years is 1.150 USD/oz</item>
+          <item>Production increased about 8%.</item>
+        </list>
+      </paragraph>
+        </chapter>
+        <keywords>
+        <keyword name="Gold" />
+        <keyword name="Investments" />
+        <keyword name="Global Corporations" />
+      </keywords>
+      <sources>
+        <source>ilsole24ore.com</source>
+        <source>wnd.com</source>
+        <source>finanza.com</source>
+        <source>forexinfo.it</source>
       </sources>
       </section>
     </sections>
