@@ -4,14 +4,17 @@ $(document).ready(function(){
     var areas=$(d).children().first().children();
     for(var a=0;a<areas.length;a++){
       var $ar=$("<div class='area'></div>");
-      $('#bulletin-search').append($ar);
+      $('#bulletin-search').prepend($ar);
       var $area=$(areas[a]);
       var keywords=$area.children();
       $ar.append("<h3>"+$area.attr('name')+"</h3>");
 
       for(var k=0;k<keywords.length;k++){
+        var $area_element=$("<div class='area-element'></div>");
+        $ar.append($area_element);
+
         var $keyword=$(keywords[k]);
-        $ar.append("<input type='checkbox' name='"+$keyword.text()+"' value='"+$keyword.text()+"'>"+$keyword.text()+"<br>");
+        $area_element.append("<input type='radio' name='"+$keyword.text()+"' value='"+$keyword.text()+"'>"+$keyword.text()+"<br>");
       }
     }
     processFilters();
