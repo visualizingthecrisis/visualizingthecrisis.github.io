@@ -19,9 +19,29 @@ $(document).ready(function(){
         $area_element.append("<input type='radio' name='"+$keyword.text()+"' value='"+$keyword.text()+"'>"+$keyword.text()+"<br>");
       }
     }
+
+    //PRE-DOWNLOAD
     $.get(path, function(d){
         processXML(d);
         $(".loader-container").fadeOut("fastest");
+
+        function parse(i){
+          if(i<paths.length){
+            $.ajax({
+              url:paths[i],
+              type:'GET',
+              error: function(){
+                parse(i+1);
+              },
+              success: function(xml){
+                parse(i+1);
+              }
+            });
+          }
+          else{
+          }
+        }
+        parse(0);
     });
   });
 
