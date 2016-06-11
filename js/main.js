@@ -25,8 +25,8 @@ function processXML(d,filters){
       $sec.attr('order',count);
     }
   }
-  $("#bulletin-container").append("<div class='main-title'>Visualizing</br>the Crisis</div><div class='main-report'>REPORT N.23</div><div class='main-subtitle'>TRACKING THE UNFOLDING<br/>GLOBAL FINANCIAL CRISIS</div>"+
-  "<div class='main-info'>This information was gathered between February and June 2016 during the MA Information Design lab at IUAV, Venice. Below are the most relevant results relating to <span style='display:inline;font-family: SF-UI-Heavy, Helvetica;'>"+filtersUnwrap+".</span>​</div>");
+//  $("#bulletin-container").append("<div class='main-title'>Visualizing</br>the Crisis</div><div class='main-report'>REPORT N.23</div><div class='main-subtitle'>TRACKING THE UNFOLDING<br/>GLOBAL FINANCIAL CRISIS</div>"+
+//  "<div class='main-info'>This information was gathered between February and June 2016 during the MA Information Design lab at IUAV, Venice. Below are the most relevant results relating to <span style='display:inline;font-family: SF-UI-Heavy, Helvetica;'>"+filtersUnwrap+".</span>​</div>");
   var sections=$(d).find('section');
   if(filters){
     var sections=$(d).find('section')
@@ -58,18 +58,18 @@ function processXML(d,filters){
     var elements=$section.children();
     for (var i = 0; i < elements.length; ++i) {
       var $element= $(elements[i]);
-      if($element.is('title'))$section_div.append("<span class='section-title'>"+$section.find('title').first().text()+"</span>");
-      if($element.is('subtitle'))$section_div.append("<span class='section-subtitle'>"+$section.find('subtitle').first().text()+"</span>");
+    //  if($element.is('title'))$section_div.append("<span class='section-title'>"+$section.find('title').first().text()+"</span>");
+  /*    if($element.is('subtitle'))$section_div.append("<span class='section-subtitle'>"+$section.find('subtitle').first().text()+"</span>");
       if($element.is('quote')){
         $section_div.append("<div class='section-quote'><span class='quote-text'>"+$element.find('text').first().text()+"</span>"+"<span class='quote-author'>  "+$element.find('author').first().text()+"</span></div>");
       }
       if($element.is('abstract'))$section_div.append("<span class='section-abstract'>"+$element.text()+"</span>");
-
+*/
       if($element.is('graph'))graphToHTML($element,$section_div);
-      if($element.is('chapter'))chapterToHTML($element,$section_div);
+    /*  if($element.is('chapter'))chapterToHTML($element,$section_div);
       if($element.is('table'))tableToHTML($element,$section_div);
       if($element.is('keywords'))keywordsToHTML($element,$section_div,filters);
-      //  if($element.is('sources'))sourcesToHTML($element,$section_div);
+    */  //  if($element.is('sources'))sourcesToHTML($element,$section_div);
     }
   }
 }
@@ -225,7 +225,14 @@ function dateToNumberGraph($element, $parent,$legends, xData, yData,unit){
       settings.data.type='bar';
       settings.axis.y.tick.count=4;
       if(unit && unit.length>0)settings.axis.y.label.text= 'value in '+unit;
-      //settings.axis.x.type= 'category';
+      settings.axis.x.type= 'category';
+      for(var ii=0;ii<xData.length;ii++){
+
+
+        for(var jj=1;jj<xData[ii].length;jj++){
+         xData[ii][jj]=d3.time.format(dateFormat[1])(d3.time.format(dateFormat[0]).parse(xData[ii][jj]));
+        }
+      }
       if(xData.length*xData[0].length>8){
         settings.axis.rotated= true;
         settings.axis.x.tick.width=240;
@@ -305,7 +312,7 @@ function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
         if(unit && unit.length>0)settings.axis.y.label.text= 'value in '+unit;
         settings.axis.y.tick.count=4;
         //  settings.axis.x.tick.culling={'max':4};
-        settings.axis.x.tick.width=200;
+      //  settings.axis.x.tick.width=150;
         settings.size.height=xData[i].length*50;
         settings.axis.rotated= true;
         var chart = c3.generate(settings);

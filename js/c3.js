@@ -7064,17 +7064,20 @@
         }
         function getSizeFor1Char(tick) {
             if (tickTextCharSize) {
-                return tickTextCharSize;
+          //      return tickTextCharSize;
             }
             var size = {
-                h: 15.5,
-                w: 5.5
+                h: 0,
+                w: 0
             };
             tick.select('text').text(textFormatted).each(function (d) {
-                var box = this.getBoundingClientRect(),
-                    text = textFormatted(d),
+                var box = this.getBoundingClientRect();
+                box={width:box.width, height:box.height};
+                var text = textFormatted(d),
                     h = box.height,
                     w = text ? (box.width / text.length) : undefined;
+                  //console.log("h:"+h+" w:"+w+" b.w:"+box.width+" t.l:"+text.length );
+                  //console.log(text);
                 if (h && w) {
                     size.h = h;
                     size.w = w;
@@ -7146,6 +7149,7 @@
                             subtext = text.substr(0, i + 1);
                             textWidth = sizeFor1Char.w * subtext.length;
                             // if text width gets over tick width, split by space index or crrent index
+
                             if (maxWidth < textWidth) {
                                 return split(
                                     splitted.concat(text.substr(0, spaceIndex ? spaceIndex : i)),
