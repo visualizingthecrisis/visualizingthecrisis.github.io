@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins group="centralbanking">
+  <title>OH! G.O.D.</title>
+  <subtitle>Governors Of Demand</subtitle>
+  <authors>
+    <author>Giulia Fracas</author>
+    <author>Francesca Polini</author>
+  </authors>
+  <bulletin id="08" date="20160430">
+    <sections>
+      <section>
+        <title>A Shadow world</title>
+        <chapter>
+          <title>What is shadow banking?</title>
+          <paragraph>A shadow banking system refers to the financial intermediaries involved in facilitating the creation of credit across the global financial system, but whose members are not subject to regulatory oversight. The shadow banking system also refers to unregulated activities by regulated institutions.</paragraph>
+          <paragraph>Shadow Banking is 30% of Total Financial System.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Investments" />
+          <keyword name="Global Corporations" />
+        </keywords>
+        <sources>
+          <source>investopedia.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>Shadow Banking System</title>
+        <chapter>
+          <paragraph>It is a financial intermediary and it creates financing by specific steps</paragraph>
+          <paragraph>
+          <list type="ordered">
+            <item>Loan Generation</item>
+            <item>Loan Storage</item>
+            <item>Abs Issue</item>
+            <item>Abs Storage</item>
+            <item>CdO Issue</item>
+            <item>Abs Brokering</item>
+            <item>Wholesale Funding</item>
+          </list>
+          </paragraph>
+          <paragraph>Financial Entities in the shadow banking system use 3 kind of transformation</paragraph>
+          <paragraph>
+            <list type="unordered">
+              <item>Credit Transformation</item>
+              <item>Maturity Transformation</item>
+              <item>Liquidity Transformation</item>
+            </list>
+          </paragraph>
+          <paragraph>The entire system creates debts that are securitized and they are trasformed in commercial papers. So, they can use in the capita market.</paragraph>
+          <paragraph>Also, monetary funds, pension funds and insurance company input liquidity in the capital market</paragraph>
+        </chapter>
+        <chapter>
+          <title>Real Risk</title>
+          <paragraph>Shadow banking system creates financiale instability inside capitals market</paragraph>
+          <paragraph>As shadow banks do not take deposits, they are subject to less regulation than traditional banks.They can therefore increase the rewards they get from investments by leveraging up much more than their mainstream counterparts, and this can lead to risks mounting in the financial system.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Global Corporations" />
+          <keyword name="Black Market" />
+        </keywords>
+        <sources>
+          <source>bulls.co.zw</source>
+          <source>thewalkingdebt.org</source>
+          <source>valuewalk.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>Differences between shadow banking and regular banks</title>
+        <chapter>
+          <title>What are the differences?</title>
+          <paragraph>Like regular banks, shadow banks provide credit and generally increase the liquidity of the financial sector.Yet unlike their more regulated competitors, they lack access to central bank funding or safety nets such as deposit insurance and debt guarantees, instead, they rely on short-term funding.</paragraph>
+          <paragraph>Shadow Banks don’t use regular funds like bonds or money saver deposit. Also they can’t access to central bank funds. They decrease confidence in banking system that is already fragile.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Global Corporations" />
+          <keyword name="Black Market" />
+        </keywords>
+        <sources>
+          <source>goldmoney.com</source>
+          <source>thewalkingdebt.org</source>
+        </sources>
+      </section>
+      <section>
+        <title>Banking vs shadow banking</title>
+        <graph unit="%" x="country" y="number">
+          <title>World Assets</title>
+          <dataset label= "Shadow banking assets of GDP">
+            <data x="IE" y="1,200"/>
+            <data x="GB" y="130"/>
+            <data x="CH" y="80"/>
+            <data x="US" y="70"/>
+            <data x="NL" y="65"/>
+            <data x="DE" y="65"/>
+            <data x="FR" y="55"/>
+            <data x="JP" y="55"/>
+            <data x="CA" y="54"/>
+            <data x="KR" y="44"/>
+            <data x="BR" y="30"/>
+            <data x="AU" y="28"/>
+            <data x="CN" y="28"/>
+            <data x="ZA" y="28"/>
+            <data x="CL" y="27"/>
+            <data x="ES" y="26"/>
+            <data x="HK" y="25"/>
+            <data x="IN" y="25"/>
+            <data x="IT" y="24"/>
+            <data x="MX" y="23"/>
+            <data x="SG" y="9"/>
+            <data x="AR" y="7"/>
+            <data x="TR" y="7"/>
+            <data x="SA" y="6"/>
+            <data x="RU" y="6"/>
+            <data x="ID" y="3"/>
+          </dataset>
+          <dataset label= "Banking assets of GDP">
+            <data x="IE" y="320"/>
+            <data x="GB" y="530"/>
+            <data x="CH" y="320"/>
+            <data x="US" y="120"/>
+            <data x="NL" y="280"/>
+            <data x="DE" y="220"/>
+            <data x="FR" y="325"/>
+            <data x="JP" y="330"/>
+            <data x="CA" y="205"/>
+            <data x="KR" y="170"/>
+            <data x="BR" y="65"/>
+            <data x="AU" y="180"/>
+            <data x="CN" y="240"/>
+            <data x="ZA" y="90"/>
+            <data x="CL" y="85"/>
+            <data x="ES" y="239"/>
+            <data x="HK" y="820"/>
+            <data x="IN" y="70"/>
+            <data x="IT" y="199"/>
+            <data x="MX" y="30"/>
+            <data x="SG" y="540"/>
+            <data x="AR" y="25"/>
+            <data x="TR" y="90"/>
+            <data x="SA" y="55"/>
+            <data x="RU" y="90"/>
+            <data x="ID" y="40"/>
+          </dataset>
+        </graph>
+        <chapter>
+          <title>World's shadow</title>
+          <paragraph>Shadow-banking assets have swelled since the financial crisis. Globally, nonbank firms that extend credit had an estimated $36 trillion of assets.</paragraph>
+          <paragraph>Regulators, concerned that banks may use shadow lending to evade new rules and wary that risks could build up unseen, are trying to map the size of the industry and develop rules for it.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Global Corporations" />
+          <keyword name="Black Market" />
+        </keywords>
+        <sources>
+          <source>bloomberg.com</source>
+          <source>money-marketuk.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>A shadow banking overview</title>
+        <chapter>
+          <paragraph>The relative size of national jurisdictions’ shadow banking sectors has shifted somewhat since 2010. The relative decline of shadow banking assets since 2010, most notably in Japan, France, United Kingdom, and the United States was counterbalanced by an increase in the share in a number of other jurisdictions. Most notably, the share of EMEs doubled from 6% of global shadow banking assets in 2010 to 12% in 2014, driven mostly by China.</paragraph>
+          <paragraph>Growth rates differed considerably across jurisdictions. All but two jurisdictions saw their shadow banking assets rise in 2014, and several showed a marked increase in growth rates compared to 2013. Exchange rate-adjusted growth rates of shadow banking assets in 2014 exceeded 30% in Argentina, China, and Hong Kong. However, for Argentina and Hong Kong, the strong growth in shadow banking is largely due to the low base effect given the relatively small size of shadow banking in these jurisdictions.</paragraph>
+        </chapter>
+        <chapter>
+          <title>Economic functions and related risks</title>
+          <paragraph>The ways in which each of the economic functions, if not adequately regulated, gives rise to shadow banking concerns are summarised below:</paragraph>
+          <paragraph>
+            <list type="ordered">
+            <item>Management of collective investment vehicles with features that make them susceptible to runs.</item>
+            <item>Loan provision that is dependent on short-term funding.</item>
+            <item>Intermediation of market activities that is dependent on short-term funding or on secured funding of client assets.</item>
+            <item>Facilitation of credit creation.</item>
+            <item>Securisation-based credit intermediation and funding of financial entities.</item>
+          </list>
+          </paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Global Corporations" />
+          <keyword name="Black Market" />
+          <keyword name="Loans" />
+          <keyword name="Investments" />
+        </keywords>
+        <sources>
+          <source>fsb.org</source>
+        </sources>
+      </section>
+      <section>
+        <title>China shadow banking</title>
+        <chapter>
+          <title>Beware China’s shadow banks</title>
+          <paragraph>China's "shadow" banks, which hold assets worth about 80% of the country's GDP, have become dangerously intertwined with commercial banks. Christopher Balding explains why they pose a growing systemic threat.</paragraph>
+          <paragraph>Especially worrying are the multiplying links between the country's commercial and “shadow” banks -- the name given to a broad range of non-bank financial institutions from peer-to-peer lending platforms to trusts and wealth management companies.</paragraph>
+        </chapter>
+        <chapter>
+          <title>China’s veiled loans may prove lethal</title>
+          <paragraph>Credit is a risky business, but loans that dare not speak their name? They are possibly even more dangerous, as China is about to find out. As many as 15 publicly traded Chinese lenders, large and small, report roughly $500 billion of such debt between them, which they hold not as loans but as receivables from shadow banking products. While the traditional credit business of these banks is 16 times bigger, receivables have jumped sixfold in three years. Explosive growth of this type usually ends badly. It's hard to see why it'll be different for the People's Republic.</paragraph>
+        </chapter>
+        <graph unit="CNY" x="string" y="number">
+          <title>China's hidden loan boom</title>
+          <dataset label= "2012 Bank receivables">
+            <data x="Agricultural Bank of China" y="1.2"/>
+            <data x="Bank of Quingdao" y="0.0"/>
+            <data x="Bank of Zhengzhou" y="12.6"/>
+            <data x="Bank of Chongqing" y="1.8"/>
+            <data x="China Construction Bank" y="0.0"/>
+            <data x="Huishang Bank" y="1.8"/>
+            <data x="Harbin Bank" y="22.1"/>
+            <data x="Chongqing Rural Commercial Bank" y="30.4"/>
+            <data x="Industrial &amp; Commercial Bank" y="104.6"/>
+            <data x="Shengjing Bank" y="16.0"/>
+            <data x="Bank of China" y="0.0"/>
+            <data x="Bank of Communications" y="30.4"/>
+            <data x="China Minsheng Banking" y="8.0"/>
+            <data x="China Everbright Bank" y="261.2"/>
+            <data x="China Merchants Bank" y="0.0"/>
+        </dataset>
+        <dataset label= "2015 Bank receivables">
+          <data x="Agricultural Bank of China" y="17.5"/>
+          <data x="Bank of Quingdao" y="44.8"/>
+          <data x="Bank of Zhengzhou" y="48.6"/>
+          <data x="Bank of Chongqing" y="66.2"/>
+          <data x="China Construction Bank" y="88.0"/>
+          <data x="Huishang Bank" y="88.0"/>
+          <data x="Harbin Bank" y="67.8"/>
+          <data x="Chongqing Rural Commercial Bank" y="81.3"/>
+          <data x="Industrial &amp; Commercial Bank" y="54.3"/>
+          <data x="Shengjing Bank" y="219.2"/>
+          <data x="Bank of China" y="278.1"/>
+          <data x="Bank of Communications" y="296.1"/>
+          <data x="China Minsheng Banking" y="380.9"/>
+          <data x="China Everbright Bank" y="263.6"/>
+          <data x="China Merchants Bank" y="636.6"/>
+      </dataset>
+        </graph>
+        <chapter>
+          <title>Dodge crackdown evolving</title>
+          <paragraph>China’s shadow lending has evolved to dodge a clampdown, with brokers and funds taking on the role previously played by more heavily regulated trusts in expanding informal financing. Banks are increasingly turning to so-called directional asset-management plans issued by brokerages and the subsidiaries of mutual-fund providers to channel lending. The amount of money placed in such products jumped 70 percent last year to 18.8 trillion yuan ($2.9 trillion), outpacing the 17 percent growth for trust assets, according to data provided by industry groups.</paragraph>
+          <paragraph>Shadow lending assets swelled to 45 trillion yuan as of June 30, equal to about two-thirds of the economy, from 19.2 trillion yuan in 2011, Moody’s Investors Service estimates. Brokerages’ directional AMPs grew 40 percent last year to 10.2 trillion yuan, while fund subsidiaries’ assets more than doubled to 8.6 trillion yuan, according to the Asset Management Association of China. More than 90 percent of directional AMPs are sold to channel bank loans, Morgan Stanley wrote in a Feb. 19 report, adding that 87 percent of fund subsidiaries’ assets were invested in non-traded credit assets such as trust loans in 2014.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Global Corporations" />
+          <keyword name="Black Market" />
+          <keyword name="Central and Eastern Asia" />
+          <keyword name="Investments" />
+        </keywords>
+        <sources>
+          <source>bloomberg.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>Irish shadows</title>
+        <chapter>
+          <paragraph>The entanglement of an obscure Dublin firm in the woes of a lender 2,000 miles away shows why Irish officials have begun shining a light on special purpose vehicles like VPB, unregulated entities that borrow on behalf of corporations throughout the world. The Irish capital, home of Europe’s costliest banking meltdown, remains a hub for the sort of opaque operations that contributed to the global financial crisis, threatening risks that policy makers are seeking to stamp out.</paragraph>
+        </chapter>
+        <quote>
+          <author>Shaen Corbet</author>
+          <role>Lecturer in finance at Dublin City University Business School</role>
+          <text>There’s concern that Irish SPVs are exporting risk to other financial systems around the world and could have contagion effects.</text>
+        </quote>
+        <chapter>
+          <title>Gathering data</title>
+          <paragraph>There are about 2,100 companies in Ireland set up under the legislation that governs SPVs, including some 1,400 since 2010. Even tax authorities don’t know how many assets these firms hold. Risks may be building up in the part of the shadow-banking sector for which a statistical breakdown is not readily available, the European Central Bank, the euro-area’s banking supervisor, said in an e-mailed response to questions. Under Irish law, the entities are structured so that transactions deliver little or no taxable profit. Their shares are held by charitable trusts, which can keep their assets and liabilities off the balance sheets of the parties that use them. Law firms typically set up the trusts and pass along a portion of the fees they generate to charities, according to lawyers who structure them.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Global Corporations" />
+          <keyword name="Black Market" />
+          <keyword name="Western Europe" />
+          <keyword name="Investments" />
+        </keywords>
+        <sources>
+          <source>bloomberg.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>ECB shadows</title>
+        <chapter>
+          <paragraph>The management of markets by the ECB is causing a hidden run on the shadow banking system, which is leading to demand for cash to replace credit. No one knows the true size of the Eurozone’s shadow banks, partly because they are hard to define, and partly because attempts to quantify it focus on only six Eurozone member states. But we are talking of huge numbers. According to the most recent report on shadow banking by the Financial Stability Board, the six Eurozone countries included in its assessment of total shadow banking assets is 23% of the $80 trillion global total, amounting to some $18.4 trillion equivalent. At the heart of the euro area’s shadow banks is sovereign debt, which because of the ECB’s quantitative easing purchases, is being priced substantially in excess of risk-determined levels.</paragraph>
+          <paragraph>Shadow banking facilitates the creation of credit for the purpose of deferring settlement of transactions from the present into the future. If a central bank starves the shadow banks of high-quality collateral against which it issues credit, the system’s ability to expand credit goes into reverse gear, restricting their ability to defer settlements. Demand for cash must therefore rise. That is why euros, and yen for that matter, have become today’s strongest currencies in recent months as this effect has begun to bite.</paragraph>
+        </chapter>
+        <keywords>
+          <keyword name="Global Corporations" />
+          <keyword name="Black Market" />
+          <keyword name="Western Europe" />
+          <keyword name="Eastern Europe" />
+        </keywords>
+        <sources>
+          <source>goldmoney.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>Zimbabwe in shadows</title>
+        <chapter>
+          <paragraph>Just like the retail sector has witnessed a new revolution in the form of vendors, the financial sector in Zimbabwe is facing its own in the form of shadow banks. More germane to Zimbabwe, some so called “microfinance” institutions are now basically operating as shadow banks. In a rather mundane style, most microfinance institutions have played a distinct form of a zero sum game where fragility of depositor confidence in the mainstream financial system has been their splendent gain.</paragraph>
+          <paragraph>In general, microfinance institutions are supposed to confine themselves to the provision of microcredit to the lower end of the consumer chain, which is typically made up of low income groups and small businesses that are supposedly shun by mainstream banks. On the contrary, most microfinance institutions are moving into spheres like structured finance, asset and trade finance, investments (often using pyramid schemes), securitisation and even mortgage based lending. This is the reason why they have become shadow banks in themselves because all such activities are preserved for the regulated mainstream banking system.</paragraph>
+          <paragraph>Shadow banks in Zimbabwe have the potential of crowding out mainstream banks in the provision of credit, particularly consumer and small business loans. In a normal economy financial institutions are supposed to make the bulk of their income through credit but with the current situation where shadow banks are sprouting at a greater scale, mainstream banks are surely poised to lose. According to the International Monetary Fund’s (IMF), Global Financial Stability Report 2014, shadow banks are outstripping mainstream banking sector growth in emerging economies and in a number of contexts they induce a soporific effect on financial intermediation.</paragraph>
+        </chapter>
+        <chapter>
+          <title>Policy framework to mitigate shadow banking risk</title>
+          <list type="ordered">
+          <item>Identification of shadow banking risks</item>
+          <item>Adoption of policy tools</item>
+          <item>Supervision and enforcement</item>
+          <item>Evaluation and adaptation</item>
+        </list>
+        </chapter>
+        <keywords>
+          <keyword name="Global Corporations" />
+          <keyword name="Black Market" />
+          <keyword name="Southern Africa" />
+        </keywords>
+        <sources>
+          <source>theindependent.co.zw</source>
+        </sources>
+      </section>
+    </sections>
+  </bulletin>
+</bulletins>
