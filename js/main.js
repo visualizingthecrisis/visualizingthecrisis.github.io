@@ -65,10 +65,10 @@ function processXML(d,filters){
       }
       if($element.is('abstract'))$section_div.append("<span class='section-abstract'>"+$element.text()+"</span>");
       if($element.is('graph'))graphToHTML($element,$section_div);
-    /*  if($element.is('chapter'))chapterToHTML($element,$section_div);
+      if($element.is('chapter'))chapterToHTML($element,$section_div);
       if($element.is('table'))tableToHTML($element,$section_div);
       if($element.is('keywords'))keywordsToHTML($element,$section_div,filters);
-    */  //  if($element.is('sources'))sourcesToHTML($element,$section_div);
+      //  if($element.is('sources'))sourcesToHTML($element,$section_div);
     }
   }
 }
