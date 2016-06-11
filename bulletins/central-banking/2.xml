@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins group="centralbanking">
+  <title>OH! G.O.D.</title>
+    <subtitle>Governors Of Demand</subtitle>
+      <authors>
+        <author>Giulia Fracas</author>
+        <author>Francesca Polini</author>
+      </authors>
+        <bulletin id="02" date="20160312">
+          <sections>
+            <section>
+              <title>What is the future of money?</title>
+              <chapter>
+                <paragraph>The nature of money changed after the Bretton Woods Conference in 1944, when most countries tied the value of their currencies to the US dollar, rather than to gold or silver. When the US went off the gold standard in 1971, all currencies essential became fiat moneys, with their value derived from the governments that issue them rather than from commodities.</paragraph>
+                <paragraph>Central banks can increase or decrease the money supply at will, giving them enormous control over economic activity. In extreme cases, hyperinflation can ensue, debasing the currency and wreaking havoc.</paragraph>
+                <paragraph>So it’s not surprising that innovating the concept of money through a digital currency has been a recurring theme in technology circles. Intuitively, it seems that the global financial system should be based on more than the judgments of a small group of central bankers. Yet only recently has digital money actually become possible.</paragraph>
+              </chapter>
+              <keywords>
+          <keyword name="Currencies" />
+          <keyword name="Tech" />
+        </keywords>
+        <sources>
+          <source>forbes.com</source>
+        </sources>
+            </section>
+            <section>
+              <title>Ranking 50 world’s top cryptocurrencies</title>
+              <table>
+                <row type="head">
+                  <cell>Currencies</cell>
+                  <cell>Market Cap</cell>
+                  <cell>Price</cell>
+                  <cell>%change</cell>
+                </row>
+                <row type="cell">
+                  <cell>Bitcoin</cell>
+                  <cell>9,022,690,538</cell>
+                  <cell>577.14</cell>
+                  <cell>-1.55</cell>
+                </row>
+                <row type="cell">
+                  <cell>Ethereum</cell>
+                  <cell>1,159,891,916</cell>
+                  <cell>14.69</cell>
+                  <cell>4.06</cell>
+                </row>
+                <row type="cell">
+                  <cell>Litecoin</cell>
+                  <cell>219,567,657</cell>
+                  <cell>4.73</cell>
+                  <cell>-1.67</cell>
+                </row>
+                <row type="cell">
+                  <cell>Ripple</cell>
+                  <cell>201,247,024</cell>
+                  <cell>0.005759</cell>
+                  <cell>-0.30</cell>
+                </row>
+                <row type="cell">
+                  <cell>The DAO</cell>
+                  <cell>155,818,426</cell>
+                  <cell>0.134096</cell>
+                  <cell>3.05</cell>
+                </row>
+                <row type="cell">
+                  <cell>Dash</cell>
+                  <cell>50,412,417</cell>
+                  <cell>8.00</cell>
+                  <cell>0.97</cell>
+                </row>
+                <row type="cell">
+                  <cell>Dogecoin</cell>
+                  <cell>25,081,485</cell>
+                  <cell>0.000248</cell>
+                  <cell>4.75</cell>
+                </row>
+                <row type="cell">
+                  <cell>MaidSafeCoin</cell>
+                  <cell>24,613,013</cell>
+                  <cell>0.054387</cell>
+                  <cell>-3.50</cell>
+                </row>
+                <row type="cell">
+                  <cell>DigixDAO</cell>
+                  <cell>19,252,440</cell>
+                  <cell>9.63</cell>
+                  <cell>-2.60</cell>
+                </row>
+                <row type="cell">
+                  <cell>NEM</cell>
+                  <cell>17,610,120</cell>
+                  <cell>0.001957</cell>
+                  <cell>-2.27</cell>
+                </row>
+                <row type="cell">
+                  <cell>Steem</cell>
+                  <cell>15,600,910</cell>
+                  <cell>0.312954</cell>
+                  <cell>-7.29</cell>
+                </row>
+                <row type="cell">
+                  <cell>Monero</cell>
+                  <cell>11,994,655</cell>
+                  <cell>0.991888</cell>
+                  <cell>1.97</cell>
+                </row>
+                <row type="cell">
+                  <cell>FedoraCoin</cell>
+                  <cell>10,510,845</cell>
+                  <cell>0.000025</cell>
+                  <cell>0.28</cell>
+                </row>
+                <row type="cell">
+                  <cell>BitShares</cell>
+                  <cell>9,020,889</cell>
+                  <cell>0.003522</cell>
+                  <cell>-0.57</cell>
+                </row>
+                <row type="cell">
+                  <cell>Synereo</cell>
+                  <cell>8,657,418</cell>
+                  <cell>0.046848</cell>
+                  <cell>29.90</cell>
+                </row>
+                <row type="cell">
+                  <cell>Factom</cell>
+                  <cell>8,325,475</cell>
+                  <cell>0.951133</cell>
+                  <cell>-3.50</cell>
+                </row>
+                <row type="cell">
+                  <cell>Peercoin</cell>
+                  <cell>8,654,294</cell>
+                  <cell>0.372695</cell>
+                  <cell>-0.02</cell>
+                </row>
+                <row type="cell">
+                  <cell>Siacoin</cell>
+                  <cell>8,622,086</cell>
+                  <cell>0.000581</cell>
+                  <cell>2.73</cell>
+                </row>
+                <row type="cell">
+                  <cell>Stellar</cell>
+                  <cell>8,161,539</cell>
+                  <cell>0.001488</cell>
+                  <cell>0.17</cell>
+                </row>
+                <row type="cell">
+                  <cell>Bytecoin</cell>
+                  <cell>6,697,342</cell>
+                  <cell>0.000037</cell>
+                  <cell>-6.35</cell>
+                </row>
+                <row type="cell">
+                  <cell>Nxt</cell>
+                  <cell>6,873,640</cell>
+                  <cell>0.006874</cell>
+                  <cell>-2.57</cell>
+                </row>
+                <row type="cell">
+                  <cell>Counterparty</cell>
+                  <cell>5,327,295</cell>
+                  <cell>2.03</cell>
+                  <cell>20.18</cell>
+                </row>
+                <row type="cell">
+                  <cell>YbCoin</cell>
+                  <cell>5,883,183</cell>
+                  <cell>1.95</cell>
+                  <cell>3.22</cell>
+                </row>
+                <row type="cell">
+                  <cell>Namecoin</cell>
+                  <cell>5,469,589</cell>
+                  <cell>0.377631</cell>
+                  <cell>0.66</cell>
+                </row>
+                <row type="cell">
+                  <cell>Storjcoin X</cell>
+                  <cell>5,366,083</cell>
+                  <cell>0.108366</cell>
+                  <cell>19.31</cell>
+                </row>
+                <row type="cell">
+                  <cell>SolarCoin</cell>
+                  <cell>4,356,185</cell>
+                  <cell>0.126925</cell>
+                  <cell>11.54</cell>
+                </row>
+                <row type="cell">
+                  <cell>Rubycoin</cell>
+                  <cell>4,390,125</cell>
+                  <cell>0.189880</cell>
+                  <cell>-6.24</cell>
+                </row>
+                <row type="cell">
+                  <cell>Agoras Tokens</cell>
+                  <cell>3,834,201</cell>
+                  <cell>0.091290</cell>
+                  <cell>-5.54</cell>
+                </row>
+                <row type="cell">
+                  <cell>SysCoin</cell>
+                  <cell>3,145,124</cell>
+                  <cell>0.007336</cell>
+                  <cell>-7.22</cell>
+                </row>
+                <row type="cell">
+                  <cell>Tether</cell>
+                  <cell>2,951,591</cell>
+                  <cell>1.00</cell>
+                  <cell>0.00</cell>
+                </row>
+                <row type="cell">
+                  <cell>Bitcrystals</cell>
+                  <cell>2,891,815</cell>
+                  <cell>0.068544</cell>
+                  <cell>-1.03</cell>
+                </row>
+                <row type="cell">
+                  <cell>Voxels</cell>
+                  <cell>2,845,994</cell>
+                  <cell>0.090349</cell>
+                  <cell>-3.36</cell>
+                </row>
+                <row type="cell">
+                  <cell>VPNCoin</cell>
+                  <cell>2,751,803</cell>
+                  <cell>0.006874</cell>
+                  <cell>0.22</cell>
+                </row>
+                <row type="cell">
+                  <cell>Decred</cell>
+                  <cell>2,749,123</cell>
+                  <cell>1.49</cell>
+                  <cell>-4.57</cell>
+                </row>
+                <row type="cell">
+                  <cell>GridCoin</cell>
+                  <cell>2,476,525</cell>
+                  <cell>0.006568</cell>
+                  <cell>2.01</cell>
+                </row>
+                <row type="cell">
+                  <cell>DigiByte</cell>
+                  <cell>2,325,021</cell>
+                  <cell>0.000352</cell>
+                  <cell>9.15</cell>
+                </row>
+                <row type="cell">
+                  <cell>GameCredits</cell>
+                  <cell>2,697,633</cell>
+                  <cell>0.048630</cell>
+                  <cell>33.83</cell>
+                </row>
+                <row type="cell">
+                  <cell>BlackCoin</cell>
+                  <cell>2,067,295</cell>
+                  <cell>0.027391</cell>
+                  <cell>0.90</cell>
+                </row>
+                <row type="cell">
+                  <cell>MonaCoin</cell>
+                  <cell>1,940,685</cell>
+                  <cell>0.056771</cell>
+                  <cell>-0.54</cell>
+                </row>
+                <row type="cell">
+                  <cell>Scotcoin</cell>
+                  <cell>1,770,600</cell>
+                  <cell>0.001771</cell>
+                  <cell>96.63</cell>
+                </row>
+                <row type="cell">
+                  <cell>CrevaCoin</cell>
+                  <cell>1,754,247</cell>
+                  <cell>0.068673</cell>
+                  <cell>19.31</cell>
+                </row>
+                <row type="cell">
+                  <cell>Auroracoin</cell>
+                  <cell>1,724,623</cell>
+                  <cell>0.210899</cell>
+                  <cell>-8.27</cell>
+                </row>
+                <row type="cell">
+                  <cell>Rimbit</cell>
+                  <cell>1,701,687</cell>
+                  <cell>0.014901</cell>
+                  <cell>-57.93</cell>
+                </row>
+                <row type="cell">
+                  <cell>BitcoinDark</cell>
+                  <cell>1,686,938</cell>
+                  <cell>1.33</cell>
+                  <cell>13.82</cell>
+                </row>
+                <row type="cell">
+                  <cell>Feathercoin</cell>
+                  <cell>1,650,737</cell>
+                  <cell>0.013278</cell>
+                  <cell>8.24</cell>
+                </row>
+                <row type="cell">
+                  <cell>Vcash</cell>
+                  <cell>1,578,064</cell>
+                  <cell>0.110448</cell>
+                  <cell>1.78</cell>
+                </row>
+                <row type="cell">
+                  <cell>Mintcoin</cell>
+                  <cell>1,462,530</cell>
+                  <cell>0.000063</cell>
+                  <cell>-7.89</cell>
+                </row>
+              </table>
+              <keywords>
+          <keyword name="Tech" />
+          <keyword name="Currencies" />
+        </keywords>
+        <sources>
+          <source>coinmarketcap.com</source>
+        </sources>
+            </section>
+            <section>
+              <title>Bitcoin</title>
+              <chapter>
+                <paragraph>Bitcoin is a digital currency created in 2009. It follows the ideas set out in a white paper by the mysterious Satoshi Nakamoto, whose true identity has yet to be verified. Bitcoin offers the promise of lower transaction fees than traditional online payment mechanisms and is operated by a decentralized authority, unlike government issued currencies.</paragraph>
+                <paragraph>The satoshi is currently the smallest unit of the bitcoin currency recorded on the blockchain. It is a one hundred millionth of a single bitcoin (0.00000001 BTC)</paragraph>
+              </chapter>
+              <graph unit="USD" x="date" y="number">
+                <title>Average BTC transactions per day</title>
+                <dataset label= "BTC transactions per day">
+                  <data x="2011" y="2"/>
+                  <data x="2012" y="2"/>
+                  <data x="2013" y="40"/>
+                  <data x="2014" y="70"/>
+                </dataset>
+              </graph>
+              <chapter>
+                <paragraph>In 2014 the number of bitcoin transaction were $74.3 million. In just six short years the popularity of cryptocurrencies have soared.</paragraph>
+                <paragraph>Bitcoin is the largest cryptocurrency in both market capitalization, volume, acceptance and notoriety, but it’s not the most valuable coin.</paragraph>
+              </chapter>
+              <chapter>
+                <title>Who is accepting bitcoins?</title>
+                <paragraph>Many large companies are accepting bitcoins as a legitimate source of funds. They allow their online products to be bought with bitcoins.</paragraph>
+              </chapter>
+              <graph unit="%" x="string" y="percentage">
+                <title>Top industries</title>
+                <dataset label= "Industries accepts Bitcoins">
+                  <data x="IT Services" y="36.4"/>
+                  <data x="Marketplaces" y="17.4"/>
+                  <data x="Financial Services" y="14.3"/>
+                  <data x="Gift Cards" y="9"/>
+                  <data x="Other" y="22.9"/>
+                </dataset>
+              </graph>
+              <chapter>
+                <paragraph>The top industries in terms of bitcoin acceptance remain remarkably consistent. IT Services, including website hosting, registrars, and VPN services represents over a third of all merchant types.</paragraph>
+                <paragraph>The merchant type ‘Other’ comprises a broad range of retailers, enabling bitcoin owners to spend their coins on everything from high-end watches to charity donations.</paragraph>
+              </chapter>
+              <chapter>
+                <title>Why you should choose bitcoin as a payment method system</title>
+                <paragraph>
+                  <list type="ordered">
+                  <item>Protection from payment fraud, bitcoins are digital and cannot be counterfeited or reversed arbitrarily by the sender</item>
+                  <item>Reduced Possibility of Identity Theft, bitcoins use a “push” mechanism that allows the bitcoin holder to send exactly what he or she wants to the merchant or recipient with no further information.</item>
+                  <item>Direct Transfers for Immediate Settlement, bitcoins contracts can be designed and enforced to eliminate or add third party approvals</item>
+                  <item>Lower fees, there aren’t usually transaction fees for bitcoin exchanges because the bitcoin miner is compensated by the network with newly issued bitcoins.</item>
+                </list>
+                </paragraph>
+              </chapter>
+              <chapter>
+                <title>Bitcoins already mined</title>
+                <paragraph>There is a finite number of bitcoins that can be created. Over half have already been mined.</paragraph>
+                <paragraph>
+                  <list type="unordered">
+                  <item>1/2 the number of new bitcoins created each year is automatically halved over time until bitcoin issuance halts completely.</item>
+                  <item>By 2040 all 21 million Bitcoins should have been mines.</item>
+                </list>
+                </paragraph>
+                <paragraph>Currencies have experienced extreme volatility - Bitcoin increased in value by 5,000% during the course of 2013.</paragraph>
+                <paragraph>Its value has now plummeted from over $1,151 to just $232 as ofAugust 2015.</paragraph>
+                <paragraph>15,285,225 Bitcoin as of March 2016 in circulation.</paragraph>
+              </chapter>
+              <keywords>
+          <keyword name="Currencies" />
+          <keyword name="Tech" />
+          <keyword name="Commerce" />
+        </keywords>
+        <sources>
+          <source>cryptocoinsnews.com</source>
+          <source>bitcoin.org</source>
+          <source>bitcoin.com</source>
+          <source>blockchain.info</source>
+        </sources>
+            </section>
+            <section>
+              <title>How a Bitcoin transaction works like</title>
+              <chapter>
+                <paragraph>
+                  <list type="ordered">
+                    <item>Buyer</item>
+                    <item>Private Key Address Public Key</item>
+                    <item>The direct transactions are safe only if you trust the person paying you</item>
+                    <item>Verification</item>
+                    <item>Seller</item>
+                  </list>
+                </paragraph>
+              </chapter>
+              <chapter>
+                <title>The verification network</title>
+                <paragraph>Confirmation means that a transaction has been processed by the network and is highly unlikely to be reversed.</paragraph>
+              </chapter>
+              <table>
+                <row type="head">
+                  <cell>Level of confermation</cell>
+                  <cell>Number of confirmation score</cell>
+              </row>
+              <row type="cell">
+                <cell>Mostly reliable</cell>
+                <cell>1</cell>
+            </row>
+            <row type="cell">
+              <cell>Highly reliable</cell>
+              <cell>3</cell>
+          </row>
+          <row type="cell">
+            <cell>Minimum recommendation for high-value bitcoin transfers</cell>
+            <cell>6</cell>
+        </row>
+        <row type="cell">
+          <cell>Recommendation during emergencies to allow human intervention</cell>
+          <cell>36</cell>
+      </row>
+              </table>
+              <chapter>
+                <title>Mining</title>
+                <paragraph>Bitcoin mining is the process of making computer hardware do mathematical calculations for the Bitcoin network to confirm transactions and increase security. Mining is a specialized and competitive market where the rewards are divided up according to how much calculation is done.</paragraph>
+              </chapter>
+              <chapter>
+                <paragraph>Note that only the first steps involve action by the seller and buyer respectively. The latter are automatically executed by the Bitcoin client software and Bitcoin network. As well, storing the private key attached to an address safely and securely is of the utmost importance; otherwise, anyone who obtains the private key can control the Bitcoins at that address and use them fraudulently.</paragraph>
+              </chapter>
+              <keywords>
+          <keyword name="Mining" />
+          <keyword name="Tech" />
+          <keyword name="Currencies" />
+          <keyword name="Commerce" />
+        </keywords>
+        <sources>
+          <source>wikipedia.com</source>
+          <source>bitcoin.org</source>
+          <source>coindesk.com</source>
+        </sources>
+            </section>
+            <section>
+              <title>Breaking News</title>
+              <chapter>
+                <title>Forty Big Banks Test Blockchain Based Bond Trading System</title>
+                <paragraph>Forty of the world’s biggest banks, including HSBC
+and Citi, have tested a system for trading fixed income
+using the technology that underpins bitcoin, fintech
+company R3 CEV said on Thursday. The banks are
+part of a consortium of 42 major lenders, brought
+together last year by New York-based R3 CEV to
+work on ways blockchain technology could be used
+in financial markets - the first time so many have
+collaborated on using such systems.</paragraph>
+              </chapter>
+              <chapter>
+                <title>Estonian citizens will soon have the world’s most hack-proof health-care records</title>
+                <paragraph>Guardtime Mike Gault is helping Estonia move its
+citizens’ health records to a database, based on
+blockchain technology, that nobody can mess with.
+While financial institutions rave about the potential
+for blockchain – the technology that powers bitcoin
+– as a way to revolutionize the financial world, it can
+also help keep private data secure.</paragraph>
+              </chapter>
+              <chapter>
+                <title>This could kill the World’s popular cryptocurrency</title>
+                <paragraph>Bitcoin would likely be stopped by the U.S.
+government before it became a true currency of use.
+It might not even take an institution as large as the US
+government to stop Bitcoin. The global decentralized
+currency could soon cause its own unwinding.</paragraph>
+<paragraph>The problem isn’t that people have stopped using
+the service. On the contrary—too many people have
+started to use Bitcoin, and as a result, the payment
+system is jammed up. Instead of processing payments
+quickly, it’s taking hours in some cases. Tens of
+thousands of unprocessed transactions are in queue,
+and vendors that had accepted Bitcoin are starting
+to drop out.</paragraph>
+              </chapter>
+              <chapter>
+                <title>Thought bitcoin was dead? 2016 is the year it goes big</title>
+                <paragraph>In recent months, bitcoin grabbed tremendous attention because its underlying technology, the blockchain, also can be used to reinvent the exchange of stock and other financial securities.
+several big names in finance and banking invested in the bitcoin startup Chain. This included Nasdaq, Citi Ventures, Capital One Financial, and Visa.</paragraph>
+              </chapter>
+              <chapter>
+                <title>US prosecutors believe Ex-secret service agent stole more bitcoin from Silk Road</title>
+                <paragraph>The US government believes that a former Secret Service agent convicted of stealing hundreds of thousands of dollars in bitcoin during the investigation of Silk Road may have been involved with additional thefts from the now-defunct online dark market.
+Ex-Secret Service agent Shaun Bridges was sentenced to nearly six years in federal prison after pleading guilty last year to money laundering and obstruction charges tied to the theft of more than $800,000 in bitcoin from the Silk Road during the US government’s investigation.</paragraph>
+              </chapter>
+              <chapter>
+                <title>Russia’s central bank establishes blockchain working group</title>
+                <paragraph>While Russian authorities and regulators take a notoriously hardline stance against Bitcoin, the country’s central bank has announced the establishment of a ‘working group’ that will seek to study distributed ledger or blockchain technology, the same underlying technology that powers Bitcoin.
+The Working Group will schedule regular meetings that will be attended by representatives of banks, financial market leaders and participants as well as self-regulating organizations that will convene to discuss the different aspects of the application and use of blockchain technology and Fintech.
+Russia’s central bank joins the blockchain bandwagon in the months after Sberbank, Russia’s largest bank by assets, also revealed its intention to join the private banking blockchain consortium led by New York-based R3, toward the end of 2015.</paragraph>
+              </chapter>
+              <keywords>
+          <keyword name="Currencies" />
+          <keyword name="Governance" />
+          <keyword name="Citizenship" />
+          <keyword name="North America" />
+          <keyword name="Middle East and Western Asia" />
+        </keywords>
+        <sources>
+          <source>Reuters.com</source>
+          <source>qz.com</source>
+          <source>wired.com</source>
+          <source>coindesk.com</source>
+          <source>cryptocoinsnews.com</source>
+        </sources>
+            </section>
+            <section>
+              <title>Ben Broadbent's opinion</title>
+              <quote>
+                <author>Ben Broadbent</author>
+                <role>Deputy governor for monetary policy at the Bank of England</role>
+                <text>This technology could be applied to many things, not just the exchange and registering of financial assets.</text>
+              </quote>
+              <keywords>
+          <keyword name="Tech" />
+          <keyword name="Commerce" />
+        </keywords>
+        <sources>
+          <source>bankofengland.uk</source>
+        </sources>
+            </section>
+            <section>
+              <title>The technology behind bitcoin transactions, the so-called blockchain is a digital public ledger system</title>
+              <chapter>
+                <title>Blockchain</title>
+                <paragraph>A blockchain essentially works as a global and public ledger.
+Information is stored on a distributed network of computers, there’s no central database that can be tampered with or hacked.
+Every 10 minutes, all transactions are recorded in a virtual block, and a new block is created, linked to all
+the previous blocks in the chain. The blocks are visible to both parties involved in the transaction.
+All of which makes it a system well-suited for storing and sharing accounts.</paragraph>
+              </chapter>
+              <chapter>
+                <title>Blocks</title>
+                <paragraph>Transaction data is permanently recorded in files called blocks. Blocks are organized into a linear
+sequence over time (block chain). New transactions are constantly being processes by miners into
+new blocks which are added to the end of the chain and can never be changed or removed once accepted by the network.</paragraph>
+              </chapter>
+              <chapter>
+                <title>Orphan blocks</title>
+                <paragraph>Blocks in shorter chains (or invalid chains) are not used for anything.
+When the bitcoin client switches to another, longer chain, all valid transactions of the blocks inside the shorter chain are re-added to the pool of queued transactions and will be included in another block.</paragraph>
+              </chapter>
+              <chapter>
+                <title>Proof of work</title>
+                <paragraph>Dividing the ledger up into distributed blocks isn’t enough on its own to protect the ledger from fraud. Bitcoin also relies on cryptography. The computational problem is different for every block in the chain, and it involves a particular kind of algorithm called a hash function.</paragraph>
+              </chapter>
+              <keywords>
+          <keyword name="Tech" />
+          <keyword name="Commerce" />
+        </keywords>
+        <sources>
+          <source>wikipedia.com</source>
+          <source>bis.org</source>
+        </sources>
+            </section>
+            <section>
+              <title>Nodes in the world</title>
+              <abstract>Transactions in the world</abstract>
+              <graph unit="" x="string" y="number">
+                <title>Reachable nodes as of Sun Mar 13 2016 22:37:12</title>
+                <dataset label= "average in the last 24 hours">
+                  <data x="World" y="7403"/>
+                  <data x="US" y="2533"/>
+                  <data x="DE" y="820"/>
+                  <data x="FR" y="454"/>
+                </dataset>
+              </graph>
+              <chapter>
+                <title>transactions per block</title>
+                <paragraph>185,497 transactions per block Sun Mar 13 2016</paragraph>
+              </chapter>
+              <keywords>
+          <keyword name="Commerce" />
+          <keyword name="Tech" />
+        </keywords>
+        <sources>
+          <source>bitnodes.21.co</source>
+        </sources>
+            </section>
+            <section>
+              <title>The blockchain in numbers</title>
+              <graph unit="" x="date" y="number">
+                <title>The rising blockchain size</title>
+                <dataset label= "Blockchain size">
+                  <data x="2016" y="61"/>
+                </dataset>
+              </graph>
+              <graph unit="" x="date" y="number">
+                <title>Number of transactions per day</title>
+                <dataset label= "transaction per day">
+                  <data x="20160313" y="185"/>
+                </dataset>
+              </graph>
+              <graph unit="" x="date" y="number">
+                <title>Number of transactions per block</title>
+                <dataset label= "transaction per block">
+                  <data x="20160313" y="1,2"/>
+                </dataset>
+              </graph>
+              <keywords>
+          <keyword name="Commerce" />
+          <keyword name="Tech" />
+        </keywords>
+        <sources>
+          <source>blockchain.info</source>
+        </sources>
+            </section>
+          </sections>
+        </bulletin>
+      </bulletins>
