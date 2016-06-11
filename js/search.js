@@ -1,4 +1,6 @@
 $(document).ready(function(){
+  $(".loader-container").show();
+
   $.get('keywords.xml', function(d){
 
     var areas=$(d).children().first().children();
@@ -17,11 +19,13 @@ $(document).ready(function(){
         $area_element.append("<input type='radio' name='"+$keyword.text()+"' value='"+$keyword.text()+"'>"+$keyword.text()+"<br>");
       }
     }
-    processFilters();
+    $.get(path, function(d){
+        processXML(d);
+        $(".loader-container").fadeOut("fastest");
+    });
   });
+
 });
-
-
 function filter(){
   var filters=[];
   var n = $( "input:checked" ).length;
@@ -30,16 +34,25 @@ function filter(){
     filters.push($(checked[i]).attr('name'));
   }
   console.log(filters);
-  $("#bulletin-container").children().remove();
-  processFilters(filters);
 
+  //$(".loader-container").css("opacity",1);
+  //$("#bulletin-container").hide();
 
+  $(".loader-container").fadeIn("fastest",function(){
+    processFilters(filters);
+
+  });
+
+/*
+  $(".loader-container").fadeOut(function(){
+    $("#bulletin-container").fadeIn();
+  });
+*/
 
 }
 
 function processFilters(filters){
   var $all=$('<sections></sections>');
-  $(document).ready(function(){
     function parse(i){
       if(i<paths.length){
         $.ajax({
@@ -62,13 +75,13 @@ function processFilters(filters){
       }
       else{
         //  console.log($all.html());
+
+        $("#bulletin-container").children().remove();
         processXML($all,filters);
+        $(".loader-container").fadeOut();
       }
     }
     parse(0);
-
-  });
-
 }
 function clear(){
    $("input:checked").each().attr('checked', false); // Checks itremoveAttr('checked');

@@ -17,6 +17,8 @@ $(document).ready(function(){
   }
   addSelect(0);
 */
+  $(".loader-container").show();
+
   for(var i=0;i<paths.length;i++){
     $('#xml-select').append("<option value="+paths[i]+">"+paths[i]+"</option>");
   }
@@ -25,6 +27,7 @@ $(document).ready(function(){
   editor.getSession().setMode("ace/mode/xml");
   editor.$blockScrolling=Infinity;
   updateEditor();
+
 });
 function onSelect(){
   path=$("#xml-select").val();
@@ -42,6 +45,7 @@ function updateEditor(){
       success: function(xml){
         editor.setValue(xml);
           update();
+
       }
   });
 
@@ -51,4 +55,5 @@ function update(){
 
   $("#bulletin-container").children().remove();
   processXML(xmlDoc);
+  $(".loader-container").fadeOut("fastest");
 }

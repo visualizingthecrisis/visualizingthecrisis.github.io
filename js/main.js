@@ -2,11 +2,14 @@ var barHeight=30;
 var patterns= ['url(#crosshatch1) #fff', 'url(#crosshatch2) #fff','url(#crosshatch3) #fff','url(#crosshatch4) #fff','url(#crosshatch5) #fff','url(#dots-4) #fff','url(#circles-2) #fff','url(#circles-3) #fff','url(#circles-4) #fff','url(#circles-5) #fff'];
 var graph_number=0;
 
+$(document).ready(function(){
+  $("body").append("<div class='loader-container'><div class='loader'></div></div>");
+});
 
 function processXML(d,filters){
+  
   filtersUnwrap="all the topics";
   var sections=$(d).find('section');
-
   if(filters && filters.length>0){
     filtersUnwrap="";
     for(var k=0;k<filters.length;k++){
@@ -71,6 +74,7 @@ function processXML(d,filters){
       //  if($element.is('sources'))sourcesToHTML($element,$section_div);
     }
   }
+
 }
 
 function tableToHTML($element, $parent){
@@ -170,11 +174,11 @@ function graphToHTML($element, $parent){
   for (var i = 0; i < datasets.length; ++i) {
     var $dataset=$(datasets[i]);
     var arrayX=['x'];
-    var arrayY=[$dataset.attr('label')];
+    var arrayY=[toCapitalLetter($dataset.attr('label'))];
     var datas=$dataset.find('data');
     for (var j = 0; j < datas.length; ++j) {
       $data=$(datas[j]);
-      arrayX.push($data.attr('x'));
+      arrayX.push(toCapitalLetter($data.attr('x')));
       arrayY.push(parseFloat(replaceAll($data.attr('y'),",", "")));
     }
     xData.push(arrayX);
@@ -533,4 +537,7 @@ function d3_format_precision(x, p) {
 
 function replaceAll(str, search, replacement) {
   return str.split(search).join(replacement);
+}
+function toCapitalLetter(s){
+  return s.charAt(0).toUpperCase() + s.slice(1);
 }

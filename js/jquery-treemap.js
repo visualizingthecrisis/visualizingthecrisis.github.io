@@ -174,12 +174,14 @@
           'max-width': width-10,
           'visibility':'hidden'
       });
+      var t= $content.innerWidth() <width- TreeMap.TOP_MARGIN;
+      $content.remove();
     //  console.log('++++');
     //  console.log(s+" , "+width+"  ",$content.innerWidth());
 
   //    console.log($content.innerWidth() +" < "+(width-10));
       //$content.remove();;
-      return $content.innerWidth() <width- TreeMap.TOP_MARGIN;
+      return t;
     }
     TreeMap.prototype.divideDisplayArea = function (nodeList, destRectangle) {
         // Check for boundary conditions
