@@ -6,13 +6,67 @@
     <author>Giulia Fracas</author>                                          <!--[1-N]-->
     <author>Francesca Polini</author>
   </authors>
-  <bulletin id="04" date="20160326">                                     <!--[1-N]-->
-    <title>Negative Interest Rates</title>                                                    <!--[0-1]-->
+  <bulletin id="04" date="20160326">                                     <!--[1-N]-->                                                    <!--[0-1]-->
     <sections>                                                            <!--[ 1 ]-->
-      <section>                                                           <!--[1-N]-->
-        <chapter>                                                         <!--[0-N]-->
-          <title>The best negatives</title>                                                          <!--[0-1]-->
-          <paragraph>Denmark and Sweden are two states that have a negative interest rate. This rate increase GDP, in fact more interest rate goes down, more GDP raises. Sweden took advantages from negative interest rate, but in this case, immigrants was the very affluence for the state. For the rest of the year, the situation could change. Also Denmark moves down interest rate and it decided to lower again if it will be necessary, because the state took advantages from that financial measure.</paragraph>                                          <!--[0-N]-->
+      <section>
+        <title>World goes negative</title>
+        <chapter>
+          <paragraph>Imagine a bank that pays negative
+interest. Crazy as it sounds, several
+of Europe’s central banks have cut
+key interest rates below zero and
+kept them there for more than
+a year. Now Japan is trying it, too.
+For some, it’s a bid to reinvigorate
+an economy with other options
+exhausted. Others want to push
+foreigners to move their money
+somewhere else. Either way,
+it’s an unorthodox choice that
+has distorted financial markets
+and triggered warnings that the
+strategy could backfire. If negative
+interest rates work, however, they
+may mark the start of a new era for
+central banks.</paragraph>
+        </chapter>
+        <keywords>                                                      <!--[ 1 ]-->
+          <keyword name="Interest Rates"/>                                   <!--[1-N]-->
+          <keyword name="Global Corporations"/>
+          <keyword name="Southeastern Asia"/>
+        </keywords>
+        <sources>                                                       <!--[ 1 ]-->
+          <source>tradingeconomics.com</source>                                     <!--[1-N]-->
+        </sources>
+      </section>
+      <section>
+        <title>Sweden</title>
+        <chapter>
+          <title>The less european 2016’s country ever</title>
+          <paragraph>To tow the Swedish economy were mainly two factors: interest rates kept very low by the central bank and a strong increase in public and private spending to meet the migrants emergency.</paragraph>
+        </chapter>
+        <graph unit="" x="country" y="number">
+          <title>Asylum seekers</title>
+          <dataset label= "Asylum seekers per million of population in 2014">
+            <data x="SE" y="7,918"/>
+            <data x="HU" y="4,188"/>
+            <data x="DK" y="2,656"/>
+            <data x="DE" y="2,115"/>
+            <data x="IT" y="1,067"/>
+            <data x="FR" y="923"/>
+            <data x="GR" y="854"/>
+            <data x="GB" y="500"/>
+            <data x="US" y="313"/>
+            <data x="ES" y="126"/>
+            <data x="JP" y="39"/>
+        </dataset>
+        </graph>
+        <chapter>
+          <paragraph>In 2015 have been welcomed 180,000 immigrants, twice the 2014.</paragraph>
+        </chapter>
+        <chapter>
+          <title>The GDP growth</title>
+          <paragraph>The Swedish economy advanced a seasonally adjusted 0.5% on the quarter in the three months to March of 2016, following an upwardly revised 1.6% expansion in the previous period and missing market expectations of 0.7% growth.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="number"> 		          <!--[0-N]-->
           <title>Sweden</title>                                    <!--[0-1]-->
@@ -30,6 +84,37 @@
             <data x="Oct-Dec" y="-0.6"/>
           </dataset>
         </graph>
+        <chapter>
+          <paragraph>In 2014 both private and public spending rebounded, as well as fixed investment which grew the most in seven years. On the expenditure side, household consumption is the main component of GDP and accounts for 46 percent of its total use, followed by government consumption (26 percent) and gross fixed capital formation (23 percent). Exports of goods and services account for 45 percent of GDP while imports account for 41 percent, adding 4 percent of total GDP.</paragraph>
+        </chapter>
+        <keywords>                                                      <!--[ 1 ]-->
+          <keyword name="Interest Rates"/>                                   <!--[1-N]-->
+          <keyword name="GDP"/>
+          <keyword name="Western Europe"/>
+          <keyword name="Governance"/>
+        </keywords>
+        <sources>                                                       <!--[ 1 ]-->
+          <source>tradingeconomics.com</source>
+          <source>migrationsverket.se</source>
+          <source>telegraph.co.uk</source>
+          <source>ibtimes.com</source>
+        </sources>
+      </section>
+      <section>
+        <title>Denmark</title>
+        <chapter>
+          <title>The longest history of negative</title>
+          <paragraph>In Denmark, the central bank, Nationalbanken,
+doesn’t have an inflation target. Its goal is to keep
+its currency steady against the euro to protect trade
+with the eurozone. With the euro falling in recent
+years, the Danish central bank cut rates repeatedly,
+going negative for the first time in mid-2012 in a bid
+to keep its currency in check. The policy has achieved
+its main objective because appreciation pressure on
+the krone has “disappeared completely.”</paragraph>
+          <paragraph>The central bank’s efforts to date to save its currency regime have actually proved profitable. In addition to extreme rate cuts, Denmark was forced to ratchet up foreign reserves in 2015 until they accounted for about 40 percent of gross domestic product. It made about 2 billion kroner ($300 million) from transactions focused on defending the krone’s peg to the euro, it said on Wednesday. Its total profit in 2015 was 3.6 billion kroner.</paragraph>
+        </chapter>
         <graph unit="%" x="string" y="number"> 		          <!--[0-N]-->
           <title>Denmark</title>                                    <!--[0-1]-->
           <abstract>The current situation and forecasts about negative interest rate and GDP in Denmark</abstract>					                        				                            <!-- max 144 char-->
@@ -46,11 +131,17 @@
             <data x="Oct-Dec" y="-0.25"/>
           </dataset>
         </graph>
-        <chapter>                                                       <!--[0-N]-->
-          <title>Sweden Interest Rate Forecast</title>								                  <!--[0-1]-->
-          <paragraph>In 2020 Interest Rate is projected to trend around 1.00%</paragraph>                        <!--[0-N]-->
-          <title>Denmark Interest Rate Forecast</title>								                  <!--[0-1]-->
-          <paragraph>In 2020 Interest Rate is projected to trend around 1.75%</paragraph>                        <!--[0-N]-->
+        <graph unit="%" x="date" y="number">
+          <title>Sweden and Denmark Interest Rate Forecast</title>
+          <dataset label= "Interest Rate">
+            <data x="2020" y="1.00"/>
+            <data x="2020" y="1.75"/>
+          </dataset>
+        </graph>
+        <chapter>
+          <paragraph>Denmark’s GDP growth rebounded slightly after the very weak data recorded in Q3 2015. However, the economy is likely to grow below 1% for 2016 as a whole. Nevertheless, employment growth continues to be strong, with private sector adding 3,200 employees in January. Inflation in January had decelerated as expected but seems likely to remain positive before accelerating again in H2 2016.</paragraph>
+        </chapter>
+        <chapter>                                                       <!--[0-N]-->							                  <!--[0-1]-->                       <!--[0-N]-->
           <title>What is deposit rate?</title>								                  <!--[0-1]-->
           <paragraph>It is a rate paid by financial institutions to deposit account holders. Deposit accounts include certificates of deposit, savings accounts and self-directed deposit retirement accounts.</paragraph>                        <!--[0-N]-->
           <paragraph>Hungary and Euro Area have a positive interest rate or near zero, but they have a negative deposit rate. Practically, they do this, because to discourage banks from holding money and thus weaken the currency.</paragraph>
@@ -59,23 +150,44 @@
           <keyword name="Interest Rates"/>                                   <!--[1-N]-->
           <keyword name="GDP"/>
           <keyword name="Western Europe"/>
-          <keyword name="Eastern Europe"/>
         </keywords>
         <sources>                                                       <!--[ 1 ]-->
           <source>tradingeconomics.com</source>                                     <!--[1-N]-->
           <source>econotimes.com</source>
           <source>bloomberg.com</source>
-          <source>ibtimes.com</source>
         </sources>
       </section>
-      <section>                                                           <!--[1-N]-->
-        <chapter>                                                         <!--[0-N]-->
-          <title>A little improvement</title>                                                          <!--[0-1]-->
-          <paragraph>Also, Switzerland and Euro Area changed their interest rate in negative for improving economic condition. From the change, Switzerland had a little improvement in import but it has some problems in exports again. Even if BCE needs time to reach a lower unemployment level, the effect of the choice seems positive.</paragraph>                                           <!--[0-N]-->
+      <section>
+        <title>A little improvement</title>                                                         <!--[1-N]-->
+        <chapter>                                                         <!--[0-N]-->                                                          <!--[0-1]-->
+          <paragraph>Even if ECB needs time to reach a lower unemployment level the effect of the choice seems to be positive.</paragraph>                                           <!--[0-N]-->
           <paragraph>In Euro Area the current employment rate is 10.3%, but the forecast is 9.6%</paragraph>                                           <!--[0-N]-->
-          <paragraph>In the long term, Switzerland exports previsions will stay at 17043.1 lower than imports.</paragraph>
         </chapter>
-        <graph unit="CHF" x="date" y="number"> 		          <!--[0-N]-->
+        <graph unit="%" x="country" y="number">
+          <dataset label= "Unemployment Rate 2016">
+            <data x="DE" y="4.2"/>
+            <data x="GB" y="4.9"/>
+            <data x="AT" y="5.8"/>
+            <data x="DK" y="6.0"/>
+            <data x="NL" y="6.4"/>
+            <data x="SE" y="6.9"/>
+            <data x="IE" y="8.4"/>
+            <data x="BE" y="8.7"/>
+            <data x="FI" y="9.1"/>
+            <data x="FR" y="9.9"/>
+            <data x="IT" y="11.7"/>
+            <data x="PT" y="12.0"/>
+            <data x="ES" y="20.1"/>
+            <data x="GR" y="24.2"/>
+            <data x="IS" y="3.1"/>
+            <data x="NO" y="4.7"/>
+        </dataset>
+        </graph>
+        <chapter>
+          <title>Switzerland Import/export</title>
+          <paragraph>Export-oriented industrial sector has been particularly hard hit by the franc, which finished last year 10 percent stronger. Sulzer AG, a pump and mining drill manufacturer, is closing its plant north-east of Zurich.</paragraph>
+        </chapter>
+          <graph unit="CHF" x="date" y="number"> 		          <!--[0-N]-->
           <title>Switzerland import/export</title>                                    <!--[0-1]-->
           <abstract>Switzerland import and export are going better, but import is lower than export again</abstract>					                        				                            <!-- max 144 char-->
           <dataset label= "Import">                           	<!--[1-N]-->
@@ -97,6 +209,9 @@
             <data x="201602" y="17,621"/>
           </dataset>
         </graph>
+        <chapter>
+          <paragraph>In the long term, exports previsions will stay lower than imports.</paragraph>
+        </chapter>
           <keywords>                                                      <!--[ 1 ]-->
             <keyword name="Import/Export"/>                                    <!--[1-N]-->
             <keyword name="Employment"/>
@@ -106,12 +221,14 @@
             <source>tradingeconomics.com</source>                                     <!--[1-N]-->
             <source>bloomberg.com</source>
             <source>ilsole24ore.com</source>
+            <source>ec.europa.eu</source>
+            <source>econotimes.com</source>
           </sources>
         </section>
-        <section>                                                           <!--[1-N]-->
-          <chapter>                                                         <!--[0-N]-->
-            <title>The worst negative interest rate</title>                                                          <!--[0-1]-->
-            <paragraph> Last week, Japan decided to go in negative for increasing its insecure economy. Unfortunally, this financial measure didn’t work very well, in fact the Japanese currency is becoming a super-currency, because many people invest in yen and this process don’t help state’s economy.</paragraph>                                            <!--[0-N]-->
+        <section>
+          <title>The worst negative interest rate</title>                                                         <!--[1-N]-->
+          <chapter>                                                         <!--[0-N]-->                                                          <!--[0-1]-->
+            <paragraph>Last week, Japan decided to go in negative for increasing its insecure economy. Unfortunally, this financial measure didn’t work very well, in fact the Japanese currency is becoming a super-currency, because many people invest in yen and this process don’t help state’s economy.</paragraph>                                            <!--[0-N]-->
           </chapter>
           <table>                                                         <!--[0-N]-->
             <row type="head">                                             <!--[ 1 ]-->
@@ -157,9 +274,9 @@
             <source>tradingeconomics.com</source>
           </sources>
         </section>
-        <section>                                                           <!--[1-N]-->
-          <chapter>                                                         <!--[0-N]-->
-            <title>Trend of negative?</title>                                                          <!--[0-1]-->
+        <section>
+          <title>Trend on negative?</title>                                                           <!--[1-N]-->
+          <chapter>                                                         <!--[0-N]-->                                                          <!--[0-1]-->
             <paragraph>On March 22nd the National Bank of Hungary decided to adopt a negative rate because it want to reach 3% inflation. Now, the state’s inflation is increasing but it’s not enough, this is the reason why it changed in negative. Many other states are thinking about negative interest rate. Is it a new tendency? What can it do for the economy situation? Is it better or worste?</paragraph>                                                           <!--[0-N]-->
             <paragraph>In 2020 Hungary is prefixing to reach the inflation rate of 3% during the year.</paragraph>                                              <!--[0-N]-->
           </chapter>
@@ -190,17 +307,73 @@
             <source>ilmessaggero.it</source>
           </sources>
         </section>
-        <section>                                                                                                                          <!--[1-N]-->
+        <section>
+          <title>Claudio Borio opinion</title>                                                                                                                         <!--[1-N]-->
           <quote>                                                         <!--[0-N]-->
             <author>Claudio Borio</author>                                  <!--[ 1 ]-->
+            <role>Head of the Monetary and Economic Department in Bank for International Settlements.</role>
             <text>Negative rates could cripple banks' margins, profitability and resilience. The markets cannot be expected to ignore such profound
                   effects on the financial system. Negative rates should therefore be shelved by the central banks as a policy tool.</text>                                       <!--[ 1 ]-->
           </quote>
         </section>
         <section>
+          <title>The negative interest rate era</title>
+          <table>
+            <row type="head">
+              <cell>Month</cell>
+              <cell>2016 Number of meetings per month</cell>
+            </row>
+            <row type="cell">
+              <cell>January</cell>
+              <cell>13</cell>
+            </row>
+            <row type="cell">
+              <cell>February</cell>
+              <cell>17</cell>
+            </row>
+            <row type="cell">
+              <cell>March</cell>
+              <cell>18</cell>
+            </row>
+            <row type="cell">
+              <cell>April</cell>
+              <cell>16</cell>
+            </row>
+            <row type="cell">
+              <cell>May</cell>
+              <cell>15</cell>
+            </row>
+            <row type="cell">
+              <cell>June</cell>
+              <cell>13</cell>
+            </row>
+            <row type="cell">
+              <cell>July</cell>
+              <cell>14</cell>
+            </row>
+            <row type="cell">
+              <cell>August</cell>
+              <cell>11</cell>
+            </row>
+            <row type="cell">
+              <cell>September</cell>
+              <cell>14</cell>
+            </row>
+            <row type="cell">
+              <cell>October</cell>
+              <cell>11</cell>
+            </row>
+            <row type="cell">
+              <cell>November</cell>
+              <cell>14</cell>
+            </row>
+            <row type="cell">
+              <cell>December</cell>
+              <cell>11</cell>
+            </row>
+          </table>
           <graph unit="%" x="string" y="number"> 		          <!--[0-N]-->
-         <title>The negative era of interest rates</title>                                    <!--[0-1]-->
-         <abstract>The decisions about interest rate in March</abstract>	                                   					                            <!-- max 144 char-->
+         <title>Interest rate decision in March</title>                                    <!--[0-1]-->	                                   					                            <!-- max 144 char-->
          <dataset label= "Interest Rate">                           	<!--[1-N]-->
            <data x="RON" y="1.75"/>                               <!--[1-N]-->
            <data x="RSD" y="4.25"/>
@@ -258,10 +431,8 @@
            <data x="DNK" y="-0.65"/>
          </dataset>
        </graph>
-          <chapter>                                                       <!--[0-N]-->
-            <title>Will world goes negative?</title>								                  <!--[0-1]-->
-            <paragraph>Imagine a bank that pays negative interest. Depositors are actually charged to keep their money in an account. Crazy as it sounds, several of Europe’s central banks have cut key interest rates below zero and kept them there for more than a year. Now Japan is trying it, too. For some, it’s a bid to reinvigorate an economy with other options exhausted. Others want to push foreigners to move their money somewhere else. Either way, it’s an unorthodox choice that has distorted financial markets and triggered warnings that the strategy could backfire. If negative interest rates work, however, they may mark the start of a new era for the world’s central banks.</paragraph>                        <!--[0-N]-->
-            <paragraph>Central banks have a meetings calendar and in those dates they can change interest rates and deposit rates.</paragraph>                                               <!--[0-N]-->
+          <chapter>                                                       <!--[0-N]-->								                  <!--[0-1]-->
+            <paragraph>By mid-2016, some 500 million people in a quarter of the world economy were living with rates in the red. Unthinkable before the 2008 financial crisis, the idea is to jolt lending, spur inflation and reinvigorate the economy after other options have been exhausted. It’s an unorthodox move that has distorted financial markets and triggered complaints that the strategy is backfiring.</paragraph>
           </chapter>
             <keywords>                                                      <!--[ 1 ]-->
               <keyword name="Interest Rates"/>                                    <!--[1-N]-->
