@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>                                          <!--[ 1 ]-->
+<bulletins group="centralbanking">                                                                    <!--[ 1 ]-->
+  <title>OH! G.O.D.</title>                                                     <!--[ 1 ]-->
+    <subtitle>Governors Of Demand</subtitle>                                    <!--[ 1 ]-->
+      <authors>                                                                 <!--[ 1 ]-->
+        <author>Giulia Fracas</author>                                          <!--[1-N]-->
+        <author>Francesca Polini</author>
+      </authors>
+        <bulletin id="03" date="20160319">                                     <!--[1-N]-->                                                    <!--[0-1]-->
+          <sections>                                                            <!--[ 1 ]-->
+            <section>
+              <title>The week of interest rates</title>
+              <chapter>                                                         <!--[0-N]-->
+              <paragraph>This week Central Banks from 15 countries or jurisdictions are scheduled to decide on monetary policy. Rates typically reflect the health of individual economies, as in a perfect scenario, Central Banks tend to rise rates when the economy is growing and therefore instigate inflation. Rate cuts on the other hand, are a way to stimulate a struggling economy.</paragraph>                                          <!--[0-N]-->
+              <paragraph>The Bank of Japan said on Tuesday it would maintain its massive asset buying program at existing levels but offered a bleaker view of the economy, suggesting it may roll out more stimulus as it struggles to reach an elusive inflation target.</paragraph>                                                                   <!--[0-N]-->
+              <paragraph>The SNB is using negative interest rates, coupled with an unspecified amount of foreign currency purchases, to weaken the Swiss franc and protect exports to the euro zone, Switzerland’s biggest trading partner.</paragraph>                                          <!--[0-N]-->
+            </chapter>
+            <graph unit="%" x="country" y="number"> 		                  <!--[0-N]-->
+              <title>Policy Rate</title>                                        <!--[0-1]-->
+              <abstract>The graph shows interest rate policy decisions during the week and the inflaction rate for each State</abstract>                                                 <!-- max 144 char-->
+              <dataset label= "Interest Rate 2015">                           	<!--[1-N]-->
+                <data x="KZ" y="5.50"/>                                               <!--[1-N]-->
+                <data x="MZ" y="7.50"/>
+                <data x="JP" y="0.10"/>
+                <data x="IS" y="4.50"/>
+                <data x="US" y="0.25"/>
+                <data x="ID" y="7.50"/>
+                <data x="GB" y="0.50"/>
+                <data x="NO" y="1.25"/>
+                <data x="RS" y="7.50"/>
+                <data x="CH" y="-0.75"/>
+                <data x="ZA" y="5.75"/>
+                <data x="EG" y="8.75"/>
+                <data x="CL" y="3"/>
+                <data x="RU" y="15.2"/>
+                <data x="MX" y="3"/>
+              </dataset>
+              <dataset label= "Interest Rate 2016">                           	<!--[1-N]-->
+                <data x="KZ" y="17"/>                                               <!--[1-N]-->
+                <data x="MZ" y="10.75"/>
+                <data x="JP" y="-0.10"/>
+                <data x="IS" y="5.75"/>
+                <data x="US" y="0.50"/>
+                <data x="ID" y="7"/>
+                <data x="GB" y="0.50"/>
+                <data x="NO" y="0.75"/>
+                <data x="RS" y="4.25"/>
+                <data x="CH" y="-0.75"/>
+                <data x="ZA" y="6.75"/>
+                <data x="EG" y="10.75"/>
+                <data x="CL" y="3.50"/>
+                <data x="RU" y="15.2"/>
+                <data x="MX" y="3.75"/>
+              </dataset>
+              <dataset label= "Inflaction Rate">                           	<!--[1-N]-->
+                <data x="KZ" y="15.2"/>                                               <!--[1-N]-->
+                <data x="MZ" y="15.2"/>
+                <data x="JP" y="0"/>
+                <data x="IS" y="2.1"/>
+                <data x="US" y="1"/>
+                <data x="ID" y="4.42"/>
+                <data x="GB" y="0.30"/>
+                <data x="NO" y="3.1"/>
+                <data x="RS" y="1.4"/>
+                <data x="CH" y="-0.8"/>
+                <data x="ZA" y="6.2"/>
+                <data x="EG" y="9.10"/>
+                <data x="CL" y="4.75"/>
+                <data x="RU" y="8.10"/>
+                <data x="MX" y="2.87"/>
+              </dataset>
+            </graph>
+            <keywords>                                                      <!--[ 1 ]-->
+           <keyword name="Inflation"/>                                   <!--[1-N]-->
+             <keyword name="Interest Rates"/>
+             <keyword name="North America"/>
+             <keyword name="South America"/>
+             <keyword name="Eastern Europe"/>
+             <keyword name="Western Europe"/>
+             <keyword name="Northern Africa"/>
+             <keyword name="Southern Africa"/>
+             <keyword name="Middle East and Western Asia"/>
+             <keyword name="Southeastern Asia"/>
+        </keywords>
+        <sources>                                                       <!--[ 1 ]-->
+          <source>centralbankingnews.com</source>                                     <!--[1-N]-->
+          <source>tradingeconomics.com</source>
+        </sources>
+            </section>
+            <section>
+              <title>The Kuroda's opinion</title>
+              <quote>
+                <author>Haruhiko Kuroda</author>
+                <role>Governor of the Bank of Japan (BOJ)</role>
+                <text>I am not considering further lowering the negative interest rate, because the policy effects are already being seen in them. It is expected to spread to the real economy and prices in the future, In fact, the bank can cut the rate.</text>
+              </quote>
+              <keywords>                                                      <!--[ 1 ]-->
+                 <keyword name="Interest Rates"/>
+                 <keyword name="Southeastern Asia"/>
+              </keywords>
+              <sources>                                                       <!--[ 1 ]-->
+                <source>fxstreet.com</source>                                     <!--[1-N]-->
+                <source>boj.or.jp</source>
+              </sources>
+            </section>
+            <section>
+              <title>Five influent central banks change interest rate</title>   <!--[0-1]-->
+              <chapter>                                                       <!--[0-N]-->
+          <title>Top Five Central Banks</title>								                  <!--[0-1]-->
+ 	        <paragraph>The interest rate change is very important because it affects: unemployment rate, stock market, GDP, oil prices and money depreciation. The central banks involved this week consists in: Bank of Japan, Fed, Bank of England, Norges bank and the Swiss SNB.</paragraph>                        <!--[0-N]-->
+        </chapter>
+        <graph unit="%" x="country" y="number"> 		          <!--[0-N]-->
+          <title>GDP and Unemployment</title>                                    <!--[0-1]-->
+          <abstract>They're connected with interest rate, because when the GDP rise up also interest rate grows. When the interest rate is low also the unemployment</abstract>     <!-- max 144 char-->
+          <dataset label= "GDP 2015">                           	<!--[1-N]-->
+            <data x="US" y="1"/>                               <!--[1-N]-->
+            <data x="GB" y="0.5"/>
+            <data x="NO" y="-1.2"/>
+            <data x="CH" y="0.4"/>
+            <data x="JP" y="-0.3"/>
+          </dataset>
+          <dataset label= "Unemployment 2016">                           	<!--[1-N]-->
+            <data x="US" y="5.3"/>                               <!--[1-N]-->
+            <data x="GB" y="5.6"/>
+            <data x="NO" y="4.2"/>
+            <data x="CH" y="3.4"/>
+            <data x="JP" y="3.5"/>
+          </dataset>
+        </graph>
+        <chapter>                                                               <!--[0-N]-->
+          <title>Exchange rates</title>                                                      <!--[0-1]-->
+          <paragraph>The exchange rate between two currencies is the rate at which one currency will be exchanged for another. It is also regarded as the value of one country’s currency in terms of another currency. The values are effects of interest rates changes.</paragraph>
+          <paragraph>
+            <list type="ordered">
+              <item>GBP to USD 1.41327 and the opposite 0.70746</item>
+              <item>GBP to CHF 1.39482 and the opposite 0.7167</item>
+              <item>GBP to NOK 12.0908 and the opposite 0.08263</item>
+              <item>GBP to JPY 160.23 and the opposite 0.0062</item>
+            </list>
+            <list type="ordered">
+              <item>USD to CHF 0.98691 and the opposite 1.013</item>
+              <item>USD to NOK 8.55516 and the opposite 0.1168</item>
+              <item>USD to JPY 113.38 and the opposite 0.00882</item>
+            </list>
+            <list type="ordered">
+              <item>CHF to NOK 8.66635 and the opposite 0.11527</item>
+              <item>CHF to JPY 114.85 and the opposite 0.0087</item>
+            </list>
+            <list type="ordered">
+              <item>NOK to JPY 13.24 and the opposite 0.07545</item>
+            </list>
+              </paragraph>                                              <!--[0-N]-->
+        </chapter>
+        <keywords>                                                      <!--[ 1 ]-->
+           <keyword name="Employment"/>                                    <!--[1-N]-->
+           <keyword name="GDP"/>
+           <keyword name="Interest Rates"/>
+           <keyword name="North America"/>
+           <keyword name="Western Europe"/>
+           <keyword name="Southeastern Asia"/>
+           <keyword name="Currencies"/>
+        </keywords>
+        <sources>                                                       <!--[ 1 ]-->
+          <source>tradingeconomics.com</source>                                     <!--[1-N]-->
+        </sources>
+            </section>
+            <section>                                                         <!--[1-N]-->
+        <title>Oil Prices</title>                                    <!--[0-1]-->
+        <abstract>Oil prices before and after the interest rate changes</abstract>					                                    <!-- max 144 char-->
+        <chapter>                                                               <!--[0-N]-->
+          <paragraph>The most affected States that produce oil are United States and Norway. For United States oil price grown because interest rate is low against foreign currencies and the state need more money for buying oil. While, Norway has an economic problem because oil prices are low and this cause a heavy impact.</paragraph>
+          <paragraph>West Texas Intermediate, also known as Texas light sweet, is a grade of crude oil used as a benchmark in oil pricing. It’s described as light because of its relatively low density, and sweet because of its low sulfur content.</paragraph>
+          <paragraph>Brent Crude is a major trading classification of sweet light crude oil that serves as a major benchmark price for purchases of oil worldwide and it is extracted from the North Sea.The marker is also known as Brent Blend and London Brent.</paragraph>                                                     <!--[0-1]-->
+        </chapter>
+        <graph unit="USD" x="date" y="number">
+          <title>Oil price per barrel</title>
+          <dataset label= "Brent prices per barrel">
+            <data x="20160219" y="31.80"/>
+            <data x="20160222" y="31.80"/>
+            <data x="20160229" y="35.45"/>
+            <data x="20160307" y="38.8"/>
+            <data x="20160317" y="40.26"/>
+        </dataset>
+        <dataset label= "WTI prices per barrel">
+          <data x="20160219" y="31.80"/>
+          <data x="20160222" y="37.0"/>
+          <data x="20160229" y="33.98"/>
+          <data x="20160307" y="36.4"/>
+          <data x="20160317" y="38.46"/>
+      </dataset>
+        </graph>
+        <keywords>                                                      <!--[ 1 ]-->
+           <keyword name="Oil"/>                                    <!--[1-N]-->
+           <keyword name="North America"/>
+           <keyword name="Interest Rates"/>
+           <keyword name="Western Europe"/>
+        </keywords>
+        <sources>
+          <source>forexinfo.it</source>                                                       <!--[ 1 ]-->
+          <source>investing.com</source>                                     <!--[1-N]-->
+        </sources>
+      </section>
+            </sections>
+          </bulletin>
+        </bulletins>
