@@ -807,15 +807,13 @@
           <data x="2016" y="6" />
         </dataset>
       </graph>
-      <chapter>
-      <title>Just Another Trumpsh*t</title>
-      </chapter>
       <quote>
         <author>Donald John Trump</author>
         <role>Presumptive nominee of the Republican Party for President of the United States in the 2016 election</role>
         <text>Let's take our jobs back from China and all these other countries!</text>
       </quote>
       <chapter>
+      <title>Just Another Trumpsh*t</title>
         <paragraph>Nothing, no real informations will stop Donald Trump from making this sort of promises at every debate and campaign.</paragraph>
       </chapter>
       <keywords>
@@ -911,7 +909,7 @@
         <paragraph>Cheap labor, vast factories and a building spree without parallel powered China’s economic miracle.</paragraph>
         <paragraph>But now times are changing. Services today make up more than half of the nation’s economy, while protests and strikes began to be an important weapon in the hands of chinese workers.</paragraph>
       </chapter>
-      <graph unit="t¥" x="date" y="number">
+      <graph unit="t¥" x="date" y="number">
         <title>GDP by Industry: Chinese Economy Is Shifting to Services</title>
         <abstract>
           ¥1 = $0.15
@@ -966,19 +964,19 @@
         <row type="cell">
           <cell>21 Mar 2016</cell>
           <cell>Workers at a machine manufacturer in Shanghai strike over wage reductions.</cell>
-          <cell>100-1,000 people</cell>
+          <cell>100 - 1,000 people</cell>
           <cell>Strike</cell>
          </row>
          <row type="cell">
            <cell>22 Mar 2016</cell>
            <cell>Workers at a flame retardant materials factory protest wage arrears in Yangquan.</cell>
-           <cell>1-100 people</cell>
+           <cell>1 - 100 people</cell>
            <cell>Protest, Demonstration</cell>
           </row>
           <row type="cell">
             <cell>22 Mar 2016</cell>
             <cell>Retired workers demand retirement benefits at government building in Hinggan.</cell>
-            <cell>100-1,000 people</cell>
+            <cell>100 - 1,000 people</cell>
             <cell>Sit-in, Protest, Demonstration</cell>
            </row>
       </table>
@@ -1116,7 +1114,7 @@
         <abstract>
           Silicon Valley companies, led by Google and Facebook, are arriving in India with the key to a vital resource of the 21st century: connectivity. Indian critics have dubbed the US companies “digital colonialists”. The heightened tone of the debate reflects how much is at stake: with a population of 1.2 billion, India has the potential to be the largest open internet market in the world.
         </abstract>
-      <graph unit="m" x="date" y="number">
+      <graph unit="m" x="date" y="number">
         <title>Internet Users in India from 2014 to 2019</title>
         <dataset label="">
           <data x="2014" y="226.3" />
