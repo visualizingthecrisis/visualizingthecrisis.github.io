@@ -3,7 +3,7 @@
     <section>                                                 <!--1-->
       <title>Toward the Extinction of Human Jobs*</title>
       <abstract>
-        In the last decade the Fourth Industrial Revolution has caused a widespread disruption to labour markets, with enormous change in the skill sets needed to thrive this new landscape. Many sectors have seen a complete replacement of human labor by machines, robots and automation, with a parallel increase in productivity. Despite this, humans have been able to create and train for new jobs, adapting to this new world they did: jobs which concern intellectual charge and management or control positions; jobs which are performed ‒ after many battles ‒ in shorter work days, proving that it has been an impact on performances and on the well-being of workers. Thanks to the achievement of important milestones, such as the Universal Basic Income, now adopted by an increasingly number of countries worldwide, people have finally started to cultivate their passions and interests, dedicating themselves to the development of cognitive and creative abilities, without fearing that robots will cause their financial collapse ‒ like many did just about10 years ago.
+        In the last decade the Fourth Industrial Revolution has caused a widespread disruption to labour markets, with enormous change in the skill sets needed to thrive this new landscape. Many sectors have seen a complete replacement of human labor by machines, robots and automation, with a parallel increase in productivity. Despite this, humans have been able to create and train for new jobs, adapting to this new world they did: jobs which concern intellectual charge and management or control positions; jobs which are performed ‒ after many battles ‒ in shorter work days, proving that it has been an impact on performances and on the well-being of workers. Thanks to the achievement of important milestones, such as the Universal Basic Income, now adopted by an increasingly number of countries worldwide, people have finally started to cultivate their passions and interests, dedicating themselves to the development of cognitive and creative abilities, without fearing that robots will cause their financial collapse ‒ like many did just about 10 years ago.
       </abstract>
       <chapter>
         <paragraph>*News from the near future (2026)</paragraph>
@@ -34,8 +34,8 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--2-->
-      <title>Big and Fast</title>
+    <section>                                                           <!--2-->
+      <title>Big and Fast*</title>
       <abstract>
         Data production is expanding at an astonishing pace, arriving nowadays to almost 200 zettabyte. The huge amount of data combined with the increasing development of Machine Learning, have bring to a new paradigm of work, where efficiency and security are now ensured by AI.
       </abstract>
@@ -49,7 +49,7 @@
           <data x="2010" y="1.2" />
           <data x="2015" y="7.9" />
           <data x="2020" y="35" />
-          <data x="2025" y="19.5" />
+          <data x="2025" y="195" />
         </dataset>
       </graph>
       <chapter>
@@ -78,10 +78,10 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--3-->
-      <title>Trucks Need No Drivers</title>
+    <section>                                                        <!--3-->
+      <title>Trucks Need No Drivers*</title>
       <abstract>
-        In US truck driving is just a memory now.
+        In US, truck driving is just a memory now.
       </abstract>
       <chapter>
         <title>A Machine Driven Business: History of Technology Penetration Phases</title>
@@ -93,7 +93,7 @@
         <item>2026: Massive market penetration</item>
       </list>
     </paragraph>
-        <paragraph>In 2012 330,000 large trucks were involved incrashes that killed nearly 4,000 people (about 90% of those were caused by driver error). Today these numbers have drastically fallen thanks to the complete replacement with selfdriving trucks.</paragraph>
+        <paragraph>In 2012 330,000 large trucks were involved in crashes that killed nearly 4,000 people (about 90% of those were caused by driver error). Today these numbers have drastically fallen thanks to the complete replacement with selfdriving trucks.</paragraph>
       </chapter>
       <chapter>
         <paragraph>*News from the near future (2026)</paragraph>
@@ -124,10 +124,11 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--4-->
-      <title>Worldwide Spending on Robotics</title>
+    <section>                                                                <!--4-->
+      <title>Worldwide Spending on Robotics*</title>
       <graph unit="b$" x="date" y="number">
-        <dataset label="Total spending">
+        <title>Total spending</title>
+        <dataset label="">
           <data x="2000" y="7.4" />
           <data x="2005" y="10.8" />
           <data x="2010" y="15.1" />
@@ -137,6 +138,9 @@
         </dataset>
       </graph>
       <graph unit="b$" x="date" y="number">
+        <abstract>
+          Below there are the different sections that, sumed, correspond to the total spending.
+        </abstract>
         <dataset label="Military">
           <data x="2000" y="2.4" />
           <data x="2005" y="3.5" />
@@ -201,8 +205,8 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--5-->
-      <title>Once Upon a Time in US...</title>
+    <section>                                                                    <!--5-->
+      <title>Once Upon a Time in US...*</title>
       <abstract>
         In 2015 there were almost 3.5 million professional truck drivers in the US and an additional 5.2 million people employed on the truck-driving industry: 8.7 million trucking-related jobs. As opposed to now, it was one of the most-common occupations in that time, along with retail salesperson, cashier, food and beverage server, and office clerk. Together, these jobs employed 18.9 million people: nearly 13.7% percent of the labor force.
       </abstract>
@@ -248,8 +252,8 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--6-->
-      <title>The Future of Employment According to Oxford University</title>
+    <section>                                                                       <!--6-->
+      <title>The Future of Employment According to Oxford University*</title>
       <abstract>
         In 2013, Oxford University researchers forecast that machines might be able to perform 47% of all US jobs in the following two decades. The authors examine how susceptible jobs are to computerisation, by implementing a novel methodology to estimate the probability of computerisation for 702 detailed occupations, using a Gaussian process classifier.
       </abstract>
@@ -286,8 +290,8 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--7-->
-      <title>Taking Big Steps</title>
+    <section>                                                               <!--7-->
+      <title>Taking Big Steps*</title>
       <chapter>
         <title>Ireland Has Joined the Six-Hours Club</title>
         <paragraph>Ireland has succeeded in obtaining the six-hour working day. After countries like Scandinavia, U.K. and large part of U.S., Ireland workers have switched to the six-hour working day for the same wage.</paragraph>
@@ -377,8 +381,8 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--8-->
-      <title>Standard Working Hours per Day in EU</title>
+    <section>                                                         <!--8-->
+      <title>Standard Working Hours per Day in EU*</title>
       <abstract>
         It's not just the working hours: the number of people employed full-time jobs is by now gradually decreasing, causing a relentless rise of the unemployment rate.
       </abstract>
@@ -434,8 +438,8 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--9-->
-      <title>How We Got Here</title>
+    <section>                                                         <!--9-->
+      <title>How We Got Here*</title>
       <subtitle>3 Steps Towards the Post-Work Era</subtitle>
       <chapter>
         <paragraph>
@@ -474,25 +478,25 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section> <!--10-->
-      <title>Tech Gives, Tech Takes</title>
+    <section>                                                             <!--10-->
+      <title>Tech Gives, Tech Takes*</title>
       <abstract>
         There will always be jobs in tech and science, but the skills needed to enter these industries are so specialized and difficult to attain that they won’t save the masses from unemployment. Moreover, the biggest tech and science companies tend to employ a very small number of employees in relation to the revenues they generate. In 1964 the most valuable US company, ATandT, was worth $267 billion and employed 758,611 people. Google, in 2016, was worth $560 billion, but had only about 55,000 employees. Today Tesla, which employed just 10,000 people, worth $692 billion.
       </abstract>
       <graph unit="" x="string" y="number">
         <title>Number of Employees</title>
         <dataset label="">
-          <data x="1964-ATandT" y="758611" />
-          <data x="2016-Google" y="55000" />
-          <data x="2026-Tesla" y="10000" />
+          <data x="ATandT (1964)" y="758611" />
+          <data x="Google (2016)" y="55000" />
+          <data x="Tesla (2026)" y="10000" />
         </dataset>
       </graph>
       <graph unit="b$" x="string" y="number">
         <title>Company Valuation</title>
         <dataset label="">
-          <data x="1964-ATandT" y="267" />
-          <data x="2016-Google" y="560" />
-          <data x="2026-Tesla" y="692" />
+          <data x="ATandT (1964)" y="267" />
+          <data x="Google (2016)" y="560" />
+          <data x="Tesla (2026)" y="692" />
         </dataset>
       </graph>
       <chapter>
