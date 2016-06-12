@@ -896,11 +896,11 @@
     </section>
     <section>                                                        <!--8-->
       <title>A Basic Income Is Smarter Than a Minimum Wage</title>
-      <graph unit="$ per month" x="location" y="number">
-        <title>Per Capita Public Spending on Social Programs in OECD Countries</title>
         <abstract>
           A basic income could be any amount, but estimates typically begin with how much is currently spent on social assistance programs. This method is practical for a quantitative and political reason: it’s fairly simple to evaluate existing social spending and to advocate basic income as a replacement. But welfare spending varies widely from country to country: for exemple in U.S. dozens of social-welfare programs now costing taxpayers about $1 trillion a year, could be folded into a basic-income project that provides $700 per capita.
         </abstract>
+      <graph unit="$ per month" x="location" y="number">
+        <title>Per Capita Public Spending on Social Programs in OECD Countries</title>
         <dataset label="">
           <data x="LU" y="1,260" />
           <data x="NO" y="850" />
