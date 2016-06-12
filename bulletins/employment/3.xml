@@ -142,7 +142,7 @@
       </quote>
       <chapter>
         <title>Some Data</title>
-        <paragraph>In 2013 it had £502m impact in UK economy.</paragraph>
+        <paragraph>In 2013 Airbnb had £502m impact in UK economy.</paragraph>
         <paragraph>
         <list type="unordered">
           <item>Hosts: 25,361</item>
@@ -197,7 +197,7 @@
     <section>                                                       <!--5-->
         <title>Dogvacacy</title>
         <abstract>
-          It DogVacay is a Santa Monica based company known for home dog boarding and other pet services.[4] They serve clients in both the United States and Canada and place dogs with host families in lieu of the dogs being boarded in a kennel. It connects petowners withover 20,000 petsitters.
+          DogVacay is a Santa Monica based company known for home dog boarding and other pet services. They serve clients in both the United States and Canada and place dogs with host families. It connects petowners withover 20,000 petsitters.
         </abstract>
       <keywords>
         <keyword name="Start-ups" />
@@ -303,7 +303,7 @@
         </paragraph>
       </chapter>
       <graph unit="%" x="string" y="number">
-        <dataset label= "Spending">
+        <dataset label= "">
           <data x="A" y="71"/>
           <data x="B" y="49"/>
           <data x="C" y="31"/>
@@ -458,16 +458,16 @@
         <abstract>
           From September 2014 to August 2015, 480,000 hotel rooms have been reserved, while 2.8 million rooms have been booked on Airbnb. In 2018 it's estimated that the number of room nights booked on Airbnb will arrive to 5 million.
         </abstract>
-        <dataset label="Hotel room nights reserved">
+        <dataset label="Hotel room nights reserved (2015)">
           <data x="Sep 2014 - Aug 2015" y="480000" />
         </dataset>
-        <dataset label="Room nights booked on Airbnb">
+        <dataset label="Room nights booked on Airbnb (2015-2018)">
           <data x="2015" y="2.8m" />
           <data x="2018" y="5m" />
         </dataset>
       </graph>
       <chapter>
-        <paragraph>HVS Consulting estimated that hotels lose approximately $450 million in direct revenues and over 2,800 jobs per year to Airbnb.</paragraph>
+        <paragraph>HVS Consulting and Valuation estimated that hotels lose approximately $450 million in direct revenues and over 2,800 jobs per year to Airbnb.</paragraph>
       </chapter>
       <keywords>
         <keyword name=">Employment" />
