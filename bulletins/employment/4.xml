@@ -27,7 +27,7 @@
         <source>tradingeconomics.com</source>
       </sources>
     </section>
-    <section> <!--2-->
+    <section>                                                                  <!--2-->
       <title>The Elephant and the Dragon</title>
       <chapter>
         <paragraph>China's socialist market economy is the world's second largest economy by nominal GDP and the world's fastest-growing major economy, with growth rates averaging 10% over 30 years. China is a global hub for manufacturing, it's the largest exporter of goods in the world and the world's fastest growing consumer market.</paragraph>
@@ -730,7 +730,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section> <!--3-->
+    <section>                                                                 <!--3-->
     <title>Made in China is Not that Cheap Anymore</title>
       <chapter>
         <paragraph>According to a research by Oxford Economics labor costs adjusted for productivity in China are only 4% cheaper than in the US.</paragraph>
@@ -813,7 +813,8 @@
       <title>Just Another Trumpsh*t</title>
       </chapter>
       <quote>
-        <author>Donald John Trump, presumptive nominee of the Republican Party for President of the United States in the 2016 election</author>
+        <author>Donald John Trump</author>
+        <role>Presumptive nominee of the Republican Party for President of the United States in the 2016 election</role>
         <text>Let's take our jobs back from China and all these other countries!</text>
       </quote>
       <chapter>
