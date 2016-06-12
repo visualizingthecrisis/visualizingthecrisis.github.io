@@ -1,0 +1,12 @@
+
+#bulletin-container{
+  padding-left: 10%;
+  padding-right: 10%;
+  width: 80%;
+}
+
+.section{
+  //display: table-cell !important;
+  min-width: 512px;
+  margin: 10px;
+}

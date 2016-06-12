@@ -97,7 +97,7 @@ function processFilters(filters){
         //  console.log($all.html());
 
         $("#bulletin-container").children().remove();
-        processXML($all,filters);
+        processXML($all,filters,10);
         $(".loader-container").fadeOut();
       }
     }

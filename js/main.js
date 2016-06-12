@@ -6,8 +6,8 @@ $(document).ready(function(){
   $("body").append("<div class='loader-container'><div class='loader'></div></div>");
 });
 
-function processXML(d,filters){
-  
+function processXML(d,filters,m){
+
   filtersUnwrap="all the topics";
   var sections=$(d).find('section');
   if(filters && filters.length>0){
@@ -44,7 +44,9 @@ function processXML(d,filters){
 
   for (var s = 0; s < sections.length; ++s) {
   //  console.log('processing section '+(s+1)+"/"+sections.length);
-    if(s>10)break;
+    if(m)
+      if(s>=m)
+        break;
     var count=0;
     if(filters){
       var $sec=$(sections[s]);
@@ -227,6 +229,7 @@ function dateToNumberGraph($element, $parent,$legends, xData, yData,unit){
       settings.data.columns=yData;
       settings.data.type='bar';
       settings.axis.y.tick.count=4;
+
       if(unit && unit.length>0)settings.axis.y.label.text= 'value in '+unit;
       settings.axis.x.type= 'category';
       for(var ii=0;ii<xData.length;ii++){
@@ -259,7 +262,7 @@ function dateToNumberGraph($element, $parent,$legends, xData, yData,unit){
         settings.data.columns=[xData[i],yData[i]];
         settings.data.type='line';
         settings.axis.x.tick.count=4;
-        settings.size.width=512;
+        //settings.size.width=512;
         var chart = c3.generate(settings);
       }
     }
@@ -290,7 +293,7 @@ function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
       settings.axis.y.tick.count=4;
       settings.axis.x.tick.width=200;
       settings.size.height=xData.length*xData[0].length*barHeight;
-
+      settings.size.width=512;
       if(xData.length*xData[0].length>8)
         settings.axis.rotated= true;
       else
@@ -312,7 +315,8 @@ function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
         settings.data.type='bar';
         settings.axis.x.type= 'category';
         settings.axis.y.tick.format=getFormatFunction(unit);
-        if(unit && unit.length>0)settings.axis.y.label.text= 'value in '+unit;
+        if(unit && unit.length>0)
+          settings.axis.y.label.text= 'value in '+unit;
         settings.axis.y.tick.count=4;
         //  settings.axis.x.tick.culling={'max':4};
       //  settings.axis.x.tick.width=150;
