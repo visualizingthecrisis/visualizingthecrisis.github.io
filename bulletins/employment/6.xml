@@ -603,7 +603,8 @@
         </dataset>
       </graph>
       <quote>
-        <author>Gerard Ryle, ICIJ director</author>
+        <author>Gerard Ryle</author>
+        <role>ICIJ director</role>
         <text>We’re not WikiLeaks. We’re trying to show that journalism can be done responsibly.</text>
       </quote>
       <keywords>
@@ -828,7 +829,8 @@
         <paragraph>Unfortunately the leaker has made the dreadful mistake of turning to the western corporate media to publicise the results. In consequence the first major story, published by the Guardian is all about Vladimir Putin. But why focus on Russia?</paragraph>
       </chapter>
       <quote>
-        <author>Craig Murray, author and human rights activist</author>
+        <author>Craig Murray</author>
+        <role>Author and human rights activist</role>
         <text>Russian wealth is only a tiny minority of the money hidden away with the aid of Mossack Fonseca. In fact, it soon becomes obvious that the selective reporting is going to stink.</text>
       </quote>
       <keywords>
