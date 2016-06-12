@@ -126,18 +126,19 @@
         <paragraph>Countries most affected by extreme weather events in the last 20 years.</paragraph>
         <paragraph>
         <list type="unordered">
-          <item>Guatemala</item>
-          <item>Nicaragua</item>
-          <item>Dominican Republic</item>
-          <item>Pakistan</item>
-          <item>Myanmar</item>
-          <item>Vietnam</item>
-          <item>Philippines</item>
+          <item>Dominican Republic (Latin America)</item>
+          <item>Guatemala (Latin America)</item>
+          <item>Nicaragua (Latin America)</item>
+          <item>Myanmar (Asia)</item>
+          <item>Pakistan (Asia)</item>
+          <item>Philippines (Asia)</item>
+          <item>Vietnam (Asia)</item>
         </list>
       </paragraph>
       </chapter>
       <keywords>
         <keyword name="Southeastern Asia" />
+        <keyword name="Southern Asia" />
         <keyword name="South America" />
         <keyword name="Employment" />
         <keyword name="Migration" />
@@ -335,10 +336,18 @@
     <abstract>
       Money sent from migrants to their home countries, which are called remittances, last year arrived to $601 billion, of which $441 billion went to developing countries (three times the size of official aid).
     </abstract>
+    <chapter>
+      <paragraph>
+        <list type="unordered">
+              <item>A. Total amount of remittances</item>
+              <item>B. Remittances sent to developing countries</item>
+            </list>
+      </paragraph>
+    </chapter>
     <graph unit="b$" x="string" y="number">
       <dataset label= "">
-        <data x="Total amount of remittances" y="601"/>
-        <data x="Remittances sent to developing countries" y="441"/>
+        <data x="A" y="601"/>
+        <data x="B" y="441"/>
       </dataset>
     </graph>
     <graph unit="%" x="string" y="percentage">
@@ -630,8 +639,8 @@
         <chapter>
           <paragraph>
             <list type="unordered">
-                <item>A. Companies with American founders</item>
-                <item>B. Companies with Non-American founders</item>
+                <item>A. Companies with Non-American founders</item>
+                <item>B. Companies with American founders</item>
               </list>
             </paragraph>
           </chapter>
