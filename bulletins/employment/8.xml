@@ -503,9 +503,12 @@
     </section>
     <section>                                                          <!--5-->
       <title>Job Hopping</title>
+      <abstract>
+        Analyzing 3 million US profiles, LinkedIn found that workers who graduated between 2006 and 2010 have switched jobs 2.85 times on average in the first five years they’ve been out of school. In contrast, the Gen Xers who graduated between 1986 and 1990 changed jobs 1.6 times over the same period in their lives.
+      </abstract>
       <graph unit="" x="string" y="number">
         <abstract>
-          Number of jobs switched in the first five years after graduation. Analyzing 3 million US profiles, LinkedIn found that workers who graduated between 2006 and 2010 have switched jobs 2.85 times on average in the first five years they’ve been out of school. In contrast, the Gen Xers who graduated between 1986 and 1990 changed jobs 1.6 times over the same period in their lives.
+          Number of jobs switched in the first five years after graduation.
         </abstract>
         <dataset label="">
           <data x="1986-1990" y="1.6" />
@@ -541,7 +544,7 @@
     <section>                                                            <!--6-->
       <title>Worse Off Than Parents</title>
       <abstract>
-        The vast majority of American workers expect to have less money at the end of their careers than their parents did ‒ and that fear is highest among 20-something Millennials. Some pundits have had the same fears, declaring that the generation may even be the first to wind up worse than their parents, with lower incomes, more debt and higher poverty rates.
+        The vast majority of American workers expect to have less money at the end of their careers than their parents did ‒ and that fear is highest among 20-something Millennials (aged 20-35). Some pundits have had the same fears, declaring that the generation may even be the first to wind up worse than their parents, with lower incomes, more debt and higher poverty rates.
       </abstract>
       <chapter>
         <title>Save Us Bernie!</title>
@@ -603,7 +606,7 @@
     <section>                                                   <!--8-->
       <title>Your Tech Allies</title>
       <abstract>
-        The Millennial Generation has a different relationship with money. We’ve lost the ability to open up our wallets and see how much money we have left. The financial environment has changed. The tools that we use to manage money personally have changed. Here is some useful apps and resources that can help you orientate in this financial jungle!
+        The Millennial Generation (aged 20-35) has a different relationship with money. We’ve lost the ability to open up our wallets and see how much money we have left. The financial environment has changed. The tools that we use to manage money personally have changed. Here is some useful apps and resources that can help you orientate in this financial jungle!
       </abstract>
       <chapter>
         <paragraph>
@@ -745,7 +748,7 @@
     <section>                                                  <!--10-->
       <title>Access, Not Ownership</title>
       <abstract>
-        It’s not just homes: Millennials have been reluctant to buy items such as cars, music and luxury goods. Instead, they’re turning to a new set of services that provide access to products without the burdens of ownership, giving rise to the so-called sharing economy.
+        It’s not just homes: Millennials (aged 20-35) have been reluctant to buy items such as cars, music and luxury goods. Instead, they’re turning to a new set of services that provide access to products without the burdens of ownership, giving rise to the so-called sharing economy.
       </abstract>
       <chapter>
         <title>Purchasing House</title>
@@ -841,7 +844,7 @@
     <section>                                                      <!--12-->
       <title>Young Spenders: the YOLO Lifestyle</title>
       <abstract>
-        Millennials are prioritizing short-term spending over long-term saving. In US younger consumers punched above their weight class in the final months of 2015 fueling a 2.35% increase in year-over-year spending in December, according to data released by the J.P. Morgan Chase and Co. Institute.
+        Millennials (aged 20-35) are prioritizing short-term spending over long-term saving. In US younger consumers punched above their weight class in the final months of 2015 fueling a 2.35% increase in year-over-year spending in December, according to data released by the J.P. Morgan Chase and Co. Institute.
       </abstract>
       <graph unit="%" x="date" y="number">
         <abstract>
@@ -959,7 +962,7 @@
     <section>                                                          <!--13-->
       <title>Rent Is Too Damn High</title>
       <abstract>
-        The cost of living is climbing, led by rental costs, which hit records in many American cities last year. On average, millennials who rent nationwide would have had to spend 30% of their monthly income to their landlords, according to a Zillow survey, with figures going as high as 47% in San Francisco, 45% in Miami and 41% in New York.
+        The cost of living is climbing, led by rental costs, which hit records in many American cities last year. On average, Millennials (aged 20-35) who rent nationwide would have had to spend 30% of their monthly income to their landlords, according to a Zillow survey, with figures going as high as 47% in San Francisco, 45% in Miami and 41% in New York.
       </abstract>
       <graph unit="%" x="string" y="number">
         <abstract>
@@ -1043,7 +1046,7 @@
     <section>                                                      <!--15-->
       <title>Holidays are Better than Pensions</title>
         <abstract>
-          A survey from Eventbrite found that 78% of Millennials would prefer to spend their money on an “experience” - such as a holiday - over something tangible that they could own.
+          A survey from Eventbrite found that 78% of Millennials (aged 20-35) would prefer to spend their money on an “experience” - such as a holiday - over something tangible that they could own.
         </abstract>
       <graph unit="%" x="string" y="percentage">
         <dataset label="">
@@ -1076,7 +1079,7 @@
     <section>                                                         <!--16-->
       <title>Owning a Dream Home Is Just a Dream</title>
       <chapter>
-        <paragraph>In many countries, unlike their parents did at this age, more than a quarter of Millennials live at home with mum and dad.</paragraph>
+        <paragraph>In many countries, unlike their parents did at this age, more than a quarter of Millennials (currently aged 20-34) live at home with mum and dad.</paragraph>
       </chapter>
       <quote>
         <author>Stephen Melman</author>
@@ -1084,7 +1087,7 @@
         <text>We call it the "Great Delay".</text>
       </quote>
       <chapter>
-        <paragraph>Following, the percentage of Millennials (currently aged 20-34) who live at home, U.K. / U.S.</paragraph>
+        <paragraph>Following, the percentage of Millennials who live at home, U.K. / U.S.</paragraph>
       </chapter>
       <graph unit="%" x="string" y="percentage">
         <dataset label="UK">
