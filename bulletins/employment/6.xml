@@ -184,7 +184,8 @@
     </section>
     <section>                                                         <!--4-->
       <quote>
-        <author>Suzanne McGee, The Guardian</author>
+        <author>Suzanne McGee</author>
+        <role>Journalist</role>
         <text>It’s a sad world where the wealthy go shopping for passports while refugees drown in the Mediterranean.</text>
       </quote>
       <keywords>
@@ -338,7 +339,8 @@
     </section>
     <section>                                                           <!--7-->
       <quote>
-        <author>Matt Phillips, Quartz</author>
+        <author>Matt Phillips</author>
+        <role>Journalist</role>
         <text>Unlike the secrets exposed by the Panama Papers, big US tax dodging is done in full public view.</text>
       </quote>
       <keywords>
