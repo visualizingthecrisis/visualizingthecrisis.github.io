@@ -333,13 +333,13 @@
         <title>History of Coworking Spaces</title>
         <paragraph>
         <list type="unordered">
-          <item>1996: BERLIN. C-base was one the first hackerspaces in the world.</item>
-          <item>1998: CAMBRIDGE. Its innovation center (CIC) was the first to offer spaces and services to young companies.</item>
-          <item>1999: NEW YORK. 42 West 24 opened long before the term “coworking” entered popular use: pleasant work environment with flexible desks available for rent.</item>
-          <item>2002: VIENNA. Schraubenfa brik, mother of coworking spaces: flexible community oriented to share workspaces.</item>
-          <item>2003: ÅRHUS. LYNfabriikken pre-coworking space: coffeeshop with workspace.</item>
-          <item>2005: MOUNTAIN VIEW. Y Combinator was the first and the most influential accelerator: workplaces designed to help startup companies grow more rapidly.</item>
-          <item>2006: SAN FRANCISCO. The first official coworking space: versatile workplaces that provide communities, business services and collaborations.</item>
+          <item>1996, BERLIN. C-base was one the first hackerspaces in the world.</item>
+          <item>1998, CAMBRIDGE. Its innovation center (CIC) was the first to offer spaces and services to young companies.</item>
+          <item>1999, NEW YORK. 42 West 24 opened long before the term “coworking” entered popular use: pleasant work environment with flexible desks available for rent.</item>
+          <item>2002, VIENNA. Schraubenfa brik, mother of coworking spaces: flexible community oriented to share workspaces.</item>
+          <item>2003, ÅRHUS. LYNfabriikken pre-coworking space: coffeeshop with workspace.</item>
+          <item>2005, MOUNTAIN VIEW. Y Combinator was the first and the most influential accelerator: workplaces designed to help startup companies grow more rapidly.</item>
+          <item>2006, SAN FRANCISCO. The first official coworking space: versatile workplaces that provide communities, business services and collaborations.</item>
         </list>
       </paragraph>
       </chapter>
@@ -465,7 +465,7 @@
       <title>The Rising Interest for Coworking Spaces</title>
       <graph unit="%" x="date" y="number">
         <title>Google Searches of the Term "Coworking" in the Last 10 Yerars</title>
-        <dataset label="Search">
+        <dataset label="">
           <data x="20070312" y="2" />
           <data x="20070912" y="3" />
           <data x="20080312" y="6" />
@@ -505,9 +505,9 @@
     </section>
     <section>                                                          <!--11-->
       <title>Coworking Spaces Comparison</title>
-      <abstrct>
+      <abstract>
         WeWork and Regus are the most famous examples of companies which provide shared workspace, community and services for entrepreneurs, freelancers, startups and small businesses.
-      </abstrct>
+      </abstract>
     <table>
       <row type="head">
         <cell>WeWork</cell>
