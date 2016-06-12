@@ -453,7 +453,8 @@
         <paragraph>Last year saw the highest levels of global forced displacement on record: 59.5 million individuals left their homes due to persecution, conflict, generalized violence, or human rights violations. That's 8.3 million more people than the year before.</paragraph>
       </chapter>
       <quote>
-        <author>Antonio Guterres, the UN High Commissioner</author>
+        <author>Antonio Guterres</author>
+        <role>UN High Commissioner</role>
         <text>We are witnessing a paradigm change, an unchecked slide into an era in which the scale of global forced displacement as well as the response required is now clearly dwarfing anything seen before.</text>
       </quote>
       <graph unit="m" x="date" y="number">
