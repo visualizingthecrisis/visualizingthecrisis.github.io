@@ -64,7 +64,8 @@
         </dataset>
       </graph>
       <quote>
-        <author>James McClure, Airbnb general manager UK and Ireland</author>
+        <author>James McClure</author>
+        <role>Airbnb general manager UK and Ireland</role>
         <text>The UK, and London in particular, is the centre of the sharing economy.</text>
       </quote>
       <keywords>
@@ -135,7 +136,8 @@
         </dataset>
       </graph>
       <quote>
-        <author>James McClure, Airbnb general manager UK and Ireland</author>
+        <author>James McClure</author>
+        <role>Airbnb general manager UK and Ireland</role>
         <text>Airbnb is a force for good in the UK economy. It promotes the UK as a destination and spreads tourist spend to local business.</text>
       </quote>
       <chapter>
@@ -392,7 +394,8 @@
         This is the economy we’re now barreling toward. They’re Uber drivers, Instacart shoppers, and Airbnb hosts. They include Taskrabbit jobbers, Upcounsel’s on-demand attorneys, and Healthtap’s on-line doctors. The euphemism is the “share” economy. A more accurate term would be the “share-the-scraps” economy. New software technologies are allowing almost any job to be divided up into discrete tasks that can be parceled out to workers when they’re needed, with pay determined by demand for that particular job at that particular moment. Customers and workers are matched online. Workers are rated on quality and reliability.
       </abstract>
       <quote>
-        <author>Robert Reich, one of the nation’s leading experts on work and economy</author>
+        <author>Robert Reich</author>
+        <role>American political commentator, professor, and author</role>
         <text>The big money goes to the corporations that own the software. The scraps go to the on-demand workers.</text>
       </quote>
       <graph unit="b$" x="string" y="number">
@@ -491,7 +494,8 @@
     <section>                                                                      <!--11-->
       <title>"Share-the-Scraps Economy": Uber</title>
       <quote>
-        <author>Robert Reich, one of the nation’s leading experts on work and the economy</author>
+        <author>Robert Reich</author>
+        <role>American political commentator, professor, and author</role>
         <text>Uber drivers use their own cars, take out their own insurance, work as many hours as they want or can - and pay Uber a fat percent. Worker safety? Social Security? Uber says it’s not the employer so it’s not responsible.</text>
       </quote>
       <graph unit="%" x="date" y="number">
