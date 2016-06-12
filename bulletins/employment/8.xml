@@ -814,7 +814,8 @@
     </section>
     <section>                                                        <!--11-->
       <quote>
-        <author>Jeremy Rifkin, author and economist</author>
+        <author>Jeremy Rifkin</author>
+        <role>Author and economist</role>
         <text>25 years from now, car sharing will be the norm, and car ownership an anomaly.</text>
       </quote>
       <keywords>
@@ -1014,6 +1015,7 @@
     <section>                                                         <!--14-->
       <quote>
         <author>A reasonably-paid Millennial</author>
+        <role></role>
         <text>It’s almost impossible to save for a house in London so I might as well just spend my money travelling the world.</text>
       </quote>
       <keywords>
@@ -1077,7 +1079,8 @@
         <paragraph>In many countries, unlike their parents did at this age, more than a quarter of Millennials live at home with mum and dad.</paragraph>
       </chapter>
       <quote>
-        <author>Stephen Melman, the NAHB's director of economic services.</author>
+        <author>Stephen Melman</author>
+        <role>NAHB's director of economic services</role>
         <text>We call it the "Great Delay".</text>
       </quote>
       <chapter>
