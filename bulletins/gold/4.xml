@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bullettins>
+  <title>Gold Fever</title>
+	<subtitle>Visualizing the crisis</subtitle>
+	<authors>
+    <author>Noemi Incardona</author>
+    <author>Fabiana Mangano</author>
+    <author>Alessandra Neri</author>
+  </authors>
+  <bullettin id="04" date="20160326">
+    <sections>
+      <section>
+        <title>Explosions in Brussels, safe haven soars in the markets</title>
+        <chapter>
+          <paragraph>
+               The price of gold rose in conjunction with the news of the explosions in Brussels. The new terrorist
+               attack in the heart of Europe is also reflected in the financial markets: equity markets treat
+               weak, while the so-called "safe haven" undergoes a surge in value.</paragraph>
+        </chapter>
+        <graph unit= "USD/oz" x="date" y="number">
+              <dataset>
+                  <data x= "20160322 : 000020" y="1,243"/>
+                  <data x= "20160322 : 000022" y="1,241"/>
+                  <data x= "20160322 : 000000" y="1,242"/>
+                  <data x= "20160322 : 000002" y="1,248"/>
+                  <data x= "20160322 : 000004" y="1,246"/>
+                  <data x= "20160322 : 000006" y="1,245"/>
+                  <data x= "20160322 : 000008" y="1,253"/>
+                  <data x= "20160322 : 000010" y="1,260"/>
+              </dataset>
+       </graph>
+       <quote>
+            <author>Lananh Nguyen</author>
+            <role>Journalist</role>
+            <text>March 22, 2016 time 8:52 in less than an hour of the attack
+               in Brussels the price of gold rose to 1,260 USD.</text>
+       </quote>
+       <graph unit= "millions" x="string" y="number">
+               <title>Data about terrorism</title>
+               <abstract>
+                 The five most deadly terrorist groups are also responsible for deaths not categorised as terrorism.
+               </abstract>
+               <dataset label="People dead">
+                 <data x= "ISIS" y="21,000"/>
+                 <data x= "Taliban" y="17,000"/>
+                 <data x= "Al-Shbaab" y="3,000"/>
+                 <data x= "Fulani Militiants" y="2,000"/>
+                 <data x= "Boko Haram" y="1,500"/>
+               </dataset>
+       </graph>
+       <graph unit= "%" x="string" y="number">
+                 <title>Percentage of terrorist attacks, 1989-2016</title>
+                 <dataset>
+                   <data x= "Widespread rights abuses" y="49"/>
+                   <data x= "Extensive political imprisonment" y="20"/>
+                   <data x= "Whole of population abuse" y="16"/>
+                   <data x= "Limited political imprisonment" y="10"/>
+                   <data x= "Imprisonment" y="5"/>
+                 </dataset>
+       </graph>
+       <keywords>
+                 <keyword name="Eastern Europe" /><keyword name="Terrorism" /><keyword name="Gold" />
+             </keywords>
+       <sources>
+               <source>bloomberg.com</source>
+               <source>investing.com</source>
+               </sources>
+           </section>
+      <section>
+       <title>Gold VIX: the index of the fear during the terrorism attacks</title>
+       <chapter>
+         <paragraph>
+              Nik Crepaldi, a financial adviser, found that the VIX index, also called "index of fear",
+              has skyrocketed to 9.31% during the attacks in Paris, without any reason. The index measures the degree of
+              nervousness of the bags: when it is high all sell, when everybody buys is low. Not only that, the VIX
+              has shown an increase of 40% over the 5 days prior to the Paris attacks.</paragraph>
+       </chapter>
+       <graph unit= "Gold VIX" x="date" y="number">
+             <dataset>
+                 <data x= "20150104" y="1,189"/>
+                 <data x= "20150105" y="1,200"/>
+                 <data x= "20150106" y="1,210"/>
+                 <data x= "20150107" y="1,210"/>
+                 <data x= "20150108" y="1,215"/>
+             </dataset>
+       </graph>
+       <graph unit= "Gold VIX" x="date" y="number">
+            <dataset>
+                <data x= "20151110" y="1,087"/>
+                <data x= "20151111" y="1,085.80"/>
+                <data x= "20151112" y="1,087.20"/>
+                <data x= "20151113" y="1,081.70"/>
+                <data x= "20151114" y="1,084.50"/>
+            </dataset>
+       </graph>
+       <graph unit= "Gold VIX" x="date" y="number">
+          <title>Gold VIX on Madrid's attack</title>
+          <abstract>
+           During the attack of Madrid we can see an increase of the VIX in the saven days before 11 March,
+           but until the attack we notice a visible decrease.
+           </abstract>
+          <dataset>
+               <data x= "20040303" y="390.50"/>
+               <data x= "20040304" y="395"/>
+               <data x= "20040305" y="399.50"/>
+               <data x= "20040306" y="402.50"/>
+               <data x= "20040307" y="403"/>
+               <data x= "20040308" y="403.50"/>
+               <data x= "20040309" y="405"/>
+               <data x= "20040310" y="404"/>
+               <data x= "20040311" y="401.50"/>
+               <data x= "20040312" y="400.80"/>
+               <data x= "20040313" y="400.500"/>
+           </dataset>
+       </graph>
+       <graph unit= "Gold VIX" x="date" y="number">
+         <title>Gold VIX on London's attack</title>
+         <abstract>
+           In the attack of London we can see a
+           decrease of the VIX in the days before 6 July, but until the attack we notice a visible increase.
+         </abstract>
+         <dataset>
+              <data x= "20040629" y="404"/>
+              <data x= "20040630" y="407"/>
+              <data x= "20040701" y="401.50"/>
+              <data x= "20040602" y="400"/>
+              <data x= "20040603" y="397"/>
+              <data x= "20040604" y="394"/>
+              <data x= "20040605" y="391.50"/>
+              <data x= "20040306" y="391"/>
+              <data x= "20040307" y="392.90"/>
+              <data x= "20040308" y="3920"/>
+          </dataset>
+       </graph>
+       <graph unit= "Gold VIX" x="date" y="number">
+         <title>Gold VIX on New York's attack</title>
+         <abstract>
+           VIX increased in the five trading
+            days prior to the terrorist event. The VIX Index closed lower on the day following the attacks.
+         </abstract>
+         <dataset>
+              <data x= "20010903" y="274"/>
+              <data x= "20010904" y="271"/>
+              <data x= "20010905" y="270.60"/>
+              <data x= "20010906" y="272"/>
+              <data x= "20010907" y="274.30"/>
+              <data x= "20010908" y="272.80"/>
+              <data x= "20010909" y="273"/>
+              <data x= "20010910" y="272"/>
+              <data x= "20010911" y="288.10"/>
+              <data x= "20100912" y="280"/>
+          </dataset>
+       </graph>
+       <keywords>
+                 <keyword name="Eastern Europe" /><keyword name="Terrorism" /><keyword name="Gold" />
+                 <keyword name="North America" />
+             </keywords>
+       <sources>
+               <source>bloomberg.com</source>
+               </sources>
+           </section>
+    </sections>
+      </bullettin>
+    </bullettins>
