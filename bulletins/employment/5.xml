@@ -22,6 +22,7 @@
             <keyword name="Western Europe" />
             <keyword name="Migration" />
             <keyword name="In poverty" />
+            <keyword name="Citizenship" />
           </keywords>
           <sources>
             <source>ec.europa.eu/eurostat</source>
@@ -37,6 +38,10 @@
         <keyword name="GDP" />
         <keyword name="Taxes" />
         <keyword name="In poverty" />
+        <keyword name="Citizenship" />
+        <keyword name="Global Warming" />
+        <keyword name="Global Warming" />
+        <keyword name="Global Warming" /><keyword name="Global Warming" />
       </keywords>
       <sources>
         <source>bbc.com</source>
@@ -67,16 +72,16 @@
         <paragraph>
         <list type="unordered">
           <item>1918 - 1919: Eastern Europe to US and Canada</item>
-          <item>1918 - →: UK to Australia, South Africa and New Zealand</item>
+          <item>1918 →: UK to Australia, South Africa and New Zealand</item>
           <item>1930 - 1940: Russia to Siberia</item>
-          <item>1940 - →: European Jews to US</item>
-          <item>1945 - →: Turkey to Germany</item>
-          <item>1947 - →: India, Pakistan and Sri Lanka to UK</item>
-          <item>1950 - →: Mexico and Central America to US</item>
+          <item>1940 →: European Jews to US</item>
+          <item>1945 →: Turkey to Germany</item>
+          <item>1947 →: India, Pakistan and Sri Lanka to UK</item>
+          <item>1950 →: Mexico and Central America to US</item>
           <item>1950 - 1960: North Africa to France, Spain and Italy</item>
           <item>1950 - 1960: West Indies to UK</item>
-          <item>1973 - →: Ugandan Asians to UK</item>
-          <item>1975 - →: Vietnam to Malaysia, Australia and US</item>
+          <item>1973 →: Ugandan Asians to UK</item>
+          <item>1975 →: Vietnam to Malaysia, Australia and US</item>
         </list>
       </paragraph>
       </chapter>
@@ -356,8 +361,8 @@
         Globally, sending remittances costs an average of 7.37% ($44.3b) of the amount sent. Cutting prices by at least 5 percentage points can save up to $16 billion a year.
       </abstract>
       <dataset label= "">
-        <data x="Total amount of remittances" y="92.7"/>
-          <data x="Remittances sent to developing countries" y="7.3"/>
+        <data x="Remittances actually received" y="92.7"/>
+          <data x="Average tax" y="7.3"/>
         </dataset>
     </graph>
     <keywords>
@@ -409,7 +414,7 @@
         <row type="cell">
           <cell>1st</cell>
           <cell>Hungary</cell>
-          <cell>40%</cell>
+          <cell>60%</cell>
          </row>
          <row type="cell">
            <cell>2nd</cell>
