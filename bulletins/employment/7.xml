@@ -20,6 +20,7 @@
       <keywords>
         <keyword name="North America" />
         <keyword name="Black Market" />
+        <keyword name="Governance" />
       </keywords>
       <sources>
         <source>drugwarfacts.org</source>
@@ -213,6 +214,7 @@
         <keyword name="Black Market" />
         <keyword name="Commerce" />
         <keyword name="Governance" />
+        <keyword name="Healthcare" />
       </keywords>
       <sources>
         <source>drugwarfacts.org</source>
@@ -404,6 +406,9 @@
       <keyword name="Black Market" />
       <keyword name="Commerce" />
       <keyword name="In poverty" />
+      <keyword name="Healthcare" />
+      <keyword name="Employment" />
+      <keyword name="Income and Pensions" />
     </keywords>
     <sources>
       <source>drugwarfacts.org</source>
@@ -455,10 +460,11 @@
       Cryptocurrency and Onion Routing made online illegal markets accessible. Silk Road ‒ which closed in 2014 ‒ was the forerunner: from one side it has sparked the creation of numerous new web platforms, from the other, in many cases as drug traffics, it cleared the streets from violence and crime.
     </abstract>
     <keywords>
-      <keyword name="Eastern Europe" />
       <keyword name="Black Market" />
       <keyword name="Commerce" />
       <keyword name="Unconventional Monetary Policies" />
+      <keyword name="Privacy and Surveillance" />
+      <keyword name="Tech" />
     </keywords>
     <sources>
       <source>drugwarfacts.org</source>
@@ -504,10 +510,12 @@
       <paragraph>As tech firms and law enforcement experiment with radio jammers and net-wielding interceptor drones to take down rogue quadcopters, Dutch police are trialling a simpler solution: eagles.</paragraph>
     </chapter>
     <keywords>
+      <keyword name="Western Europe" />
       <keyword name="Central and Eastern Asia" />
       <keyword name="Black Market" />
       <keyword name="Commerce" />
       <keyword name="Transportation" />
+      <keyword name="Tech" />
     </keywords>
     <sources>
       <source>drugwarfacts.org</source>
@@ -544,63 +552,28 @@
       </row>
       <row type="cell">
         <cell>Belgium</cell>
-        <cell>-</cell>
-        <cell>-</cell>
+        <cell>Albania</cell>
+        <cell>Bulgaria</cell>
       </row>
       <row type="cell">
         <cell>Czech Republic</cell>
-        <cell>-</cell>
-        <cell>-</cell>
+        <cell>Italy</cell>
+        <cell>France</cell>
       </row>
       <row type="cell">
         <cell>Greece</cell>
-        <cell>-</cell>
-        <cell>-</cell>
+        <cell>United Kingdom</cell>
+        <cell>Germany</cell>
       </row>
       <row type="cell">
         <cell>Poland</cell>
         <cell>-</cell>
-        <cell>-</cell>
+        <cell>Netherlands</cell>
       </row>
       <row type="cell">
         <cell>Spain</cell>
         <cell>-</cell>
         <cell>-</cell>
-      </row>
-      <row type="cell">
-        <cell>-</cell>
-        <cell>Albania</cell>
-        <cell>-</cell>
-      </row>
-      <row type="cell">
-        <cell>-</cell>
-        <cell>Italy</cell>
-        <cell>-</cell>
-      </row>
-      <row type="cell">
-        <cell>-</cell>
-        <cell>United Kingdom</cell>
-        <cell>-</cell>
-      </row>
-      <row type="cell">
-        <cell>-</cell>
-        <cell>-</cell>
-        <cell>Bulgaria</cell>
-      </row>
-      <row type="cell">
-        <cell>-</cell>
-        <cell>-</cell>
-        <cell>France</cell>
-      </row>
-      <row type="cell">
-        <cell>-</cell>
-        <cell>-</cell>
-        <cell>Germany</cell>
-      </row>
-      <row type="cell">
-        <cell>-</cell>
-        <cell>-</cell>
-        <cell>Netherlands</cell>
       </row>
     </table>
     <graph unit="tons" x="date" y="number">
@@ -641,6 +614,7 @@
       <keyword name="Southern Asia" />
       <keyword name="Black Market" />
       <keyword name="Commerce" />
+      <keyword name="Agriculture" />
     </keywords>
     <sources>
       <source>drugwarfacts.org</source>
@@ -669,6 +643,8 @@
       <keyword name="Black Market" />
       <keyword name="Employment" />
       <keyword name="Migration" />
+      <keyword name="Agriculture" />
+      <keyword name="Citizenship" />
     </keywords>
     <sources>
       <source>drugwarfacts.org</source>
@@ -691,7 +667,7 @@
     <chapter>
       <paragraph>In Myanmar christian antidrug vigilantes are asking Aung San Suu Kyi’s party to intervene in a clash with villagers who don’t want to see their undulating hillsides of opium poppies destroyed.</paragraph>
       <paragraph>Violence between the two groups in recent weeks has injured dozens and underscored the difficulty of controlling the rugged borderlands, where rival factions and business interests thrive.</paragraph>
-      <paragraph>The total area under poppy cultivation is equivalent to 55,500 hectares</paragraph>
+      <paragraph>The total area under poppy cultivation is equivalent to 55,500 hectares.</paragraph>
     </chapter>
     <keywords>
       <keyword name="Southeastern Asia" />
@@ -740,8 +716,7 @@
       <keyword name="Commerce" />
       <keyword name="Healthcare" />
       <keyword name="Millennials (1981–2000)" />
-      <keyword name="Generation X (1965–1980" />
-      <keyword name="Baby Boomers (1945–1964)" />
+      <keyword name="Transportation" />
     </keywords>
     <sources>
       <source>drugwarfacts.org</source>
