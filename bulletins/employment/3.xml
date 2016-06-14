@@ -100,7 +100,7 @@
         Today Uber has turned the smart phone into a tool for dynamically pricing and allocating car rides in real time, throwing the traditional taxi business into turmoil. It’s also given rise to a buzzword — Uberization — that is driving venture-capital investment and pundits to look for the next big business ripe for Uber-style disruption. Only in London Uber has more than 42,000 drivers.
       </abstract>
       <keywords>
-        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
         <keyword name="Employment" />
         <keyword name="Start-ups" />
         <keyword name="Sharing Economy" />
@@ -135,11 +135,6 @@
           <data x="16-34 years" y="50"/>
         </dataset>
       </graph>
-      <quote>
-        <author>James McClure</author>
-        <role>Airbnb general manager UK and Ireland</role>
-        <text>Airbnb is a force for good in the UK economy. It promotes the UK as a destination and spreads tourist spend to local business.</text>
-      </quote>
       <chapter>
         <title>Some Data</title>
         <paragraph>In 2013 Airbnb had £502m impact in UK economy.</paragraph>
@@ -167,7 +162,7 @@
         </dataset>
       </graph>
       <keywords>
-        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
         <keyword name="Employment" />
         <keyword name="Start-ups" />
         <keyword name="Sharing Economy" />
@@ -176,7 +171,6 @@
         <keyword name="Generation X (1965–1980)" />
         <keyword name="Baby Boomers (1945–1964)" />
         <keyword name="Silent Generation (1920–1944)" />
-        <keyword name="Transportation" />
       </keywords>
       <sources>
         <source>ag.ny.gov</source>
@@ -194,12 +188,43 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>                                                       <!--5-->
+    <section>                                                        <!--5-->
+      <quote>
+        <author>James McClure</author>
+        <role>Airbnb general manager UK and Ireland</role>
+        <text>Airbnb is a force for good in the UK economy. It promotes the UK as a destination and spreads tourist spend to local business.</text>
+      </quote>
+      <keywords>
+        <keyword name="Western Europe" />
+        <keyword name="Employment" />
+        <keyword name="Start-ups" />
+        <keyword name="Sharing Economy" />
+        <keyword name="Tourism" />
+        <keyword name="Housing and Real Estate" />
+      </keywords>
+      <sources>
+        <source>ag.ny.gov</source>
+        <source>bloomberg.com</source>
+        <source>cnbc.com</source>
+        <source>economist.com</source>
+        <source>hospitalitynet.org</source>
+        <source>independent.co.uk</source>
+        <source>insideairbnb.com</source>
+        <source>nytimes.com</source>
+        <source>psu.edu</source>
+        <source>salon.com</source>
+        <source>telegraph.co.uk</source>
+        <source>tradingeconomics.com</source>
+        <source>uk.businessinsider.com</source>
+      </sources>
+      </section>
+    <section>                                                       <!--6-->
         <title>Dogvacacy</title>
         <abstract>
           DogVacay is a Santa Monica based company known for home dog boarding and other pet services. They serve clients in both the United States and Canada and place dogs with host families. It connects petowners withover 20,000 petsitters.
         </abstract>
       <keywords>
+        <keyword name="North America" />
         <keyword name="Start-ups" />
         <keyword name="Sharing Economy" />
       </keywords>
@@ -219,7 +244,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>                                                                 <!--6-->
+    <section>                                                                 <!--7-->
         <title>Property Partner</title>
         <abstract>
           It reinvents the proprety market. It's a property crowdfunding platform launched just a year ago with more than 7,000 customers who have collectively invested around £30 million across 184 properties.
@@ -246,7 +271,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>                                                               <!--7-->
+    <section>                                                               <!--8-->
         <title>Take a Ride in Bangkok</title>
         <abstract>
           Uber has just launch UberMOTO in Thailand, where 87% of households own a motorcycle or a scooter.
@@ -273,7 +298,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>                                                          <!--8-->
+    <section>                                                          <!--9-->
       <title>Uberization in the US</title>
       <graph unit="$" x="string" y="number">
         <title>Average Incomes per Month</title>
@@ -388,7 +413,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>                                                                <!--9-->
+    <section>                                                                <!--10-->
       <title>"Share-the-Scraps Economy": the Dark Side of Collaborative Consumption</title>
       <abstract>
         This is the economy we’re now barreling toward. They’re Uber drivers, Instacart shoppers, and Airbnb hosts. They include Taskrabbit jobbers, Upcounsel’s on-demand attorneys, and Healthtap’s on-line doctors. The euphemism is the “share” economy. A more accurate term would be the “share-the-scraps” economy. New software technologies are allowing almost any job to be divided up into discrete tasks that can be parceled out to workers when they’re needed, with pay determined by demand for that particular job at that particular moment. Customers and workers are matched online. Workers are rated on quality and reliability.
@@ -400,6 +425,9 @@
       </quote>
       <graph unit="b$" x="string" y="number">
         <title>Where the Big Money Goes</title>
+        <abstract>
+          Company valuation.
+        </abstract>
         <dataset label= "">
           <data x="Hilton Worldwide" y="27.56"/>
           <data x="Airbnb" y="23.95"/>
@@ -420,6 +448,7 @@
         <keyword name="Start-ups" />
         <keyword name="Global Corporations" />
         <keyword name="Sharing Economy" />
+        <keyword name="Transportation" />
       </keywords>
       <sources>
         <source>ag.ny.gov</source>
@@ -437,7 +466,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>                                                                    <!--10-->
+    <section>                                                                    <!--11-->
       <title>"Share-the-Scraps Economy": Airbnb</title>
       <graph unit="%" x="string" y="percentage">
         <title>1. Hosts operating an unregulated full-time business account for 30% of the total revenue on Airbnb</title>
@@ -470,7 +499,7 @@
         <paragraph>HVS Consulting and Valuation estimated that hotels lose approximately $450 million in direct revenues and over 2,800 jobs per year to Airbnb.</paragraph>
       </chapter>
       <keywords>
-        <keyword name=">Employment" />
+        <keyword name="Employment" />
         <keyword name="Start-ups" />
         <keyword name="Sharing Economy" />
         <keyword name="Housing and Real Estate" />
@@ -491,7 +520,7 @@
         <source>uk.businessinsider.com</source>
       </sources>
     </section>
-    <section>                                                                      <!--11-->
+    <section>                                                                      <!--12-->
       <title>"Share-the-Scraps Economy": Uber</title>
       <quote>
         <author>Robert Reich</author>
