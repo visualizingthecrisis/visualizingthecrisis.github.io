@@ -830,6 +830,7 @@
         <keyword name="Commerce" />
         <keyword name="Employment" />
         <keyword name="US Elections" />
+        <keyword name="Automation" />
       </keywords>
       <sources>
         <source>bloomberg.com/</source>
@@ -883,6 +884,8 @@
   </graph>
   <keywords>
     <keyword name="Central and Eastern Asia" />
+    <keyword name="Investments" />
+    <keyword name="Investments" />
   </keywords>
   <sources>
     <source>bloomberg.com/</source>
@@ -1011,11 +1014,11 @@
       <title>A Matter of Infrastructure</title>
       <subtitle>China vs India</subtitle>
       <chapter>
-        <title>China Infrastructure</title>
+        <title>Chinese Infrastructure</title>
         <paragraph>Over the last 35 years, China has spent about 8.5% of GDP on infrastructural development. It has the reputation of being the world’s most aggressive investor in domestic infrastructure – be it roads, rail, waterways, power, ports, airports or telecom.</paragraph>
       </chapter>
       <chapter>
-        <title>India Infrastructure</title>
+        <title>Indian Infrastructure</title>
         <paragraph>India has spent only 4.7% of GDP on infrastructure over these years. Its physical infrastructure today is quite similar to that of China in the early 1990s.</paragraph>
       </chapter>
       <keywords>
@@ -1055,9 +1058,9 @@
       <table>
         <row type="head">
           <cell>Points</cell>
-          <cell>Making 1</cell>
-          <cell>Making 2</cell>
-          <cell>Making 3</cell>
+          <cell>Process 1</cell>
+          <cell>Process 2</cell>
+          <cell>Process 3</cell>
         </row>
         <row type="cell">
           <cell>A fresh emphasis on start-ups</cell>
