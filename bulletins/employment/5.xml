@@ -36,12 +36,15 @@
       <keywords>
         <keyword name="Migration" />
         <keyword name="GDP" />
-        <keyword name="Taxes" />
+        <keyword name="Education" />
         <keyword name="In poverty" />
         <keyword name="Citizenship" />
         <keyword name="Global Warming" />
-        <keyword name="Global Warming" />
-        <keyword name="Global Warming" /><keyword name="Global Warming" />
+        <keyword name="Employment" />
+        <keyword name="Governance" />
+        <keyword name="Healthcare" />
+        <keyword name="Commerce" />
+        <keyword name="Tech" />
       </keywords>
       <sources>
         <source>bbc.com</source>
@@ -149,6 +152,7 @@
         <keyword name="Migration" />
         <keyword name="Agriculture" />
         <keyword name="In poverty" />
+        <keyword name="Global Warming" />
       </keywords>
       <sources>
         <source>bbc.com</source>
@@ -309,8 +313,12 @@
             </graph>
             <keywords>
               <keyword name="Migration" />
+              <keyword name="Migration" />
+              <keyword name="Migration" />
+              <keyword name="Migration" />
+              <keyword name="Migration" />
+              <keyword name="Migration" />
               <keyword name="GDP" />
-              <keyword name="Taxes" />
               <keyword name="In poverty" />
             </keywords>
             <sources>
