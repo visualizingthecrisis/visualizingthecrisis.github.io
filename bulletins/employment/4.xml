@@ -885,7 +885,6 @@
   <keywords>
     <keyword name="Central and Eastern Asia" />
     <keyword name="Investments" />
-    <keyword name="Investments" />
   </keywords>
   <sources>
     <source>bloomberg.com/</source>
@@ -990,6 +989,7 @@
         <keyword name="Working class" />
         <keyword name="Agriculture" />
         <keyword name="Manufacturing" />
+        <keyword name="Income and Pensions" />
       </keywords>
       <sources>
         <source>bloomberg.com/</source>
@@ -1090,8 +1090,7 @@
         <keyword name="Manufacturing" />
         <keyword name="Income and Pensions" />
         <keyword name="Employment" />
-        <keyword name="Transportation" />
-        <keyword name="Governance" />
+        <keyword name="Start-ups" />
       </keywords>
       <sources>
         <source>bloomberg.com/</source>
@@ -1112,7 +1111,7 @@
         <source>Internazionale</source>
       </sources>
     </section>
-    <section>                                                             <!--8-->
+    <section>                                                                           <!--8-->
       <title>Facebook and Google’s Expansion: a New Colonialism in India</title>
         <abstract>
           Silicon Valley companies, led by Google and Facebook, are arriving in India with the key to a vital resource of the 21st century: connectivity. Indian critics have dubbed the US companies “digital colonialists”. The heightened tone of the debate reflects how much is at stake: with a population of 1.2 billion, India has the potential to be the largest open internet market in the world.
@@ -1130,7 +1129,6 @@
       </graph>
         <keywords>
           <keyword name="Southern Asia" />
-          <keyword name="Start-ups" />
           <keyword name="Global Corporations" />
           <keyword name="Tech" />
         </keywords>
