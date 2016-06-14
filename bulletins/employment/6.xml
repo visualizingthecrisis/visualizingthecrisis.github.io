@@ -125,6 +125,7 @@
         <keyword name="Southeastern Asia" />
         <keyword name="Taxes" />
         <keyword name="Global Corporations" />
+        <keyword name="1%" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -159,6 +160,7 @@
         <keyword name="Taxes" />
         <keyword name="Global Corporations" />
         <keyword name="1%" />
+        <keyword name="Military" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -195,6 +197,7 @@
         <keyword name="Migration" />
         <keyword name="In poverty" />
         <keyword name="1%" />
+        <keyword name="Citizenship" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -314,6 +317,7 @@
         <keyword name="Taxes" />
         <keyword name="Global Corporations" />
         <keyword name="1%" />
+        <keyword name="Governance" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -349,6 +353,7 @@
         <keyword name="Taxes" />
         <keyword name="Global Corporations" />
         <keyword name="1%" />
+        <keyword name="Governance" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -418,12 +423,12 @@
         In England and Wales, where most young people can't afford to buy a home, more than 90,000 properties are listed in the Land Registry to overseas owners, at least 75,000 of which are owned by companies or individuals registered in tax havens.
       </abstract>
       <keywords>
-        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
         <keyword name="Housing and Real Estate" />
         <keyword name="Taxes" />
         <keyword name="Global Corporations" />
         <keyword name="1%" />
-        <keyword name="In poverty" />
+        <keyword name="Millennials (1981–2000)" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -651,6 +656,7 @@
         </paragraph>
       </chapter>
       <graph unit="GB" x="string" y="number">
+        <title>Scale of the Leaks</title>
         <dataset label="">
           <data x="Cablegate" y="1.7" />
           <data x="Offshore Leaks" y="260" />
@@ -664,14 +670,6 @@
         <keyword name="South America" />
         <keyword name="Eastern Europe" />
         <keyword name="Western Europe" />
-        <keyword name="Northern Africa" />
-        <keyword name="Central Africa" />
-        <keyword name="Southern Africa" />
-        <keyword name="Middle East and Western Asia" />
-        <keyword name="Central and Eastern Asia" />
-        <keyword name="Southern Asia" />
-        <keyword name="Southeastern Asia" />
-        <keyword name="Oceania" />
         <keyword name="Tech" />
         <keyword name="Privacy and Surveillance" />
         <keyword name="Taxes" />
@@ -711,6 +709,7 @@
         <keyword name="Privacy and Surveillance" />
         <keyword name="Employment" />
         <keyword name="Governance" />
+        <keyword name="Terrorism" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -735,7 +734,7 @@
       </sources>
     </section>
     <section>                                                          <!--15-->
-      <title>China- 29 Mar 2016</title>
+      <title>China - 29 Mar 2016</title>
       <subtitle>Flash News on News</subtitle>
       <abstract>
         You Shaolei, the director of the Southern Metropolis Daily, a chinese daily Tabloid newspaper published in Guangzhou, resigned denouncing the increasing control of the media under the current President Xi Jinping.
