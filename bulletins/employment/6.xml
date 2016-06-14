@@ -498,7 +498,7 @@
     </section>
     <section>                                                            <!--11-->
       <title>Printed Press is Withering</title>
-      <subtitle>The Dark Side of the Digital Journalism</subtitle>
+      <subtitle>The Side Effects of the Digital Journalism</subtitle>
       <abstract>
         The spread of Internet and digital communication tools has had heavy implications on traditional journalism. Publishing a daily or weekly newspaper required to a lot of money and this were once mainly guaranteed by the advertising. But things have changed now.
       </abstract>
@@ -510,14 +510,14 @@
         <title>2008</title>
         <dataset label="">
           <data x="Covered by the press" y="27.3" />
-          <data x="Covered by others" y="72.7" />
+          <data x="Covered by other media" y="72.7" />
         </dataset>
       </graph>
       <graph unit="%" x="string" y="percentage">
         <title>2016</title>
         <dataset label="">
           <data x="Covered by the press" y="11.4" />
-          <data x="Covered by others" y="88.6" />
+          <data x="Covered by other media" y="88.6" />
         </dataset>
       </graph>
       <chapter>
@@ -590,7 +590,7 @@
       <chapter>
         <title>But the Full Package of Data Has Not Shared Yet</title>
         <paragraph>ICIJ director, Gerald Ryle, has said that the media organizations have no plans to release the full dataset, WikiLeaks-style, which he argues would expose the sensitive information of innocent private individuals.</paragraph>
-        <paragraph>While a Wikileaks survey on Twitter shows:</paragraph>
+        <paragraph>While a WikiLeaks survey on Twitter shows:</paragraph>
       </chapter>
       <graph unit="%" x="string" y="percentage">
         <title>Should we release all 11 million #PanamaPapers so everyone can search through them like our other publications? 1:40 AM - 4 Apr</title>
@@ -642,7 +642,7 @@
       <chapter>
         <paragraph>
           <list type="unordered">
-            <item>CABLEGATE - 1.7GB - Wikileaks (2010): Classified cables that had been sent to the US State Department by 274 of its consulates, embassies, and diplomatic missions around the world.</item>
+            <item>CABLEGATE - 1.7GB - WikiLeaks (2010): Classified cables that had been sent to the US State Department by 274 of its consulates, embassies, and diplomatic missions around the world.</item>
             <item>OFFSHORE LEAKS - 260GB - ICIJ (2013): Investigation based on a cache of 2.5 million secret records about the offshore assets of people from 170 countries and territories, obtained by ICIJ's director.</item>
             <item>LUXEMBURG LEAKS - 4GB - ICIJ (2014): Investigation based on confidential information about Luxembourg’s tax rulings set up by PwC from 2002 to 2010 to the benefits of its clients.</item>
             <item>SWISS LEAKS - 3.3GB - ICIJ (2015): Investigation on a giant tax evasion scheme allegedly operated with the knowledge and encouragement of the British multinational bank HSBC via its Swiss subsidiary.</item>
