@@ -475,7 +475,8 @@
         <paragraph>*News from the near future (2026)</paragraph>
       </chapter>
       <keywords>
-        <keyword name="Employment" />
+        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
         <keyword name="Employment" />
         <keyword name="Working class" />
         <keyword name="Automation" />
@@ -520,6 +521,7 @@
         <keyword name="Working class" />
         <keyword name="Automation" />
         <keyword name="Tech" />
+        <keyword name="Transportation" />
       </keywords>
       <sources>
         <source>bcgperspectives.com</source>
@@ -571,7 +573,7 @@
         <keyword name="Automation" />
         <keyword name="Tech" />
         <keyword name="Global Corporations" />
-        <keyword name="Income and Pensions" />
+        <keyword name="Investments" />
       </keywords>
       <sources>
         <source>bcgperspectives.com</source>
