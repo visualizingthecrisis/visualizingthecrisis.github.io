@@ -79,7 +79,6 @@
         <keyword name="Baby Boomers (1945–1964)" />
         <keyword name="Silent Generation (1920–1944)" />
         <keyword name="Working class" />
-        <keyword name="In poverty" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -101,7 +100,7 @@
       <section>                                                                        <!--3-->
         <title>Comparing Generations: Income Distance from National Average</title>
         <abstract>
-          National Average= 0%
+          0% = National Average
         </abstract>
       <graph unit="%" x="date" y="number">
         <title>US Generations (from 1979 to 2010)</title>
@@ -421,7 +420,6 @@
         <keyword name="Baby Boomers (1945–1964)" />
         <keyword name="Silent Generation (1920–1944)" />
         <keyword name="Working class" />
-        <keyword name="In poverty" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -557,7 +555,6 @@
         <keyword name="Generation X (1965–1980" />
         <keyword name="Baby Boomers (1945–1964)" />
         <keyword name="Working class" />
-        <keyword name="In poverty" />
         <keyword name="US Elections" />
       </keywords>
       <sources>
@@ -720,13 +717,15 @@
           <data x="60 y/o" y="1.30" />
           <data x="61 y/o" y="1.25" />
           <data x="62 y/o" y="1.20" />
-          <data x="63 y/o" y="1.50" />
+          <data x="63 y/o" y="1.05" />
           <data x="64 y/o" y="1.00" />
         </dataset>
       </graph>
       <keywords>
         <keyword name="Millennials (1981–2000)" />
         <keyword name="Income and Pensions" />
+        <keyword name="Investments" />
+        <keyword name="Interest Rates" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -823,6 +822,7 @@
       </quote>
       <keywords>
         <keyword name="Sharing Economy" />
+        <keyword name="Transportation" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -969,7 +969,7 @@
           Percentage of monthly income spent on rent.
         </abstract>
         <dataset label="">
-          <data x="Los Angeles" y="2.2" />
+          <data x="Los Angeles" y="48.9" />
           <data x="Miami" y="44.5" />
           <data x="New York" y="41.3" />
           <data x="Denver" y="35.0" />
@@ -997,6 +997,7 @@
         <keyword name="North America" />
         <keyword name="Housing and Real Estate" />
         <keyword name="Income and Pensions" />
+        <keyword name="Millennials (1981–2000)" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -1025,6 +1026,7 @@
         <keyword name="Millennials (1981–2000)" />
         <keyword name="Income and Pensions" />
         <keyword name="Housing and Real Estate" />
+        <keyword name="Tourism" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -1046,11 +1048,11 @@
     <section>                                                      <!--15-->
       <title>Holidays are Better than Pensions</title>
         <abstract>
-          A survey from Eventbrite found that 78% of Millennials (aged 20-35) would prefer to spend their money on an “experience” - such as a holiday - over something tangible that they could own.
+          A survey from Eventbrite found that 78% of Millennials (aged 20-35) would prefer to spend their money on an "experience" - such as a holiday - over something tangible that they could own.
         </abstract>
       <graph unit="%" x="string" y="percentage">
         <dataset label="">
-          <data x="Millennials who prefer to spend their money on an “experience”" y="78" />
+          <data x="Millennials who prefer to spend their money on an "experience"" y="78" />
           <data x="Millennials who don't" y="22" />
         </dataset>
       </graph>
@@ -1058,6 +1060,7 @@
         <keyword name="Millennials (1981–2000)" />
         <keyword name="Income and Pensions" />
         <keyword name="Housing and Real Estate" />
+        <keyword name="Tourism" />
       </keywords>
       <sources>
         <source>bloomberg.com</source>
@@ -1086,10 +1089,8 @@
         <role>NAHB's director of economic services</role>
         <text>We call it the "Great Delay".</text>
       </quote>
-      <chapter>
-        <paragraph>Following, the percentage of Millennials who live at home, U.K. / U.S.</paragraph>
-      </chapter>
       <graph unit="%" x="string" y="percentage">
+        <title>Percentage of Millennials who live at home, U.K. / U.S.</title>
         <dataset label="UK">
           <data x="Millennials who live at home" y="25.4" />
           <data x="Millennials who don't" y="74.6" />
