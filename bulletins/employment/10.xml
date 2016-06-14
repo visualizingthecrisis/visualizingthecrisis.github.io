@@ -39,10 +39,16 @@
       <abstract>
         Data production is expanding at an astonishing pace, arriving nowadays to almost 200 zettabyte. The huge amount of data combined with the increasing development of Machine Learning, have bring to a new paradigm of work, where efficiency and security are now ensured by AI.
       </abstract>
+      <chapter>
+        <paragraph>
+          <list type="unordered">
+              <item>1 petabyte = 1,000 terabytes</item>
+              <item>1 exabyte = 1,000 petabytes</item>
+              <item>1 zettabyte = 1,000 exabytes</item>
+            </list>
+        </paragraph>
+      </chapter>
       <graph unit="ZB" x="date" y="number">
-        <abstract>
-          1 petabyte = 1,000 terabytes / 1 exabyte = 1,000 petabytes / 1 zettabyte = 1,000 exabytes
-        </abstract>
         <dataset label="">
           <data x="2000" y="0.2" />
           <data x="2005" y="0.5" />
