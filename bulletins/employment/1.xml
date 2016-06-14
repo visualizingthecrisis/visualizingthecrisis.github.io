@@ -37,28 +37,28 @@
       </sources>
     </section>
     <section>                                                                        <!--2-->
-      <title>Changing Work Habit</title>
+      <title>Changing Work Habits</title>
       <chapter>
         <title>Digital Revolution</title>
-        <paragraph>For several decades there has been a clear distinction between the time for labour and the time of leisure. The technological development increases the productivity but also the time people spend doing work stuff.</paragraph>
-        <paragraph>Today, thanks to the advances in computing power, thanks to the "Internet of Things" which allows the connection of devices, items and humans, the new paradigm of work called "Smartworking" enables people to handle many jobs at home and in public spaces.</paragraph>
+        <paragraph>For several decades, there has been a clear distinction between the time for labour and the leisure time. Today, a new paradigm of work called "Smart Working" enables people to handle many jobs at home and in public spaces, but this has necessarily increased the time people spend doing work stuff.</paragraph>
+        <paragraph>This “Revolution” was the result of a bigger phenomenon which includes enormous developments in computing power, the rise of the "Internet of Things", allowing the connection between devices, items and humans.</paragraph>
       </chapter>
       <chapter>
         <title>The Gig Economy</title>
         <paragraph>These new condictions led people to build another level of job in which the arrival of electronics and computer science have assumed a crucial role.</paragraph>
-        <paragraph>The advanced robotics and autonomous transport, the "Artificial Intelligence" and "Machine Learning" have changed the world of work in terms of features and numbers. An example: despite the creation of millions of new jobs over the next 4 years, there will likely be a net loss of $ 5 million.</paragraph>
+        <paragraph>The advanced robotics and autonomous transport, the "Artificial Intelligence" and "Machine Learning" have changed the world of work in terms of features and numbers. For example, despite the creation of millions of new jobs over the next 4 years, there will likely be a net loss of $ 5 million.</paragraph>
         <paragraph>In the near future everything we will do will be generating data and lots of data is exactly what machines will need in order to learn to learn.</paragraph>
       </chapter>
       <chapter>
         <title>Post-Work Economy</title>
         <paragraph>Yet in 2013 An Oxford University study estimated the potential automation of about half of all existing jobs by 2033.</paragraph>
-        <paragraph>The future of employment will be robots. What’s more, humans are entirely unprepared. These exponential advances will prove daunting for as long as we continue to insist upon employment as our primary source of income. But robots are never going to take all the jobs. The problem with trying to envision "a world without work" is that it asks us to envision an unrealistically large change. The more likely outcome is a world with less work. And that's a world we should welcome rather than fear. It's a world in which we can make some policy decisions we want to make, rather than decisions we really don't want to make. It's a world in which the shorter day work is a necessity in productivity and well-being.</paragraph>
-        <paragraph>it's a world not so far in which we must seriously start talking about decoupling income from work, adopting a universal basic income.</paragraph>
+        <paragraph>The future of employment will be robots. What’s more, humans are entirely unprepared. These exponential advances will prove daunting for as long as we continue to insist upon employment as our primary source of income. But robots are never going to take all the jobs. The problem with trying to envision "a world without work" is that it asks us to envision an unrealistically large change. The more likely outcome is a world with less work. And that's a world we should welcome rather than fear, where a shorter day work is a necessity in productivity and well-being, where we can make some policy decisions we want to make, rather than decisions we really don't want to make.</paragraph>
+        <paragraph>It's a world not so far from us: we must seriously start talking about decoupling income from work, adopting a universal basic income.</paragraph>
       </chapter>
       <keywords>
         <keyword name="Employment" />
         <keyword name="Automation" />
-        <keyword name="Sharing Economy" />
+        <keyword name="Income and Pensions" />
         <keyword name="Tech" />
         <keyword name="Working class" />
       </keywords>
@@ -90,7 +90,7 @@
           <data x="2. Sweden" y="0.67"/>
           <data x="3. Netherlands" y="0.67"/>
           <data x="4. Finland" y="0.67"/>
-          <data x="EUROPEAN UNION" y="0.52"/>
+          <data x="EU average" y="0.52"/>
           <data x="25. Italy" y="0.40"/>
           <data x="26. Bulgaria" y="0.37"/>
           <data x="27. Greece" y="0.37"/>
@@ -128,7 +128,7 @@
           <data x="Skype" y="73.5"/>
           <data x="Facebook Messenger" y="48.9"/>
           <data x="Viber" y="18.4"/>
-          <data x="We Chat" y="5.9"/>
+          <data x="WeChat" y="5.9"/>
           <data x="None" y="4.4"/>
         </dataset>
         <dataset label= "Other Countries">
@@ -136,7 +136,7 @@
           <data x="Skype" y="60"/>
           <data x="Facebook Messenger" y="48"/>
           <data x="Viber" y="13"/>
-          <data x="We Chat" y="11"/>
+          <data x="WeChat" y="11"/>
           <data x="None" y="10"/>
         </dataset>
       </graph>
@@ -148,7 +148,7 @@
           <data x="Teamviewer" y="31.5"/>
           <data x="Google Hangouts" y="21.4"/>
           <data x="Remote Desktop" y="14.9"/>
-          <data x="We Transfer" y="35.3"/>
+          <data x="WeTransfer" y="35.3"/>
           <data x="None" y="10.7"/>
         </dataset>
         <dataset label= "Other Countries">
@@ -157,13 +157,14 @@
           <data x="Teamviewer" y="25"/>
           <data x="Google Hangouts" y="22"/>
           <data x="Remote Desktop" y="19"/>
-          <data x="We Transfer" y="18"/>
+          <data x="WeTransfer" y="18"/>
           <data x="None" y="14"/>
         </dataset>
       </graph>
       <keywords>
         <keyword name="Western Europe" />
         <keyword name="Tech" />
+        <keyword name="Employment" />
       </keywords>
       <sources>
         <source>arubanetworks.com/it</source>
@@ -179,7 +180,7 @@
       </sources>
     </section>
     <section>                                                              <!--5-->
-      <title>Interest in Smartworking, Italy</title>
+      <title>Interest in Smart Working, Italy</title>
       <chapter>
         <title>Big Corporations</title>
         <paragraph>
@@ -224,24 +225,19 @@
       </graph>
       <chapter>
         <title>The Turning Point of Barilla</title>
-        <paragraph>Barilla began its smartworking program in 2013, allowing some of its employees to work at home the 13% of their total hours per month. Currently the program has been extended to 1200 employees, that can work 40% of their hours per month outside the workplace. Barilla aim to include all its employees to the program by 2020, letting them work any time they want outside the workplace.</paragraph>
+        <paragraph>Barilla began its Smart Working program in 2013, allowing some of its employees to work at home the 13% of their total hours per month. Currently the program has been extended to 1200 employees, that can work 40% of their hours per month outside the workplace. Barilla aim to include all its employees to the program by 2020, letting them work any time they want outside the workplace.</paragraph>
       </chapter>
       <graph unit="%" x="date" y="number">
         <title>Hours per Month Outside the Workplace</title>
-        <dataset label= "Working Hours">
+        <dataset label= "Smart Working Hours">
           <data x="2013" y="13"/>
           <data x="2016" y="40"/>
           <data x="2020" y="100"/>
         </dataset>
-        <dataset label= "Smartworking Hours">
-          <data x="2013" y="87"/>
-          <data x="2016" y="60"/>
-          <data x="2020" y="0"/>
-        </dataset>
       </graph>
       <quote>
           <author>Alessandra Stasi</author>
-          <role>Organization and People Development of Barilla</role>
+          <role>Barilla Organization and People Development</role>
           <text>Work anywhere, anyway, anytime.</text>
         </quote>
       <keywords>
@@ -296,7 +292,7 @@
         </dataset>
       </graph>
       <keywords>
-        <keyword name="Eastern Europe" />
+        <keyword name="Western Europe" />
         <keyword name="Privacy and Surveillance" />
         <keyword name="Tech" />
       </keywords>
@@ -316,27 +312,25 @@
     <section>                                                                  <!--7-->
         <title>Silent Circle</title>
         <chapter>
-        <paragraph>Silent Circle is a secure communications company. After Wikileaks (2013) the number of users got four time bigger.</paragraph>
+        <paragraph>Silent Circle is a secure communications company. After WikiLeaks (2013) the number of users got four time bigger.</paragraph>
         <paragraph>95% of subscriptions comes from business or government customers with negotiated contracts.</paragraph>
       </chapter>
       <graph unit="" x="string" y="number">
         <title>The Number of Users' Growth</title>
         <dataset label= "">
-          <data x="Users before Wikileaks" y="1"/>
-          <data x="Users after Wikileaks" y="4"/>
+          <data x="Users before WikiLeaks" y="1"/>
+          <data x="Users after WikiLeaks" y="4"/>
         </dataset>
       </graph>
       <graph unit="%" x="string" y="percentage">
-        <title>Users after Wikileaks</title>
+        <title>Users after WikiLeaks</title>
         <dataset label= "">
           <data x="Business and governament customers" y="95"/>
           <data x="Other customers" y="5"/>
         </dataset>
       </graph>
       <keywords>
-        <keyword name="Western Europe" />
         <keyword name="Privacy and Surveillance" />
-        <keyword name="Global Corporations" />
         <keyword name="Tech" />
       </keywords>
       <sources>
