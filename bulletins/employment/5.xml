@@ -312,11 +312,15 @@
               </dataset>
             </graph>
             <keywords>
-              <keyword name="Migration" />
-              <keyword name="Migration" />
-              <keyword name="Migration" />
-              <keyword name="Migration" />
-              <keyword name="Migration" />
+              <keyword name="North America" />
+              <keyword name="South America" />
+              <keyword name="Eastern Europe" />
+              <keyword name="Western Europe" />
+              <keyword name="Middle East and Western Asia" />
+              <keyword name="Southern Asia" />
+              <keyword name="Oceania" />
+              <keyword name="Northern Africa" />
+              <keyword name="Central Africa" />
               <keyword name="Migration" />
               <keyword name="GDP" />
               <keyword name="In poverty" />
@@ -378,6 +382,7 @@
       <keyword name="GDP" />
       <keyword name="Taxes" />
       <keyword name="In poverty" />
+      <keyword name="Currencies" />
     </keywords>
     <sources>
       <source>bbc.com</source>
@@ -443,7 +448,6 @@
         <keyword name="Employment" />
         <keyword name="Migration" />
         <keyword name="Millennials (1981–2000)" />
-        <keyword name="In poverty" />
       </keywords>
       <sources>
         <source>bbc.com</source>
@@ -517,14 +521,10 @@
         </dataset>
       </graph>
       <keywords>
-        <keyword name="South America" />
-        <keyword name="Eastern Europe" />
-        <keyword name="Western Europe" />
-        <keyword name="Northern Africa" />
         <keyword name="Middle East and Western Asia" />
-        <keyword name="Southeastern Asia" />
         <keyword name="Migration" />
         <keyword name="In poverty" />
+        <keyword name="Citizenship" />
       </keywords>
       <sources>
         <source>bbc.com</source>
@@ -567,6 +567,7 @@
         <keyword name="In poverty" />
         <keyword name="Employment" />
         <keyword name="Governance" />
+        <keyword name="Citizenship" />
       </keywords>
       <sources>
         <source>bbc.com</source>
@@ -620,6 +621,7 @@
       <keyword name="In poverty" />
       <keyword name="Employment" />
       <keyword name="Governance" />
+      <keyword name="Citizenship" />
     </keywords>
     <sources>
       <source>bbc.com</source>
@@ -670,7 +672,6 @@
         <keywords>
           <keyword name="North America" />
           <keyword name="Migration" />
-          <keyword name="In poverty" />
           <keyword name="Employment" />
           <keyword name="Income and Pension" />
           <keyword name="Start-ups" />
@@ -711,6 +712,7 @@
         <keyword name="Taxes" />
         <keyword name="Education" />
         <keyword name="In poverty" />
+        <keyword name="Citizenship" />
       </keywords>
       <sources>
         <source>bbc.com</source>
@@ -745,6 +747,7 @@
         <keyword name="Middle East and Western Asia" />
         <keyword name="Migration" />
         <keyword name="In poverty" />
+        <keyword name="Citizenship" />
       </keywords>
       <sources>
         <source>bbc.com</source>
@@ -779,6 +782,8 @@
         <keyword name="Middle East and Western Asia" />
         <keyword name="Migration" />
         <keyword name="In poverty" />
+        <keyword name="Citizenship" />
+        <keyword name="Governance" />
       </keywords>
       <sources>
         <source>bbc.com</source>
@@ -813,6 +818,8 @@
         <keyword name="Middle East and Western Asia" />
         <keyword name="Migration" />
         <keyword name="In poverty" />
+        <keyword name="Citizenship" />
+        <keyword name="Governance" />
       </keywords>
       <sources>
         <source>bbc.com</source>
@@ -847,6 +854,7 @@
         <keyword name="Migration" />
         <keyword name="Employment" />
         <keyword name="Working class" />
+        <keyword name="Agriculture" />
       </keywords>
       <sources>
         <source>bbc.com</source>
