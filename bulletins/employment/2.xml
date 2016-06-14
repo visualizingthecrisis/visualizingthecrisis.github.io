@@ -33,7 +33,7 @@
             53.7 million Americans count themselves among the independent workforce – contractors, part-timers, solo business owners, full-time employees with a side gig and so on. That number is projected to grow over 4% per year through 2020, to reach about 66 million Americans.
           </abstract>
         <graph unit="m" x="string" y="number">
-          <title>Comparison between US Labor Force (159 million) and US Freelancer (53.7 million) in 2016</title>
+          <title>Comparison between US Labor Force and US Freelancer in 2016</title>
           <dataset label="">
             <data x="US Labor Force" y="159" />
             <data x="US Freelancer" y="53.7" />
@@ -75,11 +75,12 @@
           <quote>
           <author>Annabel Rake</author>
           <role>Chief marketing officer at Deloitte UK</role>
-          <text>The returning workers are called Boomerangs. These are people who come back with a new set of skills and experiences that we find very beneficial</text>
+          <text>The returning workers are called Boomerangs. These are people who come back with a new set of skills and experiences that we find very beneficial.</text>
           </quote>
         <keywords>
           <keyword name="Employment" />
           <keyword name="Working class" />
+          <keyword name="Education" />
         </keywords>
         <sources>
           <source>cjr.org</source>
@@ -151,7 +152,7 @@
         <graph unit="%" x="string" y="number">
           <title>W-2 vs 1099</title>
           <abstract>
-            The 100% employee compensation corresponds to the 68% of the contract worker.
+            Differences between the employers' expenses for the two types of workers.
           </abstract>
           <dataset label="">
             <data x="Employee Compensation" y="100" />
@@ -226,6 +227,7 @@
         </graph>
         <keywords>
           <keyword name="Employment" />
+          <keyword name="Governance" />
         </keywords>
         <sources>
           <source>cjr.org</source>
@@ -489,6 +491,7 @@
       </graph>
       <keywords>
         <keyword name="Employment" />
+        <keyword name="Start-ups" />
       </keywords>
       <sources>
         <source>cjr.org</source>
@@ -517,7 +520,7 @@
       <row type="cell">
         <cell>77</cell>
         <cell>centres</cell>
-        <cell>3000</cell>
+        <cell>3,000</cell>
        </row>
        <row type="cell">
          <cell>6</cell>
@@ -525,7 +528,7 @@
          <cell>120</cell>
         </row>
         <row type="cell">
-          <cell>50000</cell>
+          <cell>50,000</cell>
           <cell>members</cell>
           <cell>1.5m</cell>
          </row>
