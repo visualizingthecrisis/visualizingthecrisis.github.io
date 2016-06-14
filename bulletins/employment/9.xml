@@ -31,7 +31,10 @@
       </abstract>
       <graph unit="" x="location" y="number">
         <title>Venezuela Has an Unhappy First Place</title>
-        <dataset label="Misery Index Rank">
+        <abstract>
+          Misery Index Rank.
+        </abstract>
+        <dataset label="">
           <data x="VE" y="159.5" />
           <data x="AR" y="40" />
           <data x="ZA" y="32" />
@@ -40,6 +43,9 @@
         </dataset>
       </graph>
       <graph unit="%" x="location" y="number">
+        <abstract>
+          Misery Index divided into Inflation and Unemployment.
+        </abstract>
         <dataset label="Inflation">
           <data x="VE" y="152" />
           <data x="AR" y="32" />
@@ -675,6 +681,7 @@
         <keyword name="Taxes" />
         <keyword name="Income and Pensions" />
         <keyword name="Working class" />
+        <keyword name="Citizenship" />
       </keywords>
       <sources>
         <source>aljazeera.com</source>
@@ -699,7 +706,7 @@
     </section>
     <section>                                                                 <!--5-->
       <title>Minimum-Wage Madness</title>
-      <subtitle>Fight for $15!</subtitle>
+      <subtitle>#FightFor$15</subtitle>
       <chapter>
         <paragraph>On November 29 2012, New York City’s fast food workers took to the streets to demand fair pay. It was the beginning of a movement dubbed “Fight for $15”. The employees earned anywhere from $7.50 to $8.50, which put them below the poverty line. Though the protests received national coverage, many thought such a drastic wage increase to be a pipe dream.</paragraph>
         <paragraph>Now things are changing. Last month New York State’s legislature passed a plan that would raise New York City’s minimum wage to $15 an hour by 2018, and have the rest of the state’s minimum hourly wage rise to at least $12.50.</paragraph>
@@ -784,6 +791,7 @@
         <keyword name="Employment" />
         <keyword name="Income and Pensions" />
         <keyword name="Working class" />
+        <keyword name="Governance" />
       </keywords>
       <sources>
         <source>aljazeera.com</source>
@@ -872,6 +880,7 @@
         <keyword name="Employment" />
         <keyword name="Income and Pensions" />
         <keyword name="Working class" />
+        <keyword name="Governance" />
       </keywords>
       <sources>
         <source>aljazeera.com</source>
@@ -947,12 +956,12 @@
         <keyword name="Middle East and Western Asia" />
         <keyword name="Central and Eastern Asia" />
         <keyword name="Employment" />
-        <keyword name="US Elections" />
         <keyword name="Migration" />
         <keyword name="Governance" />
         <keyword name="Taxes" />
         <keyword name="Income and Pensions" />
         <keyword name="Working class" />
+        <keyword name="Citizenship" />
       </keywords>
       <sources>
         <source>aljazeera.com</source>
@@ -1146,10 +1155,10 @@
         <paragraph>LEGEND</paragraph>
         <paragraph>
           <list type="unordered">
-            <item>U= universal</item>
-            <item>B= basic</item>
-            <item>L= long-term</item>
-            <item>R= randomized</item>
+            <item>U = Universal, within well-defined communities</item>
+            <item>B = Basic, enough to cover a minimum standard of living</item>
+            <item>L = Long-term, enough to study the consequences</item>
+            <item>R = Randomized, use randomized controlled trials to measure impact</item>
           </list>
         </paragraph>
       </chapter>
@@ -1291,6 +1300,7 @@
         <keyword name="Income and Pensions" />
         <keyword name="In poverty" />
         <keyword name="Governance" />
+        <keyword name="Citizenship" />
       </keywords>
       <sources>
         <source>aljazeera.com</source>
