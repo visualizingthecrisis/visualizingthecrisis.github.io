@@ -1,6 +1,6 @@
   <bulletin id="issue 2" date="20160312">
     <sections>
-      <section>                                        <!--1-->
+      <section>                                         <!--1-->
         <title>US Unemployment Rate</title>
         <graph unit="%" x="date" y="number">
           <dataset label="">
