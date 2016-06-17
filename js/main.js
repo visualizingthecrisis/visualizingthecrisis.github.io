@@ -65,7 +65,15 @@ function processXML(d,filters,m){
       if($element.is('title'))$section_div.append("<span class='section-title'>"+$(sections[s]).find('title').first().text()+"</span>");
       if($element.is('subtitle'))$section_div.append("<span class='section-subtitle'>"+$(sections[s]).find('subtitle').first().text()+"</span>");
       if($element.is('quote')){
-        $section_div.append("<div class='section-quote'><span class='quote-text'>"+$element.find('text').first().text()+"</span>"+"<span class='quote-author'>  "+$element.find('author').first().text()+"</span></div>");
+        var role=$element.find('role');
+        if (role.length>0) {
+          if($(role).first().text().length>0)
+            role=", "+$(role).first().text();
+        }else{
+          role="";
+        }
+
+        $section_div.append("<div class='section-quote'><span class='quote-text'>"+$element.find('text').first().text()+"</span>"+"<span class='quote-author'>  "+$element.find('author').first().text()+role+"</span></div>");
       }
       if($element.is('abstract'))$section_div.append("<span class='section-abstract'>"+$element.text()+"</span>");
       if($element.is('graph'))graphToHTML($element,$section_div);
