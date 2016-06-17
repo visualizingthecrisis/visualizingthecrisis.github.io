@@ -44,7 +44,7 @@ function updateEditor(){
       },
       success: function(xml){
         editor.setValue(xml);
-          update();
+        update();
 
       }
   });
@@ -52,7 +52,11 @@ function updateEditor(){
 }
 function update(){
   xmlDoc = $.parseXML( editor.getValue() );
-
+  var sections=$(xmlDoc).find('section');
+  for(var s=0;s<sections.length;s++){
+    var authors=$(sections[s]).parent().parent().parent().find('authors').first().clone();
+    $(sections[s]).append(authors);
+  }
   $("#bulletin-container").children().remove();
   processXML(xmlDoc);
   $(".loader-container").fadeOut("fastest");
