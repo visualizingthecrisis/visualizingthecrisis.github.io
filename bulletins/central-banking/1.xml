@@ -90,7 +90,7 @@
           <title>The quota formula</title>
           <dataset label= "member quotas">
             <data x="GDP" y="50"/>
-            <data x="Opennes" y="30"/>
+            <data x="Openness" y="30"/>
             <data x="Economic variability" y="15"/>
             <data x="International reserves" y="5"/>
           </dataset>
@@ -319,7 +319,7 @@
               <graph unit="%" x="date" y="number">                     <!--[0-N]-->
                 <title>Global slow-growth</title>                               <!--[0-1]-->
                 <abstract>Global recovery continues, but at an ever-slowing and fragile pace that leaves the world econonomy more exposed to risk.</abstract>        <!-- max 144 char-->
-                <dataset label="Global Growth">                                 <!--[1-N]-->
+                <dataset label="">                                 <!--[1-N]-->
                   <data x="2014" y="2.8" />
                   <data x="2015" y="2.6" />
                   <data x="2016" y="2.9" />
