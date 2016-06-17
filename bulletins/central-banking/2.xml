@@ -11,8 +11,8 @@
             <section>
               <title>What is the future of money?</title>
               <chapter>
-                <paragraph>The nature of money changed after the Bretton Woods Conference in 1944, when most countries tied the value of their currencies to the US dollar, rather than to gold or silver. When the US went off the gold standard in 1971, all currencies essential became fiat moneys, with their value derived from the governments that issue them rather than from commodities.</paragraph>
-                <paragraph>Central banks can increase or decrease the money supply at will, giving them enormous control over economic activity. In extreme cases, hyperinflation can ensue, debasing the currency and wreaking havoc.</paragraph>
+                <paragraph>The nature of money changed after the Bretton Woods Conference in 1944, when most countries tied the value of their currencies to the US dollar, rather than to gold or silver. When the US went off the gold standard in 1971, all currencies essentially became "fiat moneys," with their value derived from the governments that issue them rather than from commodities.</paragraph>
+                <paragraph>Central banks can increase or decrease their money supply at will, giving them enormous control over economic activity. In extreme cases, hyperinflation can ensue, debasing the currency and wreaking havoc.</paragraph>
                 <paragraph>So it’s not surprising that innovating the concept of money through a digital currency has been a recurring theme in technology circles. Intuitively, it seems that the global financial system should be based on more than the judgments of a small group of central bankers. Yet only recently has digital money actually become possible.</paragraph>
               </chapter>
               <keywords>
@@ -24,13 +24,13 @@
         </sources>
             </section>
             <section>
-              <title>Ranking 50 world’s top cryptocurrencies</title>
+              <title>The World's top 50 cryptocurrencies</title>
               <table>
                 <row type="head">
                   <cell>Currencies</cell>
                   <cell>Market Cap</cell>
                   <cell>Price</cell>
-                  <cell>%change</cell>
+                  <cell>% Change</cell>
                 </row>
                 <row type="cell">
                   <cell>Bitcoin</cell>
@@ -364,10 +364,10 @@
                 <title>Why you should choose bitcoin as a payment method system</title>
                 <paragraph>
                   <list type="ordered">
-                  <item>Protection from payment fraud, bitcoins are digital and cannot be counterfeited or reversed arbitrarily by the sender</item>
-                  <item>Reduced Possibility of Identity Theft, bitcoins use a “push” mechanism that allows the bitcoin holder to send exactly what he or she wants to the merchant or recipient with no further information.</item>
-                  <item>Direct Transfers for Immediate Settlement, bitcoins contracts can be designed and enforced to eliminate or add third party approvals</item>
-                  <item>Lower fees, there aren’t usually transaction fees for bitcoin exchanges because the bitcoin miner is compensated by the network with newly issued bitcoins.</item>
+                  <item>PROTECTION FROM PAYMENT FRAUD. Bitcoins are digital and cannot be counterfeited or reversed arbitrarily by the sender</item>
+                  <item>REDUCED POSSIBILITY OF IDENTITY THEFT. Bitcoins use a “push” mechanism that allows the bitcoin holder to send exactly what he or she wants to the merchant or recipient with no further information.</item>
+                  <item>DIRECT TRANSFERS FOR IMMEDIATE SETTLEMENT. Bitcoins contracts can be designed and enforced to eliminate or add third party approvals</item>
+                  <item>LOWER FEES. There aren’t usually transaction fees for bitcoin exchanges because the bitcoin miner is compensated by the network with newly issued bitcoins.</item>
                 </list>
                 </paragraph>
               </chapter>
@@ -382,7 +382,7 @@
                 </paragraph>
                 <paragraph>Currencies have experienced extreme volatility - Bitcoin increased in value by 5,000% during the course of 2013.</paragraph>
                 <paragraph>Its value has now plummeted from over $1,151 to just $232 as ofAugust 2015.</paragraph>
-                <paragraph>15,285,225 Bitcoin as of March 2016 in circulation.</paragraph>
+                <paragraph>15,285,225 Bitcoin are in circulation, as of March 2016.</paragraph>
               </chapter>
               <keywords>
           <keyword name="Currencies" />
@@ -397,7 +397,7 @@
         </sources>
             </section>
             <section>
-              <title>How a Bitcoin transaction works like</title>
+              <title>How a Bitcoin transaction looks like</title>
               <chapter>
                 <paragraph>
                   <list type="ordered">
