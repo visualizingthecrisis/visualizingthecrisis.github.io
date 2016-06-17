@@ -7064,11 +7064,11 @@
         }
         function getSizeFor1Char(tick) {
             if (tickTextCharSize) {
-          //      return tickTextCharSize;
+               return tickTextCharSize;
             }
             var size = {
-                h: 0,
-                w: 0
+                h: 15,
+                w: 9
             };
             tick.select('text').text(textFormatted).each(function (d) {
                 var box = this.getBoundingClientRect();

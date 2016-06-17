@@ -1,4 +1,5 @@
 $(document).ready(function(){
+  $('#bulletin-search').scrollTop=0;
   $(".loader-container").show();
 
   $.get('keywords.xml', function(d){
@@ -48,6 +49,8 @@ $(document).ready(function(){
 });
 function filter(){
   var filters=[];
+  sources=[];
+  filters=[];
   var n = $( "input:checked" ).length;
   var checked=$( "input:checked" );
   for(var i=0; i<checked.length; i++){
@@ -72,6 +75,7 @@ function filter(){
 }
 
 function processFilters(filters){
+
   var $all=$('<sections></sections>');
     function parse(i){
       if(i<paths.length){
@@ -85,9 +89,11 @@ function processFilters(filters){
           //  $("#bulletin-container").append('<div style="display:block;width:100%;background-color:black;color:white;">'+paths[i]+'</div>');
             console.log('processing: '+paths[i]);
           //  processXML(xml);
-            var section_array=$(xml).find('section');
-            for(var s=0;s<section_array.length;s++){
-              $all.append(section_array[s]);
+            var sections=$(xml).find('section');
+            for(var s=0;s<sections.length;s++){
+              var authors=$(sections[s]).parent().parent().parent().find('authors').first().clone();
+              $(sections[s]).append(authors);
+              $all.append(sections[s]);
             }
             parse(i+1);
           }
@@ -97,7 +103,7 @@ function processFilters(filters){
         //  console.log($all.html());
 
         $("#bulletin-container").children().remove();
-        processXML($all,filters,10);
+        processXML($all,filters,15);
         $(".loader-container").fadeOut();
       }
     }

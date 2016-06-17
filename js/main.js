@@ -2,12 +2,16 @@ var barHeight=30;
 var patterns= ['url(#crosshatch1) #fff', 'url(#crosshatch2) #fff','url(#crosshatch3) #fff','url(#crosshatch4) #fff','url(#crosshatch5) #fff','url(#dots-4) #fff','url(#circles-2) #fff','url(#circles-3) #fff','url(#circles-4) #fff','url(#circles-5) #fff'];
 var graph_number=0;
 
+var sources_array=[];
+var authors_array=[];
+
 $(document).ready(function(){
   $("body").append("<div class='loader-container'><div class='loader'></div></div>");
 });
 
 function processXML(d,filters,m){
-
+  sources_array=[];
+  authors_array=[];
   filtersUnwrap="all the topics";
   var sections=$(d).find('section');
   if(filters && filters.length>0){
@@ -16,24 +20,21 @@ function processXML(d,filters,m){
       if(k>0)filtersUnwrap+=", ";
       filtersUnwrap+=filters[k];
     }
-
     for (var s = 0; s < sections.length; ++s) {
       var count=0;
-      var $sec=$(sections[s]);
-      var keywords=$sec.find('keyword');
+      var keywords=$(sections[s]).find('keyword');
       for (var i = 0; i < keywords.length; i++) {
         if(filters.indexOf($(keywords[i]).attr('name'))>=0)
           count++;
       }
-      $sec.attr('order',count);
+      $(sections[s]).attr('order',count);
     }
   }
   $("#bulletin-container").append("<div class='main-title'>Visualizing</br>the Crisis</div><div class='main-report'>REPORT N.23</div><div class='main-subtitle'>TRACKING THE UNFOLDING<br/>GLOBAL FINANCIAL CRISIS</div>"+
   "<div class='main-info'>This information was gathered between February and June 2016 during the MA Information Design lab at IUAV, Venice. Below are the most relevant results relating to <span style='display:inline;font-family: SF-UI-Heavy, Helvetica;'>"+filtersUnwrap+".</span>​</div>");
-  var sections=$(d).find('section');
+
   if(filters){
-    var sections=$(d).find('section')
-    .sort(function() {
+    sections.sort(function() {
     return Math.round( Math.random() ) - 0.5;
     }).sort(function(a, b){
         var aVal = parseInt(a.getAttribute('order')),
@@ -43,28 +44,26 @@ function processXML(d,filters,m){
   }
 
   for (var s = 0; s < sections.length; ++s) {
-  //  console.log('processing section '+(s+1)+"/"+sections.length);
+    console.log($(sections[s]).attr('authors'));
+      console.log($(sections[s]).attr('order'));
     if(m)
       if(s>=m)
         break;
     var count=0;
     if(filters){
-      var $sec=$(sections[s]);
-    //  console.log($sec.attr('order'));
-      if(parseInt($sec.attr('order'))<1)continue;
+      if(parseInt($(sections[s]).attr('order'))<1)continue;
     }
-    var $section= $(sections[s]);
     var kkk="";
     if(filters){
-      kkk=" Keywords: "+$section.attr('order');
+      kkk=" Keywords: "+$(sections[s]).attr('order');
     }
     var $section_div=$("<div class='section'><div style='width:100%'>Section:"+(s+1)+kkk+"</div></div>");
     $("#bulletin-container").append($section_div);
-    var elements=$section.children();
+    var elements=$(sections[s]).children();
     for (var i = 0; i < elements.length; ++i) {
       var $element= $(elements[i]);
-      if($element.is('title'))$section_div.append("<span class='section-title'>"+$section.find('title').first().text()+"</span>");
-      if($element.is('subtitle'))$section_div.append("<span class='section-subtitle'>"+$section.find('subtitle').first().text()+"</span>");
+      if($element.is('title'))$section_div.append("<span class='section-title'>"+$(sections[s]).find('title').first().text()+"</span>");
+      if($element.is('subtitle'))$section_div.append("<span class='section-subtitle'>"+$(sections[s]).find('subtitle').first().text()+"</span>");
       if($element.is('quote')){
         $section_div.append("<div class='section-quote'><span class='quote-text'>"+$element.find('text').first().text()+"</span>"+"<span class='quote-author'>  "+$element.find('author').first().text()+"</span></div>");
       }
@@ -73,9 +72,51 @@ function processXML(d,filters,m){
       if($element.is('chapter'))chapterToHTML($element,$section_div);
       if($element.is('table'))tableToHTML($element,$section_div);
       if($element.is('keywords'))keywordsToHTML($element,$section_div,filters);
-      //  if($element.is('sources'))sourcesToHTML($element,$section_div);
+      if($element.is('sources'))sourcesToHTML($element,$section_div);
     }
+    addAuthors($(sections[s]));
+
   }
+  var sourcesL="";
+  var authorsL="";
+  for(var i=0;i<sources_array.length;i++){
+    if(i>0)
+      sourcesL+=", ";
+    sourcesL+=sources_array[i];
+  }
+
+  for(var i=0;i<authors_array.length;i++){
+  //  authorsL+="*";
+    if(i>0)
+      authorsL+=", ";
+    authorsL+=authors_array[i];
+  //  authorsL+="+";
+  }
+
+  var $section_div=$(
+    "<div class='section'>"
+        +"<span class='chapter-title'>Sources</span>"
+        +"<p>"+sourcesL+"</p>"
+
+      +"<div class='section-chapter'>"
+        +"<span class='chapter-title'>Authors</span>"
+        +"<p>"+authorsL+"</p>"
+      +"</div>"
+      +"<div class='section-chapter'>"
+        +"<span class='chapter-title'>Impressum</span>"
+        +"<p>This report is the final output of the MA Information Design lab led by Marco Ferrari and Ivor Williams, together with Giacomo Covacich, Pietro Leoni and Angelo Semeraro at IUAV, Venice, between February and June 2016.</p>"
+      +"</div>"
+  +"</div>");
+  $("#bulletin-container").append($section_div);
+  var $section_div=$(
+    "<div class='section'>"
+  +"<p style='text-align:center;'>All data available at</p>"
+  +"<p style='text-align:center;font-family: SF-UI-Heavy, monaco, Consolas, Lucida Console, monospace;''>visualizingthecrisis.github.io</p>"
+  +"</div>");
+  $("#bulletin-container").append($section_div);
+  var format = d3.time.format("%d/%m/%Y, %H:%M:%S");
+  $("#bulletin-container").append("<div class='section'><p style='text-align:center;'> Printed on "+format(new Date())+"</p></div>");
+
 
 }
 
@@ -110,11 +151,8 @@ function chapterToHTML($element, $parent){
   //console.log(paragraphs);
   for (var i = 0; i < paragraphs.length; ++i) {
     var lists=$(paragraphs[i]).contents();
-  //  console.log(lists);
-
     for (var l = 0; l < lists.length; ++l) {
       var $element= $(lists[l]);
-    //  console.log($element);
       if(lists[l].nodeType==3 && $element.text().replace(/\s/g, '').length>0)
         html+="<p>"+$element.text()+"</p>";//+" "+$element.text().length
       if($element.is('list')){
@@ -154,14 +192,27 @@ function keywordsToHTML($element, $parent,filters){
 }
 
 function sourcesToHTML($element, $parent){
-  var sources=$element.find('source');
-  var html="<div class='section-sources'>";
-  for (var i = 0; i < sources.length; ++i) {
-    html+="<span class='source'>"+$(sources[i]).text()+" </span>";
+  var sourcesElements=$element.find('source');
+  for (var i = 0; i < sourcesElements.length; ++i) {
+    var t=$(sourcesElements[i]).text();
+    if(sources_array.indexOf(t)<0){
+      sources_array.push(t);
+    }
   }
-  html+="</div>";
-  $parent.append(html);
 }
+
+function addAuthors($section){
+  //console.log($section.parent().html());
+  var t=$section.find('authors author');
+  for(var k=0;k<t.length;k++){
+    var a=$(t[k]).text();
+    if(authors_array.indexOf(a)<0){
+        authors_array.push(a);
+    }
+  }
+
+}
+
 
 function graphToHTML($element, $parent){
   var titles=$element.find('title');
@@ -319,7 +370,8 @@ function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
           settings.axis.y.label.text= 'value in '+unit;
         settings.axis.y.tick.count=4;
         //  settings.axis.x.tick.culling={'max':4};
-      //  settings.axis.x.tick.width=150;
+        settings.axis.x.tick.width=150;
+        settings.size.width=512;
         settings.size.height=xData[i].length*50;
         settings.axis.rotated= true;
         var chart = c3.generate(settings);
