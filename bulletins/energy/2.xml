@@ -11,9 +11,9 @@
   <bulletin id="2 RN" date="20161003">
   <sections>                                                          <!--[ 1 ]-->
   <section>
-  <title>USA, the shail oil-gas dream of richness is destroyed</title>
+  <title>In the USA, the shale-oil and -gas dream is over</title>
   <abstract>							                                        <!--[0-1]-->
-  Last years a lot of oil markets had invested in hydraulic fracturing. Dropped the oil price fracking has became too expansive for USA.
+  In the last years, a lot of oil markets have invested in hydraulic fracturing (fracking). Because of the dropping price of oil, fracking has become too expensive for the USA.
   </abstract>
   <table>
     <row type="head">
@@ -25,13 +25,13 @@
       <cell>2017</cell>
     </row>
     <row type="cell">
-      <cell>USA, Arabia,Russia invest in fracking.</cell>
-      <cell>New frack wells.</cell>
-      <cell>Over production.</cell>
-      <cell>The price of oil goes down.</cell>
-      <cell>The price of oil goes down.</cell>
-      <cell>US petrol-gas productors fail and fracking becomes too expensive.</cell>
-      <cell>100,000 lost jobs.</cell>
+      <cell>USA, Saudi Arabia, Russia invest in fracking</cell>
+      <cell>New frack wells</cell>
+      <cell>Over production</cell>
+      <cell>The price of oil goes down</cell>
+      <cell>The price of oil goes down</cell>
+      <cell>US petrol-gas productors fail and fracking becomes too expensive</cell>
+      <cell>100,000 lost jobs</cell>
     </row>
   </table>
       <keywords>
@@ -79,14 +79,13 @@
     </sources>
 
     <section>
-      <title>Fracking environmental and health risks</title>
+      <title>Fracking: Environmental and health risks</title>
       <chapter>
-        <title>Fracking, the meaning and the risks for people</title>
-        <paragraph>Fracking is the process of drilling and injecting fluid into the ground at a high pressure in order to  fracture shale rocks to release natural gas inside.</paragraph>
+        <abstract>Fracking is the process of drilling and injecting fluid into the ground at a high pressure in order to  fracture shale rocks to release natural gas inside.</abstract>
 
       </chapter>
       <graph unit="%" x="number" y="percentage">
-        <title>Fracking chemical risks</title>
+        <title>Chemical risks</title>
         <abstract>The paper compiled a list of 632 chemicals  identified from drilling operations throughout the U.S.</abstract>
         <dataset label= "Sensory organs, the respiratory and gastrointestinal systems">
           <data x="475" y="75" />
@@ -151,9 +150,9 @@
     <graph unit="$B" x="date" y="number">
       <title>Green solar industry</title>
       <abstract>By 2020 investments on solar market is going to grow.</abstract>
-      <dataset label= "Investments.">
+      <dataset label= "Investments">
         <data x="2015" y="0.7" />
-        <data x="2020" y="3,1" />
+        <data x="2020" y="3.1" />
       </dataset>
     </graph>
 
@@ -171,10 +170,12 @@
   <chapter>
     <title>Solar, Wind and Hydro Projects Added to the North American Grid in February 2016</title>
     <paragraph>350 MW of renewable energy capacity are currently in the testing phase of development, indicating they are close to being ready to operate.</paragraph>
-    <paragraph>Kentucky produces 29 Mw in Hydropower sector.</paragraph>
-    <paragraph>Virginia produces 22 Mw in Hydropower sector</paragraph>
-    <paragraph>Ontario produces 100 Mw in Wind power sector.</paragraph>
-    <paragraph>New Jersey produces 10 Mw for Solar power sector.</paragraph>
+    <list type="unordered">
+    <item>KENTUCKY: 29 Mw in the Hydropower sector</item>
+    <item>VIRGINIA: 22 Mw in the Hydropower sector</item>
+    <item>ONTARIO: 100 Mw in the Wind power sector</item>
+    <item>NEW JERSEY: 10 Mw in the Solar power sector</item>
+    </list>
 </chapter>
  <keywords>
     <keyword name="Renewables" />
