@@ -143,14 +143,27 @@
    </section>
 
    <section>
-     <title>Health risks</title>
+     <title>Nuclear: Health risks</title>
      <chapter>
-       <title>Thyroid gland cancer children deaths</title>
+       <title>Thyroid gland cancer and children deaths</title>
        <paragraph>The thyroid gland naturally accumulates iodine from the blood stream, because large amounts of radioactive iodine were released as a result of the Chernobyl accident.</paragraph>
        <paragraph>The thyroid glands of local residents received considerable doses through breathing and through consuming contaminated foods, especially milk.</paragraph>
-       <paragraph>Total cases are 6.000: 11% represents children between 10 and 14 years, 14% are children between 5 and 9 years, and 15% is related to babies between zero and 4 years.</paragraph>
-    </chapter>
-
+       <paragraph>Total cases are 6.000</paragraph>
+       <paragraph>
+         <list type="unordered">
+          <item>A. children between 10 and 14 years</item>
+          <item>B. children between 5 and 9 years</item>
+          <item>C. babies between zero and 4 years</item>
+        </list>
+      </paragraph>
+     </chapter>
+        <graph unit="%" x="string" y="percentage">
+        <dataset label= "">
+          <data x="A" y="11"/>
+          <data x="B" y="14"/>
+          <data x="C" y="15"/>
+        </dataset>
+        </graph>
     <keywords>
       <keyword name="Global Warming" />
       <keyword name="Investments" />
