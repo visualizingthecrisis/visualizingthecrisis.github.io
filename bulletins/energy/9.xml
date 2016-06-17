@@ -151,17 +151,17 @@
        <paragraph>Total cases are 6.000</paragraph>
        <paragraph>
          <list type="unordered">
-          <item>A. children between 10 and 14 years</item>
-          <item>B. children between 5 and 9 years</item>
-          <item>C. babies between zero and 4 years</item>
+          <item>A. Babies between zero and 4 years old</item>
+          <item>B. Children between 5 and 9 years old</item>
+          <item>C. Children between 10 and 14 years old</item>
         </list>
       </paragraph>
      </chapter>
         <graph unit="%" x="string" y="percentage">
         <dataset label= "">
-          <data x="A" y="11"/>
+          <data x="A" y="15"/>
           <data x="B" y="14"/>
-          <data x="C" y="15"/>
+          <data x="C" y="11"/>
         </dataset>
         </graph>
     <keywords>
