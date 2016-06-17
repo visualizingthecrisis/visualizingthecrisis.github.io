@@ -12,8 +12,8 @@
       <section>
         <title>The strange relationship between gold and dollar</title>
         <abstract>
-          If the value of the dollar increase, the gold price drop.
-          Conversely, if the value of the dollar decreases, the price goes up.
+          When the value of the dollar increases, the gold price drops.
+          Conversely, if the value of the dollar decreases, the price of gold goes up.
         </abstract>
         <graph unit="$/Kg" x="date" y="number">
           <dataset label= "Gold price">
@@ -145,7 +145,7 @@
       <section>
         <title>The US doesn’t love gold</title>
         <abstract>
-          USA is one of the most important players on the gold market, but it is“anti-gold”.
+          USA is one of the most important players on the gold market, but it is “anti-gold”.
           Gold is often ignored, denigrated and
           considered unnecessary.</abstract>
         <graph unit= "Metric tons" x="date" y="number">
@@ -191,8 +191,8 @@
       <section>
         <title>The crazy Chinese race to gold</title>
         <chapter>
- 	        <paragraph>The chinese government is buying gold by the ton.
-             Much of gold arrives in China is, apparently, for the Chinese central bank. Why?
+ 	        <paragraph>The Chinese government is buying gold by the ton.
+             Most of the gold that arrives in China is, apparently, for the Chinese central bank. Why?
               The deposits or debt instruments in US dollars, are in negotiations effects in gold,
               in turn putting pressure on the US dollar.</paragraph>
         </chapter>
@@ -222,12 +222,12 @@
       </section>
       <section>
         <title>Historical break</title>
-        <subtitle>The Gold Standard's birth</subtitle>
+        <subtitle>The birth of the Gold Standard</subtitle>
         <chapter>
  	        <paragraph>
-            The Gold Standard began in 1816, when England, after the Nopoleonic wars,
+            The Gold Standard was set in 1816, when England, after the Napoleonic wars,
             decided to establish the conventibility of paper money into gold.</paragraph>
-            <paragraph>During '800, London Stock Exchange increase its power.</paragraph>
+            <paragraph>During the Nineteenth century, the London Stock Exchange increases its power.</paragraph>
         </chapter>
         <keywords>
           <keyword name="Gold" /><keyword name="Western Europe" /><keyword name="Currencies" />
@@ -239,7 +239,7 @@
       <section>
         <title>Gold distribution in the world</title>
         <chapter>
-          <title>Countries that produce and export more of 40,000 gold tons</title>
+          <title>Countries that produce and export more than 40,000 gold tons</title>
           <paragraph>
           <list type="unordered">
               <item>Australia</item>
@@ -262,7 +262,7 @@
           </paragraph>
         </chapter>
         <chapter>                                                       <!--[0-N]-->
-          <title>Countries that produce or import more of 40,000 gold tons</title>
+          <title>Countries that produce or import more than 40,000 gold tons</title>
           <paragraph>
           <list type="ordered">
               <item>China</item>
@@ -329,7 +329,7 @@
         </graph>
         <quote>
               <author>Peter Rosenstreich</author>
-              <text>China becomes the new star of the gold market.</text>
+              <text>China is becoming the new star of the gold market.</text>
         </quote>
         <keywords>
            <keyword name="Gold" /><keyword name="Export/import" /><keyword name="North America" />
