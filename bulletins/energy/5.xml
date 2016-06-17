@@ -393,65 +393,21 @@
       <paragraph>While not making the chart below, Ethiopia plans to have an additional 1,000 MW built by the early 2020s; the country’s Corbetti geothermal field, one of the largest in the world, is currently under development. Meanwhile Tanzania plans to build 180 MW over the next few years.</paragraph>
       <paragraph>Overall if all countries follow through on their geothermal power goals the global industry could reach 27-30 GW by the early 2030s.</paragraph>
     </chapter>
-
-    <table>
-      <row type="head">
-        <cell>Country</cell>
-        <cell>Number of projects</cell>
-      </row>
-
-      <row type="cell">
-        <cell>Mexico</cell>
-        <cell>85</cell>
-      </row>
-
-    <row type="cell">
-      <cell>United States</cell>
-      <cell>83</cell>
-    </row>
-
-  <row type="cell">
-    <cell>Indonesia</cell>
-    <cell>62</cell>
-  </row>
-
-  <row type="cell">
-    <cell>Chile</cell>
-    <cell>59</cell>
-  </row>
-
-  <row type="cell">
-    <cell>Turkey</cell>
-    <cell>59</cell>
-  </row>
-
-  <row type="cell">
-    <cell>Philippines</cell>
-    <cell>29</cell>
-  </row>
-
-  <row type="cell">
-    <cell>Kenya</cell>
-    <cell>22</cell>
-  </row>
-
-  <row type="cell">
-    <cell>Iceland</cell>
-    <cell>16</cell>
-  </row>
-
-  <row type="cell">
-    <cell>Ethiopia</cell>
-    <cell>10</cell>
-  </row>
-
-  <row type="cell">
-    <cell>New Zealand</cell>
-    <cell>5</cell>
-  </row>
-
-</table>
-
+    
+    <graph unit="number of projects" x="string" y="number">
+                  <dataset label= "Number of projects by country">
+                    <data x="Mexico" y="85"/>
+                    <data x="United States" y="83"/>
+                    <data x="Indonesia" y="62"/>
+                    <data x="Chile" y="59"/>
+                    <data x="Turkey" y="59"/>
+                    <data x="Philippines" y="29"/>
+                    <data x="Kenya" y="22"/>
+                    <data x="Iceland" y="16"/>
+                    <data x="Ethiopia" y="10"/>
+                    <data x="New Zealand" y="5"/>
+                  </dataset>
+    </graph>
     <keywords>
       <keyword name="Global Warming" />
       <keyword name="Investments" />
