@@ -1065,19 +1065,23 @@
         <paragraph>Let’s see some of the main points.</paragraph>
       </chapter>
       <chapter>
-        <paragraph>A fresh emphasis on start-ups</paragraph>
+        <title>A fresh emphasis on start-ups</title>
         <paragraph>
           <list type="unordered">
             <item>The budget wants to place special emphasis on manufacturing sector nurturing India’s ecosystem for start-ups.</item>
           </list>
           </paragraph>
-          <paragraph>Helping companies pay for pensions</paragraph>
+          </chapter>
+          <chapter>
+          <title>Helping companies pay for pensions</title>
         <paragraph>
           <list type="unordered">
             <item>₹10 billion ($150 million) will use to pay 8.33% for new employees’ basic salary towards pension and provident fund contributions.</item>
           </list>
           </paragraph>
-          <paragraph>Betting on the long-term dividends of infrastructure</paragraph>
+          </chapter>
+          <chapter>
+          <title>Betting on the long-term dividends of infrastructure</title>
           <paragraph>
           <list type="unordered">
             <item>₹2.21 trillion ($32.5 billion) is the amount that India will spend for its infrastructure.</item>
