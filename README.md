@@ -17,7 +17,7 @@ Responsive design
 
 Separation of form and contents
 
-The course has been run on [Slack] (https://en.wikipedia.org/wiki/Slack_(software)). 
+The course  was run in weekly classes, 8-hour per day, between February 22nd and June 24th, 2016. The course has been run on [Slack] (https://en.wikipedia.org/wiki/Slack_(software)) and here, on Github, during its whole duration, in order to track the progress of the work, review the output and organize the various steps of the process. 
 
 ## Groups
 The groups are seven: __Central Banking__, __Employment__, __Energy__, __EU Debt Crisis__, __Gold__, __Real Estate__, __Tech Bubble__. You can find a concise introduction to each of the topics in this text file. 
@@ -36,8 +36,11 @@ First and foremost, the credits go to the students that were part of this worksh
 * __Real Estate__: Irene Chiappini, Giulia Serafin
 * __Tech Bubble__: Elisa Bianchi, Francesca Luzi, Federico Rita
 
-The course has been led by professors __Marco Ferrari__ and __Ivor Williams__, together with __Giacomo Covacich__, __Pietro Leoni__ and __Angelo Semeraro__ as tutors.
+The course has been led by professors [__Marco Ferrari__] (https://twitter.com/mariofaranda) and [__Ivor Williams__] (https://twitter.com/ivorinfo), together with __Giacomo Covacich__, __Pietro Leoni__ and __Angelo Semeraro__ as tutors.
 
 __Angelo Semeraro__ developed the back-end and the front-end of the interactive installation, its digital interface and all the tools that helped the students to translate their bulletins into open-source, XML repositories. __Pietro Leoni__ designed and programmed the punched card reader. __Giacomo Covacich__ took care of the printing process with the Risograph machine. 
+
+Thank you to Alessandro Busi, Aaron Gillett for visiting us during the midterm reviews and to Hugo Liu for his advice during definition of the course's structure. 
+
 
 
