@@ -1,4 +1,13 @@
-<bulletin id="issue 9" date="20160507">
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins>
+  <title>WorkFlow</title>
+  <subtitle>#visualizingthecrisis</subtitle>
+  <authors>
+    <author>Daniela Bracco</author>
+    <author>Ilaria Gava</author>
+    <author>Adrea Marson</author>
+  </authors>
+  <bulletin id="issue 9" date="20160507">
   <sections>
     <section>                                                      <!--1-->
       <title>"Basic Income" Searches in Google</title>
@@ -1325,3 +1334,4 @@
     </section>
   </sections>
 </bulletin>
+</bulletins>
