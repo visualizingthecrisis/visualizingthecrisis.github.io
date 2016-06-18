@@ -26,7 +26,7 @@ The groups are seven: __Central Banking__, __Employment__, __Energy__, __EU Debt
 The course had two main outputs: a series of __10 weekly bulletins__ (spanning from March 5th, 2016 to May 14th, 2016), double-sided A3 and printed with a [Risograph] (https://en.wikipedia.org/wiki/Risograph) machine. An __interactive installation__ that allows for the exploration of the complete archive of information collected within the four months of work, and browsable through a series of 64 keywords. On June 24th, on the occasione of the student's final show at IUAV, Venice, this installation was presented through a physical interface made of punched cards (for the selectin of the keyowrds), a punched card reader and a thermal printer for the output of the resulting report. A similar interface, but digital, producing similar reports can be found here. The machine wroks with a series of XML files that collect all the ifnormation contained in the printed bulletins.
 
 ## Credits
-First and foremost, the credit goes to the students that were part of this workshop, and that painstackingly worked for the whole span of the course researching their field of interest, refining their visual languages and then switching to code for the translation of all the contents into the XML machine. Here is the list of them, organized by group: 
+First and foremost, the credit goes to the students. Their painstacking research and design committment allowed them to gain expertise in reading the complex world of finance; to craft a refined visual language for the representation of both mathematical, statistical and news information, and link it to its social and political context; finally, to move from a static output to an open-source archive for the manipulation of this same content into an endless number of potential different projects. Here is the list of them, organized by group: 
 
 * __Central Banking__: Giulia Fracas, Francesca Polini
 * __Employment__: Daniela Bracco, Ilaria Gava, Andrea Marson
@@ -43,4 +43,7 @@ __Angelo Semeraro__ developed the back-end and the front-end of the interactive 
 Thank you to Alessandro Busi, Aaron Gillett for visiting during the midterm reviews; Hugo Liu for his advice during definition of the course's structure. 
 
 The typefaces used in the bulletins have been kindly provided by [CAST — Cooperativa Anonima Servizi Tipografici] (http://www.c-a-s-t.com), an all-Italian digital type foundry. 
+
+##Disclaimer
+All the information presented here has been researched, organized and edited by the people involved in thsi project. The sources are indicated in the printed A3 bulleitns, as well as in the XML archives. The texts may contain errors, and some news may have been misinterpreted by mistake. 
 
