@@ -9,7 +9,7 @@
   </authors>
   <bulletin id="issue 3" date="20160319">
   <sections>
-    <section>                                                    <!--1-->
+    <section>                                                     <!--1-->
       <title>UK Unemployment Rate</title>
       <graph unit="%" x="date" y="number">
         <dataset label="">
