@@ -1048,11 +1048,11 @@
     <section>                                                      <!--15-->
       <title>Holidays are Better than Pensions</title>
         <abstract>
-          A survey from Eventbrite found that 78% of Millennials (aged 20-35) would prefer to spend their money on an "experience" - such as a holiday - over something tangible that they could own.
+          A survey from Eventbrite found that 78% of Millennials (aged 20-35) would prefer to spend their money on an 'experience' - such as a holiday - over something tangible that they could own.
         </abstract>
       <graph unit="%" x="string" y="percentage">
         <dataset label="">
-          <data x="Millennials who prefer to spend their money on an "experience"" y="78" />
+          <data x="Millennials who prefer to spend their money on an 'experience'" y="78" />
           <data x="Millennials who don't" y="22" />
         </dataset>
       </graph>
