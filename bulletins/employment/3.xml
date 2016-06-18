@@ -1,4 +1,13 @@
-<bulletin id="issue 3" date="20160319">
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins>
+  <title>WorkFlow</title>
+  <subtitle>#visualizingthecrisis</subtitle>
+  <authors>
+    <author>Daniela Bracco</author>
+    <author>Ilaria Gava</author>
+    <author>Adrea Marson</author>
+  </authors>
+  <bulletin id="issue 3" date="20160319">
   <sections>
     <section>                                                    <!--1-->
       <title>UK Unemployment Rate</title>
@@ -482,13 +491,13 @@
           <data x="Rest of the hosts" y="60"/>
         </dataset>
       </graph>
-      <graph unit="" x="string" y="number">
+      <graph unit="" x="date" y="number">
         <title>The Impact of Airbnb on Hotel and Hospitality Industry</title>
         <abstract>
           From September 2014 to August 2015, 480,000 hotel rooms have been reserved, while 2.8 million rooms have been booked on Airbnb. In 2018 it's estimated that the number of room nights booked on Airbnb will arrive to 5 million.
         </abstract>
         <dataset label="Hotel room nights reserved (2015)">
-          <data x="Sep 2014 - Aug 2015" y="480000" />
+          <data x="2015" y="480000" />
         </dataset>
         <dataset label="Room nights booked on Airbnb (2015-2018)">
           <data x="2015" y="2.8m" />
@@ -578,3 +587,4 @@
     </section>
   </sections>
 </bulletin>
+</bulletins>
