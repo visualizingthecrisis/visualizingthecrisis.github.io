@@ -1,4 +1,13 @@
-<bulletin id="issue 4" date="20160326">
+<?xml version="1.0" encoding="UTF-8"?>
+<bulletins>
+  <title>WorkFlow</title>
+  <subtitle>#visualizingthecrisis</subtitle>
+  <authors>
+    <author>Daniela Bracco</author>
+    <author>Ilaria Gava</author>
+    <author>Adrea Marson</author>
+  </authors>
+  <bulletin id="issue 4" date="20160326">
   <sections>
     <section>                                                          <!--1-->
       <title>India and China GDP Growth</title>
@@ -1055,32 +1064,28 @@
         <paragraph>At the beginning of this month, Prime Minister Narendra Modi’s government released its budget for 2016-17. Budget Day in India is met with intense scrutiny and heightened chatter among the pundits and political class in New Delhi.</paragraph>
         <paragraph>Let’s see some of the main points.</paragraph>
       </chapter>
-      <table>
-        <row type="head">
-          <cell>Points</cell>
-          <cell>Process 1</cell>
-          <cell>Process 2</cell>
-          <cell>Process 3</cell>
-        </row>
-        <row type="cell">
-          <cell>A fresh emphasis on start-ups</cell>
-          <cell>The budget wants to place special emphasis on manufacturing sector nurturing India’s ecosystem for start-ups.</cell>
-          <cell>-</cell>
-          <cell>-</cell>
-         </row>
-         <row type="cell">
-           <cell>Helping companies pay for pensions</cell>
-           <cell>₹10 billion ($150 million) will use to pay 8.33% for new employees’ basic salary towards pension and provident fund contributions.</cell>
-           <cell>-</cell>
-           <cell>-</cell>
-          </row>
-          <row type="cell">
-            <cell>Betting on the long-term dividends of infrastructure</cell>
-            <cell>₹2.21 trillion ($32.5 billion) is the amount that India will spend for its infrastructure.</cell>
-            <cell>₹0,40 trillon ($6 billion) is the initial corpus for launching the National Infrastructure Investment Fund (NIFF)</cell>
-            <cell>10,000 km are the roads that will be built, beside the upgrading of state highways.</cell>
-           </row>
-      </table>
+      <chapter>
+        <paragraph>A fresh emphasis on start-ups</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>The budget wants to place special emphasis on manufacturing sector nurturing India’s ecosystem for start-ups.</item>
+          </list>
+          </paragraph>
+          <paragraph>Helping companies pay for pensions</paragraph>
+        <paragraph>
+          <list type="unordered">
+            <item>₹10 billion ($150 million) will use to pay 8.33% for new employees’ basic salary towards pension and provident fund contributions.</item>
+          </list>
+          </paragraph>
+          <paragraph>Betting on the long-term dividends of infrastructure</paragraph>
+          <paragraph>
+          <list type="unordered">
+            <item>₹2.21 trillion ($32.5 billion) is the amount that India will spend for its infrastructure.</item>
+            <item>₹0,40 trillon ($6 billion) is the initial corpus for launching the National Infrastructure Investment Fund (NIFF).</item>
+            <item>10,000 km are the roads that will be built, beside the upgrading of state highways.</item>
+          </list>
+          </paragraph>
+      </chapter>
       <keywords>
         <keyword name="Southern Asia" />
         <keyword name="GDP" />
@@ -1153,3 +1158,4 @@
     </section>
   </sections>
 </bulletin>
+</bulletins>
