@@ -9,7 +9,7 @@ The lab was established as an ongoing, real-time data-visualisation attempt to t
 
 The students have been divided into __seven groups__, each of them each of them covering a specific and relevant topic, and listed below. They were asked to follow the news and get an insight view over their respective areas, in order to investigate patterns, organize data and stories and being able to track the shifts in this financial global landscape.
 
-You can find [here] a longer introduction to the issues and methodology of the workshop.
+A longer introduction to the issues and methodology of the course can be found [here] (../blob/master/texts/160618_VisualizingtheCrisis_Intro_OK.docx). 
 
 ## Methodology and Organization
 Data visualization
