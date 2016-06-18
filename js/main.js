@@ -44,8 +44,8 @@ function processXML(d,filters,m){
   }
 
   for (var s = 0; s < sections.length; ++s) {
-    console.log($(sections[s]).attr('authors'));
-      console.log($(sections[s]).attr('order'));
+    console.log("SECTION > "+(s+1));
+  //    console.log($(sections[s]).attr('order'));
     if(m)
       if(s>=m)
         break;
@@ -118,7 +118,7 @@ function processXML(d,filters,m){
   $("#bulletin-container").append($section_div);
   var $section_div=$(
     "<div class='section'>"
-  +"<p style='text-align:center;'>All data available at</p>"
+  +"<p style='text-align:center;'>All of the data available at</p>"
   +"<p style='text-align:center;font-family: SF-UI-Heavy, monaco, Consolas, Lucida Console, monospace;''>visualizingthecrisis.github.io</p>"
   +"</div>");
   $("#bulletin-container").append($section_div);
@@ -139,7 +139,7 @@ function tableToHTML($element, $parent){
     for (var c = 0; c < cells.length; ++c) {
       if(isHead)html+="<th>";
       else html+="<td>";
-      html+=$(cells[c]).text();
+      html+=toCapitalLetter($(cells[c]).text());
       if(isHead)html+="</th>";
       else html+="</td>";
     }
@@ -166,9 +166,9 @@ function chapterToHTML($element, $parent){
       if($element.is('list')){
         var isOrdered=$element.attr('type')=='ordered';
         if(isOrdered)
-        html+="<ol type='1'>";
+          html+="<ol type='1'>";
         else
-        html+="<ul style='list-style-type:square'>"
+          html+="<ul style='list-style-type:square'>"
         var lis= $($element.find('item'));
         for (var li = 0; li < lis.length; ++li) {
           html+="<li>"+$(lis[li]).text()+"</li>";
@@ -223,13 +223,14 @@ function addAuthors($section){
 
 
 function graphToHTML($element, $parent){
+  $parent.append("<div style='width:100%;height:24px;'></div>");
   var titles=$element.find('title');
   if(titles.length>0)$parent.append("<span class='section-graph-title'>"+$element.find('title').first().text()+"</span>");
-  var subtitles=$element.find('subtitle');
+    var subtitles=$element.find('subtitle');
   if(subtitles.length>0)$parent.append("<span class='section-graph-subtitle'>"+$element.find('subtitle').first().text()+"</span>");
-  var abstracts=$element.find('abstract');
+    var abstracts=$element.find('abstract');
   if(abstracts.length>0)$parent.append("<span class='section-graph-abstract'>"+$element.find('abstract').first().text()+"</span>");
-  var datasets=$element.find('dataset');
+    var datasets=$element.find('dataset');
   var xData=[],yData=[],unit=$element.attr('unit');
   var $legends=$("<div class='graph-legends'></div>");
   for (var i = 0; i < datasets.length; ++i) {
@@ -311,7 +312,7 @@ function dateToNumberGraph($element, $parent,$legends, xData, yData,unit){
       for(var i=0;i<xData.length;i++){
         graph_number++;
         var label=yData[i][0];
-        if(label.length>0){
+        if(label)if(label.length>0){
           $parent.append("<span class='section-graph-subtitle'>"+label+"</span>");
         }
         $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
@@ -365,7 +366,7 @@ function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
         var settings=getDefaultGraphSettings();
         graph_number++;
         var label=yData[i][0];
-        if(label.length>0){
+        if(label)if(label.length>0){
           $parent.append("<span class='section-graph-subtitle'>"+label+"</span>");
         }
         $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
@@ -516,6 +517,7 @@ function xArrayCheck(xData){
 }
 
 function getDateFormat(s){
+  console.log(s+" length:"+s.length);
   var format=['%Y','%Y'];
   if (s.length>4) {
     if (s.length<7) {
@@ -603,5 +605,9 @@ function replaceAll(str, search, replacement) {
   return str.split(search).join(replacement);
 }
 function toCapitalLetter(s){
-  return s.charAt(0).toUpperCase() + s.slice(1);
+  if(s)
+    if(s.length>0)
+      return s.charAt(0).toUpperCase() + s.slice(1);
+
+  return "";
 }

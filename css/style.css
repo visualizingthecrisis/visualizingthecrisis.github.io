@@ -120,15 +120,15 @@ p, ul{
 }
 
 .section-treemap{
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .section-graph{
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .section-graph-title{
-  margin-top: 40px;
+  margin-top: 20px;
 }
 .section-graph-subtitle{
   margin-top: 20px;
@@ -460,5 +460,5 @@ th{
 }
 
 .area-element{
-  
+
 }

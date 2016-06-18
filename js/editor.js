@@ -43,6 +43,7 @@ function updateEditor(){
           alert('Error loading XML document');
       },
       success: function(xml){
+        console.log(path);
         editor.setValue(xml);
         update();
 
@@ -51,6 +52,7 @@ function updateEditor(){
 
 }
 function update(){
+
   xmlDoc = $.parseXML( editor.getValue() );
   var sections=$(xmlDoc).find('section');
   for(var s=0;s<sections.length;s++){
