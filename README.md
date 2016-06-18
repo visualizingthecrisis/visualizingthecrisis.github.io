@@ -1,25 +1,31 @@
 Visualizing the Crisis
 ======================
 
-This repository contains the results and the complete documentation of the MA Information Design Laboratory held at [Università IUAV di Venezia] (http://www.iuav.it), between February and June 2016. The course was a 15-week-long design workshop within the department of Design and Planning in Complex Environments, and was attended by both first- and second-year students of the MA Comunication Design, during the academic year 2015-2016.
+##### An Information Design Workshop to track the unfolding global financial crisis.
 
-The course was established as an ongoing, real-time data-visualisation workshop with the intention to track and explain the forecast global financial crisis that was supposed to happen in 2016. The purpose of the work was to provide context to this evolving crisis, looking at the broader socio-political context within the financial landscape take shape, with the intention to find a richer visual languagefort e explanation of these apparently abstract phenomena. The students were divided into seven groups (corresponding to various and relevant topics) and were asked to track the evolving news form the perspective of their area. The groups are outlined below. You can find [here] a longer introduction to the issues and methodology of the workshop.
+This repository collects the results and the complete documentation of the __MA Information Design Laboratory__ that took place at [Università IUAV di Venezia] (http://www.iuav.it) between February and June 2016. The course was planned as a 15-week design workshop within the department of Design and Planning in Complex Environments, and was attended by both first- and second-year students of the MA Communication Design, during the academic year 2015-2016.
 
-#### Groups
-The groups are seven: __Central Banking__, __Employment__, __Energy__, __EU Debt Crisis__, __Gold__, __Real Estate__, __Tech Bubble__. You can find a concise introduction to each of the topics in this text file. 
+The lab was established as an ongoing, real-time data-visualisation attempt to track and explain the new global financial crisis that many analists predicted for 2016. The aim of the workshop has been to better understand the implications and provide context to this looming crisis, by looking at the broader socio-political context in which every financial turmoil unfolds. From a design perspective, the intention was to develop new ways for the representation of the economical data, in order to render the rather flat language of graphs and report into a richer visual landscape of different elements.
 
-#### Outputs
-The course had two main outputs: a series of __10 weekly bulletins__ (spanning from March 5th, 2016 to May 14th, 2016), double-sided A3 and printed with a [Risograph] (https://en.wikipedia.org/wiki/Risograph) machine. An __interactive installation__ that allows for the exploration of the complete archive of information collected within the four months of work, and browsable through a series of 64 keywords. On June 24th, on the occasione of the student's final show at IUAV, Venice, this installation was presented through a physical interface made of punched cards (for the selectin of the keyowrds), a punched card reader and a thermal printer for the output of the resulting report. A similar interface, but digital, producing similar reports can be found here. The machine wroks with a series of XML files that collect all the ifnormation contained in the printed bulletins.
+The students have been divided into __seven groups__, each of them each of them covering a specific and relevant topic, and listed below. They were asked to follow the news and get an insight view over their respective areas, in order to investigate patterns, organize data and stories and being able to track the shifts in this financial global landscape.
 
-#### Methodology and Organization
+You can find [here] a longer introduction to the issues and methodology of the workshop.
+
+## Methodology and Organization
 Data visualization
 Responsive design
+
 Separation of form and contents
 
 The course has been run on [Slack] (https://en.wikipedia.org/wiki/Slack_(software)). 
 
+## Groups
+The groups are seven: __Central Banking__, __Employment__, __Energy__, __EU Debt Crisis__, __Gold__, __Real Estate__, __Tech Bubble__. You can find a concise introduction to each of the topics in this text file. 
 
-#### Credits
+## Outputs
+The course had two main outputs: a series of __10 weekly bulletins__ (spanning from March 5th, 2016 to May 14th, 2016), double-sided A3 and printed with a [Risograph] (https://en.wikipedia.org/wiki/Risograph) machine. An __interactive installation__ that allows for the exploration of the complete archive of information collected within the four months of work, and browsable through a series of 64 keywords. On June 24th, on the occasione of the student's final show at IUAV, Venice, this installation was presented through a physical interface made of punched cards (for the selectin of the keyowrds), a punched card reader and a thermal printer for the output of the resulting report. A similar interface, but digital, producing similar reports can be found here. The machine wroks with a series of XML files that collect all the ifnormation contained in the printed bulletins.
+
+## Credits
 First and foremost, the credits go to the students that were part of this workshop, and that painstackingly worked for the whole span of the course researching their field of interest, refining their visual languages and then switching to code for the translation of all the contents into the XML machine. Here is the list of them, organized by group: 
 
 * __Central Banking__: Giulia Fracas, Francesca Polini
