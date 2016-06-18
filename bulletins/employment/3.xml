@@ -496,9 +496,6 @@
         <abstract>
           From September 2014 to August 2015, 480,000 hotel rooms have been reserved, while 2.8 million rooms have been booked on Airbnb. In 2018 it's estimated that the number of room nights booked on Airbnb will arrive to 5 million.
         </abstract>
-        <dataset label="Hotel room nights reserved (2015)">
-          <data x="2015" y="480000" />
-        </dataset>
         <dataset label="Room nights booked on Airbnb (2015-2018)">
           <data x="2015" y="2.8m" />
           <data x="2018" y="5m" />
