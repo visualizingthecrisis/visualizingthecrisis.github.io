@@ -110,6 +110,9 @@ function processFilters(filters){
         //  console.log($all.html());
 
         $("#bulletin-container").children().remove();
+        $("#bulletin-header").children().remove();
+        $("#bulletin-footer").children().remove();
+
         processXML($all,filters,15);
         $(".loader-container").fadeOut();
       }

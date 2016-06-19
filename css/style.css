@@ -18,6 +18,7 @@ body{
   font-style:
   overflow: hidden;
   font-family: 'SF-UI',monaco, Consolas, 'Lucida Console', monospace;
+  width: 512px;
 }
 
 .c3 svg{
@@ -28,7 +29,7 @@ body{
 #bulletin-container{
   z-index: 0;
   background-color: white;
-  padding-top: 77px;
+//  padding-top: 77px;
   padding-bottom: 70px;
   width:512px;
   margin-left:0px;
@@ -87,7 +88,7 @@ p, ul{
 .section{
   padding-top:40px;
   padding-bottom: 40px;
-      width: 100%;
+  min-width: 512px;
 }
 
 .section-quote{
@@ -96,6 +97,13 @@ p, ul{
   margin-bottom: 20px;
 }
 
+.footer-section{
+    padding-top:40px;
+    padding-bottom: 40px;
+    min-width: 512px;
+    border-top: 3px solid black;
+
+}
 .quote-author{
   margin-top: 20px;
 }
@@ -164,7 +172,17 @@ table{
 .section{
   border-top: 3px solid black;
   font-size: 22px;
+  width: 512px;
+  float: left;
 }
+* {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+      }
+
+
+
 
 .section-sources{
   display: block;
@@ -461,4 +479,10 @@ th{
 
 .area-element{
 
+}
+
+#bulletin-header{
+  padding-top: 77px;
+  width:512px;
+  display: inline-block;
 }

@@ -14,7 +14,7 @@
     <script type="text/javascript" src="js/d3plus.js"></script>
     <script src="js/c3.js"></script>
     <script src="js/main.js" charset="utf-8"></script>
-    <script src="js/jquery.simplemasonry.js" charset="utf-8"></script>
+    <script src="js/masonry.pkgd.min.js" charset="utf-8"></script>
     <script src="js/index.js" charset="utf-8"></script>
 
     <style type="text/css">
@@ -22,14 +22,20 @@
       zoom:1;
     }
     div{
-      display:inline-block;
+    //  display:inline-block;
     }
     </style>
   </head>
   <body>
-
-    <div id="bulletin-container">
+  </div>
+    <div id="bulletin-search" style="overflow: auto;height:100%;position:fixed;top:0px;left:0px;display:none;">
     </div>
+    <button id="clear" style="position:fixed;" type="button" onclick="filter();">FILTER</button>
+
+
+    <div id='bulletin-header' ></div><!--style='background-color:white;position:fixed;z-index:1000;width:100%;left:0px;'-->
+    <div id="bulletin-container"></div>
+    <div id='bulletin-footer' style='width:100%;background-color:white;'></div>
       <svg height="8" width="8" xmlns="http://www.w3.org/2000/svg" version="1.1">
       <defs>
 

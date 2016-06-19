@@ -1,12 +1,153 @@
-
+#bulletin-header{
+  width:100% !important;
+}
 #bulletin-container{
-  padding-left: 10%;
-  padding-right: 10%;
-  width: 80%;
+  width: auto;
+  margin: 0 auto !important;
+}
+.section{
+  display:inline-block !important;
 }
 
+.footer-section{
+
+    font-size: 18px;
+}
+
+.section-title{
+  font-size: 25px;
+}
+
+.quote-author{
+  font-size:18px;
+}
+
+.quote-text{
+  line-height: 1.1;
+  font-size:30px;
+}
+
+.block-div{
+  display:inline!important;
+}
+
+.main-title{
+//  text-align: left;
+ font-size: 40px;
+//  margin-bottom: 10px;
+
+margin:0px;
+margin-bottom:10px;
+
+}
+.main-subtitle{
+  font-size: 12px!important;
+//      text-align: left;
+//      display: none;
+padding:10px;
+
+  margin:0px;
+}
+#bulletin-header{
+  margin-top:10px;
+  padding-top:0px;
+  //position:fixed;
+  //left:0px;
+  //top:0px;
+}
+.main-report{
+  margin:0px;
+  display:none;
+    font-size: 15px;
+//      text-align: left;
+//      display: none;
+padding:0px;
+}
+.main-subtitle{
+    font-size: 15px;
+//      text-align: left;
+}
+.main-info{
+  margin-top:10px;
+    font-size: 15px;
+//      text-align: left;
+}
 .section{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+
+  //border-right: 3px solid lightGrey;
+  font-size: 15px;
   //display: table-cell !important;
-  min-width: 512px;
-  margin: 10px;
+  width: 100%;
+//  border: 1px solid black;
+//  margin: 10px;
+
+}
+.main-info{
+
+}
+body{
+  width:100%;
+  padding-left:10%;
+  padding-right:10%;
+
+}
+body {
+    background-color: white;
+}
+@media screen and (min-width: 1340px) {
+    /*body {
+        background-color: lightgreen;
+    }*/
+    .section{
+      width: 45% !important;
+    }
+}
+@media screen and (min-width: 1600px) {
+    /*body {
+        background-color: lightgreen;
+    }*/
+    .section{
+      width: 45% !important;
+    }
+}
+
+
+
+#bulletin-search{
+  background: white;
+  padding-left:20px;
+  z-index: 100;
+  width: 100%;
+  padding-top:30px;
+font-size:15px;
+  border-left: 2px solid black;
+  background-color: white;
+  overflow: auto;
+}
+h3{
+    margin-top:0px;
+      margin-bottom:5px;
+      font-size: 15px;
+      text-transform: uppercase;
+      font-family:  'SF-UI-Heavy', monaco, Consolas, 'Lucida Console', monospace;
+
+}
+.area{
+  display: block;
+  margin-top:10px;
+  overflow: auto;
+  margin-right:20px;
+  font-size: 15px;
+}
+.area-element{
+//  float:right;
+//  display: inline;
+
+padding-right: 30px;
+padding-bottom: 10px;
+display: inline-table;
 }

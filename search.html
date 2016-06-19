@@ -26,13 +26,15 @@
     </style>
   </head>
   <body>
-    <div style="overflow:hidden;position:fixed;overflow:scroll; height:100%;width:512px;margin-left:20px;">
-      <div id="bulletin-container">
-    </div></div>
-    </div><div id="bulletin-search">
-<button id="clear" type="button" onclick="filter();">FILTER</button>
+    <div id="bulletin-search" style="overflow: auto;">
+      <button id="clear" style="position:fixed;" type="button" onclick="filter();">FILTER</button>
     </div>
+    <div style="overflow: auto;position:absolute;top:0px;padding-left:20px;width:512px;height:100%;">
 
+    <div id='bulletin-header' style='background-color:white;'></div>
+    <div id="bulletin-container"></div>
+    <div id='bulletin-footer' style='width:100%;background-color:white;'></div>
+  </div>
   <!--    <button id="filter" type="button" onclick="clear();">CLEAR</button>-->
 
 

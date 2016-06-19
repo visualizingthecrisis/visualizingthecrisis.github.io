@@ -30,7 +30,7 @@ function processXML(d,filters,m){
       $(sections[s]).attr('order',count);
     }
   }
-  $("#bulletin-container").append("<div class='main-title'>Visualizing</br>the Crisis</div><div class='main-report'>REPORT N.23</div><div class='main-subtitle'>TRACKING THE UNFOLDING<br/>GLOBAL FINANCIAL CRISIS</div>"+
+  $("#bulletin-header").append("<div class='main-title'><div class='block-div' style='display:block'>Visualizing </div>the Crisis</div><div class='main-report'>REPORT N.23</div><div class='main-subtitle'><div class='block-div' style='display:block'>TRACKING THE UNFOLDING </div>GLOBAL FINANCIAL CRISIS</div>"+
   "<div class='main-info'>This information was gathered between February and June 2016 during the MA Information Design lab at IUAV, Venice. Below are the most relevant results relating to <span style='display:inline;font-family: SF-UI-Heavy, Helvetica;'>"+filtersUnwrap+".</span>​</div>");
 
   if(filters){
@@ -100,12 +100,12 @@ function processXML(d,filters,m){
     authorsL+=authors_array[i];
   //  authorsL+="+";
   }
+  var format = d3.time.format("%d/%m/%Y, %H:%M:%S");
 
-  var $section_div=$(
-    "<div class='section'>"
+  $("#bulletin-footer").append(
+    "<div class='footer-section'>"
         +"<span class='chapter-title'>Sources</span>"
         +"<p>"+sourcesL+"</p>"
-
       +"<div class='section-chapter'>"
         +"<span class='chapter-title'>Authors</span>"
         +"<p>"+authorsL+"</p>"
@@ -115,15 +115,18 @@ function processXML(d,filters,m){
         +"<p>This report is the final output of the MA Information Design lab led by Marco Ferrari and Ivor Williams, together with Giacomo Covacich, Pietro Leoni and Angelo Semeraro at IUAV, Venice, between February and June 2016.</p>"
       +"</div>"
   +"</div>");
-  $("#bulletin-container").append($section_div);
+
   var $section_div=$(
-    "<div class='section'>"
-  +"<p style='text-align:center;'>All of the data available at</p>"
-  +"<p style='text-align:center;font-family: SF-UI-Heavy, monaco, Consolas, Lucida Console, monospace;''>visualizingthecrisis.github.io</p>"
-  +"</div>");
-  $("#bulletin-container").append($section_div);
-  var format = d3.time.format("%d/%m/%Y, %H:%M:%S");
-  $("#bulletin-container").append("<div class='section'><p style='text-align:center;'> Printed on "+format(new Date())+"</p></div>");
+    "<div class='footer-section' style='width:100% !important;'>"
+      +"<p style='text-align:center;'>All of the data available at</p>"
+      +"<p style='text-align:center;font-family: SF-UI-Heavy, monaco, Consolas, Lucida Console, monospace;''>visualizingthecrisis.github.io</p>"
+    +"</div>"
+    +"<div class='footer-section' style='width:100% !important;'>"
+    +"<p style='text-align:center;'> Printed on "+format(new Date())+"</p>"
+    +"</div>");
+
+  $("#bulletin-footer").append($section_div);
+
 
 
 }
@@ -247,21 +250,21 @@ function graphToHTML($element, $parent){
     yData.push(arrayY);
   }
 
-  if ($element.attr('y')=='number') {
-    if ($element.attr('x')=='date') {
+  if ($element.attr('y').indexOf('number')>=0) {
+    if ($element.attr('x').indexOf('date')>=0) {
       dateToNumberGraph($element, $parent, $legends, xData, yData, unit);
     }
     else{
       stringToNumberGraph($element, $parent, $legends, xData, yData,unit);
     }
   }
-  else if ($element.attr('y')=='percentage') {
-    if ($element.attr('x')=='date')
+  else if ($element.attr('y').indexOf('percentage')>=0) {
+    if ($element.attr('x').indexOf('date')>=0)
       dateToNumberGraph($element, $parent,$legends, xData, yData,unit);
     else
       stringToPercentageGraph($element, $parent,$legends, xData, yData,unit);
   }
-  else if ($element.attr('y')=='string') {
+  else if ($element.attr('y').indexOf('string')>=0) {
     stringToStringGraph($element, $parent,$legends, xData, yData,unit);
   }
   $('#graph'+graph_number).append($legends);
