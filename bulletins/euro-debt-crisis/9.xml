@@ -516,7 +516,7 @@
             <data x="unemployed" y="50"/>
           </dataset>
         </graph>
-        <graph unit="%" x="country" y="percentage">
+        <graph unit="%" x="country" y="number">
           <title>Situation on unemployment in Spain and France</title>
           <dataset label="Export to Bricks">
             <data x="ES" y="21"/>
