@@ -25,7 +25,7 @@
 
         <graph unit="$" x="number" y="date">
             <title>Chinese market (Shangai)</title>
-            <abstract>Investment on coal, oil and nuclear.</abstract>
+            <abstract>Investments on coal, oil and nuclear.</abstract>
             <dataset label= "Chinese coal stock market: 600188 CH">
               <data x="0.00" y="20160703"/>
               <data x="5.00" y="20160803"/>
