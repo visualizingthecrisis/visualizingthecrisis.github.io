@@ -403,7 +403,7 @@
             <abstract>Germany for the first time got blackberries electricity from renewables than any other source of energy.</abstract>
             <dataset label= "Production capacity in Germany.">
               <data x="2015" y="27.7" />
-              <data x="2035" y="60" />
+              <data x="2035" y="60.0" />
             </dataset>
           </graph>
           <keywords>
