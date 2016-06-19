@@ -373,7 +373,7 @@
         </graph>
 
         <graph unit="Gw" x="string" y="number">
-          <title>Target of generation 100Gw of solar power by 2022</title>
+          <title>Target of generation 100 Gw of solar power by 2022</title>
           <abstract>The government has set an ambitious target of generating 100 GW of solar power by 2021-22 under the National Solar Mission.</abstract>
           <dataset label= "Prevision by 2022">
             <data x="ground mounted grid-connected solar power" y="60" />
