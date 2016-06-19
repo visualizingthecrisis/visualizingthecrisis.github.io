@@ -301,7 +301,7 @@
           at ever lower rates. If the ECB expands its bond buying, the Swiss problem will aggravate and the country will most likely enter recession.
         </paragraph>
       </chapter>
-      <graph unit="%" x="​string" y="number">
+      <graph unit="%" x="string" y="number">
         <title>Financial data comparation - Switzerland</title>
         <dataset label="Swiss values">
           <data x="GDP growth rate" y="0.4"/>
@@ -312,7 +312,7 @@
           <data x="2015 market index ate" y="-10"/>
         </dataset>
       </graph>
-      <graph unit="%" x="​string" y="number">
+      <graph unit="%" x="string" y="number">
         <title>Financial data comparation - Eurozone</title>
         <dataset label="EU values">
           <data x="GDP rowth rate" y="0.3"/>
