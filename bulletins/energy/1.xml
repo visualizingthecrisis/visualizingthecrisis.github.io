@@ -326,7 +326,7 @@
 
     <graph unit="$B" x="date" y="number">
       <title>Wind energy</title>
-      <abstract>Despite the last year wind energy is increased.</abstract>
+      <abstract>Last year wind energy is increased.</abstract>
       <dataset label= "Investments">
         <data x="2014" y="10.6" />
         <data x="2015" y="26.4" />
