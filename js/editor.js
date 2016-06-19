@@ -60,6 +60,8 @@ function update(){
     $(sections[s]).append(authors);
   }
   $("#bulletin-container").children().remove();
+  $("#bulletin-header").children().remove();
+  $("#bulletin-footer").children().remove();
   processXML(xmlDoc);
   $(".loader-container").fadeOut("fastest");
 }

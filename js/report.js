@@ -6,7 +6,9 @@ $(document).ready(function(){
       var authors=$(sections[s]).parent().parent().parent().find('authors').first().clone();
       $(sections[s]).append(authors);
     }
-
+    $("#bulletin-container").children().remove();
+    $("#bulletin-header").children().remove();
+    $("#bulletin-footer").children().remove();
       processXML(xmlDoc);
       //$('.section').simplemasonry();
   });
