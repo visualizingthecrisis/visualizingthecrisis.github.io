@@ -86,7 +86,7 @@
       </chapter>
       <graph unit="%" x="number" y="percentage">
         <title>Chemical risks</title>
-        <abstract>The paper compiled a list of 632 chemicals  identified from drilling operations throughout the U.S.</abstract>
+        <abstract>The paper compiled a list of 632 chemicals identified from drilling operations throughout the U.S.</abstract>
         <dataset label= "Sensory organs, the respiratory and gastrointestinal systems">
           <data x="475" y="75" />
         </dataset>
