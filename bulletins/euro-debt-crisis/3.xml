@@ -93,7 +93,7 @@
           assets: measures that, while economically sensible, are deeply unpopular.
         </paragraph>
       </chapter>
-      <graph unit="%" x="​string" y="number">
+      <graph unit="%" x="string" y="number">
         <title>Bank deposit Jan 2010, Gen2016</title>
         <dataset label="Unemployed percentage">
           <data x="Aged 25-99" y="25"/>
@@ -125,7 +125,7 @@
           fiscal contraction, with a moderate recovery taking hold from 2016.
         </paragraph>
       </chapter>
-      <graph unit="%" x="​date" y="number">
+      <graph unit="%" x="date" y="number">
         <title>Greece’s GDP forecast</title>
         <dataset label="GDP value">
           <data x="20150131" y="2.0"/>
@@ -229,14 +229,14 @@
           increasing delivery risks.
         </paragraph>
       </chapter>
-      <graph unit="USD" x="​string" y="number">
+      <graph unit="USD" x="string" y="number">
         <title>Greece’s GDP forecast</title>
         <dataset label="Value">
           <data x="Total Greece GDP 2015" y="236,000,000"/>
           <data x="Cost of migrant crisis" y="670,000,000"/>
         </dataset>
       </graph>
-      <graph unit="" x="​date" y="number">
+      <graph unit="" x="date" y="number">
           <title>Immigrants in Greece</title>
           <dataset label="Number of immigrants">
             <data x="20150831" y="20000"/>

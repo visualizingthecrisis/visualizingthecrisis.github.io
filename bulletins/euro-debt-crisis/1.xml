@@ -105,7 +105,7 @@
 
   <section>
     <title>A little overview on italian's debt</title>
-    <graph unit="EUR" x="​string" y="number">
+    <graph unit="EUR" x="string" y="number">
       <title>Debt/banking situation in Italy</title>
       <abstract>Total amount of italian debt is 2,169 billions €</abstract>
       <dataset label="Italian debt quota">
@@ -319,7 +319,7 @@
   <data x="leave" y="53"/>
  </dataset>
 </graph>
-<graph unit="%" x="​string" y="percentage">
+<graph unit="%" x="string" y="percentage">
 <title>29 Feb 2016</title>
 <abstract>How much of a risk to the UK do you think leaving the EU would pose?</abstract>
 <dataset label="Risk percentage">
