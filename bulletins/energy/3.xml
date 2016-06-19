@@ -91,7 +91,7 @@
 
       <graph unit="$" x="number" y="date">
         <title>American market</title>
-        <abstract>Investment on coal and crude oil.</abstract>
+        <abstract>Investments on coal and crude oil.</abstract>
         <dataset label= "American coal stock market: ACIIQ US">
           <data x="-10.00" y="20160703"/>
           <data x="-17.55" y="20160803"/>
