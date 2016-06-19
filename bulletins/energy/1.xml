@@ -137,7 +137,7 @@
    </chapter>
    <graph unit="$B" x="date" y="number">
      <title>Three lines of action to implement the budget adjustment</title>
-     <abstract>Generate efficiencies and reduce costs and increase productivuty of operations and promote a rational use  of resources.</abstract>
+     <abstract>Generate efficiencies and reduce costs and increase productivuty of operations and promote a rational use of resources.</abstract>
      <dataset label= "Total Proposal adjustment">
        <data x="2016" y="100" />
      </dataset>
