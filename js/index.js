@@ -31,7 +31,7 @@ $(window).load(function(){
           $ar.append($area_element);
 
           var $keyword=$(keywords[k]);
-          $area_element.append("<input type='radio' name='"+$keyword.text()+"' value='"+$keyword.text()+"'>"+$keyword.text()+"<br>");
+          $area_element.append("<input type='checkbox' name='"+$keyword.text()+"' value='"+$keyword.text()+"'>"+$keyword.text()+"<br>");
         }
       }
       var container = document.querySelector('#bulletin-container');
