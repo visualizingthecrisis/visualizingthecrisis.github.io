@@ -57,7 +57,7 @@
 
       <graph unit="$" x="number" y="date">
         <title>Japanese market (Tokio)</title>
-        <abstract>Investment on coal, oil and gas.</abstract>
+        <abstract>Investments on coal, oil and gas.</abstract>
         <dataset label= "Japanese energy stock market: 1945 JP">
           <data x="0.00" y="20160703"/>
           <data x="0.00" y="20160803"/>
