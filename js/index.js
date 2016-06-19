@@ -36,7 +36,6 @@ $(window).load(function(){
       }
       var container = document.querySelector('#bulletin-container');
       masonry = new Masonry(container, {
-        columnWidth: 532,
         itemSelector: '.section'});
       });
        });
@@ -107,8 +106,11 @@ $(window).load(function(){
          $("#bulletin-footer").children().remove();
 
          processXML($all,filters,15);
+
+         $(".loader-container").fadeOut("slow",function(){masonry.reloadItems();});
          masonry.reloadItems();
-         $(".loader-container").fadeOut();
+         masonry.layout();
+
        }
      }
      parse(0);
