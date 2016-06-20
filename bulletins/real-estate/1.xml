@@ -26,7 +26,7 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>CNBC “What homeowners tell us about the Super Tuesday vote”</source>
+          <source>CNBC.com</source>
         </sources>
       </section>
       <section>
@@ -54,7 +54,7 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>Bloomberg ”the bank of England has its eye on every new mortgage”</source>
+          <source>Bloomberg.com</source>
           </sources>
       </section>
       <section>
@@ -70,7 +70,7 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>Il Sole 24 Ore “Mutui, case alle banche dopo 18 rate non pagate”</source>
+          <source>Ilsole24ore.com</source>
         </sources>
       </section>
       <section>
@@ -86,7 +86,7 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>Saudi Arabia loosens mortgage rules after home sales wane</source>
+          <source>Bloomberg.com</source>
         </sources>
       </section>
       <section>
@@ -102,7 +102,7 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>Zerohedge “China's housing bubble is back: locals wait in line for days to flip houses”</source>
+          <source>Zerohedge.com</source>
         </sources>
       </section>
     </sections>
@@ -138,10 +138,9 @@
           <keyword name="Middle class"/>
         </keywords>
         <sources>
-          <source>Zerohedge “Presenting America's own ghost cities"</source>
-          <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
-            <source>NY Times “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
-              <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
+          <source>Zerohedge.com</source>
+          <source> Bloomberg.com</source>
+            <source>Nytimes.com</source>
         </sources>
       </section>
       <section>
@@ -157,10 +156,9 @@
           <keyword name="Middle class"/>
         </keywords>
         <sources>
-          <source>Zerohedge “Presenting America's own ghost cities"</source>
-          <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
-            <source>Nytimes “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
-              <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
+          <source>Zerohedge.com</source>
+          <source> Bloomberg.com</source>
+            <source>Nytimes.com</source>
         </sources>
       </section>
       <section>
@@ -176,10 +174,9 @@
           <keyword name="Middle class"/>
         </keywords>
         <sources>
-          <source>Zerohedge “Presenting America's own ghost cities"</source>
-          <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
-            <source>NY Times “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
-              <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
+          <source>Zerohedge.com</source>
+          <source> Bloomberg.com</source>
+            <source>Nytimes.com</source>
         </sources>
       </section>
       <section>
@@ -217,10 +214,9 @@
           <keyword name="Middle class"/>
         </keywords>
         <sources>
-          <source>Zerohedge “Presenting America's own ghost cities"</source>
-          <source> Bloomberg "NYC penthouse gets sliced in two as luxury market falters"</source>
-            <source>NY Times “Cuomo-de Blasio feud threatens New York City’s plans for affordable housing"</source>
-              <source>Market Wild “San Francisco real estate looking like it did before dot-com crash in 2000"</source>
+          <source>Zerohedge.com</source>
+          <source> Bloomberg.com</source>
+            <source>Nytimes.com</source>
         </sources>
       </section>
     </sections>
