@@ -15,7 +15,7 @@ A complete and more extensive introduction to the issues of the course can be fo
 ## Topics and Groups
 Seven topics of research were chosen, according to their relevancy to the contemporary financial discourse and their likely influence on an upcoming crisis: __Central Banking__, __Employment__, __Energy__, __EU Debt Crisis__, __Gold__, __Real Estate__, and __Tech Bubble__. The students were asked to become familiar with these issues by looking at daily news, with an insight into the connections between the reported facts and the role of politicians, countries, organizations, entrepreneurs, and their effects on the life of citizens. Besides this, they could also look at history, in order to better frame their analysis and understanding of contemporary events.
 
-A concise introduction to each of these topics can be found [here] (PDF-bulletins/00_Introduction_160624.pdf). 
+A concise introduction to each of these topics can be found [here] (PDF-bulletins/). 
 
 
 ## Outputs
@@ -23,7 +23,7 @@ The lab has two outputs:
  
  * A series of __10 weekly bulletins__ for each group, for a total amount of 70 double-sided, single A3 papers printed with a [Risograph] (https://en.wikipedia.org/wiki/Risograph) machine. Each of these bulletins has been researched, edited and designed in seven days, starting from the week of February 29th-March 5th until the week of May 9th-14th, 2016. They collect and visualize all the crucial data relative to their specific area of investigation. The PDF files of all the bulletins are collected [here] (PDF-bulletins/README.md).
 
- * An __interactive interface__ that allows for the exploration of the complete archive of information collected during the 15 weeks of work. Each paragraph, visualisation, graph, quote and summary from all the bulletins has been broken into component atoms, defined through a set of 64 keywords ranging from geography, resources, demographics and financial definitions, archived into XML files and that can be printed as on-demand, succinct reports. On June 24th, on the occasion of the students' final show at IUAV University, Venice, this interface was presented as an installation made of punched cards (for the keywords' selection), a reader and a thermal printer for the output of the reports. A digital version of the same interface can be found [here] (../blob/master/PDF-bulletins). The XML files of all the bulletins are archived [here] (../blob/master/PDF-bulletins).
+ * An __interactive interface__ that allows for the exploration of the complete archive of information collected during the 15 weeks of work. Each paragraph, visualisation, graph, quote and summary from all the bulletins has been broken into component atoms, defined through a set of 64 keywords ranging from geography, resources, demographics and financial definitions, archived into XML files and that can be printed as on-demand, succinct reports. On June 24th, on the occasion of the students' final show at IUAV University, Venice, this interface was presented as an installation made of punched cards (for the keywords' selection), a reader and a thermal printer for the output of the reports. A digital version of the same interface can be found [here] (../blob/master/PDF-bulletins). The XML files of all the bulletins are archived [here] (XML-bulletins/).
 
 
 ## Methods and Tools
