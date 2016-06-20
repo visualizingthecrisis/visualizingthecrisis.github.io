@@ -43,17 +43,15 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>: Il Sole 24 Ore “Casa, il mercato cerca il riscatto tra mutui e tasse”</source>
-            <source>: Il Sole 24 Ore”Casa, meglio comprare con un mutuo o con il nuovo leasing agevolato?”</source>
-            <source>: Il Sole 24 Ore”Nuovi mutui in Italia: aggiornamento giornaliero”</source>
-            <source>Numbeo</source>
-          </sources>
+          <source>Ilsole24ore.com</source>
+          <source>Numbeo.com</source>
+        </sources>
         </section>
       <section>
         <title>Some data about Italian cities</title>
         <table>
           <row type="head">
-            <cell></cell>
+            <cell>City</cell>
             <cell>Population</cell>
             <cell>Average Monthly Salary</cell>
             <cell>City Centre (€/sq feet)</cell>
@@ -96,10 +94,8 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>: Il Sole 24 Ore “Casa, il mercato cerca il riscatto tra mutui e tasse”</source>
-          <source>: Il Sole 24 Ore”Casa, meglio comprare con un mutuo o con il nuovo leasing agevolato?”</source>
-          <source>: Il Sole 24 Ore”Nuovi mutui in Italia: aggiornamento giornaliero”</source>
-          <source>Numbeo</source>
+          <source>Ilsole24ore.com</source>
+          <source>Numbeo.com</source>
         </sources>
       </section>
       <section>
@@ -156,10 +152,8 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>: Il Sole 24 Ore “Casa, il mercato cerca il riscatto tra mutui e tasse”</source>
-          <source>: Il Sole 24 Ore”Casa, meglio comprare con un mutuo o con il nuovo leasing agevolato?”</source>
-          <source>: Il Sole 24 Ore”Nuovi mutui in Italia: aggiornamento giornaliero”</source>
-          <source>Numbeo</source>
+          <source>Ilsole24ore.com</source>
+          <source>Numbeo.com</source>
         </sources>
       </section>
       <section>
@@ -218,11 +212,10 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Il Sole 24 Ore “Casa, il mercato cerca il riscatto tra mutui e tasse”</source>
-            <source>Il Sole 24 Ore”Casa, meglio comprare con un mutuo o con il nuovo leasing agevolato?”</source>
-            <source>Il Sole 24 Ore”Nuovi mutui in Italia: aggiornamento giornaliero”</source>
-            <source>Numbeo</source>
-          </sources>
+                <source>Worldpropertyjournal.com</source>
+                <source>Eyeonhousing.org</source>
+                <source>CNBC.com</source>
+              </sources>
         </section>
       </sections>
       </bulletin>
@@ -286,11 +279,10 @@
               <keyword name="Housing Real estate"/>
             </keywords>
             <sources>
-              <source>World Property Journal “US builder confidence holds firm in April says NAHB index”</source>
-              <source>Eye on Housing “ Housing starts fall back to trend”</source>
-              <source>“Builder confidence unchanged in April”</source>
-              <source>CNBC “Homebuilder blues: Don’t blame labor shortage”</source>
-            </sources>
+                <source>Worldpropertyjournal.com</source>
+                <source>Eyeonhousing.org</source>
+                <source>CNBC.com</source>
+              </sources>
           </section>
             <section>
               <title>US housing starts</title>
@@ -306,10 +298,9 @@
                 <keyword name="Housing Real estate"/>
               </keywords>
               <sources>
-                <source>World Property Journal “US builder confidence holds firm in April says NAHB index”</source>
-                <source>Eye on Housing “ Housing starts fall back to trend”</source>
-                <source>“Builder confidence unchanged in April”</source>
-                <source>CNBC “Homebuilder blues: Don’t blame labor shortage”</source>
+                <source>Worldpropertyjournal.com</source>
+                <source>Eyeonhousing.org</source>
+                <source>CNBC.com</source>
               </sources>
             </section>
             <section>
@@ -348,10 +339,9 @@
                 <keyword name="Housing Real estate"/>
               </keywords>
               <sources>
-                <source>World Property Journal “US builder confidence holds firm in April says NAHB index”</source>
-                <source>Eye on Housing “ Housing starts fall back to trend”</source>
-                <source>“Builder confidence unchanged in April”</source>
-                <source>CNBC “Homebuilder blues: Don’t blame labor shortage”</source>
+                <source>Worldpropertyjournal.com</source>
+                <source>Eyeonhousing.org</source>
+                <source>CNBC.com</source>
               </sources>
             </section>
           </sections>
