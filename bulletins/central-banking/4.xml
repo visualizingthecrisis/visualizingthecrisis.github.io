@@ -132,9 +132,14 @@ the krone has “disappeared completely.”</paragraph>
           </dataset>
         </graph>
         <graph unit="%" x="date" y="number">
-          <title>Sweden and Denmark Interest Rate Forecast</title>
+          <title>Sweden Interest Rate Forecast</title>
           <dataset label= "Interest Rate">
             <data x="2020" y="1.00"/>
+          </dataset>
+        </graph>
+        <graph unit="%" x="date" y="number">
+          <title>Denmark Interest Rate Forecast</title>
+          <dataset label= "Interest Rate">
             <data x="2020" y="1.75"/>
           </dataset>
         </graph>
