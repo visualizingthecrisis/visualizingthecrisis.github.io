@@ -31,11 +31,10 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>The Telegraph ”Hope over fear: how Sadiq Khan won the mayoral election race”</source>
-            <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
-            <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
-            <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
-          </sources>
+              <source>telegrap.co.uk</source>
+              <source>theguardian.com”</source>
+              <source>bloomberg.com</source>
+            </sources>
         </section>
         <section>
           <title>The bank of mum and dad</title>
@@ -78,11 +77,10 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>The Telegraph ”Hope over fear: how Sadiq Khan won the mayoral election race”</source>
-            <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
-            <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
-            <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
-          </sources>
+              <source>telegrap.co.uk</source>
+              <source>theguardian.com”</source>
+              <source>bloomberg.com</source>
+            </sources>
         </section>
         <section>
           <title>London new faces: who will solve the problem?</title>
@@ -130,11 +128,10 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>The Telegraph ”Hope over fear: how Sadiq Khan won the mayoral election race”</source>
-            <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
-            <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
-            <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
-          </sources>
+              <source>telegrap.co.uk</source>
+              <source>theguardian.com”</source>
+              <source>bloomberg.com</source>
+            </sources>
         </section>
         <section>
           <title>UK housing crisis: how big is the problem</title>
@@ -170,11 +167,10 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>The Telegraph ”Hope over fear: how Sadiq Khan won the mayoral election race”</source>
-            <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
-            <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
-            <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
-          </sources>
+              <source>telegrap.co.uk</source>
+              <source>theguardian.com”</source>
+              <source>bloomberg.com</source>
+            </sources>
         </section>
         <section>
           <title>People fears</title>
@@ -199,10 +195,9 @@
               <keyword name="Housing Real estate"/>
             </keywords>
             <sources>
-              <source>The Telegraph ”Hope over fear: how Sadiq Khan won the mayoral election race”</source>
-              <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
-              <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
-              <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
+              <source>telegrap.co.uk</source>
+              <source>theguardian.com”</source>
+              <source>bloomberg.com</source>
             </sources>
           </section>
           <section>
@@ -386,10 +381,9 @@
               <keyword name="Housing Real estate"/>
             </keywords>
             <sources>
-              <source>The Telegraph ”Hope over fear: how Sadiq Khan won the mayoral election race”</source>
-              <source>The Guardian “UK housing crisis: poll reveals city v country split on who to blame”</source>
-              <source>Bloomberg “London home prices see parents risking finances to help kids”</source>
-              <source>Bloomberg “London property: the next mayor’s biggest challenge?”</source>
+              <source>telegrap.co.uk</source>
+              <source>theguardian.com”</source>
+              <source>bloomberg.com</source>
             </sources>
           </section>
         </sections>
