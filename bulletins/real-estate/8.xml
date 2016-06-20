@@ -59,11 +59,9 @@
         <keyword name="Housing Real estate"/>
       </keywords>
       <sources>
-        <source>World Property Journal “GCC ultra wealthy identify Dubai as top middle east investment target”</source>
-        <source>World Property Journal ”Abu Dhabi's Entertainment Yas Island Now a Growing Residential Hub”</source>
-        <source>World Property Journal ”Dubai, Abu Dhabi Residential Markets Hold Their Own in Q1”</source>
-        <source>Numbeo</source>
-      </sources>
+            <source>Worldpropertyjournal.com</source>
+            <source>Numbeo.com</source>
+          </sources>
     </section>
     <section>
       <title>Yas Island, UAE</title>
@@ -96,11 +94,9 @@
         <keyword name="Housing Real estate"/>
       </keywords>
       <sources>
-        <source>World Property Journal “GCC ultra wealthy identify Dubai as top middle east investment target”</source>
-        <source>World Property Journal ”Abu Dhabi's Entertainment Yas Island Now a Growing Residential Hub”</source>
-        <source>World Property Journal ”Dubai, Abu Dhabi Residential Markets Hold Their Own in Q1”</source>
-        <source>Numbeo</source>
-      </sources>
+            <source>Worldpropertyjournal.com</source>
+            <source>Numbeo.com</source>
+          </sources>
     </section>
     <section>
       <title>Abu Dhabi vs. Dubai</title>
@@ -149,15 +145,13 @@
         <keyword name="Housing Real estate"/>
       </keywords>
       <sources>
-        <source>World Property Journal “GCC ultra wealthy identify Dubai as top middle east investment target”</source>
-        <source>World Property Journal ”Abu Dhabi's Entertainment Yas Island Now a Growing Residential Hub”</source>
-        <source>World Property Journal ”Dubai, Abu Dhabi Residential Markets Hold Their Own in Q1”</source>
-        <source>Numbeo</source>
-      </sources>
+            <source>Worldpropertyjournal.com</source>
+            <source>Numbeo.com</source>
+          </sources>
     </section>
     <section>
         <title>UAE</title>
-        <title>Top renting apartments</title>
+        <subtitle>Top renting apartments</subtitle>
         <chapter>
           <title>Abu Dhabi</title>
           <paragraph>
@@ -189,15 +183,13 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>World Property Journal “GCC ultra wealthy identify Dubai as top middle east investment target”</source>
-          <source>World Property Journal ”Abu Dhabi's Entertainment Yas Island Now a Growing Residential Hub”</source>
-          <source>World Property Journal ”Dubai, Abu Dhabi Residential Markets Hold Their Own in Q1”</source>
-          <source>Numbeo</source>
-        </sources>
+            <source>Worldpropertyjournal.com</source>
+            <source>Numbeo.com</source>
+          </sources>
       </section>
       <section>
           <title>UAE</title>
-          <title>Top buying apartments</title>
+          <subtitle>Top buying apartments</subtitle>
           <chapter>
             <title>Abu Dhabi</title>
             <paragraph>
@@ -229,10 +221,8 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>World Property Journal “GCC ultra wealthy identify Dubai as top middle east investment target”</source>
-            <source>World Property Journal ”Abu Dhabi's Entertainment Yas Island Now a Growing Residential Hub”</source>
-            <source>World Property Journal ”Dubai, Abu Dhabi Residential Markets Hold Their Own in Q1”</source>
-            <source>Numbeo</source>
+            <source>Worldpropertyjournal.com</source>
+            <source>Numbeo.com</source>
           </sources>
         </section>
       </sections>
@@ -282,9 +272,7 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Forbes “Bidding wars for homes have become the new normal in many US cities”</source>
-            <source>Forbes “Pros and cons of buying during real estate's hottest season”</source>
-            <source>Forbes “candidates can't buy your vote, but can they buy your town?”</source>
+            <source>Forbes.com</source>
           </sources>
         </section>
         <section>
@@ -321,11 +309,8 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Forbes “Bidding wars for homes have become the new normal in many US cities”</source>
-            <source>Forbes “Pros and cons of buying during real estate's hottest season”</source>
-            <source>Forbes “candidates can't buy your vote, but can they buy your town?”</source>
+            <source>Forbes.com</source>
           </sources>
-        </section>
         <section>
           <title>They can’t buy your vote but maybe your town</title>
           <subtitle>US presidential candidates have already spent a lot of money for their campaigns, but what could have they bought instead?</subtitle>
@@ -349,9 +334,7 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Forbes “Bidding wars for homes have become the new normal in many US cities”</source>
-            <source>Forbes “Pros and cons of buying during real estate's hottest season”</source>
-            <source>Forbes “candidates can't buy your vote, but can they buy your town?”</source>
+            <source>Forbes.com</source>
           </sources>
         </section>
       </sections>
