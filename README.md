@@ -45,7 +45,7 @@ First and foremost, the credit goes to the students. Their painstacking research
 * __Real Estate__: Irene Chiappini, Giulia Serafin
 * __Tech Bubble__: Elisa Bianchi, Francesca Luzi, Federico Rita
 
-The course has been led by professors [__Marco Ferrari__] (https://twitter.com/mariofaranda) and [__Ivor Williams__] (https://twitter.com/ivorinfo), together with __Giacomo Covacich__, __Pietro Leoni__ and __Angelo Semeraro__ as tutors.
+The course has been led by professors [__Marco Ferrari__] (https://twitter.com/mariofaranda) and [__Ivor Williams__] (https://twitter.com/ivorinfo), together with [__Giacomo Covacich__] (http://www.b-r-u-n-o.it), [__Pietro Leoni__] (http://pietroleoni.com) and [__Angelo Semeraro__] (http://angelosemeraro.info) as tutors.
 
 __Angelo Semeraro__ developed the back-end and the front-end of the interactive installation, its digital interface and all the tools that helped the students to translate their bulletins into open-source, XML repositories. __Pietro Leoni__ designed and programmed the punched card reader. __Giacomo Covacich__ took care of the printing process of the A3 bulletins with the Risograph machine. 
 
