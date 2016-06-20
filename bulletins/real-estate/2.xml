@@ -20,8 +20,8 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>Quartz “As empty homes pile up indians willing to pay more for ready to move in apartments”</source>
-            <source>The financial express “Real estate slowdown: residential inventory piles up in Delhi, Mumbai”</source>
+          <source>qz.com</source>
+            <source>financialexpress.com</source>
         </sources>
       </section>
       <section>
@@ -35,8 +35,8 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>Quartz “As empty homes pile up indians willing to pay more for ready to move in apartments”</source>
-            <source>The financial express “Real estate slowdown: residential inventory piles up in Delhi, Mumbai”</source>
+          <source>qz.com</source>
+            <source>financialexpress.com</source>
         </sources>
       </section>
           <section>
@@ -106,10 +106,10 @@
               <keyword name="Southeastern Asia"/>
               <keyword name="Housing and Real Estate"/>
             </keywords>
-            <sources>
-              <source>Quartz “As empty homes pile up indians willing to pay more for ready to move in apartments”</source>
-                <source>The financial express “Real estate slowdown: residential inventory piles up in Delhi, Mumbai”</source>
-            </sources>
+           <sources>
+          <source>qz.com</source>
+            <source>financialexpress.com</source>
+        </sources>
           </section>
         </sections>
       </bulletin>
@@ -137,9 +137,9 @@
               <keyword name="Housing Real estate"/>
             </keywords>
             <sources>
-              <source>The globe and mail ”Office, retail real estate sectors settling in for tough 2016”</source>
-              <source>Medium ”Real estate news”</source>
-              <source>Benefits Canada ”What should institutional investors expect from the real estate market in 2016?”</source>
+              <source>theglobeandmail.com </source>
+              <source>medium.com</source>
+              <source>benefitscanada.com</source>
             </sources>
           </section>
           <section>
@@ -180,9 +180,9 @@
               <keyword name="Housing Real estate"/>
             </keywords>
             <sources>
-              <source>The globe and mail ”Office, retail real estate sectors settling in for tough 2016”</source>
-              <source>Medium ”Real estate news”</source>
-              <source>Benefits Canada ”What should institutional investors expect from the real estate market in 2016?”</source>
+              <source>theglobeandmail.com </source>
+              <source>medium.com</source>
+              <source>benefitscanada.com</source>
             </sources>
           </section>
           <section>
@@ -202,10 +202,10 @@
               <keyword name="North America"/>
               <keyword name="Housing Real estate"/>
             </keywords>
-            <sources>
-              <source>The globe and mail ”Office, retail real estate sectors settling in for tough 2016”</source>
-              <source>Medium ”Real estate news”</source>
-              <source>Benefits Canada ”What should institutional investors expect from the real estate market in 2016?”</source>
+             <sources>
+              <source>theglobeandmail.com </source>
+              <source>medium.com</source>
+              <source>benefitscanada.com</source>
             </sources>
           </section>
           <section>
@@ -218,11 +218,11 @@
                 <keyword name="North America"/>
                 <keyword name="Housing Real estate"/>
               </keywords>
-              <sources>
-                <source>The globe and mail ”Office, retail real estate sectors settling in for tough 2016”</source>
-                <source>Medium ”Real estate news”</source>
-                <source>Benefits Canada ”What should institutional investors expect from the real estate market in 2016?”</source>
-              </sources>
+               <sources>
+              <source>theglobeandmail.com </source>
+              <source>medium.com</source>
+              <source>benefitscanada.com</source>
+            </sources>
             </section>
           </sections>
         </bulletin>
