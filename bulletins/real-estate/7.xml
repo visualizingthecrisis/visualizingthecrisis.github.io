@@ -43,8 +43,8 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-          <source>Ilsole24ore.com</source>
-          <source>Numbeo.com</source>
+          <source>ilsole24ore.com</source>
+          <source>numbeo.com</source>
         </sources>
         </section>
       <section>
@@ -94,8 +94,8 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>Ilsole24ore.com</source>
-          <source>Numbeo.com</source>
+          <source>ilsole24ore.com</source>
+          <source>numbeo.com</source>
         </sources>
       </section>
       <section>
@@ -152,8 +152,8 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>Ilsole24ore.com</source>
-          <source>Numbeo.com</source>
+          <source>ilsole24ore.com</source>
+          <source>numbeo.com</source>
         </sources>
       </section>
       <section>
@@ -212,9 +212,9 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-                <source>Worldpropertyjournal.com</source>
-                <source>Eyeonhousing.org</source>
-                <source>CNBC.com</source>
+                <source>worldpropertyjournal.com</source>
+                <source>eyeonhousing.org</source>
+                <source>cnbc.com</source>
               </sources>
         </section>
       </sections>
@@ -279,9 +279,9 @@
               <keyword name="Housing Real estate"/>
             </keywords>
             <sources>
-                <source>Worldpropertyjournal.com</source>
-                <source>Eyeonhousing.org</source>
-                <source>CNBC.com</source>
+                <source>worldpropertyjournal.com</source>
+                <source>eyeonhousing.org</source>
+                <source>cnbc.com</source>
               </sources>
           </section>
             <section>
@@ -298,9 +298,9 @@
                 <keyword name="Housing Real estate"/>
               </keywords>
               <sources>
-                <source>Worldpropertyjournal.com</source>
-                <source>Eyeonhousing.org</source>
-                <source>CNBC.com</source>
+                <source>worldpropertyjournal.com</source>
+                <source>eyeonhousing.org</source>
+                <source>cnbc.com</source>
               </sources>
             </section>
             <section>
@@ -339,9 +339,9 @@
                 <keyword name="Housing Real estate"/>
               </keywords>
               <sources>
-                <source>Worldpropertyjournal.com</source>
-                <source>Eyeonhousing.org</source>
-                <source>CNBC.com</source>
+                <source>worldpropertyjournal.com</source>
+                <source>eyeonhousing.org</source>
+                <source>cnbc.com</source>
               </sources>
             </section>
           </sections>
