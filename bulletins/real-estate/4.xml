@@ -74,9 +74,9 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>World property Journal “Real estate investment outlook for andean region, Mexico strong in 2016”</source>
-            <source>The Wall Street Journal “Top 20 most affordable latin american cities for real estate”</source>
-            <source>World Finance “Latin America’s real estate market attracts investment”</source>
+          <source>worldpropertyjournal.com</source>
+            <source>wsj.com</source>
+            <source>worldfinance.com</source>
         </sources>
       </section>
       <section>
@@ -106,13 +106,12 @@
           <keyword name="South America"/>
           <keyword name="Housing Real estate"/>
         </keywords>
-        <sources>
-          <source>World property Journal “Real estate investment outlook for andean region, Mexico strong in 2016”</source>
-            <source>The Wall Street Journal “Top 20 most affordable latin american cities for real estate”</source>
-            <source>World Finance “Latin America’s real estate market attracts investment”</source>
+          <sources>
+          <source>worldpropertyjournal.com</source>
+            <source>wsj.com</source>
+            <source>worldfinance.com</source>
         </sources>
       </section>
-
     </sections>
   </bulletin>
   <bulletin id="4" date="20160324">
@@ -137,10 +136,10 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>Bloomberg “Japan land prices rise for the first time since 2007 on tourism”</source>
-          <source>The japan Times “Japan land prices rise 0.1% on demand for tourist premises”</source>
-          <source>Japan Property Central “Average apartment rent in February 2016”</source>
-          <source>Japan Real Estate News</source>
+          <source>bloomberg.com</source>
+          <source>japantimes.co.jp</source>
+          <source>japanpropertycentral.com</source>
+          <source>worldpropertyjournal.com</source>
         </sources>
       </section>
       <section>
@@ -154,11 +153,11 @@
           <keyword name="Investments"/>
           <keyword name="Housing Real estate"/>
         </keywords>
-        <sources>
-          <source>Bloomberg “Japan land prices rise for the first time since 2007 on tourism”</source>
-          <source>The japan Times “Japan land prices rise 0.1% on demand for tourist premises”</source>
-          <source>Japan Property Central “Average apartment rent in February 2016”</source>
-          <source>Japan Real Estate News</source>
+       <sources>
+          <source>bloomberg.com</source>
+          <source>japantimes.co.jp</source>
+          <source>japanpropertycentral.com</source>
+          <source>worldpropertyjournal.com</source>
         </sources>
       </section>
       <section>
@@ -179,11 +178,11 @@
           <keyword name="Investments"/>
           <keyword name="Housing Real estate"/>
         </keywords>
-        <sources>
-          <source>Bloomberg “Japan land prices rise for the first time since 2007 on tourism”</source>
-          <source>The japan Times “Japan land prices rise 0.1% on demand for tourist premises”</source>
-          <source>Japan Property Central “Average apartment rent in February 2016”</source>
-          <source>Japan Real Estate News</source>
+       <sources>
+          <source>bloomberg.com</source>
+          <source>japantimes.co.jp</source>
+          <source>japanpropertycentral.com</source>
+          <source>worldpropertyjournal.com</source>
         </sources>
       </section>
       <section>
@@ -197,10 +196,10 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>Bloomberg “Japan land prices rise for the first time since 2007 on tourism”</source>
-          <source>The japan Times “Japan land prices rise 0.1% on demand for tourist premises”</source>
-          <source>Japan Property Central “Average apartment rent in February 2016”</source>
-          <source>Japan Real Estate News</source>
+          <source>bloomberg.com</source>
+          <source>japantimes.co.jp</source>
+          <source>japanpropertycentral.com</source>
+          <source>worldpropertyjournal.com</source>
         </sources>
       </section>
       <section>
@@ -215,10 +214,10 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>Bloomberg “Japan land prices rise for the first time since 2007 on tourism”</source>
-          <source>The japan Times “Japan land prices rise 0.1% on demand for tourist premises”</source>
-          <source>Japan Property Central “Average apartment rent in February 2016”</source>
-          <source>Japan Real Estate News</source>
+          <source>bloomberg.com</source>
+          <source>japantimes.co.jp</source>
+          <source>japanpropertycentral.com</source>
+          <source>worldpropertyjournal.com</source>
         </sources>
       </section>
       <section>
@@ -257,11 +256,11 @@
           <keyword name="Investments"/>
           <keyword name="Housing Real estate"/>
         </keywords>
-        <sources>
-          <source>Bloomberg “Japan land prices rise for the first time since 2007 on tourism”</source>
-          <source>The japan Times “Japan land prices rise 0.1% on demand for tourist premises”</source>
-          <source>Japan Property Central “Average apartment rent in February 2016”</source>
-          <source>Japan Real Estate News</source>
+       <sources>
+          <source>bloomberg.com</source>
+          <source>japantimes.co.jp</source>
+          <source>japanpropertycentral.com</source>
+          <source>worldpropertyjournal.com</source>
         </sources>
       </section>
     </sections>
