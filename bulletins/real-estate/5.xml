@@ -31,10 +31,10 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>Quartz “A growing corner of China’s $2 trillion mortgage market looks a lot like the US subprime bubble”</source>
-          <source>Forbes “Demand for housing in China’s heated property market is real”</source>
-          <source>Numbeo</source>
-        </sources>
+            <source>qz.com</source>
+            <source>forbes.com</source>
+            <source>numbeo.com</source>
+          </sources>
       </section>
       <section>
         <title>Risky strain: economy vs loans</title>
@@ -63,10 +63,10 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>Quartz “A growing corner of China’s $2 trillion mortgage market looks a lot like the US subprime bubble”</source>
-          <source>Forbes “Demand for housing in China’s heated property market is real”</source>
-          <source>Numbeo</source>
-        </sources>
+            <source>qz.com</source>
+            <source>forbes.com</source>
+            <source>numbeo.com</source>
+          </sources>
       </section>
       <section>
         <title>Down payments in China: the true story</title>
@@ -96,9 +96,9 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Quartz “A growing corner of China’s $2 trillion mortgage market looks a lot like the US subprime bubble”</source>
-            <source>Forbes “Demand for housing in China’s heated property market is real”</source>
-            <source>Numbeo</source>
+            <source>qz.com</source>
+            <source>forbes.com</source>
+            <source>numbeo.com</source>
           </sources>
         </section>
         <section>
@@ -125,9 +125,9 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Quartz “A growing corner of China’s $2 trillion mortgage market looks a lot like the US subprime bubble”</source>
-            <source>Forbes “Demand for housing in China’s heated property market is real”</source>
-            <source>Numbeo</source>
+            <source>qz.com</source>
+            <source>forbes.com</source>
+            <source>numbeo.com</source>
           </sources>
         </section>
         <section>
@@ -150,9 +150,9 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Quartz “A growing corner of China’s $2 trillion mortgage market looks a lot like the US subprime bubble”</source>
-            <source>Forbes “Demand for housing in China’s heated property market is real”</source>
-            <source>Numbeo</source>
+            <source>qz.com</source>
+            <source>forbes.com</source>
+            <source>numbeo.com</source>
           </sources>
         </section>
       </sections>
@@ -215,10 +215,8 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Forbes “Richest Real Estate Billionaires In 2016”</source>
-            <source>“The 20 Richest Real Estate Barons In The World 2016”</source>
-            <source>Yahoo “World's most expensive residential property”</source>
-            <source>Numbeo “Cost of Living”</source>
+            <source>forbes.com</source>
+            <source>numbeo.com</source>
           </sources>
         </section>
         <section>
@@ -246,10 +244,8 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Forbes “Richest Real Estate Billionaires In 2016”</source>
-            <source>“The 20 Richest Real Estate Barons In The World 2016”</source>
-            <source>Yahoo “World's most expensive residential property”</source>
-            <source>Numbeo “Cost of Living”</source>
+            <source>forbes.com</source>
+            <source>numbeo.com</source>
           </sources>
         </section>
         <section>
@@ -291,10 +287,8 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Forbes “Richest Real Estate Billionaires In 2016”</source>
-            <source>“The 20 Richest Real Estate Barons In The World 2016”</source>
-            <source>Yahoo “World's most expensive residential property”</source>
-            <source>Numbeo “Cost of Living”</source>
+            <source>forbes.com</source>
+            <source>numbeo.com</source>
           </sources>
         </section>
         <section>
@@ -320,10 +314,8 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Forbes “Richest Real Estate Billionaires In 2016”</source>
-            <source>“The 20 Richest Real Estate Barons In The World 2016”</source>
-            <source>Yahoo “World's most expensive residential property”</source>
-            <source>Numbeo “Cost of Living”</source>
+            <source>forbes.com</source>
+            <source>numbeo.com</source>
           </sources>
         </section>
       </sections>
