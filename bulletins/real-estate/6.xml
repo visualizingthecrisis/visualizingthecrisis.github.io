@@ -43,9 +43,7 @@
             <keyword name="Construction"/>
           </keywords>
           <sources>
-            <source> Forbes “One way that China populates its ghost cities”</source>
-            <source> Forbes “How people in China efford their outrageously expensive homes”</source>
-            <source> Forbes “What China is doing about its 450 million square meters of unsold housing”</source>
+            <source>forbes.com</source>
           </sources>
         </section>
         <section>
@@ -72,9 +70,7 @@
               <keyword name="Construction"/>
           </keywords>
           <sources>
-            <source> Forbes “One way that China populates its ghost cities”</source>
-            <source> Forbes “How people in China afford their outrageously expensive homes”</source>
-            <source> Forbes “What China is doing about its 450 million square meters of unsold housing”</source>
+            <source>forbes.com</source>
           </sources>
         </section>
         <section>
@@ -101,10 +97,8 @@
             <keyword name="Housing and Real Estate"/>
             <keyword name="Construction"/>
           </keywords>
-          <sources>
-            <source> Forbes “One way that China populates its ghost cities”</source>
-            <source> Forbes “How people in China afford their outrageously expensive homes”</source>
-            <source> Forbes “What China is doing about its 450 million square meters of unsold housing”</source>
+         <sources>
+            <source>forbes.com</source>
           </sources>
         </section>
         <section>
@@ -127,9 +121,7 @@
             <keyword name="Construction"/>
           </keywords>
           <sources>
-            <source>Forbes “One way that China populates its ghost cities”</source>
-            <source>Forbes “How people in China afford their outrageously expensive homes”</source>
-            <source>Forbes “What China is doing about its 450 million square meters of unsold housing”</source>
+            <source>forbes.com</source>
           </sources>
         </section>
         <section>
@@ -154,10 +146,8 @@
             <keyword name="Housing and Real Estate"/>
             <keyword name="Construction"/>
           </keywords>
-          <sources>
-            <source>Forbes “One way that China populates its ghost cities”</source>
-            <source>Forbes “How people in China afford their outrageously expensive homes”</source>
-            <source>Forbes “What China is doing about its 450 million square meters of unsold housing”</source>
+         <sources>
+            <source>forbes.com</source>
           </sources>
         </section>
         <section>
@@ -181,10 +171,8 @@
             <keyword name="Housing and Real Estate"/>
             <keyword name="Construction"/>
           </keywords>
-          <sources>
-            <source>Forbes “One way that China populates its ghost cities”</source>
-            <source>Forbes “How people in China afford their outrageously expensive homes”</source>
-            <source>Forbes “What China is doing about its 450 million square meters of unsold housing”</source>
+         <sources>
+            <source>forbes.com</source>
           </sources>
         </section>
       </sections>
@@ -251,9 +239,9 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>World property journal “Spain Enjoys Record Setting Commercial Property Investment in 2015”</source>
-              <source>Investopedia ”Economic Challenges Spain Faces”</source>
-              <source>Numbeo</source>
+            <source>worldpropertyjournal.com</source>
+              <source>investopedia.com</source>
+              <source>numbeo.com</source>
           </sources>
         </section>
         <section>
@@ -275,10 +263,10 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>World property journal “Spain Enjoys Record Setting Commercial Property Investment in 2015”</source>
-            <source>Investopedia ”Economic Challenges Spain Faces”</source>
-            <source>Numbeo</source>
-        </sources>
+            <source>worldpropertyjournal.com</source>
+              <source>investopedia.com</source>
+              <source>numbeo.com</source>
+          </sources>
       </section>
       <section>
         <title>Who is investing in Spain?</title>
@@ -298,10 +286,10 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>World property journal “Spain Enjoys Record Setting Commercial Property Investment in 2015”</source>
-            <source>Investopedia ”Economic Challenges Spain Faces”</source>
-            <source>Numbeo</source>
-        </sources>
+            <source>worldpropertyjournal.com</source>
+              <source>investopedia.com</source>
+              <source>numbeo.com</source>
+          </sources>
       </section>
       <section>
         <title>Investors in Spain</title>
@@ -328,10 +316,10 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>World property journal “Spain Enjoys Record Setting Commercial Property Investment in 2015”</source>
-            <source>Investopedia ”Economic Challenges Spain Faces”</source>
-            <source>Numbeo</source>
-        </sources>
+            <source>worldpropertyjournal.com</source>
+              <source>investopedia.com</source>
+              <source>numbeo.com</source>
+          </sources>
       </section>
     </sections>
     </bulletin>
