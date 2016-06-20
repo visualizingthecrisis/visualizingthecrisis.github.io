@@ -35,19 +35,19 @@
       <section>
         <title>Do you know that...</title>
         <abstract>News about €500 banknotes</abstract>
-        <graph unit="%" x="string" y="percentage">
+        <graph unit="%" x="string" y="number">
           <title>The portion of €500 banknotes in circulation value</title>
           <dataset label= "€500 in circulation">
             <data x="€500 in circulation" y="30"/>
           </dataset>
         </graph>
-        <graph unit="%" x="string" y="percentage">
+        <graph unit="%" x="string" y="number">
           <title>Of EU citizens have never seen a 500 euro note</title>
           <dataset label= "citizens never seen the banknote">
             <data x="citizens never seen €500" y="56"/>
           </dataset>
         </graph>
-        <graph unit="%" x="string" y="percentage">
+        <graph unit="%" x="string" y="number">
           <title>Of 500 euro bills are outside of Europe</title>
           <dataset label= "€500 outside Europe">
             <data x="€500 outside Europe" y="80"/>
