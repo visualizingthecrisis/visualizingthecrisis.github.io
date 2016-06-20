@@ -467,8 +467,8 @@
                       <graph unit="%" x="string" y="number">
                         <title>USA wages and salaries growth in the future</title>
                         <dataset label= "Forecast wages">
-                          <data x="2016Apr-Jun" y="4.4"/>
-                          <data x="2017Jan-Mar" y="4.8"/>
+                          <data x="Apr-Jun 2016" y="4.4"/>
+                          <data x="Jan-Mar 2017" y="4.8"/>
                           <data x="2020" y="4.7"/>
                         </dataset>
                       </graph>
