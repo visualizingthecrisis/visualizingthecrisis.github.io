@@ -70,7 +70,7 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>Bloomberg “Canada Average Home Price ”</source>
+          <source>bloomberg.com</source>
           </sources>
       </section>
       <section>
@@ -94,7 +94,7 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>Bloomberg “'Brexit' Debate Delays Secure Trust's Plan to Offer Mortgages”</source>
+          <source>bloomberg.com</source>
         </sources>
       </section>
       <section>
@@ -110,7 +110,7 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>Bloomberg “'Brexit' Debate Delays Secure Trust's Plan to Offer Mortgages”</source>
+          <source>bloomberg.com</source>
         </sources>
       </section>
       <section>
@@ -125,7 +125,7 @@
           <keyword name="Housing Real estate"/>
         </keywords>
         <sources>
-          <source>Bloomberg “UniCredit Cuts Property”</source>
+          <source>bloomberg.com</source>
         </sources>
       </section>
       <section>
@@ -154,7 +154,7 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Bloomberg “Lenders Are Getting Choosier When It Comes to Risky Real Estate Deals”</source>
+            <source>bloomberg.com</source>
           </sources>
         </section>
         <section>
@@ -169,7 +169,7 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Bloomberg “A Rio Trucker's Woe and the Threat It Poses to the Brazil Dream”</source>
+            <source>bloomberg.com</source>
           </sources>
         </section>
         <section>
@@ -184,7 +184,7 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Bloomberg “Campari's deal comes With chaser.”</source>
+            <source>bloomberg.com</source>
           </sources>
         </section>
       </sections>
@@ -213,10 +213,9 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
-            <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
-            <source>Wall Street Journal “What is Anbang Insurance?”</source>
-            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meeting of the US elite”</source>
+            <source>bloomberg.com</source>
+            <source>wsj.com</source>
+            <source>qz.com</source>
           </sources>
         </section>
         <section>
@@ -250,11 +249,10 @@
             <keyword name="Southeastern Asia"/>
             <keyword name="Housing Real estate"/>
           </keywords>
-          <sources>
-            <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
-            <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
-            <source>Wall Street Journal “What is Anbang Insurance?”</source>
-            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meeting of the US elite”</source>
+         <sources>
+            <source>bloomberg.com</source>
+            <source>wsj.com</source>
+            <source>qz.com</source>
           </sources>
         </section>
         <section>
@@ -271,11 +269,10 @@
             <keyword name="Southeastern Asia"/>
             <keyword name="Housing Real estate"/>
           </keywords>
-          <sources>
-            <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
-            <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
-            <source>Wall Street Journal “What is Anbang Insurance?”</source>
-            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meeting of the US elite”</source>
+         <sources>
+            <source>bloomberg.com</source>
+            <source>wsj.com</source>
+            <source>qz.com</source>
           </sources>
         </section>
         <section>
@@ -307,10 +304,9 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
-            <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
-            <source>Wall Street Journal “What is Anbang Insurance?”</source>
-            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meeting of the US elite”</source>
+            <source>bloomberg.com</source>
+            <source>wsj.com</source>
+            <source>qz.com</source>
           </sources>
         </section>
         <section>
@@ -333,10 +329,9 @@
             <keyword name="Housing Real estate"/>
           </keywords>
           <sources>
-            <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
-            <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
-            <source>Wall Street Journal “What is Anbang Insurance?”</source>
-            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meeting of the US elite”</source>
+            <source>bloomberg.com</source>
+            <source>wsj.com</source>
+            <source>qz.com</source>
           </sources>
         </section>
         <section>
@@ -349,11 +344,10 @@
             <keyword name="Southeastern Asia"/>
             <keyword name="Housing Real estate"/>
           </keywords>
-          <sources>
-            <source>Bloomberg “Anbang expands US hotel foray with record 6.5 b deal”</source>
-            <source>Bloomberg “Anbang is splashiest Chinese investor in property spree”</source>
-            <source>Wall Street Journal “What is Anbang Insurance?”</source>
-            <source>Quartz “ China’s 6.5 b Blackstone hotel deal could ruin the secret meeting of the US elite”</source>
+         <sources>
+            <source>bloomberg.com</source>
+            <source>wsj.com</source>
+            <source>qz.com</source>
           </sources>
         </section>
       </sections>
