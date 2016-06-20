@@ -26,7 +26,7 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>CNBC.com</source>
+          <source>cnbc.com</source>
         </sources>
       </section>
       <section>
@@ -54,7 +54,7 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>Bloomberg.com</source>
+          <source>bloomberg.com</source>
           </sources>
       </section>
       <section>
@@ -70,7 +70,7 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>Ilsole24ore.com</source>
+          <source>ilsole24ore.com</source>
         </sources>
       </section>
       <section>
@@ -86,7 +86,7 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>Bloomberg.com</source>
+          <source>bloomberg.com</source>
         </sources>
       </section>
       <section>
@@ -102,7 +102,7 @@
           <keyword name="Housing and Real Estate"/>
         </keywords>
         <sources>
-          <source>Zerohedge.com</source>
+          <source>zerohedge.com</source>
         </sources>
       </section>
     </sections>
@@ -138,9 +138,9 @@
           <keyword name="Middle class"/>
         </keywords>
         <sources>
-          <source>Zerohedge.com</source>
-          <source> Bloomberg.com</source>
-            <source>Nytimes.com</source>
+          <source>zerohedge.com</source>
+          <source>bloomberg.com</source>
+            <source>nytimes.com</source>
         </sources>
       </section>
       <section>
@@ -156,9 +156,9 @@
           <keyword name="Middle class"/>
         </keywords>
         <sources>
-          <source>Zerohedge.com</source>
-          <source> Bloomberg.com</source>
-            <source>Nytimes.com</source>
+          <source>zerohedge.com</source>
+          <source>bloomberg.com</source>
+            <source>nytimes.com</source>
         </sources>
       </section>
       <section>
@@ -174,9 +174,9 @@
           <keyword name="Middle class"/>
         </keywords>
         <sources>
-          <source>Zerohedge.com</source>
-          <source> Bloomberg.com</source>
-            <source>Nytimes.com</source>
+          <source>zerohedge.com</source>
+          <source>bloomberg.com</source>
+            <source>nytimes.com</source>
         </sources>
       </section>
       <section>
@@ -214,9 +214,9 @@
           <keyword name="Middle class"/>
         </keywords>
         <sources>
-          <source>Zerohedge.com</source>
-          <source> Bloomberg.com</source>
-            <source>Nytimes.com</source>
+          <source>zerohedge.com</source>
+          <source>bloomberg.com</source>
+            <source>nytimes.com</source>
         </sources>
       </section>
     </sections>
