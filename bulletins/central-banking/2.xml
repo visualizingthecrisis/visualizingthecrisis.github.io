@@ -575,7 +575,7 @@ When the bitcoin client switches to another, longer chain, all valid transaction
               <title>Bitcoin nodes</title>
               <subtitle>How many transactions in the world?</subtitle>
               <graph unit="" x="string" y="number">
-                <title>Reachable nodes as of Sunday, March 13th, 2016</title>
+                <title>Reachable nodes as of March 13th, 2016</title>
                 <dataset label="average in the last 24 hours">
                   <data x="World" y="7403"/>
                   <data x="US" y="2533"/>
