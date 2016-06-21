@@ -18,7 +18,7 @@
                 <graph unit="members" x="string" y="number">
                   <dataset label="staff members">
                     <data x="The World Bank" y="7,000"/>
-                    <data x="The International Monetary Fund" y="2,300"/>
+                    <data x="The IMF" y="2,300"/>
                   </dataset>
                 </graph>
                 <keywords>                                                      <!--[ 1 ]-->
