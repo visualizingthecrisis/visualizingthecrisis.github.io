@@ -273,6 +273,9 @@
                 <chapter>                                                       <!--[0-N]-->
                 <title>Finance Ministers and Central Bank Governors’Meetings</title>      <!--[0-1]-->
                   <paragraph>They are meeting this weekend in Shanghai to discuss the current state of the global economy, which looks shaky at best. With concerns over the U.S. stock market, global growth, and the ability for governments to fight another global recession.</paragraph>          <!--[0-N]-->
+                  </chapter>
+                  <chapter>
+                    <title>Meetings programme in 2016</title>
                   <paragraph>                                                   <!--[0-N]-->
                     <list type="Date">                                          <!--[1-N]-->
                       <item>February 26-27, 2016</item>
@@ -315,7 +318,7 @@
               </sources>
               </section>
               <section>                                                         <!--[1-N]-->
-              <title>Main topics</title>                                        <!--[0-1]-->
+              <title>G20 topics</title>                                        <!--[0-1]-->
               <graph unit="%" x="date" y="number">                     <!--[0-N]-->
                 <title>Global slow-growth</title>                               <!--[0-1]-->
                 <abstract>Global recovery continues, but at an ever-slowing and fragile pace that leaves the world econonomy more exposed to risk.</abstract>        <!-- max 144 char-->
@@ -475,7 +478,7 @@
                <row type="cell">
                  <cell>2014/G7</cell>
                  <cell>Brussels, The Hague</cell>
-                 <cell>Belgium, Belgium: Nuclear Security Summit</cell>
+                 <cell>Belgium</cell>
                </row>
                <row type="cell">
                  <cell>2015/G7</cell>
@@ -513,6 +516,9 @@
                      Inclusive Development; and
                      Integrity of Financial Flows.
                    </paragraph>
+                   </chapter>
+                   <chapter>
+                     <title>Topics May 20th and 21st meeting</title>
                    <paragraph>
                      <list type="ordered">
                        <item>Revitalizing Global Economy</item>
@@ -531,7 +537,7 @@
                </sources>
            </section>
            <section>
-             <title>Main topics</title>
+             <title>G7/8 topics</title>
                <chapter>
                  <title>Net Capital Inflows to Emerging Market Economies</title>
                    <paragraph>
@@ -543,7 +549,7 @@
                    </paragraph>
                  </chapter>
                      <graph unit="%" x="date" y="number">
-                       <dataset label="capital inflows">
+                       <title>Capital inflows</title>
                          <data x="2000" y="0.9"/>
                          <data x="2001" y="1.25"/>
                          <data x="2002" y="1.7"/>
@@ -560,7 +566,6 @@
                          <data x="2013" y="1.81"/>
                          <data x="2014" y="0.33"/>
                          <data x="2015" y="-1.1"/>
-                       </dataset>
                      </graph>
                <chapter>
                  <title>Health</title>
