@@ -16,7 +16,7 @@
                   While this goal remains central to both institutions, their work is constantly evolving in response to new economic developments and challenges.</paragraph>                                <!--[0-N]-->
                 </chapter>
                 <graph unit="members" x="string" y="number">
-                  <dataset label= "staff members">
+                  <dataset label="staff members">
                     <data x="The World Bank" y="7,000"/>
                     <data x="The International Monetary Fund" y="2,300"/>
                   </dataset>
@@ -510,7 +510,7 @@
                  <title>Topics to be discussed</title>
                    <paragraph>
                      Finance Ministers and Central Bank Governors' will meet on May 20th-21st in Sendai, Japan, to discuss about the following
-                     four broad topic areas:</paragraph>
+                     four broad topic areas:
                      <list type="unordered">
                        <item>Global Economy</item>
                        <item>International Financial Architecture</item>
