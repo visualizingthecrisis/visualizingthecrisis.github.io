@@ -10,20 +10,21 @@
     <title>Fed Governon decision impacts world economy</title>
     <sections>
       <section>
-        <title>The Yellen speech consequences</title>
-        <abstract>The Fed governor speech changed the economy assets for many states</abstract>
-        <quote>
-          <author>Janet Yellen</author>
-          <text>The United States economy remained on track despite a rough start to the year.
-            Reflecting global economic and financial developments since December, however,
-            the pace of rate increases is now expected to be somewhat slower.</text>
-          </quote>
-          <chapter>
-            <paragraph>On Tuesday, Janet Yellen the Federal Reserve womanchair, she decided
-              to continue with Dovish strategy, during the second meeting.
-              So, she said the Fed still intended to pursue a careful, patient course toward higher interest rates as the economy improved.
+        <title>The Yellen speech</title>
+        <chapter>
+            <paragraph>On Tuesday, Janet Yellen—the Federal Reserve womanchair—gave a speech that changed the economy assets for many states. She decided
+              to continue with the Dovish strategy, during the second meeting.
+              She said the Fed still intended to pursue a careful, patient course toward higher interest rates as the economy improved.
               These words caused reactions to other countries, especially about Asia economy.</paragraph>
             </chapter>
+        <quote>
+          <author>Janet Yellen</author>
+          <role>Fed womanchair</role>
+          <text>The United States economy remained on track despite a rough start to the year.
+            Reflecting global economic and financial developments since December, however,
+            the pace of rate increase is now expected to be somewhat slower.</text>
+          </quote>
+          
             <keywords>
               <keyword name="Governance" />
               <keyword name="North America" />
@@ -34,8 +35,9 @@
             </sources>
           </section>
           <section>
-            <title>Exchange Rate</title>
-            <abstract>The currency exchange rate before and after Fed governor speech</abstract>
+            <title>The Fed Governor's speech</title>
+            <subtitle>Consequences on the exchange rate</title>
+            <abstract>The currencies' exchange rate before and after the Fed Governor speech.</abstract>
             <table>
               <row type="head">
                 <cell>State</cell>
@@ -87,8 +89,9 @@
             </sources>
           </section>
           <section>
-            <title>Stock Market</title>
-            <abstract>Stock Market effect after Fed governor speech</abstract>
+            <title>The Fed Governor's speech</title>
+            <subtitle>Consequences on the Stock Market</title>
+            <abstract>Stock Market effect after Fed Governor speech</abstract>
             <table>
               <row type="head">
                 <cell>State</cell>
@@ -144,15 +147,16 @@
             </sources>
           </section>
           <section>
-            <title>Effects after Fed governor speech</title>
+            <title>The Fed Governor's speech</title>
+            <subtitle>Consequences in different countries</title>
             <chapter>
-              <title>US after Yellen speech</title>
+              <title>United States</title>
               <paragraph>While she penalizes the dollar on the currency market, recently it wobbled. After two months
                 of nightmare, the US stock has reacted well. For all three stocks would be the best monthly performance since October.</paragraph>
               </chapter>
               <graph unit="USD" x="date" y="number">
                 <title>The US Stock Market Reaction</title>
-                <dataset label= "USD Stock Market">
+                <dataset label= "">
                   <data x="2010" y="11,000"/>
                   <data x="2012" y="12,450"/>
                   <data x="2014" y="14,800"/>
@@ -160,14 +164,14 @@
                 </dataset>
               </graph>
               <chapter>
-                <title>China after Yellen speech</title>
+                <title>China</title>
                 <paragraph>The Chinese central bank strengthened yuan fixing as dollar dropped after the speech.
                   In the money market in that day, the Chinese central bank injected $9.2 billion through seven-day reverse-repurchase agreement to maintain liquidity in the market.
                   Over the past few months, the Chinese economy has been facing liquidity issue, prompting PBOC to conduct money market operation on daily basis.</paragraph>
                   <paragraph>PBOC injected 60 billion yuan in the market.</paragraph>
                 </chapter>
                 <chapter>
-                  <title>Australia after Yellen speech</title>
+                  <title>Australia</title>
                   <paragraph>Australian stocks tracked a surge in the U.S. and bonds in the region climbed after the speech
                     reasserted the central bank’s gradual approach to raising interest rates. Shares in Sydney
                     snapped a three day decline after U.S. equities erased their losses for the year, with Yellen indicating
@@ -175,20 +179,19 @@
                     <paragraph>Australian Dollar has rised 12% since mid-January.</paragraph>
                   </chapter>
                   <chapter>
-                    <title>Effects in South Korea after Yellen speech</title>
+                    <title>South Korea</title>
                     <paragraph>The South Korean won notched a 2016 high on Wednesday morning after U.S. Federal Reserve Chair Janet Yellen speech.
                       The won is likely to continue extending its gains in the near-term and find its footing at around the 1,140.0 level.
                       The risk-off sentiment could still crop up given a shaky global oil price and a strengthening Japanese yen.</paragraph>
                       <paragraph>The most important stock market is Samsung Electronics Co Ltd that were down about 0.50% after Fed governor speech.</paragraph>
                     </chapter>
                     <chapter>
-                      <title>Japan after Yellen speech</title>
+                      <title>Japan</title>
                       <paragraph>The yen, which typically moves at odds with Japanese shares, was steady at 112.74 per dollar following a 0.7 percent bounce Tuesday that snapped its seven-day decline. The Japanese currency is headed for a 0.1 percent drop in March, after
                         surging in February. The yen now has to contend with negative rates not having the desired effect,
                         the Bank of Japan assessing other unconventional monetary policy options and a U.S. central bank unlikely to raise rates.</paragraph>
                       </chapter>
                       <graph unit="JPY" x="date" y="number">
-                        <title></title>
                         <dataset label= "Japan Exports">
                           <data x="201504" y="6,550.23"/>
                           <data x="201507" y="6,663.77"/>
@@ -213,11 +216,11 @@
                       </sources>
                     </section>
                     <section>
-                      <title>This week in monetary policy</title>
-                      <abstract>weekly calendar of central banks meetings</abstract>
+                      <title>Weekly monetary policy</title>
+                      <subtitle>March 28th–April 02nd</subtitle>
                       <chapter>
-                        <title>Central Banks The world’s slow growth week’s meetings</title>
-                        <paragraph>From March 28th to April 2nd, central banks from 8 countries or jurisdictions are scheduled to decide on monetary policy: Israel, Angola, Kyrgyzstan, Sri Lanka, Czech Republic, Romania, Moldova, Fiji.</paragraph>
+                        <title>A weekly calendar of central banks meetings</title>
+                        <paragraph>This week, central banks from 8 countries or jurisdictions are scheduled to decide on monetary policy: Israel, Angola, Kyrgyzstan, Sri Lanka, Czech Republic, Romania, Moldova, Fiji.</paragraph>
                       </chapter>
                       <table>
                         <row type="head">
@@ -245,7 +248,7 @@
                       </sources>
                     </section>
                     <section>
-                      <title>The world's slow growth</title>
+                      <title>The World's slow growth</title>
                       <graph unit="%" x="date" y="number">
                         <dataset label="Global Growth">
                           <data x="2013" y="2.4"/>
@@ -330,7 +333,7 @@
                       </sources>
                     </section>
                     <section>
-                      <title>How bigger is your debt?</title>
+                      <title>How big is your debt?</title>
                       <abstract>By looking at level of gross gov.ment debt as a % of GDP, it can indicate how able a country is to pay back debts without incurring further debt.</abstract>
                       <graph unit="USD" x="country" y="number">
                         <title>Countries GDP</title>
@@ -365,7 +368,7 @@
                       </sources>
                     </section>
                     <section>
-                      <title>10 most into debt countries</title>
+                      <title>The 10 most indebted countries</title>
                       <table>
                         <row type="head">
                           <cell>Number</cell>
@@ -431,15 +434,16 @@
                       </sources>
                     </section>
                     <section>
+                      <title>Global growth</title>
                       <chapter>
-                        <title>The Countries Will Drive Global Growth in 2016</title>
+                        <title>The countries that will drive in 2016</title>
                         <paragraph>Despite what appears to be a global slowdown in 2016, a number of the largest economies are expected to carry the global economy as emerging markets fluctuate.</paragraph>
                         <paragraph>
                           <list type="unordered">
-                            <item>United States: Is the largest economy in the world and keeps the world spinning. Besides being home to the biggest financial hub in the world, the U.S. economy is a leader in a number of facets in the global landscape.</item>
-                            <item>China: Despite the bearish expectations surrounding China, the second-largest economy is not on the brink of a financial crisis. The challenges which have plagued China to this point in 2016 come amid a transition from an export-led economy to a consumption based economy.</item>
-                            <item>India: Compared to most other major developing countries, India has positioned itself to withstand the near term volatility.</item>
-                            <item>European Union: As the economy continues to wane, experts have predicted an end to the Eurozone if another financial crisis were to strike. That being said, there remain a few bright spots amongst the members that make up the European Union.</item>
+                            <item>UNITED STATES. It is the largest economy in the world and keeps the world spinning. Besides being home to the biggest financial hub in the world, the U.S. economy is a leader in a number of facets in the global landscape.</item>
+                            <item>CHINA. Despite the bearish expectations surrounding China, the second-largest economy is not on the brink of a financial crisis. The challenges which have plagued China to this point in 2016 come amid a transition from an export-led economy to a consumption based economy.</item>
+                            <item>INDIA. Compared to most other major developing countries, India has positioned itself to withstand the near term volatility.</item>
+                            <item>EU. As the economy continues to wane, experts have predicted an end to the Eurozone if another financial crisis were to strike. That being said, there remain a few bright spots amongst the members that make up the European Union.</item>
                           </list>
                         </paragraph>
                       </chapter>
@@ -451,7 +455,7 @@
                       </sources>
                     </section>
                     <section>
-                      <title>American Dream?</title>
+                      <title>Has the American Dream come to an end?</title>
                       <chapter>
                         <paragraph>Employment growth remains strong but wages grew a mere 2.3% compared to a year ago. It’s especially disappointing because the economy has added millions of jobs in the last two years. When job growth increases, wages tend to follow with it.</paragraph>
                       </chapter>
@@ -473,7 +477,7 @@
                         </dataset>
                       </graph>
                       <chapter>
-                        <paragraph>One reason for mediocre wage growth is the number of Americans who want full-time work but can only find part-time jobs. That’s a key reason why underemployment - which combines unemployment and people looking for better jobs - remains high.</paragraph>
+                        <paragraph>One reason for mediocre wage growth is the number of Americans who want full-time work but can only find part-time jobs. That’s a key reason why underemployment—which combines unemployment and people looking for better jobs—remains high.</paragraph>
                       </chapter>
                       <keywords>
                         <keyword name="Employment" />
