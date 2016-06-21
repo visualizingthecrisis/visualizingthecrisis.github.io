@@ -10,6 +10,7 @@
     <sections>
       <section>
         <title>Bonds</title>
+        <subtitle>Classification</subtitle>
         <chapter>
           <title>What is a bond?</title>
           <paragraph>A bond is a debt investment in which an investor loans money to an entity which borrows the funds for a defined period of time at a variable or fixed interest rate. Bonds are used by companies, municipalities, states and sovereign governments to raise money and finance a variety of projects and activities. Owners of bonds are debtholders, or creditors, of the issuer.</paragraph>
@@ -27,7 +28,7 @@
               <item>AAA–AA: High credit-quality investment grade</item>
               <item>AA–BBB: Medium credit-quality</item>
               <item>BB–C: Low credit-quality</item>
-              <item>D: In default for non-payment of principal and/or interest</item>
+              <item>D: In default for non-payment of interests</item>
             </list>
           </paragraph>
         </chapter>
@@ -41,10 +42,11 @@
         </sources>
       </section>
       <section>
-        <title>Yield</title>
+        <title>Bonds</title>
+        <subtitle>The Yield</subtitle>
         <chapter>
           <title>The best bond is...</title>
-          <paragraph>There are some kinds of bonds: Bonds emerging market are issued by governments or societies from emerging countries; corporate bonds are issued by private societies; government bonds issue by western countries for financing their pubblic debt; Supernatura bonds issued by agencies like central banks or IMB.</paragraph>
+          <paragraph>There are different kinds of bonds: Bonds from emerging market are issued by governments or societies from emerging countries; corporate bonds are issued by private societies; government bonds are issued by Western countries for financing their pubblic debt; Supernatura bonds are issued by agencies like central banks or IMB.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="percentage">
           <dataset label= "safety yield">
@@ -76,7 +78,8 @@
         </sources>
       </section>
       <section>
-        <title>Where I should invest?</title>
+        <title>Bonds</title>
+        <subtitle>Where I should invest?</subtitle>
         <graph unit="%" x="country" y="number">
           <title>10 years yield bonds in the world</title>
           <dataset label= "Yield">
@@ -115,7 +118,8 @@
         </sources>
       </section>
       <section>
-        <title>The new European way</title>
+        <title>Bonds</title>
+        <subtitle>The new European way</subtitle>
         <chapter>
           <paragraph>From the introduction of QE, BCE decided to buy corporate bonds, that are debts security issued by a corporation and sold to investors. But somethings doesn’t work in the last few weeks because the economy and the Draghi choices. In fact, yields is 0.78% and it is yield historical minimum.</paragraph>
         </chapter>
@@ -154,7 +158,7 @@
           <paragraph>Mossak Fonseca worked with more than 14,000 banks, law firms, company incorporators and other middlemen to set up companies, foundations and trusts for customer.</paragraph>
         </chapter>
         <graph unit="" x="string" y="number">
-          <title>The 10 most popular tax havens in the Panama Papers</title>
+          <title>The 10 most popular tax havens</title>
           <dataset label= "numbers of companies in Panama Papers">
              <data x="British Virgin Island" y="113,648"/>
              <data x="Panama" y="48,360"/>
@@ -201,7 +205,8 @@
         </sources>
       </section>
       <section>
-        <title>Global Offshore Wealth</title>
+        <title>Panama Papers</title>
+        <subtitle>Global offshore wealth</subtitle>
         <chapter>
           <paragraph>The persistence of financial flows routed through offshore financial mechanisms highlights the pressing need to create greater coherence among tax and investment policies at the global level.</paragraph>
         </chapter>
@@ -227,7 +232,8 @@
         </sources>
       </section>
       <section>
-        <title>The amount of data leaks</title>
+        <title>Panama Papers</title>
+        <subtitle>The amount of data leaks</subtitle>
         <chapter>
           <paragraph>Panama Papers is the biggest-ever international cooperation of its kind. In the past 12 months, around 400 journalists from more than 100 media organizations in over 80 countries have taken part in researching the documents.</paragraph>
         </chapter>
@@ -268,7 +274,7 @@
       <section>
         <title>The cost of tax evasion</title>
         <chapter>
-          <paragraph>According to The Hidden Wealth of Nations, a recent book by University of California, Berkeley economist Gabriel Zucman, the answer is that tax evasion costs governments approximately $200 billion per year. Zucman also estimates that tax avoidance by U.S. corporations — which, unlike tax evasion, is generally carried out in the open and is technically legal — costs governments an additional $130 billion per year.</paragraph>
+          <paragraph>According to The Hidden Wealth of Nations, a recent book by University of California, Berkeley economist Gabriel Zucman, the answer is that tax evasion costs governments approximately $200 billion per year. Zucman also estimates that tax avoidance by U.S. corporations—which, unlike tax evasion, is generally carried out in the open and is technically legal—costs governments an additional $130 billion per year.</paragraph>
         </chapter>
         <quote>
           <author>Gabriel Zucman</author>
