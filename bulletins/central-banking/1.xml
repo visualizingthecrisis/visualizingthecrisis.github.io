@@ -274,7 +274,7 @@
                   <chapter>
                     <title>Meetings programmed in 2016</title>
                   <paragraph>                                                   <!--[0-N]-->
-                    <list type="Date">                                          <!--[1-N]-->
+                    <list type="unordered">                                          <!--[1-N]-->
                       <item>SHANGHAI: February 26-27, 2016</item>
                       <item>WASHINGTON D.C.: April 14-15, 2016</item>
                       <item>CHENGDU: July 23-24, 2016</item>
@@ -552,7 +552,7 @@
                  </chapter>
                      <graph unit="%" x="date" y="number">
                        <title>Capital inflows</title>
-                       <dataset>
+                       <dataset label="">
                          <data x="2000" y="0.9"/>
                          <data x="2001" y="1.25"/>
                          <data x="2002" y="1.7"/>
