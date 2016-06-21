@@ -11,7 +11,7 @@
       <section>
         <title>The last Bin Laden</title>
         <chapter>
-          <paragraph>The European Central Bank (ECB) approved on Wednesday the progressive disappearance of 500 euro notes as a method to fight crime, drug trafficking or terrorism. The council body, formed by its president, Mario Draghi, and the presidents of all the continental central banks agreed that member states can not print more paper currency units higher value of the entire eurozone. ECB decided to stop issuing the high-value note by the end of 2018. The 500 euro is rarely used in daily transactions, it has even been nicknamed “Bin Laden” for its elusiveness.</paragraph>
+          <paragraph>The European Central Bank (ECB) approved on Wednesday, May 4th, 2016 the progressive disappearance of the 500€ notes as a method to fight crime, drug trafficking and terrorism. The council body, formed by its president, Mario Draghi, and the presidents of all the continental central banks agreed that member states can not print more paper currency units higher value of the entire eurozone. ECB decided to stop issuing the high-value note by the end of 2018. The 500€ note is rarely used in daily transactions, it has even been nicknamed “Bin Laden” for its elusiveness.</paragraph>
         </chapter>
         <graph unit="EUR" x="country" y="number">
           <title>€500 emissed by central bank in 2015</title>
@@ -33,8 +33,8 @@
         </sources>
       </section>
       <section>
-        <title>Do you know that...</title>
-        <abstract>News about €500 banknotes</abstract>
+        <title>The 500€ banknote</title>
+        <abstract>Do you know that...</abstract>
         <graph unit="%" x="string" y="number">
           <title>The portion of €500 banknotes in circulation value</title>
           <dataset label= "€500 in circulation">
@@ -66,7 +66,7 @@
       </section>
       <section>
         <title>Pro death</title>
-        <abstract>The country that wants to abolish €500 banknote</abstract>
+        <subtitle>The country that wants to abolish the 500€ banknote</subtitle>
         <chapter>
           <paragraph>France is one of the countries that wanted to stop printing €500 banknotes. Indeed, a few weeks ago the Minister of Finance, Michel Sapin has thus settled the question: “500 euros’ banknotes are generally used to hide things instead of buying them”, highlighting the correlation between this banknote and the crime.</paragraph>
         </chapter>
@@ -87,7 +87,8 @@
       </sources>
       </section>
       <section>
-        <title>Top Italian 500 bill deposit</title>
+        <title>The 500€ banknote</title>
+        <subtitle>Top Italian deposits</subtitle>
         <chapter>
           <paragraph>In 2015 Italian Central Bank emitted 65 millions of €500 but they have returned more than 8 times. During the last few years that bill is incresed in every banks like a deposit, especially in the north of country.</paragraph>
         </chapter>
@@ -120,9 +121,10 @@
       </sources>
       </section>
       <section>
-        <title>Growth of Euro banknotes in circulation</title>
+        <title>The 500€ banknote</title>
+        <subtitle>Growth in circulation</subtitle>
         <chapter>
-          <paragraph>The circulation of €500 bill has increased dramatically from 2002, sparking fears the bill was being used to finance terrorism. The €500 bill now makes up just under a third of all cash in circulation in the EU. The other denominations, from €5 to €200,will remain in place.</paragraph>
+          <paragraph>The circulation of €500 bill has increased dramatically from 2002, sparking fears the bill was being used to finance terrorism. The 500€ bill now makes up just under a third of all cash in circulation in the EU. The other denominations, from €5 to €200, will remain in place.</paragraph>
         </chapter>
         <graph unit="EUR" x="date" y="number">
           <title>Growth of Euro banknotes</title>
@@ -202,14 +204,14 @@
       <section>
         <title>Against death</title>
         <chapter>
-          <paragraph>In Germany, at a time when trust in the ECB is at record lows, it will certainly be seen as a further step in the direction of the removal of cash.Reasons for the unease over changes to the composition of cash in Germany, Austria and Switzerland range from a simple preference for an anonymous payment method.</paragraph>
+          <paragraph>In Germany, at a time when trust in the ECB is at record lows, it will certainly be seen as a further step in the direction of the removal of cash. Reasons for the unease over changes to the composition of cash in Germany, Austria and Switzerland range from a simple preference for an anonymous payment method.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="percentage">
           <title>German transactions in cash</title>
           <abstract>Germany is one of the countries that continue to use big size of cash and it is against the reform for this.</abstract>
           <dataset label= "German transactions">
-            <data x="transactions in cash" y="80"/>
-            <data x="electronic transactions" y="20"/>
+            <data x="Cash transactions" y="80"/>
+            <data x="Electronic transactions" y="20"/>
           </dataset>
         </graph>
         <keywords>
@@ -221,8 +223,8 @@
       </sources>
       </section>
       <section>
-        <title>Europe in cash</title>
-        <abstract>Volume and value of cash in Europe</abstract>
+        <title>Cash Europe</title>
+        <subtitle>Volume and value</subtitle>
         <chapter>
           <paragraph>If you look at certain countries and certain sectors, digital payments have already taken off in Europe. But Europe also includes Italy, Portugal and Germany, where cash is still used very frequently.</paragraph>
         </chapter>
@@ -244,9 +246,9 @@
       </section>
       <section>
         <title>How much is it?</title>
-        <abstract>Cost to abolish €500 banknote</abstract>
+        <subtitle>The cost to abolish the 500€ banknote</subtitle>
         <chapter>
-          <paragraph>This reform has a price for European Central Bank, indeed they have to print more 100 and 200 euro banknotes for substituting .500 bill. The operation costs about 500 millions euros, said Bundesbank. But, this is important for improving investments and reduce save money.</paragraph>
+          <paragraph>The reform has a price for the European Central Bank, since they'll have to print more 100€ and 200€ banknotes for substituting the 500€ bill. The operation will cost about 500 millions euros, said the Bundesbank. But this is important for improving investments and save money.</paragraph>
         </chapter>
         <keywords>
         <keyword name="Currencies" />
@@ -264,7 +266,7 @@
           <paragraph>While DDoS attacks were once deemed primarily a nuisance, experts now say they're becoming
 a routine strategy cybercriminals use as part of a campaign to commit fraud or extortion. The second
 quarter of 2015 set a record for the number of distributed denial of service (DDoS) attacks recorded
-on Akamai’s Prolexic Routed netw ork— more than double what was reported in Q2 2014.
+on Akamai’s Prolexic Routed network—more than double what was reported in Q2 2014.
 The profile of the typical attack, however, has changed. In Q2 last year, high-bandwidth,
 short-duration attacks were the norm, driven by the use of server-based botnets. This quarter,
 less powerful but longer duration attacks were the norm.</paragraph>
@@ -403,7 +405,8 @@ less powerful but longer duration attacks were the norm.</paragraph>
       </sources>
       </section>
       <section>
-        <title>DDoS attack frequency by industry</title>
+        <title>DDoS attacks</title>
+        <subtitle>Frequency by industry</subtitle>
         <graph unit="%" x="string" y="number">
           <dataset label= "2015 DDoS attack">
             <data x="Education" y="2.5"/>
@@ -435,9 +438,9 @@ less powerful but longer duration attacks were the norm.</paragraph>
         <paragraph>Money laundering is the process of creating the appearance that large amounts of money obtained from serious crimes, such as drug trafficking or terrorist activity, originated from a legitimate source.</paragraph>
         <paragraph>
           <list type="ordered">
-            <item>Placement, refers to the act of introducing "dirty money" into the financial system in some way, that can be: smuggling currency, change money in another form, payment of loans.</item>
-            <item>Layering, this step is to obscure or remove the trail of money so that it can't be traced to its orignal source.</item>
-            <item>Integration, refers to the act of acquiring that money in purportedly legitimate means.</item>
+            <item>PLACEMENT. It refers to the act of introducing "dirty money" into the financial system in some way, that can be: smuggling currency, change money in another form, payment of loans.</item>
+            <item>LAYERING. This step is to obscure or remove the trail of money so that it can't be traced to its orignal source.</item>
+            <item>INTEGRATION. It refers to the act of acquiring that money in purportedly legitimate means.</item>
           </list>
         </paragraph>
       </chapter>
