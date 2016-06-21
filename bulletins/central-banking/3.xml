@@ -11,13 +11,13 @@
             <section>
               <title>The week of interest rates</title>
               <chapter>                                                         <!--[0-N]-->
-              <paragraph>This week Central Banks from 15 countries or jurisdictions are scheduled to decide on monetary policy. Rates typically reflect the health of individual economies, as in a perfect scenario, Central Banks tend to rise rates when the economy is growing and therefore instigate inflation. Rate cuts on the other hand, are a way to stimulate a struggling economy.</paragraph>                                          <!--[0-N]-->
+              <paragraph>On the week of March 14th–19th, Central Banks from 15 countries or jurisdictions are scheduled to decide on monetary policy. Rates typically reflect the health of individual economies, as in a perfect scenario, Central Banks tend to rise rates when the economy is growing and therefore instigate inflation. Rate cuts on the other hand, are a way to stimulate a struggling economy.</paragraph>                                          <!--[0-N]-->
               <paragraph>The Bank of Japan said on Tuesday it would maintain its massive asset buying program at existing levels but offered a bleaker view of the economy, suggesting it may roll out more stimulus as it struggles to reach an elusive inflation target.</paragraph>                                                                   <!--[0-N]-->
               <paragraph>The SNB is using negative interest rates, coupled with an unspecified amount of foreign currency purchases, to weaken the Swiss franc and protect exports to the euro zone, Switzerland’s biggest trading partner.</paragraph>                                          <!--[0-N]-->
             </chapter>
             <graph unit="%" x="country" y="number"> 		                  <!--[0-N]-->
               <title>Policy Rate</title>                                        <!--[0-1]-->
-              <abstract>The graph shows interest rate policy decisions during the week and the inflaction rate for each State</abstract>                                                 <!-- max 144 char-->
+              <abstract>The graph shows interest rate policy decisions during the week and the inflaction rate for each State.</abstract>                                                 <!-- max 144 char-->
               <dataset label= "Interest Rate 2015">                           	<!--[1-N]-->
                 <data x="KZ" y="5.50"/>                                               <!--[1-N]-->
                 <data x="MZ" y="7.50"/>
@@ -52,7 +52,7 @@
                 <data x="RU" y="15.2"/>
                 <data x="MX" y="3.75"/>
               </dataset>
-              <dataset label= "Inflaction Rate">                           	<!--[1-N]-->
+              <dataset label= "Inflation Rate">                           	<!--[1-N]-->
                 <data x="KZ" y="15.2"/>                                               <!--[1-N]-->
                 <data x="MZ" y="15.2"/>
                 <data x="JP" y="0"/>
@@ -88,11 +88,10 @@
         </sources>
             </section>
             <section>
-              <title>The Kuroda's opinion</title>
               <quote>
                 <author>Haruhiko Kuroda</author>
-                <role>Governor of the Bank of Japan (BOJ)</role>
-                <text>I am not considering further lowering the negative interest rate, because the policy effects are already being seen in them. It is expected to spread to the real economy and prices in the future, In fact, the bank can cut the rate.</text>
+                <role>Governor of the Bank of Japan</role>
+                <text>I am not considering further lowering the negative interest rate, because the policy effects are already being seen in them. It is expected to spread to the real economy and prices in the future. In fact, the bank can cut the rate.</text>
               </quote>
               <keywords>                                                      <!--[ 1 ]-->
                  <keyword name="Interest Rates"/>
@@ -107,11 +106,11 @@
               <title>Five influent central banks change interest rate</title>   <!--[0-1]-->
               <chapter>                                                       <!--[0-N]-->
           <title>Top Five Central Banks</title>								                  <!--[0-1]-->
- 	        <paragraph>The interest rate change is very important because it affects: unemployment rate, stock market, GDP, oil prices and money depreciation. The central banks involved this week consists in: Bank of Japan, Fed, Bank of England, Norges bank and the Swiss SNB.</paragraph>                        <!--[0-N]-->
+ 	        <paragraph>The interest rate change is very important because it affects unemployment rate, stock market, GDP, oil prices and money depreciation. The central banks involved this week are the Bank of Japan, Fed, Bank of England, Norges bank and the Swiss SNB.</paragraph>                        <!--[0-N]-->
         </chapter>
         <graph unit="%" x="country" y="number"> 		          <!--[0-N]-->
           <title>GDP and Unemployment</title>                                    <!--[0-1]-->
-          <abstract>They're connected with interest rate, because when the GDP rise up also interest rate grows. When the interest rate is low also the unemployment</abstract>     <!-- max 144 char-->
+          <abstract>They're connected with interest rate, because when the GDP rise up also interest rate grows. When the interest rate is low also the unemployment.</abstract>     <!-- max 144 char-->
           <dataset label= "GDP 2015">                           	<!--[1-N]-->
             <data x="US" y="1"/>                               <!--[1-N]-->
             <data x="GB" y="0.5"/>
@@ -146,9 +145,9 @@
             </section>
             <section>                                                         <!--[1-N]-->
         <title>Oil Prices</title>                                    <!--[0-1]-->
-        <abstract>Oil prices before and after the interest rate changes</abstract>					                                    <!-- max 144 char-->
+        <subtitle>Before and after the interest rate changes</subtitle>					                                    <!-- max 144 char-->
         <chapter>                                                               <!--[0-N]-->
-          <paragraph>The most affected States that produce oil are United States and Norway. For United States oil price grown because interest rate is low against foreign currencies and the state need more money for buying oil. While, Norway has an economic problem because oil prices are low and this cause a heavy impact.</paragraph>
+          <paragraph>The most affected states that produce oil are the United States and Norway. For United States oil price grown because interest rate is low against foreign currencies and the state need more money for buying oil. While, Norway has an economic problem because oil prices are low and this cause a heavy impact.</paragraph>
           <paragraph>West Texas Intermediate, also known as Texas light sweet, is a grade of crude oil used as a benchmark in oil pricing. It’s described as light because of its relatively low density, and sweet because of its low sulfur content.</paragraph>
           <paragraph>Brent Crude is a major trading classification of sweet light crude oil that serves as a major benchmark price for purchases of oil worldwide and it is extracted from the North Sea.The marker is also known as Brent Blend and London Brent.</paragraph>                                                     <!--[0-1]-->
         </chapter>
