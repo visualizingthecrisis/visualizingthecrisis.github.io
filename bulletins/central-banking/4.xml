@@ -9,7 +9,7 @@
   <bulletin id="04" date="20160326">                                     <!--[1-N]-->                                                    <!--[0-1]-->
     <sections>                                                            <!--[ 1 ]-->
       <section>
-        <title>World goes negative</title>
+        <title>The World goes negative</title>
         <chapter>
           <paragraph>Imagine a bank that pays negative
 interest. Crazy as it sounds, several
@@ -42,12 +42,13 @@ central banks.</paragraph>
       <section>
         <title>Sweden</title>
         <chapter>
-          <title>The less european 2016’s country ever</title>
-          <paragraph>To tow the Swedish economy were mainly two factors: interest rates kept very low by the central bank and a strong increase in public and private spending to meet the migrants emergency.</paragraph>
+          <title>The least European country</title>
+          <paragraph>Mainly two factors towed the Swedish economy in 2016: interest rates were kept very low by the central bank; a strong increase in public and private spending was fostered to meet the migrants emergency.</paragraph>
         </chapter>
         <graph unit="" x="country" y="number">
           <title>Asylum seekers</title>
-          <dataset label= "Asylum seekers per million of population in 2014">
+          <abstract>In 2015, Sweden has welcomed 180,000 immigrants, twice the number of 2014.</abstract>
+          <dataset label= "Number per million of population, 2014">
             <data x="SE" y="7,918"/>
             <data x="HU" y="4,188"/>
             <data x="DK" y="2,656"/>
@@ -62,15 +63,12 @@ central banks.</paragraph>
         </dataset>
         </graph>
         <chapter>
-          <paragraph>In 2015 have been welcomed 180,000 immigrants, twice the 2014.</paragraph>
-        </chapter>
-        <chapter>
           <title>The GDP growth</title>
           <paragraph>The Swedish economy advanced a seasonally adjusted 0.5% on the quarter in the three months to March of 2016, following an upwardly revised 1.6% expansion in the previous period and missing market expectations of 0.7% growth.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="number"> 		          <!--[0-N]-->
-          <title>Sweden</title>                                    <!--[0-1]-->
-          <abstract>The current situation and forecasts about negative interest rate and GDP in Sweden</abstract>					                        				                            <!-- max 144 char-->
+          <title>Interest rate</title>                                    <!--[0-1]-->
+          <abstract>The current situation and forecasts about negative interest rate and GDP in Sweden.</abstract>					                        				                            <!-- max 144 char-->
           <dataset label= "GDP">                           	<!--[1-N]-->
             <data x="Jan-Mar" y="1.1"/>                               <!--[1-N]-->
             <data x="Apr-Jun" y="1"/>
@@ -85,7 +83,7 @@ central banks.</paragraph>
           </dataset>
         </graph>
         <chapter>
-          <paragraph>In 2014 both private and public spending rebounded, as well as fixed investment which grew the most in seven years. On the expenditure side, household consumption is the main component of GDP and accounts for 46 percent of its total use, followed by government consumption (26 percent) and gross fixed capital formation (23 percent). Exports of goods and services account for 45 percent of GDP while imports account for 41 percent, adding 4 percent of total GDP.</paragraph>
+          <paragraph>In 2014 both private and public spending rebounded, as well as fixed investment which grew the most in seven years. On the expenditure side, household consumption is the main component of GDP and accounts for 46% of its total use, followed by government consumption (26%) and gross fixed capital formation (23%). Exports of goods and services account for 45 percent of GDP while imports account for 41%, adding 4% of total GDP.</paragraph>
         </chapter>
         <keywords>                                                      <!--[ 1 ]-->
           <keyword name="Interest Rates"/>                                   <!--[1-N]-->
@@ -113,11 +111,11 @@ going negative for the first time in mid-2012 in a bid
 to keep its currency in check. The policy has achieved
 its main objective because appreciation pressure on
 the krone has “disappeared completely.”</paragraph>
-          <paragraph>The central bank’s efforts to date to save its currency regime have actually proved profitable. In addition to extreme rate cuts, Denmark was forced to ratchet up foreign reserves in 2015 until they accounted for about 40 percent of gross domestic product. It made about 2 billion kroner ($300 million) from transactions focused on defending the krone’s peg to the euro, it said on Wednesday. Its total profit in 2015 was 3.6 billion kroner.</paragraph>
+          <paragraph>The central bank’s efforts to date to save its currency regime have actually proved profitable. In addition to extreme rate cuts, Denmark was forced to ratchet up foreign reserves in 2015 until they accounted for about 40% of Gross Domestic Product. It made about 2 billion kroner ($300 million) from transactions focused on defending the krone’s peg to the euro, it said on Wednesday. Its total profit in 2015 was 3.6 billion kroner.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="number"> 		          <!--[0-N]-->
-          <title>Denmark</title>                                    <!--[0-1]-->
-          <abstract>The current situation and forecasts about negative interest rate and GDP in Denmark</abstract>					                        				                            <!-- max 144 char-->
+          <title>Interest rate</title>                                    <!--[0-1]-->
+          <abstract>The current situation and forecasts about negative interest rate and GDP in Denmark.</abstract>					                        				                            <!-- max 144 char-->
           <dataset label= "GDP">                           	<!--[1-N]-->
             <data x="Jan-Mar" y="0.3"/>                               <!--[1-N]-->
             <data x="Apr-Jun" y="0.4"/>
@@ -147,7 +145,7 @@ the krone has “disappeared completely.”</paragraph>
           <paragraph>Denmark’s GDP growth rebounded slightly after the very weak data recorded in Q3 2015. However, the economy is likely to grow below 1% for 2016 as a whole. Nevertheless, employment growth continues to be strong, with private sector adding 3,200 employees in January. Inflation in January had decelerated as expected but seems likely to remain positive before accelerating again in H2 2016.</paragraph>
         </chapter>
         <chapter>                                                       <!--[0-N]-->							                  <!--[0-1]-->                       <!--[0-N]-->
-          <title>What is deposit rate?</title>								                  <!--[0-1]-->
+          <title>What is a deposit rate?</title>								                  <!--[0-1]-->
           <paragraph>It is a rate paid by financial institutions to deposit account holders. Deposit accounts include certificates of deposit, savings accounts and self-directed deposit retirement accounts.</paragraph>                        <!--[0-N]-->
           <paragraph>Hungary and Euro Area have a positive interest rate or near zero, but they have a negative deposit rate. Practically, they do this, because to discourage banks from holding money and thus weaken the currency.</paragraph>
         </chapter>
@@ -169,7 +167,8 @@ the krone has “disappeared completely.”</paragraph>
           <paragraph>In Euro Area the current employment rate is 10.3%, but the forecast is 9.6%</paragraph>                                           <!--[0-N]-->
         </chapter>
         <graph unit="%" x="country" y="number">
-          <dataset label= "Unemployment Rate 2016">
+          <title>Unemployment Rate 2016</title>
+          <dataset label="">
             <data x="DE" y="4.2"/>
             <data x="GB" y="4.9"/>
             <data x="AT" y="5.8"/>
@@ -189,12 +188,10 @@ the krone has “disappeared completely.”</paragraph>
         </dataset>
         </graph>
         <chapter>
-          <title>Switzerland Import/export</title>
-          <paragraph>Export-oriented industrial sector has been particularly hard hit by the franc, which finished last year 10 percent stronger. Sulzer AG, a pump and mining drill manufacturer, is closing its plant north-east of Zurich.</paragraph>
+          <title>Switzerland Import/Export</title>
+          <paragraph>Switzerland import and export are going better, but import is lower than export again. Export-oriented industrial sector has been particularly hard hit by the franc, which finished last year 10 percent stronger. Sulzer AG, a pump and mining drill manufacturer, is closing its plant north-east of Zurich.</paragraph>
         </chapter>
-          <graph unit="CHF" x="date" y="number"> 		          <!--[0-N]-->
-          <title>Switzerland import/export</title>                                    <!--[0-1]-->
-          <abstract>Switzerland import and export are going better, but import is lower than export again</abstract>					                        				                            <!-- max 144 char-->
+          <graph unit="CHF" x="date" y="number"> 		          <!--[0-N]-->					                        				                    
           <dataset label= "Import">                           	<!--[1-N]-->
             <data x="201508" y="11,476.5"/>                               <!--[1-N]-->
             <data x="201509" y="13,909.5"/>
@@ -282,12 +279,12 @@ the krone has “disappeared completely.”</paragraph>
         <section>
           <title>Trend on negative?</title>                                                           <!--[1-N]-->
           <chapter>                                                         <!--[0-N]-->                                                          <!--[0-1]-->
-            <paragraph>On March 22nd the National Bank of Hungary decided to adopt a negative rate because it want to reach 3% inflation. Now, the state’s inflation is increasing but it’s not enough, this is the reason why it changed in negative. Many other states are thinking about negative interest rate. Is it a new tendency? What can it do for the economy situation? Is it better or worste?</paragraph>                                                           <!--[0-N]-->
-            <paragraph>In 2020 Hungary is prefixing to reach the inflation rate of 3% during the year.</paragraph>                                              <!--[0-N]-->
+            <paragraph>On March 22nd the National Bank of Hungary decided to adopt a negative rate because it want to reach 3% inflation. Now, the state’s inflation is increasing but it’s not enough, this is the reason why it changed in negative. Many other states are thinking about negative interest rate. Is it a new tendency? What can it do for the economy situation? Is it better or worst?</paragraph>                                                           <!--[0-N]-->
+            <paragraph>In 2020 Hungary is aiming to reach the inflation rate of 3% during the year.</paragraph>                                              <!--[0-N]-->
           </chapter>
           <graph unit="%" x="string" y="number"> 		          <!--[0-N]-->
             <title>Hungary</title>                                    <!--[0-1]-->
-            <abstract>Hungary is increasing its inflation with new trend of negative rate</abstract>						        					                            <!-- max 144 char-->
+            <abstract>Hungary is increasing its inflation with new trend of negative rate.</abstract>						        					                            <!-- max 144 char-->
             <dataset label= "Interest Rate">                           	<!--[1-N]-->
               <data x="Jan-Mar" y="1.35"/>                               <!--[1-N]-->
               <data x="Apr-Jun" y="1.35"/>
@@ -312,8 +309,7 @@ the krone has “disappeared completely.”</paragraph>
             <source>ilmessaggero.it</source>
           </sources>
         </section>
-        <section>
-          <title>Claudio Borio opinion</title>                                                                                                                         <!--[1-N]-->
+        <section>                                                                                                                        <!--[1-N]-->
           <quote>                                                         <!--[0-N]-->
             <author>Claudio Borio</author>                                  <!--[ 1 ]-->
             <role>Head of the Monetary and Economic Department in Bank for International Settlements.</role>
