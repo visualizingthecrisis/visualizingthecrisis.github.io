@@ -9,7 +9,7 @@
   <bulletin id="08" date="20160430">
     <sections>
       <section>
-        <title>A Shadow world</title>
+        <title>A Shadow World</title>
         <chapter>
           <title>What is shadow banking?</title>
           <paragraph>A shadow banking system refers to the financial intermediaries involved in facilitating the creation of credit across the global financial system, but whose members are not subject to regulatory oversight. The shadow banking system also refers to unregulated activities by regulated institutions.</paragraph>
@@ -65,7 +65,7 @@
         </sources>
       </section>
       <section>
-        <title>Differences between shadow banking and regular banks</title>
+        <title>Shadow banking vs. regular banks</title>
         <chapter>
           <title>What are the differences?</title>
           <paragraph>Like regular banks, shadow banks provide credit and generally increase the liquidity of the financial sector.Yet unlike their more regulated competitors, they lack access to central bank funding or safety nets such as deposit insurance and debt guarantees, instead, they rely on short-term funding.</paragraph>
@@ -81,7 +81,7 @@
         </sources>
       </section>
       <section>
-        <title>Banking vs shadow banking</title>
+        <title>Shadow Banking assets vs. regular banking assets</title>
         <graph unit="%" x="country" y="number">
           <title>World Assets</title>
           <dataset label= "Shadow banking assets of GDP">
@@ -156,7 +156,8 @@
         </sources>
       </section>
       <section>
-        <title>A shadow banking overview</title>
+        <title>Shadow banking</title>
+        <subtitle>An overview</subtitle>
         <chapter>
           <paragraph>The relative size of national jurisdictions’ shadow banking sectors has shifted somewhat since 2010. The relative decline of shadow banking assets since 2010, most notably in Japan, France, United Kingdom, and the United States was counterbalanced by an increase in the share in a number of other jurisdictions. Most notably, the share of EMEs doubled from 6% of global shadow banking assets in 2010 to 12% in 2014, driven mostly by China.</paragraph>
           <paragraph>Growth rates differed considerably across jurisdictions. All but two jurisdictions saw their shadow banking assets rise in 2014, and several showed a marked increase in growth rates compared to 2013. Exchange rate-adjusted growth rates of shadow banking assets in 2014 exceeded 30% in Argentina, China, and Hong Kong. However, for Argentina and Hong Kong, the strong growth in shadow banking is largely due to the low base effect given the relatively small size of shadow banking in these jurisdictions.</paragraph>
@@ -185,7 +186,8 @@
         </sources>
       </section>
       <section>
-        <title>China shadow banking</title>
+        <title>Shadow banking</title>
+        <subtitle>China</subtitle>
         <chapter>
           <title>Beware China’s shadow banks</title>
           <paragraph>China's "shadow" banks, which hold assets worth about 80% of the country's GDP, have become dangerously intertwined with commercial banks. Christopher Balding explains why they pose a growing systemic threat.</paragraph>
@@ -272,9 +274,11 @@
         </sources>
       </section>
       <section>
-        <title>ECB shadows</title>
+        <title>Shadow Banking</title>
+        <subtitle>The ECB</subtitle>
         <chapter>
-          <paragraph>The management of markets by the ECB is causing a hidden run on the shadow banking system, which is leading to demand for cash to replace credit. No one knows the true size of the Eurozone’s shadow banks, partly because they are hard to define, and partly because attempts to quantify it focus on only six Eurozone member states. But we are talking of huge numbers. According to the most recent report on shadow banking by the Financial Stability Board, the six Eurozone countries included in its assessment of total shadow banking assets is 23% of the $80 trillion global total, amounting to some $18.4 trillion equivalent. At the heart of the euro area’s shadow banks is sovereign debt, which because of the ECB’s quantitative easing purchases, is being priced substantially in excess of risk-determined levels.</paragraph>
+          <paragraph>The management of markets by the ECB is causing a hidden run on the shadow banking system, which is leading to demand for cash to replace credit. No one knows the true size of the Eurozone’s shadow banks, partly because they are hard to define, and partly because attempts to quantify it focus on only six Eurozone member states.</paragraph>
+          <paragraph>But we are talking of huge numbers. According to the most recent report on shadow banking by the Financial Stability Board, the six Eurozone countries included in its assessment of total shadow banking assets is 23% of the $80 trillion global total, amounting to some $18.4 trillion equivalent. At the heart of the euro area’s shadow banks is sovereign debt, which because of the ECB’s quantitative easing purchases, is being priced substantially in excess of risk-determined levels.</paragraph>
           <paragraph>Shadow banking facilitates the creation of credit for the purpose of deferring settlement of transactions from the present into the future. If a central bank starves the shadow banks of high-quality collateral against which it issues credit, the system’s ability to expand credit goes into reverse gear, restricting their ability to defer settlements. Demand for cash must therefore rise. That is why euros, and yen for that matter, have become today’s strongest currencies in recent months as this effect has begun to bite.</paragraph>
         </chapter>
         <keywords>
@@ -288,7 +292,8 @@
         </sources>
       </section>
       <section>
-        <title>Zimbabwe in shadows</title>
+        <title>Shadow Banking</title>
+        <subtitle>Zimbabwe</subtitle>
         <chapter>
           <paragraph>Just like the retail sector has witnessed a new revolution in the form of vendors, the financial sector in Zimbabwe is facing its own in the form of shadow banks. More germane to Zimbabwe, some so called “microfinance” institutions are now basically operating as shadow banks. In a rather mundane style, most microfinance institutions have played a distinct form of a zero sum game where fragility of depositor confidence in the mainstream financial system has been their splendent gain.</paragraph>
           <paragraph>In general, microfinance institutions are supposed to confine themselves to the provision of microcredit to the lower end of the consumer chain, which is typically made up of low income groups and small businesses that are supposedly shun by mainstream banks. On the contrary, most microfinance institutions are moving into spheres like structured finance, asset and trade finance, investments (often using pyramid schemes), securitisation and even mortgage based lending. This is the reason why they have become shadow banks in themselves because all such activities are preserved for the regulated mainstream banking system.</paragraph>
@@ -296,12 +301,14 @@
         </chapter>
         <chapter>
           <title>Policy framework to mitigate shadow banking risk</title>
+          <paragraph>
           <list type="ordered">
           <item>Identification of shadow banking risks</item>
           <item>Adoption of policy tools</item>
           <item>Supervision and enforcement</item>
           <item>Evaluation and adaptation</item>
         </list>
+        </paragraph>
         </chapter>
         <keywords>
           <keyword name="Global Corporations" />
