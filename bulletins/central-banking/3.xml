@@ -130,26 +130,6 @@
         <chapter>                                                               <!--[0-N]-->
           <title>Exchange rates</title>                                                      <!--[0-1]-->
           <paragraph>The exchange rate between two currencies is the rate at which one currency will be exchanged for another. It is also regarded as the value of one country’s currency in terms of another currency. The values are effects of interest rates changes.</paragraph>
-          <paragraph>
-            <list type="ordered">
-              <item>GBP to USD 1.41327 and the opposite 0.70746</item>
-              <item>GBP to CHF 1.39482 and the opposite 0.7167</item>
-              <item>GBP to NOK 12.0908 and the opposite 0.08263</item>
-              <item>GBP to JPY 160.23 and the opposite 0.0062</item>
-            </list>
-            <list type="ordered">
-              <item>USD to CHF 0.98691 and the opposite 1.013</item>
-              <item>USD to NOK 8.55516 and the opposite 0.1168</item>
-              <item>USD to JPY 113.38 and the opposite 0.00882</item>
-            </list>
-            <list type="ordered">
-              <item>CHF to NOK 8.66635 and the opposite 0.11527</item>
-              <item>CHF to JPY 114.85 and the opposite 0.0087</item>
-            </list>
-            <list type="ordered">
-              <item>NOK to JPY 13.24 and the opposite 0.07545</item>
-            </list>
-              </paragraph>                                              <!--[0-N]-->
         </chapter>
         <keywords>                                                      <!--[ 1 ]-->
            <keyword name="Employment"/>                                    <!--[1-N]-->
