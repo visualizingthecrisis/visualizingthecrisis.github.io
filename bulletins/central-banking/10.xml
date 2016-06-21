@@ -238,26 +238,26 @@
         <graph unit="t" x="country" y="number">
           <title>Countries gold reserves</title>
           <dataset label= "gold holdings">
-            <data x="US" y="8,133.5"/>
-            <data x="DE" y="3,381.0"/>
-            <data x="IT" y="2,451.8"/>
-            <data x="FR" y="2,435.7"/>
-            <data x="CN" y="1,797.5"/>
-            <data x="RU" y="1,460.4"/>
-            <data x="CH" y="1,040.0"/>
-            <data x="JP" y="765.2"/>
-            <data x="NL" y="612.5"/>
-            <data x="IN" y="557.7"/>
-            <data x="TR" y="479.3"/>
-            <data x="TW" y="422.7"/>
-            <data x="PT" y="382.5"/>
-            <data x="SA" y="322.9"/>
-            <data x="GB" y="310.3"/>
-            <data x="LB" y="286.8"/>
-            <data x="ES" y="281.6"/>
-            <data x="AT" y="280.0"/>
-            <data x="VE" y="272.9"/>
-            <data x="KZ" y="228.3"/>
+            <data x="United States" y="8,133.5"/>
+            <data x="Germany" y="3,381.0"/>
+            <data x="Italy" y="2,451.8"/>
+            <data x="France" y="2,435.7"/>
+            <data x="China" y="1,797.5"/>
+            <data x="Russia" y="1,460.4"/>
+            <data x="Switzerland" y="1,040.0"/>
+            <data x="Japan" y="765.2"/>
+            <data x="Netherlands" y="612.5"/>
+            <data x="India" y="557.7"/>
+            <data x="Turkey" y="479.3"/>
+            <data x="Taiwan" y="422.7"/>
+            <data x="Portugal" y="382.5"/>
+            <data x="Saudi Arabia" y="322.9"/>
+            <data x="United Kingdom" y="310.3"/>
+            <data x="Lebanon" y="286.8"/>
+            <data x="Spain" y="281.6"/>
+            <data x="Austria" y="280.0"/>
+            <data x="Venezuela" y="272.9"/>
+            <data x="Kazakhstan" y="228.3"/>
         </dataset>
         </graph>
         <chapter>
