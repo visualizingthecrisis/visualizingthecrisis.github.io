@@ -11,19 +11,23 @@
       <section>
         <title>Bonds</title>
         <chapter>
-          <title>What is a "bond"?</title>
-          <paragraph>It is a debt investment in which an investor loans money to an entity which borrows the funds for a defined period of time at a variable or fixed interest rate. Bonds are used by companies, municipalities, states and sovereign governments to raise money and finance a variety of projects and activities. Owners of bonds are debtholders, or creditors, of the issuer.</paragraph>
-          <paragraph>
+          <title>What is a bond?</title>
+          <paragraph>A bond is a debt investment in which an investor loans money to an entity which borrows the funds for a defined period of time at a variable or fixed interest rate. Bonds are used by companies, municipalities, states and sovereign governments to raise money and finance a variety of projects and activities. Owners of bonds are debtholders, or creditors, of the issuer.</paragraph>
+          <paragraph>Bonds are ranked by duration:</paragraph>
+            <paragraph>
             <list type="unordered">
-              <item>Bonds duration less then 1 year</item>
-              <item>Bonds duration from 1 to 10 years</item>
-              <item>Bonds duration more then 10 years</item>
+              <item>Less than 1 year</item>
+              <item>Brom 1 to 10 years</item>
+              <item>More than 10 years</item>
             </list>
+            </paragraph>
+            <paragraph>or by rating:</paragraph>
+            <paragraph>
             <list type="unordered">
-              <item>Rating AAA;AA high credit-quality investment grade</item>
-              <item>Rating AA;BBB medium credit-quality</item>
-              <item>Rating BB;C low credit-quality</item>
-              <item>Rating D in default for non-payment of principal and/or interest</item>
+              <item>AAA–AA: High credit-quality investment grade</item>
+              <item>AA–BBB: Medium credit-quality</item>
+              <item>BB–C: Low credit-quality</item>
+              <item>D: In default for non-payment of principal and/or interest</item>
             </list>
           </paragraph>
         </chapter>
