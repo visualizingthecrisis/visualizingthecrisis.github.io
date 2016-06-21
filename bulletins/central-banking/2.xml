@@ -599,25 +599,16 @@ When the bitcoin client switches to another, longer chain, all valid transaction
         </sources>
             </section>
             <section>
-              <title>The blockchain in numbers</title>
-              <graph unit="" x="date" y="number">
-                <title>The rising blockchain size</title>
-                <dataset label= "Blockchain size">
-                  <data x="2016" y="61"/>
-                </dataset>
-              </graph>
-              <graph unit="" x="date" y="number">
-                <title>Number of transactions per day</title>
-                <dataset label= "transaction per day">
-                  <data x="20160313" y="185"/>
-                </dataset>
-              </graph>
-              <graph unit="" x="date" y="number">
-                <title>Number of transactions per block</title>
-                <dataset label= "transaction per block">
-                  <data x="20160313" y="1,2"/>
-                </dataset>
-              </graph>
+              <chapter>
+                <title>The blockchain in numbers</title>
+                <paragraph>
+                  <list type="unordered">
+                    <item>The rising blockchain size is 61 in 2016</item>
+                      <item>On March 13rd number of transactions per day is 185</item>
+                      <item>On March 13rd number of transactions per block is 1,2</item>
+                      </list>
+                </paragraph>
+              </chapter>
               <keywords>
           <keyword name="Commerce" />
           <keyword name="Tech" />
