@@ -30,19 +30,16 @@
         </sources>
               </section>
               <section>
-        <title>2016 Washingthon D.C. Spring Annual Meeting</title>
-        <abstract>
-    		    The relationship between The World Bank
-            and The International Monetary Fund
-        </abstract>
+        <title>The relationship between The World Bank and The International Monetary Fund</title>
+        <subtitle>2016 Washingthon D.C. Spring Annual Meeting</abstract>
         <chapter>
           <paragraph>
             Each year central bankers, ministers of finance
             and development, private sector executives, and academics
             meet together to discuss issues of global concern, including
             the world economic outlook, poverty eradication, economic development,
-            and aid effectiveness. This year will be held in Washington D.C. on April
-            15th - 17th.
+            and aid effectiveness. This year the meeting will be held in Washington D.C. on April
+            15th—17th.
           </paragraph>
         </chapter>
         <chapter>
@@ -110,14 +107,14 @@
           <chapter>
             <title>1. Subscriptions </title>
               <paragraph>
-                determines the maximum amount
+                It determines the maximum amount
                 of financial resources the member
                 is obliged to provide to the IMF.
               </paragraph>
             </chapter>
                 <graph unit="%" x="string" y="percentage">
                   <dataset label= "member quotas">
-                    <data x="SDRs or accepted currencies" y="25"/>
+                    <data x="SDRs or accepted currency" y="25"/>
                     <data x="member's own currencies" y="75"/>
                   </dataset>
                 </graph>
@@ -145,7 +142,7 @@
               recognized that while the
               global recovery continues,
               it remains too weak and
-              uneven - and falls short
+              uneven—and falls short
               of our collective ambition
               for strong, sustainable
               and balanced growth.
@@ -165,7 +162,7 @@
                      <title>The Group of Twenty</title>
                 <chapter>                                                       <!--[0-N]-->
                 <title>What G20 does</title>                              <!--[0-1]-->
-                <paragraph>Formally established in September 1999 the Group is the premier forum for international cooperation on the most important issues of the global economic and financial agenda.
+                <paragraph>Formally established in September 1999, the G20 is the premier forum for international cooperation on the most important issues of the global economic and financial agenda.
                   It promotes open and constructive discussion between industrial and emerging-market countries on key issues related to global economic stability.</paragraph>                                <!--[0-N]-->
                 </chapter>
                 <chapter>
@@ -262,7 +259,7 @@
                   <row type="cell">                                             <!--[1-N]-->
                     <cell>2016</cell>                                           <!--[1-N]-->
                     <cell>Hangzhou</cell>
-                    <cell>Chinas</cell>
+                    <cell>China</cell>
                   </row>
                   <row type="cell">                                             <!--[1-N]-->
                     <cell>2017</cell>                                           <!--[1-N]-->
@@ -271,21 +268,16 @@
                   </row>
                 </table>
                 <chapter>                                                       <!--[0-N]-->
-                <title>Finance Ministers and Central Bank Governors’Meetings</title>      <!--[0-1]-->
-                  <paragraph>They are meeting this weekend in Shanghai to discuss the current state of the global economy, which looks shaky at best. With concerns over the U.S. stock market, global growth, and the ability for governments to fight another global recession.</paragraph>          <!--[0-N]-->
+                <title>A meeting in Shanghai</title>      <!--[0-1]-->
+                  <paragraph>Finance Ministers and Central Bank Governors’ are meeting this weekend in Shanghai to discuss the current state of the global economy, which looks shaky at best. With concerns over the U.S. stock market, global growth, and the ability for governments to fight another global recession.</paragraph>          <!--[0-N]-->
                   </chapter>
                   <chapter>
-                    <title>Meetings programme in 2016</title>
+                    <title>Meetings programmed in 2016</title>
                   <paragraph>                                                   <!--[0-N]-->
                     <list type="Date">                                          <!--[1-N]-->
-                      <item>February 26-27, 2016</item>
-                      <item>April 14-15, 2016</item>
-                      <item>July 23-24, 2016</item>
-                    </list>
-                    <list type="City">                                          <!--[0-N]-->
-                      <item>Shanghai</item>                                     <!--[1-N]-->
-                      <item>Washington D.C.</item>
-                      <item>Chengdu</item>
+                      <item>SHANGHAI: February 26-27, 2016</item>
+                      <item>WASHINGTON D.C.: April 14-15, 2016</item>
+                      <item>CHENGDU: July 23-24, 2016</item>
                     </list>
                   </paragraph>
                 </chapter>
@@ -299,13 +291,13 @@
                 </sources>
               </section>
               <section>                                                         <!--[1-N]-->
-                <title>What you need to know about this G20 Summit</title>      <!--[0-1]-->
+                <title>What you need to know about the next G20 Summit</title>      <!--[0-1]-->
                 <chapter>                                                       <!--[0-N]-->
                 <paragraph>
                   <list type="ordered">                                          <!--[0-N]-->
-                    <item>We’re in the midst of a currency war, and nobody wants to admit it</item>                                              <!--[1-N]-->
-                    <item>The countries who can afford fiscal stimulus are ideologically opposed to it</item>
-                    <item>There’s no agreement on what to do to combat the coming global downturn WB IMF</item>
+                    <item>We’re in the midst of a currency war, and nobody wants to admit it.</item>                                    
+                    <item>The countries who can afford fiscal stimulus are ideologically opposed to it.</item>
+                    <item>There’s no agreement on what to do to combat the coming global downturn WB IMF.</item>
                   </list>
                 </paragraph>
               </chapter>
@@ -329,34 +321,35 @@
                   <data x="2017" y="3.2" />
                 </dataset>
               </graph>
-              <chapter>                                                         <!--[0-N]-->
-              <paragraph>While emerging markets and developing economies will still account for the lion’s share of world growth in 2016, prospects across countries remain uneven and generally weaker than over the past two decades.</paragraph>                 <!--[0-N]-->
-              <title>Brexit</title>                                             <!--[0-1]-->
-                <paragraph>The term refers to the possibility of Britain withdrawal from the European Union. The impact of the UK leaving the European Union create an instable economic situation where everyone loses, because of the tight link between UK and EU markets. Economists are now trying to focus on the possible or probable consequences both positive or negative in terms of number and GDP.</paragraph>      <!--[0-N]-->
+              <chapter>  
+              <title>Brexit</title>  <!--[0-N]-->
+              <paragraph>While emerging markets and developing economies will still account for the lion’s share of world growth in 2016, prospects across countries remain uneven and generally weaker than over the past two decades.</paragraph>             
+                <paragraph>The term refers to the possibility of Britain withdrawal from the European Union. The impact of the UK leaving the European Union create an instable economic situation where everyone loses, because of the tight link between UK and EU markets. </paragraph>
+                <paragraph>Economists are now trying to focus on the possible or probable consequences both positive or negative in terms of number and GDP.</paragraph>      <!--[0-N]-->
               </chapter>
               <table>                                                           <!--[0-N]-->
                 <row type="head">                                               <!--[ 1 ]-->
                   <cell>Countries</cell>                                           <!--[1-N]-->
-                  <cell>GDP</cell>
+                  <cell>GDP (in 3 years)</cell>
                 </row>
                 <row type="cell">                                               <!--[1-N]-->
-                  <cell>UK</cell>                                               <!--[1-N]-->
+                  <cell>United Kingdom</cell>                                               <!--[1-N]-->
                   <cell>-4%</cell>
                 </row>
                 <row type="cell">                                               <!--[1-N]-->
-                  <cell>IS</cell>                                               <!--[1-N]-->
+                  <cell>Ireland</cell>                                               <!--[1-N]-->
                   <cell>-2.66%</cell>
                 </row>
                 <row type="cell">                                               <!--[1-N]-->
-                  <cell>DE</cell>                                               <!--[1-N]-->
+                  <cell>Germany</cell>                                               <!--[1-N]-->
                   <cell>-0.33%</cell>
                 </row>
                 <row type="cell">                                               <!--[1-N]-->
-                  <cell>FR</cell>                                               <!--[1-N]-->
+                  <cell>France</cell>                                               <!--[1-N]-->
                   <cell>-0.26%</cell>
                 </row>
                 <row type="cell">                                               <!--[1-N]-->
-                  <cell>ES</cell>                                               <!--[1-N]-->
+                  <cell>Spain</cell>                                               <!--[1-N]-->
                   <cell>-0.22%</cell>
                 </row>
               </table>
@@ -375,7 +368,7 @@
                  <title>The Group of Seven</title>
                    <paragraph>
                      At its beginnings in 1985, the
-                     Group was an informal gathering
+                     G7 was an informal gathering
                      of heads of state and governments
                      of the world's most advanced
                      economies. In 1998 Russia joined
@@ -389,10 +382,17 @@
                    </paragraph>
                </chapter>
                <chapter>
-                 <title>G8 when Russia participate</title>
+                 <title>G8 in 1997 (when Russia joined)</title>
                    <paragraph>
                      <list type="unordered">
+                       <item>Canada</item>
+                       <item>France</item>
+                       <item>Germany</item>
+                       <item>Italy</item>
+                       <item>Japan</item>
                        <item>Russia</item>
+                       <item>United Kingdom</item>
+                       <item>United States</item>
                      </list>
                    </paragraph>
                </chapter>
@@ -427,12 +427,12 @@
                </sources>
            </section>
            <section>
-             <title>G7/8 Summits</title>
+             <title>G7/G8 Summits</title>
              <chapter>
-               <title>G7/8 Meetings</title>
+               <title>Annual meetings</title>
                  <paragraph>
-                   The annual G7/8 leaders summit
-                   attended by the heads of
+                   The annual G7/G8 leaders' summits
+                   are attended by the heads of
                    government. They meet to discuss
                    issues such as global economic
                    governance, international security,
@@ -505,20 +505,22 @@
              </sources>
            </section>
            <section>
-             <title>Finance Ministers and Central Bank Governors' Meetings</title>
+             <title>A meeting in Sendai</title>
                <chapter>
-                 <title>May 20th and 21st, Sendai City</title>
+                 <title>Topics to be discussed</title>
                    <paragraph>
-                     The meeting covers the following
-                     four broad topic areas: Global
-                     Economy; International Financial
-                     Architecture; Sustainable and
-                     Inclusive Development; and
-                     Integrity of Financial Flows.
+                     Finance Ministers and Central Bank Governors' will meet on May 20th-21st in Sendai, Japan, to discuss about the following
+                     four broad topic areas:</paragraph>
+                     <list type="unordered">
+                       <item>Global Economy</item>
+                       <item>International Financial Architecture</item>
+                       <item>Sustainable and Inclusive Development</item>
+                       <item>Integrity of Financial Flows</item>
+                     </list>
                    </paragraph>
                    </chapter>
                    <chapter>
-                     <title>Topics May 20th and 21st meeting</title>
+                     <title>Goals to be achieved</title>
                    <paragraph>
                      <list type="ordered">
                        <item>Revitalizing Global Economy</item>
@@ -537,9 +539,9 @@
                </sources>
            </section>
            <section>
-             <title>G7/8 topics</title>
+             <title>G7/G8 topics</title>
                <chapter>
-                 <title>Net Capital Inflows to Emerging Market Economies</title>
+                 <title>Net Capital Inflows</title>
                    <paragraph>
                      Net capital inflows to emerging markets over the
                      past four decades have exhibited cycles. A slowdown
@@ -550,6 +552,7 @@
                  </chapter>
                      <graph unit="%" x="date" y="number">
                        <title>Capital inflows</title>
+                       <dataset>
                          <data x="2000" y="0.9"/>
                          <data x="2001" y="1.25"/>
                          <data x="2002" y="1.7"/>
@@ -566,6 +569,7 @@
                          <data x="2013" y="1.81"/>
                          <data x="2014" y="0.33"/>
                          <data x="2015" y="-1.1"/>
+                       </dataset>
                      </graph>
                <chapter>
                  <title>Health</title>
