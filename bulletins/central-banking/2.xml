@@ -327,11 +327,11 @@
               <title>Bitcoin</title>
               <chapter>
                 <paragraph>Bitcoin is a digital currency created in 2009. It follows the ideas set out in a white paper by the mysterious Satoshi Nakamoto, whose true identity has yet to be verified. Bitcoin offers the promise of lower transaction fees than traditional online payment mechanisms and is operated by a decentralized authority, unlike government issued currencies.</paragraph>
-                <paragraph>The satoshi is currently the smallest unit of the bitcoin currency recorded on the blockchain. It is a one hundred millionth of a single bitcoin (0.00000001 BTC)</paragraph>
+                <paragraph>The satoshi is currently the smallest unit of the bitcoin currency recorded on the blockchain. It is a one hundred millionth of a single bitcoin (0.00000001 BTC).</paragraph>
               </chapter>
               <graph unit="USD" x="date" y="number">
                 <title>Average BTC transactions per day</title>
-                <dataset label= "BTC transactions per day">
+                <dataset label="">
                   <data x="2011" y="2"/>
                   <data x="2012" y="2"/>
                   <data x="2013" y="40"/>
@@ -339,7 +339,7 @@
                 </dataset>
               </graph>
               <chapter>
-                <paragraph>In 2014 the number of bitcoin transaction were $74.3 million. In just six short years the popularity of cryptocurrencies have soared.</paragraph>
+                <paragraph>In 2014 the number of bitcoin transactions were $74.3 million. In just six years the popularity of cryptocurrencies have soared.</paragraph>
                 <paragraph>Bitcoin is the largest cryptocurrency in both market capitalization, volume, acceptance and notoriety, but it’s not the most valuable coin.</paragraph>
               </chapter>
               <chapter>
@@ -357,16 +357,16 @@
                 </dataset>
               </graph>
               <chapter>
-                <paragraph>The top industries in terms of bitcoin acceptance remain remarkably consistent. IT Services, including website hosting, registrars, and VPN services represents over a third of all merchant types.</paragraph>
-                <paragraph>The merchant type ‘Other’ comprises a broad range of retailers, enabling bitcoin owners to spend their coins on everything from high-end watches to charity donations.</paragraph>
+                <paragraph>The top industries in terms of bitcoin acceptance remain remarkably consistent. IT Services, including website hosting, registrars, and VPN services represent over a third of all merchant types.</paragraph>
+                <paragraph>The merchant type ‘Other’ comprises a broad range of retailers, enabling bitcoin owners to spend their coins on everything, from high-end watches to charity donations.</paragraph>
               </chapter>
               <chapter>
                 <title>Why you should choose bitcoin as a payment method system</title>
                 <paragraph>
                   <list type="ordered">
-                  <item>PROTECTION FROM PAYMENT FRAUD. Bitcoins are digital and cannot be counterfeited or reversed arbitrarily by the sender</item>
+                  <item>PROTECTION FROM PAYMENT FRAUD. Bitcoins are digital and cannot be counterfeited or reversed arbitrarily by the sender.</item>
                   <item>REDUCED POSSIBILITY OF IDENTITY THEFT. Bitcoins use a “push” mechanism that allows the bitcoin holder to send exactly what he or she wants to the merchant or recipient with no further information.</item>
-                  <item>DIRECT TRANSFERS FOR IMMEDIATE SETTLEMENT. Bitcoins contracts can be designed and enforced to eliminate or add third party approvals</item>
+                  <item>DIRECT TRANSFERS FOR IMMEDIATE SETTLEMENT. Bitcoins contracts can be designed and enforced to eliminate or add third party approvals.</item>
                   <item>LOWER FEES. There aren’t usually transaction fees for bitcoin exchanges because the bitcoin miner is compensated by the network with newly issued bitcoins.</item>
                 </list>
                 </paragraph>
@@ -377,11 +377,11 @@
                 <paragraph>
                   <list type="unordered">
                   <item>1/2 the number of new bitcoins created each year is automatically halved over time until bitcoin issuance halts completely.</item>
-                  <item>By 2040 all 21 million Bitcoins should have been mines.</item>
+                  <item>By 2040 all 21 million Bitcoins should have been mined.</item>
                 </list>
                 </paragraph>
-                <paragraph>Currencies have experienced extreme volatility - Bitcoin increased in value by 5,000% during the course of 2013.</paragraph>
-                <paragraph>Its value has now plummeted from over $1,151 to just $232 as ofAugust 2015.</paragraph>
+                <paragraph>Currencies have experienced extreme volatility—Bitcoin increased in value by 5,000% during the course of 2013.</paragraph>
+                <paragraph>Its value has now plummeted from over $1,151 to just $232 as of August 2015.</paragraph>
                 <paragraph>15,285,225 Bitcoin are in circulation, as of March 2016.</paragraph>
               </chapter>
               <keywords>
@@ -438,8 +438,6 @@
               <chapter>
                 <title>Mining</title>
                 <paragraph>Bitcoin mining is the process of making computer hardware do mathematical calculations for the Bitcoin network to confirm transactions and increase security. Mining is a specialized and competitive market where the rewards are divided up according to how much calculation is done.</paragraph>
-              </chapter>
-              <chapter>
                 <paragraph>Note that only the first steps involve action by the seller and buyer respectively. The latter are automatically executed by the Bitcoin client software and Bitcoin network. As well, storing the private key attached to an address safely and securely is of the utmost importance; otherwise, anyone who obtains the private key can control the Bitcoins at that address and use them fraudulently.</paragraph>
               </chapter>
               <keywords>
@@ -461,11 +459,11 @@
                 <paragraph>Forty of the world’s biggest banks, including HSBC
 and Citi, have tested a system for trading fixed income
 using the technology that underpins bitcoin, fintech
-company R3 CEV said on Thursday. The banks are
+company R3 CEV said on Thursday, March 3th, 2016. The banks are
 part of a consortium of 42 major lenders, brought
 together last year by New York-based R3 CEV to
 work on ways blockchain technology could be used
-in financial markets - the first time so many have
+in financial markets—the first time so many have
 collaborated on using such systems.</paragraph>
               </chapter>
               <chapter>
@@ -474,8 +472,7 @@ collaborated on using such systems.</paragraph>
 citizens’ health records to a database, based on
 blockchain technology, that nobody can mess with.
 While financial institutions rave about the potential
-for blockchain – the technology that powers bitcoin
-– as a way to revolutionize the financial world, it can
+for blockchain—the technology that powers bitcoin—as a way to revolutionize the financial world, it can
 also help keep private data secure.</paragraph>
               </chapter>
               <chapter>
@@ -486,7 +483,7 @@ It might not even take an institution as large as the US
 government to stop Bitcoin. The global decentralized
 currency could soon cause its own unwinding.</paragraph>
 <paragraph>The problem isn’t that people have stopped using
-the service. On the contrary—too many people have
+the service. On the contrary, too many people have
 started to use Bitcoin, and as a result, the payment
 system is jammed up. Instead of processing payments
 quickly, it’s taking hours in some cases. Tens of
@@ -526,11 +523,10 @@ Russia’s central bank joins the blockchain bandwagon in the months after Sberb
         </sources>
             </section>
             <section>
-              <title>Ben Broadbent's opinion</title>
               <quote>
                 <author>Ben Broadbent</author>
                 <role>Deputy governor for monetary policy at the Bank of England</role>
-                <text>This technology could be applied to many things, not just the exchange and registering of financial assets.</text>
+                <text>Blockchain technology could be applied to many things, not just the exchange and registering of financial assets.</text>
               </quote>
               <keywords>
           <keyword name="Tech" />
@@ -541,10 +537,11 @@ Russia’s central bank joins the blockchain bandwagon in the months after Sberb
         </sources>
             </section>
             <section>
-              <title>The technology behind bitcoin transactions, the so-called blockchain is a digital public ledger system</title>
+              <title>Blockchain technology</title>
+              <subtitle>A digital public ledger system</subtitle>
               <chapter>
                 <title>Blockchain</title>
-                <paragraph>A blockchain essentially works as a global and public ledger.
+                <paragraph>Blockchain is the technology behind bitcoin transactions. It essentially works as a global and public ledger.
 Information is stored on a distributed network of computers, there’s no central database that can be tampered with or hacked.
 Every 10 minutes, all transactions are recorded in a virtual block, and a new block is created, linked to all
 the previous blocks in the chain. The blocks are visible to both parties involved in the transaction.
@@ -575,11 +572,11 @@ When the bitcoin client switches to another, longer chain, all valid transaction
         </sources>
             </section>
             <section>
-              <title>Nodes in the world</title>
-              <abstract>Transactions in the world</abstract>
+              <title>Bitcoin nodes</title>
+              <subtitle>How many transactions in the world?</subtitle>
               <graph unit="" x="string" y="number">
-                <title>Reachable nodes as of Sun Mar 13 2016 22:37:12</title>
-                <dataset label= "average in the last 24 hours">
+                <title>Reachable nodes as of Sunday, March 13th, 2016</title>
+                <dataset label="average in the last 24 hours">
                   <data x="World" y="7403"/>
                   <data x="US" y="2533"/>
                   <data x="DE" y="820"/>
@@ -587,8 +584,8 @@ When the bitcoin client switches to another, longer chain, all valid transaction
                 </dataset>
               </graph>
               <chapter>
-                <title>transactions per block</title>
-                <paragraph>185,497 transactions per block Sun Mar 13 2016</paragraph>
+                <title>Transactions per block</title>
+                <paragraph>185,497 transactions per block as of Sunday, March 13th, 2016.</paragraph>
               </chapter>
               <keywords>
           <keyword name="Commerce" />
@@ -599,8 +596,8 @@ When the bitcoin client switches to another, longer chain, all valid transaction
         </sources>
             </section>
             <section>
+              <title>The blockchain in numbers</title>
               <chapter>
-                <title>The blockchain in numbers</title>
                 <paragraph>
                   <list type="unordered">
                     <item>The rising blockchain size is 61 in 2016</item>
