@@ -11,8 +11,11 @@
       <section>
         <title>Apocalypse Now</title>
         <chapter>
-          <title>Countries with higher debt</title>
-          <paragraph>Although, central banks monetary policy decisions, the global economy is going very bad. The situation is uncontrollable: world public debt weight a lot on the economy, the same is inflation and money volatility. Central banks is worried about it, but what could they do for making better this gravity state? Maybe, their control is limited and they can’t predict everything.</paragraph>
+          <paragraph>Despite central banks' monetary policy decisions, the global economy is going very bad. The situation is out of control: World's public debt weights a lot on the economy, and the same is for inflation and money volatility. Central banks are worried about it, but what could they do for improving this situation? Maybe, their control is limited and they can’t predict everything.
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>Countires with highest debt</title>
           <paragraph>
             <list type="unordered">
               <item>Canada</item>
@@ -45,7 +48,7 @@
       </sources>
       </section>
       <section>
-        <title>Europe economic situation in red</title>
+        <title>The European economic situation is in red</title>
         <chapter>
           <title>The debt in Europe</title>
           <paragraph>Private and public sector debt is high in a substantial amount of European countries. The majority of eurozone countries, have breached the EU criterion that public debt should not exceed 60% of GDP. Most countries have also triggered an alert in the Union’s macroeconomic imbalances procedure with private debt ratios above 130% of GDP.</paragraph>
@@ -62,13 +65,8 @@
       </sources>
       </section>
       <section>
-        <title>The worst country is..</title>
-        <graph unit="%" x="string" y="number">
-          <title>Greece Debt</title>
-          <dataset label= "Debt">
-            <data x="Greek" y="147.1"/>
-          </dataset>
-        </graph>
+        <title>European debt</title>
+        <subtitle>And the worst country is...</subtitle>
         <chapter>
           <title>Greek the worst country in debt</title>
           <paragraph>In 2009 when the global financial crisis struck, the rickety structure of Greece economy collapsed. Greece’s GDP shrank by 4.7% and the deficit ballooned to over 12% of GDP. After ECB helps programmes the situation is practically the same with serious problems for families and companies.</paragraph>
@@ -95,10 +93,16 @@
             <cell>May 24th another bailout request?</cell>
           </row>
         </table>
+        <graph unit="%" x="string" y="number">
+          <title>Greece's debt</title>
+          <dataset label= "Debt">
+            <data x="Greek" y="147.1"/>
+          </dataset>
+        </graph>
         <graph unit="EUR" x="string" y="number">
-          <title>Where did money go?</title>
+          <title>Where did the money go?</title>
           <abstract>The distribution of bailouts money</abstract>
-          <dataset label= "Distribution of bailouts billion money">
+          <dataset label= "Billions of euros">
             <data x="For the State" y="9.7"/>
             <data x="For banks" y="37"/>
             <data x="For paying interest" y="52"/>
@@ -118,10 +122,11 @@
       </sources>
       </section>
       <section>
-        <title>ECB Haircut</title>
+        <title>European debt</title>
+        <subtitle>The ECB Haircut</subtitle>
         <chapter>
           <title>ECB measures for Greek</title>
-          <paragraph>ECB measures , called “haircut” impose to Greece governor cause a lot of negative effects to Greece population and also to the investors.</paragraph>
+          <paragraph>The European Central Bank's measures—called “haircut”—impose to Greece governor cause a lot of negative effects to Greece population and also to the investors.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="number">
           <title>The consequences of ECB measures</title>
@@ -149,7 +154,8 @@
       </sources>
       </section>
       <section>
-        <title>WEEKLY NEWS</title>
+        <title>Weekly News</title>
+        <subtitle>May 9th–14th</subtitle>
         <chapter>
           <title>Judgment Day</title>
           <paragraph>On 24th May, Greece governor has to give first tranche of money back to Europe for helping during the financial crisis.</paragraph>
@@ -195,9 +201,10 @@
       </sources>
       </section>
       <section>
-        <title>Who is the next in crisis?</title>
+        <title>European debt</title>
+        <subtitle>Who is the next in crisis?</subtitle>
         <graph unit="%" x="string" y="number">
-          <title>Italy Debt</title>
+          <title>Italian debt</title>
           <dataset label= "Debt">
             <data x="Italy" y="122.6"/>
           </dataset>
@@ -208,7 +215,7 @@
         </chapter>
         <graph unit="%" x="string" y="number">
           <title>The debt distribution in Italy</title>
-          <dataset label= "Debt">
+          <dataset label= "">
             <data x="North" y="4.2"/>
             <data x="Center" y="4.8"/>
             <data x="South" y="8.6"/>
