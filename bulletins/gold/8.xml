@@ -173,6 +173,8 @@
                      the so-called "Divorce" between the Bank of Italy and the Treasury. </paragraph>
                   <paragraph>The latest quantitative change, which have led the reserves to the current amounts, took place in 1998 with the definitive transfer
                     of gold held dall'UIC. On January 5, 1999, with the transfer to the ECB of 141 tons of metal.</paragraph>
+                    <paragraph>Actually Bank of Italy manages the country's large gold holdings, which account for 66.6%
+                    of its foreign reserves. Italy, which controls 2,451.8 tonnes of gold, hasn't altered its reserves in several years.<paragraph>
             </chapter>
             <keywords>
               <keyword name="Western Europe" />
@@ -183,7 +185,8 @@
               </sources>
       </section>
       <section>
-            <title>An alternative currency, the Bitcoin</title>
+            <title>The Bitcoin</title>
+             <subtitle>An alternative currency</subtitle>
             <chapter>
               <paragraph>
                 Bitcoin is an electronic money created in 2009 by an anonymous known by the pseudonym Satoshi Nakamoto.
@@ -196,7 +199,7 @@
             </chapter>
             <graph unit= "$" x="date" y="number">
                 <title>The great Bitcoin performance of 2015</title>
-                <dataset label="Bitcoin value">
+                <dataset>
                   <data x= "20150101" y="300"/>
                   <data x= "20150201" y="240"/>
                   <data x= "20150301" y="250"/>
@@ -214,7 +217,7 @@
             </graph>
             <graph unit= "$" x="date" y="number">
                 <title>Bitcoin performance 2014/2015</title>
-                <dataset label="Bitcoin value">
+                <dataset>
                   <data x= "20140101" y="725"/>
                   <data x= "20140601" y="480"/>
                   <data x= "20141101" y="650"/>
@@ -224,7 +227,7 @@
             </graph>
             <graph unit= "$/oz" x="date" y="number">
                 <title>Gold price performance 2014/2015</title>
-                <dataset label="Gold price">
+                <dataset>
                   <data x= "20140101" y="1,235"/>
                   <data x= "20140601" y="1,300"/>
                   <data x= "20141101" y="1,275"/>
@@ -265,8 +268,8 @@
               </sources>
         </section>
       <section>
+      	<title>The differencies between gold and Bitcoin</title>
             <chapter>
-              <title>The differencies with gold</title>
               <paragraph>
               Gold is a chemical element that has historically been highly sought-after for currency, juwlery and other uses.
               Bitcoin is peer-to-peer virtual currency stored in a digital wallet (either in a cloud or on a user’s computer).</paragraph>
@@ -288,6 +291,7 @@
               </sources>
       </section>
       <section>
+      	<title>Opinions on Bitcoin</title>
             <chapter>
               <title>What consumers think about Bitcoin</title>
               <paragraph>
@@ -349,8 +353,8 @@
               </sources>
       </section>
       <section>
+      	<title>How work a Bitcoin</title>
             <chapter>
-              <title>How work a Bitcoin</title>
               <paragraph>Download softwere on a computer or smartphone to set up a Bitcoin wallet.
                  This gives the basic facilities to send, recive and store Bitcoins.
             </paragraph>
