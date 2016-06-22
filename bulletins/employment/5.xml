@@ -10,7 +10,7 @@
   <bulletin id="issue 5" date="20160402">
   <sections>
       <section>                                                             <!--1-->
-        <title>Asylum Application in EU</title>
+        <title>Asylum Applications in EU</title>
         <graph unit="%" x="date" y="number">
           <dataset label="">
             <data x="2005" y="234,675" />
@@ -190,7 +190,7 @@
       <title>Sending Money Home</title>
       <chapter>
         <title>The Remittance</title>
-        <paragraph>It is a transfer of money by a foreign worker to an individual in his or her home country. Money sent home by migrants competes with international aid as one of the largest financial inflows to developing countries. Workers' remittances are a significant part of international capital flows, especially with regard to labour-exporting countries.</paragraph>
+        <paragraph>It is a transfer of money by a foreign worker to an individual in his or her home country. Money sent home by migrants competes with international aid as one of the largest financial inflows to developing countries. Workers’ remittances are a significant part of international capital flows, especially with regard to labour-exporting countries.</paragraph>
       </chapter>
       <chapter>
         <title>Top Remittance Corridors, 2015</title>
@@ -420,7 +420,7 @@
       <title>Youth Displacement</title>
       <chapter>
         <title>In US Millennials Are About to Leave Cities</title>
-        <paragraph>As businesses and governments have struggled to understand the so-called millennials (born between roughly 1980 and 2000) one frequent conclusion has been that they have a unique love of cities. But there’s mounting evidence that millennials’ love of cities was a passing fling that became a shotgun wedding thanks to the Great Recession. Millennials don’t love cities any more than previous generations, the counterargument goes - they’ve just been stuck there longer, pining for the suburbs all the while.</paragraph>
+        <paragraph>As businesses and governments have struggled to understand the so-called millennials (born between roughly 1980 and 2000) one frequent conclusion has been that they have a unique love of cities. But there’s mounting evidence that millennials’ love of cities was a passing fling that became a shotgun wedding thanks to the Great Recession. Millennials don’t love cities any more than previous generations, the counterargument goes — they’ve just been stuck there longer, pining for the suburbs all the while.</paragraph>
       </chapter>
       <chapter>
         <title>While in Europe...</title>
@@ -485,7 +485,7 @@
       <title>Worldwide Migratory Routes</title>
       <chapter>
         <paragraph>Conflict, persecution, generalized violence and violations of human rights continued to cause forced displacement around the world. Fighting across parts of the Middle East and Africa, Asia and South America, millions of individuals are forced to flee either within or outside their country.</paragraph>
-        <paragraph>Last year saw the highest levels of global forced displacement on record: 59.5 million individuals left their homes due to persecution, conflict, generalized violence, or human rights violations. That's 8.3 million more people than the year before.</paragraph>
+        <paragraph>Last year saw the highest levels of global forced displacement on record: 59.5 million individuals left their homes due to persecution, conflict, generalized violence, or human rights violations. That’s 8.3 million more people than the year before.</paragraph>
       </chapter>
       <quote>
         <author>Antonio Guterres</author>
@@ -521,7 +521,7 @@
           <data x="2015" y="3925356"/>
           <data x="2016" y="4801050"/>
         </dataset>
-        <dataset label= "Syrian asylum application (Last updated January 2016)">
+        <dataset label= "Syrian asylum applications (Last updated January 2016)">
           <data x="2012" y="9299"/>
           <data x="2013" y="39352"/>
           <data x="2014" y="103635"/>
@@ -605,7 +605,7 @@
     <title>Welcoming Refugees</title>
       <chapter>
       <paragraph>In the face of Europe’s economic crisis and demographic decline (especially in Germany and Italy), which threatens to bring about a fall in the active population by 2030, immigration could be a real asset, helping to stimulate economic activity and to pay the pensions of the baby boomers.</paragraph>
-      <paragraph>The migrants could find their place in EU countries, revitaling the economic and social life of the many small towns and rural areas abandoned. Europe’s political community and society needs to bring a revolution in their way of thinking and to realise that the arrival of migrants, far from being a burden or a catastrophe, can represent an opportunity.</paragraph>
+      <paragraph>The migrants could find their place in EU countries, revitalizing the economic and social life of the many small towns and rural areas abandoned. Europe’s political community and society needs to bring a revolution in their way of thinking and to realise that the arrival of migrants, far from being a burden or a catastrophe, can represent an opportunity.</paragraph>
     </chapter>
     <chapter>
       <title>Welcome Syrians!</title>
@@ -713,7 +713,7 @@
     <section>                                                     <!--12-->
         <title>University of Bologna</title>
         <abstract>
-          Asylum application students will be able to matriculate with total exemption of taxes for the academic year 2015/2016.
+          Asylum application students will be able to matriculate with total exemption from taxes for the academic year 2015/2016.
         </abstract>
       <keywords>
         <keyword name="Western Europe" />
@@ -856,7 +856,7 @@
     <section>                                                     <!--16-->
         <title>Job and Immigration in New Zealand</title>
         <abstract>
-          The Minister of Immigration, Michael Woodhouse, has been warned by his officials that there's an increasing use of migrant labour in low paying jobs despite no strong evidence of skill shortages.
+          The Minister of Immigration, Michael Woodhouse, has been warned by his officials that there’s an increasing use of migrant labour in low paying jobs despite no strong evidence of skill shortages.
         </abstract>
       <keywords>
         <keyword name="Oceania" />
