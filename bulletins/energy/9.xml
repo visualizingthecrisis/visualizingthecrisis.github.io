@@ -252,29 +252,18 @@
      </row>
    </table>
 
-<chapter>
-   <paragraph>
-   <list type="unordered">
-     <item>A United States</item>
-     <item>B France/Germany/United Kingdom</item>
-     <item>C Ukraine</item>
-     <item>D China</item>
-     <item>E Japan</item>
-     <item>F Russia</item>
-   </list>
-  </paragraph>
- </chapter>
+
 
    <graph unit="%" x="Country" y="Percentage">
      <title>World Nuclear Generation after Chernobyl</title>
      <abstract>Usa has the biggest nuclear generator power.</abstract>
      <dataset label= "Nuclear generator power">
-       <data x="A" y="44.5"/>
-       <data x="B" y="31.8"/>
-       <data x="C" y="4.6"/>
-       <data x="D" y="9.0"/>
-       <data x="E" y="0"/>
-       <data x="F" y="10.2"/>
+       <data x="US" y="44.5"/>
+       <data x="FR/DE/GB" y="31.8"/>
+       <data x="UA" y="4.6"/>
+       <data x="CN" y="9.0"/>
+       <data x="JP" y="0"/>
+       <data x="RU" y="10.2"/>
      </dataset>
     </graph>
 
