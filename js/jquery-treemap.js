@@ -1,3 +1,5 @@
+smallestFontSize = 12;
+startingFontSize = 18;
 (function ($) {
 
     function Rectangle(x, y, width, height, margin) {
@@ -44,8 +46,7 @@
         this.ready = function () {
         };
         this.itemMargin = 0;
-        this.smallestFontSize = 12;
-        this.startingFontSize = 18;
+
         this.centerLabelVertically = true;
 
         $.extend(this, options);
@@ -100,11 +101,11 @@
             var $content = $("<div>" + node.label + "</div>");
             $content.addClass('treemap-label');
             $content.css({
-              'margin-top':'0px',
-              'margin-left':'0px',
+              'margin-top':'1px',
+              'margin-left':'1px',
               'position': 'absolute',
                 'text-align': 'left',
-                'font-size': this.startingFontSize + 'px'
+                'font-size': startingFontSize + 'px'
             });
             $box.append($content);
 
@@ -122,9 +123,9 @@
     //    console.log($content);
         $content.css('max-width',nodeBounds.width- TreeMap.TOP_MARGIN);
       //  $content.css('word-wrap','break-word');
-        while ($content.height() + 4 > nodeBounds.height){// || $content.innerWidth() + 10 > nodeBounds.width){
+        while ($content.height() + 5 > nodeBounds.height){// || $content.innerWidth() + 10 > nodeBounds.width){
             var fontSize = parseFloat($content.css('font-size')) - 1;
-            if (fontSize <= this.smallestFontSize) {
+            if (fontSize <= smallestFontSize) {
               //  $content.remove();
               /*  var str=$content.text();
                 var lastIndex = str.lastIndexOf(" ");
@@ -170,11 +171,11 @@
           'display': 'relative',
           'position': 'relative',
           'text-align': 'left',
-          'font-size': this.smallestFontSize + 'px',
+          'font-size': smallestFontSize + 'px',
           'max-width': width-10,
           'visibility':'hidden'
       });
-      var t= $content.innerWidth() <width- TreeMap.TOP_MARGIN;
+      var t= $content.innerWidth() < width- TreeMap.TOP_MARGIN*2;
       $content.remove();
     //  console.log('++++');
     //  console.log(s+" , "+width+"  ",$content.innerWidth());

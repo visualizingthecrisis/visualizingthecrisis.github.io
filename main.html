@@ -1,38 +1,108 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <script src="js/jquery.min.js" charset="utf-8"></script>
+
+        <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
     <title>VISUALISING THE CRISIS</title>
     <link href="css/c3.css" rel="stylesheet" type="text/css">
     <link href="css/patterns.css" rel="stylesheet" type="text/css">
-    <link href="css/style.css" rel="stylesheet" type="text/css">
-    <link href="css/search.css" rel="stylesheet" type="text/css">
-
-    <script src="js/jquery.min.js" charset="utf-8"></script>
+    <link href="css/web.css" rel="stylesheet" type="text/css">
     <script src='js/files.js'></script>
     <script src='js/jquery-treemap.js'></script>
     <script type="text/javascript" src="js/d3.js" charset="utf-8"></script>
     <script type="text/javascript" src="js/d3plus.js"></script>
-    <script src="js/c3.js"></script>
+  <!--  <script src="js/c3.js"></script>-->
+    <script src="js/c3.min.js"></script>
     <script src="js/main.js" charset="utf-8"></script>
-    <script src="js/search.js" charset="utf-8"></script>
-
-    <style type="text/css">
-    html{
-      zoom:1;
-    }
-    div{
-      display:inline-block;
-    }
-    </style>
+    <script src="js/masonry.pkgd.min.js" charset="utf-8"></script>
+    <script src="js/index.js" charset="utf-8"></script>
   </head>
+
   <body>
-    <div id="bulletin-search" style="overflow: auto;">
-      <button id="clear" style="position:fixed;" type="button" onclick="filter();">FILTER</button>
-    </div>
-    <div class="report-container">
-      <div id='bulletin-header'></div>
+    <div>
+      <div class="search-container" style="display:none;">
+        <div class="container" >
+          <div class="row">
+            <div class='main-title' style="font-size:30px;padding-top:30px;padding-bottom:15px;"><div class='block-div' style='display:block'>Visualizing </div>the Crisis</div>
+            <p style="text-align:center;font-size:15px;padding-bottom:15px;">Choose a maximum of </br> five topics that interest you</p>
+          </div>
+          <div class="row">
+            <div class="col-sm-12" style="text-align:center;">
+              <div id="bulletin-search" style=""><!--overflow: auto;height:100%;position:fixed;top:0px;left:0px;display:none;-->
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-12" style="text-align:center;">
+              <button type="button" onclick="filter();">SUBMIT</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid" style="background-color:white;">
+        <div class="row">
+          <div class="col-sm-12" style="">
+            <div class="container">
+              <div class="row">
+                <div class="col-sm-12" style="">
+                  <div class='main-title' style="font-size:40px;padding-top:30px;padding-bottom:15px;text-align:left;">Visualizing the Crisis</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid" style="background-color:black;">
+        <div class="row">
+          <div class="col-sm-12" style="">
+            <div class="container">
+              <div class="row">
+                <div class="col-sm-10" style="">
+                  <div style="font-family:MaisonNeue;font-size:15px;padding-top:20px;padding-bottom:15px;text-align:left;color:white;">TRACKING THE UNFOLDING GLOBAL FINANCIAL CRISIS</div>
+                </div>
+                <div class="col-sm-2" style="">
+                  <a href="https://github.com/visualizingthecrisis/visualizingthecrisis.github.io">
+                  <div href="" style="font-size:15px;padding-top:20px;padding-bottom:15px;text-align:right;color:white;">
+                      About
+
+                  </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container" style="">
+        <div class="row">
+          <div class="col-sm-4">
+            <div id="sidebar"></div>
+          </div>
+          <div class="col-sm-1">
+          </div>
+          <div class="col-sm-7">
+            <div id="bulletin-container"></div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+      <div id='bulletin-header' style="display:none;"></div><!--style='background-color:white;position:fixed;z-index:1000;width:100%;left:0px;'-->
       <div id="bulletin-container"></div>
-      <div id='bulletin-footer'></div>
+      <div id='bulletin-footer' style="display:none;" style='width:100%;background-color:white;'></div>
+
     </div>
 
 
@@ -45,12 +115,12 @@
 
 
 
-        <!-- SVG DEFINITION -->
 
 
 
 
-    <svg height="8" width="8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+      <svg height="8" width="8" xmlns="http://www.w3.org/2000/svg" version="1.1">
       <defs>
 
         <pattern id="crosshatch1" patternUnits="userSpaceOnUse" width="2" height="2">

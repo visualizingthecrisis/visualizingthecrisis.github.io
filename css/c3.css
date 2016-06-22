@@ -1,7 +1,14 @@
+@font-face {
+  font-family: MaisonNeue;
+  src: url("../font/MaisonNeue-Mono.ttf") format("opentype");
+}
 /*-- Chart --*/
 .c3 svg {
   font: 10px sans-serif;
-  -webkit-tap-highlight-color: transparent; }
+  font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace;
+
+  -webkit-tap-highlight-color: transparent;
+}
 
 .c3 path, .c3 line {
   fill: none;

@@ -29,7 +29,6 @@ body{
 #bulletin-container{
   z-index: 0;
   background-color: white;
-//  padding-top: 77px;
   padding-bottom: 70px;
   width:512px;
   margin-left:0px;
@@ -88,7 +87,8 @@ p, ul{
 .section{
   padding-top:40px;
   padding-bottom: 40px;
-  min-width: 512px;
+      background-color: white;
+  width:100%;
 }
 
 .section-quote{
@@ -115,7 +115,6 @@ p, ul{
 }
 
 .section-subtitle{
-//  margin-bottom: 10px;
 }
 
 .section-chapter{
@@ -155,6 +154,7 @@ p, ul{
 
 .graph-legends{
   margin-top:20px;
+  display: block;
 }
 
 .graph-legend{
@@ -172,14 +172,9 @@ table{
 .section{
   border-top: 3px solid black;
   font-size: 22px;
-  width: 512px;
   float: left;
 }
-* {
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-      }
+
 
 
 
@@ -240,13 +235,13 @@ table{
 
 .section-treemap div{
   display: inline;
+  box-sizing: initial! important;
+  -webkit-box-sizing: initial! important;
 }
 
 .section-graph{
   font-family: 'MaisonNeue',monaco, Consolas, 'Lucida Console', monospace !important;
   font-size: 20px;
-  //width:95%;
-  //margin-left:5%;
   display: table;
   overflow: visible !important;
 }
@@ -272,7 +267,6 @@ text{
 
 .section-graph-subtitle{
   display: block;
-//  font-style: italic;
 }
 
 .section-graph-abstract{
@@ -293,7 +287,6 @@ text{
     height:30px;
     right: 120px;
     bottom: 0;
-  //  left: 512px;
   z-index: 100;
   background-color: white;
   color: black;
@@ -334,7 +327,6 @@ button{
 }
 
 .c3-arc{
-  //fill: url(#crosshatch) #fff !important;
 }
 .c3-chart-arc path {
   stroke-width: 2;
@@ -344,8 +336,6 @@ button{
 .c3-bar{
   stroke:black !important;
   stroke-width: 2;
-  //fill: url(#crosshatch) #fff !important;
-  //fill:transparent;
 }
 .c3-chart-arc text {
     font-size: 20px;
@@ -421,7 +411,7 @@ th{
   height:20px;
 }
 .treemap-node{
-    border: 1px solid black;
+    border: 2px solid black;
 }
 .treemap-label{
     z-index: 100;
@@ -433,9 +423,7 @@ th{
 .section-treemap{
   height:500px;
   display:block;
-//  border: 2px solid black;
   width:100%;
-//  box-sizing :border-box;
 }
 
 .chapter-title{
@@ -485,4 +473,16 @@ th{
   padding-top: 77px;
   width:512px;
   display: inline-block;
+  background: white;
+}
+
+#bulletin-footer{
+  background: white;
+}
+
+.report-container{
+  position:fixed;
+  overflow:scroll;
+  height:100%;
+  width:512px;
 }

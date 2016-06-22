@@ -4652,7 +4652,7 @@
             dummy = $$.d3.select('body').append('div').classed('c3', true);
             svg = dummy.append("svg").style('visibility', 'hidden').style('position', 'fixed').style('top', 0).style('left', 0),
             svg.append('g').call(axis).each(function () {
-                $$.d3.select(this).selectAll('text').each(function () {
+              $$.d3.select(this).selectAll('text').each(function () {
                     var box = this.getBoundingClientRect();
                     if (maxWidth < box.width) { maxWidth = box.width; }
                 });

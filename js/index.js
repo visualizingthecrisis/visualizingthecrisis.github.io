@@ -2,22 +2,46 @@ var masonry;
 $(document).ready(function(){
 
 });
+
+function preDownload(){
+  function download(i){
+    if(i<paths.length){
+      $.ajax({
+        url:paths[i],
+        type:'GET',
+        error: function(){
+          download(i+1);
+        },
+        success: function(xml){
+          download(i+1);
+        }
+      });
+    }
+    else{
+    }
+  }
+  download(0);
+}
+
 $(window).load(function(){
-
-
-    $.get(path, function(xmlDoc){
-      var sections=$(xmlDoc).find('section');
-      for(var s=0;s<sections.length;s++){
-        var authors=$(sections[s]).parent().parent().parent().find('authors').first().clone();
-        $(sections[s]).append(authors);
-      }
-
-        processXML(xmlDoc);
-
-
+  startingFontSize=14;
+  smallestFontSize = 10;
+  $.get(path, function(xmlDoc){
+    var sections=$(xmlDoc).find('section');
+    for(var s=0;s<sections.length;s++){
+      var authors=$(sections[s]).parent().parent().parent().find('authors').first().clone();
+      $(sections[s]).append(authors);
+    }
+    $("#sidebar").empty();
+    processXML(xmlDoc);
+    $("#sidebar").append($(".main-info"));
+    $("#sidebar").append($("<button onclick='showSearchPanel()'>CHANGE</button>"));
+    $("#sidebar").append($("#sources"));
+    $("#sidebar").append($("#authors"));
+    $("body").scrollTop();
+    preDownload();
 
     $.get('keywords.xml', function(d){
-
       var areas=$(d).children().first().children();
       for(var a=0;a<areas.length;a++){
         var $ar=$("<div class='area'></div>");
@@ -25,28 +49,33 @@ $(window).load(function(){
         var $area=$(areas[a]);
         var keywords=$area.children();
         $ar.append("<h3>"+$area.attr('name')+"</h3>");
-
+        console.log(keywords.length);
         for(var k=0;k<keywords.length;k++){
           var $area_element=$("<div class='area-element'></div>");
           $ar.append($area_element);
 
           var $keyword=$(keywords[k]);
-          $area_element.append("<input type='checkbox' name='"+$keyword.text()+"' value='"+$keyword.text()+"'>"+$keyword.text()+"<br>");
+          var txt=$keyword.text();
+          if(txt.indexOf("(")>0){
+            txt=txt.substr(0,txt.indexOf("("));
+
+          }
+          $area_element.append("<input type='checkbox' name='"+$keyword.text()+"' value='"+$keyword.text()+"'>"+txt+"<br>");
         }
       }
-      var container = document.querySelector('#bulletin-container');
+      /*var container = document.querySelector('#bulletin-container');
       masonry = new Masonry(container, {
-        itemSelector: '.section'});
+        itemSelector: '.section'});*/
       });
        });
  });
 
+ function showSearchPanel(){
+   $('.search-container').fadeIn();
+ }
 
  function filter(){
-   if($('#bulletin-search').css('display')=='none'){
-     $('#bulletin-search').fadeIn();
-   return;
-  }
+
    var filters=[];
    sources=[];
    filters=[];
@@ -62,7 +91,7 @@ $(window).load(function(){
 
    $(".loader-container").fadeIn("fastest",function(){
      processFilters(filters);
-     $('#bulletin-search').fadeOut();
+     $('.search-container').fadeOut();
    });
 
  /*
@@ -101,15 +130,24 @@ $(window).load(function(){
        else{
          //  console.log($all.html());
 
-         $("#bulletin-container").children().remove();
-         $("#bulletin-header").children().remove();
-         $("#bulletin-footer").children().remove();
 
+
+         $("#sidebar").empty();
          processXML($all,filters,15);
+         $("#sidebar").append($(".main-info"));
+         $("#sidebar").append($("<button onclick='showSearchPanel()'>CHANGE</button>"));
+         $("#sidebar").append($("#sources"));
+         $("#sidebar").append($("#authors"));
+         window.scrollTo(0,0);
 
-         $(".loader-container").fadeOut("slow",function(){masonry.reloadItems();});
-         masonry.reloadItems();
-         masonry.layout();
+         // $(".footer-section:last-child").remove();
+        // $(".footer-section:last-child").remove();
+
+         $(".loader-container").fadeOut("slow",function(){
+        //   masonry.reloadItems();
+         });
+        // masonry.reloadItems();
+        // masonry.layout();
 
        }
      }
