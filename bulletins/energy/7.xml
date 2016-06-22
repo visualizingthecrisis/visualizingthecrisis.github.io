@@ -169,12 +169,6 @@
            increase their reuse and recycling of treated wastewater, and save ​3.8 billion gallons of water.</paragraph>
          <paragraph>With a system for the data centers water can be reused up to 35 times.</paragraph>
 
-         <paragraph>
-           <list type="unordered">
-             <item>A recycled paper</item>
-             <item>B non recycled paper</item>
-           </list>
-         </paragraph>
 
        </chapter>
 
@@ -182,8 +176,8 @@
          <title>Recycled wood fiber</title>
          <abstract>Paper used in packaging made of recycled wood fiber</abstract>
          <dataset label= "Percentage">
-         <data x="A" y="60"/>
-         <data x="B" y="40"/>
+         <data x="recycled paper" y="60"/>
+         <data x="non recycled pape" y="40"/>
          </dataset>
          </graph>
 
