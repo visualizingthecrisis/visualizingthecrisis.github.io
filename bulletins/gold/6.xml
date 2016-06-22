@@ -65,11 +65,11 @@
                 <data x= "35-49" y="40,000"/>
                 <data x= "50-64" y="18,000"/>
                 <data x= "65-79" y="15,000"/>
-                <data x= "80-94" y="63,000"/>
+                <data x= "80-94" y="3,000"/>
                 <data x= "95-99" y="0.70"/>
                 <data x= "100+" y="0.05"/>
               </dataset>
-              <dataset label="Womann">
+              <dataset label="Woman">
                 <data x= "0-4" y="54,000"/>
                 <data x= "5-9" y="53,000"/>
                 <data x= "10-14" y="50,500"/>
@@ -87,7 +87,7 @@
       </graph>
       <quote>
         <author>World Gold Council</author>
-        <text>The averege age of marriage are 22 for woman and 24 for men.</text>
+        <text>The average age of marriage are 22 for woman and 24 for men.</text>
       </quote>
       <keywords>
        <keyword name="Southern Asia" /><keyword name="Citizenship" />
@@ -224,7 +224,7 @@
           <paragraph>
             In 1934, USA it is determined that individuals can no longer exchange gold.</paragraph>
             <paragraph>Franklin Delano Roosevelt between 1933 and 1937 brought the New Deal,
-              a reform plan to lift the country out of the Great Depression of 1929</paragraph>
+              a reform plan to lift the country out of the Great Depression of 1929.</paragraph>
         </chapter>
         <keywords>
           <keyword name="Gold" /><keyword name="North America" />
