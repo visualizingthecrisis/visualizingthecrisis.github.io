@@ -231,9 +231,9 @@
       </sources>
     </section>
     <section>                                                                    <!--5-->
-      <title>Offshore companies created since 1977</title>
+      <title>Offshore Companies Created Since 1977</title>
       <abstract>
-        The number of companies created by Mossack Fonseca  had a relevant decline in the last decade - Mossack Fonseca and Co. is a Panamanian law firm and corporate service provider founded in 1986 that has grown to have more than 40 offices worldwide; the firm received worldwide media attention when informations about its clients' financial dealings were published in the Panama Papers articles, following the release of an enormous cache of its documents from between 1970 and 2015 leaked to the news media.
+        The number of companies created by Mossack Fonseca  had a relevant decline in the last decade — Mossack Fonseca and Co. is a Panamanian law firm and corporate service provider founded in 1986 that has grown to have more than 40 offices worldwide; the firm received worldwide media attention when informations about its clients’ financial dealings were published in the Panama Papers articles, following the release of an enormous cache of its documents from between 1970 and 2015 leaked to the news media.
       </abstract>
       <graph unit="" x="date" y="number">
         <dataset label="">
@@ -278,7 +278,7 @@
     <section>                                                                        <!--6-->
       <title>Global Offshore Wealth</title>
       <abstract>
-        The total amount of global offshore wealth corresponds to $7,600 billion. This means that, according to "The Hidden Wealth of Nations" - a recent book by Gabriel Zucman, economist at the University of California, Berkeley -, tax evasion costs governments approximately $190 billion per year. Let's make this simple and clear: tax evasion means less money for schools and roads, more money for drug barons and worse.
+        The total amount of global offshore wealth corresponds to $7,600 billion. This means that, according to “The Hidden Wealth of Nations” — a recent book by Gabriel Zucman, economist at the University of California, Berkeley —, tax evasion costs governments approximately $190 billion per year. Let’s make this simple and clear: tax evasion means less money for schools and roads, more money for drug barons and worse.
       </abstract>
       <graph unit="b$" x="string" y="number">
         <dataset label="">
@@ -307,7 +307,7 @@
       </graph>
       <chapter>
         <title>US is the World’s Favorite New Tax Haven</title>
-        <paragraph>Just 4% of US wealth is held offshore. By resisting new global disclosure standards, the US - with Delaware, Nevada, South Dakota and Wyoming - is creating a hot new market, becoming the go-to place to stash foreign wealth.</paragraph>
+        <paragraph>Just 4% of US wealth is held offshore. By resisting new global disclosure standards, the US — with Delaware, Nevada, South Dakota and Wyoming — is creating a hot new market, becoming the go-to place to stash foreign wealth.</paragraph>
       </chapter>
       <chapter>
         <title>Switzerland Instead is so Last Century</title>
@@ -389,7 +389,7 @@
     <section>                                                                      <!--8-->
       <title>Financial Transparency</title>
       <abstract>
-        There is still a complete lack of financial transparency in several tax havens around the world - and recently this has become a hot topic after the Panama Papers case. We need to create a unified global register of financial securities. This involves putting Central Depositories under public control.
+        There is still a complete lack of financial transparency in several tax havens around the world — and recently this has become a hot topic after the Panama Papers case. We need to create a unified global register of financial securities. This involves putting Central Depositories under public control.
       </abstract>
       <chapter>
         <title>OECD Standards</title>
@@ -471,16 +471,16 @@
         <subtitle>The Outcomes</subtitle>
         <paragraph>
           <list type="ordered">
-            <item>CROSS BORDER COOPERATION: new web platforms allow to connect journalists and reportes working in the same field and helping each other to get information from local registries and databases.</item>
-            <item>DATA JOURNALISM: this ambit of journalism has made on the basis of the analysis of digitized data of different nature, making possible to tell stories that otherwise would be really difficult.</item>
-            <item>ENCRYPTION AND ANONYMITY: there are new foundamental tools, that have become more widespread and easy to use, making it safer in some ways than ever before for sources to reach out to journalists across the globe.</item>
+            <item>CROSS BORDER COOPERATION. Nnew web platforms allow to connect journalists and reportes working in the same field and helping each other to get information from local registries and databases.</item>
+            <item>DATA JOURNALISM. This ambit of journalism has made on the basis of the analysis of digitized data of different nature, making possible to tell stories that otherwise would be really difficult.</item>
+            <item>ENCRYPTION AND ANONYMITY. There are new foundamental tools, that have become more widespread and easy to use, making it safer in some ways than ever before for sources to reach out to journalists across the globe.</item>
           </list>
         </paragraph>
         <paragraph>
           <list type="unordered">
-            <item>JOHN DOE: "Hello. This is John Doe. Interested in data?"</item>
-            <item>SÜEDDEUTSCHE ZEITUNG: "We're very interested."</item>
-            <item>JOHN DOE: "There are a couple of conditions. My life is in danger. We will only chat over encrypted files. No meeting, ever. The choice of stories is obviously up to you."</item>
+            <item>JOHN DOE: “Hello. This is John Doe. Interested in data?”</item>
+            <item>SÜDDEUTSCHE ZEITUNG: “We’re very interested.”</item>
+            <item>JOHN DOE: “There are a couple of conditions. My life is in danger. We will only chat over encrypted files. No meeting, ever. The choice of stories is obviously up to you.”</item>
           </list>
         </paragraph>
       </chapter>
@@ -512,7 +512,7 @@
     </section>
     <section>                                                            <!--11-->
       <title>Printed Press is Withering</title>
-      <subtitle>The Side Effects of the Digital Journalism</subtitle>
+      <subtitle>The Side Effects of Digital Journalism</subtitle>
       <abstract>
         The spread of Internet and digital communication tools has had heavy implications on traditional journalism. Publishing a daily or weekly newspaper required to a lot of money and this were once mainly guaranteed by the advertising. But things have changed now.
       </abstract>
@@ -538,7 +538,7 @@
         <title>Example: @Daily Mail</title>
         <paragraph>
           <list type="unordered">
-            <item>To buy a color double-page it takes €105,000.</item>
+            <item>To buy a color double-page it takes €105,000</item>
             <item>A banner on the website costs only €28 per thousand views.</item>
           </list>
         </paragraph>
@@ -579,10 +579,10 @@
       </sources>
     </section>
     <section>                                                          <!--12-->
-      <title>Panama Papers: the Making Of</title>
-      <subtitle>The History's Biggest Leak</subtitle>
+      <title>Panama Papers</title>
+      <subtitle>The Making-of of the History’s Biggest Leak</subtitle>
       <abstract>
-        The investigation was conducted by the Süddeutsche Zeitung and the International Consortium of Investigative Journalists, a global network of investigative journalists who collaborate on in-depth investigative stories.
+        The investigation was conducted by the Süddeutsche Zeitung and the International Consortium of Investigative Journalists, a global network of journalists who collaborate on in-depth investigative stories.
       </abstract>
       <chapter>
         <paragraph>They have been involved:</paragraph>
@@ -597,7 +597,7 @@
         <paragraph>
           <list type="unordered">
             <item>11.5 MILLION FILES</item>
-            <item>2.6 TERABYTES</item>
+            <item>2.6 TERABYTES OF DATA</item>
           </list>
         </paragraph>
       </chapter>
@@ -607,9 +607,9 @@
         <paragraph>While a WikiLeaks survey on Twitter shows:</paragraph>
       </chapter>
       <graph unit="%" x="string" y="percentage">
-        <title>Should we release all 11 million #PanamaPapers so everyone can search through them like our other publications? 1:40 AM - 4 Apr</title>
+        <title>Should we release all 11 million #PanamaPapers so everyone can search through them like our other publications?</title>
         <abstract>
-          92,986 votes - Final results
+          92,986 votes (final results on April 4th, 1:40am)
         </abstract>
         <dataset label="">
           <data x="Yes, make them searchable" y="95" />
@@ -656,11 +656,11 @@
       <chapter>
         <paragraph>
           <list type="unordered">
-            <item>CABLEGATE - 1.7GB - WikiLeaks (2010): Classified cables that had been sent to the US State Department by 274 of its consulates, embassies, and diplomatic missions around the world.</item>
-            <item>OFFSHORE LEAKS - 260GB - ICIJ (2013): Investigation based on a cache of 2.5 million secret records about the offshore assets of people from 170 countries and territories, obtained by ICIJ's director.</item>
-            <item>LUXEMBURG LEAKS - 4GB - ICIJ (2014): Investigation based on confidential information about Luxembourg’s tax rulings set up by PwC from 2002 to 2010 to the benefits of its clients.</item>
-            <item>SWISS LEAKS - 3.3GB - ICIJ (2015): Investigation on a giant tax evasion scheme allegedly operated with the knowledge and encouragement of the British multinational bank HSBC via its Swiss subsidiary.</item>
-            <item>PANAMA PAPARS - 2.6TB - ICIJ (2016): The Papers are 11.5 million leaked documents that detail financial and attorney–client information for more than 214,488 offshore entities. The leaked documents were created by Panamanian law firm and corporate service provider Mossack Fonseca; some date back to the 1970s.</item>
+            <item>CABLEGATE / 1.7GB / WikiLeaks (2010): Classified cables that had been sent to the US State Department by 274 of its consulates, embassies, and diplomatic missions around the world.</item>
+            <item>OFFSHORE LEAKS / 260GB / ICIJ (2013): Investigation based on a cache of 2.5 million secret records about the offshore assets of people from 170 countries and territories, obtained by ICIJ’s director.</item>
+            <item>LUXEMBURG LEAKS / 4GB / ICIJ (2014): Investigation based on confidential information about Luxembourg’s tax rulings set up by PwC from 2002 to 2010 to the benefits of its clients.</item>
+            <item>SWISS LEAKS / 3.3GB / ICIJ (2015): Investigation on a giant tax evasion scheme allegedly operated with the knowledge and encouragement of the British multinational bank HSBC via its Swiss subsidiary.</item>
+            <item>PANAMA PAPERS / 2.6TB / ICIJ (2016): The Papers are 11.5 million leaked documents that detail financial and attorney-client information for more than 214,488 offshore entities. The leaked documents were created by Panamanian law firm and corporate service provider Mossack Fonseca; some date back to the 1970s.</item>
           </list>
         </paragraph>
       </chapter>
@@ -711,7 +711,7 @@
       <title>Philippines</title>
       <subtitle>Flash News on News</subtitle>
       <abstract>
-        The Philippines is one of the most dangerous places in the world to be a journalist, especially if you’re in talk radio. According to the Philippine Center for Media Freedom and Responsibility, at least 168 journalists have been killed since 1986, when the Marcos dictatorship fell and democracy was restored.
+        The Philippines is one of the most dangerous places in the world to be a journalist, especially if you’re in talk radio. According to the Philippine Center for Media Freedom and Responsibility, at least 168 journalists have been killed since 1986, when the Marco’s dictatorship fell and democracy was restored.
       </abstract>
       <keywords>
         <keyword name="Southeastern Asia" />
@@ -743,7 +743,7 @@
       </sources>
     </section>
     <section>                                                          <!--15-->
-      <title>China - 29 Mar 2016</title>
+      <title>China, 29 March 2016</title>
       <subtitle>Flash News on News</subtitle>
       <abstract>
         You Shaolei, the director of the Southern Metropolis Daily, a chinese daily Tabloid newspaper published in Guangzhou, resigned denouncing the increasing control of the media under the current President Xi Jinping.
@@ -777,7 +777,7 @@
       </sources>
     </section>
     <section>                                                                           <!--16-->
-      <title>Maldives - 3 April 2016</title>
+      <title>Maldives, 3 April 2016</title>
       <subtitle>Flash News on News</subtitle>
       <abstract>
         The police intervened violently against a group of journalists who had staged a sit-in outside the office of President Abdulla Yameen; the reasons were different and linked to restrictions on press freedom in the archipelago.
@@ -813,22 +813,22 @@
     <section>                                                                  <!--17-->
       <title>Reactions of Countries Implicated in Panama Papers</title>
       <abstract>
-        This is only a small part of the list of the reactions to Panama Papers - related to offshore tax havens -, and response's of many countries and other official bodies relating to the mass leak of legal documents.
+        This is only a small part of the list of the reactions to Panama Papers — related to offshore tax havens —, and response’s of many countries and other official bodies relating to the mass leak of legal documents.
       </abstract>
       <chapter>
         <paragraph>The revelations have been discredited or censured.</paragraph>
         <paragraph>
           <list type="unordered">
-            <item>RUSSIA: Putin denounces Panama Papers as a US plot to destabilize Russia. “The easiest way to do so is to induce some mistrust to authorities within the society” Putin said, adding that the creators of the leak aimed at the unity of the multiethnic Russian people.</item>
-            <item>CHINA: All mentions of Panama Papers were banned from Chinese websites and newspapers.</item>
+            <item>RUSSIA. Putin denounces Panama Papers as a US plot to destabilize Russia. “The easiest way to do so is to induce some mistrust to authorities within the society” Putin said, adding that the creators of the leak aimed at the unity of the multiethnic Russian people.</item>
+            <item>CHINA. All mentions of Panama Papers were banned from Chinese websites and newspapers.</item>
           </list>
         </paragraph>
         <paragraph>The leak have led to internal investigations.</paragraph>
         <paragraph>
           <list type="unordered">
-            <item>ICELAND: A petition of 16,000 signatures and the power of newspapers have allowed the resignations of the First Minister Gunnlaugsson.</item>
-            <item>FRANCE: French president Francois Hollande welcomed the revelation of Panama papers: “I can assure you that investigations will be conducted”.</item>
-            <item>ITALY: The italian IRS will investigate the 800 Italians that appeared in tax havens files.</item>
+            <item>ICELAND. A petition of 16,000 signatures and the power of newspapers have allowed the resignations of the First Minister Gunnlaugsson.</item>
+            <item>FRANCE. French president Francois Hollande welcomed the revelation of Panama papers: “I can assure you that investigations will be conducted.”</item>
+            <item>ITALY. The italian IRS will investigate the 800 Italians that appeared in tax havens files.</item>
           </list>
         </paragraph>
       </chapter>
