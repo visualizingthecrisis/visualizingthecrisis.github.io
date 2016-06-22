@@ -404,62 +404,37 @@
           <paragraph>The European Union has set legal limits for concentrations of pollutants in outdoor air, including particulate matter (PM10 and PM2.5) and nitrogen dioxide (NO2), which apply to London and the UK as whole.</paragraph>
           <paragraph>The ULEZ proposal is the most efficient way to achieve further reductions of the most harmful road transport generated emissions in central London and across the Capital.</paragraph>
 
-          <paragraph>
-          <list type="unordered">
-            <item>A Tfl Bus</item>
-            <item>B Diesel Car</item>
-            <item>C Taxi</item>
-            <item>D Van and Minibus</item>
-            <item>E HGV</item>
-            <item>F Tfl and bus and Coach</item>
-            <item>G Private hire vehicle</item>
-            <item>H Motocycle</item>
-          </list>
-          </paragraph>
+          
         </chapter>
 
         <graph unit="%" x="string" y="Percentage">
           <title>N02 Emissions</title>
           <abstract>Road trasport causes 40% of emissions by other trasports.</abstract>
           <dataset label= "Road trasport">
-            <data x="A" y="23"/>
-            <data x="B" y="18"/>
-            <data x="C" y="18"/>
-            <data x="D" y="14"/>
-            <data x="E" y="11"/>
-            <data x="F" y="9"/>
-            <data x="G" y="5"/>
-            <data x="H" y="2"/>
+            <data x="Tfl Bus" y="23"/>
+            <data x="Diesel Car" y="18"/>
+            <data x="Taxi" y="18"/>
+            <data x="Van and Minibus" y="14"/>
+            <data x="HGV" y="11"/>
+            <data x="Tfl and bus and Coach" y="9"/>
+            <data x="Private hire vehicle" y="5"/>
+            <data x="Motocycle" y="2"/>
             </dataset>
          </graph>
 
-       <chapter>
-         <paragraph>
-         <list type="unordered">
-           <item>A Taxi</item>
-           <item>B Diesel Car</item>
-           <item>C Van and Minibus</item>
-           <item>D Tfl Bus</item>
-           <item>E Petrol Car</item>
-           <item>F HGV</item>
-           <item>G Private hire vehicle</item>
-           <item>H Motocycle</item>
-         </list>
-         </paragraph>
-       </chapter>
 
          <graph unit="%" x="string" y="Percentage">
            <title>PM 2.5 Emissions</title>
            <abstract>Road trasport causes 47% of emissions by other trasports.</abstract>
            <dataset label= "Road trasport">
-             <data x="A" y="19"/>
-             <data x="B" y="17"/>
-             <data x="C" y="15"/>
-             <data x="D" y="14"/>
-             <data x="E" y="13"/>
-             <data x="F" y="12"/>
-             <data x="G" y="6"/>
-             <data x="H" y="4"/>
+             <data x="Taxi" y="19"/>
+             <data x="Diesel Car" y="17"/>
+             <data x="Van and Minibus" y="15"/>
+             <data x="Tfl Bus" y="14"/>
+             <data x="Petrol Car" y="13"/>
+             <data x="HGV" y="12"/>
+             <data x="Private hire vehicle" y="6"/>
+             <data x="Motocycle" y="4"/>
              </dataset>
           </graph>
 
