@@ -21,15 +21,15 @@
       <graph unit= "%" x="string" y="percentage">
            <title>People pro and versus Brexit</title>
            <dataset label="Brexit vote">
-              <data x= "Over sixty pro Brexit" y="56"/>
-              <data x= "Under theerty versus Brexit" y="44"/>
+              <data x= "Over 60 pro Brexit" y="56"/>
+              <data x= "Under 30 versus Brexit" y="44"/>
             </dataset>
            </graph>
       <graph unit= "%" x="string" y="number">
                  <title>Gold investors before Brexit issue</title>
                  <dataset label="Gold investors">
-                    <data x= "Over sixty investors" y="30"/>
-                    <data x= "Under theerty investors" y="4"/>
+                    <data x= "Over 60" y="30"/>
+                    <data x= "Under 30" y="4"/>
                   </dataset>
       </graph>
       <graph unit= "%" x="string" y="number">
