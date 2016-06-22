@@ -177,7 +177,7 @@
          <abstract>Paper used in packaging made of recycled wood fiber</abstract>
          <dataset label= "Percentage">
          <data x="recycled paper" y="60"/>
-         <data x="non recycled pape" y="40"/>
+         <data x="non recycled paper" y="40"/>
          </dataset>
          </graph>
 
