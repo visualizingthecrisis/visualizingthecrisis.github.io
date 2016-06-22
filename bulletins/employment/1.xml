@@ -40,20 +40,20 @@
       <title>Changing Work Habits</title>
       <chapter>
         <title>Digital Revolution</title>
-        <paragraph>For several decades, there has been a clear distinction between the time for labour and the leisure time. Today, a new paradigm of work called "Smart Working" enables people to handle many jobs at home and in public spaces, but this has necessarily increased the time people spend doing work stuff.</paragraph>
-        <paragraph>This “Revolution” was the result of a bigger phenomenon which includes enormous developments in computing power, the rise of the "Internet of Things", allowing the connection between devices, items and humans.</paragraph>
+        <paragraph>For several decades, there has been a clear distinction between the time for labour and the leisure time. Today, a new paradigm of work called “Smart Working” enables people to handle many jobs at home and in public spaces, but this has necessarily increased the time people spend doing work stuff.</paragraph>
+        <paragraph>This “Revolution” was the result of a bigger phenomenon which includes enormous developments in computing power, the rise of the “Internet of Things”, allowing the connection between devices, items and humans.</paragraph>
       </chapter>
       <chapter>
         <title>The Gig Economy</title>
         <paragraph>These new condictions led people to build another level of job in which the arrival of electronics and computer science have assumed a crucial role.</paragraph>
-        <paragraph>The advanced robotics and autonomous transport, the "Artificial Intelligence" and "Machine Learning" have changed the world of work in terms of features and numbers. For example, despite the creation of millions of new jobs over the next 4 years, there will likely be a net loss of $ 5 million.</paragraph>
+        <paragraph>The advanced robotics and autonomous transport, the “Artificial Intelligence” and “Machine Learning” have changed the world of work in terms of features and numbers. For example, despite the creation of millions of new jobs over the next 4 years, there will likely be a net loss of $ 5 million.</paragraph>
         <paragraph>In the near future everything we will do will be generating data and lots of data is exactly what machines will need in order to learn to learn.</paragraph>
       </chapter>
       <chapter>
         <title>Post-Work Economy</title>
         <paragraph>Yet in 2013 An Oxford University study estimated the potential automation of about half of all existing jobs by 2033.</paragraph>
-        <paragraph>The future of employment will be robots. What’s more, humans are entirely unprepared. These exponential advances will prove daunting for as long as we continue to insist upon employment as our primary source of income. But robots are never going to take all the jobs. The problem with trying to envision "a world without work" is that it asks us to envision an unrealistically large change. The more likely outcome is a world with less work. And that's a world we should welcome rather than fear, where a shorter day work is a necessity in productivity and well-being, where we can make some policy decisions we want to make, rather than decisions we really don't want to make.</paragraph>
-        <paragraph>It's a world not so far from us: we must seriously start talking about decoupling income from work, adopting a universal basic income.</paragraph>
+        <paragraph>The future of employment will be robots. What’s more, humans are entirely unprepared. These exponential advances will prove daunting for as long as we continue to insist upon employment as our primary source of income. But robots are never going to take all the jobs. The problem with trying to envision “a world without work” is that it asks us to envision an unrealistically large change. The more likely outcome is a world with less work. And that's a world we should welcome rather than fear, where a shorter day work is a necessity in productivity and well-being, where we can make some policy decisions we want to make, rather than decisions we really don't want to make.</paragraph>
+        <paragraph>It’s a world not so far from us: we must seriously start talking about decoupling income from work, adopting a universal basic income.</paragraph>
       </chapter>
       <keywords>
         <keyword name="Employment" />
@@ -82,6 +82,7 @@
         <paragraph>Each score in the DESI is between 0 and 1, with higher values representing better performance.</paragraph>
       </chapter>
       <graph unit="" x="string" y="number">
+        <title>DESI Ranking of EU Member States</title>
         <abstract>
           The TOP 4 countries (Denmark, Sweden, Netherlands, Finland) are compared with the WORST 4 (Italy, Bulgaria, Greece, Romania) and with the European Union average score.
         </abstract>
@@ -118,8 +119,8 @@
     <section>                                                               <!--4-->
       <title>Italian Jobs Are Getting Smarter</title>
       <chapter>
-        <paragraph>Even if Italy is one of the last countries in the DESI 2016 ranking (DESI ("Digital Economy and Society Index"): it summarises relevant indicators on Europe’s digital performance), the use of file sharing and instant messaging tools is gradually spreading between italian workers.</paragraph>
-        <paragraph>The most used communication tools are those of instant messaging and VoIP: they represent the real revolution, reducing time, allowing the connection of people and the sharing of interests and knowledges.</paragraph>
+        <paragraph>Even if Italy is one of the last countries in the DESI 2016 ranking (DESI: “Digital Economy and Society Index”): it summarises relevant indicators on Europe’s digital performance), the use of file sharing and instant messaging tools is gradually spreading between italian workers.</paragraph>
+        <paragraph>The most used communication tools are those of instant messaging and VoIP: they represent the real revolution, reducing time, allowing the connection of people and the sharing of interests and knowledge.</paragraph>
       </chapter>
       <graph unit="%" x="string" y="number">
         <title>Instant Messaging Tools</title>
@@ -185,8 +186,8 @@
         <title>Big Corporations</title>
         <paragraph>
       <list type="unordered">
-          <item>A. don't know</item>
-          <item>B. alredy applied</item>
+          <item>A. don’t know</item>
+          <item>B. already applied</item>
           <item>C. focused initiatives</item>
           <item>D. expected introduction</item>
           <item>E. in the future</item>
@@ -206,7 +207,7 @@
         <title>Small and Medium Enterprises</title>
         <paragraph>
       <list type="unordered">
-          <item>F. don't know</item>
+          <item>F. don’t know</item>
           <item>G. structuring initiative</item>
           <item>H. non structuring initiative</item>
           <item>I. in the future</item>
@@ -269,8 +270,8 @@
       <list type="unordered">
           <item>A. They’re autonomous in solving problems</item>
           <item>B. Technologies have increased productivity</item>
-          <item>C. Technologies disobeys to their inputs</item>
-          <item>D. They've lost data due to uncorrect handling</item>
+          <item>C. Technologies disobey to their inputs</item>
+          <item>D. They’ve lost data due to uncorrect handling</item>
           <item>E. IT department in charge of their own security</item>
         </list>
       </paragraph>
@@ -316,7 +317,7 @@
         <paragraph>95% of subscriptions comes from business or government customers with negotiated contracts.</paragraph>
       </chapter>
       <graph unit="" x="string" y="number">
-        <title>The Number of Users' Growth</title>
+        <title>The Number of Users’ Growth</title>
         <dataset label= "">
           <data x="Users before WikiLeaks" y="1"/>
           <data x="Users after WikiLeaks" y="4"/>
