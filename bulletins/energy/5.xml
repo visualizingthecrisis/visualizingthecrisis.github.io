@@ -40,12 +40,1149 @@
             <cell>Exstremely high stress (&gt; 80%)</cell>
           </row>
           <row type="cell">
-            <cell>Brazil; Honduras; Panama; Colombia; Suriname; Bolivia; Paraguay; Uruguay; Norway; Iceland; Belarus; Latvia; Austria; Slovenia; Slovakia; Croatia; Hungary; Romania; Serbia; Bosnia and Herzegovina; Montenegro; Mali; Senegal; Somalia; Malawi; Mauritania; Guinea-Bissau; Sierra Leone; Liberia; Ghana; Ivory Coast; Togo; Benin; Nigeria; Cameroon; Republic of the Congo; Equatorial Guinea; Democratic Republic of the Congo; Central African Republic; Sudan; Ethiopia; Zambia; Uganda; Rwanda; Burundi; Zimbabwe; Mozambique; Bangladesh; Bhutan; Myanmar; Laos; Taiwan; Papua New Guinea</cell>
-            <cell>Canada; Belize; Guatemala; Nicaragua; Costa Rica; Ecuador; Guyana; France; Netherlands; Germany; Switzerland; Sweden; Finland; Lithuania; Russia; Poland; Czech Republic; Moldova; Albania; Bulgaria; Georgia; Egypt; Gabon; Angola; Namibia; Botswana; Tanzania; Madagascar; Thailand; New Zealand.</cell>
-            <cell>United States; Haiti; Venezuela; Argentina; United Kingdom; Estonia; Ukraine; Macedonia; China; South Korea; Nepal; Malaysia.</cell>
-            <cell>Mexico; Cuba; Dominican Republic; Peru; Chile; Portugal; Spain; Belgium; Italy; Greece; Turkey; Armenia; Azerbaijan; Syria; Iraq; Algeria; Tunisia; Eritrea; South Africa; Swaziland; Tajikistan; India; Sri Lanka; Indonesia; Philippines; Japan; North Korea; Australia.</cell>
-            <cell>Morocco; Western Sahara; Libya; Lesotho; Israel; Lebanon; Jordan; Yemen; Somalia; Oman; United Arab Emirates; Iran; Kazakhstan; Uzbekistan; Kyrgyzstan; Turkmenistan; Afghanistan; Pakistan; Mongolia.</cell>
+            <cell>Brazil</cell>
+             <cell></cell>
+             <cell></cell>
+             <cell></cell>
+             <cell></cell>
           </row>
+          
+          <row type="cell">
+            <cell>Honduras</cell>
+            <cell></cell>
+             <cell></cell>
+             <cell></cell>
+             <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Panama</cell>
+            <cell></cell>
+             <cell></cell>
+             <cell></cell>
+             <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Colombia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Bolivia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Paraguay</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Uruguay</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Norway</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Iceland</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Belarus</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Latvia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Austria</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Slovenia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Slovakia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Croatia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Hungary</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Romania</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Serbia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Bosnia and Herzegovina</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Montenegro</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Mali</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Senegal</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Somalia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Malawi</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Mauritania</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Guinea-Bissau</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Sierra Leone</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Liberia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Ghana</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Ivory Coast</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Togo</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Benin</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Nigeria</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Cameroon</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Republic of the Congo</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Equatorial Guinea</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Democratic Republic of the Congo</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Central African Republic</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Sudan</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Ethiopia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Zambia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Uganda</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Rwanda</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Burundi</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Zimbabwe</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Mozambique</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Bangladesh</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Bhutan</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Myanmar</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Laos</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Taiwan</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell>Papua New Guinea</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Canada</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Belize</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Guatemala</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Nicaragua</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Costa Rica</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Ecuador</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Guyana</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>France</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Netherlands</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Germany</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Switzerland</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Sweden</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+           <row type="cell">
+            <cell></cell>
+              <cell>Finland</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Lithuania</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Russia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Poland</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Czech Republic</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Moldova</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Albania</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Bulgaria</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Georgia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Egypt</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Gabon</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Angola</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Namibia</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Botswana</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Tanzania</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+        
+        <row type="cell">
+            <cell></cell>
+              <cell>Madagascar</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>Thailand</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell>New Zealand</cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell>United States</cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell>Haiti</cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell>Venezuela</cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell>Argentina</cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell>United Kingdom</cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell>Estonia</cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell>Ukraine</cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell>Macedonia</cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell>China</cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell>South Korea</cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell>Nepal</cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell>Malaysia</cell>
+              <cell></cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Mexico</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Cuba</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Dominican Republic</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Peru</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Chile</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Portugal</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Spain</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Belgium</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Italy</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Greece</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Turkey</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Armenia</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Azerbaijan</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Syria</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Iraq</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Algeria</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Tunisia</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Eritrea</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>South Africa</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Swaziland</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Tajikistan</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>India</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Sri Lanka</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Indonesia</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>India</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Sri Lanka</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Philippines</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Japan</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>North Korea</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Australia</cell>
+              <cell></cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Morocco</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Western Sahara</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Libya</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Lesotho</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Israel</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Lebanon</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Jordan</cell>
+          </row>
+        
+        <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Yemen</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Somalia</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Oman</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>United Arab Emirates</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Iran</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Kazakhstan</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Uzbekistan</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Kyrgyzstan</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Turkmenistan</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Afghanistan</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Pakistan</cell>
+          </row>
+          
+          <row type="cell">
+            <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell></cell>
+              <cell>Mongolia</cell>
+          </row>
+          
         </table>
 
         <chapter>
