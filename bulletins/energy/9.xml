@@ -149,19 +149,13 @@
        <paragraph>The thyroid gland naturally accumulates iodine from the blood stream, because large amounts of radioactive iodine were released as a result of the Chernobyl accident.</paragraph>
        <paragraph>The thyroid glands of local residents received considerable doses through breathing and through consuming contaminated foods, especially milk.</paragraph>
        <paragraph>Total cases are 6.000</paragraph>
-       <paragraph>
-         <list type="unordered">
-          <item>A. Babies between zero and 4 years old</item>
-          <item>B. Children between 5 and 9 years old</item>
-          <item>C. Children between 10 and 14 years old</item>
-        </list>
-      </paragraph>
+       
      </chapter>
         <graph unit="%" x="string" y="percentage">
         <dataset label= "">
-          <data x="A" y="15"/>
-          <data x="B" y="14"/>
-          <data x="C" y="11"/>
+          <data x="Babies between zero and 4 years old" y="15"/>
+          <data x="Children between 5 and 9 years old" y="14"/>
+          <data x="Children between 10 and 14 years old" y="11"/>
         </dataset>
         </graph>
     <keywords>
