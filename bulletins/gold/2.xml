@@ -10,7 +10,7 @@
   <bulletin id="02" date="20160312">                   <!--[1-N]-->
     <sections>                                                          <!--[ 1 ]-->
       <section>                                                         <!--[1-N]-->
-        <title>Gold price</title>
+        <title>Gold Price</title>
         <subtitle>Week 10</subtitle>
         <graph unit="USD/oz" x="date" y="number"> 		          <!--[0-N]-->
           <dataset>                           	<!--[1-N]-->
@@ -29,16 +29,17 @@
         </sources>
       </section>
       <section>                                                         <!--[1-N]-->
-       <title>Last week, after a year, the peak of gold price</title>
+       <title>Gold Price Hits Year High</title>
        <chapter>                                                   <!--[0-N]-->
-        <paragraph>After 12 months of growth, on 4 March 2016 the historical peak of gold priceoccurred.
-             The high price was 1920 USD/oz.</paragraph>                        <!--[0-N]-->
+        <paragraph>After 12 months of continuous growth, on March 4th, 2016, gold price hit an historical peak.
+             The highest price was 1,920 USD/oz.</paragraph>                        <!--[0-N]-->
         <paragraph>There was a growth of 17% because the investors
            are trying to grab gold as a safe haven because of great uncertainty in global monetary policy.</paragraph>
         <paragraph>Oil prices are falling of 0.65%, so investors have decided to move their investments on gold.</paragraph>
        </chapter>
        <graph unit="USD/kg" x="date" y="number"> 		          <!--[0-N]-->
-        <dataset label= "Gold price">                           	<!--[1-N]-->
+        <title>Gold price</title>
+        <dataset label= "Week 10">                           	<!--[1-N]-->
           <data x="20160302" y="39,000"/>
           <data x="20160303" y="40,004.49"/>
           <data x="20160304" y="40,817.66"/>
@@ -48,8 +49,8 @@
         </dataset>
        </graph>
        <graph unit="USD/kg" x="date" y="number">
-        <title>Year gold price</title> 		          <!--[0-N]-->
-        <dataset label= "Gold price">                           	<!--[1-N]-->
+        <title>Golde price</title> 		          <!--[0-N]-->
+        <dataset label= "March 2015-March 2016">                           	<!--[1-N]-->
           <data x="20150301" y="37,500"/>
           <data x="20150315" y="38,500"/>
           <data x="20150401" y="38,800"/>
@@ -80,7 +81,7 @@
        </graph>
        <quote>
          <author>Bloomberg News</author>
-         <text>After 12 month of growth, on 4 March 2016 occurred the historical peak of gold price.</text>
+         <text>After 12 months of continuous growth, on March 4th, 2016, gold price hit an historical peak.</text>
        </quote>
        <keywords>                                                      <!--[ 1 ]-->
          <keyword name="gold" />                                    <!--[1-N]-->
@@ -91,25 +92,26 @@
        </sources>                                                        <!--[0-N]-->
       </section>
       <section>                                                         <!--[1-N]-->
-       <title>From which factors gold price depends?</title>
+       <title>What Are The Factors That Influence Gold Price?</title>
        <chapter>                                                   <!--[0-N]-->
-         <paragraph>The central bank transactions greatly influence the value of gold.
-            Ther are some operations that affect a lot: the sale and gold investment.</paragraph>                        <!--[0-N]-->
-         <paragraph>When interest rates of the biggest bank are high,
-            the gold demand fall and orders decrease, but if interest rates are low, increase investments in gold.</paragraph>
-         <paragraph>Political crisis and wars affect the price of gold because this leads not to make major investments,
-            and indeed to take in forms of asset considered as a safe.</paragraph>
-         <paragraph>A conditioning of the gold price is just inflation.
+         <paragraph>
+         	<list type="unordered">                                   <!--[0-N]-->
+              <item>CENTRAL BANKS. Central banks’ transactions greatly influence the value of gold.
+            There are some operations that affect it the most: sale and gold investments.</item>
+              <item>INTEREST RATES. When interest rates of the biggest banks are high,
+            the gold demand falls and orders decrease; but if interest rates are low, investments in gold increase.</item>
+            <item>CRISES AND WARS. Political crises and wars affect the price of gold because this leads not to make major investments,
+            and indeed to take in forms of asset considered as a safe. The crisis itself leads investors to low-risk investment solutions like gold. It is targeted to avoid mistakes and to make sure you still get a profit</item>
+            <item>INFLATION. A conditioning of the gold price is just inflation.
            The mechanism is given by the economic crisis that it decreases the purchasing
-           power and the economy in general gradually slows.</paragraph>
-         <paragraph>Gold rises when other market are volatile.
-           Investors head for the “safe haven” metal in the belief that its performance won’t be correlated with other assets</paragraph>
-         <paragraph>The crisis itself leads investors to low-risk investment solutions like gold.
-           It is targeted to avoid mistakes and to make sure you still get a profit</paragraph>
-         <paragraph>Availability helps to decide and to form the price of gold. Central banks,
-           International Monetary Fund and mining companies play a role for the availability.</paragraph>
-         <paragraph>A climate unfavorable situation can complicate the extraction.
-           Both the extreme heat and cold, even more extreme condition making it almost impossible.</paragraph>
+           power and the economy in general gradually slows.</item>
+           <item>MARKET VOLATILITY. Gold rises when other market are volatile.
+           Investors head for the “safe haven” metal in the belief that its performance won’t be correlated with other assets.</item>
+           <item>AVAILABILITY. Availability helps to decide and to form the price of gold. Central banks,
+           International Monetary Fund and mining companies play a role for the availability.</item>
+           <item>WEATHER. An unfavorable situation can complicate the extraction. Both extreme heat and cold — and even more extreme conditions — make the extraction almost impossible.</item>
+           </list>
+         </paragraph>
        </chapter>
        <keywords>                                                      <!--[ 1 ]-->
          <keyword name="inflation/deflation" />
@@ -122,18 +124,17 @@
        </sources>                                                                   <!--[0-N]-->
       </section>
       <section>                                                         <!--[1-N]-->
-        <title>Gold flowing into funds</title>
+        <title>Gold Flowing Into Funds</title>
         <chapter>                                                   <!--[0-N]-->
           <paragraph>According to the World Gold Council, only 12% of the demand current gold-bearing is in the form of practical uses,
             such as in dentistry and electronics. The majority of gold demand (about 59%) comes from the jewelery sector,
             with India and China leading the way among the most important consumers in recent years.
-            Meanwhile, the rest (about 29% global appetite) for the yellow metal comes from investors. </paragraph>                        <!--[0-N]-->
+            Meanwhile, the rest (about 29% global appetite) for the yellow metal comes from investors. </paragraph>  
+          <paragraph>Gold investments has risen lately, driven by fears about the official currency and the fact that the gold has been made more and more accessible.</paragraph>
         </chapter>
         <graph unit="metric tons" x="date" y="number"> 		          <!--[0-N]-->
-          <abstract>							                                      <!--[0-1]-->
-            Gold investments has risen lately, driven by fears about the official currency and the fact that the gold has been made more and more accessible.					                            <!-- max 144 char-->
-          </abstract>
-          <dataset label= "gold investments">                           	<!--[1-N]-->
+          <title>Gold investments</title>
+          <dataset label= "">                           	<!--[1-N]-->
             <data x="20150101" y="3"/>
             <data x="20150201" y="0"/>
             <data x="20150301" y="-5"/>
@@ -157,7 +158,7 @@
         </sources>                                                                   <!--[0-N]-->
       </section>
       <section>                                                         <!--[1-N]-->
-         <title>This is the best time to invest gold ETFs. But what is an ETF?</title>
+         <title>This Is The Best Time To Invest In Gold ETFs. But What Is An ETF?</title>
          <chapter>                                                   <!--[0-N]-->
            <paragraph>The ETFs are bought and sold in a stock exchange, like the New York Stock Exchange. They can be traded like a stock and
              just like a mutual found, they rack the valutation of an index, commodity or basket of assets instead of a single stock.</paragraph>                        <!--[0-N]-->
@@ -174,12 +175,13 @@
          </sources>
       </section>
       <section>                                                         <!--[1-N]-->
-          <title>BlackRock is the leading ETF provider of the global market share</title>
-          <graph unit="%" x="string" y="number"> 		          <!--[0-N]-->
+          <title>BlackRock Is The Leading ETF Provider Of The Global Market Share</title>
+          <graph unit="%" x="string" y="number"> 
+          <title>ETFs market share</title>
             <abstract>							                                      <!--[0-1]-->
-              The graph presents the market share of providers of ETFs worldwide. The market share was calculated on the value of managed assets.					                            <!-- max 144 char-->
+              The graph below presents the market share of providers of ETFs worldwide. The market share was calculated on the value of managed assets.					                            <!-- max 144 char-->
             </abstract>
-            <dataset label= "ETFs market share">                           	<!--[1-N]-->
+            <dataset label= "">                           	<!--[1-N]-->
               <data x="Black Rock" y="38.7"/>
               <data x="State Street" y="17.2"/>
               <data x="Vanguard" y="16.9"/>
@@ -201,7 +203,7 @@
       </section>
       <section>                                                         <!--[1-N]-->
            <title>Historical break</title>
-           <subtitle>The Parisian conference</subtitle>
+           <subtitle>The Parisian Conference</subtitle>
            <chapter>                                                   <!--[0-N]-->
              <paragraph>Many large countries considered the main silver coin, with or without the gold,
                and the latter became the dominant form of money formally in 1867, at a conference held in Paris.</paragraph>
