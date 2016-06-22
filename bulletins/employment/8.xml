@@ -1108,7 +1108,7 @@
           <data x="Millennials who don't" y="74.6" />
         </dataset>
         </graph>
-        <graph>
+        <graph unit="%" x="string" y="percentage">
           <title>US</title>
         <dataset label="">
           <data x="Millennials who live at home" y="20" />
