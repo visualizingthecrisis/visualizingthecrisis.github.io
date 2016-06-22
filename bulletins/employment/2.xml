@@ -39,7 +39,7 @@
       <section>                                                    <!--2-->
         <title>The Rise of the Freelance Economy</title>
           <abstract>
-            53.7 million Americans count themselves among the independent workforce – contractors, part-timers, solo business owners, full-time employees with a side gig and so on. That number is projected to grow over 4% per year through 2020, to reach about 66 million Americans.
+            53.7 million Americans count themselves among the independent workforce — contractors, part-timers, solo business owners, full-time employees with a side gig and so on. That number is projected to grow over 4% per year through 2020, to reach about 66 million Americans.
           </abstract>
         <graph unit="m" x="string" y="number">
           <title>Comparison between US Labor Force and US Freelancer in 2016</title>
@@ -161,7 +161,7 @@
         <graph unit="%" x="string" y="number">
           <title>W-2 vs 1099</title>
           <abstract>
-            Differences between the employers' expenses for the two types of workers.
+            Differences between the employers’ expenses for the two types of workers.
           </abstract>
           <dataset label="">
             <data x="Employee Compensation" y="100" />
@@ -171,10 +171,10 @@
         <graph unit="%" x="string" y="percentage">
           <title>W-2 Compartments</title>
           <abstract>
-            The 100% of employee compensation is divided into different parts between worker net wage and employer taxes and payments.
+            The total share of employee compensation that an employer has to pay consists of different expenses and taxes that add up to the net salary.
           </abstract>
           <dataset label="">
-            <data x="Employee Compensation" y="68" />
+            <data x="Wage and Salary" y="68" />
             <data x="Legal Tax Obligation" y="8" />
             <data x="Suppliment Pay" y="3" />
             <data x="Insurance" y="9" />
@@ -185,7 +185,7 @@
         <graph unit="%" x="string" y="number">
           <title>W-2 and 1099 Net Wages Comparison</title>
           <abstract>
-            To be eligible for Social Securety and Medicare, a contract worker has to split both the employer and the employee shares of those pay roll taxes ‒ double what regular employees pay (15.3% vs 7.65%).
+            To be eligible for Social Securety and Medicare, a contract worker has to split both the employer and the employee shares of those pay roll taxes — double what regular employees pay (15.3% vs. 7.65%).
           </abstract>
           <dataset label="Net Wage">
             <data x="Employee" y="60.35" />
@@ -254,7 +254,7 @@
       <section>                                                            <!--7-->
         <title>Economic Impact Of US Freelancers</title>
           <abstract>
-            The economic impact of the 53.7 million Americans who are freelancing is significant:collectively, they contribute more than $715 billion in freelance earnings to the national economy.
+            The economic impact of the 53.7 million Americans who are freelancing is significant: collectively, they contribute more than $715 billion in freelance earnings to the national economy.
           </abstract>
           <chapter>
           <title>1099 Problems</title>
@@ -432,14 +432,14 @@
             <item>Berlin</item>
             <item>Amsterdam</item>
             <item>London</item>
-            <item>Be'er Sheva</item>
+            <item>Be’er Sheva</item>
             <item>Hezliya</item>
             <item>Tel Aviv</item>
           </list>
         </paragraph>
       </chapter>
       <chapter>
-        <title>WeWork Comming Soon Locations</title>
+        <title>WeWork Coming Soon Locations</title>
         <paragraph>
         <list type="unordered">
           <item>Mexico City</item>
@@ -475,7 +475,7 @@
     <section>                                                         <!--10-->
       <title>The Rising Interest for Coworking Spaces</title>
       <graph unit="%" x="date" y="number">
-        <title>Google Searches of the Term "Coworking" in the Last 10 Yerars</title>
+        <title>Google Searches of the Term “Coworking” in the Last 10 Yerars</title>
         <dataset label="">
           <data x="20070312" y="2" />
           <data x="20070912" y="3" />
@@ -518,12 +518,12 @@
     <section>                                                          <!--11-->
       <title>Coworking Spaces Comparison</title>
       <abstract>
-        WeWork and Regus are the most famous examples of companies which provide shared workspace, community and services for entrepreneurs, freelancers, startups and small businesses.
+        WeWork and Regus are the two main companies that provide shared workspace, community and services for entrepreneurs, freelancers, startups and small businesses. But the two differ greatly in their numbers.
       </abstract>
     <table>
       <row type="head">
         <cell>WeWork</cell>
-        <cell>vs</cell>
+        <cell>vs.</cell>
         <cell>Regus</cell>
       </row>
       <row type="cell">
@@ -549,7 +549,7 @@
     </table>
       <chapter>
         <title>WeWork in China</title>
-        <paragraph>WeWork, the New York-based shared-office start-up, announced last wednesday that it had received $430 million in funding from investors includind two Chinabased private equtity funds, Hony Capital and Legend Holdings. The deal values the company at $16 billion, four time as large as Regus, a UK-listed flexible workplace provider.</paragraph>
+        <paragraph>WeWork, the New York-based shared-office start-up, announced last wednesday that it had received $430 million in funding from investors includind two China-based private equtity funds, Hony Capital and Legend Holdings. The deal values the company at $16 billion, four time as large as Regus, a UK-listed flexible workplace provider.</paragraph>
       </chapter>
       <keywords>
         <keyword name="Central and Eastern Asia" />
