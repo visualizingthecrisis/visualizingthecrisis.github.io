@@ -457,6 +457,7 @@ th{
   display:block;
 /*  border: 2px solid black;*/
   width:100%;
+  padding-right: 2px;
 /*  box-sizing :border-box;*/
 }
 
