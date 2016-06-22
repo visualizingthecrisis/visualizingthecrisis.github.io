@@ -114,7 +114,7 @@
       <graph unit="%" x="date" y="number">
         <title>US Generations (from 1979 to 2010)</title>
         <abstract>
-          The Big Apple’s Millennials make about 20% less than the generation before them, according to a report released by New York City comptroller Scott Stringer.
+          The Big Apple’s Millennials make about 20% less than the generation before them, according to a report released by New York City Comptroller Scott Stringer.
         </abstract>
         <dataset label="age 20-24">
           <data x="1979" y="-10.13" />
@@ -551,7 +551,7 @@
     <section>                                                            <!--6-->
       <title>Worse Off Than Parents</title>
       <abstract>
-        The vast majority of American workers expect to have less money at the end of their careers than their parents did ‒ and that fear is highest among 20-something Millennials (aged 20-35). Some pundits have had the same fears, declaring that the generation may even be the first to wind up worse than their parents, with lower incomes, more debt and higher poverty rates.
+        The vast majority of American workers expect to have less money at the end of their careers than their parents did — and that fear is highest among 20-something Millennials (aged 20-35). Some pundits have had the same fears, declaring that the generation may even be the first to wind up worse than their parents, with lower incomes, more debt and higher poverty rates.
       </abstract>
       <chapter>
         <title>Save Us Bernie!</title>
@@ -586,7 +586,7 @@
     <section>                                                        <!--7-->
       <title>Who are Millennials?</title>
       <abstract>
-        Millennials are currently aged 20-35, or born between 1980 and the end of 1994 (with some more generous definitions taking in those born up to 2000). They are the first generation of adults (or almost adults) that has familiarity with technology, thanks to a deep knowledge of internet world and digital communication's codes.
+        Millennials are currently aged 20-35, or born between 1980 and the end of 1994 (with some more generous definitions taking in those born up to 2000). They are the first generation of adults (or almost adults) that has familiarity with technology, thanks to a deep knowledge of internet world and digital communication’s codes.
       </abstract>
       <keywords>
         <keyword name="Millennials (1981–2000)" />
@@ -666,7 +666,7 @@
       </graph>
       <chapter>
         <title>Exponential-growth Bias</title>
-        <paragraph>A perceptual bias that relates to an individual's understanding of compound interest.</paragraph>
+        <paragraph>A perceptual bias that relates to an individual’s understanding of compound interest.</paragraph>
       </chapter>
       <graph unit="%" x="string" y="percentage">
         <dataset label="">
@@ -759,7 +759,7 @@
         It’s not just homes: Millennials (aged 20-35) have been reluctant to buy items such as cars, music and luxury goods. Instead, they’re turning to a new set of services that provide access to products without the burdens of ownership, giving rise to the so-called sharing economy.
       </abstract>
       <chapter>
-        <title>Purchasing House</title>
+        <title>Purchasing a House</title>
         <paragraph>
           <list type="unordered">
             <item>A. I might purchase one if I really need it.</item>
@@ -780,7 +780,7 @@
         </dataset>
       </graph>
       <chapter>
-        <title>Purchasing Car</title>
+        <title>Purchasing a Car</title>
         <paragraph>
           <list type="unordered">
             <item>F. I do not intend to purchase one in near future.</item>
@@ -851,7 +851,8 @@
       </sources>
     </section>
     <section>                                                      <!--12-->
-      <title>Young Spenders: the YOLO Lifestyle</title>
+      <title>Young Spenders</title>
+      <subtitle>The YOLO Lifestyle</subtitle>
       <abstract>
         Millennials (aged 20-35) are prioritizing short-term spending over long-term saving. In US younger consumers punched above their weight class in the final months of 2015 fueling a 2.35% increase in year-over-year spending in December, according to data released by the J.P. Morgan Chase and Co. Institute.
       </abstract>
@@ -1028,7 +1029,7 @@
     <section>                                                         <!--14-->
       <quote>
         <author>A reasonably-paid Millennial</author>
-        <text>It’s almost impossible to save for a house in London so I might as well just spend my money travelling the world.</text>
+        <text>It’s almost impossible to save for a house in London, so I might as well just spend my money travelling the world.</text>
       </quote>
       <keywords>
         <keyword name="Millennials (1981–2000)" />
@@ -1056,12 +1057,12 @@
     <section>                                                      <!--15-->
       <title>Holidays are Better than Pensions</title>
         <abstract>
-          A survey from Eventbrite found that 78% of Millennials (aged 20-35) would prefer to spend their money on an 'experience' - such as a holiday - over something tangible that they could own.
+          A survey from Eventbrite found that 78% of Millennials (aged 20-35) would prefer to spend their money on an “experience” — such as a holiday — over something tangible that they could own.
         </abstract>
       <graph unit="%" x="string" y="percentage">
         <dataset label="">
-          <data x="Millennials who prefer to spend their money on an 'experience'" y="78" />
-          <data x="Millennials who don't" y="22" />
+          <data x="Millennials who prefer to spend their money on an “experience”" y="78" />
+          <data x="Millennials who don’t" y="22" />
         </dataset>
       </graph>
       <keywords>
@@ -1094,17 +1095,15 @@
       </chapter>
       <quote>
         <author>Stephen Melman</author>
-        <role>NAHB's director of economic services</role>
-        <text>We call it the "Great Delay".</text>
+        <role>NAHB’s director of economic services</role>
+        <text>We call it the “Great Delay.”</text>
       </quote>
       <graph unit="%" x="string" y="percentage">
-        <title>Percentage of Millennials who live at home, U.K. / U.S.</title>
-        <dataset label="UK">
+        <title>Percentage of Millennials who live at home</title>
+        <dataset label= "UK">
           <data x="Millennials who live at home" y="25.4" />
           <data x="Millennials who don't" y="74.6" />
         </dataset>
-      </graph>
-      <graph unit="%" x="string" y="percentage">
         <dataset label="US">
           <data x="Millennials who live at home" y="20" />
           <data x="Millennials who don't" y="80" />
