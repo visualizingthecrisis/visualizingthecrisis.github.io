@@ -13,12 +13,12 @@
         <title>Gold price</title>
         <subtitle>Week 10</subtitle>
         <graph unit="USD/oz" x="date" y="number"> 		          <!--[0-N]-->
-          <dataset label= "Gold price">                           	<!--[1-N]-->
-            <data x="20160307" y="1,272"/>
-            <data x="20160308" y="1,272"/>
-            <data x="20160309" y="1,272"/>
-            <data x="20160310" y="1,272"/>
-            <data x="20160311" y="1,272"/>                            <!--[1-N]-->
+          <dataset>                           	<!--[1-N]-->
+            <data x="20160307" y="1,260"/>
+            <data x="20160308" y="1,253.76"/>
+            <data x="20160309" y="1,251"/>
+            <data x="20160310" y="1,250.58"/>
+            <data x="20160311" y="1,251.60"/>                            <!--[1-N]-->
           </dataset>
         </graph>
         <keywords>                                                      <!--[ 1 ]-->
@@ -31,7 +31,7 @@
       <section>                                                         <!--[1-N]-->
        <title>Last week, after a year, the peak of gold price</title>
        <chapter>                                                   <!--[0-N]-->
-        <paragraph>After 12 month of growth, on 4 March 2016 occurred the historical peak of gold price.
+        <paragraph>After 12 months of growth, on 4 March 2016 the historical peak of gold priceoccurred.
              The high price was 1920 USD/oz.</paragraph>                        <!--[0-N]-->
         <paragraph>There was a growth of 17% because the investors
            are trying to grab gold as a safe haven because of great uncertainty in global monetary policy.</paragraph>
@@ -98,16 +98,16 @@
          <paragraph>When interest rates of the biggest bank are high,
             the gold demand fall and orders decrease, but if interest rates are low, increase investments in gold.</paragraph>
          <paragraph>Political crisis and wars affect the price of gold because this leads not to make major investments,
-            and indeed to take in forms of asset considered as a safe</paragraph>
+            and indeed to take in forms of asset considered as a safe.</paragraph>
          <paragraph>A conditioning of the gold price is just inflation.
            The mechanism is given by the economic crisis that it decreases the purchasing
-           power and the economy in general gradually slows</paragraph>
+           power and the economy in general gradually slows.</paragraph>
          <paragraph>Gold rises when other market are volatile.
            Investors head for the “safe haven” metal in the belief that its performance won’t be correlated with other assets</paragraph>
-         <paragraph>The crisis itself leads investors to low-risk investment solutions like  gold.
+         <paragraph>The crisis itself leads investors to low-risk investment solutions like gold.
            It is targeted to avoid mistakes and to make sure you still get a profit</paragraph>
          <paragraph>Availability helps to decide and to form the price of gold. Central banks,
-           International Monetary Fund and mining companies play a role for the availability</paragraph>
+           International Monetary Fund and mining companies play a role for the availability.</paragraph>
          <paragraph>A climate unfavorable situation can complicate the extraction.
            Both the extreme heat and cold, even more extreme condition making it almost impossible.</paragraph>
        </chapter>
@@ -122,7 +122,7 @@
        </sources>                                                                   <!--[0-N]-->
       </section>
       <section>                                                         <!--[1-N]-->
-        <title>Golf flowing into funds</title>
+        <title>Gold flowing into funds</title>
         <chapter>                                                   <!--[0-N]-->
           <paragraph>According to the World Gold Council, only 12% of the demand current gold-bearing is in the form of practical uses,
             such as in dentistry and electronics. The majority of gold demand (about 59%) comes from the jewelery sector,
@@ -160,7 +160,7 @@
          <title>This is the best time to invest gold ETFs. But what is an ETF?</title>
          <chapter>                                                   <!--[0-N]-->
            <paragraph>The ETFs are bought and sold in a stock exchange, like the New York Stock Exchange. They can be traded like a stock and
-             just like a mutual found, they rack the valutation of an index, commodity or basket of assets instead of a single stock</paragraph>                        <!--[0-N]-->
+             just like a mutual found, they rack the valutation of an index, commodity or basket of assets instead of a single stock.</paragraph>                        <!--[0-N]-->
            <paragraph>How are ETFs bought and sold? Anyone can trade stocks on its own. There are online brokers that allow to you to buy some stocks.</paragraph>
            <paragraph>If gold perform well, you will look up some ETFs, and decide on which one you can invest, such as those associated with gold.</paragraph>
            <paragraph>The stocks are acquired on online bank, from that moment you can monitor the performance every day.</paragraph>
