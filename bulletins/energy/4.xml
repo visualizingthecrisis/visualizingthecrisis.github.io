@@ -128,11 +128,9 @@
         <graph unit="%" x="string" y="percentage">
           <title>Production energy capacity in North America</title>
           <abstract>Percentuage of production renewable energy capacity overcomes the non renewable one.</abstract>
-          <dataset label= "Coal and Gas">
-          <dataset label= "Renewables">
+          <dataset label= "Energy capacity">
             <data x="Coal and Gas" y="30"/>
             <data x="Renewables" y="70"/>
-          </dataset>
           </dataset>
         </graph>
 
@@ -163,17 +161,11 @@
         <graph unit="%" x="string" y="percentage">
           <title>Natural and human origins of gas emissions</title>
           <abstract>The percentuage of fossil fuel overcomes the other values.</abstract>
-          <dataset label= "Natural factors">
-          <dataset label= "Fossil fuel">
-          <dataset label= "Coal fired">
-          <dataset label= "Industrial combustion">
+          <dataset label= "Percentage of gas emissions">
             <data x="Natural factors" y="10"/>
-            <data x="Fossil fue" y="45"/>
+            <data x="Fossil fuel" y="45"/>
             <data x="Coal fired" y="29"/>
             <data x="Industrial combustion" y="16"/>
-          </dataset>
-          </dataset>
-          </dataset>
           </dataset>
         </graph>
 
