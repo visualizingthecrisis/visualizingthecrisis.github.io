@@ -19,7 +19,7 @@
             higher transaction values as well as younger customers than the norm in the long term.</paragraph>
       </chapter>
       <graph unit= "%" x="string" y="percentage">
-           <title>People pro Brexit</title>
+           <title>People pro and versus Brexit</title>
            <dataset label="Brexit vote">
               <data x= "Over sixty pro Brexit" y="56"/>
               <data x= "Under theerty versus Brexit" y="44"/>
@@ -86,7 +86,7 @@
                     When interest rates are negative gold prise rise up and goes down when they are positive.				                            <!-- max 144 char-->
                   </abstract>
         <graph unit= "$/oz" x="date" y="number">
-        <dataset label="Gold price">
+        <dataset>
                   <data x= "1995" y="1,800"/>
                   <data x= "1996" y="1,400"/>
                   <data x= "1997" y="1,600"/>
@@ -115,7 +115,7 @@
           <abstract>
               That relationship is not in tune with the quantity theory of money.					                            <!-- max 144 char-->
                   </abstract>
-       <dataset label="Gold price">
+       <dataset>
                   <data x= "1968" y="200"/>
                   <data x= "1970" y="350"/>
                   <data x= "1972" y="150"/>
@@ -126,7 +126,7 @@
           </dataset>
       </graph>
       <graph unit= "Yield" x="date" y="number">
-            <dataset label="Gold price">
+            <dataset>
                       <data x= "1968" y="1"/>
                       <data x= "1970" y="1"/>
                       <data x= "1972" y="1.50"/>
@@ -159,7 +159,7 @@
              percent to 0.5 percent, according to a statement Wednesday following a two-day meeting.</paragraph>
       </chapter>
       <graph unit= "%" x="data" y="number">
-         <dataset label="FED's interest rates">
+         <dataset>
               <data x= "2011" y="0.25"/>
               <data x= "2012" y="0.25"/>
               <data x= "2013" y="0.25"/>
@@ -186,7 +186,7 @@
                investors seek a haven from financial market turmoil.</paragraph>
         </chapter>
       <graph unit= "%" x="data" y="number">
-           <dataset label="BOJ's interest rates">
+           <dataset>
                 <data x= "2011" y="0.05"/>
                 <data x= "2012" y="0.05"/>
                 <data x= "2013" y="0.05"/>
@@ -222,7 +222,7 @@
                    latest Eurostat survey, the rates were negative).</paragraph>
             </chapter>
       <graph unit= "%" x="date" y="number">
-               <dataset label="BCE's interest rates">
+               <dataset>
                     <data x= "2011" y="1.25"/>
                     <data x= "2012" y="0.75"/>
                     <data x= "2013" y="0.50"/>
@@ -240,7 +240,7 @@
       </sources>
       </section>
     <section>
-      <title>Chinese Popolar Bank's interest rates</title>
+      <title>Chinese Popular Bank's interest rates</title>
       <chapter>
         <paragraph>
           The storm that hit China on financial markets in starting the
@@ -248,7 +248,7 @@
           aversion to risk and fear that speculative attacks can decimate their savings.</paragraph>
       </chapter>
       <graph unit= "%" x="date" y="number">
-        <dataset label="PBOC's interest rates">
+        <dataset>
           <data x= "2011" y="5"/>
           <data x= "2012" y="5.80"/>
           <data x= "2013" y="5.10"/>
@@ -259,7 +259,7 @@
       </graph>
       <quote>
             <author>Bloomberg News</author>
-            <text>Chinese market swinging too, this is typical of a speculative market.</text>
+            <text>Chinese market is swinging too: this is typical of a speculative market.</text>
       </quote>
       <keywords>
         <keyword name="Central and Eastern Asia" /><keyword name="Interest Rates" />
@@ -272,7 +272,7 @@
     <section>
       <title>Central Bank's strategies</title>
       <graph unit= "%" x="string" y="number">
-        <dataset label="PBOC's interest rates">
+        <dataset label="Interest rates of the week">
           <data x= "FED" y="0.50"/>
           <data x= "BOJ" y="-0.10"/>
           <data x= "BCE" y="0"/>
