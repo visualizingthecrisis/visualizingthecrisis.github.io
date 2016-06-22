@@ -14,7 +14,7 @@
         <graph unit="B$" x="date" y="number">
           <title>Private companies valued over $1b</title>
           <abstract>A weekly rank of private companies with the growth of their valuation
-            from 1B$ to current valuation, from 2011 to March 2016.
+            from $1b to current valuation, from 2011 to March 2016.
             This week there is a new e-commerce Unicorn: Souq.</abstract>
           <dataset label="Uber">
             <data x="20130801" y="1" />
