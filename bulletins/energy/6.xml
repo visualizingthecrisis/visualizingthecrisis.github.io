@@ -269,33 +269,20 @@
       <paragraph>The global inventory of highly enriched uranium (HEU) is estimated to be about 1370 ± 125 tonnes as of the end of 2014.</paragraph>
       <paragraph>The global stockpile of separated plutonium as of the end of 2014 is estimated as 506 ± 10 tonnes, of which about 272 tonnes is the material in civilian custod.</paragraph>
 
-      <paragraph>
-      <list type="unordered">
-        <item>A Russia</item>
-        <item>B United States</item>
-        <item>C France</item>
-        <item>D China</item>
-        <item>E United Kingdom</item>
-        <item>F India</item>
-        <item>G Israel</item>
-        <item>H Others</item>
-      </list>
-     </paragraph>
-
     </chapter>
 
     <graph unit="%" x="Country" y="Percentage">
       <title>The global inventory of highly enriched uranium (HEU)</title>
       <abstract>Fissile material stocks</abstract>
       <dataset label= "Fissile material stocks">
-        <data x="A" y="49.73"/>
-        <data x="B" y="43.87"/>
-        <data x="C" y="2.20"/>
-        <data x="D" y="1.32"/>
-        <data x="E" y="1.54"/>
-        <data x="F" y="0.22"/>
-        <data x="G" y="0.02"/>
-        <data x="H" y="1.10"/>
+        <data x="Russia" y="49.73"/>
+        <data x="United States" y="43.87"/>
+        <data x="France" y="2.20"/>
+        <data x="China" y="1.32"/>
+        <data x="United Kingdom" y="1.54"/>
+        <data x="India" y="0.22"/>
+        <data x="Israel" y="0.02"/>
+        <data x="Others" y="1.10"/>
       </dataset>
     </graph>
 
