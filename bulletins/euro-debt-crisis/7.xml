@@ -10,17 +10,17 @@
   <sections>
 
   <section>
-    <title>IMF says that "recovery is too low for too long”</title>
+    <title>IMF Says That “Recovery Is Too Low For Too Long”</title>
       <chapter>
         <paragraph>
           The IMF revised down its forecast for global growth in 2016 for the fourth consecutive year, citing
-          loss of growth momentum in advanced economies,the turbulence in financial markets and political
+          loss of growth momentum in advanced economies, the turbulence in financial markets and political
           and natural forces. Also EU has negative forecast, economic recovery was “too low for too long”.
         </paragraph>
       </chapter>
       <graph unit="%" x="country" y="number">
-        <title>European growth outlook forecast 2008 | 2018</title>
-        <dataset label="Values in 2008">
+        <title>European growth outlook forecast, 2008—2018</title>
+        <dataset label="2008">
           <data x="DE" y="1"/>
           <data x="IE" y="-2"/>
           <data x="ES" y="1"/>
@@ -31,7 +31,7 @@
           <data x="NL" y="1.5"/>
           <data x="EU" y="0.5"/>
         </dataset>
-        <dataset label="Values in 2010">
+        <dataset label="2010">
           <data x="DE" y="-4"/>
           <data x="IE" y="0.5"/>
           <data x="ES" y="0"/>
@@ -42,7 +42,7 @@
           <data x="NL" y="1"/>
           <data x="EU" y="2.5"/>
         </dataset>
-        <dataset label="Values in 2012">
+        <dataset label="2012">
           <data x="DE" y="1"/>
           <data x="IE" y="0"/>
           <data x="ES" y="-2.5"/>
@@ -53,7 +53,7 @@
           <data x="NL" y="-0.5"/>
           <data x="EU" y="-1"/>
         </dataset>
-        <dataset label="Values in 2014">
+        <dataset label="2014">
           <data x="DE" y="1.5"/>
           <data x="IE" y="4.5"/>
           <data x="ES" y="1"/>
@@ -64,7 +64,7 @@
           <data x="NL" y="1"/>
           <data x="EU" y="1"/>
         </dataset>
-        <dataset label="Values in 2016">
+        <dataset label="2016">
           <data x="DE" y="1.5"/>
           <data x="IE" y="4.5"/>
           <data x="ES" y="2.5"/>
@@ -75,7 +75,7 @@
           <data x="NL" y="1.5"/>
           <data x="EU" y="1.5"/>
         </dataset>
-        <dataset label="Values in 2018">
+        <dataset label="2018">
           <data x="DE" y="1"/>
           <data x="IE" y="2.5"/>
           <data x="ES" y="1.5"/>
@@ -88,7 +88,7 @@
         </dataset>
       </graph>
       <graph unit="%" x="country" y="number">
-        <title>Economic recovery in Europe 2008, 2018</title>
+        <title>Economic recovery in Europe, 2008—2018</title>
         <dataset label="Public debt">
           <data x="DE" y="-12.7"/>
           <data x="IE" y="-215.4"/>
@@ -122,7 +122,7 @@
           <data x="NL" y="-2.1"/>
           <data x="EU" y="-4.6"/>
         </dataset>
-        <dataset label="Investment">
+        <dataset label="Investments">
           <data x="DE" y="7.1"/>
           <data x="IE" y="41.9"/>
           <data x="ES" y="-29.5"/>
@@ -155,7 +155,7 @@
           <data x="NL" y="11.8"/>
           <data x="EU" y="1.4"/>
         </dataset>
-        <dataset label="Social exlusion">
+        <dataset label="Social exclusion">
           <data x="DE" y="-0.4"/>
           <data x="IE" y="-24.4"/>
           <data x="ES" y="-24.4"/>
@@ -209,24 +209,24 @@
     </section>
 
     <section>
-      <title>Renzi is wrong, says IMF</title>
+      <title>Renzi Is Wrong, Says IMF</title>
         <chapter>
           <paragraph>
             The International Monetary Fund (IMF) has updated also its Italian economy
             estimates for the current year: the result is that IMF forecast are considerably
-            different from DEF (Documento di Economia e Finanza) published by Italy. The IMF
+            different from DEF (“Documento di Economia e Finanza”) published by Italy. The IMF
             sweeps estimates that Renzi did: growth is less than half and debt is still rising.
           </paragraph>
         </chapter>
         <graph unit="%" x="string" y="number">
-          <title>Unemployment forecast from different sources, April 2016</title>
-          <dataset label="Unemployed people rate">
+          <title>IMF/DEF Unemployment forecast for April 2016</title>
+          <dataset label="Unemployment rate">
             <data x="IMF" y="11.4"/>
             <data x="DEF" y="11.4"/>
           </dataset>
         </graph>
         <graph unit="%" x="country" y="number">
-          <title>IMF compared to DEF forecast in 2016</title>
+          <title>IMF/DEF forecast for 2016</title>
           <dataset label="Inflation">
             <data x="DEF" y="0.2"/>
             <data x="IMF" y="0.2"/>
@@ -265,11 +265,11 @@
       </section>
 
       <section>
-        <title>Is this the end of Schengen Agreement?</title>
+        <title>Is This The End of Schengen Agreement?</title>
           <chapter>
             <paragraph>
               The free movement of persons is a fundamental right guaranteed by the EU to its citizens,
-              thanks to Schengen Agreement, signed in 1990. But in the past 18 months, mainly because
+              thanks to the Schengen Agreement, signed in 1990. But in the past 18 months, mainly because
               of migrants crisis, perspectives have darkened: some countries want to close their border
               destoying what Schengen Agreement built many years ago.
             </paragraph>
@@ -319,18 +319,18 @@
         </section>
 
         <section>
-          <title>Greece and Spain, target achieved?</title>
+          <title>Greece and Spain: Target Achieved?</title>
             <chapter>
               <paragraph>
                 The International Monetary Fund raised doubts about Greece’s ability
-                to meet the budget surplus target of 3.5 % of gross domestic product
+                to meet the budget surplus target of 3.5% of gross domestic product
                 within two years, because debt is too high for realize that goal.
-                Meanwhile, Spain is supposed to reduce its budget shortfall to 2.8 %
+                Meanwhile, Spain is supposed to reduce its budget shortfall to 2.8%
                 of GDP this year, but for EU commission this target will be missed.
               </paragraph>
             </chapter>
             <graph unit="%" x="string" y="number">
-              <title>Greece’s fiscal surplus goals and forecasts 2015, 2015</title>
+              <title>Greece’s fiscal surplus goals and forecasts, 2015—2018</title>
               <dataset label="goal">
                 <data x="2015" y="2"/>
                 <data x="2016" y="3"/>
@@ -345,7 +345,7 @@
               </dataset>
             </graph>
             <graph unit="%" x="string" y="number">
-              <title>Spain’s fiscal deficit goals and forecasts 2015, 2015</title>
+              <title>Spain’s fiscal deficit goals and forecasts, 2015—2018</title>
             <dataset label="goal">
               <data x="2015" y="4.2"/>
               <data x="2016" y="2.9"/>
@@ -383,16 +383,17 @@
           </section>
 
           <section>
-            <title>Debt situation</title>
+            <title>Greece and Spain</title>
+            <subtitle>Debt Situation</subtitle>
             <chapter>
               <paragraph>
-                Spain, the Euro area’s fourth largest economy, has been under the commission’s
-                excessive-deficit procedure since 2009 (Greece too). Actually deficit value is
+                Spain, Euro area’s fourth largest economy, has been under the commission’s
+                excessive-deficit procedure since 2009 (Greece too). Actually, the deficit value is
                 high, but never as Greece’s debt.
               </paragraph>
             </chapter>
               <graph unit="%" x="date" y="number">
-                <title>Spain and Greece Debt to GDP 2006, 2015 comparison</title>
+                <title>Spain and Greece Debt to GDP comparison, 2006—2015</title>
                 <dataset label="Greece debt">
                   <data x="2006" y="108"/>
                   <data x="2007" y="108"/>
@@ -443,7 +444,8 @@
           </section>
 
     <section>
-      <title>Actual situation</title>
+      <title>Greece and Spain</title>
+      <subtitle>Actual situation</subtitle>
       <chapter>
         <paragraph>
           Greece’s bond interest rate is too high and unsustainable, actually around 9%
@@ -453,7 +455,7 @@
         </paragraph>
       </chapter>
           <graph unit="%" x="date" y="number">
-            <title>Greece Government Bond 10 years 2006, 2016</title>
+            <title>Greece’s Government 10-year Bonds, 2006—2016</title>
             <dataset label="Interest rate">
               <data x="2006" y="4"/>
               <data x="2007" y="4.5"/>
@@ -469,7 +471,7 @@
             </dataset>
           </graph>
           <graph unit="EUR" x="date" y="number">
-            <title>Greece Revenue/Spending Forecasts 2010, 2020</title>
+            <title>Greece’s Revenue/Spending Forecasts, 2010—2020</title>
             <abstract>Data in € billion</abstract>
             <dataset label="Revenue">
               <data x="2010" y="93,000,000,000"/>
@@ -499,7 +501,7 @@
             </dataset>
           </graph>
           <graph unit="%" x="date" y="number">
-            <title>Spain Government Bond 10 years 2006, 2016</title>
+            <title>Spain’s Government 10-year Bonds, 2006—2016</title>
             <dataset label="Interest rate">
               <data x="2006" y="3.5"/>
               <data x="2007" y="4.2"/>
@@ -515,7 +517,7 @@
             </dataset>
           </graph>
           <graph unit="EUR" x="date" y="number">
-            <title>Spain Revenue/Spending Forecasts 2010 | 2020</title>
+            <title>Spain’s Revenue/Spending Forecasts, 2010—2020</title>
             <abstract>Data in € billion</abstract>
             <dataset label="Revenue">
             <data x="2010" y="390,000,000,000"/>
@@ -570,12 +572,12 @@
       </section>
 
       <section>
-        <title>Two different capital flows</title>
+        <title>Two Different Capital Flows</title>
           <chapter>
             <paragraph>
               External investments in Greece are in (slowly) growing in the last month:
-              they’ve a value of 241.33 million €. Unfortunately in Spain situation isn’t
-              the same: capital flow have a negative value of -9813.00 million €.
+              they’ve a value of €241.33 million. Unfortunately in Spain situation isn’t
+              the same: capital flows have a negative value of -€9,813.00 million.
             </paragraph>
           </chapter>
           <graph unit="EUR" x="country" y="number">
@@ -609,20 +611,19 @@
         </section>
 
         <section>
-          <title>About Greece's question</title>
           <quote>
             <author>
               Christine Lagarde</author>
-            <role>International Monetary Fund Managing Director</role>
+            <role>IMF Managing Director</role>
             <text>
-              Currently the debt is not sustainable and what is required is a debt operation.
+              Currently, the debt [in Greece] is not sustainable and what is required is a debt operation.
             </text>
           </quote>
            <quote>
            <author>Jeroen Dijsselbloem</author>
            <role>President of the Eurogroup</role>
            <text>
-             We did already a lot to make it more sustainable
+             We did already a lot to make [the greek debt] more sustainable.
            </text>
           </quote>
           <keywords>
@@ -652,18 +653,16 @@
         </section>
 
         <section>
-          <title>About Spain's question</title>
           <quote>
           <author>Pierre Moscovici</author>
           <role>Economic Affairs Commissioner</role>
-          <text>He realizes Spain may need more time
-             to cut its budget deficit (objectives are too hard to reach/achieve).</text>
+          <text>Spain may need more time to cut its budget deficit (objectives are too hard to achieve).</text>
          </quote>
          <quote>
          <author>Mariano Rajoy</author>
          <role>Spain’s Prime Minister</role>
-         <text>He want the commission to give Spain two extra years to bring its
-           deficit below the European Union’s 3 percent limit.</text>
+         <text>The Commission should  give Spain two extra years to bring its
+           deficit below the European Union’s 3% limit.</text>
         </quote>
             <keywords>
               <keyword name="Eastern Europe" />
