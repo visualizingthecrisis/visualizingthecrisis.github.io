@@ -374,16 +374,16 @@
     
     <graph unit="number of projects" x="string" y="number">
                   <dataset label= "Number of projects by country">
-                    <data x="Mexico" y="85"/>
-                    <data x="United States" y="83"/>
-                    <data x="Indonesia" y="62"/>
-                    <data x="Chile" y="59"/>
-                    <data x="Turkey" y="59"/>
-                    <data x="Philippines" y="29"/>
-                    <data x="Kenya" y="22"/>
-                    <data x="Iceland" y="16"/>
-                    <data x="Ethiopia" y="10"/>
-                    <data x="New Zealand" y="5"/>
+                    <data x="MX" y="85"/>
+                    <data x="US" y="83"/>
+                    <data x="ID" y="62"/>
+                    <data x="CL" y="59"/>
+                    <data x="TR" y="59"/>
+                    <data x="PH" y="29"/>
+                    <data x="KE" y="22"/>
+                    <data x="IS" y="16"/>
+                    <data x="ET" y="10"/>
+                    <data x="NZ" y="5"/>
                   </dataset>
     </graph>
     <keywords>
