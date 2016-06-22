@@ -76,7 +76,7 @@
       <section>
         <quote>
           <author>La Stampa</author>
-          <text>Reciclyng peacked in 2009, at 1,728 tonnes, and reached a 7-year low in 2015</text>
+          <text>Recycling peaked in 2009, at 1,728 tonnes, and reached a 7-year low in 2015.</text>
         </quote>
         <chapter>
           <paragraph>
@@ -97,7 +97,7 @@
         </chapter>
         <graph unit= "$/oz" x="data" y="number">
              <title>Gold recycling rates reflect the shifts in the price of gold</title>
-             <dataset label="Recycled gold">
+             <dataset label="Recycled rate">
                 <data x= "2004" y="409"/>
                 <data x= "2006" y="604"/>
                 <data x= "2008" y="872"/>
@@ -137,7 +137,7 @@
         </sources>
       </section>
       <section>
-        <title>What we don’t know about owr mobile phones</title>
+        <title>What we don’t know about our mobile phones</title>
         <chapter>
           <title>Where gold is in industrial waste?</title>
           <paragraph>
@@ -166,7 +166,7 @@
         </chapter>
         <graph unit= "mg" x="string" y="number">
              <title>How much precious metals are there in a mobile phone?</title>
-             <dataset label="Metals">
+             <dataset>
                 <data x= "Silver" y="250"/>
                 <data x= "Gold" y="24"/>
                 <data x= "Palladium" y="9"/>
@@ -182,7 +182,7 @@
         </sources>
       </section>
       <section>
-        <title>What appens to Apple?</title>
+        <title>What in happening to Apple?</title>
         <chapter>
           <paragraph>
             Apple has released interesting numbers to understand
@@ -227,7 +227,7 @@
       <title>Gold price</title>
       <subtitle>Week 18</subtitle>
       <graph unit="$/oz" x="date" y="number">
-        <dataset label= "Gold price">
+        <dataset>
             <data x= "20160509" y="1,264"/>
             <data x= "20160510" y="1,266"/>
             <data x= "20160511" y="1,278"/>
