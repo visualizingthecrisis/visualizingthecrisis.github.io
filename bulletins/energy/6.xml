@@ -144,45 +144,26 @@
       <paragraph>Efforts to eliminate all weapons-usable nuclear material began in 1992 when the United Nations Special Commission removed all HEU from Iraq after the Gulf War.</paragraph>
       <paragraph>This chart was updated in March 2016, when Switzerland removed its remaining weapons-usable nuclear materials.</paragraph>
 
-      <paragraph>
-      <list type="unordered">
-        <item>A 1991 Iraq</item>
-        <item>B 1992 Iraq</item>
-        <item>C 1996 Colombia</item>
-        <item>D 1997 Spain</item>
-        <item>E 1998 Denmark and Georgia</item>
-        <item>F 1999 Brazil/Philippins/Slovenia/Thailandia</item>
-        <item>G 2005 Greece</item>
-        <item>H 2007 South Corea</item>
-        <item>I 2008 Bulgaria/Latvia/Portugal</item>
-        <item>J 2009 Libya/Romania/Taiwan</item>
-        <item>K 2010 Chile/Serbia/Turkey</item>
-        <item>L 2012 Austria/Mexico/Turkey</item>
-        <item>M 2013 Czech Republic/Hungary/Vietnam</item>
-        <item>O 2015 Uzbekistan</item>
-      </list>
-     </paragraph>
-
     </chapter>
 
     <graph unit="%" x="String" y="Percentage">
       <title>Trend elimination of weapons usable nuclear materials by country</title>
       <abstract>From 1991 to 2015 more and more countries have eliminated nuclear weapons.</abstract>
       <dataset label= "Elimination of nuclear weapons materials">
-      <data x="A" y="9.45"/>
-      <data x="B" y="9.27"/>
-      <data x="C" y="9.09"/>
-      <data x="D" y="8.73"/>
-      <data x="E" y="8.36"/>
-      <data x="F" y="7.64"/>
-      <data x="G" y="7.45"/>
-      <data x="H" y="7.27"/>
-      <data x="I" y="6.91"/>
-      <data x="J" y="6.36"/>
-      <data x="K" y="5.82"/>
-      <data x="L" y="4.73"/>
-      <data x="M" y="4.55"/>
-      <data x="O" y="4.36"/>
+      <data x="1991 Iraq" y="9.45"/>
+      <data x="1992 Iraq" y="9.27"/>
+      <data x="1996 Colombia" y="9.09"/>
+      <data x="1997 Spain" y="8.73"/>
+      <data x="1998 Denmark and Georgia" y="8.36"/>
+      <data x="1999 Brazil/Philippins/Slovenia/Thailandia" y="7.64"/>
+      <data x="2005 Greece" y="7.45"/>
+      <data x="2007 South Corea" y="7.27"/>
+      <data x="2008 Bulgaria/Latvia/Portugal" y="6.91"/>
+      <data x="2009 Libya/Romania/Taiwan" y="6.36"/>
+      <data x="2010 Chile/Serbia/Turkey" y="5.82"/>
+      <data x="2012 Austria/Mexico/Turkey" y="4.73"/>
+      <data x="2013 Czech Republic/Hungary/Vietnam" y="4.55"/>
+      <data x="2015 Uzbekistan" y="4.36"/>
       </dataset>
     </graph>
 
