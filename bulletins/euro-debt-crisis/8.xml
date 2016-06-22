@@ -10,30 +10,29 @@
       <sections>
 
   <section>
-    <title>Is Europe disintegrating?</title>
+    <title>Is Europe Disintegrating?</title>
+    <subtitle>A Face-To-Face</subtitle>
       <chapter>
         <paragraph>
         <list type="unordered">
-          <item>AUSTRIA: In 2015, approximately 26000 people crossed the Brenner pass
-          to reach Austria and Germany, So, in order to avoid new refugees arrival,
-          we decided to close Brenner pass. Hofer del Fpoe antimigrant party wins
+          <item>AUSTRIA: “In 2015, approximately 26,000 people crossed the Brenner pass
+          to reach Austria and Germany. So, in order to avoid new refugees arrival,
+          we’ve decided to close the Brenner pass.” The Fpoe (Austria's anti-migrant party) wins
           the first bailout with 36,7%.</item>
-          <item>EUROPE: European council condames Vienna’s decision because it goes against
-          Schengen agreement</item>
-          <item>EUROPE: European council condames Vienna’s decision because it goes against
-          Schengen agreement</item>
-          <item>AUSTRIA: Italy is not checking as well as it should migrants identity before
-          crossing the border</item>
-          <item>ITALY: Migrant chacking is not only our responsability, also Germany and Austria
+          <item>EUROPE: “The European Council condamnes Vienna’s decision because it goes against
+          Schengen Agreement.”</item>
+          <item>AUSTRIA: “Italy is not checking as well as it should migrants identity before
+          crossing the border.”</item>
+          <item>ITALY: “Migrant chacking is not only our responsability, also Germany and Austria
           should check You should also consider that Tyrol and South Tyrol have the same
-          tradition, culture, language, that would be unfair</item>
-          <item>Germany: Brenner pass links Italy to Berlin, and wealready have a hugh number
+          tradition, culture, language, that would be unfair.”</item>
+          <item>GERMANY: “Brenner pass connects Italy to Berlin, and we already have a hugh number
           of migrants. If Italy doesn’t check properly migrants, we think that Vienna
-          should close Brenner pass</item>
-          <item>EUROPE: Don’t you think about consequences? Other countries could feel legitimated
-          by this event, doing the same thing in future Italy:  Through the road crossing
-          Austria, we exchanges €140 bn with other countries...Also our tourism, and South
-          Tyrol’s tourism, would be demaged by this decision</item>
+          should close Brenner pass.”</item>
+          <item>EUROPE: “Don’t you think about consequences? Other countries could feel legitimated
+          by this event, doing the same thing in future Italy: Through the road crossing
+          Austria, we exchanges €140b with other countries... Also our tourism, and South
+          Tyrol’s tourism, would be demaged by this decision.”</item>
         </list>
         </paragraph>
       </chapter>
@@ -44,7 +43,7 @@
               <item>1915: First World War</item>
               <item>1915: The Brenner border is born</item>
               <item>1920: The Brenner emigrants</item>
-              <item>1935: Italian migration during nazism</item>
+              <item>1935: Italian migration during Nazism</item>
               <item>1935: Second World War</item>
               <item>1945: The return of WWII refugees</item>
               <list>1950: The boom years</list>
@@ -86,10 +85,10 @@
       </section>
 
       <section>
-        <title>Some data on immigrants</title>
+        <title>Some Data on Migrants</title>
         <graph unit="" x="country" y="number">
           <title>Amount of immigrants in the EU countries</title>
-          <dataset label="Immigrants">
+          <dataset label="">
             <data x="AT" y="85,000"/>
             <data x="IT" y="43,000"/>
             <data x="FR" y="4,410,000"/>
@@ -101,27 +100,28 @@
             <data x="SE" y="1,740,000"/>
           </dataset>
         </graph>
-        <graph unit="" x="country" y="string">
+        <graph unit="months" x="country" y="number">
           <title>First time asylum applicants in 2015</title>
-          <dataset label="Time by country">
-            <data x="EU" y="6 months"/>
-            <data x="SE" y="7 months"/>
-            <data x="FR" y="7 months"/>
-            <data x="DE" y="11 months"/>
-            <data x="HU" y="12 months"/>
-            <data x="BE" y="12 months"/>
-            <data x="GR" y="18 months"/>
-            <data x="IT" y="24 months"/>
-            <data x="GB" y="24 months"/>
-            <data x="CY" y="24 months"/>
+          <dataset label="Time">
+            <data x="EU" y="6"/>
+            <data x="SE" y="7"/>
+            <data x="FR" y="7"/>
+            <data x="DE" y="11"/>
+            <data x="HU" y="12"/>
+            <data x="BE" y="12"/>
+            <data x="GR" y="18"/>
+            <data x="IT" y="24"/>
+            <data x="GB" y="24"/>
+            <data x="CY" y="24"/>
           </dataset>
+        </graph>
         </graph>
         <graph unit="%" x="string" y="percentage">
           <title>Immigrants demographics</title>
           <dataset label="Typologies of immigrants">
             <data x="Men" y="75"/>
             <data x="Women" y="13"/>
-            <data x="Child" y="12"/>
+            <data x="Children" y="12"/>
           </dataset>
         </graph>
         <keywords>
@@ -150,12 +150,12 @@
       </section>
 
       <section>
-        <title>What's the truth on Europe's Walls?</title>
+        <title>What’s The Truth on Europe’s Walls?</title>
           <chapter>
             <paragraph>
-              The Schengen agreement, which was intended to create an area of free movement
+              The Schengen Sgreement, which was intended to create an area of free movement
               within the EU, has been essentially based just on a “policing” agreement, said
-              in 1995 Langer, major of Ventimiglia. “The fall of internal borders was complemented
+              in 1995 Alexander Langer, major of Ventimiglia. “The fall of internal borders was complemented
               by the strengthening of the external borders”. It is not a coincidence that works on
               the first European “wall”, the Ceuta and Melilla border fences, notably funded by
               the EU, began in the fall of 1995.
@@ -169,16 +169,16 @@
           </text>
          </quote>
           <graph unit="km" x="string" y="number">
-            <title>Length of European walls, data in km by year</title>
+            <title>Length of European walls</title>
           <dataset label="EU walls">
-            <data x="Cyprus, 1974" y="180"/>
-            <data x="Melilla, 1995" y="11"/>
-            <data x="Ceuta, 1995" y="8.4"/>
-            <data x="Greece-Turkey, 2012" y="12"/>
-            <data x="Calais, 2014" y="11"/>
-            <data x="Asothalom, 2015" y="175"/>
-            <data x="Estonia-Russia, 2015" y="100"/>
-            <data x="Bulgaria-Turkey, 2015" y="33"/>
+            <data x="Cyprus (1974)" y="180"/>
+            <data x="Melilla (1995)" y="11"/>
+            <data x="Ceuta (1995)" y="8.4"/>
+            <data x="Greece-Turkey (2012)" y="12"/>
+            <data x="Calais (2014)" y="11"/>
+            <data x="Asothalom (2015)" y="175"/>
+            <data x="Estonia-Russia (2015)" y="100"/>
+            <data x="Bulgaria-Turkey (2015)" y="33"/>
           </dataset>
         </graph>
         <keywords>
@@ -205,7 +205,7 @@
       </section>
 
       <section>
-        <title>The European countries bond discussion</title>
+        <title>The European Countries’ Discussion on Bonds</title>
         <chapter>
           <paragraph>
             The EU faces a tough political battle over changes to the regulatory
@@ -222,15 +222,15 @@
           <text>
             We have to start to reduce the risks that occur from the connection between
             banks and public budgets, and that of course means that we have to address
-            government bonds and balance sheets of banks
+            government bonds and balance sheets of banks.
           </text>
           </quote>
           <quote>
           <author>Pier Carlo Padoan</author>
           <role>Italian finance minister</role>
             <text>
-            The most preferable option is the status quo”, he said, because this wouldn’t force banks
-            to reshuffle their debt holdings, “creating the problem of where this debt
+            The most preferable option is the status quo. This wouldn’t force banks
+            to reshuffle their debt holdings, creating the problem of where this debt
             will end up. This would provoke a readjustment shock in the market.
           </text>
           </quote>
@@ -258,7 +258,8 @@
       </section>
 
       <section>
-        <title>The question born here</title>
+        <title>Government Bonds</title>
+        <subtitle>A Question</subtitle>
         <chapter>
           <paragraph>
             The EU faces a tough political battle over changes to the regulatory treatment
@@ -276,7 +277,7 @@
               limits imposed on bank’s holdings of corporate or household debt.</item>
               <item>This privileged treatment has been seen from Germany as risky, especially when banks own too much
               debt issued by their own sovereign...</item>
-              <item>....but some European countries have been
+              <item>...But some European countries have been
               cautious about backing change for fear of upsetting bond markets and banks’ financial stability.</item>
               <item>So, work will continue at the technical level and ministers may discuss the issue again in June,
               said Dutch finance minister Jeroen Dijsselbloem.</item>
@@ -308,7 +309,7 @@
       </section>
 
       <section>
-        <title>Sovereign debt stockpile in European countries</title>
+        <title>Sovereign Debt Stockpile in European Countries</title>
         <chapter>
           <paragraph>
             Reducing the risk posed by state debt on banks’ balance sheets isn’t “especially relevant,”
@@ -320,9 +321,8 @@
           </paragraph>
         </chapter>
         <graph unit="%" x="country" y="number">
-          <title>Bank's average exposure to home sovereign bonds</title>
-          <abstract>Values at 30/06/2015, % of total bank's assets</abstract>
-        <dataset label="Exposure value">
+          <title>Bank’s average exposure to home sovereign bonds</title>
+        <dataset label="Values at 30/06/2015, percentage of total bank's assets">
           <data x="PT" y="7.5"/>
           <data x="ES" y="7.5"/>
           <data x="FR" y="4.1"/>
@@ -345,24 +345,24 @@
         </dataset>
       </graph>
       <graph unit="EUR" x="string" y="number">
-        <title>EU Banks sovereing bond exposures in 2015 specific composition of total value</title>
-      <dataset label="Exposure value">
+        <title>EU Banks sovereign bond exposures in 2015</title>
+      <dataset label="Specific composition of total value">
         <data x="Total" y="3,341,000,000,000"/>
         <data x="Main Banks" y="1,835,000,000,000"/>
         <data x="Other Banks" y="1,505,000,000,000"/>
       </dataset>
     </graph>
     <graph unit="EUR" x="date" y="number">
-      <title>EU Banks sovereing bond exposures 2013, 2015</title>
-    <dataset label="Exposure value">
+      <title>EU Banks sovereign bond exposures, 2013—2015</title>
+    <dataset label="">
       <data x="2013" y="290,000,000,000,000"/>
       <data x="2014" y="3,100,000,000,000"/>
       <data x="2015" y="3,200,000,000,000"/>
     </dataset>
   </graph>
   <graph unit="EUR" x="string" y="number">
-    <title>Main European Banks sovereing exposures</title>
-  <dataset label="Exposure value">
+    <title>Main European Banks sovereign exposures</title>
+  <dataset label="">
     <data x="HSBC" y="290,000,000,000"/>
     <data x="Barclays" y="150,000,000,000"/>
     <data x="UniCredit" y="140,000,000,000"/>
