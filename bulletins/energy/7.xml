@@ -192,39 +192,23 @@
            </dataset>
            </graph>
 
-           <paragraph>
-             <list type="unordered">
-               <item>A Steel</item>
-               <item>B Plastic</item>
-               <item>C Glass</item>
-               <item>D Aluminum</item>
-               <item>E Copper</item>
-               <item>F Cobalt</item>
-               <item>G Zinc</item>
-               <item>H Lead</item>
-               <item>I Nickel</item>
-               <item>J Silver</item>
-               <item>K Tin</item>
-               <item>L Gold</item>
-             </list>
-           </paragraph>
 
            <graph unit="%" x="string" y="percentage">
              <title>Material recovered</title>
              <abstract>Amount of material recovered for reuse through take-back initiatives in 2015.</abstract>
              <dataset label= "libbre of material recovered">
-             <data x="A" y="46.000"/>
-             <data x="B" y="22.000"/>
-             <data x="C" y="19.000"/>
-             <data x="D" y="7.000"/>
-             <data x="E" y="5.000"/>
-             <data x="F" y="0.400"/>
-             <data x="G" y="0,350"/>
-             <data x="H" y="0,170"/>
-             <data x="I" y="0,060"/>
-             <data x="J" y="0,010"/>
-             <data x="K" y="0,007"/>
-             <data x="L" y="0,003"/>
+             <data x="Steel" y="46.000"/>
+             <data x="Plastic" y="22.000"/>
+             <data x="Glass" y="19.000"/>
+             <data x="Aluminum" y="7.000"/>
+             <data x="Copper" y="5.000"/>
+             <data x="Cobalt" y="0.400"/>
+             <data x="Zinc" y="0,350"/>
+             <data x="Lead" y="0,170"/>
+             <data x="Nickel" y="0,060"/>
+             <data x="Silver" y="0,010"/>
+             <data x="Tin" y="0,007"/>
+             <data x="Gold" y="0,003"/>
            </dataset>
            </graph>
 
