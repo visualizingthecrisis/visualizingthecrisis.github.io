@@ -196,7 +196,7 @@
             </chapter>
             <graph unit= "$" x="date" y="number">
                 <title>The great Bitcoin performance of 2015</title>
-                <dataset">
+                <dataset>
                   <data x= "20150101" y="300"/>
                   <data x= "20150201" y="240"/>
                   <data x= "20150301" y="250"/>
