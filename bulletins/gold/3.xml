@@ -326,7 +326,7 @@
       <title>Gold price</title>
       <subtitle>Week 11</subtitle>
       <graph unit="$/oz" x="date" y="number">
-        <dataset label= "Gold price">
+        <dataset>
             <data x= "20160314" y="1,112"/>
             <data x= "20160315" y="1,109"/>
             <data x= "20160316" y="1,123"/>
