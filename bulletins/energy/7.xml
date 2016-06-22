@@ -181,19 +181,14 @@
          </dataset>
          </graph>
 
-         <paragraph>
-           <list type="unordered">
-             <item>A vergin paper used</item>
-             <item>B vergin paper non used</item>
-           </list>
-         </paragraph>
+         
 
          <graph unit="%" x="string" y="percentage">
            <title>Use of virgin paper</title>
            <abstract>99% of the virgin paper used in packaging came from sustainably managed forest or controlled wood sources.</abstract>
            <dataset label= "Percentage">
-           <data x="A" y="99"/>
-           <data x="B" y="1"/>
+           <data x="Use of virgin paper" y="99"/>
+           <data x="vergin paper non used" y="1"/>
            </dataset>
            </graph>
 
