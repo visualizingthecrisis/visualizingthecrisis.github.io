@@ -9,6 +9,172 @@
   </authors>
   <bullettin id="06" date="20160423">
    <sections>
+   	 <section>
+       <title>Gold price</title>
+       <subtitle>Week 14</subtitle>
+       <graph unit="$/oz" x="date" y="number">
+         <dataset>
+             <data x= "20160411" y="1,257.32"/>
+             <data x= "20160412" y="1,261"/>
+             <data x= "20160413" y="1,242.06"/>
+             <data x= "20160414" y="1,240.40"/>
+             <data x= "20160415" y="1,233.86"/>
+           </dataset>
+         </graph>
+       <keywords>
+        <keyword name="Gold" />
+       </keywords>
+       <sources>
+         <source>goldbroker.it</source>
+       </sources>
+      </section>
+    <section>
+      <title>Gold: a safe investment</title>
+      <chapter>
+         <paragraph>
+        The investment in gold is one of the most “safe harbors” for all those who
+        wish to make of savings operations in the long term.</paragraph>
+         <paragraph>
+            The use in the precious metal is, however, an equally valid method for those who
+            have intentions less conservative and more speculative and assigned to them traders
+            the opportunity to invest in the short or very short time.
+            The reasons for investing in gold have remained the same throughout history are:
+            inﬂation protection, safe haven, high liquidity, diversiﬁcation.</paragraph>
+            <paragraph>But how can you invest in gold and be able to take advantage of the bullion price ﬂuctuations?
+                 There are two types of gold investment,physical gold and financial gold.
+        </paragraph>
+      </chapter>
+      <chapter>
+         <title>Investments in physical gold</title>
+         <paragraph>Investing in physical gold, it is to invest in bullion
+          or gold coins. The physical value of gold is calculated purely on the gold content.</paragraph>
+          <paragraph>The gold coins they buy and sell at a price very close to the official price of gold,
+             but it still pays a premium of approximately 4% when they purchase large quantities,
+              and 8% when they buy small quantities. Resell the coins involves a similar bonus of 4 to 8%.</paragraph>
+              <paragraph>The standard bars from the London Bullion Market Association (LBMA),
+                which is the largest trade association that works in the professional bullion
+                market, are called Good Delivery bullion and have a minimum purity that is
+                acceptable which must have a rate of 99,5% gold. </paragraph>
+      </chapter>
+      <chapter>
+        <title>Financial investments in gold</title>>
+            <paragraph>The auriferous market offers good opportunities for investment banking and exist in addition
+               to the investments in physical gold also many forms of what is deﬁned as a ﬁnancial investment in gold.</paragraph>
+               <paragraph>Investing in gold is a ﬁnancial investment that allows
+you to be exposed to the price of gold, so to gain or lose depending on the movement
+of the physical gold price, but without having to buy physical gold.</paragraph>
+<paragraph>From this point of view the investment and more comfortable,
+   but it presents the risk that no investment in physical gold.
+   The most common tools for investing in gold are ﬁnancial: ETF (Exchange Traded Funds),
+    gold Futures, Options on gold, the mining company Shares.
+</paragraph>
+      </chapter>
+      <chapter>
+        <title>How a bullion arises</title>>
+            <paragraph>The gold melting, and the processes that characterize it, have place in
+               specialized factories and occur in furnacesin which very high temperatures are developed.</paragraph>
+               <paragraph>The ﬁrst step of the process is the fusion of the precious pure material that occurs within
+                  particular pots called crucibles and can withstand temperatures in excess of 1000°.</paragraph>
+<paragraph>At molten gold are added small quantities of saltpetre and borax,
+to avoid issues oxides is in contact with the air. The mixture is introduced into the crucible and then
+ in the oven until its liquefaction.
+</paragraph>
+<paragraph>Once occurred, the product is poured in special molds that will serve
+for the production of bullions. Afterwards we will proceed with the export of bullion.
+</paragraph>
+      </chapter>
+    <chapter>
+      <title>About physical gold</title>>
+          <paragraph>The gold bars are sent to the ofﬁce tests in order to obtain gold certiﬁcates.
+            The certiﬁcates conclude the investment banking gold based on large numbers.
+In Switzerland and Germany, this practice is widespread, and there are gold certiﬁcates that
+give the opportunity to those who invest to own gold without physical delivery of the same.</paragraph>
+             <paragraph>The jewelry are not considered an investment but a luxury product.
+The process of machining jewelry creates an added value that raises the price.</paragraph>
+<paragraph> The gold bullions and gold coins are stored in special vaults
+of the big banks. The gold, in both cases, is guarded, numbered
+and identiﬁed by the ofﬁcial hallmark.
+</paragraph>
+    </chapter>
+    <chapter>
+      <title>Different kinds of financial gold investments</title>>
+          <paragraph>ETF are funds whose shares are traded on the stock market in real time as shares.
+            The transaction costs are lower and the operations are easier.
+            However, if there is a ﬁnancial crisis it occurs you do not own
+            anything and is not as secure as having physical gold.</paragraph>
+             <paragraph>Investments in Shares of mining companies are another way
+               to invest in gold. As the price of gold rises, rises the proportion of shares.
+               There are risks that can adversely affect the mining stocks.</paragraph>
+<paragraph>Futures are ﬁnancial agreements to purchase or sell a speciﬁed quantity of goods for
+  which an agreed date and at a price set at the time of the contract.People who invest in futures
+  are speculators who take risks for the ‘rise or fall of the price of gold.
+</paragraph>
+<paragraph>An Option contract is like a futures contract, but has big risks.
+  Unlike the futures contract as the future, in option the right to buy or sell
+   can be exercised at any time before the option expires.
+</paragraph>
+    </chapter>
+      <keywords>
+       <keyword name="Investments" />
+       <keyword name="Gold" />
+      </keywords>
+      <sources>
+        <source>deshgold.com</source>
+        <source>goldsilverworlds.com</source>
+        <source>forexinfo.com</source>
+          <source>orotesoro.it </source>
+        </sources>
+     </section>
+     <section>
+       <title>Physical gold is hard to find and increases ETF</title>
+       <chapter>
+          <paragraph>
+            Gold could become increasingly difﬁcult metal to buy.
+  So if gold prices were to rise, there will be many investors that although would like to buy the metal,
+  may not do so and therefore there would be a rise of ETFs and the actions of the extractors.</paragraph>
+          <paragraph>Companies have collapsed more than the price of gold and thus we believe that gold
+            can be a protection against the uncertainties of economy.
+              </paragraph>
+       </chapter>
+       <graph unit= "%" x="date" y="number">
+             <title>Market Vectors Gold Miners ETFs</title>
+             <dataset>
+               <data x= "2010" y="60"/>
+               <data x= "2011" y="55"/>
+               <data x= "2012" y="47"/>
+               <data x= "2013" y="25"/>
+               <data x= "2014" y="23"/>
+               <data x= "2015" y="20"/>
+               <data x= "2016" y="20"/>
+             </dataset>
+         </graph>
+       <keywords>
+        <keyword name="Gold" /><keyword name="Investments" />
+       </keywords>
+       <sources>
+         <source>bullionvault.it</source>
+       </sources>
+      </section>
+      <section>
+        <title>2016 is a good year to invest in gold</title>
+        <chapter>
+           <paragraph>Most of the analysis provide a bull market throughout 2016.
+             So if you want to invest by taking a short-term strategy, we can consider gold being overbought.
+          </paragraph>
+           <paragraph>
+             The policy adopted to bring interest rates near zero and buy huge amounts
+of ﬁnancial stocks was not successful on real economic activity.</paragraph>
+              <paragraph>It expects a probable rate hike by the Fed in the coming months, with a possible reconsideration
+and a possible reversal of monetary policy.
+          </paragraph>
+        </chapter>
+        <keywords>
+         <keyword name="Gold" /><keyword name="Investments" />
+        </keywords>
+        <sources>
+          <source>bullionvault.it</source>
+        </sources>
+       </section>
     <section>
       <title>Indian golden traditions</title>
       <chapter>
