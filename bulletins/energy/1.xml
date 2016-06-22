@@ -242,33 +242,18 @@
       </dataset>
     </graph>
 
-    <chapter>
-      <paragraph>
-        <list type="unordered">
-          <item>A China</item>
-          <item>B United States</item>
-          <item>C India</item>
-          <item>D Brazil</item>
-          <item>E Mexico</item>
-          <item>F Chile</item>
-          <item>G South Africa</item>
-          <item>H Morocco</item>
-        </list>
-      </paragraph>
-    </chapter>
-
     <graph unit="%" x="Countries" y="percentage">
       <title>World investments in green energy by country</title>
       <abstract>China and USA are the biggest investitors in green energy.</abstract>
       <dataset label= "Investments in percentage">
-        <data x="A" y="43" />
-        <data x="B" y="21.8" />
-        <data x="C" y="4.1" />
-        <data x="D" y="2.9" />
-        <data x="E" y="1.6" />
-        <data x="F" y="1.4" />
-        <data x="G" y="1.8" />
-        <data x="H" y="0.8" />
+        <data x="CN" y="43" />
+        <data x="US" y="21.8" />
+        <data x="IN" y="4.1" />
+        <data x="BR" y="2.9" />
+        <data x="MX" y="1.6" />
+        <data x="CL" y="1.4" />
+        <data x="ZA" y="1.8" />
+        <data x="MA" y="0.8" />
       </dataset>
     </graph>
 
@@ -276,14 +261,14 @@
           <title>World investments in green energy by country</title>
           <abstract>China and USA are the biggest investitors in green energy.</abstract>
           <dataset label= "Investments by country">
-           <data x="A" y="110.52" />
-           <data x="B" y="56" />
-           <data x="C" y="10.49" />
-           <data x="D" y="7.47" />
-           <data x="E" y="4.16" />
-           <data x="F" y="3.5" />
-           <data x="G" y="4.52" />
-           <data x="H" y="2.02" />
+           <data x="CN" y="110.52" />
+           <data x="US" y="56" />
+           <data x="IN" y="10.49" />
+           <data x="BR" y="7.47" />
+           <data x="MX" y="4.16" />
+           <data x="CL" y="3.5" />
+           <data x="ZA" y="4.52" />
+           <data x="MA" y="2.02" />
           </dataset>
         </graph>
 
