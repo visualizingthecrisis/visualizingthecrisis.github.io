@@ -10,9 +10,9 @@
     <sections>
       <section>
         <title>The Unicorn list</title>
-        <subtitle>Week10</subtitle>
-        <abstract>The first ten private companies valued at $1 billion or more
-          is unchanged but there is a new Japanese e-commerce Unicorn: Mercari</abstract>
+        <subtitle>Week 10</subtitle>
+        <abstract>The first ten private companies valued at $1b or more
+          is unchanged, but there is a new Japanese e-commerce Unicorn: Mercari.</abstract>
           <chapter>
             <paragraph>
               <list type="ordered">
@@ -50,9 +50,9 @@
           </sources>
         </section>
         <section>
-          <title>Deflating bubbles</title>
+          <title>Deflating Bubbles</title>
           <chapter>
-            <paragraph>First Round sustains fear of recession in USA. The growing
+            <paragraph>First Round sustains fear of recession in the USA. The growing
               sentiment is that the tripling in valuation we have seen in the
               past couple years, and metrics used to calculate those valuations,
               don’t pair well reality. The positive values of the trend of the
@@ -89,7 +89,8 @@
             </sources>
           </section>
           <section>
-            <title>China's ride war: Uber vs. Didi Kuaidi</title>
+            <title>China’s Ride War</title>
+            <subtitle>Uber vs. Didi Kuaidi</subtitle>
             <chapter>
               <paragraph>Uber wants you to believe it’s emerged as the global leader
                 in the world of on demand rides. Still, it would be
@@ -106,11 +107,6 @@
                   the transportation industry in China, offering a full range
                   of solutions for every type of driver, passenger and commuter.</paragraph>
                 </chapter>
-                <quote>
-                  <author>forbes.com</author>
-                  <text>Uber and its Chinese rival Didi Kuaidi are locked
-                    in a billion-dollar battle to control the world’s largest ride-hailing market.</text>
-                </quote>
                 <table>
                   <row type="head">
                     <cell>Features</cell>
@@ -148,6 +144,11 @@
                     <cell>1K-5K</cell>
                   </row>
                 </table>
+                <quote>
+                  <author>forbes.com</author>
+                  <text>Uber and its Chinese rival Didi Kuaidi are locked
+                    in a billion-dollar battle to control the world’s largest ride-hailing market.</text>
+                </quote>
                 <keywords>
                   <keyword name="Start-ups"/>
                   <keyword name="North America"/>
@@ -169,11 +170,11 @@
               </section>
               <section>
                 <title>Tech in Asia</title>
-                <subtitle>Concentration of unicorns in Asiatic cities</subtitle>
+                <subtitle>Concentration of Unicorns in Asiatic Cities</subtitle>
                 <table>
                   <row type="head">
                     <cell>city</cell>
-                    <cell>number of unicorns</cell>
+                    <cell>number of Unicorns</cell>
                   </row>
                   <row type="cell">
                     <cell>Beijing</cell>
@@ -234,17 +235,17 @@
                 </sources>
               </section>
               <section>
-                <title>China investors-backed tech financing</title>
-                <subtitle>Tech in Asia</subtitle>
+                <title>Tech in Asia</title>
+                <subtitle>China’s Investors-Backed Tech</subtitle>
                 <chapter>
                   <paragraph>China’s rich and wealthy are pouring money into start-up
                     tech ventures in the absence of many other profitable investiment opportunities.
                     Venture capital investments into China’s technology startups more than doubled
-                    to $32.2 B in 2015, with $4.7 B of investments so far this year.</paragraph>
+                    to $32.2b in 2015, with $4.7b of investments so far this year.</paragraph>
                   </chapter>
                   <graph unit="B$" x="date" y="number">
-                    <title>China investments and stock market</title>
-                    <dataset label= "China's VC investments">
+                    <title>China’s investments and stock market</title>
+                    <dataset label= "China’s VC investments">
                       <data x="2012" y="3"/>
                       <data x="2013" y="5"/>
                       <data x="2014" y="16"/>
@@ -253,7 +254,7 @@
                     </dataset>
                   </graph>
                   <graph unit="^SSEC" x="date" y="number">
-                    <dataset label= "China's stock market">
+                    <dataset label= "China’s stock market">
                       <data x="2012" y="2,500"/>
                       <data x="2013" y="2,400"/>
                       <data x="2014" y="2,600"/>
@@ -278,10 +279,10 @@
                   </sources>
                 </section>
                 <section>
-                  <title>Japan's lonely child</title>
-                  <subtitle>Tech in Asia</subtitle>
+                  <title>Tech in Asia</title>
+                  <subtitle>Japan’s Lonely Child</subtitle>
                   <chapter>
-                    <paragraph>In March 4th 2016, Mercari, a peer-to-peer marketplace app,
+                    <paragraph>On March 4th, 2016, Mercari, a peer-to-peer marketplace app,
                       has claimed the title of Japan’s first pre-IPO startup
                       unicorn after raising 8.4 billion yen (about $75 million)
                       at a valuation of over $ 1 billion. This is the Tokyo-based
@@ -306,8 +307,8 @@
                     </sources>
                   </section>
                   <section>
-                    <title>South Korea: Line Corp</title>
-                    <subtitle>Tech in Asia</subtitle>
+                    <title>Tech in Asia</title>
+                    <subtitle>South Korea: Line Corp</subtitle>
                     <chapter>
                       <paragraph>Messagging app operator Line Corp, owned by South Korea’s
                         largest web portal operator, plans $ 3 billion initial public
@@ -330,8 +331,8 @@
                       </sources>
                     </section>
                     <section>
-                      <title>Indonesia and its two unicorns</title>
-                      <subtitle>Tech in Asia</subtitle>
+                      <title>Tech in Asia</title>
+                      <subtitle>Indonesia And Its Two Unicorns</subtitle>
                       <chapter>
                         <paragraph>The country plans to create startup IPO Market to Draw investors.
                           It may see 2 unicorns within the year. Tokopedia is Indonesia’s top
@@ -357,8 +358,8 @@
                         </sources>
                       </section>
                       <section>
-                        <title>Singapore's investments</title>
-                        <subtitle>Tech in Asia</subtitle>
+                        <title>Tech in Asia</title>
+                        <subtitle>Singapore’s Investments</subtitle>
                         <chapter>
                           <paragraph>Singapore-based United Overseas Bank’s will invest
                             $ 10 million in an Israel based equity crowdfunding platform OurCrowd.</paragraph>
@@ -380,8 +381,8 @@
                           </sources>
                         </section>
                         <section>
-                          <title>Indian Uber's competitor</title>
-                          <subtitle>Tech in Asia</subtitle>
+                          <title>Tech in Asia</title>
+                          <subtitle>Indian Uber’s Competitor</subtitle>
                           <chapter>
                             <paragraph>Uber’s main competitor in India, ANI Tecnologies Pvt. Ltd’s Ola
                               launched a similar service in Bangalore Thursday with 2 rupees per km,
@@ -406,10 +407,10 @@
                             </sources>
                           </section>
                           <section>
-                            <title>Uber in Pakistan</title>
-                            <subtitle>Tech in Asia</subtitle>
+                            <title>Tech in Asia</title>
+                            <subtitle>Uber in Pakistan</subtitle>
                             <chapter>
-                              <paragraph>$ 250 million is the investment of Uber Technologies Inc.
+                              <paragraph>$250 million is the investment of Uber Technologies Inc.
                                 to launch its ride-hailing app in Pakistan and to expand
                                 it into the Middle East and North Africa.</paragraph>
                               </chapter>
