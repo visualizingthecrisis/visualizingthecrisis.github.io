@@ -59,17 +59,17 @@
            <item>Change in the cycle of commodities</item>
          </list>
        </paragraph>
-      </chapter>
-      <keywords>                                                      <!--[ 1 ]-->
+       </chapter>
+       <keywords>                                                      <!--[ 1 ]-->
          <keyword name=">Unconventional Monetary Policies" />
          <keyword name="Currencies" />
          <keyword name="Investments" />
          <keyword name="Gold" />                                    <!--[1-N]-->
-      </keywords>
-      <sources>                                                       <!--[ 1 ]-->
+       </keywords>
+       <sources>                                                       <!--[ 1 ]-->
          <source>forexinfo.it</source>
-      </sources>                                                                   <!--[0-N]-->
-    </section>
+       </sources>                                                                   <!--[0-N]-->
+      </section>
       <section>                                                         <!--[1-N]-->
        <title>The different 2015 and 2016 trend</title>
        <chapter>                                                   <!--[0-N]-->
@@ -83,7 +83,6 @@
              For this reason gold have a Bullish trend.
          </paragraph>
          </chapter>
-         </graph>
          <graph unit="USD/oz" x="date" y="number"> 		          <!--[0-N]-->
            <title>2016 bullish trend</title>
            <dataset label= "Gold price">                           	<!--[1-N]-->
@@ -103,13 +102,14 @@
       </section>
       <section>                                                         <!--[1-N]-->
        <title>The different strategies of the central banks caused uncertainty.</title>
+       <chapter>
          <paragraph>The different strategies of the central banks caused uncertainty.
             The Fed with positive interest rates, caused a sudden collapse of the dollar
             and uncertainty among investors,while the ECB and the BOJ with the negative deposit rates
              will stimulate the banks to put money
          </paragraph>
-      </chapter>
-         <graph unit="%" x="string" y="percentage">
+       </chapter>
+       <graph unit="%" x="string" y="percentage">
            <dataset label= "Gold investments">                           	<!--[1-N]-->
              <data x="men don't wont to sell gold" y="41"/>
              <data x="men wont invest in gold" y="59"/>
@@ -120,12 +120,17 @@
          <keyword name="Investments" />
          <keyword name="Interest Rates" />                                           <!--[1-N]-->
        </keywords>
-       <section>                                                         <!--[1-N]-->
+       <sources>                                                       <!--[ 1 ]-->
+        <source>bloomberg.com</source>
+        <source>lastampa.it</source>
+      </sources> 
+      </section>  
+      <section>                                                        <!--[1-N]-->
         <title>Prevision for 2016</title>
         <chapter>
           <paragraph>The gold investments in 2016 seem crackling. According to a survey,
             nearly one-fifth of investors expect the price of gold at the end of 2016 to rise by 10%,
-            while a fifth thinks that this increase may even reach 20%. Only a minority has a bearish view for the gold price.
+            while a fifth thinks that this increase may even reach 20%. Only a minority has a bearish view for the gold price.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="percentage">
             <dataset label= "Investors' expectations">                           	<!--[1-N]-->
@@ -133,7 +138,6 @@
               <data x="Bearish" y="21"/>
             </dataset>
           </graph>
-        </paragraph>
         <sources>                                                       <!--[ 1 ]-->
          <source>bloomberg.com</source>
          <source>lastampa.it</source>
@@ -305,8 +309,8 @@
             <source>bullionvault.com</source>
             <source>bloomberg.com</source>
           </sources>
-     </section>
-     <section>                                                         <!--[1-N]-->
+      </section>
+      <section>                                                         <!--[1-N]-->
           <title>Historical break</title>
           <subtitle>After crash of 1929 </subtitle>
           <chapter>                                                   <!--[0-N]-->
@@ -324,7 +328,7 @@
           <sources>                                                       <!--[ 1 ]-->
             <source>bullionvault.it</source>
           </sources>                                                                   <!--[0-N]-->
-     </section>                                                                           <!--[0-N]-->
-    </sections>
-   </bulletin>
-  </bulletins>
+    </section>
+  </sections>
+ </bulletin>
+</bulletins>
