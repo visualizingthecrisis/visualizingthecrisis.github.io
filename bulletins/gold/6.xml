@@ -294,7 +294,7 @@ and a possible reversal of monetary policy.
                </dataset>
            </graph>
            <graph unit= "metric tons" x="data" y="number">
-             <dataset label="Gold">
+             <dataset>
                  <title>Indian gold import</title>
                    <data x= "1991" y="11"/>
                    <data x= "1992" y="25"/>
@@ -351,7 +351,7 @@ and a possible reversal of monetary policy.
       </chapter>
       <graph unit= "tons" x="data" y="number">
             <title>Chinese jewellwry demand growing</title>
-            <dataset label="jewellwry demand">
+            <dataset>
               <data x= "1996" y="330"/>
               <data x= "1997" y="310"/>
               <data x= "1998" y="290"/>
