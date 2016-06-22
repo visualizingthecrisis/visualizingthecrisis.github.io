@@ -120,7 +120,7 @@
       </sources>
       </section>
      <section>
-        <title>Did you know? Eight curiosity about gold</title>
+        <title>Did you know? Eight curiosities about gold</title>
         <chapter>
         <paragraph>
           The gold symbol in the periodic table is Au, because it comes from the Latin “aurum”, which means shining dawn,
@@ -151,7 +151,7 @@
        <title>Gold price</title>
        <subtitle>Week 17</subtitle>
        <graph unit="$/oz" x="date" y="number">
-         <dataset label= "Gold price">
+         <dataset>
              <data x= "20160509" y="1,120"/>
              <data x= "20160510" y="1,117"/>
              <data x= "20160511" y="1,115"/>
