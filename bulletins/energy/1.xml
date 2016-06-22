@@ -177,22 +177,22 @@
       <title>Coal recoverable reserves by region</title>
       <abstract>Coal is available from a wide variety of mines distributed globally and it is used for electricity generation.</abstract>
       <dataset label= "Reserves by region per percentage">
-        <data x="A" y="36.4" />
-        <data x="B" y="30.8" />
-        <data x="C" y="27.5" />
-        <data x="D" y="3.5" />
-        <data x="E" y="1.6" />
+        <data x="American Samoa" y="36.4" />
+        <data x="Europe" y="30.8" />
+        <data x="Namibia" y="27.5" />
+        <data x="Afghanistan" y="3.5" />
+        <data x="Saudi Arabia" y="1.6" />
        </dataset>
       </graph>
     <graph unit="MToe" x="Countinents" y="number">
       <title>Reserves by region</title>
       <abstract>Global consumption of coal is growing and is expected to increase even more as developing countries expand their energy needs.</abstract>
       <dataset label= "Mtoe">
-        <data x="A" y="150,000" />
-        <data x="B" y="130,000" />
-        <data x="C" y="116,000" />
-        <data x="D" y="15,000" />
-        <data x="E" y="6.95" />
+        <data x="American Samoa" y="150,000" />
+        <data x="Europe" y="130,000" />
+        <data x="Namibia" y="116,000" />
+        <data x="Afghanistan" y="15,000" />
+        <data x="Saudi Arabia" y="6.95" />
       </dataset>
     </graph>
     <keywords>
