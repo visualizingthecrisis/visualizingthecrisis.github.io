@@ -189,14 +189,6 @@
         <paragraph>For each billion dollars invested to improve infrastructure for water and sanitation water conditions, would be created 100 thousand new jobs.</paragraph>
         <paragraph>1.3 B jobs in the world are closely connected with what we might call the water economy.</paragraph>
 
-        <paragraph>
-        <list type="unordered">
-          <item>A Agricolture</item>
-          <item>B Industry</item>
-          <item>C Service sector</item>
-        </list>
-       </paragraph>
-
      </chapter>
 
 
@@ -204,9 +196,9 @@
        <title>Type of labor</title>
        <abstract>Labor addicted to Water</abstract>
        <dataset label= "Percentage">
-         <data x="A" y="60%"/>
-         <data x="B" y="30%"/>
-         <data x="C" y="10%"/>
+         <data x="Agricolture" y="60%"/>
+         <data x="Industry" y="30%"/>
+         <data x="Service sector" y="10%"/>
          </dataset>
          </graph>
 
