@@ -9,6 +9,172 @@
   </authors>
   <bullettin id="04" date="20160326">
     <sections>
+    	  <section>
+        <title>Worldwide gold trade</title>
+        <graph unit= "%" x="country" y="number">
+          <title>Percentage of total countries gold export</title>
+          <dataset>
+            <data x= "Canada" y="2.3"/>
+            <data x= "US" y="2"/>
+            <data x= "Peru" y="19"/>
+            <data x= "Ivory Coast" y="4.2"/>
+            <data x= "UK" y="3.4"/>
+            <data x= "Swiss" y="30"/>
+            <data x= "South Africa" y="18"/>
+            <data x= "United Arab Emirates" y="9.1"/>
+            <data x= "Russia" y="1.1"/>
+            <data x= "India" y="0.85"/>
+            <data x= "China" y="0.74"/>
+            <data x= "Hong Kong" y="48"/>
+            <data x= "Australia" y="8.1"/>
+            <data x= "Japan" y="0.68"/>
+        </dataset>
+      </graph>
+        <chapter>
+          <title>Gold export flows</title>
+          <paragraph><list type="unordered">                                     <!--[0-N]-->
+           <item>97% Hong Kong to China</item>                                    <!--[1-N]-->
+           <item>99% China to Hong Kong</item>
+           <item>31% US to Hong Kong</item>
+           <item>5% US to India</item>
+           <item>44% US to Swiss</item>
+           <item>34% Japan to Hong Kong</item>
+           <item>21% Japan to Thailand</item>
+           <item>53% Russia to Swiss</item>
+           <item>32% Russia to Hong Kong</item>
+           <item>42% UK to United Arab Emirates</item>
+           <item>23% UK to Hong Kong</item>
+           <item>11% UK to Swiss</item>
+           <item>99.3% India to United Arab Emirates</item>
+           <item>37% Australia to Hong Kong</item>
+           <item>36% Australia to China</item>
+           <item>41% United Arab Emirates to India</item>
+           <item>26% United Arab Emirates to Turkey</item>                                    <!--[1-N]-->
+           <item>34% South Africa to Hong Kong</item>
+           <item>57% South Africa to UK</item>
+           <item>18% South Africa to India</item>
+           <item>26% Peru to US</item>
+           <item>25% Peru to Canada</item>
+           <item>36% Peru to Swiss</item>
+           <item>56% Ivory Coast to South Africa</item>
+           <item>43% Ivory Coast to Swiss</item>
+           <item>32% Canada to US</item>
+           <item>18% Canada to UK</item>
+           <item>24% Swiss to Hong Kong</item>
+           <item>22% Swiss to India</item>
+         </list>
+          </paragraph>
+        </chapter>
+        <chapter>
+          <title>Biggest producers mines on 2015 and the companies that menage them</title>
+          <paragraph><list type="unordered">                                     <!--[0-N]-->
+           <item>Cortez Mine 44,192 tons (Barrick Gold)</item>                                    <!--[1-N]-->
+           <item>Goldstrike Mine 33,840 tons (Barrick Gold)</item>
+           <item>Lagunas Norte 23,732 tons (Barrick Gold)</item>
+           <item>Veladero 29,765 tons (Barrick Gold)</item>
+           <item>Pueblo Viejo 29,000 tons (Barrick Gold)</item>
+           <item>Gransberg Mine 44,000 tons (Freeport Mc Moran)</item>
+           <item>Manaocha Mine 42,500 tons (Newmont)</item>
+           <item>Boddington Mine 23,000 tons (Newmont)</item>
+           <item>Carling Trend 28,830 tons (Newmont)</item>
+           <item>West Wits 24,630 tons (Anglogold Ashanti)</item>
+           <item>Vaal River 25,840 tons (Anglogold Ashanti)</item>
+           <item>Iamgold 67,400 tons (Anglogold Ashanti)</item>
+           <item>The Super Pit 24,690 tons (Kalgoorlie Consolidaded Gold Mines)</item>
+           <item>Perseus Mining 83,000 tons (Limited Golden Star)</item>
+           <item>Muruntau 90,870 tons (Navoi Mining and Metallurgy Combinat)</item>
+           <item>Olimpiada 22,000 tons (Polyus Gold)</item>
+         </list>
+          </paragraph>
+          </chapter>
+        <keywords>
+          <keyword name="Gold" /><keyword name="North America" /><keyword name="South America" />
+          <keyword name="Eastern Europe" /><keyword name="Western Europe" /><keyword name="Northern Africa" />
+          <keyword name="Central Africa" /><keyword name="Southern Africa" /><keyword name="Middle East and Western Asia" />
+          <keyword name="Central and Eastern Asia" /><keyword name="Southern Asia" /><keyword name="Southeastern Asia" />
+          <keyword name="Oceania" /><keyword name="Import/Export" /><keyword name="Global Corporations" /><keyword name="Mining" />
+        </keywords>
+        <sources>
+          <source>atlas.media.mit.edu</source>
+          <source>bloomberg.com</source>
+          </sources>
+      </section>
+      <section>
+          <title>Why Canada is dumping gold</title>
+          <chapter>
+            <paragraph>Canada’s explanation for the selloff is reasonable enough: actual bullion bars cannot be liquidated as easily as, say, government bonds.
+                And over the long term, central banks and governments have generally gotten a better return by investing in safe assets such as US Treasuries.
+          </paragraph>
+              <paragraph>But the real question is not why Canada has sold its gold, it’s why other countries remain so wedded to maintaining stocks of the precious
+                 metal despite the fact that it no longer plays any role in the money supply.
+              </paragraph>
+          </chapter>
+          <graph unit= "Metric tons" x="date" y="number">
+            <title>Canada gold's reserves</title>
+            <dataset>
+              <data x= "1996" y="175"/>
+              <data x= "1997" y="120"/>
+              <data x= "1998" y="100"/>
+              <data x= "1999" y="85"/>
+              <data x= "2000" y="85"/>
+              <data x= "2001" y="75"/>
+              <data x= "2002" y="52"/>
+              <data x= "2003" y="35"/>
+              <data x= "2004" y="30"/>
+              <data x= "2005" y="20"/>
+              <data x= "2006" y="15"/>
+              <data x= "2007" y="5"/>
+              <data x= "2008" y="5"/>
+              <data x= "2009" y="4.7"/>
+              <data x= "2010" y="4.4"/>
+              <data x= "2011" y="4.1"/>
+              <data x= "2012" y="3.7"/>
+              <data x= "2013" y="3.7"/>
+              <data x= "2014" y="3.4"/>
+              <data x= "2015" y="3.2"/>
+          </dataset>
+        </graph>
+        <keywords>
+            <keyword name="Gold" /><keyword name="North America" />
+        </keywords>
+        <sources>
+          <source>bloomberg.org</source>
+          </sources>
+      </section>
+      <section>
+          <title>Historical break</title>
+          <subtitle>Gold exchange standard</subtitle>
+          <chapter>
+            <paragraph>Churchill restored the gold system before war and the central banks added to gold reserves some convertible currencies,
+              so gold exchange standard was born.
+            </paragraph>
+          </chapter>
+          <keywords>
+            <keyword name="Gold" /><keyword name="Western Europe" /><keyword name="Currencies" />
+          </keywords>
+          <sources>
+           <source>goldbrocker.it</source>
+         </sources>
+      </section>
+      <section>
+        <title>Gold price</title>
+        <subtitle>Week 12</subtitle>
+        <graph unit="$/oz" x="date" y="number">
+          <dataset>
+              <data x= "20160321" y="1,246.53"/>
+              <data x= "20160322" y="1,250.10"/>
+              <data x= "20160323" y="1,231.74"/>
+              <data x= "20160324" y="1,219.18"/>
+              <data x= "20160325" y="1,217.17"/>
+            </dataset>
+          </graph>
+        <keywords>
+            <keyword name="Gold"/>
+        </keywords>
+        <sources>
+          <source>goldbroker.it</source>
+          </sources>
+        </section>
       <section>
         <title>Explosions in Brussels, safe haven soars in the markets</title>
         <chapter>
@@ -19,14 +185,14 @@
         </chapter>
         <graph unit= "USD/oz" x="date" y="number">
               <dataset>
-                  <data x= "20160322 : 000020" y="1,243"/>
-                  <data x= "20160322 : 000022" y="1,241"/>
-                  <data x= "20160322 : 000000" y="1,242"/>
-                  <data x= "20160322 : 000002" y="1,248"/>
-                  <data x= "20160322 : 000004" y="1,246"/>
-                  <data x= "20160322 : 000006" y="1,245"/>
-                  <data x= "20160322 : 000008" y="1,253"/>
-                  <data x= "20160322 : 000010" y="1,260"/>
+                   <data x= "20160322:000020" y="1,243"/>
+                  <data x= "20160322:000022" y="1,241"/>
+                  <data x= "20160322:000000" y="1,242"/>
+                  <data x= "20160322:000002" y="1,248"/>
+                  <data x= "20160322:000004" y="1,246"/>
+                  <data x= "20160322:000006" y="1,245"/>
+                  <data x= "20160322:000008" y="1,253"/>
+                  <data x= "20160322:000010" y="1,260"/>
               </dataset>
        </graph>
        <quote>
@@ -148,7 +314,7 @@
               <data x= "20010909" y="273"/>
               <data x= "20010910" y="272"/>
               <data x= "20010911" y="288.10"/>
-              <data x= "20100912" y="280"/>
+              <data x= "200100912" y="280"/>
           </dataset>
        </graph>
        <keywords>
