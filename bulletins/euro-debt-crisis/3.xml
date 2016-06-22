@@ -15,7 +15,7 @@
     <role>Rating agency</role>
     <text>
       Fitch Ratings has affirmed Greece’s Long-term foreign and local currency Issuer Default Ratings (IDRs)
-      at "CCC", confirming the decision of the last year.Good progress has been made towards agreeing the
+      at “CCC”, confirming the decision of the last year. Good progress has been made towards agreeing the
       first review of the financial assistance programme with the ESM, but risks for investors still remain.
     </text>
   </quote>
@@ -52,7 +52,7 @@
 </section>
 
   <section>
-    <title>Why is Greece’s rating still CCC?</title>
+    <title>Why Is Greece’s Rating Still CCC?</title>
       <chapter>
         <paragraph>
           Fitch Ratings has affirmed Greece’s Long-term foreign and local currency Issuer Default Ratings (IDRs)
@@ -73,7 +73,7 @@
         </paragraph>
       </chapter>
       <graph unit="USD" x="date" y="number">
-        <title>Bank deposits Jan 2010, Gen2016</title>
+        <title>Bank deposits, January 2010—2016</title>
         <dataset label="Deposit value">
           <data x="20100131" y="228,000,000,000"/>
           <data x="20110131" y="213,000,000,000"/>
@@ -94,7 +94,7 @@
         </paragraph>
       </chapter>
       <graph unit="%" x="string" y="number">
-        <title>Bank deposit Jan 2010, Gen2016</title>
+        <title>Bank deposits, January 2010—2016</title>
         <dataset label="Unemployed percentage">
           <data x="Aged 25-99" y="25"/>
           <data x="Aged 18-24" y="50"/>
@@ -206,11 +206,11 @@
     </section>
 
     <section>
-      <title>What are the consequences of immigration?</title>
+      <title>What Are The Consequences of Immigration?</title>
       <chapter>
         <paragraph>
           The cost of managing the migrant crisis in Greece will exceed a previous estimate
-          of 600 million Euros ($670 million) as more and more refugees are forced to remain
+          of €600 million ($670 million) as more and more refugees are forced to remain
           in the country, says Yannis Stournaras, the Governor of the Bank of Greece.
         </paragraph>
         <paragraph>
@@ -263,7 +263,7 @@
     </section>
 
     <section>
-      <title>Mario strikes back</title>
+      <title>Mario Strikes Back</title>
         <chapter>
           <paragraph>
             ECB decided to launch some monetary measures in order to help European families and corporations. The aim of
@@ -285,7 +285,7 @@
             </paragraph>
           </chapter>
           <graph unit="%" x="date" y="number">
-            <title>ECB interest rate 2007|2016</title>
+            <title>ECB interest rate, 2007—2016</title>
             <dataset label="Refinancing rate">
               <data x="2007" y="3.75"/>
               <data x="2008" y="3.75"/>
@@ -312,7 +312,7 @@
             </dataset>
           </graph>
           <graph unit="EUR" x="string" y="number">
-            <title>QE balance: treasury stock; Mar2015 | Feb2016</title>
+            <title>QE balance: treasury stock, March 2015—February 2016</title>
             <dataset label="Refinancing rate">
               <data x="DE" y="140,411"/>
               <data x="FR" y="111,725"/>
@@ -350,7 +350,7 @@
     </section>
 
     <section>
-      <title>Finland loses AAA rating from Fitch</title>
+      <title>Finland Loses AAA Rating From Fitch</title>
         <chapter>
           <paragraph>
             Credit rating company Fitch has dropped Finland’s credit rating from the highest possible AAA to the second-best
@@ -361,7 +361,7 @@
           </paragraph>
         </chapter>
         <graph unit="%" x="date" y="number">
-          <title>Some economic stats</title>
+          <title>Some data</title>
           <dataset label="Inflation rate">
             <data x="2014" y="1"/>
             <data x="2015" y="-0.3"/>
@@ -405,7 +405,7 @@
       </section>
 
       <section>
-        <title>Export difficulties</title>
+        <title>Export Difficulties</title>
           <chapter>
             <paragraph>
               The economic problems of Finland came primarily from a drop in demand from Russia,
@@ -413,7 +413,7 @@
               of its most successful company, Nokia together with the sector of the production of the paper.
             </paragraph>
             <paragraph>
-              In numbers, export from finland to russia between 2008 and 2016 is fall of 33%.
+              In numbers, export from Finland to Russia between 2008 and 2016 have fallen 33%.
             </paragraph>
           </chapter>
           <keywords>
@@ -434,16 +434,16 @@
         </section>
 
         <section>
-          <title>Some different ratings</title>
+          <title>Some Different Ratings</title>
           <chapter>
             <paragraph>
-              Actually Finland have three different typologies of rate, depending on rating company which
+              Finland have three different typologies of rate, depending on rating company which
               assign the vote. So, these are actual rates from Fitch, Standard&amp;Poor’s and Moody’s.
             </paragraph>
           </chapter>
           <table>
             <row type="head">
-              <cell>S and P</cell>
+              <cell>S&P’s</cell>
               <cell>Moody's</cell>
               <cell>Fitch</cell>
             </row>
@@ -519,17 +519,17 @@
       </section>
 
       <section>
-        <title>The economic recovery is taking a long time to arrive</title>
+        <title>The Economic Recovery is Taking a Long Time to Arrive</title>
         <chapter>
           <paragraph>
-            This diagram wants to illustrate some datas about finland’s financial situation from 2006 to 2015; for example,
+            This diagram wants to illustrate some datas about Finland’s financial situation from 2006 to 2015; for example,
             in 2015 annual GDP growth rate increased only by 0,3%, and Fitch says there are no clear signs that Finland’s
             domestic growth could top an annual growth of 1.0-1.2% over the medium term. Finland also has a very high public
             spending, around 60% of GDP. Also public debt in the last years is growth a lot, as indicated in the diagram.
           </paragraph>
         </chapter>
         <graph unit="%" x="date" y="number">
-          <title>Finland's economic panorama</title>
+          <title>Finland’s economic panorama</title>
           <dataset label="Public debt evolution">
             <data x="2006" y="40"/>
             <data x="2007" y="35"/>
