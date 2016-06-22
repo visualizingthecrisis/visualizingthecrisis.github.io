@@ -343,32 +343,20 @@
     <chapter>
       <title>Global markets by company</title>
       <paragraph>The geothermal turbine market has several companies that provide equipment for higher temperature projects. Mitsubishi, Ormat and Fuji are the major ones.</paragraph>
-      <paragraph>
-      <list type="unordered">
-        <item>A. Tas Energy</item>
-        <item>B. Alstom</item>
-        <item>C. General Electric</item>
-        <item>D. Toshiba</item>
-        <item>E. Ansaldo/Tosi</item>
-        <item>F. Fuji</item>
-        <item>G. Other</item>
-        <item>H. Mitsubishi</item>
-        <item>I. Ormat</item>
-      </list>
-     </paragraph>
+
     </chapter>
     
     <graph unit="%" x="string" y="percentage">
       <dataset label= "Companies">
-        <data x="A" y="2" />
-        <data x="B" y="3" />
-        <data x="C" y="5" />
-        <data x="D" y="9" />
-        <data x="E" y="10" />
-        <data x="F" y="14" />
-        <data x="G" y="14" />
-        <data x="H" y="18" />
-        <data x="I" y="25" />
+        <data x="Tas Energy" y="2" />
+        <data x="Alstom" y="3" />
+        <data x="General Electric" y="5" />
+        <data x="Toshiba" y="9" />
+        <data x="Ansaldo/Tosi" y="10" />
+        <data x="Fuji" y="14" />
+        <data x="Other" y="14" />
+        <data x="Mitsubishi" y="18" />
+        <data x="Ormat" y="25" />
       </dataset>
     </graph>
 
