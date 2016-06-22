@@ -10,12 +10,8 @@
   <bullettin id="08" date="20160430">
     <sections>
       <section>
-        <quote>
-          <author>Etrurian Bank</author>
-          <text>We are mere intermediates, we don't produce gold.</text>
-        </quote>
+        <title>The fake of Rai gold coins. Supplier prize? Etrurian Bank</title>
         <chapter>
-          <title>The fake of Rai gold coins. Supplier prize? Etrurian Bank</title>
           <paragraph>
           The case raised by the complaint of a winner of the "Red or Black" program,
            is the subject of an episode broadcast on RAI-3 on April 24.</paragraph>
@@ -43,6 +39,10 @@
              non-precious material.Ingots are provided by Banca Etruria. Only 20 percent was tested for input, and the result is gold 999.
              So will start the procedures, but the fact remains that 80 per cent has not been checked.</paragraph>
       </chapter>
+      <quote>
+        <author>Etrurian Bank</author>
+        <text>We are mere intermediates, we don't produce gold.</text>
+      </quote>
         <keywords>
             <keyword name="Western Europe" /><keyword name="Currencies" /><keyword name="Gold" />
         </keywords>
@@ -173,8 +173,6 @@
                      the so-called "Divorce" between the Bank of Italy and the Treasury. </paragraph>
                   <paragraph>The latest quantitative change, which have led the reserves to the current amounts, took place in 1998 with the definitive transfer
                     of gold held dall'UIC. On January 5, 1999, with the transfer to the ECB of 141 tons of metal.</paragraph>
-                    <paragraph>Actually Bank of Italy manages the country's large gold holdings, which account for 66.6%
-                    of its foreign reserves. Italy, which controls 2,451.8 tonnes of gold, hasn't altered its reserves in several years.<paragraph>
             </chapter>
             <keywords>
               <keyword name="Western Europe" />
@@ -185,8 +183,7 @@
               </sources>
       </section>
       <section>
-            <title>The Bitcoin</title>
-             <subtitle>An alternative currency</subtitle>
+            <title>The Bitcoin. An alternative currency</title>
             <chapter>
               <paragraph>
                 Bitcoin is an electronic money created in 2009 by an anonymous known by the pseudonym Satoshi Nakamoto.
@@ -199,7 +196,7 @@
             </chapter>
             <graph unit= "$" x="date" y="number">
                 <title>The great Bitcoin performance of 2015</title>
-                <dataset>
+                <dataset">
                   <data x= "20150101" y="300"/>
                   <data x= "20150201" y="240"/>
                   <data x= "20150301" y="250"/>
@@ -268,7 +265,7 @@
               </sources>
         </section>
       <section>
-      	<title>The differencies between gold and Bitcoin</title>
+            <title>The differencies between Bitcoin and gold</title>
             <chapter>
               <paragraph>
               Gold is a chemical element that has historically been highly sought-after for currency, juwlery and other uses.
@@ -291,9 +288,8 @@
               </sources>
       </section>
       <section>
-      	<title>Opinions on Bitcoin</title>
+            <title>What consumers think about Bitcoin</title>
             <chapter>
-              <title>What consumers think about Bitcoin</title>
               <paragraph>
                 <list type="unordered">                                     <!--[0-N]-->
                  <item>80% of people have never and would never consider using an alternative form of currency like Bitcoin.</item>                                    <!--[1-N]-->
@@ -353,8 +349,8 @@
               </sources>
       </section>
       <section>
-      	<title>How work a Bitcoin</title>
             <chapter>
+              <title>How work a Bitcoin</title>
               <paragraph>Download softwere on a computer or smartphone to set up a Bitcoin wallet.
                  This gives the basic facilities to send, recive and store Bitcoins.
             </paragraph>
@@ -398,7 +394,7 @@
         <title>Gold price</title>
         <subtitle>Week 16</subtitle>
         <graph unit="$/oz" x="date" y="number">
-          <dataset label= "Gold price">
+          <dataset>
               <data x= "20160425" y="1,238.26"/>
               <data x= "20160426" y="1,242.87"/>
               <data x= "20160427" y="1,244.58"/>
