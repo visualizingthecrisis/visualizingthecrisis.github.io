@@ -10,9 +10,9 @@
       <sections>
 
   <section>
-    <title>Warning: deflation in EU</title>
+    <title>Warning: Deflation in EU</title>
     <chapter>
-      <paragraph>Eurozone consumer prices were lower in February than a year earlier, a setback for the
+      <paragraph>Eurozone’s consumer prices were lower in February than a year earlier, a setback for the
         ECB in its struggle to prevent the currency block’s slide into chronic deflation. The ECB’s governing
         council is set to meet on March 9 and 10 to decide whether to boost its stimulus programs, amid signs
         that the Eurozone’s modest economic recovery may be faltering. Policy makers will have new economic
@@ -73,7 +73,7 @@
   </section>
 
   <section>
-    <title>What are the consequences of deflation?</title>
+    <title>What Are the Consequences of Deflation?</title>
     <chapter>
       <paragraph>
         A deflationary spiral is when a period of decreasing prices leads to a situation whereby the
@@ -94,7 +94,7 @@
       <author>Mario Draghi</author>
       <role>President of ECB</role>
       <text>Thanks to our monetary policy actions, the risk of deflation in the Euro area is firmly
-      off the table</text>
+      off the table.</text>
     </quote>
     <chapter>
       <paragraph>
@@ -120,7 +120,7 @@
   </section>
 
   <section>
-    <title>Why is EU so concerned?</title>
+    <title>Why Is EU So Concerned?</title>
   <chapter>
     <paragraph>
       The European Union’s statistics agency said consumer prices were down 0.2% from February 2016, having
@@ -129,8 +129,8 @@
     </paragraph>
   </chapter>
   <graph unit="%" x="date" y="number">
-    <title>Deflation variation Mar 2015, Feb 2016</title>
-    <dataset label="Deflation rate">
+    <title>Deflation rate, March 2015—February 2016</title>
+    <dataset label="">
       <data x="20150331" y="-0.1"/>
       <data x="20150430" y="0"/>
       <data x="20150531" y="0.3"/>
@@ -196,7 +196,7 @@
 </section>
 
 <section>
-  <title>European deflation and oil price</title>
+  <title>European Deflation and Oil Price</title>
   <chapter>
     <paragraph>
       Mario Draghi has said the ECB won’t hesitate to act if it believes recent financial-market turmoil or lower
@@ -245,14 +245,14 @@
       </paragraph>
     </chapter>
         <chapter>
-      <title>The beginning of everything:</title>
+      <title>The beginning of everything</title>
       <paragraph>
         In 2000 Switzerland opted out of the Euro to keep his own monetary policy while routing 50% of his exports to the
         European bloc at the same time, it was somewhat deceiving themselves. It may not share the Euro, but it do share
         the same kind of monetary policy, as it was pushed by the ECB into negative interest rates.
       </paragraph>
         <paragraph>
-          Some steps to Swiss’s recession:
+          Some steps to Swiss recession:
           <list type="ordered">
             <item>Capital starting flow from EU to Switzerland.</item>
             <item>To avoid capital flight, Swiss National Bank disconnect the franc to the Euro.</item>
@@ -302,7 +302,7 @@
         </paragraph>
       </chapter>
       <graph unit="%" x="string" y="number">
-        <title>Financial data comparation - Switzerland</title>
+        <title>Financial data comparation, Switzerland</title>
         <dataset label="Swiss values">
           <data x="GDP growth rate" y="0.4"/>
           <data x="interes rate" y="-0.75"/>
@@ -313,7 +313,7 @@
         </dataset>
       </graph>
       <graph unit="%" x="string" y="number">
-        <title>Financial data comparation - Eurozone</title>
+        <title>Financial data comparation, Eurozone</title>
         <dataset label="EU values">
           <data x="GDP rowth rate" y="0.3"/>
           <data x="interest rate" y="-0"/>
@@ -344,7 +344,7 @@
     </section>
 
     <section>
-      <title>An overvalued index</title>
+      <title>An Overvalued Index</title>
       <chapter>
         <paragraph>
           In 2015, the SMI index is down 10%, underperforming wider European markets. According
@@ -353,7 +353,7 @@
         </paragraph>
       </chapter>
       <graph unit="CHF" x="date" y="number">
-        <title>Foreign Exchange Reserves in Swiss Jul 2011 | Feb 2016</title>
+        <title>Foreign Exchange Reserves in Switzerland, July 2011—February 2016</title>
         <dataset label="Exchange value">
           <data x="2011" y="330,000"/>
           <data x="2012" y="485,000"/>
@@ -378,7 +378,7 @@
     </section>
 
     <section>
-      <title>Export, we have a problem</title>
+      <title>Export, We Have a Problem</title>
       <chapter>
         <paragraph>
           Exports to the Eurozone account for around 50% of Switzerland’s total exports. With the franc
@@ -387,7 +387,7 @@
         </paragraph>
       </chapter>
       <graph unit="%" x="date" y="number">
-        <title>Export rate from Swiss to Eurozone 2014 | 2016</title>
+        <title>Export rate from Swiss to Eurozone, 2014—2016</title>
         <dataset label="Export rate">
           <data x="2013" y="50"/>
           <data x="2014" y="50"/>
