@@ -103,7 +103,7 @@
   </section>
 
   <section>
-    <title>Italian debt</title>
+    <title>Italian Debt</title>
     <subtitle>A little overview</subtitle>
     <graph unit="EUR" x="string" y="number">
       <title>Debt/banking situation in Italy</title>
@@ -153,7 +153,7 @@
 </section>
 
 <section>
-  <title>What about “Brexit”?</title>
+  <title>What About “Brexit”?</title>
   <chapter>
   <title>Why is UK asking for a referendum?</title>
     <paragraph>
@@ -196,7 +196,7 @@
 
 <section>
   <title>Brexit</title>
-  <subtitle>Trade impact scenarios</subtitle>
+  <subtitle>Trade Impact Scenarios</subtitle>
     <chapter>
       <paragraph>
         During negotiations between the European Council and the UK, leaders discussed a
@@ -234,7 +234,7 @@
   </section>
 
   <section>
-    <title>What if UK leaves EU?</title>
+    <title>What If UK Leaves EU?</title>
     <chapter>
       <paragraph>
         The impact of the UK leaving the European Union creates an instable economic
@@ -271,7 +271,8 @@
 </section>
 
 <section>
-  <title>British pound overview</title>
+  <title>British Pound</title>
+  <subtitle>An Overview</subtitle>
   <chapter>
     <paragraph>
       Sterling hit a seven-year low against the dollar on Friday, dogged by persistent worries
@@ -311,7 +312,8 @@
 </section>
 
 <section>
-<title>What UK thinks</title>
+<title>Brexit</title>
+<subtitle>What UK Thinks</subtitle>
 <graph unit="%" x="string" y="percentage">
 <title>3 Mar 2016</title>
 <abstract>Should the United Kingdom remain a member of the European Union or leave the European Union?</abstract>
