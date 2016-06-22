@@ -105,7 +105,7 @@
         </chapter>
         <graph x="data" y="number">
               <title>US inflation's historical graph</title>
-              <dataset">
+              <dataset>
                  <data x= "1926" y="200"/>
                  <data x= "1935" y="200"/>
                  <data x= "1944" y="200"/>
