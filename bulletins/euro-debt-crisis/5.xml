@@ -10,9 +10,9 @@
       <sections>
 
   <section>
-    <title>European terrorism</title>
+    <title>European Terrorism</title>
       <chapter>
-        <title>Terrorism in Belgium: for US Europe is no more safe for tourists</title>
+        <title>Terrorism in Belgium: for US, Europe is no more safe for tourists</title>
         <paragraph>
           Europe is becoming a dangerous place, says the US Department of State. After terrorist attack in Bruxelles
           the agency declared it is better to avoid travels in the Old Country: what could be the economic impact?
@@ -34,8 +34,8 @@
         </paragraph>
       </chapter>
         <graph unit="%" x="string" y="number">
-          <title>US visitor in EU countries</title>
-          <dataset label="US visitors percentage">
+          <title>US visitors in EU countries</title>
+          <dataset label="">
             <data x="FR" y="2.7"/>
             <data x="GB" y="3.6"/>
             <data x="ES" y="2.2"/>
@@ -66,7 +66,8 @@
       </section>
 
       <section>
-        <title>US tourists money spent</title>
+        <title>US Tourists</title>
+        <subtitle>How Money Are Spent</subtitle>
         <chapter>
             <title>How much does US spend in Europe?</title>
             <paragraph>
@@ -120,16 +121,16 @@
         </section>
 
         <section>
-        <title>Terrorism forecasts</title>
+        <title>Terrorism Forecasts</title>
           <chapter>
-              <title>How much does counter terrorism costs?</title>
+              <title>How much does counter-terrorism costs?</title>
               <paragraph>
-                EU spending for counter terrorism is becoming more and more expansive. Since 2002 they had a huge increase.
+                EU spending for counter-terrorism is becoming more and more expansive. Since 2002 they had a huge increase.
                 However, after Bruxelles attack, EU launched new expansive anti-terrorism mesures, focusing on new and old risky places.
               </paragraph>
             </chapter>
             <graph unit="EUR" x="date" y="number">
-              <title>EU spending for CT in € million</title>
+              <title>EU spending for counter-terrorism</title>
               <dataset label="Spending value">
                 <data x="2002" y="5,700,000"/>
                 <data x="2009" y="93,500,000"/>
@@ -137,7 +138,7 @@
               </dataset>
             </graph>
             <chapter>
-              <title>Maybe we should correct 2025 previsions</title>
+              <title>Maybe we should correct the 2025 previsions</title>
               <paragraph>
                   The Authority on World Travel and Tourism (WTTC) in 2015 made projection for 2025 about the future impact
                   of tourism on European countries’ GDP. Due to the actual situation maybe they should re-write them.
@@ -189,7 +190,7 @@
             </section>
 
     <section>
-      <title>French public deficit better than expected</title>
+      <title>French Public Deficit is Better Than Expected</title>
         <chapter>
           <paragraph>
             France posted its smallest public deficit since the global crisis of 2008. Public deficit fell last to 3.5%,
@@ -206,8 +207,8 @@
           </paragraph>
           </chapter>
           <graph unit="EUR" x="date" y="number">
-            <title>GDP value in € billions</title>
-            <dataset label="GDP">
+            <title>France’s GDP</title>
+            <dataset label="GDP value, € billions">
               <data x="2012" y="2,556,000,000,000"/>
               <data x="2013" y="2,395,000,000,000"/>
               <data x="2014" y="2,508,000,000,000"/>
@@ -215,8 +216,8 @@
             </dataset>
           </graph>
           <graph unit="EUR" x="date" y="number">
-            <title>Government spending value in € millions</title>
-            <dataset label="Spending">
+            <title>France’s government spending</title>
+            <dataset label="Spending in € millions">
               <data x="2012" y="123,000,000,000"/>
               <data x="2013" y="125,000,000,000"/>
               <data x="2014" y="127,000,000,000"/>
@@ -245,11 +246,11 @@
 
       <section>
         <quote>
-          <author>Francois Hollande</author>
+          <author>François Hollande</author>
           <role>French president</role>
           <text>
-            President Francois Hollande has made jobs his government's top priority,
-            and has said he will not seek reelection in 2017 if he fails to bring
+            President François Hollande has made jobs his government’s top priority,
+            and has said he will not seek re-election in 2017 if he fails to bring
             down the unemployment rate.
           </text>
         </quote>
@@ -275,7 +276,7 @@
       </section>
 
       <section>
-        <title>France’s situation</title>
+        <title>France’s Situation</title>
           <chapter>
             <paragraph>
               Unlike in the early years Hollande’s presidency, the deficit reduction last year was achieved while
@@ -353,8 +354,8 @@
       <author>Michel Sapin</author>
       <role>French politician</role>
       <text>
-        It means we're cutting the deficit while supporting growth at the same time,
-        People very often say that's contradictory. But we're proving that's not true.
+        It means we’re cutting the deficit while supporting growth at the same time.
+        People very often say that’s contradictory. But we’re proving that’s not true.
         You can be serious on the budget front and allow growth to pick up.
       </text>
     </quote>
@@ -380,7 +381,7 @@
   </section>
 
   <section>
-    <title>Gorvernment revenues are like the waves</title>
+    <title>Government Revenues Are Like The Waves</title>
       <chapter>
         <paragraph>
           Are these waves? Unfortunately no, it’s only a diagram
@@ -391,7 +392,7 @@
            revenues are higher instead in January revenues are lower:
            that is due to yearly articulation of government revenues
            (which are composed by taxes, custom duties, revenue from
-           state-owned enterprises)
+           state-owned enterprises).
         </paragraph>
       </chapter>
       <graph unit="EUR" x="date" y="number">
