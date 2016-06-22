@@ -228,7 +228,7 @@
       </sources>
       </section>
     <section>                                                       <!--6-->
-        <title>Dogvacacy</title>
+        <title>DogVacay</title>
         <abstract>
           DogVacay is a Santa Monica based company known for home dog boarding and other pet services. They serve clients in both the United States and Canada and place dogs with host families. It connects petowners withover 20,000 petsitters.
         </abstract>
@@ -256,7 +256,7 @@
     <section>                                                                 <!--7-->
         <title>Property Partner</title>
         <abstract>
-          It reinvents the proprety market. It's a property crowdfunding platform launched just a year ago with more than 7,000 customers who have collectively invested around £30 million across 184 properties.
+          It reinvents the property market. It’s a property crowdfunding platform launched just a year ago with more than 7,000 customers who have collectively invested around £30 million across 184 properties.
         </abstract>
       <keywords>
         <keyword name="Investments" />
@@ -423,7 +423,8 @@
       </sources>
     </section>
     <section>                                                                <!--10-->
-      <title>"Share-the-Scraps Economy": the Dark Side of Collaborative Consumption</title>
+      <title>“Share-the-Scraps Economy”</title>
+      <subtitle>The Dark Side of Collaborative Consumption</subtitle>
       <abstract>
         This is the economy we’re now barreling toward. They’re Uber drivers, Instacart shoppers, and Airbnb hosts. They include Taskrabbit jobbers, Upcounsel’s on-demand attorneys, and Healthtap’s on-line doctors. The euphemism is the “share” economy. A more accurate term would be the “share-the-scraps” economy. New software technologies are allowing almost any job to be divided up into discrete tasks that can be parceled out to workers when they’re needed, with pay determined by demand for that particular job at that particular moment. Customers and workers are matched online. Workers are rated on quality and reliability.
       </abstract>
@@ -435,7 +436,7 @@
       <graph unit="b$" x="string" y="number">
         <title>Where the Big Money Goes</title>
         <abstract>
-          Company valuation.
+          Company valuation
         </abstract>
         <dataset label= "">
           <data x="Hilton Worldwide" y="27.56"/>
@@ -476,11 +477,12 @@
       </sources>
     </section>
     <section>                                                                    <!--11-->
-      <title>"Share-the-Scraps Economy": Airbnb</title>
+      <title>“Share-the-Scraps Economy”</title>
+      <subtitle>Airbnb</subtitle>
       <graph unit="%" x="string" y="percentage">
         <title>1. Hosts operating an unregulated full-time business account for 30% of the total revenue on Airbnb</title>
         <dataset label= "">
-          <data x="Unregulated Full-time Business" y="30"/>
+          <data x="Unregulated full-time business" y="30"/>
           <data x="Rest of the hosts" y="70"/>
         </dataset>
       </graph>
@@ -494,9 +496,10 @@
       <graph unit="" x="date" y="number">
         <title>The Impact of Airbnb on Hotel and Hospitality Industry</title>
         <abstract>
-          From September 2014 to August 2015, 480,000 hotel rooms have been reserved, while 2.8 million rooms have been booked on Airbnb. In 2018 it's estimated that the number of room nights booked on Airbnb will arrive to 5 million.
+          From September 2014 to August 2015, 480,000 hotel rooms have been reserved, while 2.8 million rooms have been booked on Airbnb. In 2018 it’s estimated that the number of room nights booked on Airbnb will arrive to 5 million.
         </abstract>
-        <dataset label="Room nights booked on Airbnb (2015-2018)">
+        <title>Room nights booked on Airbnb (2015-2018)</title>
+        <dataset label="">
           <data x="2015" y="2.8m" />
           <data x="2018" y="5m" />
         </dataset>
@@ -527,11 +530,12 @@
       </sources>
     </section>
     <section>                                                                      <!--12-->
-      <title>"Share-the-Scraps Economy": Uber</title>
+      <title>“Share-the-Scraps Economy”</title>
+      <subtitle>Uber</subtitle>
       <quote>
         <author>Robert Reich</author>
         <role>American political commentator, professor, and author</role>
-        <text>Uber drivers use their own cars, take out their own insurance, work as many hours as they want or can - and pay Uber a fat percent. Worker safety? Social Security? Uber says it’s not the employer so it’s not responsible.</text>
+        <text>Uber drivers use their own cars, take out their own insurance, work as many hours as they want or can — and pay Uber a fat percent. Worker safety? Social Security? Uber says it’s not the employer so it’s not responsible.</text>
       </quote>
       <graph unit="%" x="date" y="number">
         <title>Annual Percentage Change in the Number of New York City Taxi Trips</title>
@@ -543,7 +547,7 @@
         </dataset>
       </graph>
       <graph unit="%" x="string" y="number">
-        <title>Work Hours with Passengers in New York, Boston and San Francisco.</title>
+        <title>Work Hours with Passengers in New York, Boston and San Francisco</title>
         <dataset label="Taxis">
           <data x="New York" y="49.5" />
           <data x="Boston" y="32" />
