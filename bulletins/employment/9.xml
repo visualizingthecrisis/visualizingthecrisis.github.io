@@ -10,7 +10,7 @@
   <bulletin id="issue 9" date="20160507">
   <sections>
     <section>                                                      <!--1-->
-      <title>"Basic Income" Searches in Google</title>
+      <title>“Basic Income” Searches on Google</title>
       <graph unit="%" x="date" y="number">
         <dataset label="">
           <data x="20110430" y="26" />
@@ -34,9 +34,9 @@
       </sources>
     </section>
     <section>                                                      <!--2-->
-      <title>The World's Most Miserable Economies</title>
+      <title>The World’s Most Miserable Economies</title>
       <abstract>
-        The misery index is an economic indicator - created by economist Arthur Okun - that helps determine how the average citizen is doing economically and it is calculated by adding the seasonally adjusted unemployment rate to the annual inflation rate.
+        The misery index is an economic indicator — created by economist Arthur Okun — that helps determine how the average citizen is doing economically and it is calculated by adding the seasonally adjusted unemployment rate to the annual inflation rate.
       </abstract>
       <graph unit="" x="location" y="number">
         <title>Venezuela Has an Unhappy First Place</title>
@@ -112,7 +112,7 @@
     <section>                                                   <!--3-->
       <title>Misery Index</title>
       <chapter>
-        <paragraph>Misery index estimates - calculated by adding the seasonally adjusted unemployment rate to the annual inflation rate - were compiled using the median estimates in Bloomberg economic surveys from the past three months. Figures for 2015 and 2016 inflation and unemployment data reflect the average over the year and use the most current data available for each country.</paragraph>
+        <paragraph>Misery index estimates — calculated by adding the seasonally adjusted unemployment rate to the annual inflation rate — were compiled using the median estimates in Bloomberg economic surveys from the past three months. Figures for 2015 and 2016 inflation and unemployment data reflect the average over the year and use the most current data available for each country.</paragraph>
       </chapter>
       <table>
         <row type="head">
@@ -565,8 +565,8 @@
         </row>
       </table>
       <chapter>
-        <paragraph>The ranking of 63 economies is compiled by adding a country's jobless rate and inflation, a long-standing calculation in which a higher score indicates more misery. Venezuela's 159.7 tally for the 2016 misery quadruples the next-worst ranking Argentina.</paragraph>
-        <paragraph>The world's happiest economies this year will look quite similar to last year's rankings. Thailand, in part due to unique structural issues that allow more people to count as employed, will stay as least miserable.</paragraph>
+        <paragraph>The ranking of 63 economies is compiled by adding a country’s jobless rate and inflation, a long-standing calculation in which a higher score indicates more misery. Venezuela’s 159.7 tally for the 2016 misery quadruples the next-worst ranking Argentina.</paragraph>
+        <paragraph>The world’s happiest economies this year will look quite similar to last year’s rankings. Thailand, in part due to unique structural issues that allow more people to count as employed, will stay as least miserable.</paragraph>
       </chapter>
       <graph unit="%" x="date" y="percentage">
         <title>Thailand and Venezuela Unemployment Rate Distance</title>
@@ -602,7 +602,7 @@
       <quote>
         <author>Chirathep Senivongs Na Ayudhya</author>
         <role>Bank of Thailand spokesman</role>
-        <text>Our unemployment rate has been low not because of a different definition from other countries, but because of structural problems. The agricultural sector absorbs laborers and those who can't find work can always look for jobs in the informal sector.</text>
+        <text>Our unemployment rate has been low not because of a different definition from other countries, but because of structural problems. The agricultural sector absorbs laborers and those who can’t find work can always look for jobs in the informal sector.</text>
       </quote>
       <keywords>
         <keyword name="North America" />
@@ -639,26 +639,26 @@
         <source>tradingeconomics.com</source>
         <source>washingtonpost.com</source>
         <source>vox.com</source>
-        <source>TEDx Talks, "Why we should give everyone a basic income", Rutger Bregman</source>
+        <source>TEDx Talks, “Why we should give everyone a basic income”, Rutger Bregman</source>
       </sources>
     </section>
     <section>                                                                          <!--4-->
       <title>Revolutions In Progress</title>
       <abstract>
-        Labour Day is an annual holiday to celebrate the achievements of workers. Labour Day has its origins in the labour union movement, specifically the eight-hour day movement, which advocated eight hours for work, eight hours for recreation, and eight hours for rest. For many countries, Labour Day is synonymous with, or linked with, International Workers' Day, which occurs on 1 May.
+        Labour Day is an annual holiday to celebrate the achievements of workers. Labour Day has its origins in the labour union movement, specifically the eight-hour day movement, which advocated eight hours for work, eight hours for recreation, and eight hours for rest. For many countries, Labour Day is synonymous with, or linked with, International Workers’ Day, which occurs on May 1st.
       </abstract>
       <chapter>
         <title>May Day (Main peaceful demonstrations)</title>
         <paragraph>
           <list type="unordered">
             <item>LOS ANGELES. Hundreds of people marched in a rally that took aim at Republican presidential front-runner Donald Trump for his anti-illegal immigration platform that includes building a wall along the U.S. border with Mexico.</item>
-            <item>PORTLAND / S. FRANCISCO / OAKLAND. Large events also took place in Portland, San Francisco and Oakland. Hundreds of workers rallied along cities' streets in support of immigrant and workers' rights and to demand justice for several men killed by city police.</item>
+            <item>PORTLAND / S. FRANCISCO / OAKLAND. Large events also took place in Portland, San Francisco and Oakland. Hundreds of workers rallied along cities' streets in support of immigrant and workers’ rights and to demand justice for several men killed by city police.</item>
             <item>SAO PAULO. Brazilian President Dilma Rousseff join Sao Paulo's rally announcing to tens of thousands of backers that she will beef up a flagship social program, reduce the impact of income tax and build another 25,000 new low-price homes.</item>
             <item>LONDON. Labour Party leader Corbyn joined thousands of people at a rally in central London, using the occasion to condemn the progress of far-right groups throughout Europe: he said the party is united against the far-right and against racism.</item>
-            <item>BERLIN / HAMBURG.Thousands of people in the German cities of Berlin and Hamburg were participating in demonstrations. The protests were peaceful, with police reporting only minor incidents of violence.</item>
-            <item>MOSCOW. Tens of thousands of people marched across Moscow's Red Square in a pro-Kremlin workers' rally. The slogans focused on wages and jobs for young professionals and clearly criticized Putin's government for falling living standards.</item>
+            <item>BERLIN / HAMBURG. Thousands of people in the German cities of Berlin and Hamburg were participating in demonstrations. The protests were peaceful, with police reporting only minor incidents of violence.</item>
+            <item>MOSCOW. Tens of thousands of people marched across Moscow’s Red Square in a pro-Kremlin workers’ rally. The slogans focused on wages and jobs for young professionals and clearly criticized Putin's government for falling living standards.</item>
             <item>SEOUL. Tens of thousands of South Koreans took part in rallies to criticise labour reforms pushed by the government and to call for a higher minimum wage. Labour activists say the reform bill will make it easier for companies to lay off workers.</item>
-            <item>TAIPEI.Labor unions took to the streets with a march to call on the government: thousands of protesters from different labor groups staged a rally on a street to ask for raising minimum wage and shorter working hours.</item>
+            <item>TAIPEI. Labor unions took to the streets with a march to call on the government: thousands of protesters from different labor groups staged a rally on a street to ask for raising minimum wage and shorter working hours.</item>
           </list>
         </paragraph>
       </chapter>
@@ -666,12 +666,12 @@
         <title>Mayday (Main violent protests)</title>
         <paragraph>
           <list type="unordered">
-            <item>PARIS. The celebrations coincided with nationwide escalating protests against labor law reforms. The CGT labor union said there were more than 70,000 protesters in Paris alone. Clashes with police were reported. Since March 31, hundreds of thousands of predominantly young protesters all over France have struggled against the reform; here are some points: new provisions regarding working hours, social dialogue, layoffs and working conditions</item>
+            <item>PARIS. The celebrations coincided with nationwide escalating protests against labor law reforms. The CGT labor union said there were more than 70,000 protesters in Paris alone. Clashes with police were reported. Since March 31st, hundreds of thousands of predominantly young protesters all over France have struggled against the reform; here are some points: new provisions regarding working hours, social dialogue, layoffs and working conditions</item>
             <item>SEATTLE. What began as peaceful protests for immigration and workers rights erupted into violence when anti-capitalist demonstrators began throwing rocks and bottles, clashing with Seattle police: 9 arrested, 5 officers hurt.</item>
             <item>MONTREAL. Several hundred anticapitalist demonstrators marched through the streets of Montreal. The rally turned violent after protesters started throwing projectiles and breaking windows at a downtown police station.</item>
             <item>TURIN. Police had to interfere when far-left protesters staged a demonstration to oppose supporters of the ruling Democratic Party, who had gathered in the city. The protesters lit flares and held banners denouncing the Prime Minister.</item>
-            <item>PLAUEN.A group of around 500 right-wing protesters marched in the city, while1,500 of left-wingers also gathered, resulting in clashes between opposing demonstrators: police used water cannon against protesters.</item>
-            <item>INSTANBUL. Thousands of demonstrators rallied in an authorized area of Istanbul while police cracked down on other protests. Police used tear gas and water cannons on demonstrators trying to reach Taksim Square. One man died.</item>
+            <item>PLAUEN. A group of around 500 right-wing protesters marched in the city, while 1,500 of left-wingers also gathered, resulting in clashes between opposing demonstrators: police used water cannon against protesters.</item>
+            <item>ISTANBUL. Thousands of demonstrators rallied in an authorized area of Istanbul while police cracked down on other protests. Police used tear gas and water cannons on demonstrators trying to reach Taksim Square. One man died.</item>
             <item>MANILA. About 2,000 left-wing protesters scuffled with riot police, who used shields and a water cannon to try to prevent the demonstrators from getting near the U.S. Embassy. Labor leaders said 20 protesters were injured.</item>
           </list>
         </paragraph>
@@ -1005,8 +1005,8 @@
             <item>It could help eradicate poverty.</item>
           </list>
         </paragraph>
-        <paragraph>Basic income is not a single idea but a family of closely related ideas, which go by an assortment of names: universal basic income, unconditional basic income, guaranteed annual income, citizen’s income, negative income tax etc. But the core motivation - to address social ills by just giving people money - has a long history:</paragraph>
-        <paragraph>C16th</paragraph>
+        <paragraph>Basic income is not a single idea but a family of closely related ideas, which go by an assortment of names: universal basic income, unconditional basic income, guaranteed annual income, citizen’s income, negative income tax etc. But the core motivation — to address social ills by just giving people money — has a long history.</paragraph>
+        <paragraph>16th Century</paragraph>
         <paragraph>
           <list type="unordered">
             <item>Thomas More</item>
@@ -1111,7 +1111,7 @@
             <item>Bruce Ackerman and Anne Alstott</item>
           </list>
           </paragraph>
-          <paragraph>2000-</paragraph>
+          <paragraph>2000s–</paragraph>
           <paragraph>
           <list type="unordered">
             <item>U.S. Basic Income Guarantee Network</item>
@@ -1159,7 +1159,7 @@
       <title>Reach Higher</title>
       <subtitle>Basic Income, A New Way of Living</subtitle>
       <chapter>
-        <paragraph>An "unconditional basic income" (also called "basic income", "basic income guarantee", "universal basic income", "universal demogrant", or "citizen’s income") is a form of social security system in which all citizens or residents of a country regularly receive an unconditional sum of money, either from a government or some other public institution, in addition to any income received from elsewhere.</paragraph>
+        <paragraph>An “unconditional basic income” (also called “basic income”, “basic income guarantee”, “universal basic income”, “universal demogrant”, or “citizen’s income”) is a form of social security system in which all citizens or residents of a country regularly receive an unconditional sum of money, either from a government or some other public institution, in addition to any income received from elsewhere.</paragraph>
         <paragraph>Here are some examples and pilot projects.</paragraph>
         <paragraph>LEGEND</paragraph>
         <paragraph>
@@ -1183,7 +1183,7 @@
           <cell>R</cell>
         </row>
         <row type="cell">
-          <cell>DEU 2014: "Mein Grundeinkommen" is a German non-profit organization that crowdfunds unconditional basic incomes. Each person who wins receives a monthly payment of €1,000 for the duration of one year.</cell>
+          <cell>DEU 2014: “Mein Grundeinkommen” is a German non-profit organization that crowdfunds unconditional basic incomes. Each person who wins receives a monthly payment of €1,000 for the duration of one year.</cell>
           <cell>✗</cell>
           <cell>✓</cell>
           <cell>✗</cell>
