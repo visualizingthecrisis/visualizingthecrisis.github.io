@@ -10,7 +10,7 @@
       <sections>
 
   <section>
-    <title>Boom! Ireland is back!</title>
+    <title>Boom! Ireland Is Back!</title>
     <chapter>
       <paragraph>
         Ireland’s economic success wasn’t a given at all. The country was hit
@@ -29,7 +29,7 @@
       </paragraph>
     </chapter>
     <graph unit="%" x="date" y="number">
-      <title>Ireland's return</title>
+      <title>Ireland’s return</title>
       <dataset label= "GDP growth">
         <data x="2006" y="4.9"/>
         <data x="2008" y="-5.0"/>
@@ -68,9 +68,9 @@
   </section>
 
   <section>
-    <title>Ireland’s economy is growing as fast as China GDP</title>
+    <title>Ireland’s Economy Is Growing As Fast As China’s GDP</title>
     <graph unit="%" x="country" y="number">
-      <title>GDP growth</title>
+      <title>GDP Growth</title>
       <dataset label= "Rate by country">
         <data x="US" y="2"/>
         <data x="IE" y="7"/>
@@ -98,7 +98,7 @@
   </section>
 
   <section>
-    <title>Is China hiding something?</title>
+    <title>Is China Hiding Something?</title>
     <chapter>
       <paragraph>
         The growth rate is a far cry from China’s spectacular expansion in recent
@@ -134,7 +134,7 @@
     </quote>
     <graph unit="%" x="country" y="number">
       <title>Two different estimations</title>
-      <dataset label= "Estimations by...">
+      <dataset label= "GDP growth">
         <data x="Julian Evans-Pritchard" y="4.5"/>
         <data x="Official sources" y="6.8"/>
       </dataset>
@@ -160,7 +160,7 @@
   </section>
 
   <section>
-    <title>How the “Celtic Tiger” did it? Tech-economy is the way!</title>
+    <title>How The “Celtic Tiger” Did It? Tech-Economy Is The Way!</title>
     <chapter>
       <paragraph>
         One of the main reason is that Ireland is widely known as a tax haven.
@@ -169,13 +169,13 @@
         <list type="unordered">
           <item>Lots of companies are located in Dublin but they are supervised in
             US in this way they are considered “stateless corporations”.
-            They don’t pay between 30% taxes in US but 12% in Ireland
+            They don’t pay between 30% taxes in US but 12% in Ireland.
           </item>
           <item>In order to be an Irish corporation you have to be registrated
             in Dublin and supervised in Ireland.
           </item>
             <item>On the other hand In order to be an United State corporation
-              you have to be supervised in US
+              you have to be supervised in US.
             </item>
         </list>
       </paragraph>
@@ -238,7 +238,7 @@
   </section>
 
   <section>
-    <title>Ireland says no to Brexit</title>
+    <title>Ireland Says No to Brexit</title>
     <chapter>
       <paragraph>
         The UK and Irish economies have always had a close relationship.
@@ -252,22 +252,22 @@
       <paragraph>
         <list type="ordered">
           <item>
-            ECONOMIC REASONS:
-            Ireland excange products with Great Britain for more than €50 billion each year.
+            ECONOMIC REASONS.
+            Ireland exchanges products with Great Britain for more than €50 billion each year.
             Economic and Social Research Institute said that the loss would be €10 billion
             each year for the Celtic Tiger. They also estime that Ireland’s GDP will fall
-            down between 2 and 12% in case of Brexit.
+            down between 2% and 12% in case of Brexit.
           </item>
           <item>
-            MIGRATION REASONS:
-            About 380.000 Irish people live nowadays in Great Britain. With Brexit they would
-            probably be blocked in UK and have problems with burocracy. In case of Brexit,
-            migrants coming from other countries will be redirect in Ireland instead of UK.
+            MIGRATION REASONS.
+            About 380,000 Irish people live in Great Britain nowadays. With Brexit they would
+            probably be blocked in UK and have problems with bureaucracy. In case of Brexit,
+            migrants coming from other countries will be redirect to Ireland instead of UK.
           </item>
           <item>
-            HISTORICAL REASONS:
-            Flanagan, Irish Foreign Minister, adfirmed recently that European Union had good
-            influence on Northen Ireland, it became a sort of “glue” that helped a lot this
+            HISTORICAL REASONS.
+            Flanagan, the Irish Foreign Minister, adfirmed recently that European Union had good
+            influence on Northen Ireland: it became a sort of “glue” that helped a lot this
             two regions to solve their historical conflicts in a peaceful way. Brexit, he
             says, could cause new conflicts and problems.
           </item>
@@ -307,7 +307,8 @@
   </section>
 
   <section>
-    <title>France and Italy: too big to fail?</title>
+    <title>France and Italy</title>
+    <subtitle>Too Big to Fail?</subtitle>
     <chapter>
       <paragraph>
         The European debt crisis is merely slumbering. Greek, Portuguese
@@ -359,11 +360,10 @@
 
   <section>
     <quote>
-      <author>Bloomberg.com</author>
-      <role>Economic website</role>
+      <author>bloomberg.com</author>
       <text>
         Italy and France are large modern nations, with enviable economic pedigree.
-        So they appear too big to fail...but it’s true? Reform has been difficult,
+        So they appear too big to fail... but is it true? Reform has been difficult,
         and without corrective action, their debt will increase critically and quickly.
       </text>
     </quote>
@@ -390,14 +390,15 @@
   </section>
 
   <section>
-    <title>Two good countries with lot of problems</title>
+    <title>France and Italy</title>
+    <subtitle>Two Good Countries With Lots of Problems</subtitle>
     <chapter>
       <paragraph>
         Italy and France are large modern nations, with enviable economic pedigree.
         These two countries have a well-developed infrastructure and considerable
-        economic and social capital. In addition they are major agricultural and
+        economic and social capital. In addition, they are major agricultural and
         industrial powers, strong in advanced technical products and many others
-        sectors. So they appear too big to fail...but it’s true? Italy and France
+        sectors. So they appear too big to fail... but is it true? Italy and France
         share problems of slow growth, unemployment and poor public finances.
         Reform has been difficult, and without corrective action, their debt
         will increase critically and quickly. combination of weak economy and
@@ -429,17 +430,18 @@
     </section>
 
     <section>
-      <title>Government budget</title>
+      <title>France and Italy</title>
+      <subtitle>Government Budget</subtitle>
       <chapter>
         <paragraph>
-          Government Budget is an itemized accounting of the payments received by
+          Government budget is an itemized accounting of the payments received by
           government (taxes and other fees) and the payments made by government
           (purchases and transfer payments). A budget deficit occurs when a country
           spends more money than it takes in.
         </paragraph>
       </chapter>
       <graph unit="EUR" x="date" y="number">
-        <title>Government budget 2006, 2015</title>
+        <title>Government budget, 2006-2015</title>
         <dataset label= "Italy">
           <data x="2006" y="-3.8"/>
           <data x="2007" y="-1.7"/>
@@ -484,7 +486,8 @@
     </section>
 
     <section>
-      <title>Government debt to GDP</title>
+      <title>France and Italy</title>
+      <subtitle>Government Debt to GDP</subtitle>
       <chapter>
         <paragraph>
           Generally, Government debt as a percent of Gross Domestic Product is used
@@ -493,7 +496,7 @@
         </paragraph>
       </chapter>
       <graph unit="EUR" x="date" y="number">
-        <title>Government debt to GDP 2006, 2015</title>
+        <title>Government debt to GDP, 2006-2015</title>
         <dataset label= "Italy">
           <data x="2006" y="104"/>
           <data x="2007" y="102"/>
@@ -540,17 +543,18 @@
     </section>
 
     <section>
-      <title>Unemployment rate</title>
+      <title>France and Italy</title>
+      <subtitle>Unemployment Rate</subtitle>
       <chapter>
         <paragraph>
           Percentage of total workforce who are unemployed and are looking for
-          a paid job. Unemployment rate is one of the most closely watched statistics
+          a paid job. Unemployment rate is one of the most closely-watched statistics
           because a rising rate is seen as a sign of weakening economy that may call
           for cut in interest rate. A falling rate indicates a growing economy.
         </paragraph>
       </chapter>
       <graph unit="EUR" x="date" y="number">
-        <title> Unemployment rate 2013, 2016</title>
+        <title> Unemployment rate, 2013-2016</title>
         <dataset label= "Italy">
           <data x="20150430" y="12.1"/>
           <data x="20150531" y="12.2"/>
@@ -599,7 +603,8 @@
     </section>
 
     <section>
-      <title>GDP growth rate</title>
+      <title>France and Italy</title>
+      <subtitle>GDP Growth Rate</subtitle>
       <chapter>
         <paragraph>
           GDP is the sum of gross value added by all resident producers in the economy
@@ -609,7 +614,7 @@
         </paragraph>
       </chapter>
       <graph unit="EUR" x="date" y="number">
-        <title>GDP growth rate 2013, 2016</title>
+        <title>GDP growth rate, 2013-2016</title>
         <dataset label= "Italy">
           <data x="20130131" y="-0.8"/>
           <data x="20130331" y="-0.1"/>
