@@ -95,7 +95,7 @@
           </paragraph>
         </chapter>
           <graph unit="%" x="date" y="number">
-            <title>Industrial production 2016/2020</title>
+            <title>Industrial production, 2016/2020</title>
             <dataset label="Denmark">
               <data x="2016" y="1.3"/>
               <data x="2020" y="0.5"/>
@@ -110,7 +110,7 @@
             </dataset>
           </graph>
           <graph unit="%" x="date" y="number">
-            <title>Manufacturing production 2016/2020</title>
+            <title>Manufacturing production, 2016/2020</title>
             <dataset label="Denmark">
               <data x="2016" y="3.3"/>
               <data x="2020" y="5.7"/>
@@ -125,7 +125,7 @@
             </dataset>
           </graph>
           <graph unit="%" x="date" y="number">
-            <title>Unemployment rate 2016/2020</title>
+            <title>Unemployment rate, 2016/2020</title>
             <dataset label="Denmark">
               <data x="2016" y="4.2"/>
               <data x="2020" y="4"/>
@@ -140,7 +140,7 @@
             </dataset>
           </graph>
           <graph unit="%" x="date" y="number">
-            <title>Government debt to GDP 2016/2020</title>
+            <title>Government debt to GDP, 2016/2020</title>
             <dataset label="Denmark">
               <data x="2016" y="40"/>
               <data x="2020" y="38"/>
@@ -155,7 +155,7 @@
             </dataset>
           </graph>
           <graph unit="%" x="date" y="number">
-            <title>GDP growth rate 2016/2020</title>
+            <title>GDP growth rate, 2016/2020</title>
             <dataset label="Denmark">
               <data x="2016" y="0.2"/>
               <data x="2020" y="1.1"/>
@@ -170,7 +170,7 @@
             </dataset>
           </graph>
           <graph unit="%" x="date" y="number">
-            <title>Government spending to GDP 2016/2020</title>
+            <title>Government spending to GDP, 2016/2020</title>
             <dataset label="Denmark">
               <data x="2016" y="56"/>
               <data x="2020" y="57"/>
@@ -208,7 +208,7 @@
     </section>
 
     <section>
-      <title>Again and again, Brexit</title>
+      <title>Again and Again, Brexit</title>
         <chapter>
           <paragraph>
             Iain Duncan Smith, who resigned as U.K. work and pensions secretary last week, denied accusations
@@ -305,7 +305,7 @@
         </section>
 
         <section>
-          <title>The pound weakens</title>
+          <title>The Pound Weakens</title>
             <chapter>
               <paragraph>
                 The pound sunk on renewed worries about the threat of Brexit after the Confederation of British Industry
@@ -314,7 +314,7 @@
               </paragraph>
             </chapter>
             <graph unit="USD" x="date" y="number">
-              <title>GBP | USD Change 21st Mar | 25th Mar</title>
+              <title>GBP/USD Change, March 21st—25th</title>
               <dataset label="Dollar value">
                 <data x="20160321" y="1.448"/>
                 <data x="20160322" y="1,438"/>
@@ -343,7 +343,7 @@
             </section>
 
       <section>
-        <title>Warning: a million jobs lost</title>
+        <title>Warning: A Million Jobs Lost</title>
           <chapter>
             <paragraph>
               Employment would also take a hit in the years after a Brexit, the report forecast. In the first three
@@ -379,7 +379,7 @@
             <role>Chief executive of BigBrotherWatch</role>
             <text>
               He criticized the CBI for using “deeply pessimistic” assumptions in
-              its report and said the U.K. economy would continue to expand after an exit.
+              its report and said the UK economy would continue to expand after an exit.
             </text>
           </quote>
           <keywords>
@@ -403,7 +403,7 @@
         </section>
 
         <section>
-          <title>The opposition says that CBI is too pessimistic</title>
+          <title>The Opposition Says That CBI is Too Pessimistic</title>
           <chapter>
             <paragraph>
             The main Brexit campaign group, “Vote Leave,” argues the U.K. has lost control over vital policies and
@@ -450,7 +450,7 @@
     </section>
 
     <section>
-      <title>Well, that didn’t work</title>
+      <title>Well, That Didn’t Work</title>
         <chapter>
           <paragraph>
             The BoJ and ECB recently launched some measures for currency devaluation in the sense
@@ -459,7 +459,7 @@
           </paragraph>
         </chapter>
         <chapter>
-          <title>Expectation vs Reality</title>
+          <title>Expectation vs. Reality</title>
             <paragraph>
               This was what they were hoping for: weaker currencies to boost their export and make their
               insanely-large debt more manageable. Instead, they both have popped versus the dollar, which
@@ -467,7 +467,7 @@
             </paragraph>
           </chapter>
           <graph unit="USD" x="date" y="number">
-            <title>EUR/USD exchange 14h Mar, 20 Mar</title>
+            <title>EUR/USD exchange, March 14th—20th</title>
             <dataset label="Dollar value">
               <data x="20160314" y="1.117"/>
               <data x="20160315" y="1.117"/>
@@ -479,7 +479,7 @@
             </dataset>
           </graph>
           <graph unit="USD" x="date" y="number">
-            <title>JPY/USD exchange 14th Mar | 20th Mar</title>
+            <title>JPY/USD exchange, March 14th—20th</title>
             <dataset label="Dollar value">
               <data x="20160314" y="0.00881"/>
               <data x="20160315" y="0.00881"/>
