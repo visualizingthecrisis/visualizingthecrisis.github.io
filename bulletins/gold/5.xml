@@ -13,7 +13,7 @@
         <title>Gold price</title>
         <subtitle>Week 13</subtitle>
         <graph unit="USD/oz" x="date" y="number"> 		          <!--[0-N]-->
-          <dataset label= "Gold price">                           	<!--[1-N]-->
+          <dataset>                           	<!--[1-N]-->
             <data x="20160328" y="1,222"/>
             <data x="20160329" y="1,239"/>
             <data x="20160330" y="1,235"/>
@@ -61,7 +61,6 @@
        </paragraph>
        </chapter>
        <keywords>                                                      <!--[ 1 ]-->
-         <keyword name=">Unconventional Monetary Policies" />
          <keyword name="Currencies" />
          <keyword name="Investments" />
          <keyword name="Gold" />                                    <!--[1-N]-->
@@ -101,7 +100,7 @@
        </sources>                                                                   <!--[0-N]-->
       </section>
       <section>                                                         <!--[1-N]-->
-       <title>The different strategies of the central banks caused uncertainty.</title>
+       <title>The different strategies of the central banks caused uncertainty</title>
        <chapter>
          <paragraph>The different strategies of the central banks caused uncertainty.
             The Fed with positive interest rates, caused a sudden collapse of the dollar
@@ -246,12 +245,7 @@
          <source>trasparency.org</source>
          <source>chinafile.com</source>
        </sources>                                                                   <!--[0-N]-->
-      </section>
-      <section>
-        <quote>
-          <author>Bloomberg News </author>
-          <text>According to analysts, such a crisis is in all respects comparable to the one that struck the United States in 1929.</text>
-        </quote>                                                       <!--[1-N]-->
+      </section>                                                    <!--[1-N]-->
        <title>If Chinese bubble burst? </title>
        <chapter>                                                   <!--[0-N]-->
          <paragraph>Temporary crisis or the bursting of a speculative bubble?
@@ -265,28 +259,15 @@
            convergence that will hit all of them with regard to Asian and South East Asian markets is very high.
          </paragraph>
          </chapter>
-         <graph unit="%" x="date" y="number">
-           <title>Chinese GDP go down</title>
-           <dataset label= "GDP variation">                           	<!--[1-N]-->
-             <data x="2007" y="14.2"/>
-             <data x="2008" y="9.6"/>
-             <data x="2009" y="9.2"/>
-             <data x="2010" y="10.4"/>
-             <data x="2011" y="9.3"/>
-             <data x="2012" y="7.8"/>
-             <data x="2013" y="7.7"/>
-             <data x="2014" y="7.4"/>
-             <data x="2015" y="6.9"/>
-           </dataset>
-         </graph>                                                           <!--[0-N]-->                                                       <!--[1-N]-->
-       <title>Why China buys all this gold?</title>
-       <chapter>                                                   <!--[0-N]-->
-         <paragraph></paragraph>
-         </chapter>
-         <graph unit="Tons" x="date" y="number">
+         <quote>
+           <author>Bloomberg News </author>
+           <text>According to analysts, such a crisis is in all respects comparable to the one that struck the United States in 1929.</text>
+         </quote>   
+       <section>                                                      <!--[1-N]-->
            <title>Chinese GDP collapses, instead gold reserves increase</title>
            <abstract>China wants become part of the basket of currencies SDR of the IMF,
              or China aims to become a real alternative to the IMF?</abstract>
+          <graph unit="millions of tons" x="date" y="number">
            <dataset label= "Gold reserve">
              <data x="2007" y="235"/>
              <data x="2008" y="250"/>
@@ -299,6 +280,19 @@
              <data x="2015" y="465"/>
            </dataset>
           </graph>
+          <graph unit="%" x="date" y="number">
+           <dataset label= "Chinese GDP">                           	<!--[1-N]-->
+             <data x="2007" y="14.2"/>
+             <data x="2008" y="9.6"/>
+             <data x="2009" y="9.2"/>
+             <data x="2010" y="10.4"/>
+             <data x="2011" y="9.3"/>
+             <data x="2012" y="7.8"/>
+             <data x="2013" y="7.7"/>
+             <data x="2014" y="7.4"/>
+             <data x="2015" y="6.9"/>
+           </dataset>
+         </graph> 
           <keywords>                                                      <!--[ 1 ]-->
             <keyword name="GDP"/><keyword name="Gold"/>
             <keyword name="Investments"/>
