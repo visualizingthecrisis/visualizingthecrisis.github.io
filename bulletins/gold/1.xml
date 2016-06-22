@@ -16,7 +16,7 @@
           Conversely, if the value of the dollar decreases, the price of gold goes up.
         </abstract>
         <graph unit="$/Kg" x="date" y="number">
-          <dataset>
+          <dataset label="Gold">
             <data x= "20160201" y="37,000"/>
             <data x= "20160202" y="37,100"/>
             <data x= "20160203" y="37,600"/>
@@ -307,7 +307,7 @@
         </chapter>
         <graph unit= "Tons" x="Country" y="number">
           <title>Major gold's holders and producers</title>
-          <dataset label="Gold">
+          <dataset>
             <data x= "China" y="450,000"/>
             <data x= "Australia" y="270,000"/>
             <data x= "Russia" y="254,000"/>
@@ -378,7 +378,7 @@
         <title>Gold price</title>
         <subtitle>Week 09</subtitle>
         <graph unit="$/oz" x="date" y="number">
-          <dataset label= "Gold price">
+          <dataset>
               <data x= "20160229" y="1,240"/>
               <data x= "20160301" y="1,232"/>
               <data x= "20160302" y="1,241"/>
