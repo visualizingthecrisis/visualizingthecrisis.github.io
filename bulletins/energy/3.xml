@@ -311,27 +311,15 @@
           </dataset>
         </graph>
 
-        <chapter>
-          <paragraph>
-          <list type="unordered">
-            <item>A coal</item>
-            <item>B nuclear</item>
-            <item>C oil</item>
-            <item>D renewables</item>
-            <item>E natural gas</item>
-          </list>
-         </paragraph>
-        </chapter>
-
         <graph unit="%" x="string" y="percentage">
           <title>Japan’s proposed energetic power by 2030</title>
           <abstract>Percentuage of energetic power by 2030.</abstract>
           <dataset label= "Energy power">
-            <data x="A" y="26"/>
-            <data x="B" y="20"/>
-            <data x="C" y="3"/>
-            <data x="D" y="24"/>
-            <data x="E" y="27"/>
+            <data x="Coal" y="26"/>
+            <data x="Nuclear" y="20"/>
+            <data x="Oil" y="3"/>
+            <data x="Renewables" y="24"/>
+            <data x="Natural Gas" y="27"/>
           </dataset>
         </graph>
 
