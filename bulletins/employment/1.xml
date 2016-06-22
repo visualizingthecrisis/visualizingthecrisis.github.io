@@ -119,7 +119,7 @@
     <section>                                                               <!--4-->
       <title>Italian Jobs Are Getting Smarter</title>
       <chapter>
-        <paragraph>Even if Italy is one of the last countries in the DESI 2016 ranking (DESI: “Digital Economy and Society Index”): it summarises relevant indicators on Europe’s digital performance), the use of file sharing and instant messaging tools is gradually spreading between italian workers.</paragraph>
+        <paragraph>Even if Italy is one of the last countries in the DESI 2016 ranking (DESI: “Digital Economy and Society Index”: it summarises relevant indicators on Europe’s digital performance), the use of file sharing and instant messaging tools is gradually spreading between italian workers.</paragraph>
         <paragraph>The most used communication tools are those of instant messaging and VoIP: they represent the real revolution, reducing time, allowing the connection of people and the sharing of interests and knowledge.</paragraph>
       </chapter>
       <graph unit="%" x="string" y="number">
