@@ -125,22 +125,13 @@
           </row>
         </table>
 
-      <chapter>
-        <paragraph>
-        <list type="unordered">
-          <item>A Coal and Gas</item>
-          <item>B Renewables</item>
-        </list>
-       </paragraph>
-      </chapter>
-
         <graph unit="%" x="string" y="percentage">
           <title>Production energy capacity in North America</title>
           <abstract>Percentuage of production renewable energy capacity overcomes the non renewable one.</abstract>
           <dataset label= "Coal and Gas">
           <dataset label= "Renewables">
-            <data x="A" y="30"/>
-            <data x="B" y="70"/>
+            <data x="Coal and Gas" y="30"/>
+            <data x="Renewables" y="70"/>
           </dataset>
           </dataset>
         </graph>
