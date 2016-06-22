@@ -50,35 +50,35 @@
         </graph>
         <graph unit= "$" x="date" y="number">
           <dataset label="Dollar">
-            <data x= "20160201" y="1,056"/>
-            <data x= "20160202" y="1,068"/>
-            <data x= "20160203" y="1,104"/>
-            <data x= "20160204" y="1,124"/>
-            <data x= "20160205" y="1,128"/>
-            <data x= "20160206" y="1,104"/>
-            <data x= "20160207" y="110"/>
-            <data x= "20160208" y="1,094"/>
-            <data x= "20160209" y="1,082"/>
-            <data x= "20160210" y="107"/>
-            <data x= "20160211" y="106"/>
-            <data x= "20160212" y="1,072"/>
-            <data x= "20160213" y="1,082"/>
-            <data x= "20160214" y="1,106"/>
-            <data x= "20160215" y="1,098"/>
-            <data x= "20160216" y="111"/>
-            <data x= "20160217" y="112"/>
-            <data x= "20160218" y="1,114"/>
-            <data x= "20160219" y="1,104"/>
-            <data x= "20160220" y="1,106"/>
-            <data x= "20160221" y="1,134"/>
-            <data x= "20160222" y="1,138"/>
-            <data x= "20160223" y="1,136"/>
-            <data x= "20160224" y="1,142"/>
-            <data x= "20160225" y="1,122"/>
-            <data x= "20160226" y="1,122"/>
-            <data x= "20160227" y="113"/>
-            <data x= "20160228" y="1,112"/>
-            <data x= "20160229" y="1,132"/>
+            <data x= "20160201" y="1.056"/>
+            <data x= "20160202" y="1.068"/>
+            <data x= "20160203" y="1.104"/>
+            <data x= "20160204" y="1.124"/>
+            <data x= "20160205" y="1.128"/>
+            <data x= "20160206" y="1.104"/>
+            <data x= "20160207" y="1.10"/>
+            <data x= "20160208" y="1.094"/>
+            <data x= "20160209" y="1.082"/>
+            <data x= "20160210" y="1.07"/>
+            <data x= "20160211" y="1.06"/>
+            <data x= "20160212" y="1.072"/>
+            <data x= "20160213" y="1.082"/>
+            <data x= "20160214" y="1.106"/>
+            <data x= "20160215" y="1.098"/>
+            <data x= "20160216" y="1.11"/>
+            <data x= "20160217" y="1.12"/>
+            <data x= "20160218" y="1.114"/>
+            <data x= "20160219" y="1.104"/>
+            <data x= "20160220" y="1.106"/>
+            <data x= "20160221" y="1.134"/>
+            <data x= "20160222" y="1.138"/>
+            <data x= "20160223" y="1.136"/>
+            <data x= "20160224" y="1.142"/>
+            <data x= "20160225" y="1.122"/>
+            <data x= "20160226" y="1.122"/>
+            <data x= "20160227" y="1.13"/>
+            <data x= "20160228" y="1.112"/>
+            <data x= "20160229" y="1.132"/>
            </dataset>
         </graph>
         <keywords>
@@ -105,7 +105,7 @@
         </chapter>
         <graph x="data" y="number">
               <title>US inflation's historical graph</title>
-              <dataset label="US inflation">
+              <dataset">
                  <data x= "1926" y="200"/>
                  <data x= "1935" y="200"/>
                  <data x= "1944" y="200"/>
@@ -121,7 +121,7 @@
               </graph>
         <graph x="data" y="number">
           <title>Gold price's historical graph</title>
-          <dataset label="Gold price">
+          <dataset>
             <data x= "1926" y="200"/>
             <data x= "1935" y="200"/>
             <data x= "1944" y="250"/>
@@ -143,14 +143,14 @@
         </sources>
       </section>
       <section>
-        <title>The US doesn’t love gold</title>
+        <title>The US don’t love gold</title>
         <abstract>
           USA is one of the most important players on the gold market, but it is “anti-gold”.
           Gold is often ignored, denigrated and
           considered unnecessary.</abstract>
         <graph unit= "Metric tons" x="date" y="number">
               <title>Gold US export</title>
-              <dataset label="Gold export">
+              <dataset>
                 <data x= "2010" y="383"/>
                 <data x= "2011" y="664"/>
                 <data x= "2012" y="695"/>
@@ -161,7 +161,7 @@
           </graph>
         <graph unit= "Metric tons" x="date" y="number">
               <title>Gold US export</title>
-              <dataset label="Gold import">
+              <dataset>
                 <data x= "2010" y="203"/>
                 <data x= "2011" y="356"/>
                 <data x= "2012" y="354"/>
@@ -171,8 +171,8 @@
               </dataset>
           </graph>
         <graph unit= "Metric tons" x="date" y="number">
-          <title>Gold US export</title>
-          <dataset label="Gold consumption">
+          <title>Gold US consumption</title>
+          <dataset>
                 <data x= "2010" y="180"/>
                 <data x= "2011" y="168"/>
                 <data x= "2012" y="147"/>
