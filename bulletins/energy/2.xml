@@ -101,21 +101,12 @@
         </dataset>
       </graph>
 
-    <chapter>
-      <paragraph>
-      <list type="unordered">
-        <item>A Water polluted chemicals</item>
-        <item>B Facturing fluid recovered</item>
-      </list>
-     </paragraph>
-    </chapter>
-
       <graph unit="%" x="String" y="percentage">
         <title>Pollution of water</title>
         <abstract>64% of water is polluted by chemicals because of fracking.</abstract>
         <dataset label= "Index data">
-          <data x="A" y="64" />
-          <data x="B" y="36" />
+          <data x="Water polluted chemicals" y="64" />
+          <data x="Facturing fluid recovered" y="36" />
         </dataset>
      </graph>
 
