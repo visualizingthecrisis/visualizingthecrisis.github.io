@@ -529,33 +529,45 @@
    <table>
      <row type="head">
        <cell>Number of workers by market</cell>
-       <cell>May 2013</cell>
-       <cell>November 2013</cell>
-       <cell>May 2014</cell>
-       <cell>November 2014</cell>
-       <cell>May 2015</cell>
-       <cell>November 2015</cell>
-     </row>
-
-     <row type="cell">
        <cell>Gas extraction</cell>
-       <cell>190.000</cell>
-       <cell>190.000</cell>
-       <cell>195.000</cell>
-       <cell>198.000</cell>
-       <cell>200.000</cell>
-       <cell>200.000</cell>
-     </row>
-
-     <row type="cell">
        <cell>Oil extraction</cell>
-       <cell>193.000</cell>
-       <cell>193.000</cell>
-       <cell>197.000</cell>
-       <cell>210.000</cell>
-       <cell>194.000</cell>
-       <cell>186.000</cell>
      </row>
+     
+     <row type="cell">
+       <cell>May 2013</cell>
+       <cell>190 k</cell>
+       <cell>193 k</cell>
+      </row>
+      
+      <row type="cell">
+       <cell>November 2013</cell>
+       <cell>190 k</cell>
+       <cell>193 k</cell>
+      </row>
+      
+      <row type="cell">
+       <cell>May 2014</cell>
+       <cell>195 k</cell>
+       <cell>197 k</cell>
+      </row>
+      
+      <row type="cell">
+       <cell>November 2014</cell>
+       <cell>198 k</cell>
+       <cell>210 k</cell>
+      </row>
+      
+      <row type="cell">
+       <cell>May 2015</cell>
+       <cell>200 k</cell>
+       <cell>194 k</cell>
+      </row>
+      
+      <row type="cell">
+       <cell>November 2015</cell>
+       <cell>200 k</cell>
+       <cell>186 k</cell>
+      </row>
    </table>
 
    <chapter>
