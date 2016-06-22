@@ -158,7 +158,6 @@
         <chapter>
           <title>Origins</title>
           <paragraph>CO2 emissions originate almost for 90% from fossil-fuel combustion and are determined by human and natural factors.</paragraph>
-
         </chapter>
 
         <graph unit="%" x="string" y="percentage">
@@ -320,22 +319,15 @@
       <title>Zero-carbon transatlantic flight using 100% renewable energy</title>
       <chapter>
         <title>index green fuel</title>
-        <paragraph>
-        <list type="unordered">
-          <item>A Wind mounted solar power</item>
-          <item>B Algea derived biofuels</item>
-          <item>C Wind Current</item>
-        </list>
-       </paragraph>
       </chapter>
 
       <graph unit="%" x="string" y="percentage">
         <title>Project using renewable power</title>
         <abstract> Raphael Dinelli is the first scientist who completes the zero-carbon trans-Atlantic flight with a plane powered by solar energy and biofuels.</abstract>
         <dataset label= "100% green fuel">
-          <data x="A" y="25" />
-          <data x="B" y="55" />
-          <data x="C" y="20" />
+          <data x="Wind mounted solar power" y="25" />
+          <data x="Algea derived biofuels" y="55" />
+          <data x="Wind Current" y="20" />
         </dataset>
       </graph>
       <keywords>
