@@ -10,11 +10,11 @@
       <sections>
 
   <section>
-    <title>Eurozone is flying on one engine, says Standard &amp; Poor's</title>
+    <title>Eurozone Is Flying on One Engine, Says Standard &amp; Poor's</title>
       <chapter>
         <paragraph>
-          The Euro zone economy is “flying on one engine” according to the ratings agency Standard &amp; Poor’s,
-          which trimmed its growth and inflation forecasts for the Euro zone. In his latest report the rating angency
+          The Eurozone economy is “flying on one engine” according to the ratings agency Standard&amp;Poor’s,
+          which trimmed its growth and inflation forecasts for the Eurozone. In his latest report the rating angency
           decided to cut GDP growth projection for Europe, against the forecasts they did in November, but they says
           also there are some reasons to hope that the economy will pick up altitude, a “pre-crisis flight path” of
           robust growth is not likely.
@@ -22,9 +22,8 @@
       </chapter>
       <quote>
         <author>Jean-Michel Six</author>
-        <role>Standard&amp;Poor's Chief</role>
-        <text>Standard&amp;Poor's Chief European Economist Jean-Michel Six says that Europe must balance out export trade
-        slowdown with domestic consumption growth. The risk is zero growth for European economy in 2017.</text>
+        <role>Standard&amp;Poor’s Chief</role>
+        <text>Europe must balance out export trade slowdown with domestic consumption growth. The risk is zero growth for European economy in 2017.</text>
       </quote>
       <graph unit="%" x="country" y="number">
         <title>Standard&amp;Poor’s forecasts</title>
@@ -69,15 +68,15 @@
     </section>
 
     <section>
-      <title>European export trades are having some trouble...</title>
+      <title>European Export Trades Are Having Some Trouble...</title>
         <chapter>
           <paragraph>
-            The main causes are geopolitical and economic problems of trade parters: Russia and Middle East
-            have political conflicts, Brasil has structural weakness, China saw in 2015 economic slowdown.
+            The main causes are geopolitical and economic problems of trade partners: Russia and Middle East
+            have political conflicts, Brasil has structural weakness, China saw economic slowdown in 2015.
           </paragraph>
         </chapter>
         <graph unit="%" x="country" y="number">
-          <title>Top European trade partners - Export 2014, 2016</title>
+          <title>Top European trade partners, 2014—2016</title>
           <dataset label="Export rate">
             <data x="US" y="+2.5"/>
             <data x="KR" y="+0.1"/>
@@ -89,7 +88,7 @@
           </dataset>
         </graph>
         <graph unit="USD" x="country" y="number">
-          <title>The countries hardest hitten by Russia’s trade ban</title>
+          <title>Countries hitten hardest by Russia’s trade ban</title>
           <dataset label="Value of losses">
             <data x="PL" y="1,090,000,000"/>
             <data x="NO" y="1,080,000,000"/>
@@ -125,16 +124,16 @@
       </section>
 
       <section>
-        <title>...But there is still hope</title>
+        <title>...But There Is Still Hope</title>
           <chapter>
             <paragraph>
               To balance trade loss with other countries, EU has to increase domestic consumptions: that could be done only with
-              the decrease of unemployment.Nowadays the situation in Europe is getting better in this respect.
+              the decrease of unemployment. Nowadays the situation in Europe is getting better in this respect.
             </paragraph>
           </chapter>
           <graph unit="%" x="date" y="number">
-            <title>Employment in EU 2012, 2016</title>
-            <dataset label="Employment">
+            <title>Employment in EU, 2012—2016</title>
+            <dataset label="Employment rate">
               <data x="2012" y="90"/>
               <data x="2014" y="90.4"/>
               <data x="2016" y="91.4"/>
@@ -162,7 +161,7 @@
         </section>
 
         <section>
-          <title>Well, it works</title>
+          <title>Well, It Works</title>
             <chapter>
               <paragraph>
                 Since 2013, Germany tried to balance export trade loss with the increase of domestic consumption.
@@ -188,7 +187,7 @@
             </graph>
               <graph unit="%" x="date" y="number">
                 <title>GDP is still going up...</title>
-                <abstract>German GDP/Employment rate 2008, 2016</abstract>
+                <abstract>German GDP/Employment rate, 2008—2016</abstract>
                 <dataset label="GDP">
                   <data x="2008" y="1"/>
                   <data x="2012" y="0.2"/>
@@ -202,7 +201,7 @@
               </graph>
           <graph unit="%" x="country" y="number">
             <title>...even if export is going down</title>
-            <abstract>DEU trade partners 2014, 2015</abstract>
+            <abstract>Germany trade partners, 2014—2015</abstract>
             <dataset label="DE">
               <data x="US" y="18.7"/>
               <data x="RU" y="-25.5"/>
@@ -214,7 +213,7 @@
             </dataset>
           </graph>
           <graph unit="%" x="date" y="number">
-            <title>German exportation 2003, 2016</title>
+            <title>German exports, 2003—2015</title>
             <dataset label="Emerging_economies">
               <data x="2003" y="100"/>
               <data x="2015" y="100"/>
@@ -247,7 +246,7 @@
       </section>
 
       <section>
-        <title>UK data are worrying</title>
+        <title>UK Data Are Worrying</title>
         <chapter>
             <paragraph>
               The argument is that as the British economy recovers faster than its neighbours economies,
@@ -257,8 +256,7 @@
             </paragraph>
           </chapter>
           <quote>
-          <author>Office of National Statistics</author>
-          <role>UK Statistics agency</role>
+          <author>UK Office of National Statistics</author>
           <text>The ONS has just announced the highest Current Account deficit on record for the British economy,
           at 5.2% of annual GDP (7.0% in the last quarter of 2015).</text>
         </quote>
@@ -272,7 +270,7 @@
               to the value of imports.
             </paragraph>
             </chapter>
-            <graph unit="USD" x="string" y="number">
+            <graph unit="£" x="string" y="number">
               <title>UK import/export value in £ billion</title>
               <dataset label="Values by typology ">
                 <data x="Import" y="44,845,000,000,000"/>
@@ -305,7 +303,7 @@
           </section>
 
           <section>
-            <title>A real vision of the problem</title>
+            <title>A Real Vision of the Problem</title>
               <chapter>
                 <paragraph>
                   This diagram wants to representing a view of United Kingdom’s balance of trade value,
@@ -313,7 +311,7 @@
                   to strangers countries are too high, and profits aren’t enough to cover them.
                 </paragraph>
               </chapter>
-              <graph unit="USD" x="date" y="number">
+              <graph unit="£" x="date" y="number">
                 <title>UK import/export value in £ billion</title>
                 <dataset label="UK current account value">
                   <data x="1960" y="0"/>
@@ -467,10 +465,10 @@
             </section>
 
             <section>
-              <title>The World still loves the Dollar</title>
+              <title>The World Still Loves the Dollar</title>
                 <chapter>
                   <paragraph>
-                    The U.S. dollar continued to be the world’s favorite reserve currency in 2015,
+                    The US dollar continued to be the world’s favorite reserve currency in 2015,
                     while the Euro’s share of reserves fell to its lowest level since 2002. The
                     data, known as Cofer for Currency Composition of Official Foreign Exchange Reserves,
                     is released on the last business day of every quarter with a three-month lag.
