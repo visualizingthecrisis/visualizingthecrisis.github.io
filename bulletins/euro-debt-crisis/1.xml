@@ -10,9 +10,9 @@
     <sections>
 
   <section>
-    <title>Germany's conspiracy</title>
-    <abstract>Germany lays the foundations for a new debt crisis in Europe
-      So, now we see which are this proposals from germany e Euro survival.</abstract>
+    <title>Germany’s Conspiracy</title>
+    <abstract>In recent weeks, Germany has put forward two proposals for the ‘future viability’ of the
+        EMU that, if approved, would radically alter the nature of the currency union. For the worse.</abstract>
     <quote>
         <author>Yves Smith</author>
         <role>Journalist</role>
@@ -20,19 +20,18 @@
         </text>
     </quote>
     <chapter>
-      <paragraph>In recent weeks, Germany has put forward two proposals for the ‘future viability’ of the
-        EMU that, if approved, would radically alter the nature of the currency union. For the worse.
+      <paragraph>Germany lays the foundations for a new debt crisis in Europe. Here are its proposals. 
       </paragraph>
     </chapter>
     <chapter>
-      <title>Proposal 1 - Promoters</title>
+      <title>Proposal 1 — Promoters</title>
       <paragraph>
         Schäuble, members of the CDU party and governors of the German and French central banks,
         Jens Weidmann and François Villeroy de Galhau.
       </paragraph>
     </chapter>
     <chapter>
-      <title>Proposal 1 - Actions</title>
+      <title>Proposal 1 — Actions</title>
       <paragraph>
         <list type="ordered">
           <item>Creation of a “Eurozone finance ministry”;</item>
@@ -41,14 +40,14 @@
       </paragraph>
     </chapter>
     <chapter>
-      <title>Proposal 2 - Promoters</title>
+      <title>Proposal 2 — Promoters</title>
       <paragraph>
         German Council of Economic Experts (GCEE), with backing of the Bundesbank,
         the German finance minister Wolfgang Schäuble and Draghi.
       </paragraph>
     </chapter>
     <chapter>
-      <title>Proposal 2 - Actions</title>
+      <title>Proposal 2 — Actions</title>
       <paragraph>
         <list type="ordered">
           <item>Government bond value would be “weighted” according to the “sovereign default risk”
@@ -104,10 +103,11 @@
   </section>
 
   <section>
-    <title>A little overview on italian's debt</title>
+    <title>Italian debt</title>
+    <subtitle>A little overview</subtitle>
     <graph unit="EUR" x="string" y="number">
       <title>Debt/banking situation in Italy</title>
-      <abstract>Total amount of italian debt is 2,169 billions €</abstract>
+      <abstract>Total amount of Italian debt is €2,169 billions</abstract>
       <dataset label="Italian debt quota">
         <data x="italian banks" y="400,000,000,000"/>
         <data x="other investors" y="1,769,000,000,000"/>
@@ -166,7 +166,7 @@
     <list type="ordered">
     <item>UE wants to create a ECB banking and that banks
       save themsalves without taxpayer money.</item>
-    <item>Uk banks were the first to fall after US financial crisis,
+    <item>UK banks were the first to fall after US financial crisis,
       so banks don’t want to apply this new ECB decisions.</item>
     <item>EU decided to add more taxes on billion capital exchanges,
       they will use this money for important comunitarian projects.</item>
@@ -195,7 +195,8 @@
 </section>
 
 <section>
-  <title>Brexit trade impact scenarios</title>
+  <title>Brexit</title>
+  <subtitle>Trade impact scenarios</subtitle>
     <chapter>
       <paragraph>
         During negotiations between the European Council and the UK, leaders discussed a
@@ -204,11 +205,11 @@
       </paragraph>
       <paragraph>
         <list type="ordered">
-          <item>SOFT EXIT: UK can continue to trade with other European countries;</item>
-          <item>DEEP CUT: UK can continue to trade with other European countries, but customs would be restored;</item>
-          <item>ISOLATION; UK cannot continue to trade with other European countries;</item>
-          <item>NO MORE TAXES TO PAY TO EU: with Brexit UK would not pay more taxes to EU;</item>
-          <item>POSSIBLE NEW FREE TRADE: UK probably begins new trade with other world countries, as India and Australia.</item>
+          <item>SOFT EXIT. UK can continue to trade with other European countries;</item>
+          <item>DEEP CUT. UK can continue to trade with other European countries, but customs would be restored;</item>
+          <item>ISOLATION. UK cannot continue to trade with other European countries;</item>
+          <item>NO MORE TAXES TO PAY TO EU. With Brexit UK would not pay more taxes to EU;</item>
+          <item>POSSIBLE NEW FREE TRADE. UK probably begins new trade with other world countries, as India and Australia.</item>
         </list>
       </paragraph>
     </chapter>
@@ -279,16 +280,16 @@
     </paragraph>
   </chapter>
   <graph unit="%" x="date" y="number">
-  <title>Pound overview 1 Dec, 3 Mar</title>
-  <dataset label="Pound value">
+  <title>Pound value, December 1st—March 3rd</title>
+  <dataset label="">
     <data x="20151231" y="1.53"/>
     <data x="20160229" y="1.38"/>
     <data x="20160303" y="1.41"/>
    </dataset>
 </graph>
 <graph unit="%" x="date" y="number">
-<title>Pound overview 28 Feb, 3 Mar</title>
-<dataset label="Pound value">
+<title>Pound value February 28th—March 3rd</title>
+<dataset label="">
   <data x="20160229" y="1.383"/>
   <data x="20160302" y="1.411"/>
   <data x="20160303" y="1.409"/>
