@@ -10,7 +10,7 @@
   <bullettin id="08" date="20160430">
     <sections>
       <section>
-        <title>The fake of Rai gold coins. Supplier prize? Etrurian Bank</title>
+        <title>The fake of Rai gold coins. Supplier price? Etrurian Bank</title>
         <chapter>
           <paragraph>
           The case raised by the complaint of a winner of the "Red or Black" program,
@@ -234,27 +234,27 @@
             </graph>
             <graph unit= "%" x="string" y="number">
                 <title>Performance of currencies of 2015</title>
-                <dataset label="Gold price">
+                <dataset>
                   <data x= "Bitcoin" y="35"/>
-                  <data x= "Israel" y="0.3"/>
-                  <data x= "Japan" y="0"/>
-                  <data x= "Switzerland" y="0"/>
-                  <data x= "China" y="-4.2"/>
-                  <data x= "India" y="-4.5"/>
-                  <data x= "Great Britain" y="-5.9"/>
-                  <data x= "Gold" y="-10"/>
-                  <data x= "Australia" y="-10.2"/>
-                  <data x= "European Union" y="-10.9"/>
-                  <data x= "Silver" y="-11"/>
-                  <data x= "New Zeland" y="-12.3"/>
-                  <data x= "Norwey" y="-14.7"/>
-                  <data x= "Canada" y="-15.9"/>
-                  <data x= "Mexico" y="-17.6"/>
-                  <data x= "Russia" y="-20.8"/>
-                  <data x= "South Africa" y="-26.7"/>
-                  <data x= "Argentina" y="-28.8"/>
-                  <data x= "Brazil" y="-30.5"/>
-                  <data x= "Ukraine" y="-33.8"/>
+                  <data x= "Israel currency" y="0.3"/>
+                  <data x= "Japan currency" y="0"/>
+                  <data x= "Switzerland currency" y="0"/>
+                  <data x= "China currency" y="-4.2"/>
+                  <data x= "India currency" y="-4.5"/>
+                  <data x= "Great Britain currency" y="-5.9"/>
+                  <data x= "Gold currency" y="-10"/>
+                  <data x= "Australia currency" y="-10.2"/>
+                  <data x= "European Union currency" y="-10.9"/>
+                  <data x= "Silver currency" y="-11"/>
+                  <data x= "New Zeland currency" y="-12.3"/>
+                  <data x= "Norwey currency" y="-14.7"/>
+                  <data x= "Canada currency" y="-15.9"/>
+                  <data x= "Mexico currency" y="-17.6"/>
+                  <data x= "Russia currency" y="-20.8"/>
+                  <data x= "South Africa currency" y="-26.7"/>
+                  <data x= "Argentina currency" y="-28.8"/>
+                  <data x= "Brazil currency" y="-30.5"/>
+                  <data x= "Ukraine currency" y="-33.8"/>
                 </dataset>
             </graph>
           <keywords>
