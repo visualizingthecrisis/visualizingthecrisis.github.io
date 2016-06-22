@@ -1098,13 +1098,19 @@
         <role>NAHB’s director of economic services</role>
         <text>We call it the “Great Delay.”</text>
       </quote>
-      <graph unit="%" x="string" y="percentage">
+      <chapter>
         <title>Percentage of Millennials who live at home</title>
-        <dataset label= "UK">
+      </chapter>
+      <graph unit="%" x="string" y="percentage">
+        <title>UK</title>
+        <dataset label="">
           <data x="Millennials who live at home" y="25.4" />
           <data x="Millennials who don't" y="74.6" />
         </dataset>
-        <dataset label="US">
+        </graph>
+        <graph>
+          <title>US</title>
+        <dataset label="">
           <data x="Millennials who live at home" y="20" />
           <data x="Millennials who don't" y="80" />
         </dataset>
