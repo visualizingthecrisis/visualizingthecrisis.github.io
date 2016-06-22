@@ -271,12 +271,12 @@
       <title>World Nuclear Capacity after Chernobyl</title>
       <abstract>Usa has the biggest nuclear capacity.</abstract>
       <dataset label= "Nuclear capacity">
-        <data x="A" y="34.2"/>
-        <data x="B" y="28.6"/>
-        <data x="C" y="4.5"/>
-        <data x="D" y="9.9"/>
-        <data x="E" y="13.9"/>
-        <data x="F" y="8.8"/>
+        <data x="US" y="34.2"/>
+        <data x="FR/DE/GB" y="28.6"/>
+        <data x="UA" y="4.5"/>
+        <data x="CN" y="9.9"/>
+        <data x="JP" y="13.9"/>
+        <data x="RU" y="8.8"/>
         </dataset>
      </graph>
 
