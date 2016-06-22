@@ -158,14 +158,7 @@
         <chapter>
           <title>Origins</title>
           <paragraph>CO2 emissions originate almost for 90% from fossil-fuel combustion and are determined by human and natural factors.</paragraph>
-            <paragraph>
-            <list type="unordered">
-              <item>A Natural factors</item>
-              <item>B Fossil fuel</item>
-              <item>C Coal fired</item>
-              <item>D Industrial combustion</item>
-            </list>
-           </paragraph>
+
         </chapter>
 
         <graph unit="%" x="string" y="percentage">
@@ -175,10 +168,10 @@
           <dataset label= "Fossil fuel">
           <dataset label= "Coal fired">
           <dataset label= "Industrial combustion">
-            <data x="A" y="10"/>
-            <data x="B" y="45"/>
-            <data x="C" y="29"/>
-            <data x="D" y="16"/>
+            <data x="Natural factors" y="10"/>
+            <data x="Fossil fue" y="45"/>
+            <data x="Coal fired" y="29"/>
+            <data x="Industrial combustion" y="16"/>
           </dataset>
           </dataset>
           </dataset>
