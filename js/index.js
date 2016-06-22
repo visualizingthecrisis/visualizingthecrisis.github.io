@@ -38,7 +38,7 @@ $(window).load(function(){
     $("#sidebar").append($("<button onclick='showSearchPanel()'>CHANGE</button>"));
     $("#sidebar").append($("#sources"));
     $("#sidebar").append($("#authors"));
-    $("body").scrollTop();
+    window.scrollTo(0,0);
     preDownload();
 
     $.get('keywords.xml', function(d){
@@ -53,12 +53,10 @@ $(window).load(function(){
         for(var k=0;k<keywords.length;k++){
           var $area_element=$("<div class='area-element'></div>");
           $ar.append($area_element);
-
           var $keyword=$(keywords[k]);
           var txt=$keyword.text();
           if(txt.indexOf("(")>0){
             txt=txt.substr(0,txt.indexOf("("));
-
           }
           $area_element.append("<input type='checkbox' name='"+$keyword.text()+"' value='"+$keyword.text()+"'>"+txt+"<br>");
         }
@@ -66,8 +64,8 @@ $(window).load(function(){
       /*var container = document.querySelector('#bulletin-container');
       masonry = new Masonry(container, {
         itemSelector: '.section'});*/
-      });
-       });
+    });
+  });
  });
 
  function showSearchPanel(){
@@ -114,24 +112,21 @@ $(window).load(function(){
              parse(i+1);
            },
            success: function(xml){
-           //  $("#bulletin-container").append('<div style="display:block;width:100%;background-color:black;color:white;">'+paths[i]+'</div>');
-             console.log('processing: '+paths[i]);
-           //  processXML(xml);
-             var sections=$(xml).find('section');
-             for(var s=0;s<sections.length;s++){
-               var authors=$(sections[s]).parent().parent().parent().find('authors').first().clone();
-               $(sections[s]).append(authors);
-               $all.append(sections[s]);
-             }
-             parse(i+1);
+              console.log('processing: '+paths[i]);
+              var sections=$(xml).find('section');
+              for(var s=0;s<sections.length;s++){
+                var authors=$(sections[s]).parent().parent().parent().find('authors').first().clone();
+                $(sections[s]).append(authors);
+                $all.append(sections[s]);
+              }
+              parse(i+1);
            }
          });
        }
        else{
-         //  console.log($all.html());
-
-
-
+         $("#bulletin-container").empty();
+         $("#bulletin-header").empty();
+         $("#bulletin-footer").empty();
          $("#sidebar").empty();
          processXML($all,filters,15);
          $("#sidebar").append($(".main-info"));
@@ -139,17 +134,8 @@ $(window).load(function(){
          $("#sidebar").append($("#sources"));
          $("#sidebar").append($("#authors"));
          window.scrollTo(0,0);
-
-         // $(".footer-section:last-child").remove();
-        // $(".footer-section:last-child").remove();
-
-         $(".loader-container").fadeOut("slow",function(){
-        //   masonry.reloadItems();
-         });
-        // masonry.reloadItems();
-        // masonry.layout();
-
-       }
+         $(".loader-container").fadeOut("slow",function(){});
+      }
      }
      parse(0);
  }
