@@ -16,37 +16,21 @@
       <abstract>Referendum is a consultation to decide if stop the renewal of gas and mining
         concessions oil for deposits within 12 miles of the Italian coast.</abstract>
 
-        <chapter>
-          <paragraph>
-            <list type="unordered">
-              <item>A Eni</item>
-              <item>B Shell Italia</item>
-              <item>C Ionica gas</item>
-              <item>D Edison</item>
-              <item>E Others</item>
-              <item>F Commons</item>
-              <item>G Enviorment fund</item>
-              <item>H State</item>
-              <item>I Development fund</item>
-              <item>L Regions</item>
-            </list>
-          </paragraph>
-        </chapter>
 
       <graph unit="%" x="string" y="percentage">
         <title>Royalties</title>
         <abstract>Eni represents the biggest royalties.</abstract>
         <dataset label= "Percentage">
-        <data x="A" y="32.34"/>
-        <data x="B" y="13.39"/>
-        <data x="C" y="2.42"/>
-        <data x="D" y="1.42"/>
-        <data x="E" y="0.43"/>
-        <data x="F" y="3.85"/>
-        <data x="G" y="4.42"/>
+        <data x="Eni" y="32.34"/>
+        <data x="Shell Italia" y="13.39"/>
+        <data x="Ionica gas" y="2.42"/>
+        <data x="Edison" y="1.42"/>
+        <data x="Others" y="0.43"/>
+        <data x="Commons" y="3.85"/>
+        <data x="Enviorment fund" y="4.42"/>
         <data x="State" y="7.83"/>
-        <data x="I" y="10.68"/>
-        <data x="L" y="23.22"/>
+        <data x="Development fund" y="10.68"/>
+        <data x="Regions" y="23.22"/>
         </dataset>
         </graph>
 
