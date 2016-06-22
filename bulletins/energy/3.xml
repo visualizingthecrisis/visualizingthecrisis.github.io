@@ -511,7 +511,7 @@
       </section>
 
       <section>
-        <title>Green car</title>
+        <title>Green car Ranking Superior</title>
         <chapter>
           <title>2016’s green cars rating</title>
           <paragraph>According to climate meeting in Paris in December is expected to increase pressure for cleaner cars and trucks, which produce about a sixth of global carbon emissions and a quarter of the U.S. total.</paragraph>
@@ -521,106 +521,82 @@
 
         <table>
           <row type="head">
+            <cell>MODEL</cell>
+            <cell>SPECIFICATION</cell>
+            <cell>MPG City</cell>
+            <cell>GREEN SCORE</cell>
+            
+          </row>
+          <row type="cell">
             <cell>Chevrolet</cell>
-            <cell>Mitsubushi</cell>
-            <cell>Mercedez-Benz</cell>
-            <cell>Fiat</cell>
-            <cell>Toyota</cell>
-            <cell>Volkswagen</cell>
-            <cell>Nissan</cell>
-            <cell>Kia</cell>
-            <cell>Ford</cell>
-            <cell>Mazda</cell>
-          </row>
-          <row type="cell">
-            <cell>2016</cell>
-            <cell>2016</cell>
-            <cell>2016</cell>
-            <cell>2016</cell>
-            <cell>2016</cell>
-            <cell>2016</cell>
-            <cell>2016</cell>
-            <cell>2016</cell>
-            <cell>2016</cell>
-            <cell>2016</cell>
-          </row>
-          <row type="cell">
             <cell>SPARK EV</cell>
+             <cell>3.81</cell>
+             <cell>63</cell>
+           </row>
+           
+           <row type="cell">
+            <cell>Mitsubushi</cell>
             <cell>I-MIEV</cell>
+            <cell>3.75</cell>
+             <cell>63</cell>
+           </row>
+           
+           <row type="cell">
+            <cell>Mercedez-Benz</cell>
             <cell>SMART FORTWO elec. drive convertible</cell>
+             <cell>3.61</cell>
+             <cell>63</cell>
+           </row>
+           
+           <row type="cell">
+            <cell>Fiat</cell>
             <cell>500E</cell>
+             <cell>3.59</cell>
+             <cell>62</cell>
+           </row>
+           
+           <row type="cell">
+            <cell>Toyota</cell>
             <cell>PRIUS ECO</cell>
+             <cell>58</cell>
+             <cell>61</cell>
+           </row>
+           
+           <row type="cell">
+            <cell>Volkswagen</cell>
             <cell>E-GOLF</cell>
+             <cell>3.72</cell>
+             <cell>61</cell>
+           </row>
+           
+           <row type="cell">
+            <cell>Nissan</cell>
             <cell>LEAF S</cell>
+             <cell>3.75</cell>
+             <cell>61</cell>
+           </row>
+           
+           <row type="cell">
+            <cell>KIA</cell>
             <cell>SOUL ELECTRIC</cell>
+             <cell>3.55</cell>
+             <cell>59</cell>
+           </row>
+           
+           <row type="cell">
+            <cell>Ford Focus</cell>
             <cell>ELECTRIC</cell>
+             <cell>3.27</cell>
+             <cell>57</cell>
+           </row>
+           
+           <row type="cell">
+            <cell>MAZDA</cell>
             <cell>2</cell>
-          </row>
-
-          <row type="cell">
-            <cell>Electric (Li-ion bat.)</cell>
-            <cell>Electric (Li-ion bat.)</cell>
-            <cell>Electric (Li-ion bat.)</cell>
-            <cell>Electric (Li-ion bat.)</cell>
-            <cell>1.8L 4 auto</cell>
-            <cell>Electric (Li-ion bat.)</cell>
-            <cell>Electric (Li-ion bat.)</cell>
-            <cell>Electric (Li-ion bat.)</cell>
-            <cell>Electric (Li-ion bat.)</cell>
-            <cell>1.5L 4 auto stk</cell>
-          </row>
-
-          <row type="cell">
-            <cell>MPG City 3.81</cell>
-            <cell>MPG City 3.75</cell>
-            <cell>MPG City 3.61</cell>
-            <cell>MPG City 3.59</cell>
-            <cell>MPG City 58</cell>
-            <cell>MPG City 3.72</cell>
-            <cell>MPG City 3.75</cell>
-            <cell>MPG City 3.55</cell>
-            <cell>MPG City 3.27</cell>
-            <cell>MPG City 33</cell>
-          </row>
-
-          <row type="cell">
-            <cell>MPG Hwy 3.24</cell>
-            <cell>MPG Hwy 2.93</cell>
-            <cell>MPG Hwy 2.77</cell>
-            <cell>MPG Hwy 3.07</cell>
-            <cell>MPG Hwy 53</cell>
-            <cell>MPG Hwy 3.12</cell>
-            <cell>MPG Hwy 3.61</cell>
-            <cell>MPG Hwy 2.73</cell>
-            <cell>MPG Hwy 2.94</cell>
-            <cell>MPG Hwy 43</cell>
-          </row>
-
-          <row type="cell">
-            <cell>Green Score 63</cell>
-            <cell>Green Score 63</cell>
-            <cell>Green Score 63</cell>
-            <cell>Green Score 62</cell>
-            <cell>Green Score 61</cell>
-            <cell>Green Score 61</cell>
-            <cell>Green Score 61</cell>
-            <cell>Green Score 59</cell>
-            <cell>Green Score 57</cell>
-            <cell>Green Score 54</cell>
-          </row>
-
-          <row type="cell">
-            <cell>Ranking Superior</cell>
-            <cell>Ranking Superior</cell>
-            <cell>Ranking Superior</cell>
-            <cell>Ranking Superior</cell>
-            <cell>Ranking Superior</cell>
-            <cell>Ranking Superior</cell>
-            <cell>Ranking Superior</cell>
-            <cell>Ranking Superior</cell>
-            <cell>Ranking Superior</cell>
-            <cell>Ranking Superior</cell>
-          </row>
+             <cell>33</cell>
+             <cell>54</cell>
+             54
+           </row>
       </table>
 
 <chapter>
