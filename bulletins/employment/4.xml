@@ -10,7 +10,8 @@
   <bulletin id="issue 4" date="20160326">
   <sections>
     <section>                                                          <!--1-->
-      <title>India and China GDP Growth</title>
+      <title>India and China</title>
+      <subtitle>GDP Growth</subtitle>
       <graph unit="%" x="date" y="number">
         <dataset label="India">
           <data x="20150131" y="7.5" />
@@ -39,13 +40,13 @@
     <section>                                                                  <!--2-->
       <title>The Elephant and the Dragon</title>
       <chapter>
-        <paragraph>China's socialist market economy is the world's second largest economy by nominal GDP and the world's fastest-growing major economy, with growth rates averaging 10% over 30 years. China is a global hub for manufacturing, it's the largest exporter of goods in the world and the world's fastest growing consumer market.</paragraph>
-        <paragraph>As of 2015 there was talk of a "slowing" Chinese economy, referred to a slowing of the rate of economic growth and of indstrial sector like manufactory.</paragraph>
+        <paragraph>China’s socialist market economy is the world's second largest economy by nominal GDP and the world’s fastest-growing major economy, with growth rates averaging 10% over 30 years. China is a global hub for manufacturing, it's the largest exporter of goods in the world and the world’s fastest growing consumer market.</paragraph>
+        <paragraph>As of 2015 there was talk of a “slowing” Chinese economy, referred to a slowing of the rate of economic growth and of indstrial sector like manufactory.</paragraph>
       </chapter>
       <graph unit="b$" x="location" y="number">
-        <title>Main Countries Where China and India Exported Before China's Slowdown (2014)</title>
+        <title>Main Countries Where China and India Exported Before China’s Slowdown (2014)</title>
         <abstract>
-          India gross trade flow in 2014 was $311 billion, while China one was $2.34 trillion.
+          India gross trade flow in 2014 was $311 billion, while China’s one was $2.34 trillion.
         </abstract>
         <dataset label="India">
           <data x="US" y="43" />
@@ -85,7 +86,7 @@
         </dataset>
       </graph>
       <chapter>
-        <title>Global Growth Rate Projections Annually to 2024</title>
+        <title>Global Annual Growth Rate Projections to 2024</title>
         <paragraph>The researchers at the Center for International Development at Harvard University use their newly updated measure of economic complexity, which captures the diversity and sophistication of productive capabilities embedded in a country’s exports, to generate the global growth projections.</paragraph>
         <paragraph>The World Bank estimates that India’s economy is currently growing at a fast pace and forecasts it is likely to remain the world’s fastest growing large economy for the foreseeable future.</paragraph>
       </chapter>
@@ -741,7 +742,7 @@
     <title>Made in China is Not that Cheap Anymore</title>
       <chapter>
         <paragraph>According to a research by Oxford Economics labor costs adjusted for productivity in China are only 4% cheaper than in the US.</paragraph>
-        <paragraph>China’s GDP is almost 5 times larger than India's and its manufacturing sector is 10 times bigger. However the slowdown in China could make a big difference. With the rising cost of labour, it is no longer cheap to manufacture there and it will soon cease to be an export powerhouse if this continues. Minimum wages have increase by double-digits and companies have started looking for alternatives. For example, companies like Godrej, Micromax and Bosch have started expanding or shifting manufacturing operations to India.</paragraph>
+        <paragraph>China’s GDP is almost 5 times larger than India’s and its manufacturing sector is 10 times bigger. However, the slowdown in China could make a big difference. With the rising cost of labour, it is no longer cheap to manufacture there and it will soon cease to be an export powerhouse if this continues. Minimum wages have increased by double-digits and companies have started looking for alternatives. For example, companies like Godrej, Micromax and Bosch have started expanding or shifting manufacturing operations to India.</paragraph>
       </chapter>
       <graph unit="" x="location" y="number">
         <title>Manufactory Unit Labor Cost Compared with the United States (US=100)</title>
@@ -819,11 +820,11 @@
       <quote>
         <author>Donald John Trump</author>
         <role>Presumptive nominee of the Republican Party for President of the United States in the 2016 election</role>
-        <text>Let's take our jobs back from China and all these other countries!</text>
+        <text>Let’s take our jobs back from China and all these other countries!</text>
       </quote>
       <chapter>
       <title>Just Another Trumpsh*t</title>
-        <paragraph>Nothing, no real informations will stop Donald Trump from making this sort of promises at every debate and campaign.</paragraph>
+        <paragraph>Nothing, no real information will stop Donald Trump from making this sort of promises at every debate and campaign.</paragraph>
       </chapter>
       <keywords>
         <keyword name="North America" />
@@ -1021,10 +1022,10 @@
     </section>
     <section>                                                        <!--6-->
       <title>A Matter of Infrastructure</title>
-      <subtitle>China vs India</subtitle>
+      <subtitle>China vs. India</subtitle>
       <chapter>
         <title>Chinese Infrastructure</title>
-        <paragraph>Over the last 35 years, China has spent about 8.5% of GDP on infrastructural development. It has the reputation of being the world’s most aggressive investor in domestic infrastructure – be it roads, rail, waterways, power, ports, airports or telecom.</paragraph>
+        <paragraph>Over the last 35 years, China has spent about 8.5% of GDP on infrastructural development. It has the reputation of being the world’s most aggressive investor in domestic infrastructure — be it roads, rail, waterways, power, ports, airports or telecom.</paragraph>
       </chapter>
       <chapter>
         <title>Indian Infrastructure</title>
