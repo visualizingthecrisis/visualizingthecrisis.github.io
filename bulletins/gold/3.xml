@@ -28,14 +28,14 @@
            </graph>
       <graph unit= "%" x="string" y="number">
                  <title>Gold investors before Brexit</title>
-                 <dataset label="Gold investors">
+                 <dataset>
                     <data x= "Over 60" y="30"/>
                     <data x= "Under 30" y="4"/>
                   </dataset>
       </graph>
       <graph unit= "%" x="string" y="number">
        <title>Gold investors after Brexit</title>
-       <dataset label="Gold investors">
+       <dataset>
         <data x= "Over sixty investors" y="7"/>
         <data x= "Under theerty investors" y="17"/>
        </dataset>
