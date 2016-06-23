@@ -48,7 +48,8 @@
         </sources>
         </section>
       <section>
-        <title>Some data about Italian cities</title>
+        <title>Italian Cities</title>
+        <subtitle>Some Data</subtitle>
         <table>
           <row type="head">
             <cell>City</cell>
@@ -64,8 +65,6 @@
             <cell>€ 763.89</cell>
             <cell>€ 292.28 </cell>
           </row>
-        </table>
-        <table>
           <row type="cell">
             <cell>Florence</cell>
             <cell>361.679</cell>
@@ -131,7 +130,7 @@
               <item>The bank accept to give a leasing</item>
               <item>The bank buys a property on real estate market,(so the bank has the ownership)</item>
               <item>The customer pays the full amount of the property to the bank with rates for a maximum of 20 years</item>
-              <item>the change of ownership comes with the last ransom money</item>
+              <item>The change of ownership comes with the last ransom money</item>
             </list>
           </paragraph>
         </chapter>
@@ -286,7 +285,7 @@
           </section>
             <section>
               <title>US housing starts</title>
-              <subtitle>There is a monthly drop in housing starts that masks the long-run growing trend which remains in place.</subtitle>
+              <subtitle>A monthly drop in housing starts is masking the long-run growing trend</subtitle>
               <chapter>
                 <paragraph>There has been a 9.2% decline in single-family house starts in March 2016. Home construction weakened in March but homebuilder sentiment hasn’t changed. Builders confidence in the market for new single-family house remained unchanged in the last 3 months: 58.</paragraph>
               </chapter>
@@ -304,7 +303,8 @@
               </sources>
             </section>
             <section>
-              <title>US is in the heart of an historically strong spring housing market</title>
+              <title>US Housing Market</title>
+              <subtitle>An historically strong spring</subtitle>
               <chapter>
                 <title>Strength</title>
                 <subtitle>the factors that make builders optimistic</subtitle>
