@@ -15,9 +15,9 @@
         </chapter>
         <graph unit="EUR" x="country" y="number">
           <title>€500 issued by central bank in 2015</title>
-          <dataset label= "mln €500 issued">
-            <data x="ES" y="68"/>
-            <data x="IT" y="65"/>
+          <dataset label= "">
+            <data x="ES" y="68,000,000"/>
+            <data x="IT" y="65,000,000"/>
             </dataset>
           </graph>
           <keywords>
@@ -37,19 +37,19 @@
         <abstract>Do you know that...</abstract>
         <graph unit="%" x="string" y="number">
           <title>The portion of €500 banknotes in circulation value</title>
-          <dataset label= "€500 in circulation">
+          <dataset label= "">
             <data x="€500 in circulation" y="30"/>
           </dataset>
         </graph>
         <graph unit="%" x="string" y="number">
           <title>Of EU citizens have never seen a €500 note</title>
-          <dataset label= "citizens never seen the banknote">
+          <dataset label= "">
             <data x="citizens never seen €500" y="56"/>
           </dataset>
         </graph>
         <graph unit="%" x="string" y="number">
           <title>Of €500 bills are outside of Europe</title>
-          <dataset label= "€500 outside Europe">
+          <dataset label= "">
             <data x="€500 outside Europe" y="80"/>
           </dataset>
         </graph>
@@ -71,8 +71,8 @@
           <paragraph>France is one of the countries that wanted to stop printing €500 banknotes. Indeed, a few weeks ago the Minister of Finance, Michel Sapin has thus settled the question: “500 euros’ banknotes are generally used to hide things instead of buying them”, highlighting the correlation between this banknote and crime.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="number">
-          <title>€500 bills situation</title>
-          <dataset label= "€500 in France">
+          <title>€500 bills situation in France</title>
+          <dataset label= "">
             <data x="total bills" y="3"/>
             <data x="total value" y="28"/>
           </dataset>
@@ -94,7 +94,7 @@
         </chapter>
         <graph unit="%" x="string" y="number">
           <title>€500 deposit in the North of Italy</title>
-          <dataset label= "€500 in the North of Italy">
+          <dataset label= "">
             <data x="Trentino Alto Adige" y="3853"/>
             <data x="Emilia Romagna" y="847"/>
             <data x="Lombardy" y="393"/>
@@ -105,10 +105,10 @@
         </chapter>
         <graph unit="EUR" x="string" y="number">
           <title>€500 deposit in the South of Italy</title>
-          <dataset label= "millions of €500 in South of Italy">
-            <data x="Campania" y="500"/>
-            <data x="Puglia, Sicily" y="350"/>
-            <data x="Calabria" y="150"/>
+          <dataset label= "">
+            <data x="Campania" y="500,000"/>
+            <data x="Puglia, Sicily" y="350,000,000"/>
+            <data x="Calabria" y="150,000,000"/>
           </dataset>
         </graph>
         <keywords>
@@ -209,7 +209,7 @@
         <graph unit="%" x="string" y="percentage">
           <title>German transactions in cash</title>
           <abstract>Germany is one of the countries that continue to use big size of cash and it is against the reform for this.</abstract>
-          <dataset label= "German transactions">
+          <dataset label= "">
             <data x="Cash transactions" y="80"/>
             <data x="Electronic transactions" y="20"/>
           </dataset>
@@ -230,7 +230,7 @@
         </chapter>
         <graph unit="%" x="string" y="number">
           <title>Quantity of cash in Europe</title>
-          <dataset label= "Cash in Europe">
+          <dataset label= "">
             <data x="Volume" y="34"/>
             <data x="Value" y="85"/>
           </dataset>
@@ -272,8 +272,8 @@ short-duration attacks were the norm, driven by the use of server-based botnets.
 less powerful but longer duration attacks were the norm.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="percentage">
-          <title>Total attacks on Q2 of 2015</title>
-          <dataset label= "website attacks">
+          <title>Total website attacks on Q2 of 2015</title>
+          <dataset label= "">
             <data x="HTTPS attacks" y="56"/>
             <data x="HTTP attacks" y="44"/>
         </dataset>
@@ -463,7 +463,7 @@ less powerful but longer duration attacks were the norm.</paragraph>
       </chapter>
       <graph unit="Kg" x="string" y="number">
         <title>Weight in KG and bulk of $1 million</title>
-        <dataset label= "weight of $1 million ">
+        <dataset label= "">
           <data x="€50" y="22.2"/>
           <data x="€100" y="10.8"/>
           <data x="€200" y="5.4"/>
