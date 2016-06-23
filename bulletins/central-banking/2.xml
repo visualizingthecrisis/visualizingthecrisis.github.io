@@ -347,8 +347,8 @@
                 <paragraph>Many large companies are accepting Bitcoins as a legitimate source of funds. They allow their online products to be bought with Bitcoins.</paragraph>
               </chapter>
               <graph unit="%" x="string" y="percentage">
-                <title>Top industries</title>
-                <dataset label= "Industries accepts Bitcoins">
+                <title>Who is accepting Bitcoins?</title>
+                <dataset label= "Top industries">
                   <data x="IT Services" y="36.4"/>
                   <data x="Marketplaces" y="17.4"/>
                   <data x="Financial Services" y="14.3"/>
