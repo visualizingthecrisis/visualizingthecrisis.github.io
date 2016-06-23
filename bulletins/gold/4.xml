@@ -10,7 +10,7 @@
   <bullettin id="04" date="20160326">
     <sections>
     	  <section>
-        <title>Worldwide gold trade</title>
+        <title>Worldwide Gold Trade</title>
         <graph unit= "%" x="country" y="number">
           <title>Percentage of total countries gold export</title>
           <dataset>
@@ -33,57 +33,57 @@
         <chapter>
           <title>Gold export flows</title>
           <paragraph><list type="unordered">                                     <!--[0-N]-->
-           <item>97% Hong Kong to China</item>                                    <!--[1-N]-->
-           <item>99% China to Hong Kong</item>
-           <item>31% US to Hong Kong</item>
-           <item>5% US to India</item>
-           <item>44% US to Swiss</item>
-           <item>34% Japan to Hong Kong</item>
-           <item>21% Japan to Thailand</item>
-           <item>53% Russia to Swiss</item>
+           <item>97% Hong Kong –> China</item>                                    <!--[1-N]-->
+           <item>99% China –> Hong Kong</item>
+           <item>31% US –> Hong Kong</item>
+           <item>5% US –> India</item>
+           <item>44% US –> Swiss</item>
+           <item>34% Japan –> Hong Kong</item>
+           <item>21% Japan –> Thailand</item>
+           <item>53% Russia –> Swiss</item>
            <item>32% Russia to Hong Kong</item>
-           <item>42% UK to United Arab Emirates</item>
-           <item>23% UK to Hong Kong</item>
-           <item>11% UK to Swiss</item>
-           <item>99.3% India to United Arab Emirates</item>
-           <item>37% Australia to Hong Kong</item>
-           <item>36% Australia to China</item>
-           <item>41% United Arab Emirates to India</item>
-           <item>26% United Arab Emirates to Turkey</item>                                    <!--[1-N]-->
-           <item>34% South Africa to Hong Kong</item>
-           <item>57% South Africa to UK</item>
-           <item>18% South Africa to India</item>
-           <item>26% Peru to US</item>
-           <item>25% Peru to Canada</item>
-           <item>36% Peru to Swiss</item>
-           <item>56% Ivory Coast to South Africa</item>
-           <item>43% Ivory Coast to Swiss</item>
-           <item>32% Canada to US</item>
-           <item>18% Canada to UK</item>
-           <item>24% Swiss to Hong Kong</item>
-           <item>22% Swiss to India</item>
+           <item>42% UK –> United Arab Emirates</item>
+           <item>23% UK –> Hong Kong</item>
+           <item>11% UK –> Swiss</item>
+           <item>99.3% India –> United Arab Emirates</item>
+           <item>37% Australia –> Hong Kong</item>
+           <item>36% Australia –> China</item>
+           <item>41% United Arab Emirates –> India</item>
+           <item>26% United Arab Emirates –> Turkey</item>                                    <!--[1-N]-->
+           <item>34% South Africa –> Hong Kong</item>
+           <item>57% South Africa –> UK</item>
+           <item>18% South Africa –> India</item>
+           <item>26% Peru –> US</item>
+           <item>25% Peru –> Canada</item>
+           <item>36% Peru –> Swiss</item>
+           <item>56% Ivory Coast –> South Africa</item>
+           <item>43% Ivory Coast –> Swiss</item>
+           <item>32% Canada –> US</item>
+           <item>18% Canada –> UK</item>
+           <item>24% Swiss –> Hong Kong</item>
+           <item>22% Swiss –> India</item>
          </list>
           </paragraph>
         </chapter>
         <chapter>
           <title>Biggest producers mines on 2015 and the companies that menage them</title>
-          <paragraph><list type="unordered">                                     <!--[0-N]-->
-           <item>Cortez Mine 44,192 tons (Barrick Gold)</item>                                    <!--[1-N]-->
-           <item>Goldstrike Mine 33,840 tons (Barrick Gold)</item>
-           <item>Lagunas Norte 23,732 tons (Barrick Gold)</item>
-           <item>Veladero 29,765 tons (Barrick Gold)</item>
-           <item>Pueblo Viejo 29,000 tons (Barrick Gold)</item>
-           <item>Gransberg Mine 44,000 tons (Freeport Mc Moran)</item>
-           <item>Manaocha Mine 42,500 tons (Newmont)</item>
-           <item>Boddington Mine 23,000 tons (Newmont)</item>
-           <item>Carling Trend 28,830 tons (Newmont)</item>
-           <item>West Wits 24,630 tons (Anglogold Ashanti)</item>
-           <item>Vaal River 25,840 tons (Anglogold Ashanti)</item>
-           <item>Iamgold 67,400 tons (Anglogold Ashanti)</item>
-           <item>The Super Pit 24,690 tons (Kalgoorlie Consolidaded Gold Mines)</item>
-           <item>Perseus Mining 83,000 tons (Limited Golden Star)</item>
-           <item>Muruntau 90,870 tons (Navoi Mining and Metallurgy Combinat)</item>
-           <item>Olimpiada 22,000 tons (Polyus Gold)</item>
+          <paragraph><list type="unordered">   
+           <item>90,870 tons. Muruntau (Navoi Mining and Metallurgy Combinat)</item>
+           <item>83,000 tons. Perseus Mining (Limited Golden Star)</item>
+           <item>67,400 tons. Iamgold (Anglogold Ashanti)</item>
+           <item>44,192 tons. Cortez Mine (Barrick Gold)</item>  
+           <item>44,000 tons. Gransberg Mine (Freeport Mc Moran)</item>
+           <item>42,500 tons. Manaocha Mine (Newmont)</item>                                  <!--[1-N]-->
+           <item>33,840 tons. Goldstrike Mine  Barrick Gold)</item>
+           <item>29,765 tons. Veladero (Barrick Gold)</item>
+           <item>29,000 tons. Pueblo Viejo (Barrick Gold)</item>
+           <item>28,830 tons. Carling Trend (Newmont)</item>
+           <item>25,840 tons. Vaal River (Anglogold Ashanti)</item>
+           <item>24,690 tons. The Super Pit (Kalgoorlie Consolidaded Gold Mines)</item>
+           <item>24,630 tons. West Wits (Anglogold Ashanti)</item>
+           <item>23,732 tons. Lagunas Norte (Barrick Gold)</item>
+           <item>23,000 tons. Boddington Mine (Newmont)</item>
+           <item>22,000 tons. Olimpiada (Polyus Gold)</item>
          </list>
           </paragraph>
           </chapter>
@@ -100,7 +100,7 @@
           </sources>
       </section>
       <section>
-          <title>Why Canada is dumping gold</title>
+          <title>Why Canada Is Dumping Gold</title>
           <chapter>
             <paragraph>Canada’s explanation for the selloff is reasonable enough: actual bullion bars cannot be liquidated as easily as, say, government bonds.
                 And over the long term, central banks and governments have generally gotten a better return by investing in safe assets such as US Treasuries.
@@ -157,7 +157,7 @@
          </sources>
       </section>
       <section>
-        <title>Gold price</title>
+        <title>Gold Price</title>
         <subtitle>Week 12</subtitle>
         <graph unit="$/oz" x="date" y="number">
           <dataset>
@@ -176,23 +176,24 @@
           </sources>
         </section>
       <section>
-        <title>Explosions in Brussels, safe haven soars in the markets</title>
+        <title>Explosions In Brussels</title>
+        <subtitle>Safe Haven Soars In The Markets</subtitle>
         <chapter>
           <paragraph>
                The price of gold rose in conjunction with the news of the explosions in Brussels. The new terrorist
                attack in the heart of Europe is also reflected in the financial markets: equity markets treat
                weak, while the so-called "safe haven" undergoes a surge in value.</paragraph>
         </chapter>
-        <graph unit= "USD/oz" x="date" y="number">
-              <dataset>
-                   <data x= "20160322:000020" y="1,243"/>
-                  <data x= "20160322:000022" y="1,241"/>
-                  <data x= "20160322:000000" y="1,242"/>
-                  <data x= "20160322:000002" y="1,248"/>
-                  <data x= "20160322:000004" y="1,246"/>
-                  <data x= "20160322:000006" y="1,245"/>
-                  <data x= "20160322:000008" y="1,253"/>
-                  <data x= "20160322:000010" y="1,260"/>
+        <graph unit= "USD/oz" x="string" y="number">
+              <dataset label="Gold price on 22 March 2016">
+                  <data x= "20:00" y="1,243"/>
+                  <data x= "22:00" y="1,241"/>
+                  <data x= "00:00" y="1,242"/>
+                  <data x= "02:00" y="1,248"/>
+                  <data x= "04:00" y="1,246"/>
+                  <data x= "06:00" y="1,245"/>
+                  <data x= "08:00" y="1,253"/>
+                  <data x= "10:00" y="1,260"/>
               </dataset>
        </graph>
        <quote>
@@ -243,7 +244,7 @@
               has shown an increase of 40% over the 5 days prior to the Paris attacks.</paragraph>
        </chapter>
        <graph unit= "Gold VIX" x="date" y="number">
-             <dataset>
+             <dataset label="Gold VIX during first Parisian attack">
                  <data x= "20150104" y="1,189"/>
                  <data x= "20150105" y="1,200"/>
                  <data x= "20150106" y="1,210"/>
@@ -252,7 +253,7 @@
              </dataset>
        </graph>
        <graph unit= "Gold VIX" x="date" y="number">
-            <dataset>
+            <dataset label="Gold VIX during second Parisian attack">
                 <data x= "20151110" y="1,087"/>
                 <data x= "20151111" y="1,085.80"/>
                 <data x= "20151112" y="1,087.20"/>
