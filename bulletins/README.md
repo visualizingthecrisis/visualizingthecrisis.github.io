@@ -1,0 +1,4 @@
+The XML bulletins
+=================
+
+Syntax
