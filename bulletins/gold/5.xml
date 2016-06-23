@@ -10,7 +10,7 @@
   <bulletin id="05" date="20160402">                   <!--[1-N]-->
     <sections>                                                          <!--[ 1 ]-->
       <section>                                                         <!--[1-N]-->
-        <title>Gold price</title>
+        <title>Gold Price</title>
         <subtitle>Week 13</subtitle>
         <graph unit="USD/oz" x="date" y="number"> 		          <!--[0-N]-->
           <dataset>                           	<!--[1-N]-->
@@ -100,12 +100,12 @@
        </sources>                                                                   <!--[0-N]-->
       </section>
       <section>                                                         <!--[1-N]-->
-       <title>The different strategies of the central banks caused uncertainty</title>
+       <title>The Different Strategies of the Central Banks Caused Uncertainty</title>
        <chapter>
          <paragraph>The different strategies of the central banks caused uncertainty.
             The Fed with positive interest rates, caused a sudden collapse of the dollar
             and uncertainty among investors,while the ECB and the BOJ with the negative deposit rates
-             will stimulate the banks to put money
+             will stimulate the banks to put money.
          </paragraph>
        </chapter>
        <graph unit="%" x="string" y="percentage">
@@ -144,7 +144,7 @@
        </sources>                                                                   <!--[0-N]-->
       </section>
       <section>                                                         <!--[1-N]-->
-       <title>Yellen’s words push the gold up</title>
+       <title>Yellen’s Words Push Gold Up</title>
        <chapter>                                                   <!--[0-N]-->
          <paragraph>Janet Yellen’s speech causes another gold rally. Gold futures advanced as much as 1.6%,
            the most in seven sessions, after Yellen said it’s appropriate for U.S. central bankers to “proceed cautiously”
@@ -184,7 +184,7 @@
        </sources>                                                                   <!--[0-N]-->
       </section>
       <section>
-       <title>Asia Pacific corruption perception index 2015</title>
+       <title>Asia Pacific Corruption Perception Index 2015</title>
        <graph unit="people" x="location" y="number">
           <dataset label= "%">                           	<!--[1-N]-->
             <data x="Japan" y="75"/>
@@ -207,7 +207,7 @@
           </dataset>
         </graph>
         <chapter>                                                      <!--[1-N]-->
-         <title>A tool against corruption of China</title>                                                  <!--[0-N]-->
+         <title>A tool Against Corruption of China</title>                                                  <!--[0-N]-->
            <paragraph>Catching Tigers and Flies, a part of the Xi Jinping’s
            anticorruption campaign against corruption that China’s
            President, Xi Jinping, launched shortly after he came to power in late 2012.</paragraph>
@@ -245,7 +245,7 @@
          <source>chinafile.com</source>
        </sources>                                                                   <!--[0-N]-->
       </section>                                                    <!--[1-N]-->
-       <title>If Chinese bubble burst? </title>
+       <title>If Chinese Bubble Burst? </title>
        <chapter>                                                   <!--[0-N]-->
          <paragraph>Temporary crisis or the bursting of a speculative bubble?
            The question is bugging investors exposed to the Chinese
@@ -263,7 +263,7 @@
            <text>According to analysts, such a crisis is in all respects comparable to the one that struck the United States in 1929.</text>
          </quote>   
        <section>                                                      <!--[1-N]-->
-           <title>Chinese GDP collapses, gold reserves increase</title>
+           <title>Chinese GDP Collapses, Gold Reserves Increase</title>
            <abstract>China wants become part of the basket of currencies SDR of the IMF,
              or China aims to become a real alternative to the IMF?</abstract>
           <graph unit="millions of tons" x="date" y="number">
@@ -304,8 +304,8 @@
           </sources>
       </section>
       <section>                                                         <!--[1-N]-->
-          <title>Historical break</title>
-          <subtitle>After the 1929 crash</subtitle>
+          <title>Historical Break</title>
+          <subtitle>After the 1929 Crash</subtitle>
           <chapter>                                                   <!--[0-N]-->
             <paragraph>The devaluation of the pound in 1931 and the dollar in 1934, after the crash of 1929,
               behaved an abrupt decrease in the gold content of these currencies and thus a significant
