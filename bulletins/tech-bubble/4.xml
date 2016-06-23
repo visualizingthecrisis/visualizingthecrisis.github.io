@@ -64,7 +64,7 @@
                   <data x="Groupon" y="94.4"/>
                 </dataset>
               </graph>
-              <graph unit="$" x="date" y="number">
+              <graph unit="$" x="string" y="number">
                 <title>Groupon trends from 2011 to today</title>
                 <abstract>After Alibaba bought part of Gruopon stock, this doubled
                   in less than three months.</abstract>
@@ -75,7 +75,7 @@
                     <data x="2014" y="12"/>
                     <data x="2015" y="8"/>
                     <data x="2016" y="2"/>
-                    <data x="201603" y="3.9"/>
+                    <data x="03/2016" y="3.9"/>
                   </dataset>
                 </graph>
                 <graph unit="%" x="string" y="percentage">
