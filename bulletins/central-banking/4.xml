@@ -130,18 +130,15 @@ the krone has “disappeared completely.”</paragraph>
             <data x="Oct-Dec" y="-0.25"/>
           </dataset>
         </graph>
-        <graph unit="%" x="date" y="number">
-          <title>Sweden Interest Rate Forecast</title>
-          <dataset label= "Interest Rate">
-            <data x="2020" y="1.00"/>
-          </dataset>
-        </graph>
-        <graph unit="%" x="date" y="number">
-          <title>Denmark Interest Rate Forecast</title>
-          <dataset label= "Interest Rate">
-            <data x="2020" y="1.75"/>
-          </dataset>
-        </graph>
+        <chapter>
+          <title>Interest Rate Forecast in 2020</title>
+          <paragraph>
+            <list>
+              <item>Sweden:1.00</item>
+              <item>Denmark:1.75</item>
+            </list>
+          </paragraph>
+        </chapter>
         <chapter>
           <paragraph>Denmark’s GDP growth rebounded slightly after the very weak data recorded in Q3 2015. However, the economy is likely to grow below 1% for 2016 as a whole. Nevertheless, employment growth continues to be strong, with private sector adding 3,200 employees in January. Inflation in January had decelerated as expected but seems likely to remain positive before accelerating again in H2 2016.</paragraph>
         </chapter>
