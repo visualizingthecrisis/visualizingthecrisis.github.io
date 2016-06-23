@@ -10,7 +10,7 @@
     <title>Italian Scenario</title>
     <sections>
       <section>
-        <title>Italian housing scenario</title>
+        <title>Italian Housing Scenario</title>
           <graph unit="K" x="region" y="number">
             <title>New daily mortgages per region (22/04/2016)</title>
             <abstract>Lombardia region has the highest number of daily mortgages throughout Italy</abstract>
@@ -98,7 +98,8 @@
         </sources>
       </section>
       <section>
-        <title>Italy: Mortgage vs Leasing</title>
+        <title>Italy</title>
+        <subtitle>Mortgage vs. Leasing</subtitle>
         <chapter>
           <title>Mortgage - How does it work</title>
           <subtitle>In the last year mortgages increased + 97% in Italy.</subtitle>
@@ -219,11 +220,11 @@
       </sections>
       </bulletin>
       <bulletin id="7" date="20160421">
-        <title>US builders world</title>
+        <title>US Builders World</title>
         <sections>
           <section>
-            <title>US builders world</title>
-            <subtitle>Some data to understand housing market and homebuilders situation in US</subtitle>
+            <title>US Builders World</title>
+            <subtitle>Some Data to Understand Housing Harket and Homebuilders Situation in US</subtitle>
             <graph unit="" x="string" y="number">
               <title>U.S. housing starts</title>
               <abstract>New residential housing units authorized by building permits and started in the last year (from March ‘15 to March’16).</abstract>
@@ -284,8 +285,8 @@
               </sources>
           </section>
             <section>
-              <title>US housing starts</title>
-              <subtitle>A monthly drop in housing starts is masking the long-run growing trend</subtitle>
+              <title>US Housing Starts</title>
+              <subtitle>A Monthly Drop in Housing Starts Is Masking the Long-run Growing Trend</subtitle>
               <chapter>
                 <paragraph>There has been a 9.2% decline in single-family house starts in March 2016. Home construction weakened in March but homebuilder sentiment hasn’t changed. Builders confidence in the market for new single-family house remained unchanged in the last 3 months: 58.</paragraph>
               </chapter>
@@ -304,7 +305,7 @@
             </section>
             <section>
               <title>US Housing Market</title>
-              <subtitle>An historically strong spring</subtitle>
+              <subtitle>An Historically Strong Spring</subtitle>
               <chapter>
                 <title>Strength</title>
                 <subtitle>the factors that make builders optimistic</subtitle>
