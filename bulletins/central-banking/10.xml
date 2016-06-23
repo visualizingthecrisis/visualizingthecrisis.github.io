@@ -167,7 +167,7 @@
         <graph unit="%" x="date" y="number">
           <title>Greece Unemployment Rate</title>
           <abstract>Thanks to the financial crisis and the debt, unemployment is a problem</abstract>
-          <dataset label= "Unemployment Rate">
+          <dataset label= "">
             <data x="201603" y="24.75"/>
             <data x="201604" y="25"/>
             <data x="201605" y="2.5"/>
@@ -235,7 +235,7 @@
         <chapter>
           <paragraph>Public debt is growing again and States and Central banks don’t believe to buy State debt, because the volatility of money. The only way for having appeal and make sure their economy is gold. In the last period many central banks and insitutions bought a lot of gold tonnes for increasing their reserves.</paragraph>
         </chapter>
-        <graph unit="t" x="country" y="number">
+        <graph unit="tons" x="country" y="number">
           <title>Countries gold reserves</title>
           <dataset label= "gold holdings">
             <data x="United States" y="8,133.5"/>
@@ -264,7 +264,7 @@
           <title>Who owns gold?</title>
           <paragraph>Other institutions buy gold, to increase their reserves. They are in the top 40 official gold holdings during the last month. In particular, International Monetary Fund is the third on the list.</paragraph>
         </chapter>
-        <graph unit="t" x="string" y="number">
+        <graph unit="tons" x="string" y="number">
           <title>Gold-holding instituions</title>
           <dataset label= "average of gold">
             <data x="IMF" y="2,814.0"/>
