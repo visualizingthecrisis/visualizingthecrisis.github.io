@@ -25,7 +25,7 @@
             </paragraph>
         </chapter>
         <chapter>
-          <title>What happened?</title>
+          <title>What Happened?</title>
           <paragraph> Maria Cristina Sparanide won 100.000 €, the payout is welded with four gold coin of the unit value
             of 20,000 € eachabout.</paragraph>
             <paragraph> the winner is subtracted 20% of the winnings to pay taxes, so the sum of the win is reduced to 80,000 €.
@@ -52,7 +52,7 @@
           </sources>
       </section>
       <section>
-          <title>Italy is among the countries with the highest amount of gold in coffers</title>
+          <title>Italy is Among the Countries with the Highest Amount of Gold in Coffers</title>
           <chapter>
             <paragraph>
             The Italian gold is not owned by the government, but the Bank of Italy. In the "vestry"
@@ -129,7 +129,7 @@
           </sources>
       </section>
       <section>
-            <title>Bank of Italy’s gold reserve</title>
+            <title>Bank of Italy’s Gold Reserve</title>
             <chapter>
               <paragraph>In the Palazzo Koch sacristy is kept half of the gold reserves for a weight of 1,199.4 tons.
                 Of these, 4.1 tons are in the form of currency  and the remaining part in the form of ingots.
@@ -152,28 +152,31 @@
               </sources>
       </section>
       <section>
-            <title>Establishment of the gold reserve of the Bank of Italy</title>
+            <title>Establishment of the Gold Reserve of the Bank of Italy</title>
             <chapter>
               <paragraph>
-                In 1926, in relation to the allocation to the Bank of Italy of the exclusive privilege of issuing power,
-                it was ceded to the Institute reserves the Banco di Sicilia and Banco di Napoli, about 70 tons of gold.</paragraph>
-              <paragraph>In 1933, total reserves exceeded 561 tons, but the entrance into the war came down to 106 tons;
+              <list type="unordered">	
+                <item>1926. In relation to the allocation to the Bank of Italy of the exclusive privilege of issuing power,
+                it was ceded to the Institute reserves the Banco di Sicilia and Banco di Napoli, about 70 tons of gold.</item>
+              <item>1933. Total reserves exceeded 561 tons, but the entrance into the war came down to 106 tons;
                  During World War II, the reserves were "looted" from Germany, and returned only in part at the end of the conflict;
-                 growth to the current level is widely linked to the Second World War.</paragraph>
-              <paragraph>In 1943, the German ordered the transfer of gold reserves at Fort (South Tyrol) 92.3 tons of gold.
+                 growth to the current level is widely linked to the Second World War.</item>
+              <item>1943. The German ordered the transfer of gold reserves at Fort (South Tyrol) 92.3 tons of gold.
                 The diminished gold reserves of about 72 tons. In 1946, the "Tripartite Commission for monetary gold return" to countries that
-                 had undergone removal by the Nazis assigned to the Bank of Italy about 31.7 tons of the 69 request.</paragraph>
-              <paragraph>From 1951 and ultil 1960,the UIC bought large amounts of gold. In 1958 he worked an additional allocation of 12.7 tons.
-                The amount officially lost by the Bank, because of the war, was about 25 tons.</paragraph>
-              <paragraph>In 1960 and 1965 were implemented by the Office's reserves to those of the Bank of Italy for a total of 1,889 tons,
+                 had undergone removal by the Nazis assigned to the Bank of Italy about 31.7 tons of the 69 request.</item>
+              <item>1951. The UIC bought large amounts of gold. In 1958 he worked an additional allocation of 12.7 tons.
+                The amount officially lost by the Bank, because of the war, was about 25 tons.</item>
+              <item>1960. Were implemented by the Office's reserves to those of the Bank of Italy for a total of 1,889 tons,
                 according to the principle that the Bank recognized the holding of gold reserves and the management of the UIC currency:
-                the gold of the Bank increased to 2,136 tons.</paragraph>
-                <paragraph>In 1976, as a result of credit operation performed with the Deutsche Bundesbank on behalf of the UIC,
-                  they were relegated to the Office 543 tons.</paragraph>
-                  <paragraph>In July of 1981 there was a very important event in the history of economics Italy,
-                     the so-called "Divorce" between the Bank of Italy and the Treasury. </paragraph>
-                  <paragraph>The latest quantitative change, which have led the reserves to the current amounts, took place in 1998 with the definitive transfer
-                    of gold held dall'UIC. On January 5, 1999, with the transfer to the ECB of 141 tons of metal.</paragraph>
+                the gold of the Bank increased to 2,136 tons.</item>
+                <item>1976. As a result of credit operation performed with the Deutsche Bundesbank on behalf of the UIC,
+                  they were relegated to the Office 543 tons.</item>
+                  <item>1981. There was a very important event in the history of economics Italy,
+                     the so-called "Divorce" between the Bank of Italy and the Treasury. </item>
+                  <item>1998. The latest quantitative change, which have led the reserves to the current amounts, took place in 1998 with the definitive transfer
+                    of gold held dall'UIC. On January 5, 1999, with the transfer to the ECB of 141 tons of metal.</item>
+                </list>
+              </paragraph>
             </chapter>
             <keywords>
               <keyword name="Western Europe" />
@@ -185,7 +188,7 @@
       </section>
       <section>
             <title>Bitcoin</title>
-            <subtitle></subtitle>An Alternative Currency</subtitle>
+            <subtitle>An Alternative Currency</subtitle>
             <chapter>
               <paragraph>
                 Bitcoin is an electronic money created in 2009 by an anonymous known by the pseudonym Satoshi Nakamoto.
@@ -291,7 +294,7 @@
               </sources>
       </section>
       <section>
-            <title>What consumers think about Bitcoin</title>
+            <title>What Consumers Think about Bitcoin</title>
             <chapter>
               <paragraph>
                 <list type="unordered">                                     <!--[0-N]-->
@@ -378,7 +381,7 @@
               </sources>
       </section>
       <section>
-          <title>Historical break</title>
+          <title>Historical Break</title>
           <subtitle>Bretton Woods Agreement</subtitle>
           <chapter>
             <paragraph>
@@ -394,7 +397,7 @@
          </sources>
       </section>
       <section>
-        <title>Gold price</title>
+        <title>Gold Price</title>
         <subtitle>Week 16</subtitle>
         <graph unit="$/oz" x="date" y="number">
           <dataset>
