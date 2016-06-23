@@ -10,7 +10,7 @@
   <bullettin id="01" date="20160305">
     <sections>
       <section>
-        <title>The strange relationship between gold and dollar</title>
+        <title>The Strange Relationship Between Gold And Dollar</title>
         <abstract>
           When the value of the dollar increases, the gold price drops.
           Conversely, if the value of the dollar decreases, the price of gold goes up.
@@ -90,7 +90,7 @@
         </sources>
       </section>
       <section>
-        <title>Gold Standard ends implication</title>
+        <title>Gold Standard Ends Implication</title>
         <chapter>
  	        <paragraph>
             In 1971, Nixon ended the gold standard, abolishing the
@@ -104,7 +104,7 @@
            down to 64%.</paragraph>
         </chapter>
         <graph x="data" y="number">
-              <title>US inflation's historical graph</title>
+              <title>US Inflation's Historical Graph</title>
               <dataset>
                  <data x= "1926" y="200"/>
                  <data x= "1935" y="200"/>
@@ -120,7 +120,7 @@
                </dataset>
               </graph>
         <graph x="data" y="number">
-          <title>Gold price's historical graph</title>
+          <title>Gold Price's Historical Graph</title>
           <dataset>
             <data x= "1926" y="200"/>
             <data x= "1935" y="200"/>
@@ -143,7 +143,7 @@
         </sources>
       </section>
       <section>
-        <title>The US don’t love gold</title>
+        <title>The US Don’t Love Gold</title>
         <abstract>
           USA is one of the most important players on the gold market, but it is “anti-gold”.
           Gold is often ignored, denigrated and
@@ -189,7 +189,7 @@
         </sources>
       </section>
       <section>
-        <title>The crazy Chinese race to gold</title>
+        <title>The Crazy Chinese Race To Gold</title>
         <chapter>
  	        <paragraph>The Chinese government is buying gold by the ton.
              Most of the gold that arrives in China is, apparently, for the Chinese central bank. Why?
@@ -255,8 +255,8 @@
         </sources>
       </section>
       <section>
-        <title>Historical break</title>
-        <subtitle>The birth of the Gold Standard</subtitle>
+        <title>Historical Break</title>
+        <subtitle>The Birth Of The Gold Standard</subtitle>
         <chapter>
  	        <paragraph>
             The Gold Standard was set in 1816, when England, after the Napoleonic wars,
@@ -271,7 +271,7 @@
         </sources>
       </section>
       <section>
-        <title>Gold distribution in the world</title>
+        <title>Gold Distribution In The World</title>
         <chapter>
           <title>Countries that produce and export more than 40,000 gold tons</title>
           <paragraph>
@@ -341,7 +341,7 @@
         </sources>
       </section>
       <section>
-        <title>Global gold demand</title>
+        <title>Global Gold Demand</title>
         <chapter>
  	        <paragraph>
             The World Gold Council believes that global demand
@@ -363,7 +363,7 @@
         </graph>
         <quote>
               <author>Peter Rosenstreich</author>
-              <text>China is becoming the new star of the gold market.</text>
+              <text>China Is Becoming The New Star Of The Gold Market.</text>
         </quote>
         <keywords>
            <keyword name="Gold" /><keyword name="Export/import" /><keyword name="North America" />
@@ -375,7 +375,7 @@
         </sources>
       </section>
       <section>
-        <title>Gold price</title>
+        <title>Gold Price</title>
         <subtitle>Week 09</subtitle>
         <graph unit="$/oz" x="date" y="number">
           <dataset>
