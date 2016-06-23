@@ -600,8 +600,8 @@
                  </chapter>
                    <graph unit="%" x="string" y="number">
                      <title>Infrastructure for growth</title>
-                     <dataset label="infrastructure investments">
-                       <data x="Increase in infrastructure investments" y="10"/>
+                     <dataset label="">
+                       <data x="infrastructure" y="10"/>
                        <data x="GDP growth" y="1"/>
                      </dataset>
                    </graph>
@@ -615,8 +615,8 @@
                    </chapter>
                    <graph unit="%" x="string" y="percentage">
                      <title>Infrastructure for social progress</title>
-                       <dataset label="infrastructure social progress">
-                         <data x="Cellular signal penetration in developing contries" y="68"/>
+                       <dataset label="">
+                         <data x="Cellular signal penetration in developing countries" y="68"/>
                          <data x="Remaining" y="32"/>
                        </dataset>
                    </graph>
