@@ -49,7 +49,8 @@
           <paragraph>There are different kinds of bonds: Bonds from emerging market are issued by governments or societies from emerging countries; corporate bonds are issued by private societies; government bonds are issued by Western countries for financing their pubblic debt; Supernatura bonds are issued by agencies like central banks or IMB.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="percentage">
-          <dataset label= "safety yield">
+          <title>Safety yield</title>
+          <dataset label= "Yield bonds">
             <data x="Safety to take yield back" y="99.999"/>
             <data x="Danger to take yield back" y="0.001"/>
           </dataset>
