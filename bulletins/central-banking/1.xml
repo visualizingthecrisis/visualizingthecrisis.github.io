@@ -9,7 +9,7 @@
         <bulletin id="01" date="20160305">
           <sections>                                                            <!--[ 1 ]-->
             <section>                                                           <!--[1-N]-->
-              <title>How many groups do lead us?</title>                                         <!--[0-1]-->
+              <title>How Many Groups Do Lead Us?</title>                                         <!--[0-1]-->
               <chapter>                                                         <!--[0-N]-->
                 <paragraph>The International Monetary Fund (IMF) and the World Bank were both created at an international conference convened in Bretton Woods, New Hampshire, United States in July 1944.
                   The goal of the conference was to establish a framework for economic cooperation and development that would lead to a more stable and prosperous global economy.
