@@ -102,7 +102,7 @@
         <graph unit="EUR billions" x="string" y="number">
           <title>Where did the money go?</title>
           <abstract>The distribution of bailouts money</abstract>
-          <dataset label= "s">
+          <dataset label= "">
             <data x="For the State" y="9.7"/>
             <data x="For banks" y="37"/>
             <data x="For paying interest" y="52"/>
