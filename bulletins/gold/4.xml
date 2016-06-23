@@ -198,8 +198,8 @@
        <quote>
             <author>Lananh Nguyen</author>
             <role>Journalist</role>
-            <text>March 22, 2016 time 8:52 in less than an hour of the attack
-               in Brussels the price of gold rose to 1,260 USD.</text>
+            <text>In less than an hour after the attack
+               in Brussels, the price of gold rose to $1,260.</text>
        </quote>
        <graph unit= "millions" x="string" y="number">
                <title>Data about terrorism</title>
@@ -233,7 +233,8 @@
                </sources>
            </section>
       <section>
-       <title>Gold VIX: the index of the fear during the terrorism attacks</title>
+       <title>Gold VIX</title>
+       <subtitle>The Index of the Fear During the Terrorism Attacks</subtitle>
        <chapter>
          <paragraph>
               Nik Crepaldi, a financial adviser, found that the VIX index, also called "index of fear",
@@ -260,7 +261,7 @@
             </dataset>
        </graph>
        <graph unit= "Gold VIX" x="date" y="number">
-          <title>Gold VIX on Madrid's attack</title>
+          <title>Gold VIX during Madrid's attack</title>
           <abstract>
            During the attack of Madrid we can see an increase of the VIX in the saven days before 11 March,
            but until the attack we notice a visible decrease.
@@ -280,7 +281,7 @@
            </dataset>
        </graph>
        <graph unit= "Gold VIX" x="date" y="number">
-         <title>Gold VIX on London's attack</title>
+         <title>Gold VIX during London's attack</title>
          <abstract>
            In the attack of London we can see a
            decrease of the VIX in the days before 6 July, but until the attack we notice a visible increase.
@@ -299,7 +300,7 @@
           </dataset>
        </graph>
        <graph unit= "Gold VIX" x="date" y="number">
-         <title>Gold VIX on New York's attack</title>
+         <title>Gold VIX during New York's attack</title>
          <abstract>
            VIX increased in the five trading
             days prior to the terrorist event. The VIX Index closed lower on the day following the attacks.
