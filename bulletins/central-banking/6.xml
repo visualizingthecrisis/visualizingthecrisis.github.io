@@ -61,7 +61,7 @@
         </chapter>
         <graph unit="%" x="string" y="number">
           <title>Yield Bonds Differences</title>
-          <abstract>Definitively, yields bond as grow as the years raise.</abstract>
+          <abstract>Yield bonds grow as the years raise.</abstract>
           <dataset label= "Yield Bonds">
             <data x="2 years" y="1.37"/>
             <data x="5 years" y="0.28"/>
@@ -79,9 +79,9 @@
       </section>
       <section>
         <title>Bonds</title>
-        <subtitle>Where I should invest?</subtitle>
+        <subtitle>Where I Should Invest?</subtitle>
         <graph unit="%" x="country" y="number">
-          <title>10 years yield bonds in the world</title>
+          <title>Top 10-year yield bonds in the world</title>
           <dataset label= "Yield">
             <data x="US" y="1.77"/>
             <data x="BR" y="13.46"/>
@@ -94,7 +94,7 @@
         <chapter>
           <title>If you are strong invest in...</title>
           <paragraph>Junk bonds are risky investments, but have speculative appeal because they offer much higher yields than safer bonds.</paragraph>
-          <paragraph>Brazil is one of the new emerging countries and right now, the investitors are starting to acquire bonds (junk-bonds) in this country. In fact, the inflation is 7%, nevertheless the economy is growing about 3,5%.</paragraph>
+          <paragraph>Brazil is one of the new emerging countries and right now, the investors are starting to acquire bonds (junk-bonds) in this country. In fact, the inflation is 7%, nevertheless the economy is growing about 3,5%.</paragraph>
         </chapter>
         <chapter>
           <title>The worst bond is...</title>
@@ -121,7 +121,7 @@
         <title>Bonds</title>
         <subtitle>The new European way</subtitle>
         <chapter>
-          <paragraph>From the introduction of QE, BCE decided to buy corporate bonds, that are debts security issued by a corporation and sold to investors. But somethings doesn’t work in the last few weeks because the economy and the Draghi choices. In fact, yields is 0.78% and it is yield historical minimum.</paragraph>
+          <paragraph>From the introduction of QE, BCE decided to buy corporate bonds, that are debts security issued by a corporation and sold to investors. But somethings doesn’t work in the last few weeks because the economy and the Draghi choices. In fact, yields are at 0.78% and it is a historical minimum.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="number">
           <title>German Yield Bonds</title>
@@ -150,7 +150,7 @@
       <section>
         <title>Let's go to heaven!</title>
         <chapter>
-          <paragraph>The recent data leak of Panama Papers is already consider the biggest of the history, and in fact is truly so! It contains the internal documents of Mossak Fonseca, a Panamanian law firm that helps people to set up companies in tax havens, and revealed that some of the world’s richest people were evading taxes and hiding ill-gotten money through offshore accounts. Nothing new under the sun may you say, but let’s go deeply on matters.</paragraph>
+          <paragraph>The recent data leak of Panama Papers is already consider the biggest of the history, and in fact is truly so! It contains the internal documents of Mossak Fonseca, a Panamanian law firm that helps people to set up companies in tax havens, and revealed that some of the world’s richest people were evading taxes and hiding ill-gotten money through offshore accounts. Nothing new under the sun may you say, but let’s go deeper into matters.</paragraph>
         </chapter>
         <chapter>
           <title>A matter of fact</title>
