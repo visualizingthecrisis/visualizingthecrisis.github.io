@@ -11,13 +11,16 @@
     <sections>
       <section>
         <title>New York</title>
-        <subtitle>A missed opportunity</subtitle>
+        <subtitle>A Missed Opportunity</subtitle>
         <chapter>
-          <title>03.01.2016-Super Tuesday
+          <title>Super Tuesday
           </title>
-          <paragraph>One of the most important day of the American primaries. People will vote in 13 countries and it could be a decisive moment. “The problem is that candidates have any ideas what to do about fixing housing market.”
+          <paragraph>Super Tuesday (January 03rd, 2016) is one of the most important day of the American primaries. People will vote in 13 countries and it could be a decisive moment. “The problem is that candidates have any ideas what to do about fixing housing market.”
           </paragraph>
-          <paragraph>*Why bother about mr.Trump? D.Trump, known as "The Brick magnate", is the richest man in America and one of the most controversial personality in the world of politics. He colonized Manhattan and beyond, owning apartments, hotels and casinos. Thanks to this position he could have a big impact on the realty sector if americans will make him their new president.
+          </chapter>
+          <chapter>
+            <title>Why bother about Mr. Trump?</title>
+          <paragraph>Donald Trump, known as “The Brick magnate”, is the richest man in America and one of the most controversial personality in the world of politics. He colonized Manhattan and beyond, owning apartments, hotels and casinos. Thanks to this position he could have a big impact on the realty sector if Americans will make him their new president.
           </paragraph>
         </chapter>
         <keywords>
@@ -31,15 +34,16 @@
       </section>
       <section>
         <title>England</title>
-        <subtitle>Open eyes over mortgages</subtitle>
+        <subtitle>Open Eyes Over Mortgages</subtitle>
         <chapter>
-          <paragraph>Bank of England</paragraph>
+          <title>Bank of England</title>
           <paragraph>England is collecting information about recent mortgages in order to  avoid housing boom and bust. “How to tame one area without toppling the whole structure of the real estate system?”
           </paragraph>
         </chapter>
         <graph unit="K" x="date" y="number">
           <title>UK mortgage approvals</title>
-          <abstract>The data show that there has been a steady rising in mortgage approvals from 2011 to 2015.</abstract>
+          <abstract>The data show that there has been a steady rise in mortgage approvals from 2011 to 2015.</abstract>
+          <dataset label="">
           <data x="2008" y="35"/>
           <data x="2009" y="50"/>
           <data x="2010" y="50"/>
@@ -48,6 +52,7 @@
           <data x="2013" y="58"/>
           <data x="2014" y="66"/>
           <data x="2015" y="67"/>
+          </dataset>
         </graph>
         <keywords>
           <keyword name="Eastern Europe"/>
@@ -59,9 +64,9 @@
       </section>
       <section>
         <title>Italy</title>
-        <subtitle>New mortgage reform</subtitle>
+        <subtitle>A New Mortgage Reform</subtitle>
         <chapter>
-          <title>Italian challenge</title>
+          <title>The Italian challenge</title>
           <paragraph>The new request made by Europe create controversy in Italy, clashing with the Italian civil code. After 18 unpaid rates, banks are allowed to distrain the property.
           </paragraph>
         </chapter>
@@ -75,7 +80,7 @@
       </section>
       <section>
         <title>Saudi Arabia</title>
-        <subtitle>A bad example</subtitle>
+        <subtitle>A Bad Example</subtitle>
         <chapter>
           <title>The big mistake of banks</title>
           <paragraph>Central banks have slashed by half the down payment needed for house buyers to get a mortgage. Mortgage loan book is growing at about 40% per year.
@@ -91,7 +96,7 @@
       </section>
       <section>
         <title>Shanghai</title>
-        <subtitle>Good news</subtitle>
+        <subtitle>Good News</subtitle>
         <chapter>
           <title>4% Best day in 4 months</title>
           <paragraph>Real estate and resources share signs of recovery into property market. Real estate assets: 74.7% of total Chinese household assets.
@@ -108,27 +113,30 @@
     </sections>
   </bulletin>
   <bulletin id="1" date="20160303">
-    <title>Where american live</title>
+    <title>Where Americans Live</title>
     <sections>
       <section>
-        <title>Where everybody wants to live</title>
-        <subtitle>San Francisco real estate as before dot-com crash</subtitle>
+        <title>San Francisco</title>
+        <subtitle>Where Everybody Wants To Live</subtitle>
+        <abstract>San Francisco real estate is as before the dot-com crash.</abstract>
         <chapter>
-          <paragraph>boom median value of homes</paragraph>
+          <title>Boom median value of homes</title>
           <paragraph>
             <list type="unordered">
-              <item>$ 670,000 (2012)</item>
-              <item>$ 1,12 million (2016)</item>
+              <item>$670,000 (2012)</item>
+              <item>$1.12 million (2016)</item>
             </list>
           </paragraph>
-          <paragraph>property value + rent cost on watch list for a correction.
-          </paragraph>
+        </chapter>
+        <chapter>
+          <title>Property value + rent cost on watch list for a correction.
+          </title>
           <paragraph>
             <list type="unordered">
-              <item>very expensive</item>
-              <item>silicon valley and tech industry</item>
-              <item>overpopulated</item>
-              <item>house boom</item>
+              <item>Very expensive</item>
+              <item>Silicon Valley and tech industry</item>
+              <item>Overpopulated</item>
+              <item>House boom</item>
             </list>
           </paragraph>
         </chapter>
@@ -144,10 +152,10 @@
         </sources>
       </section>
       <section>
-        <title>Where nobody lives</title>
-        <subtitle>US new ghost cities</subtitle>
+        <title>US New Ghost Cities</title>
+        <subtitle>Where Nobody Lives</subtitle>
         <chapter>
-          <paragraph>The decline of american manufactory industry makes 147 metropolitan areas underpopulated:Flint, Detroit, Youngstown, Atlantic City, Beaumont.
+          <paragraph>The decline of american manufactory industry makes 147 metropolitan areas underpopulated: Flint, Detroit, Youngstown, Atlantic City, Beaumont.
           </paragraph>
         </chapter>
         <keywords>
@@ -162,8 +170,8 @@
         </sources>
       </section>
       <section>
-        <title>Where to go</title>
-        <subtitle>Screening cities</subtitle>
+        <title>Screening cities</title>
+        <subtitle>Where to go</subtitle>
         <chapter>
           <paragraph>Five places that could grow if people move there. Comparing grow and prosperity report, 100 biggest metro areas, 2015 affordability index and jobs quality. As a result you get five cities: Cincinnati, Pittsburgh, Columbus, Omaha, Minneapolis.
           </paragraph>
@@ -180,12 +188,13 @@
         </sources>
       </section>
       <section>
-        <title>Where a few can live</title>
-        <subtitle>Manhattan luxury reality market</subtitle>
+        <title>Manhattan</title>
+        <subtitle>Where Only A Few Can Live</subtitle>
         <chapter>
-          <paragraph>There is a slowdown: house contract dropped from 214 (in 2015) to 150 (in 2016). The new trend is to break penthouses into smaller accommodations.
+          <title>Manhattan luxury reality market</title>
+          <paragraph>There is a slowdown: house contracts dropped from 214 (in 2015) to 150 (in 2016). The new trend is to break penthouses into smaller accommodations.
           </paragraph>
-          <paragraph>Cuomo (Governor) and De Blasio (Mayor) have different solutions for affordable housing. Cuomo suggests fiscal cuts for $1,5 billion in five years. De Blasio proposes to increase taxes only for whom earn more than $50 millions a year.
+          <paragraph>Cuomo (Governor) and De Blasio (Mayor) have different solutions for affordable housing. Cuomo suggests fiscal cuts for $1.5 billion in five years. De Blasio proposes to increase taxes only for whom earn more than $50 millions a year.
           </paragraph>
         </chapter>
         <graph unit="Person/sq m" x="city" y="number">
