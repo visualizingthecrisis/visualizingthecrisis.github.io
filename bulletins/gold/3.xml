@@ -20,24 +20,25 @@
             higher transaction values as well as younger customers than the norm in the long term.</paragraph>
       </chapter>
       <graph unit= "%" x="string" y="percentage">
-           <title>People pro and versus Brexit</title>
-           <dataset label="Brexit vote">
-              <data x= "Over 60 pro Brexit" y="56"/>
-              <data x= "Under 30 versus Brexit" y="44"/>
+           <title>Pro and versus Brexit</title>
+           <dataset label="Over 60">
+              <data x= "Pro Brexit" y="56"/>
+              <data x= "Versus Brexit" y="44"/>
+            </dataset>
+            <dataset label="Under 30">
+              <data x= "Pro Brexit" y="44"/>
+              <data x= "Versus Brexit" y="56"/>
             </dataset>
            </graph>
       <graph unit= "%" x="string" y="number">
-                 <title>Gold investors before Brexit</title>
-                 <dataset>
+                 <title>Gold investors</title>
+                 <dataset label="Before Brexit">
                     <data x= "Over 60" y="30"/>
                     <data x= "Under 30" y="4"/>
                   </dataset>
-      </graph>
-      <graph unit= "%" x="string" y="number">
-       <title>Gold investors after Brexit</title>
-       <dataset>
-        <data x= "Over sixty investors" y="7"/>
-        <data x= "Under theerty investors" y="17"/>
+                  <dataset label="After Brexit">
+                     <data x= "Over 60 investors" y="7"/>
+                     <data x= "Under 30 investors" y="17"/>
        </dataset>
        </graph>
        <keywords>
@@ -301,6 +302,12 @@
     </section>
     <section>
       <title>Central Bank’s strategies</title>
+      <chapter>
+      	<paragraph>Central banks have a vital role in Forex trading: changes in 
+      	monetary policy and decisions on interest rates have a strong impact on every currency of the concerned country.
+        </paragraph><paragraph>Interest rates, set by each central bank, strongly influence the foreign exchange market. They encourage international 
+        investors to invest their money in the forex exchange in order to obtain a high yield.</paragraph>
+      </chapter>
       <graph unit= "%" x="string" y="number">
         <dataset label="Interest rates of the week">
           <data x= "FED" y="0.50"/>
