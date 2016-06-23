@@ -1,7 +1,7 @@
 Visualizing the Crisis
 ======================
 
-##### An Information Design workshop to track the unfolding global financial crisis.
+##### An Information Design workshop, tracking the unfolding global financial crisis.
 
 This repository collects the results and the complete documentation of the __MA Information Design Laboratory__ that took place at [Università IUAV di Venezia] (http://www.iuav.it) between February and June 2016. The course was planned as a 15-week design workshop within the department of Design and Planning in Complex Environments, and was attended by both first- and second-year students of the MA Communication Design, academic year 2015-2016.
 
