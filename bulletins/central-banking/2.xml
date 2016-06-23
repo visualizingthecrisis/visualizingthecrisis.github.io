@@ -9,9 +9,9 @@
         <bulletin id="02" date="20160312">
           <sections>
             <section>
-              <title>What is the future of money?</title>
+              <title>What Is The Future Of Money?</title>
               <chapter>
-                <paragraph>The nature of money changed after the Bretton Woods Conference in 1944, when most countries tied the value of their currencies to the US dollar, rather than to gold or silver. When the US went off the gold standard in 1971, all currencies essentially became "fiat moneys," with their value derived from the governments that issue them rather than from commodities.</paragraph>
+                <paragraph>The nature of money changed after the Bretton Woods Conference in 1944, when most countries tied the value of their currencies to the US dollar, rather than to gold or silver. When the US went off the gold standard in 1971, all currencies essentially became "flat moneys," with their value derived from the governments that issue them rather than from commodities.</paragraph>
                 <paragraph>Central banks can increase or decrease their money supply at will, giving them enormous control over economic activity. In extreme cases, hyperinflation can ensue, debasing the currency and wreaking havoc.</paragraph>
                 <paragraph>So it’s not surprising that innovating the concept of money through a digital currency has been a recurring theme in technology circles. Intuitively, it seems that the global financial system should be based on more than the judgments of a small group of central bankers. Yet only recently has digital money actually become possible.</paragraph>
               </chapter>
@@ -327,7 +327,7 @@
               <title>Bitcoin</title>
               <chapter>
                 <paragraph>Bitcoin is a digital currency created in 2009. It follows the ideas set out in a white paper by the mysterious Satoshi Nakamoto, whose true identity has yet to be verified. Bitcoin offers the promise of lower transaction fees than traditional online payment mechanisms and is operated by a decentralized authority, unlike government issued currencies.</paragraph>
-                <paragraph>The satoshi is currently the smallest unit of the bitcoin currency recorded on the blockchain. It is a one hundred millionth of a single bitcoin (0.00000001 BTC).</paragraph>
+                <paragraph>The Satoshi is currently the smallest unit of the Bitcoin currency recorded on the blockchain. It is a one hundred millionth of a single Bitcoin (0.00000001 BTC).</paragraph>
               </chapter>
               <graph unit="USD" x="date" y="number">
                 <title>Average BTC transactions per day</title>
@@ -339,12 +339,12 @@
                 </dataset>
               </graph>
               <chapter>
-                <paragraph>In 2014 the number of bitcoin transactions were $74.3 million. In just six years the popularity of cryptocurrencies have soared.</paragraph>
+                <paragraph>In 2014 the number of Bitcoin transactions were $74.3 million. In just six years the popularity of cryptocurrencies have soared.</paragraph>
                 <paragraph>Bitcoin is the largest cryptocurrency in both market capitalization, volume, acceptance and notoriety, but it’s not the most valuable coin.</paragraph>
               </chapter>
               <chapter>
-                <title>Who is accepting bitcoins?</title>
-                <paragraph>Many large companies are accepting bitcoins as a legitimate source of funds. They allow their online products to be bought with bitcoins.</paragraph>
+                <title>Who is accepting Bitcoins?</title>
+                <paragraph>Many large companies are accepting Bitcoins as a legitimate source of funds. They allow their online products to be bought with Bitcoins.</paragraph>
               </chapter>
               <graph unit="%" x="string" y="percentage">
                 <title>Top industries</title>
@@ -357,26 +357,26 @@
                 </dataset>
               </graph>
               <chapter>
-                <paragraph>The top industries in terms of bitcoin acceptance remain remarkably consistent. IT Services, including website hosting, registrars, and VPN services represent over a third of all merchant types.</paragraph>
-                <paragraph>The merchant type ‘Other’ comprises a broad range of retailers, enabling bitcoin owners to spend their coins on everything, from high-end watches to charity donations.</paragraph>
+                <paragraph>The top industries in terms of Bitcoin acceptance remain remarkably consistent. IT Services, including website hosting, registrars, and VPN services represent over a third of all merchant types.</paragraph>
+                <paragraph>The merchant type ‘Other’ comprises a broad range of retailers, enabling Bitcoin owners to spend their coins on everything, from high-end watches to charity donations.</paragraph>
               </chapter>
               <chapter>
-                <title>Why you should choose bitcoin as a payment method system</title>
+                <title>Why You Should Choose Bitcoin As A Payment Method System</title>
                 <paragraph>
                   <list type="ordered">
                   <item>PROTECTION FROM PAYMENT FRAUD. Bitcoins are digital and cannot be counterfeited or reversed arbitrarily by the sender.</item>
-                  <item>REDUCED POSSIBILITY OF IDENTITY THEFT. Bitcoins use a “push” mechanism that allows the bitcoin holder to send exactly what he or she wants to the merchant or recipient with no further information.</item>
+                  <item>REDUCED POSSIBILITY OF IDENTITY THEFT. Bitcoins use a “push” mechanism that allows the Bitcoin holder to send exactly what he or she wants to the merchant or recipient with no further information.</item>
                   <item>DIRECT TRANSFERS FOR IMMEDIATE SETTLEMENT. Bitcoins contracts can be designed and enforced to eliminate or add third party approvals.</item>
-                  <item>LOWER FEES. There aren’t usually transaction fees for bitcoin exchanges because the bitcoin miner is compensated by the network with newly issued bitcoins.</item>
+                  <item>LOWER FEES. There aren’t usually transaction fees for Bitcoin exchanges because the Bitcoin miner is compensated by the network with newly issued bitcoins.</item>
                 </list>
                 </paragraph>
               </chapter>
               <chapter>
                 <title>Bitcoins already mined</title>
-                <paragraph>There is a finite number of bitcoins that can be created. Over half have already been mined.</paragraph>
+                <paragraph>There is a finite number of Bitcoins that can be created. Over half have already been mined.</paragraph>
                 <paragraph>
                   <list type="unordered">
-                  <item>1/2 the number of new bitcoins created each year is automatically halved over time until bitcoin issuance halts completely.</item>
+                  <item>1/2 the number of new Bitcoins created each year is automatically halved over time until Bitcoin issuance halts completely.</item>
                   <item>By 2040 all 21 million Bitcoins should have been mined.</item>
                 </list>
                 </paragraph>
@@ -397,7 +397,7 @@
         </sources>
             </section>
             <section>
-              <title>How a Bitcoin transaction looks like</title>
+              <title>What A Bitcoin Transaction Looks Like</title>
               <chapter>
                 <paragraph>
                   <list type="ordered">
@@ -455,7 +455,7 @@
             <section>
               <title>Breaking News</title>
               <chapter>
-                <title>Forty Big Banks Test Blockchain Based Bond Trading System</title>
+                <title>Forty big banks test blockchain-based bond trading system</title>
                 <paragraph>Forty of the world’s biggest banks, including HSBC
 and Citi, have tested a system for trading fixed income
 using the technology that underpins bitcoin, fintech
@@ -492,14 +492,14 @@ and vendors that had accepted Bitcoin are starting
 to drop out.</paragraph>
               </chapter>
               <chapter>
-                <title>Thought bitcoin was dead? 2016 is the year it goes big</title>
-                <paragraph>In recent months, bitcoin grabbed tremendous attention because its underlying technology, the blockchain, also can be used to reinvent the exchange of stock and other financial securities.
-several big names in finance and banking invested in the bitcoin startup Chain. This included Nasdaq, Citi Ventures, Capital One Financial, and Visa.</paragraph>
+                <title>Thought Bitcoin was dead? 2016 is the year it goes big</title>
+                <paragraph>In recent months, Bitcoin grabbed tremendous attention because its underlying technology, the blockchain, also can be used to reinvent the exchange of stock and other financial securities.
+several big names in finance and banking invested in the Bitcoin startup Chain. This included Nasdaq, Citi Ventures, Capital One Financial, and Visa.</paragraph>
               </chapter>
               <chapter>
-                <title>US prosecutors believe Ex-secret service agent stole more bitcoin from Silk Road</title>
-                <paragraph>The US government believes that a former Secret Service agent convicted of stealing hundreds of thousands of dollars in bitcoin during the investigation of Silk Road may have been involved with additional thefts from the now-defunct online dark market.
-Ex-Secret Service agent Shaun Bridges was sentenced to nearly six years in federal prison after pleading guilty last year to money laundering and obstruction charges tied to the theft of more than $800,000 in bitcoin from the Silk Road during the US government’s investigation.</paragraph>
+                <title>US prosecutors believe Ex-secret service agent stole more Bitcoin from Silk Road</title>
+                <paragraph>The US government believes that a former Secret Service agent convicted of stealing hundreds of thousands of dollars in Bitcoin during the investigation of Silk Road may have been involved with additional thefts from the now-defunct online dark market.
+Ex-Secret Service agent Shaun Bridges was sentenced to nearly six years in federal prison after pleading guilty last year to money laundering and obstruction charges tied to the theft of more than $800,000 in Bitcoin from the Silk Road during the US government’s investigation.</paragraph>
               </chapter>
               <chapter>
                 <title>Russia’s central bank establishes blockchain working group</title>
@@ -602,7 +602,7 @@ When the bitcoin client switches to another, longer chain, all valid transaction
                   <list type="unordered">
                     <item>The rising blockchain size is 61 in 2016</item>
                       <item>On March 13rd number of transactions per day is 185</item>
-                      <item>On March 13rd number of transactions per block is 1,2</item>
+                      <item>On March 13rd number of transactions per block is 1.2</item>
                       </list>
                 </paragraph>
               </chapter>
