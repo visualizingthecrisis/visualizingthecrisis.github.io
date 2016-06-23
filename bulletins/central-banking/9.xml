@@ -9,13 +9,13 @@
   <bulletin id="09" date="20160507">
     <sections>
       <section>
-        <title>The last Bin Laden</title>
+        <title>The Last Bin Laden</title>
         <chapter>
-          <paragraph>The European Central Bank (ECB) approved on Wednesday, May 4th, 2016 the progressive disappearance of the 500€ notes as a method to fight crime, drug trafficking and terrorism. The council body, formed by its president, Mario Draghi, and the presidents of all the continental central banks agreed that member states can not print more paper currency units higher value of the entire eurozone. ECB decided to stop issuing the high-value note by the end of 2018. The 500€ note is rarely used in daily transactions, it has even been nicknamed “Bin Laden” for its elusiveness.</paragraph>
+          <paragraph>The European Central Bank (ECB) approved on Wednesday, May 4th, 2016 the progressive disappearance of the €500 notes as a method to fight crime, drug trafficking and terrorism. The council body, formed by its president, Mario Draghi, and the presidents of all the continental central banks agreed that member states can not print more paper currency units higher value of the entire eurozone. ECB decided to stop issuing the high-value note by the end of 2018. The €500 note is rarely used in daily transactions, it has even been nicknamed “Bin Laden” for its elusiveness.</paragraph>
         </chapter>
         <graph unit="EUR" x="country" y="number">
-          <title>€500 emissed by central bank in 2015</title>
-          <dataset label= "mln €500 emissed">
+          <title>€500 issued by central bank in 2015</title>
+          <dataset label= "mln €500 issued">
             <data x="ES" y="68"/>
             <data x="IT" y="65"/>
             </dataset>
@@ -33,7 +33,7 @@
         </sources>
       </section>
       <section>
-        <title>The 500€ banknote</title>
+        <title>The €500 banknote</title>
         <abstract>Do you know that...</abstract>
         <graph unit="%" x="string" y="number">
           <title>The portion of €500 banknotes in circulation value</title>
@@ -42,13 +42,13 @@
           </dataset>
         </graph>
         <graph unit="%" x="string" y="number">
-          <title>Of EU citizens have never seen a 500 euro note</title>
+          <title>Of EU citizens have never seen a €500 note</title>
           <dataset label= "citizens never seen the banknote">
             <data x="citizens never seen €500" y="56"/>
           </dataset>
         </graph>
         <graph unit="%" x="string" y="number">
-          <title>Of 500 euro bills are outside of Europe</title>
+          <title>Of €500 bills are outside of Europe</title>
           <dataset label= "€500 outside Europe">
             <data x="€500 outside Europe" y="80"/>
           </dataset>
@@ -66,9 +66,9 @@
       </section>
       <section>
         <title>Pro death</title>
-        <subtitle>The country that wants to abolish the 500€ banknote</subtitle>
+        <subtitle>The country that wants to abolish the €500 banknote</subtitle>
         <chapter>
-          <paragraph>France is one of the countries that wanted to stop printing €500 banknotes. Indeed, a few weeks ago the Minister of Finance, Michel Sapin has thus settled the question: “500 euros’ banknotes are generally used to hide things instead of buying them”, highlighting the correlation between this banknote and the crime.</paragraph>
+          <paragraph>France is one of the countries that wanted to stop printing €500 banknotes. Indeed, a few weeks ago the Minister of Finance, Michel Sapin has thus settled the question: “500 euros’ banknotes are generally used to hide things instead of buying them”, highlighting the correlation between this banknote and crime.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="number">
           <title>€500 bills situation</title>
@@ -87,10 +87,10 @@
       </sources>
       </section>
       <section>
-        <title>The 500€ banknote</title>
+        <title>The €500 banknote</title>
         <subtitle>Top Italian deposits</subtitle>
         <chapter>
-          <paragraph>In 2015 Italian Central Bank emitted 65 millions of €500 but they have returned more than 8 times. During the last few years that bill is incresed in every banks like a deposit, especially in the north of country.</paragraph>
+          <paragraph>In 2015 Italian Central Bank emitted 65 millions of €500 but they have returned more than 8 times. During the last few years that bill is incresed in every banks like a deposit, especially in the North of country.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="number">
           <title>€500 deposit in the North of Italy</title>
@@ -101,7 +101,7 @@
           </dataset>
         </graph>
         <chapter>
-          <paragraph>Also, in the South of Italy bank deposits of .500 bill are high, especially in regions where racketeering works.</paragraph>
+          <paragraph>Also, in the South of Italy bank deposits of €500 bill are high, especially in regions where racketeering works.</paragraph>
         </chapter>
         <graph unit="EUR" x="string" y="number">
           <title>€500 deposit in the South of Italy</title>
@@ -121,10 +121,10 @@
       </sources>
       </section>
       <section>
-        <title>The 500€ banknote</title>
+        <title>The €500 banknote</title>
         <subtitle>Growth in circulation</subtitle>
         <chapter>
-          <paragraph>The circulation of €500 bill has increased dramatically from 2002, sparking fears the bill was being used to finance terrorism. The 500€ bill now makes up just under a third of all cash in circulation in the EU. The other denominations, from €5 to €200, will remain in place.</paragraph>
+          <paragraph>The circulation of €500 bill has increased dramatically from 2002, sparking fears the bill was being used to finance terrorism. The €500 bill now makes up just under a third of all cash in circulation in the EU. The other denominations, from €5 to €200, will remain in place.</paragraph>
         </chapter>
         <graph unit="EUR" x="date" y="number">
           <title>Growth of Euro banknotes</title>
@@ -246,9 +246,9 @@
       </section>
       <section>
         <title>How much is it?</title>
-        <subtitle>The cost to abolish the 500€ banknote</subtitle>
+        <subtitle>The cost to abolish the €500 banknote</subtitle>
         <chapter>
-          <paragraph>The reform has a price for the European Central Bank, since they'll have to print more 100€ and 200€ banknotes for substituting the 500€ bill. The operation will cost about 500 millions euros, said the Bundesbank. But this is important for improving investments and save money.</paragraph>
+          <paragraph>The reform has a price for the European Central Bank, since they'll have to print more €100 and €200 banknotes for substituting the €500 bill. The operation will cost about 500 millions euros, said the Bundesbank. But this is important for improving investments and save money.</paragraph>
         </chapter>
         <keywords>
         <keyword name="Currencies" />
@@ -295,7 +295,7 @@ less powerful but longer duration attacks were the norm.</paragraph>
           <text>Olympus will fall. A few days ago we declared the revival of Operation Icarus. We will not let the banks win, we will be attacking the banks with one of the most massive attacks ever seen in the history of Anonymous. Today we have continuously taken down the website of the Bank of Greece, this marks the start of a 30-day campaign against central bank sites across the world. We are anonymous. We are legion. We do not forgive. We do not forget. We are the voice, of the voiceless. Global banking cartel, you've probably expected us.</text>
         </quote>
         <chapter>
-          <title>The group anonymous</title>
+          <title>The group Anonymous</title>
           <paragraph>The various people behind Anonymous worldwide are united in a belief that corporations and organizations they consider to be corrupt should be attacked. Not all of Anonymous’ activities involve attacking networks or websites. Anonymous has also been active in initiating public protests. But the web and IRC channels are the lifeblood of the group. If it weren’t for the Internet, Anonymous would’ve never existed.</paragraph>
         </chapter>
         <chapter>
@@ -432,7 +432,7 @@ less powerful but longer duration attacks were the norm.</paragraph>
       </sources>
       </section>
       <section>
-      <title>Money loundering</title>
+      <title>Money Laundering</title>
       <chapter>
         <title>What is it?</title>
         <paragraph>Money laundering is the process of creating the appearance that large amounts of money obtained from serious crimes, such as drug trafficking or terrorist activity, originated from a legitimate source.</paragraph>
