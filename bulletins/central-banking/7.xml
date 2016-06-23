@@ -77,7 +77,7 @@
               <item>The governors of the national central banks (NCBs) of the 28 EU Member States</item>
             </list>
           </paragraph>
-          <paragraph>In other words, it includes representatives of the 19 Euro Area countries and the 9 non-euro area countries. The other members of the ECB's Executive Board, the President of the EU Council and one member of the European Commission may attend the meetings of the General Council but do not have the right to vote. In accordance with the Statute of the European System of Central Banks and of the European Central Bank, the General Council will be dissolved once all EU Member States have introduced the single currency.</paragraph>
+          <paragraph>In other words, it includes representatives of the 19 Eurozone countries and the 9 non-euro area countries. The other members of the ECB's Executive Board, the President of the EU Council and one member of the European Commission may attend the meetings of the General Council but do not have the right to vote. In accordance with the Statute of the European System of Central Banks and of the European Central Bank, the General Council will be dissolved once all EU Member States have introduced the single currency.</paragraph>
         </chapter>
         <chapter>
           <title>Governing Council</title>
@@ -101,7 +101,7 @@
         </sources>
       </section>
       <section>
-        <title>On 21st April Mario Draghi's speech</title>
+        <title>Mario Draghi's Speech, 21 April 2016</title>
         <chapter>
           <title>13.45 What about monetary policy?</title>
           <paragraph>Ladies and gentlemen, the Vice-President and I are very pleased to welcome you to our press conference. We will now report on the outcome of today’s meeting of the Governing Council.</paragraph>
@@ -236,7 +236,7 @@
       <paragraph>A first series of TLTROs was announced on 5 June 2014 and a second series (TLTRO-II) on 10 March 2016. The second series of the TLTRO programme consists of four targeted longer-term refinancing operations (TLTRO-II), each with a maturity of four years, starting in June 2016. Borrowing conditions in these operations can be as low as the interest rate on the deposit facility.</paragraph>
     </chapter>
     <chapter>
-      <paragraph>Euro Area -0.2%</paragraph>
+      <title>Eurozone -0.2%</title>
       <paragraph>The risks to the euro area growth outlook still remain tilted to the downside. Our recent monetary policy decisions have improved overall financing conditions, which should support the outlook for consumption and investment. However, uncertainties persist and relate, in particular, to developments in the global economy and to geopolitical risks. The reafter, supported by our monetary policy measures and the expected economic recovery, inflation rates should recover further in 2017 and 2018.</paragraph>
     </chapter>
     <keywords>
@@ -252,8 +252,9 @@
     </sources>
       </section>
       <section>
-        <title>14.38 Economic analysis</title>
+        <title>Mario Draghi's Speech, 21 April 2016</title>
         <chapter>
+        <title>14.38 Economic analysis</title>
           <paragraph>Let me now explain our assessment in greater detail, starting with the economic analysis. Euro area real GDP increased by 0.3%, quarter on quarter, in the fourth quarter of 2015, supported by domestic demand, while being dampened by relatively weak export trends. Incoming data for the first quarter of 2016 point to ongoing output growth, at a pace broadly similar to that in the final quarter of 2015. Moreover, our accommodative monetary policy stance, continued employment gains resulting from past structural reforms and the still relatively low price of oil should provide ongoing support for households’ real disposable income and private consumption.</paragraph>
         </chapter>
         <graph unit="%" x="string" y="number">
