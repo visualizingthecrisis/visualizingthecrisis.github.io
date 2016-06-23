@@ -19,11 +19,12 @@ $(document).ready(function(){
   $.getJSON( "data.json", function( data ) {
     console.log(data.keywords);
     console.log(data.keywords.length);
-    processFilters(data.keywords);
+    var number=parseInt(data.count);
+    processFilters(data.keywords,number);
   });
 });
 
-function processFilters(filters){
+function processFilters(filters,count){
 
   var $all=$('<sections></sections>');
     function parse(i){
@@ -44,10 +45,11 @@ function processFilters(filters){
               $(sections[s]).append(authors);
               $all.append(sections[s]);
             }
-            parse(i+1);
-          },
-          async: false
+
+          }
+          ,async: false
         });
+        parse(i+1);
       }
       else{
         //  console.log($all.html());
@@ -56,7 +58,7 @@ function processFilters(filters){
         $("#bulletin-header").children().remove();
         $("#bulletin-footer").children().remove();
 
-        processXML($all,filters,10);
+        processXML($all,filters,10,false,count);
         $(".loader-container").fadeOut();
       }
     }

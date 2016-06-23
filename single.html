@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>VISUALISING THE CRISIS</title>
+    <link href="css/c3.css" rel="stylesheet" type="text/css">
+    <link href="css/patterns.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+
+    <script src="js/jquery.min.js" charset="utf-8"></script>
+    <script src='js/files.js'></script>
+    <script src='js/jquery-treemap.js'></script>
+    <script type="text/javascript" src="js/d3.js" charset="utf-8"></script>
+    <script type="text/javascript" src="js/d3plus.js"></script>
+    <script src="js/c3.js"></script>
+    <script src="js/main.js" charset="utf-8"></script>
+    <script src="js/jquery.simplemasonry.js" charset="utf-8"></script>
+    <script src="js/single.js" charset="utf-8"></script>
+
+    <style type="text/css">
+    html{
+      zoom:1;
+    }
+    div{
+      display:inline-block;
+    }
+    </style>
+  </head>
+  <body>
+    <div>
+    <div id='bulletin-header'></div>
+
+    <div id="bulletin-container"></div>
+    <div id='bulletin-footer'></div>
+  </div>
+
+
+
+
+
+
+
+
+
+    <!-- SVG DEFINITION -->
+
+
+
+
+    <svg height="8" width="8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="crosshatch1" patternUnits="userSpaceOnUse" width="2" height="2">
+          <image xlink:href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='8' height='8'><path fill='#fff' d='M0 0h8v8h-8z'/><path d='M0 0l8 8zm8 0l-8 8z' stroke-width='1' stroke='#000000'/></svg>" x="0" y="0" width="8" height="8">
+          </image>
+        </pattern>
+        <pattern id="crosshatch2" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='8' height='8'><path fill='#fff' d='M0 0h8v8h-8z'/><path d='M0 0l8 8zm8 0l-8 8z' stroke-width='1' stroke='#000000'/></svg>" x="0" y="0" width="8" height="8">
+          </image>
+        </pattern>
+        <pattern id="crosshatch3" patternUnits="userSpaceOnUse" width="8" height="8">
+          <image xlink:href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='8' height='8'><path fill='#fff' d='M0 0h8v8h-8z'/><path d='M0 0l8 8zm8 0l-8 8z' stroke-width='1' stroke='#000000'/></svg>" x="0" y="0" width="8" height="8">
+          </image>
+        </pattern>
+        <pattern id="crosshatch4" patternUnits="userSpaceOnUse" width="12" height="12">
+          <image xlink:href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='8' height='8'><path fill='#fff' d='M0 0h8v8h-8z'/><path d='M0 0l8 8zm8 0l-8 8z' stroke-width='1' stroke='#000000'/></svg>" x="0" y="0" width="8" height="8">
+          </image>
+        </pattern>
+        <pattern id="crosshatch5" patternUnits="userSpaceOnUse" width="4" height="16">
+          <image xlink:href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='8' height='8'><path fill='#fff' d='M0 0h8v8h-8z'/><path d='M0 0l8 8zm8 0l-8 8z' stroke-width='1' stroke='#000000'/></svg>" x="0" y="0" width="8" height="8">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+
+            <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="circles-1" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSJ3aGl0ZSIgLz4KICA8Y2lyY2xlIGN4PSIxIiBjeT0iMSIgcj0iMSIgZmlsbD0iYmxhY2siLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="circles-2" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8Y2lyY2xlIGN4PScxLjUnIGN5PScxLjUnIHI9JzEuNScgZmlsbD0nYmxhY2snLz4KPC9zdmc+Cg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="circles-3" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8Y2lyY2xlIGN4PScyJyBjeT0nMicgcj0nMicgZmlsbD0nYmxhY2snLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="circles-4" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8Y2lyY2xlIGN4PScyLjUnIGN5PScyLjUnIHI9JzIuNScgZmlsbD0nYmxhY2snLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="circles-5" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8Y2lyY2xlIGN4PSczJyBjeT0nMycgcj0nMycgZmlsbD0nYmxhY2snLz4KPC9zdmc+Cg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="circles-6" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8Y2lyY2xlIGN4PSczLjUnIGN5PSczLjUnIHI9JzMuNScgZmlsbD0nYmxhY2snLz4KPC9zdmc+Cg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="circles-7" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8Y2lyY2xlIGN4PSc0JyBjeT0nNCcgcj0nNCcgZmlsbD0nYmxhY2snLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="circles-8" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8Y2lyY2xlIGN4PSc0LjUnIGN5PSc0LjUnIHI9JzQuNScgZmlsbD0nYmxhY2snLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="circles-9" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8Y2lyY2xlIGN4PSc1JyBjeT0nNScgcj0nNScgZmlsbD0nYmxhY2snLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+
+
+            <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="diagonal-stripe-1" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScvPgogIDxwYXRoIGQ9J00tMSwxIGwyLC0yCiAgICAgICAgICAgTTAsMTAgbDEwLC0xMAogICAgICAgICAgIE05LDExIGwyLC0yJyBzdHJva2U9J2JsYWNrJyBzdHJva2Utd2lkdGg9JzEnLz4KPC9zdmc+Cg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="diagonal-stripe-2" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScvPgogIDxwYXRoIGQ9J00tMSwxIGwyLC0yCiAgICAgICAgICAgTTAsMTAgbDEwLC0xMAogICAgICAgICAgIE05LDExIGwyLC0yJyBzdHJva2U9J2JsYWNrJyBzdHJva2Utd2lkdGg9JzInLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="diagonal-stripe-3" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScvPgogIDxwYXRoIGQ9J00tMSwxIGwyLC0yCiAgICAgICAgICAgTTAsMTAgbDEwLC0xMAogICAgICAgICAgIE05LDExIGwyLC0yJyBzdHJva2U9J2JsYWNrJyBzdHJva2Utd2lkdGg9JzMnLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="diagonal-stripe-4" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSdibGFjaycvPgogIDxwYXRoIGQ9J00tMSwxIGwyLC0yCiAgICAgICAgICAgTTAsMTAgbDEwLC0xMAogICAgICAgICAgIE05LDExIGwyLC0yJyBzdHJva2U9J3doaXRlJyBzdHJva2Utd2lkdGg9JzMnLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="diagonal-stripe-5" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSdibGFjaycvPgogIDxwYXRoIGQ9J00tMSwxIGwyLC0yCiAgICAgICAgICAgTTAsMTAgbDEwLC0xMAogICAgICAgICAgIE05LDExIGwyLC0yJyBzdHJva2U9J3doaXRlJyBzdHJva2Utd2lkdGg9JzInLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="diagonal-stripe-6" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSdibGFjaycvPgogIDxwYXRoIGQ9J00tMSwxIGwyLC0yCiAgICAgICAgICAgTTAsMTAgbDEwLC0xMAogICAgICAgICAgIE05LDExIGwyLC0yJyBzdHJva2U9J3doaXRlJyBzdHJva2Utd2lkdGg9JzEnLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+
+
+            <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="dots-1" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMScgaGVpZ2h0PScxJyBmaWxsPSdibGFjaycgLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="dots-2" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMicgaGVpZ2h0PScyJyBmaWxsPSdibGFjaycgLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="dots-3" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMycgaGVpZ2h0PSczJyBmaWxsPSdibGFjaycgLz4KPC9zdmc+Cg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="dots-4" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nNCcgaGVpZ2h0PSc0JyBmaWxsPSdibGFjaycgLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="dots-5" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nNScgaGVpZ2h0PSc1JyBmaWxsPSdibGFjaycgLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="dots-6" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nNicgaGVpZ2h0PSc2JyBmaWxsPSdibGFjaycgLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="dots-7" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nNycgaGVpZ2h0PSc3JyBmaWxsPSdibGFjaycgLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="dots-8" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nOCcgaGVpZ2h0PSc4JyBmaWxsPSdibGFjaycgLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="dots-9" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nOScgaGVpZ2h0PSc5JyBmaWxsPSdibGFjaycgLz4KPC9zdmc+" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+
+
+            <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="horizontal-stripe-1" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMTAnIGhlaWdodD0nMScgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="horizontal-stripe-2" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMTAnIGhlaWdodD0nMicgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="horizontal-stripe-3" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMTAnIGhlaWdodD0nMycgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="horizontal-stripe-4" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMTAnIGhlaWdodD0nNCcgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="horizontal-stripe-5" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMTAnIGhlaWdodD0nNScgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="horizontal-stripe-6" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMTAnIGhlaWdodD0nNicgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="horizontal-stripe-7" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMTAnIGhlaWdodD0nNycgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="horizontal-stripe-8" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMTAnIGhlaWdodD0nOCcgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="horizontal-stripe-9" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMTAnIGhlaWdodD0nOScgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+
+
+            <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="vertical-stripe-1" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMScgaGVpZ2h0PScxMCcgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="vertical-stripe-2" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMicgaGVpZ2h0PScxMCcgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="vertical-stripe-3" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMycgaGVpZ2h0PScxMCcgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="vertical-stripe-4" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nNCcgaGVpZ2h0PScxMCcgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="vertical-stripe-5" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nNScgaGVpZ2h0PScxMCcgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="vertical-stripe-6" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nNicgaGVpZ2h0PScxMCcgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="vertical-stripe-7" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nNycgaGVpZ2h0PScxMCcgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="vertical-stripe-8" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nOCcgaGVpZ2h0PScxMCcgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="vertical-stripe-9" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nOScgaGVpZ2h0PScxMCcgZmlsbD0nYmxhY2snIC8+Cjwvc3ZnPg==" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+
+
+            <svg height="8" width="8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="crosshatch" patternUnits="userSpaceOnUse" width="8" height="8">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4JyBoZWlnaHQ9JzgnPgogIDxyZWN0IHdpZHRoPSc4JyBoZWlnaHQ9JzgnIGZpbGw9JyNmZmYnLz4KICA8cGF0aCBkPSdNMCAwTDggOFpNOCAwTDAgOFonIHN0cm9rZS13aWR0aD0nMC41JyBzdHJva2U9JyNhYWEnLz4KPC9zdmc+Cg==" x="0" y="0" width="8" height="8">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="4" width="4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="houndstooth" patternUnits="userSpaceOnUse" width="4" height="4">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMTAnIGhlaWdodD0nMTAnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+CiAgPHBhdGggZD0nTTAgMEw0IDQnIHN0cm9rZT0nI2FhYScgZmlsbD0nI2FhYScgc3Ryb2tlLXdpZHRoPScxJy8+CiAgPHBhdGggZD0nTTIuNSAwTDUgMi41TDUgNUw5IDlMNSA1TDEwIDVMMTAgMCcgc3Ryb2tlPScjYWFhJyBmaWxsPScjYWFhJyBzdHJva2Utd2lkdGg9JzEnLz4KICA8cGF0aCBkPSdNNSAxMEw1IDcuNUw3LjUgMTAnIHN0cm9rZT0nI2FhYScgZmlsbD0nI2FhYScgc3Ryb2tlLXdpZHRoPScxJy8+Cjwvc3ZnPgo=" x="0" y="0" width="4" height="4">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="5" width="5" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="lightstripe" patternUnits="userSpaceOnUse" width="5" height="5">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc1JyBoZWlnaHQ9JzUnPgogIDxyZWN0IHdpZHRoPSc1JyBoZWlnaHQ9JzUnIGZpbGw9J3doaXRlJy8+CiAgPHBhdGggZD0nTTAgNUw1IDBaTTYgNEw0IDZaTS0xIDFMMSAtMVonIHN0cm9rZT0nIzg4OCcgc3Ryb2tlLXdpZHRoPScxJy8+Cjwvc3ZnPg==" x="0" y="0" width="5" height="5">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="5" width="5" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="smalldot" patternUnits="userSpaceOnUse" width="5" height="5">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc1JyBoZWlnaHQ9JzUnPgo8cmVjdCB3aWR0aD0nNScgaGVpZ2h0PSc1JyBmaWxsPScjZmZmJy8+CjxyZWN0IHdpZHRoPScxJyBoZWlnaHQ9JzEnIGZpbGw9JyNjY2MnLz4KPC9zdmc+" x="0" y="0" width="5" height="5">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="5" width="5" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="subtle-patch" patternUnits="userSpaceOnUse" width="5" height="5">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc1JyBoZWlnaHQ9JzUnPgogIDxyZWN0IHdpZHRoPSc1JyBoZWlnaHQ9JzUnIGZpbGw9J3doaXRlJyAvPgogIDxyZWN0IHg9JzInIHk9JzInIHdpZHRoPScxJyBoZWlnaHQ9JzEnIGZpbGw9J2JsYWNrJyAvPgo8L3N2Zz4=" x="0" y="0" width="5" height="5">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="49" width="6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="verticalstripe" patternUnits="userSpaceOnUse" width="6" height="49">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc2JyBoZWlnaHQ9JzQ5Jz4KICA8cmVjdCB3aWR0aD0nMycgaGVpZ2h0PSc1MCcgZmlsbD0nI2ZmZicvPgogIDxyZWN0IHg9JzMnIHdpZHRoPScxJyBoZWlnaHQ9JzUwJyBmaWxsPScjY2NjJy8+Cjwvc3ZnPgo=" x="0" y="0" width="6" height="49">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+    <svg height="6" width="6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <defs>
+        <pattern id="whitecarbon" patternUnits="userSpaceOnUse" width="6" height="6">
+          <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHhtbG5zOnhsaW5rPSdodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rJyB3aWR0aD0nNicgaGVpZ2h0PSc2Jz4KICA8cmVjdCB3aWR0aD0nNicgaGVpZ2h0PSc2JyBmaWxsPScjZWVlZWVlJy8+CiAgPGcgaWQ9J2MnPgogICAgPHJlY3Qgd2lkdGg9JzMnIGhlaWdodD0nMycgZmlsbD0nI2U2ZTZlNicvPgogICAgPHJlY3QgeT0nMScgd2lkdGg9JzMnIGhlaWdodD0nMicgZmlsbD0nI2Q4ZDhkOCcvPgogIDwvZz4KICA8dXNlIHhsaW5rOmhyZWY9JyNjJyB4PSczJyB5PSczJy8+Cjwvc3ZnPg==" x="0" y="0" width="6" height="6">
+          </image>
+        </pattern>
+      </defs>
+    </svg>
+</body>
+</html>

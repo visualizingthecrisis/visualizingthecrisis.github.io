@@ -9,7 +9,9 @@ $(document).ready(function(){
   $("body").append("<div class='loader-container'><div class='loader'></div></div>");
 });
 
-function processXML(d,filters,m){
+function processXML(d,filters,m, justGraph,count){
+var counter=1;
+if(count)counter=count;
   sources_array=[];
   authors_array=[];
   filtersUnwrap="all the topics";
@@ -30,7 +32,8 @@ function processXML(d,filters,m){
       $(sections[s]).attr('order',count);
     }
   }
-  $("#bulletin-header").append("<div class='main-title'><div class='block-div' style='display:block'>Visualizing </div>the Crisis</div><div class='main-report'>REPORT N.23</div><div class='main-subtitle'><div class='block-div' style='display:block'>TRACKING THE UNFOLDING </div>GLOBAL FINANCIAL CRISIS</div>"+
+  if(!justGraph)
+  $("#bulletin-header").append("<div class='main-title'><div class='block-div' style='display:block'>Visualizing </div>the Crisis</div><div class='main-report'>REPORT N."+counter+"</div><div class='main-subtitle'><div class='block-div' style='display:block'>TRACKING THE UNFOLDING </div>GLOBAL FINANCIAL CRISIS</div>"+
   "<div class='main-info'>This information was gathered between February and June 2016 during the MA Information Design lab at IUAV, Venice. Below are the most relevant results relating to <span style='display:inline;font-family: SF-UI-Heavy, Helvetica;'>"+filtersUnwrap+".</span>​</div>");
 
   if(filters){
@@ -62,6 +65,7 @@ function processXML(d,filters,m){
     var elements=$(sections[s]).children();
     for (var i = 0; i < elements.length; ++i) {
       var $element= $(elements[i]);
+      if(!justGraph){
       if($element.is('title'))$section_div.append("<span class='section-title'>"+$(sections[s]).find('title').first().text()+"</span>");
       if($element.is('subtitle'))$section_div.append("<span class='section-subtitle'>"+$(sections[s]).find('subtitle').first().text()+"</span>");
       if($element.is('quote')){
@@ -76,17 +80,18 @@ function processXML(d,filters,m){
         $section_div.append("<div class='section-quote'><span class='quote-text'>"+$element.find('text').first().text()+"</span>"+"<span class='quote-author'>  "+$element.find('author').first().text()+role+"</span></div>");
       }
       if($element.is('abstract'))$section_div.append("<span class='section-abstract'>"+$element.text()+"</span>");
-
+      }
       if($element.is('graph'))graphToHTML($element,$section_div);
+      if(!justGraph){
       if($element.is('chapter'))chapterToHTML($element,$section_div);
       if($element.is('table'))tableToHTML($element,$section_div);
       if($element.is('keywords'))keywordsToHTML($element,$section_div,filters);
       if($element.is('sources'))sourcesToHTML($element,$section_div);
-
+      }
     }
     addAuthors($(sections[s]));
   }
-
+  if(justGraph)return;
   var sourcesL="";
   var authorsL="";
   for(var i=0;i<sources_array.length;i++){
@@ -440,7 +445,7 @@ function getDefaultGraphSettings(){
   var settings={
     //bindto: '#graph'+graph_number,
     size: {height: 365},
-    padding: {  top: 10,bottom:15 ,right:50},
+    padding: {  top: 10,bottom:20 ,right:50},
     color: {pattern:patterns},
     data: {
       x: 'x',

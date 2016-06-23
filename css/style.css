@@ -104,6 +104,11 @@ p, ul{
     border-top: 3px solid black;
 
 }
+
+.section-treemap{
+  margin-top:20px;
+}
+
 .quote-author{
   margin-top: 20px;
 }
@@ -124,10 +129,6 @@ p, ul{
 
 .section-abstract{
     margin-top:40px;
-}
-
-.section-treemap{
-  margin-top: 0px;
 }
 
 .section-graph{

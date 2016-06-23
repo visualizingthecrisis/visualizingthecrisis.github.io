@@ -11,7 +11,7 @@ $(document).ready(function(){
         success: function(xml){
           $("#bulletin-container").append('<div style="display:block;width:100%;background-color:black;color:white;">'+paths[i]+'</div>');
           console.log('processing: '+paths[i]);
-          processXML(xml);
+          processXML(xml,undefined,undefined,true);
         /*  var section_array=$(xml).find('section');
           for(var s=0;s<section_array.length;s++){
             $all.append(section_array[s]);
