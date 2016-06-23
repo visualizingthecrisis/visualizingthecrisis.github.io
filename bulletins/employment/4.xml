@@ -945,7 +945,7 @@
           <data x="2015" y="34" />
         </dataset>
       </graph>
-      <graph unit="" x="date" y="number">
+      <graph unit="" x="date" y="number">
         <title>Number of Chinese protests from March 2015 to March 2016</title>
         <dataset label="">
           <data x="20150331" y="168" />
