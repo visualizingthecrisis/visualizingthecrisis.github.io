@@ -10,7 +10,7 @@
   <bullettin id="06" date="20160423">
    <sections>
    	 <section>
-       <title>Gold price</title>
+       <title>Gold Price</title>
        <subtitle>Week 14</subtitle>
        <graph unit="$/oz" x="date" y="number">
          <dataset>
@@ -29,7 +29,7 @@
        </sources>
       </section>
     <section>
-      <title>Gold: a safe investment</title>
+      <title>Gold. A Safe Investment</title>
       <chapter>
          <paragraph>
         The investment in gold is one of the most “safe harbors” for all those who
@@ -126,7 +126,7 @@ and identiﬁed by the ofﬁcial hallmark.
         </sources>
      </section>
      <section>
-       <title>Physical gold is hard to find and increases ETF</title>
+       <title>Physical Gold Is Hard to Find and Increases ETF</title>
        <chapter>
           <paragraph>
             Gold could become increasingly difﬁcult metal to buy.
@@ -156,7 +156,7 @@ and identiﬁed by the ofﬁcial hallmark.
        </sources>
       </section>
       <section>
-        <title>2016 is a good year to invest in gold</title>
+        <title>2016 Is a Good Year to Invest in Gold</title>
         <chapter>
            <paragraph>Most of the analysis provide a bull market throughout 2016.
              So if you want to invest by taking a short-term strategy, we can consider gold being overbought.
@@ -176,7 +176,7 @@ and a possible reversal of monetary policy.
         </sources>
        </section>
     <section>
-      <title>Indian golden traditions</title>
+      <title>Indian Golden Traditions</title>
       <chapter>
          <paragraph>
            In India, gold jewellery is a store of value, a symbol of wealth and status and a
@@ -189,7 +189,7 @@ and a possible reversal of monetary policy.
              gold demand continues to grow.</paragraph>
       </chapter>
       <chapter>
-         <title>Indian Diwali</title>
+         <title>Diwali</title>
          <paragraph>
                    Diwali falling between mid-October and mid-November and  is one of the most important
                    dates in the Indian calendar, and as they celebrate, Indians buy gold (around 10 tonnes).
@@ -197,7 +197,7 @@ and a possible reversal of monetary policy.
                    in the country’s cultures.</paragraph>
       </chapter>
       <chapter>
-        <title>Indian marriage</title>
+        <title>Marriage</title>
             <paragraph>Gold is central to more personal life events too. Gifting gold is a deeply ingrained part
               of marriage rituals in Indian society, weddings generate approximately 50% of annual gold demand.
               Families begin saving soon after the birth of a girl, and the “Stridhan”, or gift of gold to the bride,
@@ -264,7 +264,7 @@ and a possible reversal of monetary policy.
       </sources>
      </section>
     <section>
-       <title>Indians and their relationship with gold</title>
+       <title>Indians and Their Relationship with Gold</title>
        <graph unit= "%" x="string" y="number">
              <title>What Indian want to buy over next year?</title>
              <abstract>
@@ -334,7 +334,7 @@ and a possible reversal of monetary policy.
              </sources>
     </section>
     <section>
-      <title>Gold as a good omen for the Chinese New Year</title>
+      <title>Gold as a Good Omen for the Chinese New Year</title>
       <chapter>
          <paragraph>
            The Chinese New Year is one of the most important and most felt traditional Chinese holidays,
@@ -384,8 +384,8 @@ and a possible reversal of monetary policy.
       </sources>
     </section>
     <section>
-        <title>Historical break</title>
-        <subtitle>Restrictions for gold</subtitle>
+        <title>Historical Break</title>
+        <subtitle>Restrictions for Gold</subtitle>
         <chapter>
           <paragraph>
             In 1934, USA it is determined that individuals can no longer exchange gold.</paragraph>
