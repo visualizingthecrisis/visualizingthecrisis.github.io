@@ -138,7 +138,7 @@
         </sources>
       </section>
       <section>
-        <title>What we don’t know about our mobile phones</title>
+        <title>What We Don’t Know about Our Mobile Phones</title>
         <chapter>
           <title>Where gold is in industrial waste?</title>
           <paragraph>
@@ -183,7 +183,7 @@
         </sources>
       </section>
       <section>
-        <title>What is happening to Apple?</title>
+        <title>What is Happening to Apple?</title>
         <chapter>
           <paragraph>
             Apple has released interesting numbers to understand
@@ -210,8 +210,8 @@
             </sources>
       </section>
       <section>
-       <title>Historical break</title>
-       <subtitle>The end of the Bretton Woods agreements</subtitle>
+       <title>Historical Break</title>
+       <subtitle>The end of the Bretton Woods Agreement</subtitle>
        <chapter>
         <paragraph>
           August 15, 1971, at Camp David, Richard Nixon suspended the convertibility of the dollar into gold, because,
@@ -225,7 +225,7 @@
       </keywords>
       </section>
      <section>
-      <title>Gold price</title>
+      <title>Gold Price</title>
       <subtitle>Week 18</subtitle>
       <graph unit="$/oz" x="date" y="number">
         <dataset>
