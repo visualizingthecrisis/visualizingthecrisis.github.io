@@ -95,14 +95,14 @@
         </table>
         <graph unit="%" x="string" y="number">
           <title>Greece's debt</title>
-          <dataset label= "Debt">
+          <dataset label= "">
             <data x="Greek" y="147.1"/>
           </dataset>
         </graph>
-        <graph unit="EUR" x="string" y="number">
+        <graph unit="EUR billions" x="string" y="number">
           <title>Where did the money go?</title>
           <abstract>The distribution of bailouts money</abstract>
-          <dataset label= "Billions of euros">
+          <dataset label= "s">
             <data x="For the State" y="9.7"/>
             <data x="For banks" y="37"/>
             <data x="For paying interest" y="52"/>
@@ -205,7 +205,7 @@
         <subtitle>Who is the next in crisis?</subtitle>
         <graph unit="%" x="string" y="number">
           <title>Italian debt</title>
-          <dataset label= "Debt">
+          <dataset label= "">
             <data x="Italy" y="122.6"/>
           </dataset>
         </graph>
