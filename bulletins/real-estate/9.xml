@@ -24,7 +24,7 @@
         <graph unit="%" x="name" y="number">
           <title>Home Buyers</title>
           <abstract>The main part of buyer are civilian</abstract>
-          <dataset label="home buyers">
+          <dataset label="">
             <data x="Veteran military" y="3"/>
             <data x="Active military" y="18"/>
             <data x="Civilian" y="78"/>
@@ -67,8 +67,8 @@
           </paragraph>
           <paragraph>
             <list type="unordered">
-              <item>ACTIVE MILITARY: leading the majority financing , the entire home purchase</item>
-              <item>VETERAN MILITARY: putting down a median down payment of 5%</item>
+              <item>ACTIVE: leading the majority financing , the entire home purchase</item>
+              <item>VETERAN: putting down a median down payment of 5%</item>
               <item>CIVILIAN: putting down a median down payment of 11%</item>
             </list>
           </paragraph>
@@ -77,20 +77,20 @@
           <title>With the ability to obtain a VA Loan</title>
           <paragraph>buyers said saving for a down payment was the most difficult step:
             <list type="unordered">
-              <item>ACTIVE MILITARY: 3%</item>
-              <item>VETERAN MILITARY: 5%</item>
+              <item>ACTIVE: 3%</item>
+              <item>VETERAN: 5%</item>
             </list>
           </paragraph>
           <paragraph>buyers said student loan debt delayed saving:
             <list type="unordered">
-              <item>ACTIVE MILITARY: 13%</item>
-              <item>VETERAN MILITARY: 4%</item>
+              <item>ACTIVE: 13%</item>
+              <item>VETERAN: 4%</item>
             </list>
           </paragraph>
           <paragraph>
             <list type="unordered">
-              <item>ACTIVE MILITARY: 43% have credit card debts</item>
-              <item>VETERAN MILITARY: 62% other debts</item>
+              <item>ACTIVE: 43% have credit card debts</item>
+              <item>VETERAN: 62% other debts</item>
             </list>
           </paragraph>
         </chapter>
