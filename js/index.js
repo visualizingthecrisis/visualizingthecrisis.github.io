@@ -26,7 +26,8 @@ function preDownload(){
 $(window).load(function(){
   startingFontSize=14;
   smallestFontSize = 10;
-  $.get(path, function(xmlDoc){
+  var randomPath=paths[Math.round(Math.random()*(paths.length-1))];
+  $.get(randomPath, function(xmlDoc){
     var sections=$(xmlDoc).find('section');
     for(var s=0;s<sections.length;s++){
       var authors=$(sections[s]).parent().parent().parent().find('authors').first().clone();
@@ -42,6 +43,7 @@ $(window).load(function(){
     preDownload();
 
     $.get('keywords.xml', function(d){
+      console.log('=[');
       var areas=$(d).children().first().children();
       for(var a=0;a<areas.length;a++){
         var $ar=$("<div class='area'></div>");
@@ -49,18 +51,23 @@ $(window).load(function(){
         var $area=$(areas[a]);
         var keywords=$area.children();
         $ar.append("<h3>"+$area.attr('name')+"</h3>");
-        console.log(keywords.length);
+      //  console.log(keywords.length);
         for(var k=0;k<keywords.length;k++){
+          if(!(k==0 && a==0))
+            console.log(",");
           var $area_element=$("<div class='area-element'></div>");
           $ar.append($area_element);
           var $keyword=$(keywords[k]);
           var txt=$keyword.text();
+          console.log("\""+$keyword.text()+"\"");
+
           if(txt.indexOf("(")>0){
             txt=txt.substr(0,txt.indexOf("("));
           }
           $area_element.append("<input type='checkbox' name='"+$keyword.text()+"' value='"+$keyword.text()+"'>"+txt+"<br>");
         }
       }
+      console.log(']');
       /*var container = document.querySelector('#bulletin-container');
       masonry = new Masonry(container, {
         itemSelector: '.section'});*/
