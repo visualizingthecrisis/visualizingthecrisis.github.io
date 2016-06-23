@@ -7,10 +7,10 @@
     <author>Giulia Serafin</author>
   </authors>
   <bulletin id="4" date="20160324">
-    <title>Latin America real estate</title>
+    <title>Latin America Real Estate</title>
     <sections>
       <section>
-        <title>Latin America leading countries</title>
+        <title>Latin America Leading Countries</title>
         <chapter>
           <paragraph>After showing resilience during the 2008-09 global financial crisis and experiencing a robust recovery in 2010-11, economic growth has significantly moderated in Latin America's leading economies of Mexico, Chile, Perù, Colombia and Brazil.
           </paragraph>
@@ -60,7 +60,7 @@
             </row>
           </table>
           <graph unit="%" x="country" y="number">
-            <title>National growth 2016</title>
+            <title>National Growth 2016</title>
             <dataset label="annual growth">
               <data x="Mexico" y="2,5"/>
               <data x="Chile" y="2,3"/>
@@ -80,7 +80,7 @@
         </sources>
       </section>
       <section>
-        <title>Latin America affordable housing</title>
+        <title>Latin America Affordable Housing</title>
         <graph unit="$" x="city" y="number">
           <abstract>The most affordable cities by $/sq m</abstract>
           <dataset label="average house prices">
@@ -117,7 +117,7 @@
   <bulletin id="4" date="20160324">
     <sections>
       <section>
-        <title>Japan real estate</title>
+        <title>Japan Real Estate</title>
         <chapter>
           <title>Before</title>
           <subtitle>Causes</subtitle>
@@ -143,7 +143,7 @@
         </sources>
       </section>
       <section>
-        <title>The most expensive location in Japan</title>
+        <title>The Most Expensive Location in Japan</title>
         <chapter>
           <title>¥ 40,100,000,000/sq m</title>
           <paragraph>Yamahano Music co., Ginza shopping district (¥ 40,1 million = $ 358,000)</paragraph>
@@ -161,9 +161,9 @@
         </sources>
       </section>
       <section>
-        <title>Japanese houses rental cost</title>
+        <title>Japanese Houses Rental Cost</title>
         <graph unit="¥" x="city" y="number">
-          <title>Average monthly cost/sq m</title>
+          <title>Average Monthly Cost/sq m</title>
           <abstract>Tokyo has the most expensive rental costs in China while Nagoya is more affordable.</abstract>
           <dataset label="rent cost">
             <data x="Tokyo" y="3,280"/>
@@ -186,7 +186,7 @@
         </sources>
       </section>
       <section>
-        <title>Japan: bigger vs smaller regions</title>
+        <title>Japan: Bigger vs. Smaller Regions</title>
         <chapter>
           <paragraph>Outside the big cities, prices, struggled to recover. In 69,8% of Japanese regions the prices fell down.</paragraph>
         </chapter>
@@ -203,8 +203,8 @@
         </sources>
       </section>
       <section>
-        <title>Commercial land value</title>
-        <subtitle>In Japanese metropolitan areas</subtitle>
+        <title>Commercial Land Value</title>
+        <subtitle>In Japanese Metropolitan Areas</subtitle>
         <chapter>
           <paragraph>2.9% Average growth in the biggest areas: Tokyo, Osaka, Nagoya. 19.7% Kutchantown, Hokkaido. 45.1% Shinsaibashi Suji, Osaka</paragraph>
         </chapter>
@@ -221,9 +221,10 @@
         </sources>
       </section>
       <section>
-        <title>Japan real Estate timeline</title>
+        <title>Japan Real Estate</title>
+        <subtitle>Timeline</subtitle>
         <chapter>
-          <title>1990/2000</title>
+          <title>1990-2000</title>
           <paragraph>
             <list type="unordered">
               <item>bursting bubble</item>
@@ -234,7 +235,7 @@
           </paragraph>
         </chapter>
         <chapter>
-          <title>2008/2015</title>
+          <title>2008-2015</title>
           <paragraph>
             <list type="unordered">
               <item>financial crisis</item>
@@ -243,7 +244,7 @@
           </paragraph>
         </chapter>
         <chapter>
-          <title>2015/2016</title>
+          <title>2015-2016</title>
           <paragraph>
             <list type="unordered">
               <item>first positive value</item>
