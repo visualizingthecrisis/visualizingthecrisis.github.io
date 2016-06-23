@@ -10,7 +10,8 @@
     <title>UK Housing crisis</title>
     <sections>
       <section>
-        <title>London house prices explosion</title>
+        <title>London</title>
+        <subtitle>The house prices explosion</subtitle>
         <chapter>
           <paragraph>This month’s snapshot of sold property in the capital shows prices continuing to climb, with sales volumes notably lower that before the financial crisis.</paragraph>
           <paragraph>London real estate at-a-glance (April, 28 update)</paragraph>
@@ -37,8 +38,8 @@
             </sources>
         </section>
         <section>
-          <title>The bank of mum and dad</title>
-            <subtitle>Family and friends will spend 5 billion pounds this year helping people buy property in the UK</subtitle>
+          <title>Mum and Dad's Bank</title>
+            <subtitle>Family and friends will spend £5b this year to help people buy property in the UK</subtitle>
           <chapter>
             <title>How much parents help</title>
             <paragraph>Parents in London are giving half of their net wealth to their children as a deposit for properties.</paragraph>
@@ -110,7 +111,7 @@
             </paragraph>
           </chapter>
           <chapter>
-            <title>May,5 election results</title>
+            <title>May 5th: Election results</title>
             <paragraph>Sadiq Khan won the  fifth London mayoral election.</paragraph>
             <paragraph>Labour
               <list type="unordered">
@@ -134,8 +135,8 @@
             </sources>
         </section>
         <section>
-          <title>UK housing crisis: how big is the problem</title>
-          <subtitle>Costs, crisis and squatting</subtitle>
+          <title>UK Housing Crisis</title>
+          <subtitle>Costs and Squatting</subtitle>
           <chapter>
             <title>Rising costs</title>
             <paragraph>People are unable to pay extortionate private sector rents.</paragraph>
@@ -201,8 +202,9 @@
             </sources>
           </section>
           <section>
-            <title>Special report UK housing crisis</title>
-            <subtitle>Opinion Research interviewed 1,004 UK adults aged 18+</subtitle>
+            <title>UK housing crisis</title>
+            <subtitle>Special Report</subtitle>
+            <abstract>Opinion Research interviewed 1,004 UK adults aged 18+</abstract>
             <chapter>
               <title>Housing crisis</title>
               <paragraph>Some people say that Britain is “in the throes of a housing crisis”. Would you say that this is something you agree with or disagree with?</paragraph>
