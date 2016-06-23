@@ -29,7 +29,8 @@
         </sources>
       </section>
       <section>                                                         <!--[1-N]-->
-       <title>What influence the bullish and the bearish trend?</title>
+       <title>The Bear and the Bull</title>
+       <subtitle>Two Different Markets</subtitle>
        <chapter>                                                   <!--[0-N]-->
          <paragraph>
            The Bear Market phase usually lasts five years,
@@ -46,9 +47,7 @@
            </list>
          </paragraph>
          <paragraph>
-           The Bear Market phase usually lasts five years,
-           a measure that results from an "empirical" estimate,
-           and therefore should not be considered a certainty.
+           The Bullish market consists of three phases: the first is the accumulation; the second is a stage of stability, in the third someone begins to take profit from the rise.
          </paragraph>
          <paragraph>
            <list type="unordered">                                     <!--[0-N]-->
@@ -70,7 +69,8 @@
        </sources>                                                                   <!--[0-N]-->
       </section>
       <section>                                                         <!--[1-N]-->
-       <title>The different 2015 and 2016 trend</title>
+       <title>2015 and 2016</title>
+       <subtitle>Two Different Trends</subtitle>
        <chapter>                                                   <!--[0-N]-->
          <paragraph>The main stage of the 2015 trend has seen slow but steady descent,
           reaching a decrease of 50%. In this year the safes haven have lost their "appeal".
@@ -110,8 +110,8 @@
        </chapter>
        <graph unit="%" x="string" y="percentage">
            <dataset label= "Gold investments">                           	<!--[1-N]-->
-             <data x="men don't wont to sell gold" y="41"/>
-             <data x="men wont invest in gold" y="59"/>
+             <data x="Don't want to sell gold" y="41"/>
+             <data x="Want to invest in gold" y="59"/>
            </dataset>
          </graph>
        <keywords>                                                      <!--[ 1 ]-->
@@ -125,7 +125,8 @@
       </sources> 
       </section>  
       <section>                                                        <!--[1-N]-->
-        <title>Prevision for 2016</title>
+        <title>Gold Investments</title>
+        <subtitle>Prevision for 2016</subtitle>
         <chapter>
           <paragraph>The gold investments in 2016 seem crackling. According to a survey,
             nearly one-fifth of investors expect the price of gold at the end of 2016 to rise by 10%,
@@ -215,20 +216,18 @@
            put it in a memorable phrase, both “tigers and flies.” To
            date, tens of thousands have been swept out of office.</paragraph>
            </chapter>
+           <chapter>
+           <title>Tigers and Flies</title>
+           <paragraph>Tiger are party and governmental officials, sub-provincial/ministeral lever and military officers holding a rank of Major General. Flies are level officers and individuals.</paragraph>
+           </chapter>
         <graph unit="people" x="string" y="number">
-           <abstract>							                                      <!--[0-1]-->
-            Tiger are party and governmental officials, sub-provincial/ministeral lever and military officers holding a rank of Major General. 					                            <!-- max 144 char-->
-           </abstract>
            <dataset label= "Tigers">                           	<!--[1-N]-->
              <data x="investigated" y="10"/>
              <data x="expelled/arrested" y="10"/>
              <data x="sentenced" y="0"/>
            </dataset>
-        </graph>
-         <graph unit="people" x="string" y="number">
-           <abstract>							                                      <!--[0-1]-->
-            Flies are level officers and individuals 					                            <!-- max 144 char-->
-           </abstract>
+           </graph>
+           <graph unit="people" x="string" y="number">
            <dataset label= "Flies">                           	<!--[1-N]-->
              <data x="investigated" y="40"/>
              <data x="expelled/arrested" y="70"/>
@@ -264,7 +263,7 @@
            <text>According to analysts, such a crisis is in all respects comparable to the one that struck the United States in 1929.</text>
          </quote>   
        <section>                                                      <!--[1-N]-->
-           <title>Chinese GDP collapses, instead gold reserves increase</title>
+           <title>Chinese GDP collapses, gold reserves increase</title>
            <abstract>China wants become part of the basket of currencies SDR of the IMF,
              or China aims to become a real alternative to the IMF?</abstract>
           <graph unit="millions of tons" x="date" y="number">
@@ -306,7 +305,7 @@
       </section>
       <section>                                                         <!--[1-N]-->
           <title>Historical break</title>
-          <subtitle>After crash of 1929 </subtitle>
+          <subtitle>After the 1929 crash</subtitle>
           <chapter>                                                   <!--[0-N]-->
             <paragraph>The devaluation of the pound in 1931 and the dollar in 1934, after the crash of 1929,
               behaved an abrupt decrease in the gold content of these currencies and thus a significant
