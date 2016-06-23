@@ -379,10 +379,7 @@ function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
         $parent.append("<div class='section-graph' id='graph"+graph_number+"'></div>");
         settings.bindto='#graph'+graph_number;
         console.log(xData[i]);
-        if(xData[i].length==3){
-          xData[i].push(" ");
-          yData[i].push(0);
-        }
+
         settings.data.columns=[xData[i],yData[i]];
 
 
@@ -395,8 +392,14 @@ function stringToNumberGraph($element, $parent,$legends, xData, yData, unit){
         //  settings.axis.x.tick.culling={'max':4};
         settings.axis.x.tick.width=180;
       //  settings.size.width=512;
-        settings.size.height=xData[i].length*50;
-        settings.axis.rotated= true;
+        if(xData[i].length==3){
+        //  xData[i].push(" ");
+        //  yData[i].push(0);
+        }else{
+          settings.size.height=xData[i].length*50;
+
+          settings.axis.rotated= true;
+        }
         var chart = c3.generate(settings);
         chart.flush();
       }
@@ -437,7 +440,7 @@ function getDefaultGraphSettings(){
   var settings={
     //bindto: '#graph'+graph_number,
     size: {height: 365},
-    padding: {  top: 10,bottom:10 ,right:50},
+    padding: {  top: 10,bottom:15 ,right:50},
     color: {pattern:patterns},
     data: {
       x: 'x',
