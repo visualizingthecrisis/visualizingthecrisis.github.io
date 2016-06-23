@@ -10,7 +10,8 @@
   <bullettin id="07" date="20160423">
     <sections>
       <section>
-      	<title>Shangai Gold Exchange. Beijing challenge in London</title>
+      	<title>Shanghai Gold Exchange</title>
+      	<subtitle>Beijing is Challenging in London</subtitle>
         <chapter>
           <paragraph>
             Last week China launched its yuan-denominated gold benchmark with
@@ -29,7 +30,7 @@
             a higher price than the London exchange.</paragraph>
         </chapter>
         <graph unit= "Yuan/gram" x="date" y="number">
-              <title>Shangai gold fixing of latest nine days</title>
+              <title>Shanghai gold fixing of latest nine days</title>
               <dataset label="Gold price">
                 <data x= "20160418" y="257"/>
                 <data x= "20160419" y="259.97"/>
@@ -78,7 +79,7 @@
           </sources>
       </section>
       <section>
-          <title>The Chinese gold stays at home</title>
+          <title>The Chinese Gold Stays at Home</title>
           <graph unit= "%" x="country" y="number">
           <abstract>
              The export of bullion are prohibited outside of China,
@@ -110,7 +111,7 @@
           </sources>
       </section>
       <section>
-            <title>China versus United Kingdom</title>
+            <title>China vs UK</title>
             <chapter>
               <paragraph>
                 China and the United Kingdom may not be more different for what
@@ -194,7 +195,7 @@
             </graph>
             <graph unit= "%" x="country" y="number">
                 <title>Switzerland gold import</title>
-                <dataset label="Gold import">
+                <dataset>
                   <data x= "Canada" y="2"/>
                   <data x= "Burkina Faso" y="12"/>
                   <data x= "Mauritania" y="1"/>
@@ -220,7 +221,7 @@
               </sources>
       </section>
       <section>
-            <title>Switzerland Burkina Faso gold supply chain</title>
+            <title>Switzerland Burkina Faso Gold Supply Chain</title>
             <chapter>
               <paragraph>
                 In 2015, the Federal Council published statistics on the provenance of Switzerland’s gold.
@@ -300,7 +301,7 @@
               </sources>
       </section>
       <section>
-            <title>Switzerland Peru gold supply chain</title>
+            <title>Switzerland Peru Gold Supply Chain</title>
             <chapter>
               <paragraph>
                 In Peru they call gold “sucio”, garbage, because mines circumvent laws when there are, and destroy
@@ -363,8 +364,8 @@
               </sources>
       </section>
       <section>
-          <title>Historical break</title>
-          <subtitle>US is a gold deposit</subtitle>
+          <title>Historical Break</title>
+          <subtitle>US is a Gold Deposit</subtitle>
           <chapter>
             <paragraph>
               In 1938 many countries bring their gold in the US.</paragraph>
@@ -378,7 +379,8 @@
          </sources>
       </section>
       <section>
-        <title>Gold price, Week 15</title>
+        <title>Gold Price</title>
+        <subtitle>Week 15</subtitle>
         <graph unit="$/oz" x="date" y="number">
           <dataset>
               <data x= "20160418" y="1,231"/>
