@@ -83,7 +83,7 @@
         <title>Latin America Affordable Housing</title>
         <graph unit="$" x="city" y="number">
           <abstract>The most affordable cities by $/sq m</abstract>
-          <dataset label="average house prices">
+          <dataset label="">
             <data x="Puerto Vallarta" y="1,273"/>
             <data x="Saint Miguel de Allande" y="2,736"/>
             <data x="Granada" y="1,013"/>
@@ -186,7 +186,8 @@
         </sources>
       </section>
       <section>
-        <title>Japan: Bigger vs. Smaller Regions</title>
+        <title>Japan</title>
+        <subtitle>Bigger vs. Smaller Regions</subtitle>
         <chapter>
           <paragraph>Outside the big cities, prices, struggled to recover. In 69,8% of Japanese regions the prices fell down.</paragraph>
         </chapter>
