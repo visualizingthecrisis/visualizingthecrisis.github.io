@@ -189,7 +189,8 @@ the krone has “disappeared completely.”</paragraph>
           <title>Switzerland Import/Export</title>
           <paragraph>Switzerland import and export levels are getting better, but imports are lower than exports again. Export-oriented industrial sectors have been particularly hard hit by the Swiss Franc, which finished last year 10 percent stronger. Sulzer AG, a pump and mining drill manufacturer, is closing its plant north-east of Zurich.</paragraph>
         </chapter>
-          <graph unit="CHF" x="date" y="number"> 		          <!--[0-N]-->					                        				                    
+          <graph unit="CHF" x="date" y="number"> 		          <!--[0-N]-->		
+          <title>Switzerland</title>
           <dataset label= "Import">                           	<!--[1-N]-->
             <data x="201508" y="11,476.5"/>                               <!--[1-N]-->
             <data x="201509" y="13,909.5"/>
@@ -256,11 +257,11 @@ the krone has “disappeared completely.”</paragraph>
             <title>Japan Currency</title>                                    <!--[0-1]-->
             <abstract>Japan currency after negative interest rate is becoming a super-currency</abstract>				                                    					                            <!-- max 144 char-->
             <dataset label= "">                           	<!--[1-N]-->
-              <data x="0314" y="113"/>                               <!--[1-N]-->
-              <data x="0316" y="112"/>
-              <data x="0317" y="111"/>
-              <data x="0323" y="112"/>
-              <data x="0328" y="113"/>
+              <data x="20160314" y="113"/>                               <!--[1-N]-->
+              <data x="20160316" y="112"/>
+              <data x="20160317" y="111"/>
+              <data x="20160323" y="112"/>
+              <data x="20160328" y="113"/>
             </dataset>
           </graph>
           <keywords>                                                      <!--[ 1 ]-->
