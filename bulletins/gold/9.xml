@@ -10,9 +10,9 @@
   <bullettin id="09" date="20160507">
     <sections>
      <section>
-       <title>How many years rest for our resource?</title>
+       <title>How Many Years Till the End?</title>
        <graph unit= "years" x="string" y="number">
-           <dataset label="Remaining years">
+           <dataset label="Remaining years of resources">
               <data x= "Coral reefs" y="88"/>
               <data x= "Agricultural land" y="69"/>
               <data x= "Coal" y="42"/>
@@ -30,7 +30,7 @@
             </dataset>
            </graph>
        <chapter>
-              <title>Ecosistem resources</title>
+              <title>Ecosystem resources</title>
               <paragraph>
               <list type="unordered">
                   <item>Coral reefs</item>
@@ -232,7 +232,8 @@
        </sources>
     </section>
     <section>
-       <title>The green gold, a sustainable choice</title>
+       <title>Green Gold</title>
+       <subtitle>A Sustainable Choice</subtitle>
        <chapter>
         <paragraph>
           Ethical gold means the gold mined by non-invasive techniques , that is, without the use of methods considered harmful both for the environment
@@ -262,8 +263,8 @@
        </sources>
       </section>
     <section>
-        <title>Historical break</title>
-        <subtitle>The Vietnam war</subtitle>
+        <title>Historical Break</title>
+        <subtitle>The Vietnam War</subtitle>
         <chapter>
  	        <paragraph>
             The war in Vietnam undermines the Bretton Woods agreements. Because US spending increases.</paragraph>

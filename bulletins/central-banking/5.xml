@@ -7,19 +7,19 @@
     <author>Francesca Polini</author>
   </authors>
   <bulletin id="05" date="20160402">
-    <title>Fed Governon decision impacts world economy</title>
+    <title>Federal Government Decision Impacts World Economy</title>
     <sections>
       <section>
         <title>The Yellen speech</title>
         <chapter>
-            <paragraph>On Tuesday, Janet Yellen—the Federal Reserve womanchair—gave a speech that changed the economy assets for many states. She decided
+            <paragraph>On Tuesday, Janet Yellen — the Federal Reserve Chairwoman — gave a speech that changed the economy assets for many States. She decided
               to continue with the Dovish strategy, during the second meeting.
               She said the Fed still intended to pursue a careful, patient course toward higher interest rates as the economy improved.
               These words caused reactions to other countries, especially about Asia economy.</paragraph>
             </chapter>
         <quote>
           <author>Janet Yellen</author>
-          <role>Fed womanchair</role>
+          <role>Federal Reserve Chairwoman</role>
           <text>The United States economy remained on track despite a rough start to the year.
             Reflecting global economic and financial developments since December, however,
             the pace of rate increase is now expected to be somewhat slower.</text>
@@ -180,15 +180,15 @@
                   </chapter>
                   <chapter>
                     <title>South Korea</title>
-                    <paragraph>The South Korean won notched a 2016 high on Wednesday morning after U.S. Federal Reserve Chair Janet Yellen speech.
+                    <paragraph>The South Korean Won notched a 2016 high on Wednesday morning after U.S. Federal Reserve Chair Janet Yellen speech.
                       The won is likely to continue extending its gains in the near-term and find its footing at around the 1,140.0 level.
                       The risk-off sentiment could still crop up given a shaky global oil price and a strengthening Japanese yen.</paragraph>
                       <paragraph>The most important stock market is Samsung Electronics Co Ltd that were down about 0.50% after Fed governor speech.</paragraph>
                     </chapter>
                     <chapter>
                       <title>Japan</title>
-                      <paragraph>The yen, which typically moves at odds with Japanese shares, was steady at 112.74 per dollar following a 0.7 percent bounce Tuesday that snapped its seven-day decline. The Japanese currency is headed for a 0.1 percent drop in March, after
-                        surging in February. The yen now has to contend with negative rates not having the desired effect,
+                      <paragraph>The Yen, which typically moves at odds with Japanese shares, was steady at 112.74 per Dollar following a 0.7 percent bounce Tuesday that snapped its seven-day decline. The Japanese currency is headed for a 0.1 percent drop in March, after
+                        surging in February. The Yen now has to contend with negative rates not having the desired effect,
                         the Bank of Japan assessing other unconventional monetary policy options and a U.S. central bank unlikely to raise rates.</paragraph>
                       </chapter>
                       <graph unit="JPY" x="date" y="number">
@@ -219,8 +219,8 @@
                       <title>Weekly monetary policy</title>
                       <subtitle>March 28th–April 02nd</subtitle>
                       <chapter>
-                        <title>A weekly calendar of central banks meetings</title>
-                        <paragraph>This week, central banks from 8 countries or jurisdictions are scheduled to decide on monetary policy: Israel, Angola, Kyrgyzstan, Sri Lanka, Czech Republic, Romania, Moldova, Fiji.</paragraph>
+                        <title>A Weekly Calendar Of Central Bank Meetings</title>
+                        <paragraph>This week, Central Banks from 8 countries or jurisdictions are scheduled to decide on monetary policy: Israel, Angola, Kyrgyzstan, Sri Lanka, Czech Republic, Romania, Moldova, Fiji.</paragraph>
                       </chapter>
                       <table>
                         <row type="head">
@@ -248,7 +248,7 @@
                       </sources>
                     </section>
                     <section>
-                      <title>The World's slow growth</title>
+                      <title>The World's Slow Growth</title>
                       <graph unit="%" x="date" y="number">
                         <dataset label="Global Growth">
                           <data x="2013" y="2.4"/>
@@ -260,7 +260,7 @@
                         </dataset>
                       </graph>
                       <chapter>
-                        <title>Global growth continues, but at a sluggish pace</title>
+                        <title>Global Growth Continues, But At A Sluggish Pace</title>
                         <paragraph>The world economy is exposed to risks. International Monetary Fund Managing Director Christine Lagarde warned that the recovery remains too slow, too fragile, with the risk that persistent low growth can have damaging effects on the social and political fabric of many countries.</paragraph>
                         <paragraph>Global growth is projected to reach 2.9 % in 2016, as a modest recovery in advanced economies continues and activity stabilizes among major commodity.</paragraph>
                         <paragraph>Forecasts is subject to downside risks, including a sharperslowdown in major emerging and developing economies.</paragraph>
@@ -274,7 +274,7 @@
                       </sources>
                     </section>
                     <section>
-                      <title>Inflation rate score</title>
+                      <title>Inflation Rate Score</title>
                       <chapter>
                         <paragraph>Inflation is the rate at which the general level of prices for goods and services is rising and, consequently, the purchasing power of currency is falling. Central banks attempt to limit inflation, and avoid deflation, in order to keep the economy running smoothly.</paragraph>
                       </chapter>
@@ -311,7 +311,7 @@
                         </row>
                       </table>
                       <chapter>
-                        <title>Global indicators</title>
+                        <title>Global Indicators</title>
                         <paragraph>
                           <list type="unordered">
                             <item>6.23 % GMPR - Global monetary policy rate</item>
@@ -333,7 +333,7 @@
                       </sources>
                     </section>
                     <section>
-                      <title>How big is your debt?</title>
+                      <title>How Big Is Your Debt?</title>
                       <abstract>By looking at level of gross gov.ment debt as a % of GDP, it can indicate how able a country is to pay back debts without incurring further debt.</abstract>
                       <graph unit="USD" x="country" y="number">
                         <title>Countries GDP</title>
@@ -368,7 +368,7 @@
                       </sources>
                     </section>
                     <section>
-                      <title>The 10 most indebted countries</title>
+                      <title>The 10 Most Indebted Countries</title>
                       <table>
                         <row type="head">
                           <cell>Number</cell>
@@ -434,7 +434,7 @@
                       </sources>
                     </section>
                     <section>
-                      <title>Global growth</title>
+                      <title>Global Growth</title>
                       <chapter>
                         <title>The countries that will drive in 2016</title>
                         <paragraph>Despite what appears to be a global slowdown in 2016, a number of the largest economies are expected to carry the global economy as emerging markets fluctuate.</paragraph>
@@ -455,7 +455,7 @@
                       </sources>
                     </section>
                     <section>
-                      <title>Has the American Dream come to an end?</title>
+                      <title>Has The American Dream Come To An End?</title>
                       <chapter>
                         <paragraph>Employment growth remains strong but wages grew a mere 2.3% compared to a year ago. It’s especially disappointing because the economy has added millions of jobs in the last two years. When job growth increases, wages tend to follow with it.</paragraph>
                       </chapter>
@@ -489,13 +489,13 @@
                       </sources>
                     </section>
                     <section>
-                      <title>Will helicopter fly over Japan?</title>
+                      <title>Will Helicopters Fly Over Japan?</title>
                       <chapter>
                         <paragraph>First, the quantitative and qualitative easing (QQE), and then the negative interest rate policy (NIRP). Now observers are speculating that it should be helicopter money the next move BoJ.</paragraph>
                       </chapter>
                       <chapter>
                         <title>Helicopter money or Quantitative easing?</title>
-                        <paragraph>Helicopters dropping money it’s a vivid metaphor for a drastic form of central bank stimulus that is gaining attention as a possible way to help the global economy out of its malaise. Helicopter money gets around that dependence on banks. It aims to put the money directly into circulation. It’s supposed to be accompanied with a guarantee that it is a permanent addition to the money supply — unlike quantitative easing, which central banks say they eventually intend to unwind.</paragraph>
+                        <paragraph>Helicopters dropping money. it’s a vivid metaphor for a drastic form of central bank stimulus that is gaining attention as a possible way to help the global economy out of its malaise. Helicopter money gets around that dependence on banks. It aims to put the money directly into circulation. It’s supposed to be accompanied with a guarantee that it is a permanent addition to the money supply — unlike quantitative easing, which central banks say they eventually intend to unwind.</paragraph>
                         <paragraph>Under quantitative easing, central banks buy government bonds from commercial banks. Central banks pay for the bonds by electronically increasing the amounts of money in the accounts that the commercial banks are required to hold at the central bank. When the account balance goes up, new money is created.</paragraph>
                       </chapter>
                       <chapter>
