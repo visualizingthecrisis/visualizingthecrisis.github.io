@@ -104,7 +104,7 @@
         </sources>
       </section>
       <section>
-        <title>Key roles in the IMF</title>
+        <title>Key Roles In The IMF</title>
           <chapter>
             <title>1. Subscriptions </title>
               <paragraph>
@@ -292,7 +292,7 @@
                 </sources>
               </section>
               <section>                                                         <!--[1-N]-->
-                <title>What you need to know about the next G20 Summit</title>      <!--[0-1]-->
+                <title>What You Need To Know About The Next G20 Summit</title>      <!--[0-1]-->
                 <chapter>                                                       <!--[0-N]-->
                 <paragraph>
                   <list type="ordered">                                          <!--[0-N]-->
@@ -311,7 +311,7 @@
               </sources>
               </section>
               <section>                                                         <!--[1-N]-->
-              <title>G20 topics</title>                                        <!--[0-1]-->
+              <title>G20 Topics</title>                                        <!--[0-1]-->
               <graph unit="%" x="date" y="number">                     <!--[0-N]-->
                 <title>Global slow-growth</title>                               <!--[0-1]-->
                 <abstract>Global recovery continues, but at an ever-slowing and fragile pace that leaves the world econonomy more exposed to risk.</abstract>        <!-- max 144 char-->
