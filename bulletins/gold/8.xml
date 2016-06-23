@@ -10,7 +10,7 @@
   <bullettin id="08" date="20160430">
     <sections>
       <section>
-        <title>The fake of Rai gold coins. Supplier price? Etrurian Bank</title>
+        <title>Rai and the Scandal of Fake Gold Coins</title>
         <chapter>
           <paragraph>
           The case raised by the complaint of a winner of the "Red or Black" program,
@@ -25,6 +25,7 @@
             </paragraph>
         </chapter>
         <chapter>
+          <title>What happened?</title>
           <paragraph> Maria Cristina Sparanide won 100.000 €, the payout is welded with four gold coin of the unit value
             of 20,000 € eachabout.</paragraph>
             <paragraph> the winner is subtracted 20% of the winnings to pay taxes, so the sum of the win is reduced to 80,000 €.
@@ -51,13 +52,13 @@
           </sources>
       </section>
       <section>
-          <title>Italy is among the countries with the most gold in the coffers</title>
+          <title>Italy is among the countries with the highest amount of gold in coffers</title>
           <chapter>
             <paragraph>
-            Importantly, the Italian gold is not owned by the government, but the Bank of Italy. In the "vestry"
+            The Italian gold is not owned by the government, but the Bank of Italy. In the "vestry"
             of the Koch Palace in Rome it is guarded about half of Italian gold reserves. It has been specified that it is impossible for the Bank
             itself freely dispose of as reserve which is a fundamental defense guarantee for confidence in the country's system.</paragraph>
-              <paragraph> . However, considering that the National Bank is part of the 'Eurosystem, the reservations are part and simultaneously
+              <paragraph>However, considering that the National Bank is part of the 'Eurosystem, the reservations are part and simultaneously
                 guarantee along with those of other European countries the system itself.
               </paragraph>
               <paragraph> Currently the reserve is untouchable and unusable, so the possibility of selling
@@ -67,9 +68,9 @@
           <table>                                                         <!--[0-N]-->
          <row type="head">                                             <!--[ 1 ]-->
            <cell>Position</cell>                                            <!--[1-N]-->
-           <cell>Country or istitutions</cell>
+           <cell>Country/Institution</cell>
            <cell>Tons</cell>
-           <cell>% total gold reserves</cell>
+           <cell>Percentage of total gold reserves</cell>
          </row>
          <row type="cell">                                             <!--[1-N]-->
            <cell>1</cell>                                          <!--[1-N]-->
@@ -87,7 +88,7 @@
              <cell>3</cell>                                          <!--[1-N]-->
              <cell>International Monetary Fund</cell>
              <cell>2,814.0</cell>
-             <cell>0</cell>
+             <cell>N/A</cell>
             </row>
             <row type="cell">                                             <!--[1-N]-->
               <cell>4</cell>                                          <!--[1-N]-->
@@ -183,7 +184,8 @@
               </sources>
       </section>
       <section>
-            <title>The Bitcoin. An alternative currency</title>
+            <title>Bitcoin</title>
+            <subtitle></subtitle>An Alternative Currency</subtitle>
             <chapter>
               <paragraph>
                 Bitcoin is an electronic money created in 2009 by an anonymous known by the pseudonym Satoshi Nakamoto.
@@ -265,7 +267,8 @@
               </sources>
         </section>
       <section>
-            <title>The differencies between Bitcoin and gold</title>
+            <title>Bitcoin and Gold</title>
+            <subtitle>Main Differences</subtitle>
             <chapter>
               <paragraph>
               Gold is a chemical element that has historically been highly sought-after for currency, juwlery and other uses.
@@ -349,8 +352,8 @@
               </sources>
       </section>
       <section>
+      	<title>How Bitcoin Works</title>
             <chapter>
-              <title>How work a Bitcoin</title>
               <paragraph>Download softwere on a computer or smartphone to set up a Bitcoin wallet.
                  This gives the basic facilities to send, recive and store Bitcoins.
             </paragraph>
@@ -376,7 +379,7 @@
       </section>
       <section>
           <title>Historical break</title>
-          <subtitle>The Bretton Woods agreements</subtitle>
+          <subtitle>Bretton Woods Agreement</subtitle>
           <chapter>
             <paragraph>
               In 1944 July 1 to 22 it took place the the Bretton Woods Conference that led to the creation of
