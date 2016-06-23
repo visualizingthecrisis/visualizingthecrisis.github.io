@@ -9,7 +9,8 @@
   <bulletin id="04" date="20160326">                                     <!--[1-N]-->                                                    <!--[0-1]-->
     <sections>                                                            <!--[ 1 ]-->
       <section>
-        <title>The World goes negative</title>
+        <title>Interest Rates</title>
+        <sub-title> The World Goes Negative</sub-title>
         <chapter>
           <paragraph>Imagine a bank that pays negative
 interest. Crazy as it sounds, several
@@ -40,7 +41,7 @@ central banks.</paragraph>
         </sources>
       </section>
       <section>
-        <title>Sweden</title>
+        <title>Going Negative: Sweden</title>
         <chapter>
           <title>The least European country</title>
           <paragraph>Mainly two factors towed the Swedish economy in 2016: interest rates were kept very low by the central bank; a strong increase in public and private spending was fostered to meet the migrants emergency.</paragraph>
@@ -99,7 +100,7 @@ central banks.</paragraph>
         </sources>
       </section>
       <section>
-        <title>Denmark</title>
+        <title>Going Negative: Denmark</title>
         <chapter>
           <title>The longest history of negative</title>
           <paragraph>In Denmark, the central bank, Nationalbanken,
@@ -161,10 +162,10 @@ the krone has “disappeared completely.”</paragraph>
         </sources>
       </section>
       <section>
-        <title>A little improvement</title>                                                         <!--[1-N]-->
+        <title>A Little Improvement</title>                                                         <!--[1-N]-->
         <chapter>                                                         <!--[0-N]-->                                                          <!--[0-1]-->
-          <paragraph>Even if ECB needs time to reach a lower unemployment level the effect of the choice seems to be positive.</paragraph>                                           <!--[0-N]-->
-          <paragraph>In Euro Area the current employment rate is 10.3%, but the forecast is 9.6%</paragraph>                                           <!--[0-N]-->
+          <paragraph>Even if the ECB needs time to reach a lower unemployment level the effect of the choice seems to be positive.</paragraph>                                           <!--[0-N]-->
+          <paragraph>In the Eurozone the current employment rate is 10.3%, but the forecast is 9.6%</paragraph>                                           <!--[0-N]-->
         </chapter>
         <graph unit="%" x="country" y="number">
           <title>Unemployment Rate 2016</title>
@@ -189,7 +190,7 @@ the krone has “disappeared completely.”</paragraph>
         </graph>
         <chapter>
           <title>Switzerland Import/Export</title>
-          <paragraph>Switzerland import and export are going better, but import is lower than export again. Export-oriented industrial sector has been particularly hard hit by the franc, which finished last year 10 percent stronger. Sulzer AG, a pump and mining drill manufacturer, is closing its plant north-east of Zurich.</paragraph>
+          <paragraph>Switzerland import and export levels are getting better, but imports are lower than exports again. Export-oriented industrial sectors have been particularly hard hit by the Swiss Franc, which finished last year 10 percent stronger. Sulzer AG, a pump and mining drill manufacturer, is closing its plant north-east of Zurich.</paragraph>
         </chapter>
           <graph unit="CHF" x="date" y="number"> 		          <!--[0-N]-->					                        				                    
           <dataset label= "Import">                           	<!--[1-N]-->
@@ -228,9 +229,9 @@ the krone has “disappeared completely.”</paragraph>
           </sources>
         </section>
         <section>
-          <title>The worst negative interest rate</title>                                                         <!--[1-N]-->
+          <title>The Worst Negative Interest Rate</title>                                                         <!--[1-N]-->
           <chapter>                                                         <!--[0-N]-->                                                          <!--[0-1]-->
-            <paragraph>Last week, Japan decided to go in negative for increasing its insecure economy. Unfortunally, this financial measure didn’t work very well, in fact the Japanese currency is becoming a super-currency, because many people invest in yen and this process don’t help state’s economy.</paragraph>                                            <!--[0-N]-->
+            <paragraph>Last week, Japan decided to go into a negative rate for increasing its insecure economy. Unfortunately, this financial measure didn’t work very well, in fact the Japanese currency is becoming a super-currency, because many people invest in yen and this process don’t help state’s economy.</paragraph>                                            <!--[0-N]-->
           </chapter>
           <table>                                                         <!--[0-N]-->
             <row type="head">                                             <!--[ 1 ]-->
@@ -257,7 +258,7 @@ the krone has “disappeared completely.”</paragraph>
           <graph unit="USD/YEN" x="date" y="number"> 		          <!--[0-N]-->
             <title>Japan Currency</title>                                    <!--[0-1]-->
             <abstract>Japan currency after negative interest rate is becoming a super-currency</abstract>				                                    					                            <!-- max 144 char-->
-            <dataset label= "Japan Currency">                           	<!--[1-N]-->
+            <dataset label= "">                           	<!--[1-N]-->
               <data x="0314" y="113"/>                               <!--[1-N]-->
               <data x="0316" y="112"/>
               <data x="0317" y="111"/>
@@ -277,13 +278,13 @@ the krone has “disappeared completely.”</paragraph>
           </sources>
         </section>
         <section>
-          <title>Trend on negative?</title>                                                           <!--[1-N]-->
+          <title>Trend On Negative?</title>                                                           <!--[1-N]-->
           <chapter>                                                         <!--[0-N]-->                                                          <!--[0-1]-->
             <paragraph>On March 22nd the National Bank of Hungary decided to adopt a negative rate because it want to reach 3% inflation. Now, the state’s inflation is increasing but it’s not enough, this is the reason why it changed in negative. Many other states are thinking about negative interest rate. Is it a new tendency? What can it do for the economy situation? Is it better or worst?</paragraph>                                                           <!--[0-N]-->
             <paragraph>In 2020 Hungary is aiming to reach the inflation rate of 3% during the year.</paragraph>                                              <!--[0-N]-->
           </chapter>
           <graph unit="%" x="string" y="number"> 		          <!--[0-N]-->
-            <title>Hungary</title>                                    <!--[0-1]-->
+            <title>Going Negative: Hungary</title>                                    <!--[0-1]-->
             <abstract>Hungary is increasing its inflation with new trend of negative rate.</abstract>						        					                            <!-- max 144 char-->
             <dataset label= "Interest Rate">                           	<!--[1-N]-->
               <data x="Jan-Mar" y="1.35"/>                               <!--[1-N]-->
@@ -318,7 +319,7 @@ the krone has “disappeared completely.”</paragraph>
           </quote>
         </section>
         <section>
-          <title>The negative interest rate era</title>
+          <title>The Negative Interest Rate Era</title>
           <table>
             <row type="head">
               <cell>Month</cell>
@@ -424,7 +425,7 @@ the krone has “disappeared completely.”</paragraph>
            <data x="DNK" y="-0.65"/>
            <data x="FJD" y="0.50"/>
          </dataset>
-         <dataset label= "Deposite Rate">                           	<!--[1-N]-->
+         <dataset label= "Deposit Rate">                           	<!--[1-N]-->
            <data x="SEK" y="-1.20"/>
            <data x="EUR" y="-0.10"/>
            <data x="HUF" y="-0.10"/>
@@ -433,7 +434,7 @@ the krone has “disappeared completely.”</paragraph>
          </dataset>
        </graph>
           <chapter>                                                       <!--[0-N]-->								                  <!--[0-1]-->
-            <paragraph>By mid-2016, some 500 million people in a quarter of the world economy were living with rates in the red. Unthinkable before the 2008 financial crisis, the idea is to jolt lending, spur inflation and reinvigorate the economy after other options have been exhausted. It’s an unorthodox move that has distorted financial markets and triggered complaints that the strategy is backfiring.</paragraph>
+            <paragraph>By mid-2016, some 500 million people in a quarter of the world economy are living with rates in the red. Unthinkable before the 2008 financial crisis, the idea is to jolt lending, spur inflation and reinvigorate the economy after other options have been exhausted. It’s an unorthodox move that has distorted financial markets and triggered complaints that the strategy is backfiring.</paragraph>
           </chapter>
             <keywords>                                                      <!--[ 1 ]-->
               <keyword name="Interest Rates"/>                                    <!--[1-N]-->
