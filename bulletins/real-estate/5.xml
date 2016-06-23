@@ -17,8 +17,7 @@
         </chapter>
         <graph unit="¥" x="city" y="number">
           <title>Buy apartment in city centre</title>
-          <abstract>Ranges of price per sq m</abstract>
-          <dataset label="average house price">
+          <dataset label="Average prices per sqm">
             <data x="Shanghai" y="50,000.00-120,000.00"/>
             <data x="Shenzhen" y="75,000.00-115,000.00"/>
             <data x="Suzhou" y="17,000.00-25,000.00"/>
@@ -37,9 +36,9 @@
           </sources>
       </section>
       <section>
-        <title>Risky strain: economy vs loans</title>
-        <subtitle>Why home loans are growing fast while economic growth has slowed in China?</subtitle>
+        <title>Why home loans are growing fast while economic growth has slowed in China?</title>
         <chapter>
+          <title>Risky strain: economy vs. loans</title>
           <paragraph>China needs the housing market as a backbone to prop up its slowing economy.</paragraph>
           <paragraph>Chinese real estate market is it's different: on average, in China they are bought many more homes than in the western countires.</paragraph>
           <paragraph>On an annual basis, 1/3 of residential property sales are for weddings*.</paragraph>
@@ -69,7 +68,8 @@
           </sources>
       </section>
       <section>
-        <title>Down payments in China: the true story</title>
+        <title>Down Payments in China</title>
+        <subtitle>The True Story</subtitle>
         <abstract>What is a down payment? An amount of money that you pay at the time that you buy something but is only a part of the total cost of that thing.30 local business in Shenzhen sold outstanding loans for home down payments of 2.5-3 billion Yuan.</abstract>
           <chapter>
             <paragraph>
@@ -131,7 +131,8 @@
           </sources>
         </section>
         <section>
-          <title>China vs Us a flashback of 2008 subprime crisis</title>
+          <title>China vs. USA</title>
+          <subtitle>A Flashback of the 2008 Subprime Crisis</subtitle>
           <chapter>
             <title>The begin of a bubble</title>
             <paragraph>Lenders pushed outsized home loans on people without the wherewithal to pay them back.When home prices fall, banks and investors holding the loans had to eat massive losses.</paragraph>
@@ -161,11 +162,11 @@
       <title>On the top of the World</title>
       <sections>
         <section>
-          <title>World’s top 10 residential places</title>
-          <subtitle>World’s most expensive locations to buy a property.</subtitle>
+          <title>The World’s most expensive locations to buy a property</title>
+          <subtitle></subtitle>
           <graph unit="$" x="city" y="number">
-            <title>House prices</title>
-            <abstract>Price per square feet to buy apartment</abstract>
+            <title>The World’s top 10 residential places</title>
+            <abstract>House price per square feet to buy apartment</abstract>
             <dataset label="city center">
               <data x="New York City" y="1,665.60"/>
               <data x="London" y="2,476.00"/>
@@ -190,9 +191,8 @@
             </dataset>
           </graph>
           <graph unit="%" x="city" y="number">
-            <title>Mortgage</title>
-            <abstract>mortgage interest rate in %</abstract>
-            <dataset label="mortgage">
+            <title>Mortgages</title>
+            <dataset label="Interest rate">
               <data x="New York City" y="4"/>
               <data x="London" y="3.5"/>
               <data x="Paris" y="2.7"/>
@@ -220,7 +220,7 @@
           </sources>
         </section>
         <section>
-          <title>182 World’s real estate barons</title>
+          <title>The World’s real estate barons</title>
           <chapter>
             <title>Billionaires</title>
             <subtitle>divided into world’s macro areas</subtitle>
@@ -249,7 +249,7 @@
           </sources>
         </section>
         <section>
-          <title>Top 20 World’s tycoons</title>
+          <title>Twenty New Tycoons</title>
           <chapter>
             <paragraph>This year about 20 people joined the Forbes’ World’s billionaires list thank to their real estate purchases.
             </paragraph>
