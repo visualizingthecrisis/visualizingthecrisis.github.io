@@ -177,25 +177,25 @@
         </chapter>
         <graph unit="%" x="date" y="number">
           <title>Inflation Euro Area</title>
-          <dataset label= "inflation">
+          <dataset label= "">
             <data x="200001" y="1.9"/>
             <data x="200004" y="1.7"/>
             <data x="200007" y="2.1"/>
             <data x="200010" y="2.4"/>
           </dataset>
-          <dataset label= "inflation">
+          <dataset label= "">
             <data x="200501" y="1.9"/>
             <data x="200504" y="2.1"/>
             <data x="200507" y="2.1"/>
             <data x="200510" y="2.4"/>
           </dataset>
-          <dataset label= "inflation">
+          <dataset label= "">
             <data x="201001" y="0.9"/>
             <data x="201004" y="1.6"/>
             <data x="201007" y="1.7"/>
             <data x="201010" y="2.2"/>
           </dataset>
-          <dataset label= "inflation">
+          <dataset label= "">
             <data x="201501" y="-0.6"/>
             <data x="201504" y="0.0"/>
             <data x="201507" y="0.2"/>
@@ -380,9 +380,9 @@ The purchases will take place in the primary and secondary markets. To be eligib
           <paragraph>We haven't yet examined completely the details of this. I can say it's a small step in the right direction. Atlante, a new private initiative backed by the Italian government, is designed to stop the sky falling in. The fund, which takes its name from the mythological titan who held up the heavens, will buy shares in Italian lenders in a bid to edge the sector away from a fully-fledged crisis.</paragraph>
           <paragraph>Many Italian banks and other financial institutions have agreed to contribute money for the creation of a “rescue” fund, which will be named “Atlante”. Atlante is a € 4.25bn fund that will participate to the subscription of the upcoming capital increases of Italian banks seeking recapitalizations and that will take actions to revive the NPL market in Italy. But Italian banks have made €200bn of loans to borrowers now deemed insolvent, of which €85bn has not been written down on their balance sheets. A broader measure of non-performing debt, which includes loans unlikely to be repaid in full, stands at €360bn, according to the Bank of Italy. So is Atlante — with about €5bn of equity — really enough to keep the heavens in place?</paragraph>
         </chapter>
-        <graph unit="EUR" x="date" y="number">
+        <graph unit="EUR billion" x="date" y="number">
           <title>European securization issuance</title>
-          <dataset label= "€bn">
+          <dataset label= "">
             <data x="2010" y="397"/>
             <data x="2011" y="396"/>
             <data x="2012" y="258"/>
