@@ -11,9 +11,9 @@
     <sections>
       <section>
         <title>India</title>
-        <subtitle>Unsold Inventories Are Piling Up</subtitle>
+        <subtitle>Unsold Inventories Piling Up</subtitle>
         <chapter>
-          <paragraph>Three to five years: it's the time required to clear residential inventory pile. Unsold inventories are piling up in the National Capital Region, Mumbai, Bengaluru, and several other cities.
+          <paragraph>Three to five years: it’s the time required to clear residential inventory pile. Unsold inventories are piling up in the National Capital Region, Mumbai, Bengaluru, and several other cities.
           </paragraph>
         </chapter>
         <keywords>
@@ -29,7 +29,7 @@
         <title>India</title>
         <subtitle>Ready-to-move-in vs. Under-construction</subtitle>
         <chapter>
-          <paragraph>In 64% of the major cities over the last two years, the demand for ready-to-move-in properties has been more than for under-construction properties.
+          <paragraph>In 64% of India’s major cities over the last two years, the demand for ready-to-move-in properties has been more than for under-construction properties.
           </paragraph>
         </chapter>
         <keywords>
@@ -42,14 +42,16 @@
         </sources>
       </section>
           <section>
-            <title>India: rising Price</title>
-            <subtitle>A comparison:</subtitle>
+            <title>India: Rising Prices</title>
+            <subtitle>A Comparison</subtitle>
             <chapter>
+              <paragraph>
               <list type="ordered">
-                <item>Premium on ready-to move-in properties over under-construction</item>
-                <item>Price rise in ready-to move-in properties  </item>
-                <item>Price rise in under-construction properties  </item>
+                <item>Premium on ready-to move-in properties over under-construction.</item>
+                <item>Prices rise in ready-to move-in properties.</item>
+                <item>Prices rise in under-construction properties.</item>
               </list>
+              </paragraph>
             </chapter>
             <graph unit="%" x="city" y="number">
               <title>Different prices</title>
@@ -72,7 +74,7 @@
             </graph>
             <graph unit="%" x="city" y="number">
               <title>Rising prices</title>
-              <abstract>Price rise in properties in 14 cities from Sep.2013 to Dec.2015.</abstract>
+              <abstract>Price rise in properties in 14 cities from September 2013 to December 2015.</abstract>
               <dataset label="Under-construction">
                 <data x="Greater Noida" y="-5"/>
                 <data x="Mumbai" y="6"/>
@@ -121,16 +123,16 @@
           <section>
             <title>US vs. Canada</title>
             <chapter>
-              <paragraph>US housing market will out perform Canada housing market in 2016. The real estate value is more positivein US.
+              <paragraph>US housing market will out perform Canada housing market in 2016. The real estate value is more positive in the US.
               </paragraph>
             </chapter>
             <chapter>
-              <title> 2015 Conclusion</title>
+              <title> 2015</title>
               <paragraph>Canada’s economic condition gradually improved as the country climbed out of a technical recession.
               </paragraph>
             </chapter>
             <chapter>
-             <title>2016 Previous</title>
+             <title>2016</title>
               <paragraph>Canada will see a small decline in the value of real estate.
               </paragraph>
             </chapter>
@@ -145,11 +147,11 @@
             </sources>
           </section>
           <section>
-            <title>Canada's real estate</title>
-            <subtitle>A small report</subtitle>
+            <title>Canada’s Real Estate</title>
+            <subtitle>A Brief Report</subtitle>
             <graph unit="$" x="city" y="number">
-              <title>Household average income</title>
-              <abstract>In the west coast areas of Canada the household average income is higher.</abstract>
+              <title>Household income</title>
+              <abstract>In the west coast areas of Canada the household average income is higher than the country’s average.</abstract>
               <dataset label="average income">
                 <data x="Vancouver" y="24,100"/>
                 <data x="Calgary" y="31,700"/>
@@ -158,7 +160,7 @@
               </dataset>
             </graph>
             <graph unit="$" x="city" y="number">
-              <title>House average price</title>
+              <title>Housing prices</title>
               <abstract>Vancouver house prices are the most expensive, while Montréal ones are the most affordable.</abstract>
               <dataset label="average price">
                 <data x="Vancouver" y="1,200,000"/>
@@ -167,10 +169,10 @@
                 <data x="Montréal" y="316,500"/>
               </dataset>
             </graph>
-            <graph unit="" x="string" y="number">
-              <title>Inhabitants</title>
-              <abstract>Toronto and Montréal are the most populated cities</abstract>
-              <dataset label="inhabitants">
+            <graph unit="Inhabitants" x="string" y="number">
+              <title>Population</title>
+              <abstract>Toronto and Montréal are Canada’s most populated cities.</abstract>
+              <dataset label="">
                 <data x="Vancouver" y="615,473"/>
                 <data x="Calgary" y="1,195,194"/>
                 <data x="Toronto" y="2,503,281"/>
@@ -188,7 +190,8 @@
             </sources>
           </section>
           <section>
-            <title>Vancouver houses typology</title>
+            <title>Vancouver</title>
+            <subtitle>Housing Typologies</subtitle>
             <abstract>Prices annual growth</abstract>
             <chapter>
               <paragraph>
@@ -211,9 +214,10 @@
             </sources>
           </section>
           <section>
-            <title>Canada: housing starts</title>
+            <title>Canada</title>
+            <subtitle>Housing Starts</subtitle>
             <chapter>
-              <paragraph>Strong rental demand from immigrants has pushed condo construction in Canada yo its highest level into two decades. On annual basis annual starts are expected to rise from 153,000 to 203,000 units in 2016 and from 149,000 to 199,000 units.
+              <paragraph>Strong rental demand from immigrants has pushed condo construction in Canada to its highest level in two decades. On an annual basis, the starts are expected to rise from 153,000 to 203,000 units in 2016 and from 149,000 to 199,000 units in 2017.
               </paragraph>
               </chapter>
               <keywords>
