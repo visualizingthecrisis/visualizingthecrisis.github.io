@@ -24,7 +24,7 @@ The lab has two outputs:
  * A series of __10 weekly bulletins__ for each group, for a total amount of 70 double-sided, single A3 papers printed with a [Risograph] (https://en.wikipedia.org/wiki/Risograph) machine. Each of these bulletins has been researched, edited and designed in seven days. They collect and visualize all the crucial data relative to their specific area of investigation. The PDF files of all the bulletins are collected [here] (PDF-bulletins/README.md).
 
  * An __interactive interface__ that allows for the exploration of the complete archive of information collected during the 15 weeks of work. Each paragraph, visualisation, graph, quote and summary from all the bulletins has been broken into component atoms, defined through a set of 64 keywords ranging from geography, resources, demographics and financial definitions, archived into XML files and that can be printed as on-demand, succinct reports. On June 24th, on the occasion of the students' final show at IUAV University, Venice, this interface was presented as an installation made of punched cards (for the keywords' selection), a reader and a thermal printer for the output of the reports. A digital version of the same interface can be found [here] (../blob/master/PDF-bulletins). The XML files of all the bulletins are archived [here] (XML-bulletins/).
- * 
+  
 A photographic documentation of the printing process, the setup, the outputs and the final exhibition can be found [here] (photos/).
 
 
