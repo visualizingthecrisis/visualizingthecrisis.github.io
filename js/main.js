@@ -56,11 +56,12 @@ if(count)counter=count;
     if(filters){
       if(parseInt($(sections[s]).attr('order'))<1)continue;
     }
+    /*
     var kkk="";
     if(filters){
       kkk=" Keywords: "+$(sections[s]).attr('order');
-    }
-    var $section_div=$("<div class='section'><div style='width:100%'>Section:"+(s+1)+kkk+"</div></div>");
+    }*/
+    var $section_div=$("<div class='section'></div>");//<div style='width:100%'>Section:"+(s+1)+kkk+"</div>
     $("#bulletin-container").append($section_div);
     var elements=$(sections[s]).children();
     for (var i = 0; i < elements.length; ++i) {
