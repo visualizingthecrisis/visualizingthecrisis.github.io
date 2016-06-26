@@ -10,3 +10,5 @@ The dense information graphics designed by the students are reduced to their ess
 The [syntax] (../specifications/specification.xml) of the XML bulletins is such that they are both readable to the layman but suitable for machine output, itself an exercise in informational clarity. XML was chosen due to its accessibility as a language for a primarily non-technical working group, yet which supported a relatively simple transfer between physical and digital outputs.
 
 The student cohort collectively devised and agreed upon a system of 64 keywords that categorised the world, so that information could be easily cross-referenced, compared and contrasted. They range from geographies, resources, population types, financial definitions and industries. The complete list can be viewed [here] (../keywords.xml).
+
+In order for the students to visualize and check their XML files before committing any change to the Github repositories, an editor has been designed and provided them as an editing tool. It can be accessed [here] (http://visualizingthecrisis.github.io/editor.html).
